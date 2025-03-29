@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets and executables
+generator/earningscall_generator.py
+generator/translator.py
+
+# Optional: raw data
+generator/*.txt
