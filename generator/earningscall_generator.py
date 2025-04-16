@@ -12,7 +12,10 @@ def main(pres_path, qna_path, output_name):
     pres_text = read_file(pres_path)
     qna_text = read_file(qna_path)
 
-    output_dir = os.path.join("..", "docs", "translated", "4Q24")
+    #해당 아래 디렉토리에 저장하게 됩니다!
+    quarter_dir = "4Q24"
+    output_dir = os.path.join("..", "docs", "translated", quarter_dir)
+
     os.makedirs(output_dir, exist_ok=True)
     output_file = f"{output_name}_translated_output.html"
     output_path = os.path.join(output_dir, output_file)
@@ -29,7 +32,7 @@ def main(pres_path, qna_path, output_name):
 
     print(f"[✔] HTML 저장 완료: {output_path}")
 
-    update_index_html(output_file)
+    update_index_html(output_file, quarter_dir)
     git_commit_and_push(output_file)
 
 if __name__ == "__main__":
