@@ -28,9 +28,9 @@ def translate_text(text, model="claude-3-5-sonnet-20241022"):
         model=model,
         max_tokens=1000,
         temperature=0.3,
-        system="너는 금융 전문 번역가야. 영어 텍스트를 자연스럽고 정확한 한국어로 번역해줘. 문맥과 어투를 잘 살려줘.",
+        system="You are a professional financial translator. Translate the following earnings call transcript into natural, accurate Korean while preserving financial terminology and the speaker's tone. Ensure that the translation is fluent and professional, suitable for Korean-speaking investors.",
         messages=[
-            {"role": "user", "content": f"다음 텍스트를 한국어로 번역해줘:\n\n{text}"}
+            {"role": "user", "content": f"Translate the following:\n\n{text}"}
         ]
     )
     return resp.content[0].text.strip()
@@ -40,12 +40,13 @@ def summarize_text(text, model="claude-3-5-sonnet-20241022"):
         model=model,
         max_tokens=500,
         temperature=0.3,
-        system="너는 금융 실적 발표 요약 전문가야. 다음 내용을 간결하고 명확하게 핵심만 요약해줘. 중립적인 어조로 3~5줄이면 충분해.",
+        system="You are a financial analyst specializing in corporate earnings calls. Summarize the following transcript in 3–5 concise, clear, and unbiased bullet points. Focus on key financial metrics, guidance updates, tone of management, and any implied risks or strengths. The summary should be written in Korean and tailored for professional investors.",
         messages=[
-            {"role": "user", "content": f"다음 내용을 요약해줘:\n\n{text}"}
+            {"role": "user", "content": f"Summarize the following transcript:\n\n{text}"}
         ]
     )
     return resp.content[0].text.strip()
+
 
 def process_section(title, text):
     print(f"[📄] '{title}' 파트 번역 시작")
