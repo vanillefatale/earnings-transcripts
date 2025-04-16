@@ -40,7 +40,7 @@ def render_html_document(sections):
     hr {{ margin: 50px 0; border: none; border-top: 1px solid #ccc; }}
     .back-button {{
         display: inline-block;
-        background-color: #007acc;
+        background-color: #5f5f5f;
         color: white;
         padding: 10px 16px;
         border-radius: 6px;
@@ -51,7 +51,7 @@ def render_html_document(sections):
     }}
 </style>
 </head><body>
-<a href="../../index.html" class="back-button">← 목록으로 돌아가기</a>
+<a href="../../index.html" class="back-button">←</a>
 <h1>📄 Earnings Call Transcript 번역 결과</h1>
 {body}
 </body></html>"""

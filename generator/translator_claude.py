@@ -24,16 +24,20 @@ def smart_split(text, max_chunk_size=700):
     return chunks
 
 def translate_text(text, model="claude-3-5-sonnet-20241022"):
-    resp = client.messages.create(
-        model=model,
-        max_tokens=1000,
-        temperature=0.3,
-        system="You are a professional financial translator. Translate the following earnings call transcript into natural, accurate Korean while preserving financial terminology and the speaker's tone. Ensure that the translation is fluent and professional, suitable for Korean-speaking investors. Only return the summary content itself, without any introductory phrases like 'summary' or 'for professional investors.'Use a neutral, concise tone suitable for Korean-speaking investors, but do not include headers or labels.",
-        messages=[
-            {"role": "user", "content": f"\n\n{text}"}
-        ]
-    )
-    return resp.content[0].text.strip()
+    for attempt in range(3):
+        try:
+            resp = client.messages.create(
+                model=model,
+                max_tokens=1000,
+                temperature=0.3,
+                system="...",
+                messages=[{"role": "user", "content": f"..."}]
+            )
+            return resp.content[0].text.strip()
+        except anthropic._exceptions.OverloadedError as e:
+            print(f"[🔁] Claude 서버 과부하. {attempt + 1}번째 재시도 중...")
+            time.sleep(5 * (attempt + 1))
+    raise RuntimeError("Claude 서버가 과부하 상태입니다. 잠시 후 다시 시도해주세요.")
 
 def summarize_text(text, model="claude-3-5-sonnet-20241022"):
     resp = client.messages.create(
