@@ -28,6 +28,9 @@ def update_index_html(filename, quarter_dir):
         new_items = items + "\n" + new_link
         updated_section = before + new_items + "\n" + after
         updated_content = content.replace(match.group(0), updated_section)
+    else:
+        new_section = f'\n    <h2>{quarter_dir}</h2>\n    <ul>\n{new_link}\n    </ul>\n'
+        updated_content = content.replace("</div>", new_section + "  </div>")
 
     with open(index_path, 'w', encoding='utf-8') as f:
         f.write(updated_content)
