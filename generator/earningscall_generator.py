@@ -3,17 +3,22 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 import argparse
 import os
-from translator import read_file, process_section
+#from translator_gpt import read_file, process_section
+from translator_claude import read_file, process_section
 from renderer import render_html_document
 from updater import update_index_html
 from git_utils import git_commit_and_push
 
-def main(pres_path, qna_path, output_name):
-    pres_text = read_file(pres_path)
-    qna_text = read_file(qna_path)
-
+def main(output_name):
     #해당 아래 디렉토리에 저장하게 됩니다!
-    quarter_dir = "4Q24"
+    quarter_dir = "1Q25"
+
+    pres_filename = f"{output_name}_presentation.txt"
+    qna_filename = f"{output_name}_qna.txt"
+
+    pres_text = read_file(pres_filename)
+    qna_text = read_file(qna_filename)
+
     output_dir = os.path.join("..", "docs", "translated", quarter_dir)
 
     os.makedirs(output_dir, exist_ok=True)
@@ -37,9 +42,7 @@ def main(pres_path, qna_path, output_name):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("presentation", help="presentation.txt 파일")
-    parser.add_argument("qna", help="qna.txt 파일")
     parser.add_argument("output", help="파일명 (예: DPZ_4Q24)")
     args = parser.parse_args()
 
-    main(args.presentation, args.qna, args.output)
+    main(args.output)
