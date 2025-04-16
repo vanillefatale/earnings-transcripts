@@ -4,7 +4,8 @@ __pycache__/
 
 # Secrets and executables
 generator/earningscall_generator.py
-generator/translator.py
+
+.env
 
 # Optional: raw data
 generator/*.txt
