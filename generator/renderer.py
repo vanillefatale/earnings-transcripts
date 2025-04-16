@@ -38,8 +38,20 @@ def render_html_document(sections):
     td {{ padding: 10px; border-bottom: 1px dotted #ccc; vertical-align: top; }}
     p {{ line-height: 1.6; }}
     hr {{ margin: 50px 0; border: none; border-top: 1px solid #ccc; }}
+    .back-button {{
+        display: inline-block;
+        background-color: #007acc;
+        color: white;
+        padding: 10px 16px;
+        border-radius: 6px;
+        text-decoration: none;
+        font-weight: 500;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        margin-bottom: 30px;
+    }}
 </style>
 </head><body>
+<a href="../../index.html" class="back-button">← 목록으로 돌아가기</a>
 <h1>📄 Earnings Call Transcript 번역 결과</h1>
 {body}
 </body></html>"""
