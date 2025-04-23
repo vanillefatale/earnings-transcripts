@@ -62,7 +62,6 @@ def process_section(title, text):
             translations.append("")  # 빈 문단은 그대로 비워두거나 '[빈 문단]' 등으로 대체
         else:
             translations.append(translate_text(chunk))
-            translations.append(translate_text(chunk))
         time.sleep(0.5)
 
     summary = summarize_text(text)
