@@ -58,6 +58,8 @@ def process_section(title, text):
     translations = []
 
     for chunk in tqdm(chunks, desc=title):
+        if not chunk.strip():  # 공백 문자열이면 skip
+           continue
         translations.append(translate_text(chunk))
         time.sleep(0.5)
 
