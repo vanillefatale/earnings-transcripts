@@ -58,9 +58,11 @@ def process_section(title, text):
     translations = []
 
     for chunk in tqdm(chunks, desc=title):
-        if not chunk.strip():  # 공백 문자열이면 skip
-           continue
-        translations.append(translate_text(chunk))
+        if not chunk.strip():
+            translations.append("")  # 빈 문단은 그대로 비워두거나 '[빈 문단]' 등으로 대체
+        else:
+            translations.append(translate_text(chunk))
+            translations.append(translate_text(chunk))
         time.sleep(0.5)
 
     summary = summarize_text(text)
