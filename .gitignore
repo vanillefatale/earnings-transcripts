@@ -6,6 +6,6 @@ __pycache__/
 generator/earningscall_generator.py
 
 .env
-
+venv/
 # Optional: raw data
 generator/*.txt
