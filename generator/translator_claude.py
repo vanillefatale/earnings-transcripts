@@ -23,7 +23,7 @@ def smart_split(text, max_chunk_size=700):
     if current: chunks.append(current.strip())
     return chunks
 
-def translate_text(text, model="claude-3-5-sonnet-20241022"):
+def translate_text(text, model="claude-sonnet-4-20250514"):
     for attempt in range(3):
         try:
             resp = client.messages.create(
