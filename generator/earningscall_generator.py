@@ -5,6 +5,7 @@ import argparse
 import os
 #from translator_gpt import read_file, process_section
 from translator_claude import read_file, process_section
+from translator_qna_claude import process_qna_section
 from renderer import render_html_document
 from updater import update_index_html
 from git_utils import git_commit_and_push
@@ -26,10 +27,20 @@ def main(output_name):
     output_path = os.path.join(output_dir, output_file)
 
     sections = []
-    for title, text in [("📊 Presentation", pres_text), ("❓ Q&A", qna_text)]:
-        result = process_section(title, text)
-        sections.append(result)
-
+    # QnA 파트 분리
+    # for title, text in [("📊 Presentation", pres_text), ("❓ Q&A", qna_text)]:
+    #     result = process_section(title, text)
+    #     sections.append(result)
+    # Presentation 파트는 기존 방식으로 처리
+    print("[📊] Presentation 파트 처리 중...")
+    pres_result = process_section("📊 Presentation", pres_text)
+    sections.append(pres_result)
+    
+    # Q&A 파트는 화자별 구분 방식으로 처리
+    print("[❓] Q&A 파트 처리 중...")
+    qna_result = process_qna_section("❓ Q&A", qna_text)
+    sections.append(qna_result)
+    
     html = render_html_document(sections)
 
     with open(output_path, 'w', encoding='utf-8') as f:
