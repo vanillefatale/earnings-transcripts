@@ -171,45 +171,57 @@ def parse_qna_speakers(text):
     
     return speakers
 
-def translate_qna_text(text, speaker_type, model="claude-sonnet-4-20250514"):
+def translate_qna_text(text, speaker_type, speaker_name=None, model="claude-sonnet-4-20250514"):
     """Q&A 전용 번역 함수"""
     
+    # 화자명과 내용 분리
+    if speaker_name:
+        content_to_translate = text
+        speaker_prefix = f"**{speaker_name}:** "
+    else:
+        speaker_prefix = ""
+        content_to_translate = text
+    
     if speaker_type == "question":
-        system_prompt = """You are a professional financial translator specializing in earnings call Q&A sessions. Translate the following analyst question into natural, accurate Korean following these rules:
+        system_prompt = """You are a professional financial translator specializing in earnings call Q&A sessions. Translate the following analyst question into natural, fluent Korean following these rules:
 
-1. Speaker format: Use '**Name (Company):**' format exactly as provided in English
-2. Professional tone: Use formal, professional Korean suitable for financial reports
-3. Financial terminology: Use standard Korean financial terms, add English terms in parentheses for first occurrence of important terms
-4. Numbers: Follow Korean number formatting conventions
-5. Output in Korean only
-
-Translate the analyst question maintaining the questioning tone and financial accuracy."""
-        
-    elif speaker_type == "answer":
-        system_prompt = """You are a professional financial translator specializing in earnings call Q&A sessions. Translate the following management response into natural, accurate Korean following these rules:
-
-1. Speaker format: Use '**Name:**' format exactly as provided in English
-2. Professional tone: Use formal, professional Korean suitable for financial reports
-3. Financial terminology: Use standard Korean financial terms, add English terms in parentheses for first occurrence of important terms
-4. Numbers: Follow Korean number formatting conventions
-5. Paragraph breaks: Use natural paragraph breaks for long responses
-6. Preserve authoritative tone of executives
+1. Do NOT include speaker names in translation - only translate the spoken content
+2. Use natural, conversational Korean tone suitable for professional meetings
+3. Financial terminology: Use standard Korean financial terms, add English terms in parentheses for first occurrence
+4. Numbers: Follow Korean number formatting conventions  
+5. Maintain the questioning tone naturally
+6. Avoid overly formal or translation-like expressions
 7. Output in Korean only
 
-Translate the management response maintaining the authoritative tone and financial accuracy."""
+Translate only the spoken content, maintaining natural flow."""
         
-    else:
-        # 기본 Q&A 번역 (Operator 등)
-        system_prompt = """You are a professional financial translator specializing in earnings call Q&A sessions. Translate the following Q&A content into natural, accurate Korean following these rules:
+    elif speaker_type == "answer":
+        system_prompt = """You are a professional financial translator specializing in earnings call Q&A sessions. Translate the following management response into natural, fluent Korean following these rules:
 
-1. Speaker format: Use '**Name:**' format exactly as provided in English
-2. Professional tone: Use formal, professional Korean suitable for financial reports  
+1. Do NOT include speaker names in translation - only translate the spoken content
+2. Use natural, conversational Korean tone suitable for executive communication
 3. Financial terminology: Use standard Korean financial terms, add English terms in parentheses for first occurrence
 4. Numbers: Follow Korean number formatting conventions
-5. Structure: Maintain clear speaker distinction and paragraph breaks
-6. Output in Korean only
+5. Preserve confident, authoritative tone naturally
+6. Avoid overly formal or translation-like expressions
+7. Use natural paragraph breaks for long responses
+8. Output in Korean only
 
-Translate maintaining the original tone and financial accuracy."""
+Translate only the spoken content, maintaining executive confidence and natural flow."""
+        
+    else:
+        # 기본 번역 (Operator 등)
+        system_prompt = """You are a professional financial translator specializing in earnings call Q&A sessions. Translate the following content into natural, fluent Korean following these rules:
+
+1. Do NOT include speaker names in translation - only translate the spoken content
+2. Use natural, conversational Korean tone suitable for professional settings
+3. Financial terminology: Use standard Korean financial terms, add English terms in parentheses for first occurrence
+4. Numbers: Follow Korean number formatting conventions
+5. Maintain the original tone naturally
+6. Avoid overly formal or translation-like expressions  
+7. Output in Korean only
+
+Translate only the spoken content, maintaining natural flow."""
     
     for attempt in range(3):
         try:
@@ -218,9 +230,16 @@ Translate maintaining the original tone and financial accuracy."""
                 max_tokens=1500,
                 temperature=0.3,
                 system=system_prompt,
-                messages=[{"role": "user", "content": f"\n\n{text}"}]
+                messages=[{"role": "user", "content": f"Translate this content:\n\n{content_to_translate}"}]
             )
-            return resp.content[0].text.strip()
+            translation = resp.content[0].text.strip()
+            
+            # 화자명 추가
+            if speaker_prefix:
+                return speaker_prefix + translation
+            else:
+                return translation
+                
         except anthropic._exceptions.OverloadedError as e:
             print(f"[🔁] Claude 서버 과부하. {attempt + 1}번째 재시도 중...")
             time.sleep(5 * (attempt + 1))
@@ -278,18 +297,24 @@ def process_qna_section(title, text):
             translated_chunks = []
             
             for i, chunk in enumerate(content_chunks):
-                # 모든 청크에 화자 정보 포함 (맥락 유지)
-                translated_chunk = translate_qna_text(chunk, speaker_type)
+                # 첫 번째 청크만 화자명 포함
+                if i == 0:
+                    translated_chunk = translate_qna_text(chunk, speaker_type, speaker_name=speaker)
+                else:
+                    translated_chunk = translate_qna_text(chunk, speaker_type)
                 translated_chunks.append(translated_chunk)
                 time.sleep(0.5)
             
             # 청크들을 합침
-            full_translation = " ".join(translated_chunks)
+            full_translation = translated_chunks[0]  # 첫 번째는 화자명 포함
+            if len(translated_chunks) > 1:
+                full_translation += " " + " ".join(translated_chunks[1:])
+            
             chunks.append(f"{speaker}: {content}")
             translations.append(full_translation)
         else:
             # 짧은 내용은 한 번에 번역
-            translation = translate_qna_text(content, speaker_type)
+            translation = translate_qna_text(content, speaker_type, speaker_name=speaker)
             chunks.append(f"{speaker}: {content}")
             translations.append(translation)
             time.sleep(0.5)
