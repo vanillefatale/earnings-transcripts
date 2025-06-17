@@ -23,50 +23,151 @@ def smart_split(text, max_chunk_size=700):
     if current: chunks.append(current.strip())
     return chunks
 
+def determine_speaker_type(speaker):
+    """화자 유형을 더 정확하게 판별"""
+    speaker_lower = speaker.lower()
+    
+    # Operator는 중립
+    if 'operator' in speaker_lower:
+        return None
+        
+    # 회사명이 포함된 경우 (– 또는 - 로 구분) = 애널리스트
+    if ' – ' in speaker or ' - ' in speaker:
+        return "question"
+    
+    # 일반적인 애널리스트 회사명들
+    analyst_companies = ['sidoti', 'davenport', 'blackrock', 'deutsche', 'goldman', 'jpmorgan', 
+                        'morgan stanley', 'wells fargo', 'credit suisse', 'barclays', 'citi']
+    if any(company in speaker_lower for company in analyst_companies):
+        return "question"
+    
+    # 임원 직책들
+    exec_titles = ['ceo', 'cfo', 'president', 'chairman', 'chief', 'director']
+    if any(title in speaker_lower for title in exec_titles):
+        return "answer"
+    
+    # 기본적으로 단순 이름만 있으면 경영진으로 간주
+    if len(speaker.split()) <= 3 and not any(char in speaker for char in ['-', '–', '(', ')']):
+        return "answer"
+    
+    return None
+
 def parse_qna_speakers(text):
     """Q&A 텍스트에서 화자별로 구분하여 파싱"""
-    patterns = [
-        r'(Analyst|Question|Q):\s*(.+?)(?=(?:Analyst|Question|Q|Answer|A|Management|CEO|CFO|Executive):|$)',
-        r'(Answer|A|Management|CEO|CFO|Executive|[A-Z][a-z]+ [A-Z][a-z]+):\s*(.+?)(?=(?:Analyst|Question|Q|Answer|A|Management|CEO|CFO|Executive):|$)',
-        r'([A-Z][a-z]+ [A-Z][a-z]+):\s*(.+?)(?=(?:[A-Z][a-z]+ [A-Z][a-z]+):|$)'
-    ]
+    
+    print(f"[🔍] 텍스트 샘플 (처음 300자):\n{text[:300]}...")
     
     speakers = []
     lines = text.split('\n')
     current_speaker = None
     current_text = ""
     
-    for line in lines:
-        line = line.strip()
+    i = 0
+    while i < len(lines):
+        line = lines[i].strip()
+        
+        # 빈 줄 건너뛰기
         if not line:
+            i += 1
             continue
             
-        # 화자 패턴 매칭
-        speaker_match = None
-        for pattern in patterns:
-            match = re.match(pattern, line, re.DOTALL | re.IGNORECASE)
-            if match:
-                speaker_match = match
-                break
-        
-        if speaker_match:
-            # 이전 화자 내용 저장
+        # 세션 헤더 건너뛰기
+        if 'Question-and-Answer Session' in line:
+            i += 1
+            continue
+            
+        # Operator 처리 (특별 케이스)
+        if line == "Operator":
+            # 이전 화자 저장
             if current_speaker and current_text.strip():
                 speakers.append((current_speaker, current_text.strip()))
             
-            # 새로운 화자 시작
-            current_speaker = speaker_match.group(1)
-            current_text = speaker_match.group(2) if len(speaker_match.groups()) > 1 else ""
+            current_speaker = "Operator"
+            current_text = ""
+            i += 1
+            
+            # Operator 발언 수집
+            while i < len(lines):
+                next_line = lines[i].strip()
+                if not next_line:
+                    i += 1
+                    continue
+                    
+                # 다음 화자인지 확인
+                if ((' – ' in next_line or ' - ' in next_line) or 
+                    (next_line and not next_line.startswith('(') and 
+                     len(next_line.split()) <= 3 and 
+                     next_line[0].isupper() and 
+                     ':' not in next_line and
+                     next_line != "Operator")):
+                    break
+                else:
+                    if current_text:
+                        current_text += " " + next_line
+                    else:
+                        current_text = next_line
+                    i += 1
+            continue
+            
+        # 화자 라인 감지
+        is_speaker_line = False
+        
+        # 회사명 포함 형식 확인
+        if ' – ' in line or ' - ' in line:
+            is_speaker_line = True
+        # 단순 이름 형식 확인 (3단어 이하, 대문자 시작, 콜론 없음)
+        elif (len(line.split()) <= 3 and line[0].isupper() and ':' not in line and 
+              not line.startswith('(') and not line.startswith('Thank') and
+              not any(word in line.lower() for word in ['thank', 'question', 'next', 'sir', 'madam'])):
+            is_speaker_line = True
+            
+        if is_speaker_line:
+            # 이전 화자 저장
+            if current_speaker and current_text.strip():
+                speakers.append((current_speaker, current_text.strip()))
+            
+            # 새 화자 시작
+            current_speaker = line
+            current_text = ""
+            i += 1
+            
+            # 해당 화자의 발언 수집
+            while i < len(lines):
+                next_line = lines[i].strip()
+                if not next_line:
+                    i += 1
+                    continue
+                    
+                # 다음 화자인지 확인
+                next_is_speaker = False
+                if next_line == "Operator":
+                    next_is_speaker = True
+                elif ' – ' in next_line or ' - ' in next_line:
+                    next_is_speaker = True
+                elif (len(next_line.split()) <= 3 and next_line[0].isupper() and 
+                      ':' not in next_line and not next_line.startswith('(') and 
+                      not next_line.startswith('Thank') and
+                      not any(word in next_line.lower() for word in ['thank', 'question', 'next', 'sir', 'madam'])):
+                    next_is_speaker = True
+                
+                if next_is_speaker:
+                    break
+                else:
+                    if current_text:
+                        current_text += " " + next_line
+                    else:
+                        current_text = next_line
+                    i += 1
         else:
-            # 기존 화자 내용에 추가
-            if current_text:
-                current_text += " " + line
-            else:
-                current_text = line
+            i += 1
     
-    # 마지막 화자 내용 저장
+    # 마지막 화자 저장
     if current_speaker and current_text.strip():
         speakers.append((current_speaker, current_text.strip()))
+    
+    print(f"[📊] 파싱 결과: {len(speakers)}명의 화자 발견")
+    for i, (speaker, content) in enumerate(speakers[:5]):
+        print(f"  {i+1}. {speaker}: {content[:80]}...")
     
     return speakers
 
@@ -98,17 +199,17 @@ Translate the analyst question maintaining the questioning tone and financial ac
 Translate the management response maintaining the authoritative tone and financial accuracy."""
         
     else:
-        # 기본 Q&A 번역
+        # 기본 Q&A 번역 (Operator 등)
         system_prompt = """You are a professional financial translator specializing in earnings call Q&A sessions. Translate the following Q&A content into natural, accurate Korean following these rules:
 
-1. Speaker format: Use '**Name (Company):**' or '**Name:**' format exactly as provided in English
+1. Speaker format: Use '**Name:**' format exactly as provided in English
 2. Professional tone: Use formal, professional Korean suitable for financial reports  
 3. Financial terminology: Use standard Korean financial terms, add English terms in parentheses for first occurrence
 4. Numbers: Follow Korean number formatting conventions
 5. Structure: Maintain clear speaker distinction and paragraph breaks
 6. Output in Korean only
 
-Translate maintaining speaker tones and financial accuracy."""
+Translate maintaining the original tone and financial accuracy."""
     
     for attempt in range(3):
         try:
@@ -168,24 +269,17 @@ def process_qna_section(title, text):
         if not content.strip():
             continue
             
-        # 화자 유형 판별
-        speaker_lower = speaker.lower()
-        if any(keyword in speaker_lower for keyword in ['analyst', 'question', 'q']):
-            speaker_type = "question"
-        elif any(keyword in speaker_lower for keyword in ['answer', 'a', 'management', 'ceo', 'cfo', 'executive']) or len(speaker.split()) == 2:
-            speaker_type = "answer"
-        else:
-            speaker_type = None
-            
+        # 개선된 화자 유형 판별
+        speaker_type = determine_speaker_type(speaker)
+        
         # 긴 답변의 경우 청크로 분할
         if len(content) > 800:
             content_chunks = smart_split(content, max_chunk_size=800)
             translated_chunks = []
             
             for i, chunk in enumerate(content_chunks):
-                # 첫 번째 청크만 화자 정보 포함
-                chunk_speaker_type = speaker_type if i == 0 else None
-                translated_chunk = translate_qna_text(chunk, chunk_speaker_type)
+                # 모든 청크에 화자 정보 포함 (맥락 유지)
+                translated_chunk = translate_qna_text(chunk, speaker_type)
                 translated_chunks.append(translated_chunk)
                 time.sleep(0.5)
             
