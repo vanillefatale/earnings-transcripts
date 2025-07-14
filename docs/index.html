@@ -58,8 +58,8 @@
   <div class="container">
     <h1>Translated Earnings Calls 모음</h1>
 
-    <h2 class="toggle-header" onclick="toggleSection()">4Q24 ▼</h2>
-    <div id="earnings-section">
+    <h2 class="toggle-header" data-target="section-4Q24" data-label="4Q24" onclick="toggleSection(this)">4Q24 ▼</h2>
+    <div id="section-4Q24">
       <ul>
         <li><a href="translated/4Q24/ALHC 4Q24 translated_output.html">Alignment Healthcare 4Q24</a></li>
         <li><a href="translated/4Q24/DPZ 4Q24 translated_output.html">Domino's Pizza 4Q24</a></li>
@@ -90,13 +90,10 @@
         <li><a href="translated/4Q24/RDDT_4Q24_translated_output.html">RDDT 4Q24</a></li>
         <li><a href="translated/4Q24/RDDT_3Q24_translated_output.html">RDDT 3Q24</a></li>
       </ul> 
-  
-    <h2>2Q25</h2>
-    <ul>
-      <li><a href="translated/2Q25/LEVI_2Q25_translated_output.html">LEVI 2Q25</a></li>
-    </ul>
-  </div>
-    <h2>FY25_NVDA</h2>
+    </div>
+
+    <h2 class="toggle-header" data-target="section-FY25_NVDA" data-label="FY25_NVDA" onclick="toggleSection(this)">FY25_NVDA ▼</h2>
+    <div id="section-FY25_NVDA">
     <ul>
       <li><a href="translated\FY25_NVDA\NVDA_UBS_20241203_translated_output.html">NVDA UBS(20241203)</a></li>
       <li><a href="translated\FY25_NVDA\NVDA_JPMorganHealthcare_20250113_translated_output.html">NVDA JP Morgan Healthcare(20250113)</a></li>
@@ -105,8 +102,11 @@
       <li><a href="translated\FY25_NVDA\NVDA_JPMorganTechnology_20250305_translated_output.html">NVDA JP Morgan Technology(20250305)</a></li>
     
       <li><a href="translated/FY25_NVDA/NVDA_1Q26_translated_output.html">NVDA 1Q26</a></li>
-</ul>
-    <h2>1Q25</h2>
+    </ul>
+    </div>
+
+    <h2 class="toggle-header" data-target="section-1Q25" data-label="1Q25" onclick="toggleSection(this)">1Q25 ▼</h2>
+    <div id="section-1Q25">
     <ul>
       <li><a href="translated/1Q25/BAC_1Q25_translated_output.html">BAC 1Q25</a></li>
       <li><a href="translated/1Q25/ASML_1Q25_translated_output.html">ASML 1Q25</a></li>
@@ -343,7 +343,8 @@
       <li><a href="translated/1Q25/MU_3Q25_translated_output.html">MU 3Q25</a></li>
 
       <li><a href="translated/1Q25/NKE_4Q25_translated_output.html">NKE 4Q25</a></li>
-</ul>
+    </ul>
+    </div>
   
     <h2>2Q25</h2>
     <ul>
@@ -352,17 +353,15 @@
   </div>
 
   <script>
-    let isCollapsed = false;
+    function toggleSection(headerElement) {
+      const targetId = headerElement.getAttribute("data-target");
+      const section = document.getElementById(targetId);
 
-    function toggleSection() {
-      const section = document.getElementById("earnings-section");
-      const header = document.querySelector(".toggle-header");
-
-      isCollapsed = !isCollapsed;
-
-      section.style.display = isCollapsed ? "none" : "block";
-      header.innerHTML = isCollapsed ? "4Q24 ▶" : "4Q24 ▼";
+      const isCollapsed = section.style.display === "none";
+      section.style.display = isCollapsed ? "block" : "none";
+      headerElement.innerHTML = isCollapsed ? `${headerElement.dataset.label} ▼` : `${headerElement.dataset.label} ▶`;
     }
   </script>
+
 </body>
 </html>
