@@ -1,0 +1,83 @@
+Coupang, Inc. (NYSE:CPNG) Q2 2025 Earnings Conference Call August 5, 2025 5:30 PM ET
+
+Company Participants
+
+Bom Suk Kim - Founder, CEO & Chairman
+Gaurav Anand - Chief Financial Officer
+Michael Parker - Vice President of Investor Relations
+
+Conference Call Participants
+
+Jiong Shao - Barclays Bank PLC, Research Division
+Minuh Cha - Goldman Sachs Group, Inc., Research Division
+Seyon Park - Morgan Stanley, Research Division
+Stanley Yang - JPMorgan Chase & Co, Research Division
+Wei Fang - Mizuho Securities USA LLC, Research Division
+
+Operator
+
+Hello, everyone. My name is Krista, and I will be your conference operator today. At this time, I would like to welcome everyone to the Coupang 2025 Second Quarter Earnings Conference Call. [Operator Instructions]
+
+Now I'd like to turn the call over to Mike Parker, Vice President of Investor Relations. You may begin your conference.
+
+Michael Parker
+
+Thanks, operator. Welcome, everyone, to Coupang's Second Quarter 2025 Earnings Conference Call. I'm pleased to be joined on the call today by our Founder and CEO, Bom Kim; and our CFO, Gaurav Anand.
+
+The following discussion, including responses to your questions, reflects management's views as of today's date only. We do not undertake any obligation to update or revise this information, except as required by law. Certain statements made on today's call may include forward-looking statements. Actual results may differ materially. Additional information about factors that could potentially impact our financial results is included in today's press release and in our filings with the SEC, including our most recent annual report on Form 10-K and subsequent filings. As we share our second quarter 2025 results on today's call, the comparisons we make to prior periods will be on a year-over-year basis, unless otherwise noted.
+
+We may also present both GAAP and non-GAAP financial measures. Additional disclosures regarding these non-GAAP measures, including reconciliations of these measures to the most comparable GAAP measures are included in our earnings release, our slides accompanying this webcast and our SEC filings, which are posted on the company's Investor Relations website.
+
+And now I'll turn the call over to Bom.
+
+Bom Suk Kim
+
+Thanks, everyone, for joining us today. I'll start first with a few highlights for the quarter. We carried the solid momentum from the start of the year into a strong Q2. We grew consolidated revenue 16% year-over-year or 19% in constant currency to $8.5 billion. Along with that growth, we also delivered another quarter of margin expansion, most evident in our Product Commerce segment, where gross profit margins expanded nearly 230 basis points to 32.6% and adjusted EBITDA margins grew 80 basis points to over 9%. On a consolidated basis, we generated $428 million of adjusted EBITDA, growing margins by over 50 basis points while also investing aggressively for the future.
+
+Our results continue to highlight 2 key points. First, we remain in the early stages of a multi-decade journey. to transform commerce and WOW customers across the markets we serve. Second, every improvement we make in selection, price and service strengthens customer engagement, enabling us to lower costs and create a virtuous cycle of value for our customers, sellers and brands. Perhaps nowhere is that more visible than in our Product Commerce segment, where we're rapidly expanding Rocket selection while continuing to redefine customer expectations around delivery speed. In addition to adding over 0.5 million new items on Rocket in the past quarter alone, we increased our same-day and on-delivery volume by more than 40% compared to the same period last year.
+
+Our investments in customer experience continue to drive deeper customer adoption and engagement, fueling the durable revenue growth at high multiples of the relatively flat Korean retail market. This quarter, we accelerated Product Commerce active customer additions and saw a significant lift in revenue per active customer. The majority of revenue growth this quarter was driven by our existing customers with all customer cohorts, even the most mature, demonstrating robust double-digit spending increases. And as we continue to expand selection to match customer preferences, they're also purchasing across a broader number of categories.
+
+Another highlight is our Fresh category, one of the many categories we offer to consumers within Product Commerce. This quarter, Fresh grew revenues 25% in constant currency year-over-year. We significantly expanded our fresh assortment, especially in produce, meat and seafood, resulting in a sharp increase in customers using Fresh and total spend this quarter. Fresh's strong performance underscores a broader pattern we're seeing across multiple categories, where customers continue to respond with enthusiasm to enhancements in service levels and product selection.
+
+Fulfillment and Logistics by Coupang or FLC, continues its impressive momentum with volumes, selection and sellers all growing several times faster than the rate of the overall Product Commerce segment. We're making significant investments to enhance FLC's
+
+tools and services, empowering sellers to leverage our leading Fulfillment and Logistics infrastructure to expand their businesses. FLC has accelerated the growth of tens of thousands of SME sellers, over 70% of whom operate outside of Seoul, making FLC an essential driver of economic revitalization for underserved regional economies across Korea.
+
+We're also excited by the potential of automation and AI to accelerate our efforts to innovate around the customer experience and drive operational excellence. As we invest further into these capabilities, we see significant opportunities to enhance service levels while simultaneously achieving meaningful cost savings. Just as our core Product Commerce offerings like Fresh and FLC have become powerful drivers of long-term growth, our developing offerings portfolio is positioned to unlock significant market opportunities and generate meaningful cash flow streams in the years ahead. Taiwan is a prime example of such an opportunity.
+
+One of our top priorities this year has been to considerably broaden our selection and improve inventory availability, a common challenge during hyper growth. Hundreds of top brands are now working directly with us, a number that increased exponentially in the past quarter, enabling us to dramatically expand supply for our customers. The customer response has been equally dramatic with revenues accelerating rapidly. Our Taiwan offering is growing faster and stronger than even the most optimistic forecast we set at the beginning of the year.
+
+After ending last year in Q4 with a quarter-over-quarter revenue growth of 23%, this quarter revenues surged 54% quarter-over- quarter, more than double the pace of revenue growth from just 2 quarters ago. Year-over-year revenue growth was triple digits in Q2, and we expect that to be even higher in Q3. What's most encouraging is that this growth is primarily fueled by repeat customers. While new customer additions did contribute to growth and a quarter-over-quarter increase of nearly 40% in active customers, the majority of the revenue growth and acceleration we saw this quarter stem from the continued strengthening of spend and retention across our existing customer cohorts. Our conviction in the long-term potential of Taiwan is only growing as we're seeing a trajectory similar to what we saw in the early years of scaling our retail offering in Korea.
+
+In Eats, we continue to see strong momentum, reflecting our relentless efforts to WOW customers with the best selection, amazing value and the fastest and most reliable delivery experience. With Coupang Play, our digital content and live entertainment service in Korea, we continue to expand our offerings to delight customers. This quarter, we launched Sports Pass, a new offering that provides customers with premium access to a broader range of popular live sports content from the Premier League and La Liga for soccer to the NBA and NFL to NASCAR and F1 racing. We're also excited to share that Play is now available to all Coupang customers in Korea, including non-WOW members who can enjoy a wide selection of original series, movies, shows and news at no cost, supported by advertising.
+
+As we reflect on the quarter and our positioning across the markets we serve, we believe Coupang's opportunity is massive and still largely untapped. Our commitment to customer obsession, operational excellence and disciplined capital allocation continues to guide our approach. We're more excited than ever about what lies ahead.
+
+Now I'll turn the call over to our CFO, Gaurav Anand, to walk you through the financial results of the quarter in more detail.
+
+Gaurav Anand
+
+Thanks, Bom. This quarter, we saw a continuation of the strong momentum across our business that we saw last quarter in both growth and margin expansion. Total net revenues this quarter grew 16% year-over-year or 19% in constant currency. This quarter, we saw an improvement of the Korean won versus the U.S. dollar related to the levels we have seen over the past few quarters. However, given historical volatility in foreign currency rates, we believe it remains important to evaluate our growth on a constant currency basis.
+
+As Bom noted, we continue to see strong levels of growth coming from all our customer cohorts in Korea, even our oldest. This demonstrates the tremendous untapped potential for future growth as our newer cohorts follow the trends of our most mature customer cohorts. This quarter, Product Commerce segment revenues grew 14% year-over-year or 17% in constant currency. This growth was driven by both higher spend levels per active customer as well as an acceleration of growth in Product Commerce active customers to 10% this quarter.
+
+Developing Offerings segment revenues in Q2 grew 33% year-over-year on both a reported and constant currency basis. This growth is driven by an accelerating triple-digit growth rate in Taiwan and a high double-digit growth rate in Eats as each of these newer offerings continues to scale.
+
+Along with the sustained growth in top line revenues, we also delivered significant growth in profitability. We reported $2.6 billion in consolidated gross profit growing 20% year-over-year or 22% in constant currency. This resulted in consolidated gross profit margin of 30%, improving 79 basis points versus last year.
+
+In our Product Commerce segment, we generated gross profit of $2.4 billion, growing 23% or 26% in constant currency. Gross profit margin was a record 32.6%, representing roughly 230 basis points of improvement over last year and 130 basis points versus last quarter. Our growth in margins is a result of many long-term initiatives around automation and technology investments and innovation and process improvement, supply chain optimization as well as growth in our margin-accretive categories and offerings. We expect these same initiatives to drive even further margin expansion in the quarters and years to come, though the pace of that growth will be uneven from quarter-to-quarter.
+
+OG&A expense as a percentage of revenue was 28.3% this quarter, representing a year-over-year increase of 36 basis points, excluding the KFTC administrative fine recorded in Q2 last year and 96 basis points over Q1. The year-over-year increase is mostly due to elevated levels of spend in our technology and infrastructure this year, while the quarter-over-quarter increase is primarily a result of increased expenses within developing offerings, including certain nonrecurring costs related to restructuring activities within Farfetch. However, we continue to expect consolidated OG&A expenses to decline as a percentage of revenues in the near to medium term.
+
+Operating income was $149 million this quarter, representing growth of 55% over last year, excluding the KFTC administrative fine recorded last year. Net income attributable to Coupang stockholders was $32 million. This resulted in $0.02 of diluted earnings per share. On a consolidated basis, we generated a record $428 million of adjusted EBITDA in Q2, an increase of 30% over last year, while also making significant investments into developing offerings this quarter. This led to an adjusted EBITDA margin of 5%, an increase of over 50 basis points from last year.
+
+As we have previously highlighted, we believe the eventual adjusted EBITDA margin potential of your business to be in excess of 10%. This potential is most evident in the near term in our Product Commerce segment, where this quarter, we delivered $663 million of adjusted EBITDA with a margin of just over 9%. This resulted in margin expansion of 80 basis points year-over-year and over 100 basis points quarter-over-quarter. Developing Offerings reported EBITDA losses this quarter of $235 million, reflecting an increased level of investment over last year and last quarter due primarily to acceleration in growth we saw in Taiwan this quarter.
+
+As a result of rapidly increasing potential we see within Developing Offerings, most notably in Taiwan, we now expect Developing Offerings adjusted EBITDA losses for the full year to be between $900 million and $950 million. This investment is a reflection of the increasing level of confidence we have in the near- and long-term potential for these offerings. Taiwan, in particular, accounts for the large majority of the revision in our full year estimate.
+
+We are excited about the accelerating levels of customer spend that's driving our increased investments in Taiwan as it follows a similar trend we saw in building our Product Commerce business in Korea. We see this as a very attractive investment given our confidence in our ability to compound revenue and improve margins over the years to come. And as always, we'll continue to balance these investments with our commitment to remain focused on disciplined capital allocation and operational excellence.
+
+On a trailing 12-month basis, we generated $1.9 billion in operating cash flow and $784 million of free cash flow, which decreased $729 million versus last year. This decrease is primarily driven by timing of CapEx spend as well as impacts of certain working capital fluctuations in the current and previous trailing 12-month periods that we expect to normalize by the end of the year.
+
+Our effective income tax rate was 84% this quarter, driven primarily by the losses in our early-stage operations in Taiwan as well as restructuring-related losses at Farfetch for which we received no tax benefit. We now anticipate a temporarily high effective tax rate of between 65% to 70% for the full year and our cash tax obligation for the year to be closer to 60%. Over the long term, we continue to expect to normalize to an effective tax rate closer to 25%. Operator, we are now ready to begin the Q&A.

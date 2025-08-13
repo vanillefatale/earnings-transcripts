@@ -1,0 +1,142 @@
+Warby Parker Inc. (NYSE:WRBY) Q2 2025 Earnings Conference Call August 7, 2025 8:00 AM ET
+
+Company Participants
+
+David Abraham Gilboa - Co-Founder, Co-CEO & Co-Chair
+Jaclyn Berkley - Head of Investor Relations
+Neil Harris Blumenthal - Co-Founder, President, Co-CEO & Co- Chair
+Steve Miller - Senior VP, CFO & Treasurer
+
+Conference Call Participants
+
+Brandon Babcock Cheatham - Citigroup Inc., Research Division
+Brooke Siler Roach - Goldman Sachs Group, Inc., Research Division
+Dana Lauren Telsey - Telsey Advisory Group LLC
+Mark R. Altschwager - Robert W. Baird & Co. Incorporated, Research Division
+Oliver Chen - TD Cowen, Research Division
+
+Operator
+
+Hello, and welcome to today's Warby Parker Second Quarter 2025 Earnings Conference Call. My name is Bailey, and I will be your moderator for today. [Operator Instructions]
+
+I'd now like to pass the conference over to Jaclyn Berkley, Head of Investor Relations, to begin. Please go ahead when you're ready.
+
+Jaclyn Berkley
+
+Thank you, and good morning, everyone. Here with me today are Neil Blumenthal and Dave Gilboa, our Co-Founders and Co-CEOs; alongside Steve Miller, Senior Vice President and Chief Financial Officer.
+
+Before we begin, we have a couple of reminders. Our earnings release and slide presentation are available on our website at investors.warbyparker.com. During this call and in our presentation, we will be making comments of a forward-looking nature. Actual results may differ materially from those expressed or implied as a result of various risks and uncertainties. For more information about some of these risks, please review the company's SEC filings, including the section titled Risk Factors in the company's latest annual report on Form 10-K. These forward-looking statements are based on information as of August 7, 2025, and except as required by law, we assume no obligation to publicly update or revise our forward-looking statements.
+
+Additionally, we will be discussing certain non-GAAP financial measures. These non-GAAP financial measures are in addition to and not a substitute for measures of financial performance prepared in accordance with U.S. GAAP. A reconciliation of our non- GAAP measures to the most directly comparable U.S. GAAP measures can be found in this morning's press release and our slide deck available on our IR website.
+
+And with that, I'll pass it over to Dave to kick us off.
+
+David Abraham Gilboa
+
+Thank you, Jaclyn, and good morning, everyone. 2025 has already been a busy and eventful year, and we're excited by the progress we're making toward Warby Parker's ambitious near- and long-term objectives. Our team delivered strong results in Q2, growing revenue 14% year-over-year and expanding adjusted EBITDA margin 130 basis points, both above the high end of our guidance, while delivering our eighth straight quarter of accelerating customer growth. These results reflect the team's disciplined execution and ability to adapt in a dynamic environment like we saw in April, including taking decisive actions to mitigate the impact of tariffs.
+
+We continue to lay a strong foundation for long-term growth by investing strategically, driving innovation, and forging key partnerships. In particular, we'd like to highlight some recent milestones that demonstrate progress against key pillars of our strategy to drive sustainable growth while creating positive impact along the way. In July, we opened our 300th store at Brookfield Place in Downtown Manhattan. And just a few days ago, we opened our very first Target shop-in-shops in Willowbrook, Illinois, and Bloomington, Minnesota. We're only 1/3 of the way to our long-term opportunity of more than 900 stand-alone stores across North America, underscoring the significant white space ahead.
+
+With additional scale, we are able to serve more customers than ever while having even greater impact. In Q2, we announced that we surpassed 20 million pairs of glasses distributed to people in need through our Buy Pair, Give a Pair program, a powerful reminder of the impact we're having on communities across the world. These milestones also reflect a natural evolution in how we are serving our customers today and in the future, one led by a highly productive store footprint and supported by increasingly personalized AI-driven digital tools and experiences. We'll speak more to how AI is transforming the way we serve customers later in this call, but we also wanted to highlight how excited we are to be developing devices that will enable our customers to engage AI seamlessly wherever they go.
+
+In May, we announced a long-term partnership with Google to develop AI-powered intelligent eyewear designed for all-day use, marking a transformative step for our brand and significantly expanding our TAM beyond traditional glasses. We believe glasses are the perfect form factor to leverage AI, enabling the delivery of real-time personalized insights tailored to what the wearer sees and hears as they move through the world. Glasses allow AI to understand the wearer's environment and surface relevant information without forcing someone to pull out their phone or look at a separate screen.
+
+Imagine the world's smartest assistant, ready with answers when you need them and invisible when you don't, embedded in a beautifully designed pair of glasses made for all-day wear. We're thrilled to partner with Google, an AI innovator renowned for technology that powers lives around the globe. Coupled with Warby Parker's capabilities in product design, eye care, retail operations, customer experience, and tech-enabled innovation, we believe our partnership is uniquely positioned for this rapidly evolving space. We see tremendous potential in what Warby Parker and Google can achieve together and look forward to sharing more in the coming months.
+
+It's been an active and productive first half, and we're pleased with our momentum heading into the rest of the year, which gives us confidence to raise our full-year guidance. Before Steve talks through our financials and guidance, Neil and I will recap the drivers of our Q2 performance.
+
+I'll start first with our eighth consecutive quarter of accelerating active customer growth. We ended Q2 with 2.6 million active customers, an increase of 9% on a trailing 12-month basis, with average revenue per customer up 4.6%. Our retail channel remains our primary growth engine, and we continue to see strong growth in active customers generated through our stores.
+
+In Q2, we invested across a broad mix of paid media channels to drive brand awareness and acquire new customers. As we shared in February, a key focus this year has been leveraging even more advanced analytics, including media mix modeling to optimize core spend and scale into newer high-potential channels. This approach has proven especially valuable in the first half, allowing us to adapt quickly and sustain momentum in a dynamic environment. We're also seeing encouraging results from new streaming and localized campaigns, whether through in-store events or targeted local media aimed at driving awareness for our stores and eye exams.
+
+Complementary to our core marketing efforts is strong growth within our insurance business, and we're especially encouraged by the continued ramp of Versant Health. Insurance customers are some of our highest value customers, spending more on their initial purchases, selecting progressive lenses at a higher rate, and returning more frequently. We believe insurance will remain a long-term tailwind as we drive broader awareness of our in-network and out-of-network benefits.
+
+We're pleased to report consistency in our revenue retention metrics across cohorts, with revenue retention rates of approximately 50% over 24 months and over 100% over 48 months.
+
+And now I'll pass it over to Neil to walk through the remaining drivers.
+
+Neil Harris Blumenthal
+
+Co-Founder, President, Co-CEO & Co-Chair
+
+Thanks, Dave. Next, we saw strong demand across glasses, supported by ongoing product and lens innovation as well as our continued focus on delivering exceptional value to our customers. Glasses grew approximately 11% year-over-year, with progressives accounting for approximately 23% of prescription units sold. In Q2, we launched 5 new collections and continue to expand our lens portfolio. Highlights include the launch of Transitions XTRActive lenses, the introduction of our kids assortment online, and a collaboration with L.A.-based streetwear brand, Market Studios, featuring musician and producer Rizza, that generated strong engagement. These initiatives help us reach new audiences while deepening loyalty with existing customers.
+
+As part of our tariff mitigation strategies, we moved forward with a handful of price increases focused on select lens types and add- ons while still preserving our entry-level $95 price point. Overall, these pricing actions had minimal impact to mix and conversion. In some cases, product mix for higher value add-ons and lens treatments trended above our expectations. We believe this is evidence of the considerable value gap that still exists in the industry. We aim to offer high-quality products and services at an accessible price point, and we continue to believe that combining design, quality, and service is a key differentiator for our brand.
+
+The third driver of our Q2 growth was the strength of our highly productive store base, complemented by continued innovation in our digital experience. Retail revenue grew 19% year-over-year, driven by new store expansion and continued healthy growth of our stores opened 12 months or more, consistent with color we've provided on prior calls. We opened 11 new stores in Q2, entering 6 new suburban markets and expanding our presence in 5 existing ones, including areas outside of Boston, Philadelphia, Washington, D.C., and Charlotte.
+
+Looking ahead, we expect the majority of our new store growth to come from building out underpenetrated suburban markets like these. Over 50% of the major metropolitan areas we operate in only have one store, and we believe we have significant potential to expand our presence in existing markets while also entering new markets. We're also seeing clear benefits from our densification strategy in that markets with the highest number of stores frequently have the highest e-commerce growth, driven by greater brand awareness and customer engagement across channels.
+
+Stores opened longer than 12 months averaged $2.2 million in revenue with 4-wall margins in line with our target of approximately 35% and newer stores are tracking in line with our targets. As our physical footprint scales, we're also evolving the way we serve customers across channels. We launched Warby Parker without retail stores during a time when less than 2.5% of glasses were sold online. And our first-of-its-kind home try-on program offered a unique, convenient way for customers to try on 5 glasses for 5 days at home, completely free of charge. For many years, and especially during the pandemic, home try-on was a novel way to help customers shop for glasses online.
+
+Today, our differentiated in-store experience across 300 locations, combined with increasingly personalized digital tools like our industry-leading first true-to-scale virtual try-on, have transformed the way people engage with our brand and shop for eyewear. The vast majority of recent home try-on customers live within 30 minutes of a Warby Parker store. As we've scaled and home try-on has become a less meaningful driver of our e-commerce business, and as we have seen strong growth from customers directly purchasing glasses online and in our stores, we've decided to sunset the program at the end of this year. We're confident we can serve customers effectively and efficiently through our stores, our leading digital experience, and by leveraging proprietary AI-powered technology. Given home try-on costs are included in our total marketing spend, we'll now be able to reallocate resources toward brand awareness and customer acquisition.
+
+This quarter, we also redesigned our customer experience team structure to reflect the evolution in how we serve customers, given our growing store footprint and the sunset of our home try-on program. Even with this transition, we continue to expect e-commerce growth in the low to mid-single digits this year and believe the channel remains on a path to long-term sustainable growth. While Q2 growth was at the lower end of this range due to a slower April, we saw a sequential improvement throughout the quarter, which continued through July.
+
+As part of our continued investment in the online experience, we launched Advisor in Q2, a personalized AI-driven recommendation tool within our app designed to replicate the guided retail experience. Early results are encouraging, and we're seeing strength in AI-powered tools like Advisor, partially offset by headwinds from home try-on. Going forward, we believe Advisor will play a meaningful role in driving product discovery and conversion.
+
+Lastly, we continue to expand our holistic vision care offerings as part of our broader strategy to serve all of our customers' needs. Contacts remained a healthy contributor to growth in Q2, supported by strong adoption from both new and returning customers. Contacts grew 28% year-over-year and now represents 11.5% of revenue, yet our penetration remains well below the approximately 20% industry average, highlighting the significant runway ahead.
+
+Eye exams were another key driver of growth. We expanded exam capacity across our growing retail footprint. And in Q2, our eye exam business grew 44% year-over-year to account for 6% of total revenue. Eye exams drive traffic, conversion, and average revenue per customer, given roughly 75% of glasses are purchased at the same location as the exam. Today, the majority of our customers still bring prescriptions from external providers, underscoring a significant long-term opportunity to capture more of the vision care journey.
+
+We also continued scaling retinal imaging across more locations, an offering that enhances the clinical experience and reflects our commitment to accessible, high-quality vision care. Our performance this quarter reflects the successful execution of our near- term strategy as well as our team's ability to balance that execution with a focus on our long-term vision. By strengthening our core business and strategically expanding both access and convenience, we are not only meeting customer demand but also shaping the future of our category.
+
+We've laid the groundwork for sustainable growth, and we're poised to lead our business and more broadly, our industry into its next chapter.
+
+Before I pass it over to Steve, I want to share a leadership update. After 14 incredible years at Warby Parker, Steve has made the decision to step down from his role as Chief Financial Officer at the end of this quarter to pursue an opportunity outside of the industry. Steve was our inaugural CFO. He started as a team of one and worked tirelessly to build a rigorous strategic financial organization. His leadership has been instrumental in achieving Warby Parker's countless milestones, in particular, our transition to life in the public markets. Steve's deep commitment to the company's success and to his team and our impact efforts has created a strong foundation that will be felt throughout our stores, offices, and optical labs for years to come. He leads our team, operations, and systems in the best place they have ever been.
+
+Until a successor is named, Dave will assume the roles of Principal Financial Officer and Principal Accounting Officer on an interim basis. He will work in close partnership with our tenured financial and accounting leadership teams to ensure a seamless transition.
+
+And now, Steve, I'll pass it over to you.
+
+Steve Miller
+
+Thanks, Neil and Dave. Before I dive into financials, I want to express a tremendous amount of gratitude to Neil and Dave, our Board, the finance team, and the broader Warby Parker team for giving me the opportunity to be in the arena with you. I'll now be cheering you on, but from another arena. When I joined Warby Parker 14 years ago, we were a small private company with roughly 30 employees, no stores, no factories. Today, we're operating as a public company at scale with over 300 stores, 2 optical labs, nearly 4,000 employees, and this is our 16th earnings call.
+
+We have our 8 core values printed throughout our spaces to remind us what's important. They include phrases like do good, take action and lead with integrity. My favorite is learn, grow, repeat. I plan to carry these with me.
+
+Now on to our financials. I'll begin with a detailed review of our second quarter performance. Then I'll outline our updated guidance for the full year and our outlook for the third quarter of 2025. Starting first with Q2. We're pleased to deliver both revenue and adjusted EBITDA above the high end of our guidance despite meaningful tariff-related uncertainty throughout the quarter. These results reflect the flexibility of our model and the team's ability to move quickly. Over the course of the quarter, we made significant and timely adjustments to the business, which contributed to our strong financial performance and highlight the levers we have to drive results in a dynamic environment.
+
+Revenue for the second quarter came in at $214.5 million, up 13.9% year-over-year. Retail revenue increased 19.3% year-over-year, with store count up 16.4% and e-commerce revenue up 2% year-over-year. Looking at customers, we finished Q2 with 2.6 million active customers on a trailing 12-month basis, representing a consistent acceleration in growth to 9% year-over-year. We've now seen sequential improvements in year-over-year active customer growth for the past 8 quarters, reflecting the positive returns from both new and existing stores, marketing investments, and a range of strategic initiatives.
+
+We also continue to see strength in average revenue per customer, which increased 4.6% year-over-year on a trailing 12-month basis to $316. This was driven by factors, including our selective pricing increases in glasses at the end of April, a higher mix of premium lenses like progressives, and continued growth in both contact lens and eye exam sales. By product, glasses revenue grew roughly 11% year-over-year, and we saw continued strength in our holistic vision care offerings with contact lenses up 28% and eye exams up 44% year-over-year. Contacts increased from 10.2% of revenue in Q2 2024 to 11.5% in Q2 2025.
+
+Eye exams increased from 4.8% of revenue in Q2 2024 to 6% in Q2 2025. From a channel mix perspective, retail represented approximately 73% of our overall business in Q2. We opened 11 new stores in the quarter, ending the period with 298 stores. This represents 42 net new stores opened over the course of the last 12 months. Retail productivity was 101.7% versus the same period last year. As a reminder, we define retail productivity as the year-over-year change in retail sales per store for the average number of stores opened in the period. This metric covers all stores and is impacted by factors like opening cadence and doctor hiring.
+
+For stores that have been opened greater than 12 months, we observed an acceleration in year-over-year growth in Q2. Our new stores continue to deliver strong unit economics, performing in line with our target of 35% 4-wall margin and 20-month paybacks. For stores opened more than 12 months, average revenue per store was $2.2 million, and performance was in line with our target 35% 4-wall margins. Overall, we continue to be pleased with the performance, growth, and productivity of our store fleet. Over the course of the past year, nearly every new store included an eye exam suite, bringing our total number of stores with eye exam capabilities to 259 stores or 87% of our total fleet.
+
+Moving on to gross margin. As a reminder, our gross margin is fully loaded and accounts for a range of costs, including frames, lenses, optical labs, customer shipping, optometrist salaries, store rents, and the depreciation of store build-outs. Our gross margin also includes stock-based compensation expense for our optometrists and optical lab employees. For comparability, I will speak to gross margin, excluding stock-based compensation and one-time items in the quarter, including the write-down of inventory related to our home try-on program.
+
+Second quarter adjusted gross margin came in at 54.3%, in line with expectations and compared to 56.1% in the year-ago period. The year-over-year decrease was driven by tariff-related headwinds in glasses, sales growth of contact lenses, and increased doctor headcount and store occupancy related to our store count growth. These impacts were partially offset by increased penetration of our higher-priced lenses and frames, as well as the select price increases implemented at the end of April that impacted May and June.
+
+Shifting gears to SG&A. As a reminder, adjusted SG&A excludes noncash costs like stock-based compensation expense. Adjusted SG&A in the second quarter came in at $104.8 million or 48.9% of revenue. This compares to Q2 2024 adjusted SG&A of $98.2 million or 52.2% of revenue, representing 330 basis points of leverage year-over-year. Within adjusted SG&A, marketing spend was $26 million or 12.1% of revenue compared to $22.4 million or 11.9% of revenue in Q2 2024.
+
+With roughly consistent marketing spend as a percent of revenue, disciplined expense management drove leverage across our non- marketing adjusted SG&A categories, which include salaries for our stores and customer experience employees and general corporate expenses, including our headquarters salaries and general operating expenses to support the business. Non-marketing SG&A improved by 360 basis points from 40.3% of revenue in Q2 2024 to 36.7% of revenue in Q2 2025. Non-marketing adjusted SG&A grew just 4% year-over-year. This reflects our commitment to continued cost discipline and drove our higher flow-through in Q2 above the high end of our guidance range.
+
+Turning now to adjusted EBITDA.
+
+In the second quarter, we generated adjusted EBITDA of $25 million, representing an adjusted EBITDA margin of 11.7%. This compares to adjusted EBITDA of $19.6 million or 10.4% of revenue in the year-ago period, reflecting expansion of 130 basis points. This was driven by significant non-marketing SG&A leverage.
+
+Turning now to our balance sheet.
+
+We generated $24 million in free cash flow in Q2 2025, ending the quarter with a strong cash position of $286 million. We will continue to deploy capital deliberately to support our growth and operations. We also have a credit facility of $120 million, expandable to $175 million, that is undrawn other than $4 million outstanding for letters of credit.
+
+Turning to our outlook for 2025.
+
+Given our strong first-half performance and continued execution across the business, we are updating our full-year guidance, which I'll summarize in just a moment. Let me begin with an update as it relates to tariffs. As we discussed last quarter, we outlined 3 primary mitigation strategies, including shifting our global supplier mix, selectively raising prices, and closely managing operating expenses, all of which we've now implemented with positive results. As tariff rates have evolved, we've continued to adapt our approach, demonstrating our team's ability to respond with agility in near real time. The gross impact of tariffs has moderated since our last call, and that, combined with the actions we've taken, have resulted in incremental EBITDA flow-through in our Q2 results and our raised full-year adjusted EBITDA guidance.
+
+And now I'll provide additional color on our 3 key strategies spanning gross margin and non-marketing SG&A. First, we continue to shift our sources of supply to optimize our global vendor mix. Our flexible supply chain has allowed us to quickly adapt production in response to changing tariff rates. Based on our latest plan, we now expect China to account for approximately a low teens percentage of our total cost of goods sold by year-end, and we will continue to diversify our country mix to optimize for the most cost-effective outcome. While China tariffs have come down since our May call, rates for the rest of the world have increased, and we continue to make adjustments in response to these changes.
+
+Second, we implemented strategic price increases at the end of April on a handful of lens types and add-ons while still preserving our core value proposition. Third, we will remain disciplined on costs while continuing to invest in growth. Through the first 2 quarters of the year, we've delivered an average of 300 basis points of leverage within non-marketing adjusted SG&A, an area that will continue to be a source of leverage moving forward. At the same time, we've kept marketing spend in the low teens as a percentage of revenue. As the tariff and general business landscape evolves, we will remain disciplined and continue to reassess and optimize spend.
+
+Taking all these factors into account and the acceleration we saw in the business throughout Q2 and into Q3, we are raising our outlook for the full year 2025. We now expect net revenue between $880 million and $888 million, representing approximately 14% to 15% growth year-over-year. The high end of our range implies approximately 17% growth in the second half, which is consistent with the acceleration we've seen in the business since May. Adjusted EBITDA of $98 million to $101 million, representing an adjusted EBITDA margin of 11.1% to 11.4% and 170 to 190 basis points of year-over-year expansion, 45 new store openings, including the 5 previously announced shop-in-shops within Target stores.
+
+We are projecting gross margins to remain in the mid-50s, with adjusted gross margin in Q2 as a good reference point for the full year. We're pleased to continue to guide toward gross margin in the mid-50s despite operating in a dynamic tariff environment. Finally, we expect stock-based compensation as a percentage of net revenue to be in the 2% to 4% range for the full year.
+
+For Q3 2025, we're guiding to the following: net revenue between $223 million and $225 million, which represents growth of approximately 16% to 17% year-over-year; adjusted EBITDA of $24 million to $25.5 million, representing an 11% margin at the midpoint of our range or 210 basis points of year-over-year expansion. Similar to the first half, we anticipate adjusted EBITDA margin expansion in Q3 will be driven by leverage within non-marketing SG&A, supported by ongoing efficiencies in staffing our store and customer experience teams, and achieving continued leverage in corporate expenses while keeping marketing spend consistent as a percentage of revenue in the low teens.
+
+Now Dave, I'll pass it back to you.
+
+David Abraham Gilboa
+
+Thanks, Steve, and thank you all for joining us on the call today. I wanted to echo Neil's thoughts and thank Steve for a tremendous 14 years at Warby Parker. We look forward to seeing all that you'll accomplish in this next chapter. With that, Neil, Steve, and I are pleased to take your questions. Operator, please open the line for Q&A.

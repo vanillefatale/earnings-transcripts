@@ -1,0 +1,117 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] The first question is from Stanley Yang from JPMorgan.
+
+Stanley Yang
+
+I have 2 questions. My first question is about the margin. So it's encouraging to see the Product Commerce EBITDA margin expansion up to 9%. Going into second half, the market currently expects your previous comments on declining IT cloud spending as a percentage of revenue to serve a margin tailwind in second half. Do you expect further Product Commerce margin improvement in second half on already high base?
+
+My second question is about the AI. So global and local big tech companies are leading AI investment and strategies. What will be your major AI strategies going forward? How can it change your business strategy?
+
+Bom Suk Kim
+
+Thanks, Stanley. I'll take the second question first. AI has been core to our operations and strategy for years. We've leveraged these technologies to improve nearly every aspect of our customer experience and operations from personalized recommendations, dynamic pricing, inventory forecasting, route optimization to name a few. Those applications and that integration has directly contributed to the results that you've seen over the last few quarters and years around customer engagement and improved operational efficiency. Looking ahead, we see AI as a long-term enabler of both top line growth and margin expansion, especially with generative AI and large language models, our focus remains on practical high-impact applications, practical applications that scale with our core offerings and enable us to deliver meaningful gains in customer experience and productivity.
+
+One example where we're seeing immediate impact is around software development, where in our early implementations, while still early, we're seeing up to 50% of the new code written by AI. We also expect AI to have a transformative impact on our operations over time through enhanced automation and humanoid robotics, among other things. Similar to our strategy for investing capital in any facet of our business, you can be sure that we'll be disciplined in how we allocate those resources and increase levels of spend only when we see strong evidence of high potential returns.
+
+Gaurav Anand
+
+Yes, I'll take over on the margin question, Stanley. So our Product Commerce margins have now reached 9% and continue to grow at an impressive rate. There still remains large opportunities for us to leverage technology, AI automation and expand margin-accretive offerings and improve processes among many other things that's going on there. So we expect Product Commerce to lead to those levels of over 10% margin and consolidated to follow the same part. But while we don't expect margins to grow in a linear manner quarter-over-quarter, we still see tremendous opportunity from the same drivers and expect them to contribute to even further annual margin expansion for quarters to come.
+
+And on the OG&A expenses, as we have discussed previously, we have seen an increase in our tech-related spend over the past few quarters in terms of percentage of total revenue. We believe this is key to building a more scalable foundation for future growth as we enhance our internal capabilities. And the tech spend was a large part of the increase in the OG&A as a percentage of revenues this quarter. It was also impacted by higher expenses within developing offerings, including certain nonrecurring and restructuring costs related to Farfetch. That said, we continue to expect consolidated OG&A expenses to decline as a percentage of revenue in the near to medium term. I hope that answers your question, Stanley.
+
+Operator
+
+The next question comes from Eric Cha from Goldman Sachs.
+
+Minuh Cha
+
+So I've got 2 questions around developing offerings. I think Gaurav just mentioned about the guidance increase for developing offering investments for this year. Could you share with us whether you believe this investment could peak this year? Or could it structurally go up in the foreseeable future driven by Taiwan? Any color on next year would be really helpful.
+
+The second question is specifically around Taiwan. Could you let us know whether -- could you provide some color on the gross profit margin or unit economics around Taiwan, whether it's positive or negative currently? And if it is in the negative, when you expect that to turn positive?
+
+Bom Suk Kim
+
+Eric, I'll take the question on Taiwan. As I called out earlier, our conviction in Taiwan is high and rising. We're very encouraged by the progress that we're seeing and especially by the similarity to Korea in its early years. The trajectory and the patterns that we're seeing are very similar. I think you can probably tell that we're excited about the momentum and especially about the customer response to the value proposition that we're providing. Taiwan's growth accelerating is driven by repeat customers driving the majority of that growth, which we see as a very positive signal about our product market fit and the long-term potential of the offerings there.
+
+Again, the structure, the dynamics, I think, are very similar to Korea. We are also, of course, seeing scaling inefficiencies that we've seen in the past. But we're very confident. We've seen these before. It's very similar to -- and very typical of our operations at this scale, at this stage. And we're very confident that we'll deliver over time, outsized value to customers and shareholders.
+
+Gaurav Anand
+
+Yes. And addressing your question on the investments in Developing Offerings. As you know, we manage our Developing Offerings portfolio as a pool of individual investments with each offering at a different stage in maturity. So we don't break down the level of losses for each and any guidance we provide around the combined level of investment is focused on the decisions we have made this year, where we have the most visibility to the momentum we are seeing. It would be too early for us to make any decision now on what that investment levels may look like beyond this year. We'll have more to share on that as we get to the start of next year. But our overall guidance that our margins continue to increase in a consolidated basis year-over-year still holds.
+
+Operator
+
+The next question is from Seyon Park from Morgan Stanley.
+
+Seyon Park
+
+I have 2 questions. Given that we're -- the past questions have been on Developing Offerings, why don't I start there? I think it was on the news that Coupang had applied for the government project to manage some of the GPUs that the government is trying to procure. Maybe can you comment on whether getting involved in the data center or the GPU management business is something that the company is considering as kind of the next growth opportunity? Any comments on that would be much appreciated.
+
+My second question kind of comes back to Product Commerce with the new government and the supplementary budgets and some of the measures that the government is doing to try to get consumptions back on track. Are you seeing trends of maybe a bit better growth or reacceleration of growth from the domestic consumer side going into the second half? That would be my second question.
+
+Bom Suk Kim
+
+Thanks for the questions. On your first question, I think I should note that we've been developing our own AI computing infrastructure to service our internal needs for some time now. In addition to the capacity that we source from external providers, the bulk of the investment today, and it's relatively small, is dedicated to building out that internal capability for higher performance and cost savings. We're also exploring the potential to provide access to that technology and service that we're developing internally to external enterprise customers as a test-and-learn initiative, and that's being done on a very small scale. We'll continue to be disciplined in how we allocate resources there and provide updates in the future if there are meaningful changes.
+
+On the macro environment, I think, first of all, our growth outlook for the full year remains in line with the guidance that we provided at the start of the year, constant currency consolidated growth rate of roughly 20%. I think it's worth reminding everyone that we're still a small share of the overall retail markets that we serve. And what drives our growth is this quarter and past quarters have not been onetime bumps or cycles, but deeper and increasing engagement from our customers. As I mentioned earlier, the spend of every
+
+single cohort of our customers, even our oldest, continues to compound and grow at strong double-digit rates. And that's driven by continued improvement and obsession around our overall customer experience in areas like selection, service and price.
+
+And whatever the fluctuations in the macro environment that we've seen, as long as we deliver on selection, service and price and the customer experience, we're confident we can continue to significantly outpace the retail growth for years to come. If there are any meaningful changes to our outlook, we'll update the guidance as needed. But we are focused on the things that we control and remain very confident that, that is the primary driver of our growth for years to come.
+
+Operator
+
+Our next question comes from Jiong Shao from Barclays.
+
+Jiong Shao
+
+Firstly, to follow up on the Developing Offering investments. I think as you mentioned earlier, bulk of the losses or investments for Taiwan and there was a pretty big step-up in the losses in Q2. And I think last quarter, you mentioned that you are running a trial for the boots on the ground last mile delivery. So I was wondering if you can elaborate a bit on what are some of the areas for the investments in Taiwan, in particular? And also where you are in terms of doing the last mile delivery there?
+
+My second question is about the gross margin drivers. You made a very, very significant and impressive year-over-year growth or expansion in gross margins for your product commerce. Could you just sort of talk about behind that improvement, where the expansion came from in terms of -- is that a higher-margin revenue mix growing much faster? How much of the expansion came from your core kind of 1P Product Commerce? Any sort of explanation or elaboration would be very helpful.
+
+Bom Suk Kim
+
+Jiong, thanks for your questions. I'll take the first question. There are multiple initiatives and customer offerings at various stages of testing in Taiwan, some bearing fruit now, some we expect to bear fruit in the future and some just too early to tell. Our strategy of investing in Taiwan is no different from how we allocate capital across our overall business. We'll continue to test and learn and iterate and expand our investment when we're convinced of our ability to generate attractive cash flows over the long term.
+
+Many of the initiatives, including the ones you mentioned, are in very early stages and too early to discuss. But as we saw in Korea, the teams are focused on the right things. I think the same obsession around customer experience, WOW and operational rigor and excellence is there. And we're confident that many of the things that we're testing will develop into impactful moments of WOW for our customers over time.
+
+Gaurav Anand
+
+Yes. On the second part of your question, Jiong, on product commerce, gross profit grew 26% year-over-year in constant currency and the margins expanded 230 basis points year-over-year. This expansion is the result of all the benefits we have seen from increased efficiency across operations, improvement in supply chain optimization, and the other margin-accretive offerings that we have mentioned earlier. And there still remains large opportunities to leverage technology, AI automation, the margin accretive offerings expansion, improving processes across the board and many other things that will enhance the customer experience and reduce waste.
+
+On an EBITDA basis, we expect Product Commerce to continue to increase margins and lead those levels of over 10-plus percent, 10% margins that we have indicated earlier.
+
+Operator
+
+We will now take our last question from the line of Wei Fang from Mizuho.
+
+Wei Fang
+
+First one, on your Taiwan business, I think last quarter, you said there was a selection growth for like 500 growth year-over-year, which I guess led to the customer growth and the revenue growth this quarter. Just curious, is this growth in selection maintaining this quarter? And what categories are you seeing the biggest growth?
+
+And secondly, on your food delivery in Korea, I was just curious, ever since you introduced the pickup orders for food delivery, how should we think about the margin trend as a result of that kind of initiative?
+
+Bom Suk Kim
+
+I think the first question was around selection in Taiwan. Is that right way?
+
+Wei Fang
+
+Yes, yes.
+
+Bom Suk Kim
+
+Yes. I think we're at such a small share and small penetration across all of our categories there. We're continuing to add and broaden selection across the board. And we expect that to be our focus for a long time to come and very encouraged by the response of our customers to that.
+
+On the food delivery side, I think we continue to see strong performance there. I think they've continued to also maintain the strong momentum that we've seen over the past few quarters. Our focus there across a number of initiatives is to provide the best selection, greatest value, fastest and most reliable delivery for customers, very similar to our retail offerings. And again, I think we're very encouraged by the customers' response there, where we're seeing increasingly stronger engagement. Eats is still far from its full potential, both in terms of scale and customer engagement and even operational excellence. So we'll continue to make improvements there.
+
+I think it's too early to talk about any number of initiatives that we have. I think you mentioned one, but we have a culture. I think there was an earlier question also about some of the initiatives that we're doing in Taiwan. I do want to make a broader statement. We have a culture of empowering our teams to test ideas on a small scale that have the potential to expand customer value proposition. And many of the things that we're mentioning are really small-scale tests. Some of those initiatives will bear fruit and develop into rich offerings that provide significant value for customers. Those initiatives -- some of those initiatives will never gain traction and/or may not make economic sense and we'll run out of funding.
+
+And so I think if they work, we'll lean into it, develop it, broaden it. If they don't, we won't fund it going forward. And we have a broad portfolio of these initiatives throughout the company. And that culture of experimentation and innovation is responsible for many of the successes we've had as a company since our inception. And I think many of these initiatives are too early or too small to really talk about. But you can you can be confident that we're approaching these initiatives thoughtfully and rigorously that we're evaluating a range of factors that are critical to building not only the customer value in the offering, but the -- but to building a sustainable and accretive offering for our shareholders. And we see meaningful -- if we see meaningful opportunities, we'll continue to lean into it further. And as these initiatives develop, we'll share more updates as appropriate in the future.
+
+Operator
+
+This concludes today's conference call. Thank you, and you may now disconnect.
