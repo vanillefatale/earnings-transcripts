@@ -23,7 +23,8 @@ def smart_split(text, max_chunk_size=700):
     if current: chunks.append(current.strip())
     return chunks
 
-def translate_text(text, model="claude-sonnet-4-20250514"):
+#https://docs.claude.com/en/docs/about-claude/models/overview
+def translate_text(text, model="claude-sonnet-4-5-20250929"):
     for attempt in range(3):
         try:
             resp = client.messages.create(
@@ -39,7 +40,7 @@ def translate_text(text, model="claude-sonnet-4-20250514"):
             time.sleep(5 * (attempt + 1))
     raise RuntimeError("Claude 서버가 과부하 상태입니다. 잠시 후 다시 시도해주세요.")
 
-def summarize_text(text, model="claude-3-5-sonnet-20241022"):
+def summarize_text(text, model="claude-sonnet-4-5-20250929"):
     resp = client.messages.create(
         model=model,
         max_tokens=500,

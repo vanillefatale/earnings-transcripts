@@ -1,0 +1,190 @@
+Question-and-Answer Session
+
+Jonathan Neilson
+Vice President of Investor Relations
+
+Thanks, Amy. We'll now move over to Q&A. [Operator Instructions]. Operator, can you please repeat your instructions?
+
+Operator
+
+[Operator Instructions] Our first question comes from the line of Keith Weiss with Morgan Stanley.
+
+Keith Weiss
+Morgan Stanley, Research Division
+
+Congratulations on another outstanding quarter. And if I'm looking at Microsoft, this is 2 quarters in a row, we're really seeing results that are well ahead of anybody's expectations when we were thinking about this company a year ago or 5 years ago, 111% in Commercial bookings growth was not on anybody's bingo card, if you will, yet the stock is underperforming in the broader market. And the question I have is kind of getting at the zeitgeist that I think is weighing on the stock. And is something about to change?
+
+And I think AGI is kind of a nomenclature or a shorthand for that. And it's something that still included in your guys' OpenAI agreement. So Satya, when we think about AGI or we think about how application and computing architectures are changing, is there anything that you see on the horizon, whether it's AGI or something else, that could potentially change what appears to be a really strong positioning for Microsoft in the marketplace today where that strength will perhaps weaken on a go-forward basis. Is there anything that you're worrying about in that evolution and particularly the evolution of these generative AI models.
+
+Satya Nadella
+Chairman & CEO
+
+Thank you, Keith, for the question. So here's what I would say, I think there are 2 parts. We feel very, very good about even this, I'd say, the new agreement that we now have with OpenAI because I think even, it just creates more certainty to all of the IP relationship we have as it relates to even this definition of AGI. But beyond that, I think your question touches on something that's pretty important, which is how are these AI systems going to truly be deployed in the real world and make a real difference and make a return for both the customers who are deploying them and then obviously, the providers of these systems. And I think the best way to characterize the situation is that even as the intelligence capability increases, let's even say, exponentially like model version over model version, the problem is it's always going to still be jagged, right? I think the term people use is the jagged intelligence, even -- or spiky intelligence, right?
+
+So you may even have a capability that's fantastic at a particular task, but it may not uniformly grow. So what is required is in fact, these systems, whether it is GitHub Agent HQ or the M365 Copilot system. Don't think of this as a product. Think of it as a system that in some sense smooths out those jagged edges, and really helps the capability.
+
+I mean just to give you a flavor for it, right? So if I am in M365 Copilot, I can generate an Excel spreadsheet. The good news is now an Excel spreadsheet does understand Office JS, has the formulas in it. It feels like, wow, it is a great spreadsheet created by a good model. The more interesting thing is I can go into agent mode in Excel and iterate on that model. And yet, it will stay on rail. It won't go off rail, it will be able to do the iteration. Then I can even give it to the analyst agent, and then it will even make sense of it like a data analyst would of our Excel model.
+
+The reason I say all of that is because that's the type of construction that will be needed even when the model is magical, all powerful. I think we will be in this jagged intelligence phase for a long time. So one of the fundamental things that these -- whether it's GitHub, whether it's security, whether it's M365, the 3 main domains we're in, we feel very, very good about building these as organizing layers for agents to help customers.
+
+And by the way, that's the same thing that we want to put into Foundry for our third-party customers. So that's kind of how people will build these multi-agent systems. So I feel actually pretty good about both the progress in AI. I don't think AGI as defined at least by us in our contract is ever going to be achieved anytime soon. But I do believe we can drive a lot of value for customers with advances in AI models by building these systems. So it's kind of the real question that needs to be well understood. And I feel very, very confident about our ability to make progress.
+
+Operator
+
+The next question comes from the line of Brent Thill with Jefferies.
+
+Brent Thill
+Jefferies LLC, Research Division
+
+Amy, on the bookings blowout. I guess many are somewhat concerned about concentration risk. And I think you noted a number of $100 million contracts, not to go into a lot of detail, but can you just give us a sense of what you're seeing in that 51% RPO and 110-plus percent bookings growth that gives you confidence about what you're seeing in terms of the breadth and extent of some of these deals on a global basis.
+
+Amy Hood
+Executive VP & CFO
+
+Thanks, Brent. A couple of things to maybe take a step back on RPO. With a nearly $400 billion balance, we've been trying to help people understand sort of how to think about really the breadth of that. It covers numerous products. It covers customers of all sizes. It -- that's been a balance that we've been growing obviously at a good clip. But what people need to realize is it sits across multiple products because of the things Satya is talking about around creating systems and where we're investing.
+
+And if you're going to have that type of balance and then more importantly, have the weighted average duration be 2 years, it means that most of that is being consumed in relatively short order. People are not consuming, and I say this broadly, unless there's value. And I think this is why we keep coming back to, are we creating real-world value in our AI platforms, in our AI solutions and apps and systems.
+
+And so I think the sort of the way to think about RPO is it's been building across a number of customers. We're thrilled to have OpenAI be a piece of that. We're learning a ton and building leading systems because of it that are being used at scale that benefits every other customer. And so it's why we've tried to give a little bit more color to that RPO balance because I do understand that there have been a lot of concerns or questions about is it long dated, is it coming over a long period of time. And hopefully, this is helpful for people to realize that these are contracts being signed by customers who intend to use it in relatively short order. And at that type of scale, I think that's a pretty remarkable execution.
+
+Operator
+
+The next question comes from the line of Mark Moerdler with Bernstein Research.
+
+Mark Moerdler
+Sanford C. Bernstein & Co., LLC., Research Division
+
+Congratulations on the quarter. It's pretty amazing what you guys are doing. Satya and Amy, I'd like to ask you the #1 question I receive, whether from investors or at AI conferences I attend, how much confidence do you have that the software, even the consumer [indiscernible] business can monetize all the investments we're seeing globally? Or frankly, are we in a bubble? In fact, Amy, what would be the factors you'd be watching for to assure that you're not overbuilding for current demand and the demand will sustain.
+
+Amy Hood
+Executive VP & CFO
+
+Maybe I'll start, Satya and then you could add. Let me talk a little bit about maybe connecting a couple of the dots because with $400 billion of RPO, that's sort of short-dated as we talked about, our needs to continue to build out the infrastructure is very high. And that's for booked business today. That is not any new booked business we started trying to accomplish on October 1, right?
+
+And so the way to think about that, and you saw it this quarter in particular, and as we talked about '26, the remainder, number one, we're pivoting toward -- increasingly, we talked about this short-lived assets, both GPUs and CPUs, Again, we talk about all these workloads are burning both in terms of app building. Now when that happens, short-lived assets generally are done to match sort of the duration of the contracts or the duration of your expectation of those contracts. And so I sometimes think when people think about risk, they're not realizing that most of the lifetimes of these and the lifetime of the contracts are very similar.
+
+And so when you think about having revenue and the bookings and coming on the balance sheet, the depreciation of short-lived assets, they're actually quite matched, Mark. And as you know, we've spent the past few years not actually being short GPUs and CPUs per se, we were short the space or the power is the language we used to put them in. So we spent a lot of time building out that infrastructure. Now we're continuing to do that also using leases. Those are very long-lived assets, as we've talked about 15 to 20 years. And over that period of time, do I have confidence that we'll need to use all of that, it is very high.
+
+And so when I think about sort of balancing those things, seeing the pivot to GPU, CPU short-lived, seeing the pivot in terms of how those are being utilized, we are -- and I said this now, we've been short now for many quarters. I thought we were going to catch up, we are not. Demand is increasing. It is not increasing in just one place. It is increasing across many places. We're seeing usage increases in products. We are seeing new products launch that are getting increasing usage, and increasing usage very quickly. When people see real value, they actually commit real usage.
+
+And I sometimes think this is where this cycle needs to be thought through completely is that when you see these kind of demand signals and we know we're behind, we do need to spend. But we're spending with a different amount of confidence in usage patterns and in bookings, and I feel very good about that. I have said we are now likely to be short capacity to serve the most important things we need to do, which is Azure, our first-party applications. We need to invest in product R&D and we're doing end-of-life replacements in the fleet. So we're going to spend to make sure that happens. It's about modernization. It's about high quality. It's about service delivery, and it's about meeting demand.
+
+And so I feel good about doing that, and I feel good that we've been able to do it so efficiently and with a growing book of business behind it.
+
+Satya Nadella
+Chairman & CEO
+
+Yes. The only thing I would add to what Amy captured was, if you sort of look out, there are 2 things that matter, I think, and that are critical in terms of how we think about our allocation of capital, also our R&D. One is how efficient is our planet-scale token factory, right? I mean that's at the end of the day, what you have to do. And in order to do that, you have to start with building out a very fungible fleet. It's not like we're building one data center in one region in the world that's mega scale. We are building it out across the globe for inference, for pre-training, for post-training, for RL, for data [indiscernible] or what have you. So therefore, that's the fungibility is super important.
+
+The second thing that we're also doing is continually modernizing the fleet. It's not like we buy one version of, say, NVIDIA and load up for all the gigawatts we have. Each year, you buy, you write the Moore's Law, you continuously modernize and depreciate it. And that means you also use software to grow efficiency. I talked about, I think, 30% improvement on both serving up GPT-4.1 and 5.0, right? That's software. That's sort of -- and by the way, it's helpful on A100s, it's helpful on GB200s, and it will be helpful on GB300s. That's the beauty of having the efficiency of the fleet.
+
+So keep improving utilization, keep improving the efficiency. So that's what you do in the token factory. The other aspect, which Amy spoke to is we have some of the best agent systems that matter in the high-value domains, right? It's in information work. That's the Copilot system. Coding, I mean, I should also say one of the things I like about Copilot is, I mean, Copilot ARPU is compared to M365 ARPUs, right? It's expansive. The same thing that happened between server and cloud like we used to always say, well, is it zero-sum, it turned out that the cloud was so much more expansive to the server market.
+
+The same thing is happening in AI because first, you could say, hey, our ARPUs are too low when it comes to M365 or you could say we have the opportunity with AI to be much more expansive. Same thing with tools, right? I mean, tooling -- the tools business was not like a leading business, whereas coding business is going to be one of the most expansive AI systems. And so we feel very good about being in that category. Same thing with security, same thing with health. So we have -- and in consumer, one of the things is it's not just about ads, it's ads plus subscriptions that also opens up opportunity for us.
+
+So when I look at the entirety of these high-value agent systems and when we look at the efficiency of and fungibility of our fleet, that's what gives us the confidence to invest, both the capital and the R&D talent to go after this opportunity.
+
+Operator
+
+The next question comes from the line of Karl Keirstead with UBS.
+
+Karl Keirstead
+UBS Investment Bank, Research Division
+
+Okay. This one is for Amy. Amy, I certainly don't want to take you down too complex an accounting path with this question, but the investment in OpenAI that sits in other income at $4.1 billion is so large that I think the audience could -- listening in could benefit from a little bit more color about what that is. It feels like it's so much larger than you were running through other income in prior quarters that it mustn't just be your share of the OpenAI losses. So could you just describe that? And what we can expect in subsequent quarters? And whether this signals any kind of accounting change?
+
+Amy Hood
+Executive VP & CFO
+
+The Q1 number was not impacted at all by the new agreement that was put in place. Let me first say that. Secondly, that increased loss was all due to our percentage of losses in OpenAI due to the equity method. So just to be very clear. So there is not anything there that is not the increased losses from OpenAI.
+
+Operator
+
+The next question comes from the line of Mark Murphy with JPMorgan.
+
+Mark Murphy
+JPMorgan Chase & Co, Research Division
+
+So we seem to be entering into a new era where the contractual commitments from a small number of AI natives are just incredibly large, not only in absolute terms, but sometimes relative to the size of the companies themselves. For instance, contracts worth hundreds of billions of dollars that are 20x their current revenue scale. Philosophically, how do you evaluate the ability of those companies to follow through on these commitments? And how do you think about placing guardrails on customer concentration for any single entity?
+
+Satya Nadella
+Chairman & CEO
+
+Yes. Maybe I'll start and then Amy, you can add. I mean it goes back a little bit, Mark, to what I said about building first, the asset itself such that it's most fungible. And then to recognize the strength of even sort of our portfolio, we have a third-party business, we have a first-party business, we have third-party also spread between enterprise, digital natives, I always felt that we need a balance there because it may start with digital natives. They're always going to be the early adopters. You always have the hit app of the generation. And then -- essentially then it spreads throughout. The enterprise adoption cycle is just starting and so therefore, having the -- over the arc of time, I think that third-party balance of customers will only increase.
+
+But it's great to have the hit first-party apps in the beginning because you can build scale that then if it's a fungible and that's where the key is. You don't want to build for a digital native in -- as if you're just doing hosting for them. You want to build. That's where -- I think some of the decision-making of ours is probably getting better understood. What do we say yes to, what do we say no to. I think there was a lot of confusion, hopefully by now, anyone who switched on would figure this out. And so that's, I think, one thing we're doing on the third party.
+
+But the 1 -- first party is probably where a lot of our leverage comes and it's not even about one hit app on our first-party even. Our portfolio of stuff which I just walked through in the earlier answer, gives us, again, the confidence that between that mix, we will be able to use our fleet to the maximum. And remember, these assets, especially the data centers and so on are long assets, right? There will be many refresh cycles for any one of these when it comes to the gear.
+
+So I feel that once you think about all those dimensions, the concentration risk gets mitigated by being thoughtful about how you really ensure the build is for the broad customer base.
+
+Amy Hood
+Executive VP & CFO
+
+And maybe just to help with another angle that I think, Satya helped a lot is that when you think about concentration risk or delivering to any customer, you have to remember that because we're talking about this very large flexible fleet that can be used for anyone and for any purpose, 1P, 3P, and including our commercial cloud, by the way, which I should be quite clear on, it is pretty flexible in every regard, you have to remember that the CPU and GPU and the storage gear, doesn't come into play until the contracts start happening. And so you're right, some of these large contracts have delivery dates over time.
+
+So you get a lot of lead time in being able to say, "Oh, what's the status?" And so I think we're pretty thoughtful around what's always gone in our RPO balance, and then considerate of that. There's always been that taken into account when we publish that bookings on brand, publish the RPO balance.
+
+Operator
+
+The next question comes from the line of Brad Zelnick with Deutsche Bank.
+
+Brad Zelnick
+Deutsche Bank AG, Research Division
+
+And I'll echo my congrats on an amazing start to the year. Amy, is there any way to quantify or frame the revenue impact of Azure being short on capacity? And while I appreciate the constraints you face are broad across the industry, is there risk of workloads going elsewhere? And how do you mitigate that?
+
+Amy Hood
+Executive VP & CFO
+
+Yes, Brad, it's a great question. It's always hard to quantify precisely what would have been the revenue impact in quarter. But I would offer a way to think about it is Azure probably does bear most of the revenue impact. Because when you think about real priorities that you have to fill first, it's obviously the increasing usage and adoption and sales we've seen of M365 Copilot and the usage of Copilot chat, which we've seen very different patterns, which we're encouraged by. It's the adoption of security features. It's the GitHub momentum.
+
+And so when you're thinking about it, that is where and it is a priority for us to allocate resourcing there first. And so you are right to ask how do I think about that. We've worked very hard to try to mitigate it as best we can, but we have been short in Azure, and we've been clear on it. And I would say the other 2 priorities that I haven't mentioned maybe as much before is also just making sure our product teams and the AI talent that we've been able to hire into the company really over the past 1.5 years have access also to significant capacity because we're seeing it make the product better in a loop that is adding great benefit today into products people are using today for real-world work.
+
+And so we are making that a priority to make sure our research teams have that as well as our product engineering teams. And yes, it does impact Azure directly. That is the place where you see that prioritization. But I think it's probably hard for me to give an exact number, but it is safe to say that the number could be higher.
+
+Operator
+
+The last question will come from the line of Kash Rangan with Goldman Sachs.
+
+Kasthuri Rangan
+Goldman Sachs Group, Inc., Research Division
+
+Amy, I just wanted to congratulate you, I think you said before that it is possible to accelerate Azure growth while getting efficient with margins and you've done it. Congrats on that.
+
+I have one for you, Satya. With respect to the elephant in the room, following just being a little more direct, following up on Keith Weiss' question. There's talk that another hyperscaler came in and took away the business that was rightfully Microsoft's. I'm sure that there is a different point of view here.
+
+I'm wondering if you could offer some perspective on your criteria to -- is it about a certain volume of business that you wish to execute on the Microsoft paper? Or is it something broader than that, that I don't think maybe people fully appreciate the terminal value that Microsoft will have on its balance sheet at the end of these contracts, which I think is probably being underestimated as you have a full stack and you've got the multiple vectors to monetize, be it databases, Foundry. And to your point that you are a platform company, not just a hyperscaler. Maybe that's what it is all about, or maybe there's another story about you letting the other hyperscaler company coming from nowhere and claiming a big piece of that 4- to 5-year puzzle. And congratulations.
+
+Satya Nadella
+Chairman & CEO
+
+Well, thanks, Kash. I mean for us, again, just always goes back to, I think, the core principle, which is build a fleet that is fungible across the planet and works for third-party and first-party and research. So that's essentially what we have done.
+
+And so when some demand comes in shape, that don't fit that goal, where it's too concentrated, not just by customer, by location, by type of skewing, right? I think Amy mentioned some very key things. When you think about the margin profile of a hyperscaler, you've got to remember this, the AI accelerator piece, but there's compute, there's storage. And so if all of the demand just comes for just one [ meter ] that's really not a long-term business we want to be in. That's even from a third party. We have to balance it with all of our first-party stuff because that's after all a different margin stack for us. And then we have to fund our own R&D and model capability because in the long run, that's what's going to differentiate us.
+
+And so I look at all of those. We sort of use all of that to make sure we are saying yes to all the demand that we want, we say no to some of the demand that may be something that we could serve, but it's not in our long-term interest. And so that's sort of the decision-making we have done, and we feel very, very good about the decisions. In some sense, I feel even each time we say no to, the day after, I feel better.
+
+Amy Hood
+Executive VP & CFO
+
+And just Kash, I think this is our last call with you. And I just want to say thanks and congratulations. It's been a privilege to work with you and best of luck.
+
+Satya Nadella
+Chairman & CEO
+
+Let me add to that, Best of luck, Kash.
+
+Jonathan Neilson
+Vice President of Investor Relations
+
+Thanks, Kash. That wraps up the Q&A portion of today's earnings call. Thank you for joining us today, and we look forward to speaking with all of you soon.
+
+Satya Nadella
+Chairman & CEO
+
+Thank you all.
+
+Operator
+
+Thank you. This concludes today's conference. You may disconnect your lines at this time, and thank you for your participation.

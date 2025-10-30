@@ -171,7 +171,7 @@ def parse_qna_speakers(text):
     
     return speakers
 
-def translate_qna_text(text, speaker_type, speaker_name=None, model="claude-sonnet-4-20250514"):
+def translate_qna_text(text, speaker_type, speaker_name=None, model="claude-sonnet-4-5-20250929"):
     """Q&A 전용 번역 함수"""
     
     # 화자명과 내용 분리
@@ -245,7 +245,7 @@ Translate only the spoken content, maintaining natural flow."""
             time.sleep(5 * (attempt + 1))
     raise RuntimeError("Claude 서버가 과부하 상태입니다. 잠시 후 다시 시도해주세요.")
 
-def summarize_qna_text(text, model="claude-3-5-sonnet-20241022"):
+def summarize_qna_text(text, model="claude-sonnet-4-5-20250929"):
     """Q&A 요약 함수"""
     resp = client.messages.create(
         model=model,
