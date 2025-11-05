@@ -1,0 +1,318 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] First question is from the line of Samik Chatterjee with JPMorgan.
+
+Unknown Analyst
+
+This is MP on for Samik Chatterjee. I just wanted to ask my first question on the revised guidance between like availability of chipsets and market share expansion. What do you think is the more of a driver for increased revenue guidance?
+
+Charles Liang
+Founder, Chairman of the Board, President & CEO
+
+Yes, NVIDIA Blackwell Ultra is getting available. So we are receiving more and more allocation from them and preparing for a huge volume to ramp up start from this quarter. That's why this quarter, we estimate at least $10.5 billion. And looking forward, I mean, with our DCBBS, we will focus on both. One is continued move volume, higher revenue. The other direction is move more value to the market including data center product solution with our DCBBS.
+
+Unknown Analyst
+
+As a follow-up, I just wanted to ask on DCBBS. Like I think you already started shipping those solutions. And like when do you think the DCBBS will become material enough to actually impact the gross margins? And then my other question is, like, are you -- any thoughts on initial feedback from customers? And then also any thoughts on the competition, which you are seeing relative to DCBBS.
+
+Charles Liang
+Founder, Chairman of the Board, President & CEO
+
+Yes. Thank you for the question. Yes, DCBBS have been very welcome. We have some current large accounts already order some of the key DCBBS components. And we expect more and more customers will commit to our DCBBS. The idea of like what we share is to speed up customers to deploy, build a data center, save their time to online. And also make power more efficient, save money overall, build a more solid data center. And the profit margin will show a much higher in the industry for data center infrastructure, basically, the business is more than 20% profit margin. And we are very excited for that product line to be getting available. And I believe it will ramp up very soon.
+
+Operator
+
+Next question is from the line of Asiya Merchant with Citigroup.
+
+Asiya Merchant
+Citigroup Inc., Research Division
+
+Great. The order pipeline that you guys talked about is pretty strong. And so if you can help us understand what's the components that are contributing to such a strong order outlook that you have embedded into your guidance?
+
+And if I may, you guys talked a little bit about -- or about this revenue guide that you guys are exceeding sequential growth expected post fiscal 2Q. If you can just also help us understand how we should think about gross margins as we proceed through the year and the OpEx to support such a strong revenue outlook?
+
+Charles Liang
+Founder, Chairman of the Board, President & CEO
+
+Yes. I mean, GPU, for sure, contributed most revenue kind of like Blackwell Ultra, and kind of like the AMD MI350, 355 and Blackwell B300 and RTX, right? So indeed, a lot of strong product line are driving our revenue. And at the same time, again, for the best interest to our customers, we try to provide data center end-to-end solution, including DCBBS, including management software, on-site deployment and service. So to put in a one-stop shopping for customers' advantage and also grow our profit margin. And David, you may add something for long term.
+
+David Weigand
+Senior VP, CFO, Company Secretary & Chief Compliance Officer
+
+Sure. Yes. So on the gross margin question, we are -- we're going into a quarter where we are ramping one of the largest clusters in the world. We're ramping a new product line at mega scale. And so therefore, we're being a little conservative on the margin because we will have a higher cost as we ramp production and shipment. So we're just giving guidance for 1 quarter out, but we did mention that as we go out throughout future quarters, we're expecting to improve for the reasons that we laid out.
+
+On the OpEx side, you can tell from looking at our -- historically, we are that sub-5% OpEx, and we expect that to continue. But we will continue to increase our OpEx in order to strengthen our infrastructure.
+
+Charles Liang
+Founder, Chairman of the Board, President & CEO
+
+Yes. I'd like add 2 more areas. Yes. One area is traditionally, our revenue was about $5 billion to $6 billion quarterly. And now we are growing to $10 billion quarterly. So that, for sure, increase short-term challenge. And that's why we have to leverage U.S.A., Taiwan, Malaysia facility. And that kind of involved hiring lots of new people, train our people and add a facility.
+
+But once this much higher capacity facility already in this quarter, December quarter, we will be able to service large customers in U.S.A., in Asia and Europe, truly global major supplier. And by that time, for sure, our resource leverage will become much more efficient.
+
+And second is our DCBBS is getting mature and getting ready to service more customers to put in more value to customers, and that I believe we have grown our profitability.
+
+Asiya Merchant
+Citigroup Inc., Research Division
+
+That's great. If I could just on the orders that you talked about, $13 billion, I know you provided it at chip-set level. I think I was looking for just customers that are constituting that $13 billion? If you can just share some insights into how percentage of customers that are in there that contributed to such a strong order book or $13 billion?
+
+David Weigand
+Senior VP, CFO, Company Secretary & Chief Compliance Officer
+
+So they constitute some of the best customers in the world, I'll say that. We had 2 10% customers this year. We ended last year with 4 10% customers. We always welcome new large customers. And -- but we don't have any -- we usually don't talk specifically about individual customers.
+
+Charles Liang
+Founder, Chairman of the Board, President & CEO
+
+Yes. But they are really high-profile high-value partner for long term. That's why we do such a big effort to greatly increase our capacity to support them. There are some of them. So we are very happy to enhance the support to those high value partner.
+
+Operator
+
+Next question is from the line of Ananda Baruah with Loop Capital.
+
+Ananda Baruah
+Loop Capital Markets LLC, Research Division
+
+A couple, if I could. Charles, the midpoint of the guide for December is $10.5 billion. And the guide for -- the updated guide for the fiscal year is at least $36 billion. And so if I model out $10.5 billion for each March and June, I get sort of just over $36 billion. You're talking about a lot of $13 billion in GB300 product wins, a lot of good activity going forward.
+
+So I guess my question, Charles, is -- first one is, are you being conservative? Is there conservatism baked in to the implied March and June quarters? Or should we expect some flattening out of revenue in the coming quarters? And then I have a follow-up.
+
+Charles Liang
+Founder, Chairman of the Board, President & CEO
+
+Yes. Thank you for the question. Yes, this is the first time we grow our revenue to about more than $10 billion a quarter. So we are very excited about it. So now we already expand our capacity global and train our people and have all our facilities ready. So from now on, we are ready to be really big supplier around the world. And with Blackwell getting mature and [yearly] quality, everything is promising at this moment. And so we feel very excited to have at least $36 billion. And hopefully, it's a very conservative number.
+
+And at the same time, we are doing our best to grow our DCBBS total solution because that's the unique data center infrastructure tool to help customers build a data center quicker, better, save energy and save money. So overall, I believe with DCBBS become more mature, our profitability will improve.
+
+Ananda Baruah
+Loop Capital Markets LLC, Research Division
+
+And Charles, do you -- I know we're talking fiscal year -- we're talking fiscal year expectations. But do you anticipate the strength to continue through the calendar year? There's been a lot of large deals with neoclouds announced lately with large AI labs and hyperscalers, and that's your sweet spot customer base, the neocloud. So should we anticipate this kind of strength without giving me a guide, but could the strength continue through the balance of the calendar year?
+
+Charles Liang
+Founder, Chairman of the Board, President & CEO
+
+Yes. Indeed, our capacity is in given scale now, as you know, right? So $36 billion is a very conservative number. So we believe we will continue to grow quickly, continue to lead the market with not just technology, but also market share.
+
+Ananda Baruah
+Loop Capital Markets LLC, Research Division
+
+I appreciate that. Mike, just one quick clarification with David here. David, just to your prior comments about gross margin improvement through the year, is that to say that December quarter is the low watermark gross margin quarter for the fiscal year? That's it.
+
+David Weigand
+Senior VP, CFO, Company Secretary & Chief Compliance Officer
+
+Yes, that's fair. We are -- as I mentioned, this is a quarter of first impression for us on standing up doubling our revenues in 1 quarter. And so we're doing everything we can to improve our margin, but we're not making forecast out beyond December quarter.
+
+Operator
+
+Next question is from the line of Ruplu Bhattacharya with Bank of America.
+
+Ruplu Bhattacharya
+BofA Securities, Research Division
+
+David, can you remind us how much total revenue can your manufacturing footprint support today? And when it's fully utilized, what would that number be? And at what point do you decide to add more capacity, such as adding a new plant? And if you can weave in any update to the Malaysia plant, is that now building racks? And what's the status of that plant? And I have a follow-up.
+
+David Weigand
+Senior VP, CFO, Company Secretary & Chief Compliance Officer
+
+Okay. So maybe I'll let Charles talk about capacity, but we've mentioned that we have a rack capacity of 6,000 racks per month worldwide. And so I don't think that we have spoken as to what that value is. But I can say that Malaysia, we are starting to stand up more in terms of their production, and we expect it to contribute greatly going forward. Let me see, did I answer -- what other questions did I miss there, Ruplu?
+
+Ruplu Bhattacharya
+BofA Securities, Research Division
+
+And -- go ahead.
+
+Charles Liang
+Founder, Chairman of the Board, President & CEO
+
+Yes. I guess we try to be very, very conservative. Because with Blackwell Ultra is still brand new, right? So we had to make sure we ship exactly the best quality, the most reliable system to customer. And that's why we spend a lot of time to burn in our solution. And that's why we build up such a huge capacity. If you time 3,000 liquid cooling tower per month and time 12 months a year. And each rack, for example, $3 million. So the number is more than $100 billion. So yes, if everything smooths, our capacity is that $100 billion range now.
+
+But we try to be conservative and try to design carefully, burning carefully, make sure all the product we deliver to the market is exactly the same in the market.
+
+Ruplu Bhattacharya
+BofA Securities, Research Division
+
+Right. And as a follow-up, David, can I ask? You have this large project ramping over the next several quarters. How should we think about working capital and cash conversion cycle and free cash flow? And at what point would you need to tap the markets to raise more capital?
+
+David Weigand
+Senior VP, CFO, Company Secretary & Chief Compliance Officer
+
+Yes. So we've maintained about $5 billion on average. And obviously, when you double your revenues, that's not going to be enough working capital. So as we announced, we did put an accounts receivable sales program in place, which allows us to factor our receivables up to $1.8 billion. And we're also -- we also have other programs that are being put into place to meet our needs over the upcoming quarters. So we have no doubts about our ability to execute on those programs.
+
+Charles Liang
+Founder, Chairman of the Board, President & CEO
+
+Yes, to add it -- we definitely have a capability to service more customers with a much higher volume, but we will control our revenue based on our cash flow.
+
+Operator
+
+Next question is from the line of Nehal Chokshi with Northland.
+
+Nehal Chokshi
+Northland Capital Markets, Research Division
+
+Yes. Great demand there and understandable that ramping up a new customer on the B300. But I guess, I think it was maybe a year ago, 1.5 years ago that it became apparent that you guys were helping xAI Colossus [ 8 ] -- Colossus 1 ramp up. And that was dilutive to margins at that point in time. The rationale was to get this lighthouse customer and demonstrate the Super Micro's engineering capabilities. Why is it necessary to basically do a routine repeat of this proof of Super Micro's engineering prowess?
+
+Charles Liang
+Founder, Chairman of the Board, President & CEO
+
+xAI, for sure, a very good partner. And whenever we have a chance, we try to work with them to learn some things from them and to offer our best service. So yes, xAI will continue to be our important partner for long term. And again, our capacity is huge and capability is much bigger now, but we will be selective to grow our revenue based on our cash flow.
+
+David Weigand
+Senior VP, CFO, Company Secretary & Chief Compliance Officer
+
+And Nehal, what I would add is that what we are doing is that we are validating each time as we did 1.5 years ago and now that we're the premier provider of advanced DCBBS solutions and AI data centers. So we gladly stepped into that role, and we continue to get additional business each quarter as a result of these successful installations.
+
+Operator
+
+Next question is from the line of Quinn Bolton with Needham & Company.
+
+Shadi Mitwalli
+Needham & Company, LLC, Research Division
+
+This is Shadi Mitwalli on for Quinn. My first question is on gross margins. I know you guys mentioned new facilities coming online and that possibly being a tailwind for gross margin over time. So I was just wondering if we can get some more color here on the timing and maybe just the overall impact of these new facilities would have.
+
+Charles Liang
+Founder, Chairman of the Board, President & CEO
+
+Yes. As you know, we need to invest in Malaysia and Taiwan in U.S.A. all our location. So make sure we have enough capacity to put in the best quality product, most optimal to the market. So in December quarter, we spent a lot of money to establish the foundation. And going forward, now we have those capacity and capability to grow much larger scale business.
+
+Shadi Mitwalli
+Needham & Company, LLC, Research Division
+
+Great. And then my follow-up is on the Super Micro federal program you guys announced intra-quarter. I was just curious if we can get some more color on this program? And maybe what led to the creation of it? And how this initiative could position Super Micro for government contracts going forward?
+
+Charles Liang
+Founder, Chairman of the Board, President & CEO
+
+Yes. We are U.S.A. company and have design manufacture service from Silicon Valley. So federal business should be sweet spot for us. And now we have more talent in service, in the customer relationship, in [indiscernible] kind of support. So that's why we officially initiated a federal program.
+
+Operator
+
+Next question is from the line of Jon Tanwanteng with CJS Securities.
+
+Jonathan Tanwanteng
+CJS Securities, Inc.
+
+I wanted to expand on the prior question on just the case study with Colossus last year and how you took the margin hit to land that customer and validating new technologies. Apparently you're doing it at this time with the bigger customer and at a lower margin. So I guess the question is, philosophically, I'm not asking for margin guidance, but how do you expect to grow the margin going forward from here?
+
+And like how do you prevent that from happening again? Have you seen that stronger margin from follow-on orders from the customers that you have validated your technologies to? Or is that still something that is on the comp or hasn't been possible in this environment for whatever reason?
+
+David Weigand
+Senior VP, CFO, Company Secretary & Chief Compliance Officer
+
+So there are several different initiatives. One, Jon, as you know, we get leverage off of the additional business that we have. We also, as we've mentioned, are pursuing manufacturing in other geographies in order to serve local customers, which we believe will also lower costs. We also have added on data center building block solution strategies, which we try to outline on every call and the expansion of business.
+
+But it's really, as I mentioned earlier, it's the success and the market share that we're taking that are bringing a lot of emerging, not only existing companies from around the world, but also -- and sovereigns, but also new and emerging CSPs and neoclouds and other companies, enterprises coming to us because they recognize the Super Micro name. So we expect that, that will overall raise our margin profile and so we're doing everything we can to raise our margins. But yet, we still want to be the premier provider of DCBBS solutions. And so we think that we have a good strategy in that regard.
+
+Jonathan Tanwanteng
+CJS Securities, Inc.
+
+Okay. And just to clarify, have you seen the higher margins from customers where you maybe gave them better pricing or put you on investment into the initial orders as you get follow-on orders and repeat business from them?
+
+David Weigand
+Senior VP, CFO, Company Secretary & Chief Compliance Officer
+
+Yes. So every -- different customers have different margin profiles based on the amount of design that the Super Micro does for their solution as well as the size of the order that they're placing. So as in any business, customer ordering $1 billion of product is different from a customer ordering $10 billion of product in terms of pricing strategy. So therefore, we're very happy that the customers that we have brought into the Super Micro portfolio of customers is really adding a lot of name value to our brand. And so that's what we're very pleased about. We're gaining market share. There's no question about that.
+
+Jonathan Tanwanteng
+CJS Securities, Inc.
+
+Got it. If I could sneak in one more. Just how are you accounting for the risk of further pushouts in the revenue outlook for the year, just given you've had a couple of high-profile ones already?
+
+David Weigand
+Senior VP, CFO, Company Secretary & Chief Compliance Officer
+
+Yes. So the timing of it -- whenever you're dealing with very large projects, it's not always easy to fit deliveries into 1-, 3-month time frame. And there are all sorts of -- I mean if you take a look at the thousands and thousands of parts we have to bring together to build our solutions.
+
+And also on the customer side, the things that they're having to do to get their data centers ready, there's a lot of logistics that have to take place. It doesn't always line up perfectly with our quarter ends. So we've said, as we continue to take large customers, it's going to be -- there's going to be things beyond our control which includes customer readiness, which includes supply chain issues and et cetera, that will -- that may impact quarter-to-quarter results. But if you look at last quarter, or if you look at the last 2 years, we went from $7.5 billion to $15 billion to $22 billion, okay?
+
+So that trend did not stop. We were adding $7 billion for the last 2 years, each year. Now did those quarters all line up perfectly according to our plan, our annual plan? Not always. But the trend is still there. And we've increased our revenues as well as our profits. And that's what we intend to continue to do.
+
+Operator
+
+Next question is from the line of Mark Newman with Bernstein.
+
+Mark Newman
+Sanford C. Bernstein & Co., LLC., Research Division
+
+So very encouraging to hear about the large orders, $13 billion order you mentioned. Just curious, though, there's not a lot of historical data on orders or backlog. And any color you can give on the size of the backlog of orders or how $13 billion compared to previous quarters. Just trying to understand that what's the size of the -- which we've got guidance on from some of your competitors in the past. And another follow-up question on gross margins as well.
+
+David Weigand
+Senior VP, CFO, Company Secretary & Chief Compliance Officer
+
+Okay. So first, I'll answer that, your first question on historical data. We've -- it's been our practice not to talk about backlog. We couldn't help but talk about the orders that we receive, the new orders that we received, new design wins because they did have some impacts in both the current quarter as well as the December quarter. And so we're speaking to those. But we're not -- we don't talk generally about backlog. So I'll take your second question on gross margin.
+
+Mark Newman
+Sanford C. Bernstein & Co., LLC., Research Division
+
+So gross margins, I mean I know you're trying to stay away from long-term guide, but previously, I believe you've talked about this 15% to 16% long-term target for gross margins. Is that still intact but pushed out? Or is that now not up for grabs? Just curious what's the thinking on that?
+
+David Weigand
+Senior VP, CFO, Company Secretary & Chief Compliance Officer
+
+Yes. Back in -- I think in 2021, we came out with a 14% to 17% gross margin guide. That's probably what you're referring to as a long-term target. The market has changed. And so we -- in fact, we're right in the middle of a change right now as we move on to some new, very new dynamic platforms. And so we will give margin guidance as we can see it clearly. We're doing our best to raise margins in a very competitive landscape. Yes, we would love to be back in double digits. But we'll give guidance when we can see it clearly.
+
+Charles Liang
+Founder, Chairman of the Board, President & CEO
+
+And hopefully, it's not too far away. Indeed, we focus more on DCBBS and enterprise account, then double digital is easy for us. But at the same time, we are very interested to support a large-scale CSP as well. And so far, it looks like it's a great chance for us to service more large CSP customers as well. With large CSP customer and DCBBS enterprise together, our revenue will continue to grow very fast. And double-digit gross margin still in our plan, it just take a little bit longer.
+
+Operator
+
+Final question is from the line of Brandon Nispel with KeyBanc.
+
+Brandon Nispel
+KeyBanc Capital Markets Inc., Research Division
+
+I think echoing the same comments around gross margins that's looking at the guidance, it really implies 0% contribution margin. And so I think revenue growth is great, but was hoping you could really help us understand what's on the other side of this, right, in terms of help us understand what this business looks like from like a free cash flow contribution standpoint, as you guys scale it, because you can't just keep going down the path of lower and lower gross margins, especially when the revenue coming in, is at a 0% contribution margin, again, based on the midpoint of your guys' guidance?
+
+David Weigand
+Senior VP, CFO, Company Secretary & Chief Compliance Officer
+
+So again, we believe that we can't name all of our customers, but I can tell you that we are bringing in some of the best companies in the world. And we believe that our first-to-market practice of being able to bring reliable and optimize solutions quickly to market will reward us well. And this has been our practice over the last 32 years.
+
+And so we've consistently been first to market, we have shown that we can grow quicker than the market at large. And we've also shown that we can bring customized solutions, which bring very good margins and very good returns to the bottom line. So we're staying with our game plan. Right now, the market is going through some new cycles with new kind of exciting new platforms coming out. We believe that this will pay off. So we're staying the course.
+
+Brandon Nispel
+KeyBanc Capital Markets Inc., Research Division
+
+And then just...
+
+Charles Liang
+Founder, Chairman of the Board, President & CEO
+
+Yes. For sure, we will keep our bottom line, make sure we continue keep our bottom line, make sure we continue to make more total profit every quarter, every year. With that as the base for sure, when we have a chance to grow more market share, we try to grow more market share as well. But bottom line is make sure every quarter, every year, we make more total profit.
+
+Brandon Nispel
+KeyBanc Capital Markets Inc., Research Division
+
+Got it. And David, are there any like onetime costs with the design wins and the upgrade pushouts that fell into this quarter in terms of like onetime costs that you're absorbing in this quarter's gross margin guidance?
+
+David Weigand
+Senior VP, CFO, Company Secretary & Chief Compliance Officer
+
+So you're -- in terms of the December quarter, yes, there are -- there's a lot of additional engineering costs and expedite costs and overtime costs that result from delivering kind of what would be twice our normal revenue run rate and scaling a new technology at what we believe would be one of the largest clusters in the world. So yes, there are a lot of extra costs that go into that. And that we don't -- that we believe will actually prepare us for the upcoming quarters?
+
+Charles Liang
+Founder, Chairman of the Board, President & CEO
+
+Yes. It's basically our first GIGA project. And hopefully, we can make it perfectly complete.
+
+Operator
+
+There are no additional questions waiting at this time. So I'll pass the conference back to the management team for any closing remarks.
+
+Charles Liang
+Founder, Chairman of the Board, President & CEO
+
+Thank you. Thank you, everyone.
+
+Operator
+
+That concludes the conference call. Thank you for your participation. You may now disconnect your lines.
+

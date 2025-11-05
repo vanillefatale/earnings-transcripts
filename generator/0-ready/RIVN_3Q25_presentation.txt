@@ -1,0 +1,78 @@
+Rivian Automotive, Inc. (RIVN) Q3 2025 Earnings Call November 4, 2025 5:00 PM EST
+
+Company Participants
+
+Robert Scaringe - Founder, CEO & Chairman of the Board
+Claire McDonough - Chief Financial Officer
+Javier Varela - Chief Operations Officer
+
+Conference Call Participants
+
+Emmanuel Rosner - Wolfe Research, LLC
+Mark Delaney - Goldman Sachs Group, Inc., Research Division
+George Gianarikas - Canaccord Genuity Corp., Research Division
+Joseph Spak - UBS Investment Bank, Research Division
+Dan Levy - Barclays Bank PLC, Research Division
+Yan Dong - Deutsche Bank AG, Research Division
+Federico Merendi - BofA Securities, Research Division
+James Picariello - BNP Paribas, Research Division
+Ben Kallo - Robert W. Baird & Co. Incorporated, Research Division
+Philippe Houchois - Jefferies LLC, Research Division
+Andres Sheppard-Slinger - Cantor Fitzgerald & Co., Research Division
+Colin Langan - Wells Fargo Securities, LLC, Research Division
+
+Presentation
+
+Operator
+
+Good afternoon, and thank you for joining us for Rivian's Third Quarter 2025 Earnings Call. Today, I'm joined by RJ Scaringe, our CEO and Founder; Claire McDonough, our Chief Financial Officer; and Javier Varela, our Chief Operations Officer.
+
+Before we begin, matters discussed on this call, including comments and responses to questions reflect management's views as of today. We will also be making statements related to our business, operations and financial performance, that may be considered forward-looking statements under federal securities law. Such statements involve risks and uncertainties that could cause actual results to differ materially. These risks and uncertainties are described in our SEC filings and the shareholder letter we have filed with the SEC.
+
+During this call, we will discuss both GAAP and non-GAAP financial measures. A reconciliation of historical non-GAAP to GAAP financial measures is provided in our shareholder letter. Just before the earnings call, we published and filed our shareholder letter, which includes an overview of our progress over the recent months. I encourage you to read it for additional details around some of the items we will cover on today's call. Following our prepared remarks, we will be taking questions from sell-side analysts. In the interest of keeping the call to 1 hour, we would ask these analysts to limit any follow-on questions to one.
+
+With that, I'll turn the call over to RJ.
+
+Robert Scaringe
+Founder, CEO & Chairman of the Board
+
+Thanks, Chip. Good afternoon, everyone, and thanks for joining us for today's call. We continue to make progress against our key strategic priorities, including preparation for the launch of R2 and development of our technology road map, including autonomy and our vertically integrated hardware and software. As we've stated before, over the long term, we expect the industry to be fully electric, autonomous and software-defined.
+
+I've never been more confident in the opportunity ahead for Rivian than I am today. I firmly believe Rivian's technology, along with our direct-to-consumer ownership experience, position our company to build a category-defining brand with a strong product portfolio for the U.S. and European markets.
+
+One of the key drivers for attracting customers to electric vehicles and to Rivian's products more specifically is consumer choice and price point. The average new vehicle purchase price in the United States is now just over $50,000, and the most popular configuration is a 5-seat SUV or crossover. Given the attractiveness of this addressable market, I believe R2 is addressing the largest market opportunity with the right product. We leveraged the performance, utility and personality of R1 and refactored into a smaller SUV at a lower cost.
+
+From an R&D perspective, our teams are executing well to ensure the development of R2 remains on track with our plans. We continue to increase the quality and maturity of our design validation builds, positioning us to begin manufacturing validation builds at year-end following the full commissioning of production equipment.
+
+We recently completed the construction of our 1.1 million square foot R2 Body Shop and General Assembly Building and our 1.2 million square foot Supplier Park and Logistics Center. All shops have started equipment bring up, and we are in the process of commissioning the robots in the R2 body shop. In addition, we have completed updates to our paint shop that will allow us to increase our total annual plant capacity to 215,000 units.
+
+I've been driving an R2 for a while now, and it is incredible. From a performance perspective, it delivers on the adventurous spirit customers expect from Rivian, while also being a great daily driver that will fit so many different use cases for our customers. Looking longer term, we expect to add an additional 400,000 annual units of capacity for R2, R3 and associated variants with our next U.S. manufacturing facility in Georgia.
+
+In September, we are honored to be joined by state and local officials for groundbreaking ceremony. Our significant investment in the state of Georgia is expected to create 7,500 jobs as well as billions of dollars of economic benefits to the local community as we expand our U.S. manufacturing and technology footprint.
+
+In parallel to the progress we've made in developing R2, we've also continued to invest in our technology, including our hardware, our software and our autonomy platform. I'm excited to share the progress we're making at our upcoming Autonomy and AI Day on December 11.
+
+Over the longer term, we believe what will differentiate Rivian's autonomous capabilities will be our end-to-end AI-centric approach. With the launch of R2, our growing fleet of customer vehicles will collect real-world driving data, which will complement the data already collected by our second-generation R1 vehicles. That data can be used to train our large driving model which we believe will allow a rapid rollout of updating driving inference models with growing capabilities.
+
+In closing, as we look towards 2026, I'm excited about the opportunity ahead for Rivian, I believe our technology and our products will position Rivian as a market share leader over the long term. I want to thank our employees, customers, partners, suppliers, communities and shareholders for their continued support.
+
+With that, I'll pass the call over to Claire.
+
+Claire McDonough
+Chief Financial Officer
+
+Thanks, RJ, and good afternoon, everyone. As RJ mentioned, we continue to make progress on our priorities, and I want to thank our team for their continued focus as we drive execution throughout the business. While we face near-term uncertainty from trade, tariff and regulatory policy, we remain focused on long-term growth and value creation. It's great to see the continued progress in R2 validation and testing. We're also excited to share more about our hardware and software road map and vision in December at our Autonomy and AI Day.
+
+Turning to the results for the third quarter. Our consolidated revenues were approximately $1.6 billion, and consolidated gross profit was $24 million. Gross profit included $125 million of depreciation and $24 million of stock-based compensation expense. Adjusted EBITDA losses for the third quarter were $602 million. As expected, we saw a quarter-over-quarter step-up in overall operating expenses. This was driven by elevated R&D investments related to prototyping as we prepare for the launch of R2 and training costs for our autonomy platform. SG&A stepped up primarily related to the growth of our sales and service infrastructure and team as well as operating expenses, we don't anticipate will be part of our ongoing cost structure.
+
+Now looking at our Automotive segment. During the third quarter, we produced 10,720 vehicles and delivered 13,201 vehicles from our manufacturing facility. As we've said previously, we expect Q3 will be our highest delivery quarter for the year, which was the primary driver of the $1.1 billion of automotive revenue. Automotive gross profit in the third quarter was negative $130 million and was negatively impacted by low fixed cost absorption associated with planned shutdown to prepare the normal plant for R2.
+
+Despite this headwind, we saw strong progress in our unit economics with one of the best quarters ever in automotive cost of goods sold per unit delivered driven by improved material costs. Our Software and Services segment reported another strong quarter with $416 million of revenue and $154 million of gross profit. About half of the revenue within Software and Services was a result of the software and electrical hardware joint venture we created with Volkswagen Group.
+
+We also experienced strong growth in gross profit contribution from remarketing and vehicle repair and maintenance. Looking at our balance sheet, we ended the quarter with approximately $7.1 billion of cash, cash equivalents and short-term investments. We continue to see improvements in our working capital, primarily driven by our focus on reducing our raw material, work in progress and finished goods inventory levels. We continue to expect to receive additional capital of up to $2.5 billion associated with our Volkswagen Group joint venture transaction, $2 billion of which we expect to receive in 2026. Additionally, we continue to partner with the Department of Energy for an up to $6.6 billion loan at a favorable cost of capital. We will update the market as we progress on this important project for the company.
+
+Finally, for our guidance. We are reaffirming our 2025 delivery guidance range of 41,500 to 43,500 units. We are reaffirming our 2025 adjusted EBITDA loss guidance range of $2 billion to $2.25 billion and 2025 capital expenditures guidance of $1.8 billion to $1.9 billion. We continue to expect our gross profit for the full year of 2025 to be roughly breakeven.
+
+Thank you again to the team for delivering a great quarter. As we near the end of the year, we look forward to 2026 and remain steadfast in our belief that R2 and our technology road map will be truly transformative for our growth and profitability.
+
+I'd like to turn the call back over to the operator to open the line for Q&A.

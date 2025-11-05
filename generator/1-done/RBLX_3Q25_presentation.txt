@@ -1,0 +1,174 @@
+Roblox Corporation (RBLX) Q3 2025 Earnings Call October 30, 2025 8:30 AM EDT
+
+Company Participants
+
+Stefanie Notaney - Senior Director of Financial & Corporate Communications
+David Baszucki - Founder, President, CEO & Chairman of the Board
+Naveen Chopra - Chief Financial Officer
+
+Conference Call Participants
+
+Matthew Cost - Morgan Stanley, Research Division
+Brian Pitz - BMO Capital Markets Equity Research
+Eric Sheridan - Goldman Sachs Group, Inc., Research Division
+Jason Bazinet - Citigroup Inc., Research Division
+Cory Carpenter - JPMorgan Chase & Co, Research Division
+Kenneth Gawrelski - Wells Fargo Securities, LLC, Research Division
+Benjamin Black - Deutsche Bank AG, Research Division
+Omar Dessouky - BofA Securities, Research Division
+William Lampen - BTIG, LLC, Research Division
+
+Presentation
+
+Operator
+
+Good morning. My name is Kate. Welcome to Roblox's Third Quarter 2025 Earnings Conference Call. [Operator Instructions] Stephanie Notaney, you may now begin your conference.
+
+Stefanie Notaney
+Senior Director of Financial & Corporate Communications
+
+Thanks, Kate. Good morning, everyone. Thank you for joining our Q&A session to discuss Roblox's Q3 2025 results. With me today is Roblox's Co-Founder and CEO, David Baszucki; and our Chief Financial Officer, Naveen Chopra.
+
+Our shareholder letter, SEC filings, supplemental slides and a replay of today's call can be found on our Investor Relations website.
+
+Our commentary today may include forward-looking statements, which are subject to risks, uncertainties and assumptions that could cause actual results to differ materially from those described in our forward-looking statements.
+
+A description of these risks, uncertainties and assumptions are included in our SEC filings, including our most recent reports on Form 10-K and Form 10-Q.
+
+You should not rely on our forward-looking statements as predictions of future events. We disclaim any obligation to update these statements, except as required by law.
+
+During this call, we will also discuss certain non-GAAP financial measures. Reconciliations between GAAP and non-GAAP metrics can be found in our shareholder letter and supplemental slides.
+
+With that, I'll turn it over to Dave.
+
+David Baszucki
+Founder, President, CEO & Chairman of the Board
+
+Thank you, Stefanie. Good morning and thank you for joining us today. A year ago, at RDC, we shared the goal of capturing 10% of the global gaming content market. We'd like to report that we've made tremendous progress. We estimate now that 3.2% of global gaming bookings or revenue is going through Roblox, and that's up from 2.3% last year.
+
+Our platform and our creator ecosystem is healthier than it has ever been. Similarly to Q2, in Q3, we saw strength both across the platform with both existing and new experiences on the platform.
+
+The number of experiences that have more than 10 million daily active users on the platform at some point during Q3 2025 hit 7, and that includes a lot of experiences we're all familiar with as well as 5 that were created in the last 12 months.
+
+That's Grow a Garden, Steal a Brainrot, Brookhaven, 99 Nights in the Forest, Plants Vs Brainrots, Ink Game and Blox Fruits.
+
+We believe the success on our platform continues to be driven by raw platform capabilities and performance, continued improvements in Discovery, continued improvements in our virtual economy.
+
+And complementing that, the investments we've made in infrastructure, which supported multiple groundbreaking records over the last quarter, including a 45 million peak concurrency during the weekend in August.
+
+Let's get into the financial results. In Q3, our DAUs hit 151.5 million. That's up 70% year-on-year. This was growth really across all regions, including U.S. and Canada, 32% up year-on-year; APAC up 108% year-on-year.
+
+And importantly, we see continued evolution of our age demo with 13 and over DAUs growing 89% year-on-year. Right now, 2/3 of total DAUs are 13 and up. Hours had similar strength, hitting 39.6 billion hours of engagement in Q3. That's up 91% year-on-year.
+
+Strength across all regions, U.S., and Canada, up 47% year-on-year. APAC hours of engagement up 127% year-on-year. Commensurate growth with 13 and up 107% year-on-year, 68% of our total hours are 13 and up.
+
+Q3 revenue was $1.36 billion, up 48% year-on-year. Q3 bookings was $1.92 billion, up 70% year-on-year. Once again, strong growth across regions, U.S. and Canada, bookings up 50% year-on-year. APAC bookings up 110% year-on-year.
+
+Some highlights, Japan, 125%; India, 146%. Indonesia bookings up 804% year-on-year. Our monthly unique payers continues to be strong at 35.8 million, up 88% year-on-year. And in Q3 through DevEx, we hit $427.9 million of DevEx, up 85%, a new record.
+
+I want to highlight that DevEx, which is what our creators are earning on the platform, has grown 250% from the same period 2 years ago. We continue to have strong conviction for our long-term vision, and we'll continue to be more diligent about investing in this innovation to support long-term genre expansion and growth.
+
+We've talked about genre expansion a lot over the last year. I want to do a few highlights here. We have a lot of technology that showed at RDC this year that's rolling out, including server authority and custom matchmaking, which will make Roblox more resilient and powerful for competitive genres like shooters, sports and racing.
+
+We've already showcased avatar enhancement technology that is in the pipeline that we believe is going to really expand the look and feel of Roblox to higher fidelity and more lifelike avatars and continued focus in raw performance on the platform, including tech like Harmony and SLIM, which we believe is part of the future of high fidelity gaming.
+
+And the ability of our creators to make experiences that can run both on low-end 2-gig Android as well as really nice high-end gaming to -- PCs. On Discovery, we've continued really a commitment to transparency that we also believe is good for the company.
+
+And we shared the notion that we're sharing our Discovery signals with our creators, making those transparent in their analytics dashboard. And we've highlighted that we're using play-through rates, 7-day play days per user, 7-day intentional co-play days.
+
+So our creators can see exactly what we're using to make recommendations. We continue to see Discovery highlight new hits. For example, in Indonesia, Fish It! has become extremely popular, and we believe our Discovery system has helped promote that.
+
+I would also highlight our content ecosystem continues to be strong with what have now become perennial successes like Brookhaven, Adopt Me! and Blox Fruits, which all continue to draw strong engagement.
+
+And some of our hits from last year like RIVALS and Dress To Impress continue to launch active and successful updates. Really important at RDC, we announced an 8.5% increase to the DevEx rate. Creator earnings surpassed $1 billion in the first 9 months of 2025.
+
+Also in support of our creator ecosystem, we've launched our IP platform, which we believe really is the future way to allow IP holders and creators to connect without all of the complexity of handcrafted individual one-on-one contractors or contracts.
+
+And I want to highlight IP owners like Mattel and Kodansha have joined that platform. And we recently announced and launched Roblox Moments which we believe is an additional innovative discovery surface for our creators.
+
+Now in addition to all of this, I want to make a couple of highlights on some of the areas of tech we've been really working on before I hand over to Naveen.
+
+First, really safety, which has always been a top priority for us and foundational to everything we do at Roblox. Just yesterday, we announced a partnership with the AGA, the Attorney General Alliance on a child safety coalition.
+
+Stay tuned with this. We believe there's a wonderful opportunity to share and develop what we believe is going to be the industry standard in communication for social and mobile apps, including our commitment by the end of this year to use AI-based facial age estimation to estimate the age of everyone on our platform.
+
+And to use that to gate who uses communication technology and help route who can communicate with who, even in addition to what we already do, which is filtering of all text and no image sharing on Roblox.
+
+We believe as new technology rolls out, it allows us to harvest and use this technology for continued advancements in safety and civility.
+
+We've also released over 100 innovations this year in our safety and civility group, including an announcement that we're going to be adopting IARC, an International Age Rating Coalition rating over the next few quarters.
+
+And we've raised our minimum age for restricted content to really the global standard of 18 years old. I want to highlight, we do run stricter than typical industry policies on Roblox.
+
+We believe it's an essential strategic investment to how we run the company. And as we roll out facial age estimation, we really do believe this is going to add long-term value creation for shareholders, even if there are any short-term headwinds from that rollout.
+
+On the AI side, we are now up to running over 400 AI systems inside the company. These are core within safety, discovery, and creation, highlighting a few things that we've shipped so far.
+
+Our Cube 3D model, which we shipped earlier, is really going to come to life over the next 1 to 2 quarters as this goes live in multiplayer mode for everyone on the platform.
+
+We've also open sourced the Studio MCP server, which is making Roblox Studio the ability to integrate as both a client and a server in complex AI-based workflows.
+
+Behind the scenes, our safety model for PII continues to get better all the time. And we shipped RoGuard for our safety of our LLM text-gen tech in game. Stay tuned for a lot more generative AI.
+
+I want to highlight that in addition to AI for safety and discovery, there's been a lot of chat about how much training data various people have access to.
+
+Within Roblox every day, we are moving forward to capturing, which is literally over 30,000 years of human interaction data and doing this in a PII-compliant way.
+
+This is unique data, data we have no intent of ever getting outside of our walls or selling that can really be used as we start to roll out our future vision of allowing people to play both with others as well as with NPCs and supporting unlimited creation in Roblox, not just for our creators, but for everyone.
+
+And that can mean per object with clothing, per the world you're in, per game creation and ultimately, with friends in real-time well playing.
+
+Finally, 45 million concurrent users is a really big number. And we supported this really moving towards what we think is more and more an optimal mix of our own data centers, both core data centers, edge data centers and GPU installations on our own bare metal with bursting with our cloud partners.
+
+And we did this in really a wonderful way by bursting over weekends for several hour slots when we hit peak numbers. We're going to continue to go down this route. We're investing more and more in our own bare metal for scale.
+
+Core data centers give us load balancing and efficiency. Everyone in Brazil is happy because we added a new edge data center there to reduce latency. We're going to continue doing that.
+
+And we are more and more now building out our own native bare metal GPU capability, but coupling with our cloud partners. We're going to make sizable improvements here.
+
+The big improvements we've seen in cost to serve may be harder to realize for the next few quarters, but this is all consistent with our long-term focus.
+
+With all of this excitement about innovation, we, of course, we have a lot of initiatives we work on every day to enhance our platform. We focus on the details. And with that, we're going to hand it -- I'm going to hand it over to Naveen to complement my introduction.
+
+Naveen Chopra
+Chief Financial Officer
+
+Great. Thanks, Dave. Good morning, everybody. I'm going to try to keep my comments relatively brief so we can get to some questions. As Dave noted, the tremendous growth that we saw in the quarter was driven by this combination of big viral hits and underlying platform growth.
+
+And so with that in mind, I want to just share a few observations regarding overall platform health, if you will. Last quarter, I highlighted the engagement growth that we were seeing in experiences outside of our top 10.
+
+Well, this quarter, the growth in engagement for these experiences, again, outside of the top 10 accelerated even further from 47% in Q2 to 58% in Q3. That's the engagement.
+
+And then on the monetization side, spending in that cohort of experiences remained north of 40% -- excuse me, spending growth remained north of 40%.
+
+We also saw healthy growth in bookings per daily active user. That was true in every region other than APAC, which I call out because very importantly, in APAC, the trend really is a function of mix shift at the country level.
+
+Payers, as Dave highlighted, grew 88% year-on-year, which is a very healthy growth rate in and of itself. But notably, it's higher than the rate of user growth, which was 70%. And we believe that this dynamic is at least in part caused by changes that we've made in our economy.
+
+Remember, we launched regional pricing for marketplace items back in June. And we think that, that helped drive higher payer penetration in markets like Southeast Asia.
+
+We did see a decline in bookings per payer on a blended basis, but similar to my comments on bookings per DAU, it's important to understand that this was really driven by geographic mix shift.
+
+So platform evolution looks healthy, and that really increases our conviction in our long-term goals. But as Dave pointed out, also underscores the importance of continuing to invest to ensure that we can deliver healthy growth over a multiyear period of time. So what does that look like financially?
+
+Well, on the top line, we see momentum in the business to continue to deliver healthy double-digit bookings growth. We think that will be aided by the launch of a number of the key technologies Dave touched on that will roll out in late Q1 and early Q2 of 2026.
+
+Many of these technologies are designed to enable genre expansion on our platform. You saw some of those demoed at RDC.
+
+From a reported growth perspective in '26, we think the adoption of these technologies will be a factor, meaning how quickly developers adopt some of these new capabilities will influence the growth rate, particularly given the tough compares that we know we'll have coming out of 2025.
+
+We're also conscious of the fact that the new safety policies we're rolling out consistent with our commitment to being the gold standard for safety may cause some short-term friction to engagement and bookings.
+
+But ultimately, we think those are a magnifier of long-term growth. And then on the expense side of the equation, we are envisioning more investments in DevEx, in infrastructure and people to support our goals around safety and genre expansion. That's the reason you're not seeing year-over-year margin expansion in Q4 based on our guidance.
+
+And it's the reason that we expect margins to decline slightly in 2026, given the combined impact of a full year of higher DevEx rates, limited cost to serve improvements around infrastructure and safety and higher growth rates in our comp and ben expense lines.
+
+There'll also be incremental CapEx starting in Q4 2025, that's incorporated in the guidance that we shared. And I would tell you to expect similar levels of CapEx in 2026, which, of course, implies that CapEx intensity next year should be lower than 2025 and but still somewhat elevated relative to 2024.
+
+So I realize probably getting a little bit into the weeds there, but let me step back for a second. I think the key takeaways here are we are way ahead of our long-term growth plans.
+
+And in fact, the reality situation is that bookings have grown faster than our ability to deploy the appropriate growth investments. And that means you're going to see some slight margin compression as we catch up over the next few quarters.
+
+But I think those investments really should give everyone even more confidence in our ability to continue to deliver sustainable long-term growth. So hopefully, that's some helpful color both on what we're seeing and what we're expecting.
+
+And with that, I think we'll open the line for questions.

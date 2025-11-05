@@ -1,0 +1,138 @@
+Wayfair Inc. (W) Q3 2025 Earnings Call October 28, 2025 8:00 AM EDT
+
+Company Participants
+
+Ryan Barney
+Niraj Shah - Co-Founder, Co-Chairman & CEO
+Fiona Tan - Chief Technology Officer
+Kate Gulliver - CFO & Chief Administrative Officer
+
+Conference Call Participants
+
+Jolie Wasserman - JPMorgan Chase & Co, Research Division
+Simeon Gutman - Morgan Stanley, Research Division
+Peter Keith - Piper Sandler & Co., Research Division
+Maria Ripps - Canaccord Genuity Corp., Research Division
+Brian Nagel - Oppenheimer & Co. Inc., Research Division
+Steven Forbes - Guggenheim Securities, LLC, Research Division
+
+Presentation
+
+Operator
+
+Hello, and thank you for standing by. My name is Tiffany, and I will be your conference operator today. At this time, I would like to welcome everyone to the Wayfair Third Quarter 2025 Earnings Release Conference Call.
+
+[Operator Instructions] I would now like to turn the call over to Ryan Barney, Head of Investor Relations. Ryan, please go ahead.
+
+Ryan Barney
+
+Good morning, and thank you for joining us. Today, we will review our third quarter 2025 results. With me are Niraj Shah, Co-Founder, Chief Executive Officer and Co-Chairman; Steve Conine, Co-Founder and Co-Chairman; Kate Gulliver, Chief Financial Officer and Chief Administrative Officer; and Fiona Tan, Chief Technology Officer. We will all be available for Q&A following today's prepared remarks.
+
+I would like to remind you that our call today will consist of forward-looking statements including, but not limited to, those regarding our future prospects, business strategies, industry trends, and our financial performance, including guidance for the fourth quarter of 2025. All forward-looking statements made on today's call are based on information available to us as of today's date. We cannot guarantee that any forward-looking statements will be accurate, although we believe that we have been reasonable in our expectations and assumptions.
+
+Our 10-K for 2024, our 10-Q for this quarter, and our subsequent SEC filings identify certain factors that could cause the company's actual results to differ materially from those projected in any forward-looking statements made today. Except as required by law, we undertake no obligation to publicly update or revise any of these statements, whether as a result of any new information, future events or otherwise.
+
+Also, please note that during this call, we will discuss certain non-GAAP financial measures as we review the company's performance, including adjusted EBITDA, adjusted EBITDA margin and free cash flow. These non-GAAP financial measures should not be considered replacements for and should be read together with GAAP results. Please refer to the Investor Relations section of our website to obtain a copy of our earnings release and investor presentation, which contain descriptions of our non-GAAP financial measures and reconciliations of non-GAAP measures to the nearest comparable GAAP measures. This call is being recorded, and the webcast will be available for replay on our IR website.
+
+I would now like to turn the call over to Niraj.
+
+Niraj Shah
+Co-Founder, Co-Chairman & CEO
+
+Thanks, Ryan, and good morning, everyone. We're pleased to be here today to discuss our third quarter results with you. Q3 was a great success. Share gain further accelerated with revenue growing 9% year-over-year, excluding Germany. This came in tandem with more than 70% year-over-year growth in adjusted EBITDA. Our 6.7% adjusted EBITDA margin marks the highest level achieved in Wayfair's history outside of the pandemic period. As we've promised, substantial profitability flow-through is powered by a strong contribution margin and fixed cost discipline as our business has returned to growth.
+
+As we shared in Q2, we see the groundwork we've laid over multiple years directly driving share capture and profitability despite a category that remains stubbornly sluggish. Existing home sales continue to bounce along the same multi-decade lows we've seen since late 2022. Decreasing short-term interest rates certainly loosened financial conditions, but mortgages are a longer-duration product, and will require more relief in long-term rates before we start to see a broader unlock in mobility. In that context, it's important to note that our plan to grow is driven by Wayfair-specific factors and is not reliant upon a recovery in the housing market.
+
+In spite of the depressed housing environment, we've been encouraged to see that the category has moved past its multiyear trend of double-digit declines. Based on the data we have, the category started down low single digits and has been inching closer and closer to flat over the course of 2025, though it remains structurally underspent against the pre-pandemic baseline.
+
+This directional improvement is all the more encouraging given the uncertainty our industry has faced around the evolving tariff landscape this year. These changes have only served to reinforce the relative strength of our model, consistently delivering the best value and experience to our customers, while simultaneously enabling our suppliers to win share and grow their businesses. That strength should be very clear in the KPIs themselves.
+
+Revenue growth was driven by order momentum. We saw orders grow by over 5% year-over-year in the quarter, including new orders growing mid-single digits for 2 quarters in a row. Active customers saw sequential growth for the first time since 2023. AOV was up roughly 2% in Q3, driven almost entirely by mix shift as our higher-end brands and B2B outperformed the growth of the Wayfair business. Competition remains intense amongst our suppliers and provides a structural incentive to keep prices as low as possible to win share on our platform.
+
+To measure our momentum, we anchor on quarter-over-quarter trends as a barometer of success. Q3 this year was the best sequential growth we've seen in the third quarter since 2019, following strong trends from the second quarter. I'm sure many of you are wondering how much of this is intrinsic growth improvement versus something more transitory like pull forward due to tariffs. The only instances of pull forward we've identified came from a very short-lived increase in large appliances demand back in the early spring and a similarly short-lived increase in vanities late in the third quarter. Neither of these moves the aggregate in a meaningful fashion. We see our outperformance as structural share capture driven by our strong day-to-day execution against the core recipe, the early success of the new programs we've been able to launch and from the broad gains we have brought to bear from our technology team.
+
+Since the start of the year, we've highlighted the strong returns we're seeing from initiatives like Wayfair Rewards, Wayfair Verified and our growing fleet of retail stores. These successes all reflect the deeper engineering resources we've been able to dedicate now that our multiyear replatforming is largely complete. At the turn of the decade, we made the decision to modernize our technology stack, including migration from data centers to the cloud. The simplest way to think about this is that by replatforming our code base, we can now be much more agile and, as a result, meaningfully ramp up the pace of innovation and what we can offer our customers and suppliers.
+
+We completed the bulk of our replatforming earlier this year and the timing couldn't have been better as we are in the early innings of a new phase in how customers shop online. While AI has certainly become the buzzword of late, we've been on the forefront of machine learning for a long time, leveraging algorithms to drive everything from pricing decisions to marketing investments. Today, there is new ground being broken with the proliferation and sophistication of generative AI, and Wayfair is a leader in the application of AI in retail.
+
+To that end, I'm excited to have Fiona Tan, our Chief Technology Officer, here today to spend some time diving deeper into the ways we're bringing Generative AI to bear across all of Wayfair. Let me now turn it over to her.
+
+Fiona Tan
+Chief Technology Officer
+
+Thank you, Niraj, and good morning, everyone. I'm thrilled to join you today to share how our technology teams are shaping the next chapter of Wayfair's growth, powered by a long leadership in AI and machine learning and now by pragmatic advances in generative and agentic AI. Wayfair has always been a technology-focused, customer-obsessed company. Our promise to customers is to make it easy for them to create a home that's just right for them, and the rapid evolution of AI represents a considerable opportunity to deliver on that promise in new ways.
+
+Our long history of applying machine learning from the predictive models that power our core pricing and marketing engines to the algorithms that help us classify and organize our vast complex product catalog, means we're not starting from zero, but instead scaling from a position of strength, backed by operational discipline to measure impact rigorously.
+
+Our investments in AI are pragmatic and results-oriented centered on three key strategic outcomes. First and most importantly, we are reinventing the customer journey. We are moving beyond simple personalization to create truly intuitive and inspiring shopping experiences that guide customers from their initial idea to the perfect product for their home. Second, we power this best-in-class experience by supercharging our operations and our teams. We are embedding AI into our core processes to make them faster and more efficient and have provided generative AI tools to every employee. This allows us to deliver our customers with a level of excellence that is difficult to replicate.
+
+And third, we are powering our platform and ecosystem. We are building tools that make Wayfair the best possible partner for our suppliers and are ensuring our catalog is seamlessly integrated into the next generation of AI-driven commerce. Let me walk you through each of these.
+
+Starting with the customer, we are using generative AI to make the shopping journey more intuitive and personal than ever before. We think about this as an AI-powered growth flywheel to inspire, engage, learn and personalize. It all starts with inspiration. And we're using generative AI in multiple ways to help customers discover products they love. We developed Muse, our proprietary AI-powered inspiration and discovery engine, to create shoppable photorealistic room scenes to capture the attention of low intent customers and Spark discovery. Muse offers a visual browsing experience, entirely powered by generative AI.
+
+We then incorporate learnings from Muse into our new Discover tab in our app, offering an endless loop-based shopping experience that turns inspiration directly into action, delivering a measurable lift in conversion as well as visit duration for customers that engage with the tab. In parallel, we're using generative AI to understand what inspires our customers beyond just their searches and clicks. Our new interest-based carousels are driving incremental revenue uplift by matching product to every customer's lifestyle and aesthetic, with contextual signals like location and weather coming soon to enhance personalization.
+
+Once a customer is inspired, we engage them with a suite of AI-powered tools that builds confidence and removes friction from their journey. We've evolved our on-site search to be more intuitive using a sophisticated LLM to move beyond traditional keyword matching. This allows us to interpret what a customer is looking for with far greater nuance, connecting to the right products with greater precision. For shoppers who have picture, but not the words, our visual search allows them to simply upload or snap a photo and instantly find similar products from our catalog, turning real-world inspiration into a shoppable reality.
+
+When customers have specific questions, our AI-powered assistant provides instant reliable answers by drawing directly from product specifications and reviews. These interactions feed our ability to learn, and ultimately to personalize. This is where we combine AI scale with our unique home expertise. We had our own interior designers, annotate nuanced style pairings then used LLM to scale this understanding across our entire catalog. The results are compelling. Customers who see these designer quality personalized recommendations are 1/3 more likely to save, add to cart or order products, reflecting a much higher confidence in our selections.
+
+And we are just getting started. We are now preparing to test a new generative AI feature called, Complete the Look. What's unique here is our proprietary ability to generate a complete styled room scene where the products visualized are directly inspired by real shoppable items in our catalog. This allows customers to move from individual product ideas to a complete shoppable design plan more intuitively than ever before. None of this is possible without world-class execution. This brings me to our second pillar, supercharging our operations and our teams.
+
+A core part of our operational excellence is the quality of our product catalog itself. We are using generative AI at scale to improve the accuracy, consistency and completeness of our product information. This makes our catalog more reliable for customers and simplifies the management process for our suppliers. This catalog enrichment is already delivering an impactful lift in add to cart rates. At the same time, we are using AI to automatically detect and process duplicate items, which keeps the customer experience clean, and is projected to reduce the cost of this review process by 3 quarters.
+
+With a more reliable catalog as our foundation, we deliver superior customer service. We recognize that the unique nature of our category, which involves high consideration and complex orders, requires a sophisticated approach to service. For immediate 24/7 resolutions on common inquiries, we use fully autonomous conversational AI agents. For the more nuanced situations that benefit from human expertise, we've equipped our associates with a powerful real-time AI copilot, which combines several advanced capabilities. It uses our patent-pending intent-based routing to connect customers to the right expert on the first try, and it uses advanced reasoning models to recommend better, more proactive solutions when a standard replacement won't be enough.
+
+This holistic system is designed to live first contact resolution and post contact satisfaction, all while reducing our cost to serve and driving down waste. This focus on a reliable experience also extends to trust and safety. Our multimodal AI now uses computer vision to detect fraudulent imagery in real time, better protecting both our customers and our suppliers. Just as AI is evolving our operations, it's also up-leveling how we work. We are committed to ensuring that every Wayfarian can benefit from this AI transformation. Our engineers are integrating leading coding assistants to accelerate development cycles, while business teams, in marketing and merchandising use generative tools to automate repetitive tasks and focus on more strategic work. We have provided a generative AI license to every single employee, and we are fostering a culture of hands-on innovation that goes beyond just structured training.
+
+We're encouraging our entire team to find new ways to create value with these tools through programs like our Gen AI Innovation Challenge, where any employee, not just technical ones, can submit ideas that solve real business problems. In fact, many of these have already been implemented across the organization today. By using leader boards and other engagement models, we are making AI experimentation part of our everyday culture. This mindset where our teams are learning with the same urgency and curiosity we expect of the technology itself is fueling innovation that translates directly into better supplier tools and richer customer experiences.
+
+Finally, our third pillar is about powering our platform and ecosystem. We win when our partners win, and that means using AI to both improve their operations and to drive more qualified customers to their products. For our suppliers, we've developed an AI agent that automates service ticket classification and resolves a portion of inquiries without manual intervention, a truly agentic implementation that we expect to drive measurable savings over time. Simultaneously, we are using generative AI to put those suppliers' products in front of more customers. We've utilized LLMs to rapidly scale and optimize our SEO titles, leading to greater Wayfair presence in Google Search and a higher volume of free traffic.
+
+We've also used gen AI to create superior titles and ad copy for our Google Product Listing Ads, driving strong, consistent results and a powerful synergy between our organic and paid marketing performance. This leadership in search is now the foundation for our work in generative engine optimization to ensure our products are not just discoverable, but are selected and recommended by these new AI platforms.
+
+Looking ahead, we are actively shaping the future of agentic commerce with a clear dual-pronged strategy. First, we view this as a new additive channel for growth, so we will be where our customers are. This begins with ensuring a vast and specialized catalog is deeply integrated and accurately represented on leading AI and search platforms including Google, OpenAI and Perplexity. This provides the foundational third-party truth on our selection, pricing and delivery promises, but we are moving beyond just discovery to enable seamless transactions. Our plan is to make our catalog fully transactable on leading AI platforms, allowing customers to shop with confidence and ease wherever their journey begins.
+
+Simultaneously, we are building deep competitive moats to ensure our own site and apps remain a premier shopping destination. These moats are built on our unique advantages, a powerful inspiration and personalization road map, fueled by our proprietary data, our foundational strength in selection and fast delivery and unique programs like Wayfair Verified that build customer trust and confidence. That belief in our unique advantages underscores how we're thinking about differentiation in the AI era. In a world of AI-driven commerce, retailers with a large, well-detailed catalog of products, verified supply chains, transparent fulfillment and deep technology capabilities are advantaged.
+
+We believe that customer attention will flow to the most trustworthy API, not the loudest ad. The disciplined investments we've made in our core data and technology architecture position us to deploy these technologies safely and at scale. This turns our deep technical heritage into a sustained competitive advantage, and it gives us confidence that we're not only keeping pace with the AI revolution, we're helping lead it.
+
+Thank you. And now I'll hand it over to Kate to review our financials.
+
+Kate Gulliver
+CFO & Chief Administrative Officer
+
+Thanks, Fiona, and good morning, everyone. Let's dive into our financial results for the third quarter before we move to guidance.
+
+Starting with the top line. Revenue grew by 8% year-over-year on a reported basis and 9% year-over-year excluding the impact of our exit from Germany. We saw healthy growth across both our segments with the U.S. business up 9% year-over-year, and international up by 5%.
+
+Let me continue to walk down the P&L. As I do, please note that the remaining financials include depreciation and amortization, but exclude equity-based compensation, related taxes and other adjustments. I will use the same basis when discussing our outlook as well.
+
+Gross margin for the third quarter came in at 30.1% of net revenue, while customer service and merchant fees were 3.7% and advertising was 10.6% of net revenue. As I discussed back in August, our focus is on improving contribution margin, that is gross margin less customer service and merchant fees and advertising, and balancing the trade-offs between these three-line items. The structural gross margin improvements we are achieving through initiatives like supplier advertising and logistics provides us with a wider envelope of dollars to reinvest back into the customer experience. We're doing this while driving savings in other lines of the P&L, such as advertising.
+
+We think about where the ROI of each dollar of spend is maximized on a multi-quarter basis as we map out the mix of investments in the customer experience and advertising that generates the most EBITDA dollars. The net of this was a contribution margin of 15.8%, up 150 basis points year-over-year and our best result since 2021. The bulk of this was driven by the considerable leverage we saw in advertising this quarter. We're continuing to see the dividends of investments made in prior quarters paying off as well as the compounded effects of efforts to improve the mix of free versus paid traffic.
+
+Last quarter, I mentioned the success we've had in driving adoption of our mobile app, and we saw that ramp even further in Q3. In fact, the revenue from our mobile app grew by double digits year-over-year and total installs grew by nearly 40%. Some of this reduction in ad spend is onetime in nature. We ran several holdout tests in the third quarter, which drove the outperformance versus guidance. These tests are important as they help us refine our perspective on incrementality spend and play a valuable role in refining the machine learning algorithms that drive our advertising operations.
+
+Selling operations, technology, general and administrative expenses totaled $360 million for the quarter. In total, we generated $208 million of adjusted EBITDA in Q3 for a 6.7% margin. This is a remarkable achievement, up by more than 70% year-over-year.
+
+We ended the quarter with $1.2 billion in cash, cash equivalents and short-term investments and $1.7 billion in total liquidity when including our undrawn revolver. Cash from operations was $155 million, offset by $62 million of capital expenditure. Free cash flow was $93 million, an improvement of more than $100 million compared to the third quarter of last year. The improvement in our profitability picture has demonstrably changed our capital structure profile. A year ago, our net leverage is more than 4x trailing 12-month adjusted EBITDA. Today, that sits at 2.8x, well over a full turn reduction.
+
+Having managed our 2025 and 2026 convertible maturities, we've begun to turn our attention to our 2027 and 2028 bonds, which have strike prices of $63 and $45, respectively. In August, we used roughly $200 million of cash to repurchase about $101 million of principal on our 2028 notes. Given the trading price of the stock, these bonds essentially trade as an equity substitute. So said differently, the $200 million of cash was effectively an offset to roughly 2.2 million shares of potential dilution and future interest expense through 2028, all while reducing the gross debt balance outstanding. We are operating with a dual mandate: reducing leverage while also managing dilution, and you'll see us continue to balance these goals opportunistically in the future.
+
+Let's now turn to guidance for the fourth quarter. Our quarter-to-date performance is skewed by the timing of our fall, the Way Day, which ran in early October last year and is running right now for 2025. Controlling for that timing, we're seeing strong performance over the first month of the quarter and we're excited about the holiday season ahead. Going forward, we're planning to move away from giving quarter-to-date results given how often it is contorted by comparability issues and will instead just anchor on the full quarter guide. For the fourth quarter, we would expect net revenue to be up in the mid-single digits year-over-year, which includes the roughly 100 basis point drag from the impact of closing Germany.
+
+Turning to gross margins. We will continue to anchor you to the 30% to 31% range, likely coming in at the low end of the range once more as a function of both our reinvestment as well as the typical seasonality we see in the holiday quarter. Customer service and merchant fees should be just below 4%, and advertising should be in an 11% to 12% range of net revenue.
+
+As I mentioned a moment ago, the outperformance we saw in Q3 was driven in part by the holdout test, which were onetime in nature. While we're certainly making strong progress on driving structural improvement in ad cost as a percentage of net revenue, we would expect Q4 to come in modestly higher than Q3 in the absence of these tests on top of our typically higher spend in the final months of the year.
+
+The net of all these moving pieces should get us to a place where we drive a contribution margin that is in line with where we were in the second quarter of this year and a considerable improvement on a year-over-year basis. SOT G&A is expected to stay in the $360 million to $370 million range, likely at the top end of the range given seasonality in the holiday quarter and some spend here tied to revenue like cloud computing costs. This continues to be the appropriate run rate to think about as we look to 2026. Following this all down, we anticipate adjusted EBITDA margins in the 5.5% to 6.5% range for the full quarter.
+
+Now let me touch on a few housekeeping items. We expect equity-based compensation and related taxes of roughly $80 million to $100 million. This includes approximately $20 million of impact from the CEO performance award approved by our Board in September. You should expect this to become a recurring part of stock-based compensation in the quarters ahead. The accounting treatment begins expensing the fair value of the grant today, but I want to be clear that there are no shares being issued right now nor will any be issued until the share price targets are met.
+
+Depreciation and amortization to be approximately $71 million to $77 million; net interest expense of approximately $30 million, weighted average shares outstanding of approximately $130 million; and CapEx in the $55 million to $65 million range.
+
+I want to now wrap up by taking a moment to turn the clock back to where we began 2025. In the shareholder letter, Niraj and Steve, published in February, they talked about our three core goals for the year: one, focus on tight execution to drive profitable growth through taking market share in what is likely a continued challenging market; two, continue improving the financial position and strength of the business; and lastly, invest in building the five long-term moats of the business. We're very proud of how much we've been able to achieve across each of these. As we turn our sights to 2026, we plan to invest judiciously to grow the business at a rapid pace while growing adjusted EBITDA faster than revenue. None of this would be possible without the work of an exceptional team. So I want to end today with an enormous thank you to everyone that worked so hard to make all of this possible across the entire Wayfair team.
+
+And with that, we hope everyone takes a moment to check out the exciting Way Day deals.
+
+Thank you. And now your Niraj, Steve, Fiona and I will take your questions.

@@ -1,0 +1,329 @@
+Upstart Holdings, Inc. (UPST) Q3 2025 Earnings Call November 4, 2025 4:30 PM EST
+
+Company Participants
+
+Sonya Banerjee - Head of Investor Relations
+David Girouard - Co-Founder, President, CEO & Chairperson of the Board
+Paul Gu - Co-Founder, CTO & Director
+Sanjay Datta - Chief Financial Officer
+
+Conference Call Participants
+
+Dan Dolev - Mizuho Securities USA LLC, Research Division
+Kyle Peterson - Needham & Company, LLC, Research Division
+Peter Christiansen - Citigroup Inc. Exchange Research
+Simon Alistair Clinch - Rothschild & Co Redburn, Research Division
+Patrick Moley - Piper Sandler & Co., Research Division
+Mihir Bhatia - BofA Securities, Research Division
+Reginald Smith - JPMorgan Chase & Co, Research Division
+James Faucette - Morgan Stanley, Research Division
+Robert Wildhack - Autonomous Research US LP
+John Hecht - Jefferies LLC, Research Division
+
+Presentation
+
+Operator
+
+"
+
+Sonya Banerjee
+Head of Investor Relations
+
+"
+
+David Girouard
+Co-Founder, President, CEO & Chairperson of the Board
+
+"
+
+Paul Gu
+Co-Founder, CTO & Director
+
+"
+
+Sanjay Datta
+Chief Financial Officer
+
+"
+
+Dan Dolev
+Mizuho Securities USA LLC, Research Division
+
+" Mizuho Securities USA LLC, Research Division
+
+Kyle Peterson
+Needham & Company, LLC, Research Division
+
+" Needham & Company, LLC, Research Division
+
+Peter Christiansen
+Citigroup Inc. Exchange Research
+
+" Citigroup Inc. Exchange Research
+
+Simon Alistair Clinch
+Rothschild & Co Redburn, Research Division
+
+" Rothschild & Co Redburn, Research Division
+
+Patrick Moley
+Piper Sandler & Co., Research Division
+
+" Piper Sandler & Co., Research Division
+
+Mihir Bhatia
+BofA Securities, Research Division
+
+" BofA Securities, Research Division
+
+Reginald Smith
+JPMorgan Chase & Co, Research Division
+
+" JPMorgan Chase & Co, Research Division
+
+James Faucette
+Morgan Stanley, Research Division
+
+" Morgan Stanley, Research Division
+
+Robert Wildhack
+Autonomous Research US LP
+
+" Autonomous Research US LP
+
+John Hecht
+Jefferies LLC, Research Division
+
+" Jefferies LLC, Research Division
+
+Operator
+
+Good afternoon, and welcome to the Upstart Third Quarter 2025 Earnings Call.
+
+[Operator Instructions]
+
+As a reminder, this conference call is being recorded. I would now like to turn the call over to Sonya Banerjee, Head of Investor Relations. Sonya, please go ahead.
+
+Sonya Banerjee
+Head of Investor Relations
+
+Thank you. Welcome to the Upstart Earnings Call for the third quarter of 2025.
+
+With me on today's call are Dave Girouard, our Co-Founder and CEO; Paul Gu, our Co-Founder and CTO; and Sanjay Datta, our CFO. During today's call, we will make forward-looking statements, which include statements about our outlook and business strategy.
+
+These statements are based on our expectations and beliefs as of today, which are subject to a variety of risks, uncertainties, and assumptions and should not be viewed as a guarantee of future performance.
+
+Actual results may differ materially as a result of various risk factors that have been described in our SEC filings. We assume no obligation to update any forward-looking statements as a result of new information or future events, except as required by law.
+
+Our discussion will include non-GAAP financial measures, which are not a substitute for our GAAP results. Reconciliations of our historical GAAP to non-GAAP results can be found in our earnings materials, which are available on our IR website.
+
+And with that, Dave, over to you.
+
+David Girouard
+Co-Founder, President, CEO & Chairperson of the Board
+
+Thanks, Sonya. Good afternoon, everyone, and thank you for joining us. To kick things off, I'll share my perspective on our business.
+
+Upstart today is a dramatically stronger company than it was just a few years ago. Our technology, our business, and our teams have never been better.
+
+The opportunity for AI and credit is unimaginably large, and there's no one better positioned than Upstart to lead this $1 trillion industry to this exciting and inevitable direction.
+
+Now turning to Q3.
+
+Upstart continued to execute on its 2025 game plan of rapid growth, profits, and AI leadership, all under the auspices of exceptional credit performance and precise macro handling.
+
+In addition to 80% year-on-year growth in transaction volume and 71% revenue growth, we were nicely profitable once again. In fact, Q3 GAAP net income grew by a factor of 6 over the prior quarter.
+
+Consumer demand for Upstart continued to grow rapidly with more than 2 million applications submitted in Q3, up over 30% from Q2 and reaching the highest level in more than 3 years. Despite this awesome demand, transaction volume on our platform was less than we anticipated.
+
+Our risk models responded to macroeconomic signals they observed by moderately reducing approvals and increasing interest rates. This drove a reduction in our conversion rate from 23.9% in Q2 to 20.6% in Q3.
+
+If you follow the Upstart Macro Index, you would have seen that this macro indicator ticked up modestly in July and August, which is essentially what our model responded to over the course of the quarter. We believe this to be nothing more than a speed bump with UMI reverting to lower numbers since.
+
+To be clear, we see no material deterioration in consumer credit strength. And in fact, we've seen recent signs of improvement. You can and should expect that our models will always do their best to price prevailing risk appropriately.
+
+Precise and rapid tuning to changing economic conditions is a foundational capability of Upstart AI, and we're confident this precision is winning hearts and minds for Upstart in the credit market right now.
+
+The system is behaving exactly as it was designed. At a minimum, our Q3 results should give you confidence that we don't sacrifice credit performance to achieve transaction volume targets.
+
+Turning to our newer products, which include small-dollar loans, auto, and home. These offerings continue to improve and mature, accounting for almost 12% of originations and 22% of new borrowers in Q3.
+
+Transaction volume for auto, home, and small-dollar each grew in the range of 300% year-on-year.
+
+Our auto retail business, in particular, has really begun to accelerate. We more than doubled the number of live lending rooftops on Upstart in Q3 compared to the prior quarter.
+
+Transaction volume for auto retail also grew more than 70% sequentially. We expanded to 4 new states in Q3 and made some significant improvements to our software. This is really a breakout business for us.
+
+Additionally, we've been quietly working on a hybrid product called an auto secured personal loan that's beginning to gain traction.
+
+As it relates to our home business, beyond continued process innovation, our unique partnerships with banks and credit unions mean we offer the best rates to the primest borrowers compared to other fintechs by as much as 300 basis points.
+
+Best rates and best processes are what we're all about. Our continued process and automation breakthroughs in our secured products, meaning home and auto, give us confidence that they will be real growth drivers for Upstart in 2026.
+
+Finally, with respect to funding on the Upstart platform, we're in an exceptionally strong position in our core business with significant excess capacity.
+
+On the bank and credit union side, we added 7 new partners, our best quarter for new logos this year, and we reached a new all-time high in monthly available funding from these partners in Q3.
+
+On the capital market side, we continue to have exceptionally strong execution with our institutional partners. Having signed our first agreement in 2023, we now have 10 active partners.
+
+In August, we renewed one of our largest partners for the second time. And importantly, Upstart has 100% retention of all private credit partners to date.
+
+We believe that we have the industry's best AI for responding rapidly and precisely to changes in the environment, and this is a central reason why our partners have confidence in us.
+
+In September, we also issued a securitization with strong demand, leading to significant oversubscription of all classes despite upsizing and tightening of spreads.
+
+This ABS deal involved 30 investors, including 7 first-timers, demonstrating the strength of Upstart's reputation in the market. We've also continued to make progress securing third-party funding to support our newer products.
+
+We've signed 17 partner agreements this year, including 9 signed in Q3 alone, and expect to ramp these partners into production this quarter and next.
+
+All in all, we're all systems go to finish the year strong and get ready for what we think will be an amazing 2026 for Upstart.
+
+To wrap things up, we're making rapid progress as the leader in AI-powered credit. The somewhat complicated macro economy we all see today is, in my view, the perfect opportunity to demonstrate the strength of our AI platform, and we're doing just that.
+
+While legacy financial services execs continue to ponder the use of AI and credit, the Upstart platform has now generated more than $50 billion in AI-powered loans since inception.
+
+Unlike other AI platforms, we generate our own training data with more than 98 million borrower repayment events to date, with about 105,000 more repayments due each day, driving improved separation and model accuracy.
+
+This is enabling us to build quickly toward a future of always-on credit, where every American is persistently and precisely underwritten, providing them with the best rate anywhere, 24/7 credit access right from their phone, with little to no process.
+
+That is a proposition and a future that we are betting on 100%. With respect to the investor community, I feel more than ever that those who stay will be champions.
+
+With that, I'll turn things over to Paul Gu, my Co-Founder and Upstart's Chief Technology Officer. Paul?
+
+Paul Gu
+Co-Founder, CTO & Director
+
+Thanks, Dave. I'll start by addressing the model conservatism we experienced in parts of Q3. Over the past few years, one of our biggest advances has been our model's ability to respond with speed and precision to changes in macro conditions.
+
+This progress stems from a suite of techniques that are proprietary and critical to resilience through a diversity of economic environments. A few months ago, that led the model to tighten on credit while certain risk signals were elevated before recently normalizing.
+
+That model behavior partially reflects irreducible volatility in the outside world, but is also a function of our model design and sampling variance, both of which continue to improve.
+
+Since the start of Q3, the improvements we've made to our calibration methodology are expected to cut unwanted month-to-month volatility in model calibration-driven conversion changes by about 50%.
+
+As we continue to innovate on our model calibration techniques, we'll increasingly be able to minimize conversion volatility in the business while delivering on target credit performance.
+
+Beyond calibration, Q3 was a productive foundation-building quarter with a number of technology improvements that will power our next phase of growth.
+
+I'll start with personal loans. First, we took another leap forward in our evergreen engineering quest to lower latency in pricing loans. By parallelizing another major portion of loan pricing, we reduced end-to-end latency by as much as 30% and are now rolling it out platform-wide.
+
+Reduced latency unlocks the ability to build larger and more complex models as well as make use of the ever-growing data set of 98 million repayment events that Dave mentioned.
+
+Next, we launched a true machine learning model to optimize take rates. It is our intention to capture value in relation to the value that we create for our borrowers.
+
+We expect that this framework, over time, will unlock a significant improvement in our ability to monetize model wins that benefit borrowers who are already vested for as well as increase our competitiveness in new segments where we're still establishing our edge.
+
+In the domain of customer acquisition, our ability to utilize digital partnership channels that relied on cloud environments or APIs to target offers was historically limited by the complexity of our underwriting models.
+
+This quarter, we built a programming language agnostic framework for data transformation that makes it much faster to translate our models to work with any partner ecosystem.
+
+We also worked with a key partner to enable larger model sizes in their cloud environment, allowing more of Upstart's unique underwriting algorithms to be used in targeting.
+
+On our direct marketing channels, we developed a proprietary technique to target marketing spend based on causal impact to conversion. Compared to our prior, more textbook technique, early results show a 50% uplift in incremental originations from the same level of spend.
+
+Advanced AI and underwriting ultimately need equally advanced AI and acquisition, and the successes this quarter were a big step towards that.
+
+I'll wrap up my remarks with a few technological highlights that are driving growth in newer products. We've made rapid progress automating the process of getting a HELOC.
+
+When we launched instant property valuations back in June, we automatically approved less than 1% of home loans. Since then, automatic home loan approvals have grown to 10% in September and about 20% in October.
+
+While we'd love to simply automate away almost all the documents like we have in personal loans, the world of home loans is just less digital, less standardized, and there are more requirements.
+
+So for the next leg of improving the HELOC funnel, we've begun using multimodal AI to do the work of human document reviewers in real time. Our rapid pace of process improvements makes me optimistic that we're on a path to an industry-leading home equity product.
+
+Additionally, our small-dollar relief loans continue to make rapid progress. In September, we launched Instant Funding for the first time. Most borrowers who qualify for instant funding see funds in their bank account within around 90 seconds of approval.
+
+While small installment loans at bank-friendly APRs are a wonderful innovation, you should expect to see a lot more from Upstart in this area in the coming months.
+
+Thanks to the team's work this quarter, I'm more excited than ever about our upcoming pipeline of technology wins. With that, I'll turn it over to Sanjay. Sanjay?
+
+Sanjay Datta
+Chief Financial Officer
+
+Thanks, Paul, and thanks to all of our participants for sharing some of your time with us today. I'll now spend a bit of time reviewing our Q3 numbers.
+
+At a headline level, we were pleased to finish the quarter with healthy annual and sequential revenue growth as well as extend our run back to profitability.
+
+Within that, our transaction revenue this past quarter was marginally short of expectations as our models expressed some temporary conservatism in piloting the current environmental dynamics, but this was largely offset by growth in interest income from the strong return performance of our balance sheet.
+
+Margins and take rates have remained steady, and credit performance continues to land right on target.
+
+We are carrying a larger-than-normal loan balance on our books as we work towards closing a number of deals across all of our new product areas, which will both reduce R&D carrying balances and flow new volume directly to our lenders and investors.
+
+We remain pleased with the progress of those various conversations and expect to have tangible outcomes on this front by the end of the year.
+
+More broadly, third-party capital in our core unsecured lending segment remains readily accessible, handily outstripping our borrower supply, and is currently not in any way an impediment to growth.
+
+Spreads on our third-party capital continue to compress, partially a result of the competitive funding environment and partially as an expression of investor confidence in the steadfast performance of our credit.
+
+With respect to borrower approvability, our model has exhibited some recent caution in response to a UMI run-up of almost 0.2 points that happened over the course of the past quarter before more recently subsiding as well as to a rising trend in repayment speeds, which is generally an encouraging longer-term signal for credit, but in the near term, limits interest income from current loans and requires higher coupons to compensate.
+
+In all of this, we, as always, care, first and foremost, about getting credit performance right, which will always result in the best long-term outcome for our business.
+
+We have an inherent belief that AI models are better suited to navigating a complex and changing environment than human intuition, and we have demonstrated the discipline to heat them even when they express a bias toward moderation as now.
+
+If the currently observed higher repayment speeds and easing consumption growth are indeed indicators of imminent credit improvement, these could represent the long-anticipated tailwinds that could accelerate growth prospects heading into next year.
+
+In the meantime, we continue to be guided by the North Star of prudence in the underwriting of risk on behalf of our lenders and investors. With this as context, here are some of the financial highlights from Q3 of 2025.
+
+Total revenue for Q3 came in at roughly $277 million, up 71% year-on-year and 8% sequentially.
+
+This overall number included revenue from fees of approximately $259 million, which was up 54% year-on-year, but short of our internal expectations by roughly 6%, mainly for the model-related reasons previously mentioned.
+
+Within fee revenues, our servicing revenue stream continued its steady growth clip at a 10% sequential rate.
+
+Much of the shortfall in expected fees was counterbalanced by higher-than-expected net interest income of approximately $19 million, resulting from continuing strong return performance on a loan balance that remains temporarily elevated.
+
+To reiterate, we are aiming to enter into a phase of reducing our R&D-related balance sheet holdings, which we anticipate will gain steam in Q4 and continue into 2026, and we would expect this revenue item to moderate as we are successful.
+
+The volume of loan transactions across our platform was approximately 428,000, up 128% from the prior year and 15% sequentially, and representing approximately 300,000 new borrowers.
+
+The average loan size of approximately $6,670 was 12% lower than the prior quarter from a combination of borrowers requesting lower loan amounts, a model exercising increased caution in improving loan sizes, and a mix shift towards smaller loan products and risk rights.
+
+Our contribution margin, a non-GAAP metric, which we define as revenue from fees minus variable costs for borrower acquisition, verification, and servicing as a percentage of revenue from fees came in at 57% in Q3, down approximately 1 percentage point from the prior quarter and versus guidance as lower conversion rates created some mild upward pressure on both acquisition and onboarding unit costs.
+
+In total, GAAP operating expenses were around $253 million in Q3, roughly flat to Q2.
+
+Expenses that are considered variable relating to borrower acquisition, verification, and servicing were up 11% sequentially relative to the 15% increase in volume of loan transactions.
+
+Fixed expenses were actually down 7% quarter-on-quarter, largely due to a reduction in compensation-related accruals.
+
+Q3 GAAP net income was approximately positive $32 million, well ahead of expectations and reflecting outperformance on net interest income, reduced fixed costs, and a $7.2 million gain on our convertible debt repurchase.
+
+GAAP earnings per share were $0.23 based on a diluted weighted average share count of 110 million.
+
+Adjusted EBITDA was roughly $71 million, also corresponding ahead of expectations.
+
+Adjusted earnings per share were $0.52 based on a diluted weighted average share count of 125 million.
+
+We ended Q3 with approximately $1.2 billion of loans held directly on our balance sheet, up from just over $1 billion in Q2.
+
+As shared last quarter, we have multiple new products simultaneously exiting R&D status and entering the scale-up phase. And our business development efforts this past quarter have been aimed at putting in place the third-party capital arrangements that will enable us to shift away from balance sheet funding on these emerging products and release back our invested capital.
+
+We are very pleased with the progress of these efforts and believe that we are on a path to putting multiple agreements in place across all of these new product lines, which will set them up to further scale in 2026.
+
+Exact deal timing is, of course, not perfectly predictable, and it is important for us to do the right deals with the right partners. So we will take the necessary time to ensure we are well set up on this front for next year.
+
+In the meantime, returns from our balance sheet holdings continue to be strong, delivering healthy spreads above market base rates, as can be seen in the data on Page 23 of our earnings presentation.
+
+As we look to Q4, the broader economic backdrop for credit remains favorable in our estimation. Decelerating personal consumption growth is a signal of improving credit health, if perhaps counterintuitively so.
+
+Against this, we perceive a labor market that has remained at full employment since lockdown, meaning there are as many open jobs as job seekers in the economy, as well as a muted impact of the recent tariff policies on inflation and a gradual easing of the monetary climate.
+
+In this scenario, we once again assume a stable UMI as well as holiday seasonality typical of Q4, which tends to serve as a mild headwind.
+
+We expect the impact of any further rate cuts this year to both improve consumer financial health and lower investor return requirements. But at this stage, any such effects would not be felt until the new year.
+
+In this environment, we will continue to produce model and targeting accuracy gains as well as automation wins to grow our top line. Our net interest income will start to benefit from the returns on our committed capital investments that were made in prior years.
+
+Now that our P&L is once again back to profitability, we will plan to begin dialing up our forward investment into customer lifetime value by slightly moderating take rates in exchange for higher origination volumes and higher repeat transactions in the future.
+
+And as usual, we will expect to continue our fixed expense discipline in how we manage the cost side of our business. With this context, for Q4 of 2025, we are expecting total revenues of approximately $288 million, consisting of revenue from fees of approximately $262 million and total net interest income of approximately $26 million.
+
+Contribution margin of approximately 53%, GAAP net income of approximately $17 million, adjusted net income of approximately $52 million, adjusted EBITDA of approximately $63 million, with a basic weighted average share count of approximately 98 million shares and a diluted weighted average share count of approximately 111 million shares.
+
+For the full year of 2025, we now expect total revenues of approximately $1.035 billion, consisting of revenue from fees of approximately $946 million and net interest income of approximately $89 million.
+
+Adjusted EBITDA margin of approximately 22%, and we expect GAAP net income of approximately $50 million.
+
+Before we move to Q&A, I will take the opportunity to thank all of the various teams across Upstart for their hard work and continuing dedication to our mission. And with that, operator, over to you.

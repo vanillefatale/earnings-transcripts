@@ -1,0 +1,345 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question is coming from Chris Wetherbee from Wells Fargo.
+
+Christian Wetherbee
+Wells Fargo Securities, LLC, Research Division
+
+Maybe we can start on domestic margins. So obviously, some improvement, but we had a lot of RPP growth in the quarter. So I guess as we think forward, I know there's a mix of cost as well as yield management that we're going to see. And I know you've given us some ranges for the fourth quarter. But generally speaking, where you think you are in the glide-down, can you give us a little sense of maybe what we can start to think about for 2026 from a domestic margin perspective?
+
+Brian Dykes
+Chief Financial Officer & Executive Vice President
+
+Thanks, Chris. I appreciate it. And look, I think we're very pleased with both the revenue quality we saw in the third quarter as well as the progress that we're making with the Amazon glide-down and we laid out the activity metrics around that. On 2026, look, we'll update 2026 on the January call when we report fourth quarter. But there are a few things that I think are worth kind of keeping in mind.
+
+Remember, we're 3 quarters into a 6-quarter drawdown. So as we lap the year, we kind of come through the first 3 quarters of this year, we will see a sequential increase in Amazon volume as we go into peak because everybody peaks. And then we'll continue to draw down as we go through the first half of next year and the cost takeout will continue as we go through that.
+
+The second is, as Carol mentioned, we're taking strategic actions around Ground Saver that will start to take hold next year, and we'll see economic benefit in the back half of next year for that as well. We do anticipate closing Andlauer in November of this year, and we'll update you on the financials as we wrap that into next year, but that's an exciting acquisition to accelerate our health care strategy. And look, we're continuing to focus on growing in the parts of the market that will help us continue to drive revenue per piece growth as well as higher margins as we go into the back half of '26 and complete the Amazon glide-down.
+
+Operator
+
+Our next question comes from the line of David Vernon from Bernstein.
+
+David Vernon
+Sanford C. Bernstein & Co., LLC., Research Division
+
+So Brian, can you talk a little bit about the exit rate on cost per piece coming out of the third quarter? It seems like this was kind of an inflection quarter where with the buyout and everything else, you probably came out a little bit better than you started and whether we should expect that to accelerate into 4Q? And then it sounds like you guys are saying you found a way to work with the USPS on final mile for some of the residential lower rate e-commerce type of stuff. Can you kind of be more specific in terms of what that looks like and how that changes cost per piece?
+
+Brian Dykes
+Chief Financial Officer & Executive Vice President
+
+Sure. Well, first, let me talk about exit rate on Q3 cost per piece, and I'll let Carol comment on the USPS. And there's a couple of things on cost per piece. Look, the cost per piece is on a tough comp year-over-year because this is probably the largest year-over-year comp related to the e-commerce volume that we're exiting. So it has a big mix impact both on rev per piece and cost per piece. As we've gone through the quarter, though, we are seeing some of the best production metrics that we've seen certainly on our inside, I think it's in 12 years, on a preload in 20 years.
+
+The investments that we're making in automation that we're deploying through Network of the Future are certainly showing benefits, and we're seeing that come through the cost per piece. The other thing that I'll point out, and I'm sure you saw it in the non-GAAP reconciliation is that we executed on our driver voluntary severance program in the quarter. About 90% of those drivers exited on August 31. And so those savings will start to materialize in the fourth quarter as well.
+
+Carol, do you want to comment on Ground Saver?
+
+Carol Tomé
+CEO & Director
+
+I'm happy to. And David, nice to hear from you. Just maybe going back on the driver piece. The total cost of the buyout is $175 million. The payback -- annual payback is $179 million. So the payback is less than 1 year. So that's a good thing for our cost per piece, isn't it? Yes. Now let's talk about the USPS. As you know, David, the Postal Service has a new Postmaster General.
+
+And when Mr. Steiner joined, immediately started having a conversation with him about how could we create a win-win-win relationship, a win for the postal system, a win for UPS and a win for our customers. And the way to do that is to leverage what they're best at, which is final mile and what we're best at is middle mile. And so I'm happy to tell you that we've reached preliminary agreement on what that looks like from a volume and rates perspective. We're working through the details and look at those details all ironed out over the next weeks and months. And by the end of the fourth quarter, we'll be able to give you more details. But I'm very, very pleased with where we are today and this new -- renewed relationship with USPS.
+
+David Vernon
+Sanford C. Bernstein & Co., LLC., Research Division
+
+Is there any way to kind of talk a little bit more about timing and how that kind of affects the domestic margin for 2026? Or is it still too early?
+
+Carol Tomé
+CEO & Director
+
+It's too early. We don't expect any benefit in the fourth quarter. It will start, we hope, knock on wood, we can knock it all down by the beginning of the year. And it's not just for our Ground Saver product, which is in our U.S. small package business, but also for Mail Innovations. And we're excited about what that's going to mean to our Mail Innovations margin looking forward. So at the end of the year, we'll give you more color.
+
+Operator
+
+Our next question comes from the line of Tom Wadewitz from UBS.
+
+Thomas Wadewitz
+UBS Investment Bank, Research Division
+
+So I wanted to ask, let's see, I mean, I think on your comments in 2Q, you talked about concern on SMB stepping down. I think this was the impact of the elimination of the de minimis exemption that, that would have a meaningful impact and then it became a global elimination, not just China and Hong Kong. So can you give us a bit more perspective on how SMB played out versus what seemed to be a lot of concern in 2Q? And then also, when we look at September, how is the impact different in the international business when it became a global elimination versus China, Hong Kong? So yes, on those two things.
+
+Carol Tomé
+CEO & Director
+
+Sure. If you look at our SMB results for the quarter, we were down slightly year-on-year. But as we look at our performance relative to the market, we took share both in volume and value. So we were pleased with our performance relative to the market and the decline year-on-year wasn't as dramatic as we thought it could be. We are watching the SMBs very closely, though, Thomas.
+
+Some are doing just fine and managing through the changes in trade policy and some of them candidly are challenged. So we've got a close attention to these customers. And let me just give you some data, which is amazing how many shippers are looking for help. In the third quarter, we had 12 trade webinars with more than 8,300 participants. And we've reached out and had conversations with 61,000 customers trying to help them navigate through these changes in trade policy. It's complicated. It's super complicated.
+
+And to your point about the elimination of the de minimis exemption. Well, it certainly played some havoc on some of these shippers, and I'll just make that real for you, too, just some data. Back in March, we had 13,000 packages that came into the United States every day that required some sort of a dutiable clearance. And we handled that about 21% was handled with technology, so cleared without any manual intervention. If you fast forward to September, when now it's a global elimination, 112,000 packages a day required some sort of dutiable clearance.
+
+And thank goodness, we invested in technology. So we were able to clear 90% of those packages without any manual intervention, which is great, but 10% needed some help. And where they needed some help, they really needed some help because when the global exemption went into place, you might have seen that some mail systems like Royal Mail or Deutsche Post really stopped shipping into the United States, which meant shippers, predominantly consumers who used to use those mail carriers as a way to get packages in the United States came into carriers like UPS or FedEx or others.
+
+And many of those shippers, consumer to consumer were naive, and you wouldn't expect them to understand the intricacies of trade policies and they shipped in packages that didn't have the information necessary to clear. And so Kate, you might want to talk about how we worked with those shippers because it was a lot of hard work and effort to work with those shippers.
+
+Kathleen Gutmann
+Executive VP and President of International, Healthcare & Supply Chain Solutions
+
+Yes, sure was. And so to help especially these C2C consumer-to-consumer shippers, multiple calls with them, helping -- trying to get them to understand the missing information that they are required to provide. And a good portion was on food. And if you think about a family shipping food to family members, and that tended to be the pinch in that 3-week, I'll call it, initial surge from the international post. The post then got the exception and that food and low -- very low-end value of goods consumer to consumer moved back to the post. And so since that point, we have been clearing now up to 97% within the last 1.5 weeks same-day clearance on our goods. So helping our very valued shippers ensure that they meet the requirements of the U.S. government.
+
+Brian Dykes
+Chief Financial Officer & Executive Vice President
+
+And Tom, if I could just maybe dimensionalize the impact of that. In the third quarter, that had about a $60 million impact for us. And we estimate in the fourth quarter, the direct impact will be $75 million to $100 million. A lot of this is demand related, right? Because the technology allows us to scale our brokerage operations, but there is a demand impact.
+
+Carol Tomé
+CEO & Director
+
+And let's be clear on what that cost is. It's really not the cost of clearing. It's the change in trade lanes because as you know, our most profitable trade lane is that between China and the United States. And we saw an over 20% decline in that in the third quarter and expect that will continue into the fourth quarter. Now there's a big meeting coming up this week. So maybe we'll have a little bit more certainty about trade between our 2 countries, but we're right now forecasting a decline in those trade lanes in the fourth quarter.
+
+Thomas Wadewitz
+UBS Investment Bank, Research Division
+
+And -- just quick circling back on SMB. Do you think you're at stability now, like now we shouldn't have as much concern about a drop-off going forward as maybe you had in 2Q?
+
+Carol Tomé
+CEO & Director
+
+So as we look at the peak forecast, that's the best way to tell you where we are. As we look at our -- as you know, 100 of our customers, most of them are enterprise customers make up 80% of our peak surge. And what those large customers have told us that they expect a good peak that the surge should be about 60% from where their volume is today. That's the same surge that we've seen over the past 3 years.
+
+So they've got the inventory, they're ready for peak. On the SMB side, they're a little short of where they were a year ago. So if you think about effectiveness being 100% effective, our enterprise customers are at the 100% mark. The SMB customers that give us forecast are at the 99% mark. So has it stabilized a bit, but it's still something, I think, to watch out for, particularly as we head into next year because next year is when you're going to feel the full brunt of some of these tariffs hitting some of these SMBs. Now -- we're working with them to try to help them think about how do they change where they source their goods, how do they think about the mode of transportation that you saw and so forth. So we're working with them, but I think it's prudent to be a bit cautious on the outlook here because it's still early days.
+
+Operator
+
+Our next question comes from the line of Ari Rosa from Citigroup.
+
+Ariel Rosa
+Citigroup Inc., Research Division
+
+So it was really nice to see the step-up in free cash flow. Carol or Brian, I was hoping you could talk about how you think about kind of the sustainable level of free cash flow after some of these cost-cutting initiatives occur and kind of as you work through some of these shifts in revenue mix?
+
+Brian Dykes
+Chief Financial Officer & Executive Vice President
+
+Yes. Great. Thanks, Ari. It's great to hear from you. Yes, look, we saw the Q3 free cash flow bounce back. There were some timing issues in our Q2 versus Q3 that have kind of worked themselves out, and we expect Q4 to look similar to Q3. Now on your question, though, I think you're exactly right. This is why we're leaning into the parts of the market that we're leaning into is because you'll see that our penetration in B2B was up 350 basis points.
+
+Our penetration in SMB was up 340 basis points. We're seeing growth in the areas of the markets where we want to grow. That allows us to drive better returns and better margins. And with the cost takeout and the network efficiency that we're creating through our automation investments, we do expect the business to generate significantly more free cash flow over time. Clearly, we've got a dividend of around $5.4 billion to $5.5 billion, and we expect it to be above that in the very near future.
+
+Operator
+
+Our next question comes from the line of Jonathan Chappell from Evercore ISI.
+
+Jonathan Chappell
+Evercore ISI Institutional Equities, Research Division
+
+Just kind of a 2-parter. I'm sorry to do 2-parters here. But Amazon glide-down I said you're kind of running on track here. You said down 21%. I thought we're supposed to be around 30% at this point. So maybe just help us understand where you are as we think about exit rate in 4Q? And then secondly, it really looks like you're on track with the cost takeout associated with that volume glide-down.
+
+Can you speak to the cost alignment with the rest of the business ex-Amazon? Just given all these changes that you've spoken about already with Rest of World de minimis, maybe some of the SMBs being a little bit lighter in the peak, do you feel like you're on track there as well? Or is there a little bit more catch-up to do on ex-Amazon cost alignment?
+
+Carol Tomé
+CEO & Director
+
+Well, on the Amazon glide-down, we're winding down the volume that we don't want, and we're right on our plan. But we're growing the volume that we do want. And so that's why the year-over-year decline wasn't as much as we had anticipated at the end of the second quarter. So we're really pleased with that, growing the volume that we want, like returns is good for our business. On the question about cost out, I would say excellent job managing through the Amazon glide-down, but we're also driving a heck of a good business. And [indiscernible] you might want to talk about your production numbers, the best that we've seen in 20 years, 10 years, talk a little bit about that.
+
+Unknown Executive
+
+Yes, sure. And I think it's really exciting as we look at our network. We're not looking at everything exclusively or uniquely, but as one big network. And of course, we keep finding opportunities for us to bring costs down. So if you think about the buildings we've closed, the operations we've closed, also the 34,000 positions that we've eliminated, that's part and parcel, of course, driven by some Amazon, but also our productivity.
+
+So if you think about production across the network, Brian mentioned that our inside operations are demonstrating the best process rates in 12 years. Our hub process rates in 20 years, and then we can go down the list with safety in the decade and other items related to cost. I guess what should give everybody comfort is what we've displayed in the first 9 months, we've also started the stage next year in 2026.
+
+So this continues, and we will hit our Amazon targets and our drawdown in terms of cost and productivity just gets enhanced as we first, introduce more NOF projects, but also all the peripheral buildings that we had supporting those upgrades will start to fall off as well as we start to implement NOF. A great example of that is Mesquite, 48,000 hub per hour for us, just opened up 2 weeks ago and prior to that, a similar hub in Texas in Sweetwater. So really excited about those additions to the network and of course, more to come.
+
+Brian Dykes
+Chief Financial Officer & Executive Vice President
+
+And Jonathan, just to put a number to that because I think the third quarter really shows a testament. We started the year saying that we were going to focus on getting the right volume in the network and drive efficiency and volume was down 12.3%, and we expanded operating margin, and we'll look to continue that trend going forward.
+
+Operator
+
+Our next question comes from the line of Scott Group from Wolfe Research.
+
+Scott Group
+Wolfe Research, LLC
+
+So just a follow-up on the Amazon piece. So I think when you first talked about this, it was -- it would be down -- be cut in about half by the middle of next year. Is that number changing at all, bigger or smaller? And as we think about like the next wave of Amazon volume to come out, is it any different in terms of mix, any harder or easier to manage from like a decremental standpoint? And then it's all part of like the same question like I know there's $3.5 billion of cost reduction this year. What's the right number to think about for next year in terms of cost reduction?
+
+Brian Dykes
+Chief Financial Officer & Executive Vice President
+
+Sure, Scott. Thank you, and good to speak to you. So on the Amazon, look, think about it as there's a portion of the Amazon volume that we're exiting that they're going to in-source that that's the outbound. That's a pretty consistent glide. It's all scheduled, right? So this is where e-commerce gets very physical, right? We have to hand over a building, they catch a building. There has to be tax cars and drivers and sorters that all transition in kind of the same week. Lane by lane, building by building, city by city. So that's all scheduled out. It's on track. We're working very collaboratively with them.
+
+And I think it shows in our service numbers, both for ourselves and for them that this has been a great relationship. Separate to that, right? We -- Amazon is still going to be a large customer, right? And there's a lot of places where we can add value to their supply chain like returns, their inbound, the small business sellers that sell on the platform. That part of the business is growing, but when you think about the decremental going into next year, it's the same type of volume. It's just over a period of time.
+
+On the cost takeout, we'll reset that in January as we roll forward. But Nando's team has been doing a great job that as these buildings transition, we move to work, we consolidate, we're investing in NOF, and we'll drive a similar level of efficiency next year.
+
+Carol Tomé
+CEO & Director
+
+And the same cost buckets, right? It will still be the variable, the semi-variable and the fixed cost. You should expect that to continue into next year. And we'll dimensionalize that at the end of the quarter -- end of the fourth quarter.
+
+Operator
+
+Our next question comes from the line of Jordan Alliger from Goldman Sachs.
+
+Jordan Alliger
+Goldman Sachs Group, Inc., Research Division
+
+Just wanted to come back to international. Maybe some additional thoughts around your international trade flow analysis. Now that the rest of de minimis has gone, when we sort of lap Liberation Day next year, could we get back to more normal sort of trajectories or patterns? Or is it permanent shifts? And then just along with that, what does it take to keep international margin more sustainably in that high-teen level you guys had been used to? And that's with an eye towards 2026 as well.
+
+Brian Dykes
+Chief Financial Officer & Executive Vice President
+
+Sure. Thanks, Jordan, and good to hear from you. On international trade flows, look, as Carol mentioned, as we went through the third quarter and particularly into September with de minimis, we did see things slow down. Now look, there's still a lot of flux going on in the world where things are moving around. What we are seeing is a lot of growth outside the U.S., right? So trade is continuing to flow, but it's not touching the U.S. as much as it was before.
+
+As we look into next year and we think about the margin, look, there will be some permanent change until things -- until the system settles and the new equilibrium on trade flows settles. I do think that this mid- to high-teens margin for international is absolutely the target, but we need kind of trade flows to settle in order to get there.
+
+Carol Tomé
+CEO & Director
+
+Well, what Kate and her team have done is really operationalize the change in trade flows. In the third quarter alone, you did 100 different operational changes to make sure that we could meet the needs of our customers as trade flows are changing. And we're investing ahead of some of this. You might talk, Kate, about what you're doing in Asia. We've mentioned this before, but just remind everyone what we're doing in Hong Kong and in the Philippines.
+
+Kathleen Gutmann
+Executive VP and President of International, Healthcare & Supply Chain Solutions
+
+Yes, absolutely. And so to unlock that growth, we're a global network with a global portfolio, and we're seeing the return on the investments we made in Asia, expanding our service, fastening our time in transit. So if you look at, say, the top 20 export lanes, non-U.S., 16 of them are growing and growing very nicely. A lot of them are Asia to either Asia, Asia or Asia to Europe and reverse. So that's really the expansion. Customers have needs. They are shifting trade. And within there, I will tell you, we see the small and medium-sized businesses in international growing 9% in many regions of the world. So that also will help us with momentum for next year.
+
+Operator
+
+Your next question is coming from the line of Bruce Chan from Stifel.
+
+J. Bruce Chan
+Stifel, Nicolaus & Company, Incorporated, Research Division
+
+Nice to see the results in the guidance here. And maybe just on that last point, I'm guessing that since the books closed and since you built your guidance in fourth quarter budget, we've got yet another variable with the government shutdown. Wondering if that is contemplated in the guidance? And if not, is there any downside to the range in terms of demand or service or operations, especially with regard to ATC and payrolls and consumption?
+
+Carol Tomé
+CEO & Director
+
+Yes. So we don't have a real crystal ball here. We're watching this closely, obviously, particularly as it relates to the airlines. So far, we've seen no disruption of service, but we're watching this very closely because we all are reading the stories about what's happening with people not showing up to work. From a volume perspective in the United States, here we are at the end of October, and we're right on where we thought we would be, if not a little bit better.
+
+So we haven't factored in any significant impact to the peak season because we rely on what our customers are telling us and our customers are telling us those from peak that they're going to have a good peak. So we haven't factored any of that in. But of course, it's smart to always think about what could happen. Hopefully, there will be a resolution soon as we should hope for.
+
+Operator
+
+Our next question is coming from Ken Hoexter from Bank of America.
+
+Ken Hoexter
+BofA Securities, Research Division
+
+So it seems like your 300 basis points in improvement in domestic is maybe a bit more -- sorry, sequential improvement is a bit more than normal in terms of your target of getting to 9.5% to 10%. Just trying to understand your view on maybe the potential for accelerating that cost-cutting benefits above normal trend as we not only enter fourth quarter, but your thoughts on as we go into '26.
+
+And then next -- I guess, next week, we're going to start the Supreme Court hearings on tariffs. Thoughts on -- initial thoughts on the potential impact to de minimis. Could that get reversed and we start seeing that for the rest of the world, if not China, Hong Kong Lane? Maybe any thoughts on the Supreme Court process?
+
+Brian Dykes
+Chief Financial Officer & Executive Vice President
+
+Sure. Well, let me talk about the sequential impact first. So Ken, if you go from Q3 to Q4, remember, as Carol said, we have been working closely with our customers, and we expect peak to be in similar shape as it has in the last 4 years, right? So we'll see about a 20% step-up in sequential ADV in the U.S., about 10% in international.
+
+Now also, there will be holiday demand surcharges that have been announced. Our take rate on those has been good. Even though there's one incremental day in the peak season, we're still balancing demand and expect to see good take on the holiday demand surcharges. On the cost side, remember, we've been investing in deploying automation throughout the year, the Network of the Future. There's been -- there will be 42 new automation projects live by the time we start peak.
+
+And part of the function of bringing down the water level in the total U.S. network is it allows us to run more efficiently. So you need less variable capacity, fewer leased aircraft, fewer rented vehicles, fewer seasonal workers that allows you to run a much more efficient network. And we're excited. We think it's going to be one of our best service and production peaks that we've had in a long time. Carol...
+
+Carol Tomé
+CEO & Director
+
+On the Supreme Court question, obviously, we'll be watching it very closely. But Ken, we don't -- we're not in a position to speculate on what the outcome will be.
+
+Operator
+
+Your next question is coming from Brian Ossenbeck from JPMorgan.
+
+Brian Ossenbeck
+JPMorgan Chase & Co, Research Division
+
+Just one quick follow-up on -- first on the USPS. In the last quarter, Carol, you called out some density headwinds. It sounds like those were probably still present here in 3Q, and I would expect in 4Q. So if you could clarify that. And then, Brian, can you give us a little bit more color on how you think rev per piece will track into the fourth quarter and sort of exit the year? There's a lot going on with the mix dynamics, some of the product service changes, but clearly, it looks like there's still some base rate momentum and also a bit of a help from fuel. So if you can give us a little bit more thoughts on those 3 parts of that trend would be helpful.
+
+Carol Tomé
+CEO & Director
+
+On the Ground Saver product, density is -- continues to be a challenge. We just can't seem to get more packages per stop on these residential deliveries. And this is one reason why we're so very excited about our renewed relationship with USPS. We estimate that the cost drag in the third quarter was about $100 million...
+
+Brian Dykes
+Chief Financial Officer & Executive Vice President
+
+Which is another cost that we overcame as we came down to drive margin expansion. And Brian, on your point on rev per piece, look, we continue to see strong base rate improvement in rev per piece. We expect the fourth quarter to be a little bit above 6%. And if you look at that with where we set out originally at the full year to be 6%, we're coming in higher than that. And so we expect that to come through both in base rate, slightly less mix improvement in the third quarter as we start to lap some of the Chinese e-commerce shipper actions that we took last year and then holiday demand -- strong holiday demand surcharge.
+
+Operator
+
+Our next question is coming from Ravi Shanker from Morgan Stanley.
+
+Ravi Shanker
+Morgan Stanley, Research Division
+
+So you obviously had a lot of traction with headcount reduction in both the building side and the driver side. The union is saying that kind of you guys have committed to net job increases through the course of the contract. So how do you see that playing out in the remaining 2.5 years of the contract? And would you have to start hiring again to make up for that difference?
+
+Carol Tomé
+CEO & Director
+
+We are in compliance with the terms of our contract. And Brian, you might want to give a little bit more color there.
+
+Brian Dykes
+Chief Financial Officer & Executive Vice President
+
+Sure. And Ravi, what part of the terms of the contract allow us to offer full-time positions to part-time employees in order to give them the ability to go part time to full time, which look is, quite frankly, that's the best outcome from us, right? We want to create lifetime jobs and good careers with people who can earn a solid income with benefits at UPS.
+
+So the way the contract works is we offer full-time positions to part-time employees. From a net headcount standpoint, it doesn't really change things, but it's a way for us to create career pathing. It's good for the union. It's good for our people. It's good for us. It helps us have more trained workers that are committed to UPS.
+
+Carol Tomé
+CEO & Director
+
+And sometimes there's messaging that's confusing on this point. So if you read something that's confusing, just call us, and we'll clarify it.
+
+Operator
+
+Your next question is coming from Stephanie Moore from Jefferies.
+
+Stephanie Benjamin Moore
+Jefferies LLC, Research Division
+
+I wanted to touch on the add-backs, specifically in the U.S. Domestic segment for the quarter. If you could just break down maybe the delta between the add-backs going from $66 million to the $302 million in the quarter, really what the components of those -- the major components of the add-backs were for the quarter?
+
+Brian Dykes
+Chief Financial Officer & Executive Vice President
+
+And Stephanie, just to clarify, you're talking about the non-GAAP adjustments.
+
+Stephanie Benjamin Moore
+Jefferies LLC, Research Division
+
+That is correct.
+
+Brian Dykes
+Chief Financial Officer & Executive Vice President
+
+Right. Yes. So as Carol mentioned, so we executed on our driver voluntary separation plan in the quarter. About 90% of the drivers exited on August 31. 80% of that charge is associated with the severance included in that. It begins -- in the second quarter, we laid out a range of kind of $400 million to $650 million associated with the total network reconfiguration and efficiency reimagine program. We're still within that range.
+
+Carol Tomé
+CEO & Director
+
+And I think just to make it real, real, we had $166 million of cost in the third quarter for the driver buyout against a total cost of $175 million. So we won't see that same amount in Q4.
+
+Brian Dykes
+Chief Financial Officer & Executive Vice President
+
+That's right.
+
+PJ Guido
+Investor Relations Officer
+
+And Matthew, we have time for one more question.
+
+Operator
+
+Our final question comes from the line of Conor Cunningham from Melius Research.
+
+Conor Cunningham
+Melius Research LLC
+
+So I think you said you had 195 operations that have been reduced and then 93 buildings that have been closed. I was hoping you could talk about how that may trend into 2026. Like are we expecting that to continue to ramp up? Or it seems like there's further opportunities. So if you could just talk about the opportunity just in terms of getting more efficient on the network.
+
+Carol Tomé
+CEO & Director
+
+Sure. Well, the Amazon glide-down continues. We're 3 quarters in a 6-quarter glide-down. So the Amazon glide-down continues, which means there will be further consolidation of buildings. At the end of the fourth quarter, we'll provide guidance for 2026 or our outlook for 2026, where we can be more specific on what that looks like.
+
+Operator
+
+Thank you. I will now turn the floor back over to your host, Mr. PJ Guido.
+
+PJ Guido
+Investor Relations Officer
+
+Thank you, Matthew. This concludes our call. Thank you for joining, and have a good day.

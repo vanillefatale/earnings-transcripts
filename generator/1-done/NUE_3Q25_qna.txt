@@ -1,0 +1,376 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question comes from Alex Hacking from Citi.
+
+Alexander Hacking
+Citigroup Inc., Research Division
+
+Congrats on the strong results. It seems like Nucor shipments are growing faster than the industry and you referenced they're gaining share. Could you maybe give more color on the kind of specific products where you're gaining share? Any change in strategy that led to you gaining share?
+
+Leon Topalian
+President, CEO & Chairman of the Board
+
+Yes. Thanks, Alex. Look, let me begin, Alex, with our most important value, and that is the value of safety. We're on track for a historic eighth year in a row of lowering our I&I rates and creating the safest year in the history of our company. And so I just wanted to take a moment and thank the 33,000 team members that execute that incredible value each and every day across 40 states, 300 locations in multiple countries. So again, we begin there.
+
+But specifically to address your question, Alex, yes, we continue to stay very focused in being the market leader means that we've got to do things to stay out in front. And so as we think about how we've restructured and positioned the plate group is a great example of that, where Brandenburg has continued to ramp up, and as you heard Steve mentioned earlier in his prepared remarks, the pre-operating start-up costs reduction means that Brandenburg is ramping up faster than we had anticipated.
+
+They're doing a great job. You'll hear more about that in a few moments, I'm sure, as we get into plate later in the call. But plate is another broad example where we're focused on that.
+
+Long products is another where Nucor is going to continue to look for the opportunities to grow in bar and beams in that segment. But ultimately, what I think the strategy that you've seen playing out over the last few years has really wrapped around our commercial and construction solutions group that are looking to attach these major developers, major hyperscalers that are looking for speed and a capability set that Nucor now has in bringing that to the market. So we're getting a ton of pull-through effect in our products groups from the upstream mills from sheet, plate, bar -- engineered bar all the way through the downstream adjacent segments.
+
+So we're seeing, I think, a lot of that play out, which is increasing our market share. And again, the capability set. You heard me say in my prepared remarks as well, Alex. You think about how white hot the data center trend is today. With our Southwest Data Products acquisition, with our racking group, with the insulated metal panels as well as the breadth of the steel products that we make, we are now capable of making 95% of all steel components within the framework building and hot aisle containment within that data center. So again, it offers a very unique solution set for, again, these developers and hyperscalers.
+
+Alexander Hacking
+Citigroup Inc., Research Division
+
+I guess just a follow-up on that point on the data centers, are there specific products that Nucor is selling that are particularly exposed to data centers? I mean I know that joist and deck shipments are up over 20% like this year versus last year. Are they an obvious beneficiary from this?
+
+Leon Topalian
+President, CEO & Chairman of the Board
+
+Yes, Alex, it's really the gambit. So insulated metal panels, joist, grading, decking, fasteners, sprinkler, conduit, the foundations, the rebar and the foundations, the civil side, the sheeting on the outside of the building, the overhead doors from C.H.I., Rytec and so really, it's the full purview. But John, anything else would you add to that?
+
+John Hollatz
+Executive Vice President of Fabricated Construction Products
+
+Yes, Alex. On the joist and deck side, we're definitely feeling the benefits of the data center build-out as well as e-commerce. And we're just well positioned with these end-use markets because of our industry-leading capabilities, the breadth of our product offering, our nationwide coverage. Right now, our joist and deck backlogs are about 25% higher than what they were a year ago at this time. They extend well into 2026, and we're optimistic about what the next year is going to bring.
+
+Operator
+
+Our next question comes from Bill Peterson from JPMorgan.
+
+William Peterson
+JPMorgan Chase & Co, Research Division
+
+Congrats on the quarter. Maybe to follow up on this data center opportunity, but maybe to contextualize relative to what I think is a larger market, much larger now, which is warehouses, I guess, based off of your backlog, how should we think about square foot growth beyond 2025, maybe from a market perspective as well as your own opportunity? And is there a way you can, I guess, help quantify or provide any anecdotes on how you're gaining share in the market with like Southwest Data Products compared to industry growth averages? Just trying to get more context on this opportunity relative to larger ones such as warehouses.
+
+Leon Topalian
+President, CEO & Chairman of the Board
+
+Yes, Bill, let me start with the -- to your point, the larger segment, which is the warehousing. Look, that is probably flat year-over-year and expect it to be about the same in '26. And so again, that peaked, I don't know, '21, '22, where we saw massive build-outs from Amazon, others that were building as fast as they could come. So the shift has come in the last 12, 18 months into the data center side. But again, with that, the energy infrastructure is a big piece of that, that Nucor is, again, tying into. Southwest Data Products enables us to do things in that hot aisle that we weren't able to do prior. But Nucor now has a Nucor warehouse and data systems group that kind of provides an overarching solution set for, again, these major developers.
+
+And John, maybe unpack that just a little bit further on how we use that go to market with that.
+
+John Hollatz
+Executive Vice President of Fabricated Construction Products
+
+Yes, Bill, when you think about a data center, and it's on our Slide 7 in our presentation, all of the different products that Nucor supplies into that market. And we're the only company that can supply all of those products.
+
+Many of our competitors can supply one of them. We have the ability to supply all and we work directly with a lot of these companies to guarantee the surety of their supply to meet their deliveries to get these facilities operational on time. It's a big advantage that we have with that entire portfolio of products. In addition to that, having redundancy in our portfolio, we mentioned we've converted a couple of facilities over the last several months to help the build-out of these data centers because we see that market being so hot moving into the coming years.
+
+Stephen Laxton
+CFO, Treasurer & Executive VP
+
+Bill, this is Steve. I'd like to just add one thing that's implicit in the questions that you and Alex both ask is a commentary on the flexibility of Nucor's overall portfolio. And so as you see different markets get strong, Nucor has excelled over the years at winning in a variety of different ways. And right now, you're focused in on data centers, and we can capture, as John and Leon described, unprecedented. We're unparalleled with anyone in the space in the ability to gain in that area. But it's not lost on us and shouldn't be on you that Nucor has won at various times when different markets have been strong because of the product diversity and the flexibility that we have in supplying the market.
+
+William Peterson
+JPMorgan Chase & Co, Research Division
+
+No, I appreciate that color. I guess maybe just to follow-up, maybe I missed or I didn't hear it, but you said data center flat for '26. Is there a sense for how we should think about the data center growth next year? And then I have a follow-up question.
+
+Leon Topalian
+President, CEO & Chairman of the Board
+
+Yes. Sorry, Bill. No, warehouse -- traditional warehouse would be flat. Data centers are up double-digit growth for the next 5 to 6 years is what every major category where we're looking at is tracking. So I think in my prepared comments, that I opened with, that the forecast is for 60 million square feet of capacity in 2026. So it's an incredibly fast-growing segment. So not flat on the data center side.
+
+William Peterson
+JPMorgan Chase & Co, Research Division
+
+Yes. Well, understood. On my second question, so scrap cost was down, but conversion costs were up. I guess can you speak to what contributed to the latter? Is this related to the new mill ramps? Or is there something else there? And I guess, more importantly, how should we think about this trend into the fourth quarter?
+
+David Sumoski
+Chief Operating Officer
+
+Thanks, Bill. This is Dave Sumoski. So although our cost quarter-over-quarter were up, cost year-over-year are down 5%. But specifically, the items affecting the quarter-over-quarter results are slab costs for CSI. Some of our consumables was up such as refractory and labor was slightly up due to some significant planned outages in the quarter.
+
+Operator
+
+[Operator Instructions] Our next question comes from Lawson Winder from Bank of America.
+
+Lawson Winder
+BofA Securities, Research Division
+
+I appreciate the update today. Could I ask about the guide, which, I mean, in the guidance for Q4, you pointed to lower volumes just because of fewer shipping days. I mean, that all makes sense. But you also suggested there was some lower realized cheap pricing factored in. Yesterday, Nucor's CSP was $10 higher. I mean, was that factored in? I mean, we also saw a competitor raise their pricing by $50 yesterday. How should we think about the movement we've just seen very recently in that?
+
+Leon Topalian
+President, CEO & Chairman of the Board
+
+Yes, Lawson. I appreciate the question. And most of Nucor's sheet deliveries are based on contracts. So while you see the moves today, what I would tell you is you're seeing that typical seasonality and a softer Q2 flow through the order book, which is our projection for Q4 to see lower realized pricing. But again, with the current price increases in that group, we anticipate Q1 will be -- we'll certainly realize those higher pricing. So it takes some time, right, to flow through that.
+
+But on the positive side, there's two factors I'd point out in terms of how quickly that can move through. One is the service center inventory side of things is pretty very -- well, seasonally low in terms of that overall picture, but also internally to Nucor, we are not sitting on high volumes of inventory at our mills. So it's going to enable us a much faster realization of that pricing you just mentioned. So again, those two factors, we'll see that move through the order books into the balance sheet for Q1.
+
+Lawson Winder
+BofA Securities, Research Division
+
+Fantastic. And can I ask on acquisition opportunities? When you look at the relevant acquisition set for Nucor, how would you characterize that in terms of product and region or segment upstream versus downstream? I appreciate any thoughts.
+
+Leon Topalian
+President, CEO & Chairman of the Board
+
+Yes, Lawson, look, broadly, here's how I would tell you, our mission statement is very simple, right, [ in words ] -- we launched in January 1, 2020. It's to Grow The Core, Expand Beyond and Live Our Culture. The core is just that, the core steelmaking capabilities, you're seeing that with the start-ups of Lexington's micro mill in North Carolina, the melt shop in Kingman, Arizona, the ramping up and then pre-start-up at Crawfordsville's galv line, Berkeley next year, the start-up of our first towers and structures facility in Alabama, the next two that will be next year.
+
+And then that will ultimately culminate with the start-up of the largest investment in Nucor's history in Mason County, West Virginia, with the most state-of-the-art sheet mill that's going to offer a capability set unparalleled in our industry.
+
+And so we're going to have the breadth of capabilities to provide our customers the steel they need today as well as what they're going to need for tomorrow. So that's the core. As we think about Expand Beyond, it sits in the C.H.I, Rytec, Southwest Data Products, our Summit, which is the first acquisition in the towers and structures we made. The insulated metal panels group that continues to bring a really differentiated product mix to the Nucor offering. So as we look to the future now is -- again, we don't anticipate building any more greenfield facilities, at least in the near term. That capital is now going to get deployed in the adjacent space as well.
+
+Again, right more -- we'll leave you that ambiguous. If we think a little bit more about, well, where is that going to go? It's going to go on the mega trends that we're seeing in the U.S. economy like towers and structure. So like energy, energy infrastructure, the data center community. So what are the things that we're not providing or don't provide today that, again, hit a few boxes, right?
+
+So as we look for targets, it's got to be like-minded culturally that fits who we are. It's going to be a converter model that we bring in terms of our competencies to that acquisition. Three, it's going to be low capital intensity. And four, we're going to look for 4 and 5 high margins. And fifth, a sort of countercyclical to the traditional cyclicality of steel. So we want something that isn't as affected by the true steel cycles that we see over, again, the last 60 years that we've been in this business.
+
+And again, C.H.I., Rytec, IMP all provide a much more stable earnings platform, growth throughout all the sectors and highs and lows in both the financial crisis, COVID and whatnot. They have -- their return profiles are incredibly stable. And so again, ultimately, our goal is to stabilize Nucor's overall earnings to provide higher highs and higher lows.
+
+Operator
+
+Our next question comes from Timna Tanners from Wells Fargo.
+
+Timna Tanners
+Wells Fargo Securities, LLC, Research Division
+
+I wanted to ask about my home state, that is Washington and what's happening in Seattle. So I saw the announcement of not replacing the existing mill. Can you just elaborate on that decision? Does that -- you said you could supply it from other mills. But with imports to the West Coast down, I'm assuming like is there enough supply on the West Coast? Can you supply it from Kingman? And are you just not replacing the existing mill? Or are you just not shutting it down?
+
+Leon Topalian
+President, CEO & Chairman of the Board
+
+Yes. Look, you kind of answered the question within that question as well, Timna. So thank you for it. Look, we have a great relationship with the city of Seattle and our team out there does an amazing job connecting with our community, being in that community and welcoming that committee with open arms and how we take care of our safety, the environmental, the sustainability side. So they do a really, really nice job.
+
+But it is as we step back and look at our prudent capital allocation, where our dollar's best spent. And where is the best returns on those dollars going to be? With the investment of the melt shop in Kingman, Arizona, our Utah facility and the breadth and exposure of our Seattle mill, we are adequately covered for the Western side of the United States as well as Western Canada.
+
+So again, as we step back to really evaluate that, we feel really good about where the mill is and its capability set in Seattle, but couple that with the addition of Kingman's melt shop, and we think we've got a very adequate coverage there. So we're going to use those dollars elsewhere to think about growth. And again, how do we not just meet our cost of capital, but double our cost of capital? How do we make sure that we're generating EVA for our shareholders for the long term? And that's where we're going to put that.
+
+And again, if we don't have that home, as you've seen over the course of the years and following us, Timna, this year, we're at 72% return of our net earnings back to our shareholders and dividends or share buybacks, and that will continue.
+
+Timna Tanners
+Wells Fargo Securities, LLC, Research Division
+
+Great. That's my next question. But just to clarify, that Seattle mill keeps operating. You're just not replacing it with the micro mill, is that right?
+
+Leon Topalian
+President, CEO & Chairman of the Board
+
+That's correct.
+
+Timna Tanners
+Wells Fargo Securities, LLC, Research Division
+
+Okay, super. So along the lines of the shareholder returns, your third quarter buybacks at $100 million is the smallest you've had, I think, since 2020 when you didn't have any buybacks. Is that correct? And if so, is that a statement of anything? Do you have other uses of capital? Anything you can elaborate on there?
+
+Leon Topalian
+President, CEO & Chairman of the Board
+
+Yes, I'll let Steve answer that. But I would remind you of the $13 billion that we've returned back to our shareholders over the last five years, but I think you're accurate. But Steve?
+
+Stephen Laxton
+CFO, Treasurer & Executive VP
+
+Yes. Hey Timna, you're correct. That is the lowest quarterly return we've had, but we remain committed to giving back at least 40% of our earnings every year. We don't necessarily do that every quarter. And so over the course of the year, we're well ahead of that mark. And as Leon alluded to, over the last five years, we've given back around 60%. Just under 60% of the earnings.
+
+So we've continued that discipline of balancing investment with our capital and growing the company while we also maintain strong liquidity and a strong balance sheet position. We've actually improved that even getting the upgrade from Moody's this past September and give meaningful returns.
+
+So those three elements remain in place, and that's not going to change going forward. So I wouldn't get too focused in on the quarter -- quarterly number. I'd just remind you that we remain very mindful and intentional about the management of those three pillars of our capital allocation framework.
+
+Operator
+
+[Operator Instructions] Our next question comes from Phil Gibbs from KeyBanc.
+
+Philip Gibbs
+KeyBanc Capital Markets Inc., Research Division
+
+Just wondering if you could give us the state of the West Virginia sheet investment in terms of where you are in the spending and your expected start-up time frame?
+
+Leon Topalian
+President, CEO & Chairman of the Board
+
+Yes, certainly, Phil, I'll ask Noah Hanners, our EVP of our sheet group, to give you a more detailed update. Noah?
+
+Noah Hanners
+Executive Vice President of Sheet Products
+
+Yes. Thanks for the question, Phil. It gives me a good opportunity to congratulate, recognize the team on the progress there. I'd tell you, we're at about 75% on the build. And in terms of capital spending, we're about to that same point now. Most of the 25% we have remaining remains in the labor category.
+
+So if you go there today, it looks like a steel mill. And so we have the world's best steelmaking team, and you see the foundation of it starting there with that team in West Virginia. We have done an awesome job, that West Virginia team has done an awesome job of bringing in some of the most talented people from across our sheet group and from across Nucor to lead that project.
+
+We've done a great job of hiring and experience and I get often asked about like how do you feel about this investment and we could not be more excited because we're taking this awesome team, and we're giving them the world's best equipment, like they're going to have assets, capabilities there that are the best in our market. And then we are turning them loose in a region where we've been underserved, but where we have really strong customer demand. When you stack those things up, we're going to be extremely successful with that investment, and we're excited about what the future brings for West Virginia.
+
+Philip Gibbs
+KeyBanc Capital Markets Inc., Research Division
+
+And then just a question for Steve. On the tax side, is there a distinct difference between your cash tax rate and your book tax rate for '25 and '26, given the recent changes in tax legislation?
+
+Stephen Laxton
+CFO, Treasurer & Executive VP
+
+No. Surprisingly, Phil, not necessarily because of the way that legislation was written, it accelerates things that start after legislation. Most of our spend has already been started. So to give you a sense and a feel for that, the deferred tax benefits -- the cash flow benefits this year in '25 will be around $100 million.
+
+And when you look out into '26, that gets -- it will be smaller because of the nature of the bill. So the One Big Beautiful Bill had relatively modest impact for us on that. It does accelerate some of the R&D credits a little bit. That's where some of the gains coming from. But in terms of the capital spending, maybe not as pronounced as you might expect given the dollars we're spending in capital.
+
+Operator
+
+Our next question comes from Katja Jancic from BMO Capital.
+
+Katja Jancic
+BMO Capital Markets Equity Research
+
+Starting on the start-up costs, given that you have a couple of projects now that are ramping up, how should we think about these costs over the next few quarters?
+
+Stephen Laxton
+CFO, Treasurer & Executive VP
+
+Katja, this is Steve. We would expect over the next quarter them to be in line with the third quarter. And give or take, they're going to be in that range into the first quarter as well. So call it $100 million to $110 million a quarter going forward for the next couple of quarters.
+
+Katja Jancic
+BMO Capital Markets Equity Research
+
+And then I think some of the margin compression in the mill segment was tied to the slabs you purchased for the CSI operations. If I'm not mistaken, that mostly comes from Brazil. Is that correct? And if so, why not use more of the material produced internally?
+
+Noah Hanners
+Executive Vice President of Sheet Products
+
+Katja, this is Noah. I'll take that. Yes, mostly from Brazil, and we have been mostly slab served there this year, but we have a team that looks at the decision about whether to supply with internal substrates, so coils from our own mills like Gallatin or Crawfordsville more to buy slabs. Most of this year, it's made the most economic sense to buy slab and roll it there through our hot mill, but there have been months where we supplied a lot more coil.
+
+And I would tell you, over the course of this year, we've leaned into more of our own internal substrate. So that team will continue to look at what makes the most economic sense and we'll go that way.
+
+Operator
+
+Our next question comes from Andrew Jones from UBS.
+
+Andrew Jones
+UBS Investment Bank, Research Division
+
+I've got a couple of questions on price hikes. And first of all, the MBQ aborted hike from some of your peers. It sounds from the commentary like you didn't support it. Curious on reasons there.
+
+And then secondly, on plates, curious how you're seeing the market at the moment. Obviously, we've had some relief on the import side or we should have done, and it doesn't seem like the Canada carve-out is coming anytime soon. So I'm curious how you're sort of thinking about pricing and the state of the market in the coming months in plate given that sort of tighter supply side?
+
+Leon Topalian
+President, CEO & Chairman of the Board
+
+Okay. Andrew, we'll start off with the bar group. I'll ask Randy to just give you an update on your questions there, and then we'll kick it to Brad on plate.
+
+Randy Spicer
+Executive Vice President of Bar & Rebar Fabrication Products
+
+Yes. Andy, thank you for the question. Certainly, we're not going to comment on specific pricing actions. But what I can tell you is that the momentum across our bar products, it remains very strong. We're seeing robust order entry across all regions and key end markets. And as kind of been mentioned, it's driven by infrastructure projects, chip plants, warehouses and data centers. And that strength is being amplified by the continued growth of our downstream businesses, Nucor Rebar Fab, Vulcraft and so forth.
+
+So it's also worth noting we have implemented and realized meaningful price increases in merchant bar throughout 2025, supported by our multiyear high backlogs and extended lead times. So all of that gives us confidence as we move through Q4 and into 2026 that the market is strong and ready for us to continue in that space.
+
+Leon Topalian
+President, CEO & Chairman of the Board
+
+Brad?
+
+Brad Ford
+Executive Vice President of Plate & Structural Products
+
+Yes. And I'm happy to comment on the plate side. Plate market overall this year has been pretty good. ADC based on the last data we got is trending up around 15% year-over-year, and we're starting to see the impact to tariffs on imports, right? Imports were pretty -- were up a little bit in the beginning of the year, but have come down pretty significantly over the last couple of months.
+
+Similar pockets of strength in plate that you heard from Randy and Leon and Steve around energy, both traditional and renewable, infrastructure. Our bridge business has been very strong this year and then on the nonres construction side. As we sit today, our backlog is 58% higher at the end of Q3 than we ended Q3 of last year. So we're pretty optimistic about where -- about where the plate market is going.
+
+Leon Topalian
+President, CEO & Chairman of the Board
+
+Brad, why don't you touch on just the military applications and great development at Brandenburg as well?
+
+Brad Ford
+Executive Vice President of Plate & Structural Products
+
+Yes, quick Brandenburg update. Team continues to make significant progress at the mill. We announced last quarter that we've achieved EBITDA positive results. We achieved that again in Q3. I'd mentioned some weekly or monthly records from last quarter, but honestly, the team has already shattered those records so far here into Q4.
+
+And then on the product development side, we've had some pretty notable achievements, one being X70 API grade for line pipe. We've achieved qualifications and certifications there and captured a very large order for Q4 and into Q1.
+
+And then on the military side, we're really encouraged by the early-stage military armor trials. Nucor's product breadth in plate between our three plate mills really is going to allow us to become the premier plate supplier in the U.S. military.
+
+And then finally, Brandenburg's capabilities, I know we've mentioned on prior calls that we're seeing opportunities with existing customers, and we're really seeing that play out. The capabilities of Brandenburg are allowing us to sell deeper with our current customer base, and we're seeing that in our total plate volumes where we've shipped nearly as much plate through the first three quarters this year as we did for all of last year.
+
+Leon Topalian
+President, CEO & Chairman of the Board
+
+Does that cover the questions you had, Andrew?
+
+Andrew Jones
+UBS Investment Bank, Research Division
+
+Yes. Just one follow-up on the military side. Curious whether export markets like, obviously, Europe with sort of potential doubling, tripling of defense spending. Is that a market you're focused on, given, I guess, with these higher-quality grades it's more of a global market than the U.S?. What is that -- is that a target for Nucor?
+
+Noah Hanners
+Executive Vice President of Sheet Products
+
+Yes. Thanks for the question. Certainly, it's an opportunity. Again, Brandenburg's capability set is unique in the world market. There's only so few folks that can produce the qualities and size ranges and gauges that Brandenburg can. So defense spending increases not just here in the U.S., but across the world. We're well positioned to take advantage of that.
+
+Operator
+
+Our next question comes from Tristan Gresser from BNP Paribas.
+
+Tristan Gresser
+BNP Paribas Exane, Research Division
+
+The first one is just on your prepared remarks, you mentioned stable demand outlook for next year. But in your presentation, it seems you have a lot of structural tailwinds, especially on resi and infra. So I'm just trying to understand what could be the pockets of weakness next year that would offset that growth and that stable demand outlook. If you could split that between longs and flats that would be helpful as well.
+
+Leon Topalian
+President, CEO & Chairman of the Board
+
+Yes, Tristan, look, I'll touch on a couple of things that we expect to be, I guess, relatively tepid next year, but it is factored into our comments about next year being stable, and it could be up a couple of percent. But again, it's factored in with some softer markets like heavy equipment and ag, right? We don't see that coming back. We think the tariff impact of that has gotten into those heavy equipment suppliers in agriculture.
+
+We think residential construction is, again, probably not going to be great. Interest rates will certainly help that, and we'll see what the fed does over the next 70 or 80 days as we finish out 2025. And then auto is probably another one that's not a huge market for us today, again, about 5% or 6%. But one that we think we can continue to grow in because, again, we're increasing our capability sets. But again, I think those are probably three areas that we see either flat or down into '26.
+
+Tristan Gresser
+BNP Paribas Exane, Research Division
+
+All right. That's clear. And maybe just following up on that. I mean consensus has external shipments for the steel mills, I think, below 21 million tons for next year. Obviously, you have all those growth projects coming online and ramping up at different paces. So could you help us understand a little bit of the moving pieces into volumes for next year? And what sort of utilization rates for the new project do you expect? And do you feel consensus is conservative or pretty well calibrated at this point?
+
+Leon Topalian
+President, CEO & Chairman of the Board
+
+Well, okay. Look, I appreciate the question and we'll be careful on how much detail we get into for obvious reasons, Tristan. But look, I'm an incredibly optimistic guy. We're sitting on the eighth safest year in the history of Nucor. We've returned $1 billion through the first nine months of the year. We're ramping up two of our products today that we expect in Lexington, North Carolina and Kingman, Arizona that we expect to be profitable in Q1 of '26.
+
+We've been upgraded by Moody's to A3. We started up the first of three towers and structures facility in Alabama, the other two next year. Continue to grow our capabilities and now make 95% of the data centers that -- steel that's in data centers that's required, starting up Crawfordsville's galvanizing line and Berkeleys galvanizing line, culminating in West Virginia start-up next year.
+
+The tsunami of earnings power that's going to be brought to Newport's balance sheet is significant. And so I couldn't be more optimistic about our future, and do I think there's upside in our forecast? Absolutely. But look, there's other external factors that we all weigh. But again, the investments Nucor has made are for the long term. Not the quarter-to-quarter, that's the 10-, 12-, 15-, 20-year cycles. And again, I think we are as well positioned today as we have ever been in our history.
+
+Tristan Gresser
+BNP Paribas Exane, Research Division
+
+All right. All right. No, that's fair. And maybe just a last one on steel products. Is it fair to expect higher ASP into 2026, have you've seen rebar prices going up? And joists and deck, you mentioned good momentum. And if you could also, I think, Expand Beyond, we're supposed to do $450 million of EBITDA for this year, do you think it's achievable? And lastly, if you could just remind us the timing and EBITDA contribution of the two new tower projects, that would be also really helpful.
+
+Leon Topalian
+President, CEO & Chairman of the Board
+
+Yes, I'll start with the last. And if I forget the first, either, Steve can help me remember. But -- or you can, Tristan. But if we start with the last question you asked about the other two towers facilities, Indiana is expected to be up and running midyear of next year and then Utah facility should be end of '26. So again, by the end of next year, we will rival some of the largest players in that space with a capability set that is truly differentiated, Tristan.
+
+It's -- these facilities that are being built aren't -- they're fully automated. They are using the latest technologies that you can imagine that are making these -- the design window for those from a cost and technology standpoint, incredibly advantageous.
+
+The product segment, though, is also another area, and I'll let John comment here a little bit, but it's another area for us that we are incredibly optimistic about. If you think about the last 3, 4, 5 years of the products group, they have generated somewhere between 30% and 40% of Nucor's overall net earnings. We have seen in the cyclical market that we're in as a steel company, the products group has reached a new high, and we've seen the low and we're already climbing out.
+
+Our backlogs are up 25% to 30% year-over-year. We're seeing pricing stabilized and moving up in most of the segments within that group. And so again, do I think there's a lot of upside as we head into the new year and some tailwinds that could make that better? Yes, I absolutely believe that's to be the case.
+
+John Hollatz
+Executive Vice President of Fabricated Construction Products
+
+Yes. Tristan, this is John. On the pricing side, look, the market is going to dictate what pricing is, but the one that we always get the question around is joist and deck pricing. And as we mentioned last quarter, we're expecting the trend and this is coming to a reality where our order entries on joist and deck is matching our backlog pricing. That's been the case for about the last nine months.
+
+We're seeing a lot of stability there. And just echoing what Leon said, this -- the margins and the profits produced by these businesses are much stronger than what they were pre-pandemic, which is important for our downstream performance.
+
+Tristan Gresser
+BNP Paribas Exane, Research Division
+
+All right. And just on the $450 million EBITDA target for Expand Beyond?
+
+Stephen Laxton
+CFO, Treasurer & Executive VP
+
+Yes. Tristan, thanks for that question. Expand is doing fine. It's hitting its clip, and it's a mixed bag of things as Leon was highlighting some of the progress we're making in towers. Keep in mind that's a bit of a build-out, a greenfield build-out. So we still would point people to our long-term run rate of $700 million as a target, and we're not going to back off of that.
+
+Operator
+
+Thank you very much. We currently have no further questions. So I just like to hand back to Leon Topalian for any further remarks.
+
+Leon Topalian
+President, CEO & Chairman of the Board
+
+Well, thank you for joining us for today's call and for your questions. Nucor is continuing to execute on our strategy to grow our core steelmaking capabilities while expanding into downstream steel adjacent businesses.
+
+I'd like to thank our team for delivering solid financial performance and for your unwavering commitment to become the world's safest steel company. Thank you to our customers for allowing us to serve you and to our shareholders for investing your valuable capital with us. Have a great day.
+
+Operator
+
+As we conclude today's call, we'd like to thank everyone for joining. You may disconnect your lines.
