@@ -1,0 +1,132 @@
+Coterra Energy Inc. (CTRA) Q3 2025 Earnings Call November 4, 2025 10:00 AM EST
+
+Company Participants
+
+Daniel Guffey - VP of Finance, Investor Relations & Treasurer
+Thomas Jorden - CEO, President & Chairman
+Shannon Young - Executive VP & CFO
+Michael Deshazer - Executive Vice President of Operations
+Blake Sirgo - Executive Vice President of Business Units
+
+Conference Call Participants
+
+Douglas George Blyth Leggate - Wolfe Research, LLC
+Wei Jiang - Barclays Bank PLC, Research Division
+Arun Jayaram - JPMorgan Chase & Co, Research Division
+Neil Mehta - Goldman Sachs Group, Inc., Research Division
+Scott Gruber - Citigroup Inc., Research Division
+David Deckelbaum - TD Cowen, Research Division
+Matthew Portillo - Tudor, Pickering, Holt & Co. Securities, LLC, Research Division
+Kaleinoheaokealaula Akamine - BofA Securities, Research Division
+Derrick Whitfield - Texas Capital Securities, Research Division
+Phillip Jungwirth - BMO Capital Markets Equity Research
+
+Presentation
+
+Operator
+
+Thank you for standing by. At this time, I would like to welcome everyone to today's Coterra Energy Third Quarter 2025 Earnings Call. [Operator Instructions] I would now like to turn the call over to Dan Guffey, Vice President of Finance, Investor Relations and Treasurer. Dan?
+
+Daniel Guffey
+VP of Finance, Investor Relations & Treasurer
+
+Thank you, Greg. Good morning, and thank you for joining Coterra Energy's Third Quarter 2025 Earnings Conference Call. Today's prepared remarks will include an overview from Tom Jorden, Chairman, CEO and President; Shane Young, Executive Vice President and CFO; and Michael Deshazer, Executive Vice President of Operations. Blake Sirgo, Executive Vice President of Business Units, is also in the room to answer questions. Following our prepared remarks, we will take your questions during our Q&A session.
+
+As a reminder, on today's call, we will make forward-looking statements based on our current expectations. Additionally, some of our comments will reference non-GAAP financial measures. Forward-looking statements and other disclaimers as well as reconciliations to the most directly comparable GAAP financial measures were provided in our earnings release and updated investor presentation, both of which can be found on our website. With that, I'll turn the call over to Tom.
+
+Thomas Jorden
+CEO, President & Chairman
+
+Thank you, Dan, and thank you to all who are listening this morning. Coterra had a strong third quarter and is on track to deliver on the ambitious annual goals that we set for ourselves for the full year 2025. Furthermore, we released a soft guide to our coming 3-year plan update that shows that we remain committed to a long-term path of consistency, profitable growth and value creation for shareholders.
+
+I want to give a shout out to our field and office personnel who have worked valiantly to deliver results as promised and to do so safely with environmental integrity and with a relentless focus on maximizing full-cycle returns. We could not be prouder of our organization and their commitment to excellence.
+
+We delivered on all fronts during the third quarter. Our volumes on gas, oil and barrel of oil equivalent came in above the midpoint of our guidance. We delivered outstanding returns on invested capital with great capital efficiency. The integration of the Lea County assets that we acquired early in the year has gone well, and we are realizing significant uplifts in asset performance, cost reductions and future inventory. Michael Deshazer will provide further details here.
+
+We plan to deliver a comprehensive updated 3-year outlook with our fourth quarter release in February. Last night, however, we provided an early look into 2026, which demonstrates our multiyear commitment to growing revenue, cash flow, free cash flow and profitability. As we see it today, we expect capital to be modestly down year-over-year while still achieving consistent profitable growth. Our low breakevens and deep inventory, coupled with our balanced revenue between gas and oil assets provides the opportunity to deliver through the cycles and maintain a degree of consistency that differentiates us. We view our future entirely through a lens of increasing shareholder value, and we best achieve this by consistently making smart full-cycle investments through the commodity swings.
+
+I do want to emphasize that we are providing a soft guide for 2026, and final decisions are a work in progress. We are watching markets carefully. Oil markets have a lot of moving pieces. These include the timing and impact of Russian sanctions, the situation in Venezuela, Chinese and Indian behavior and global economic robustness. While we have the projects and wherewithal to further increase our oil growth, if warranted, we are remaining disciplined and not chasing growth in the current environment. Although capital may modestly flex up or down each year, our sole goal is to consistently grow our profitability and maximize our free cash flow.
+
+We are living in rapidly changing times. The increase in LNG exports and growing electricity demand is constructive for the medium- and long-term outlook for natural gas. We are prepared to be patient and not front-run demand increases. Our marketing group is heavily engaged in discussions with counterparties seeking new natural gas supply arrangements to further diversify our portfolio, which already has committed 200 million cubic feet a day to recently announced LNG deals, 350 million cubic feet per day to Cove Point LNG, 50 million cubic feet per day power -- Permian power deal with CPV and our 320 million cubic feet per day of natural gas supply deals to local power plants within the Marcellus.
+
+While these deals total approximately 30% of Coterra's gas production, the team continues to bring fresh ideas to the table to further improve and diversify our portfolio. Our marketing team has a mandate to generate value, not press releases. We are confident that patience is prudent and that the future of natural gas will provide tremendous opportunities for Coterra. There is a lot happening under the hood.
+
+We are also watching all markets carefully, as I said, the swing between optimism and pessimism here is remarkable. A tiny change in facts can drive huge swings in emotion. Coterra has a deep inventory of oil assets with one of the lowest breakeven portfolios in our sector. Our bias is steady as she goes without wild reactive swings.
+
+Before I turn the call over to Shane, you will note that Michael Deshazer will be delivering the operational summary today. Blake Sirgo is with us and will undoubtedly have the opportunity for comments. We recently switched the portfolios of Blake and Michael, with Blake assuming oversight over our business units and Michael taking on our operational and marketing portfolios. This change was entirely driven by a desire to build redundancy in our skill sets and build broader depth of expertise on the executive team.
+
+We have a highly collaborative executive team that, by design, is broadly familiar with all aspects of our business. This change will further increase our flexibility, bring fresh eyes on critical issues and provide an ability for both Michael and Blake to enlarge their impact. Every now and then, it is good to repot the plant.
+
+Finally, we know that many of you have seen the letter that Kimmeridge released this morning. Although we think that it contains some factual errors, we have great respect for many of the thought pieces that the Kimmeridge team has produced over the years and have had constructive engagement with them in the past. We are disappointed that they have chosen to release a public letter without reaching out to us. Nonetheless, we are open to suggestions that can improve Coterra. And as always, we will listen, carefully consider ideas and be thoughtful in our response.
+
+With that, I will turn the call over to Shane for a financial summary.
+
+Shannon Young
+Executive VP & CFO
+
+Thank you, Tom, and thank you, everyone, for joining us on this morning's call. Today, I'd like to cover 3 topics. First, I will quickly summarize a few key takeaways from our strong third quarter financial results. Then I'll provide our fourth quarter guidance and update to our full year 2025 guidance. Finally, I'll provide comments on our balance sheet and cash flow priorities for the remainder of the year.
+
+Turning to our performance during the quarter. Performance in all 3 business units exceeded expectations during the third quarter. Coterra's oil, natural gas and BOE production each came in approximately 2.5% above the midpoint of our guidance. Additionally, NGL production was strong, posting an all-time high for Coterra at around 136 MBoe per day.
+
+In the Permian, we had 38 net turn-in-lines during the quarter, just below the low end of our guidance range, while the Anadarko and Marcellus had net turn-in-lines of 6 and 4, respectively, in line with expectations. We continue to expect TILs in all areas to be within our annual guidance ranges with the Permian being near the high end of the range. Pre-hedge oil and gas revenues came in at $1.7 billion with 57% of revenues coming from oil production. This is up sequentially from 52% in the prior quarter and was driven by a substantial uptick in oil volumes of 11,300 barrels per day, an increase of above 7% above our second quarter levels. The Permian team continues to drive outstanding incremental production results.
+
+Cash operating costs totaled $9.81 per BOE, up 5% quarter-over-quarter due to production mix and higher workover activity, which we expect to moderate during the fourth quarter. Incurred capital in the third quarter were near the midpoint at $658 million. Discretionary cash flow for the quarter was $1.15 billion and free cash flow was $533 million after cash capital expenditures. Both of these figures benefited from negative current taxes for the quarter related to recent changes in U.S. tax law.
+
+In summary, our strong third quarter results show continued improvement in capital efficiency as production exceeded expectations and capital remains on track. We continue to run a consistent and highly efficient activity cadence, which we expect will continue to generate strong full-cycle returns in the current price environment.
+
+Looking ahead to the fourth quarter and the full year 2025. During the fourth quarter of 2025, oil production is expected to be 175 MBoe per day at the midpoint, an increase of over 8,000 barrels per day or another 5% increase quarter-over-quarter. We expect total production to average between 770 and 810 MBoe per day and natural gas to be between 2.78 and 2.93 Bcf per day. We expect capital for the quarter to be around $530 million, significantly below the third quarter results as we wrapped up frac activity in the Anadarko late in the third quarter.
+
+For full year 2025, we are increasing annual MBoe per day production guidance to 777 at the midpoint, a 5% increase from our initial guidance in February. We are maintaining the oil guidance midpoint at 160 MBoe per day while tightening the guidance range. Oil volumes from our acquired assets have been in line to slightly better than expected. Our legacy assets oil volumes are expected to deliver a high single-digit percentage growth rate year-over-year. This is similar to the rate of growth we have delivered during the prior 3 years.
+
+On natural gas, we are increasing the midpoint of our volume range to 2.95 Bcf per day, an increase of over 6% from our initial full year guidance in February. As previously indicated, we expect capital for the year to be approximately $2.3 billion, just above the midpoint of our initial guidance range in February as we have maintained the second Marcellus rig into the second half of the year. Our annual expense guidance ranges remain unchanged, and we expect to be near the midpoint of the aggregate expense range for the full year.
+
+With regard to our 3-year outlook provided in February, we remain highly confident in our ability to deliver results within those ranges from 2025 through 2027. This outlook is underpinned with a low reinvestment rate and improving capital efficiency and delivers attractive long-term value creation for our shareholders. While we are not prepared to provide specific 2026 guidance, a current snapshot suggests that capital should be down modestly year-over-year while still maintaining production parameters laid out in our 3-year guide we released in February. At the same time, our low breakevens, low leverage and operational flexibility, coupled with our hedge book, have Coterra well positioned in the event of high commodity price volatility in 2026.
+
+Turning to shareholder returns and the balance sheet. For the third quarter, we announced a dividend of $0.22 per share. This is one of the highest-yielding dividends in the industry at over 3.5% and demonstrates our confidence in the long-term durability, depth and quality of our future inventory and free cash flow. Additionally, during the third quarter, we repaid $250 million of outstanding term loans that were used as part of the financing of our acquisitions earlier this year, bringing our total term loan pay down to $600 million through the third quarter of 2025.
+
+In October, based on the progress we have made in retiring our term loans and the trading levels of our shares, we reinitiated our share buyback program. While we continue to make progress on our debt retirement goals during the fourth quarter, we'll be opportunistic in purchasing our shares. We ended the quarter with an undrawn $2 billion credit facility and a cash balance of $98 million for total liquidity of $2.1 billion.
+
+As of September 30, we had total debt outstanding of $3.9 billion, down from $4.5 billion at the closing of the acquisitions in January. We're making meaningful progress in executing on our priority of getting our leverage back to around 0.5x net debt to EBITDA. Coterra remains committed to maintaining a top-tier fortress balance sheet that is strong in all phases of the commodity cycle. We believe this enables us to take advantage of market opportunities while protecting our shareholder return goals.
+
+In summary, Coterra's team delivered another quarter of high-quality results across all 3 business units. We continue to enhance capital efficiency through higher productivity and lower cost per foot completed. Our consistent activity has continued to deliver meaningful oil production growth throughout the year while raising the bar on both natural gas and BOE production.
+
+In 2025, we expect to generate substantial free cash flow of around $2 billion, an approximately 60% increase over 2024, benefiting from both higher natural gas realizations and higher oil volumes from our acquired assets. While we continue to prioritize deleveraging, we see significant value in Coterra at current share prices and are approaching buybacks opportunistically.
+
+In summary, Coterra has never been stronger or better positioned. With that, I will hand the call over to Michael to provide additional color and detail on our operations.
+
+Michael Deshazer
+Executive Vice President of Operations
+
+Thank you, Shane. Today, I will talk about our third quarter operational results and outlook. We'll provide a business unit update, including the successful integration and upside to our Franklin Mountain and Avant acquisitions, and I will briefly touch on our marketing efforts.
+
+The third quarter was another well-executed quarter, and we carried this operational momentum into the fourth quarter. On the activity front, we have a consistent 9-rig, 3-crew program working in the Permian, 1 rig and 1 crew in the Marcellus and 1 rig in the Anadarko. We expect to maintain this activity level during the fourth quarter.
+
+To reiterate what Shane touched on earlier, looking ahead to 2026, we expect 2026 capital to be down modestly year-over-year, while still achieving the production ranges laid out in our 2025 through 2027 3-year outlook. While we are focused on consistent operations through the commodity cycles, we are maintaining maximum operational flexibility with no rigs or frac crews on long-term contracts. We expect to provide a comprehensive 2026 guidance and an updated 3-year outlook in February.
+
+The integration of our Franklin Mountain and Avant assets is complete, and our teams continue to outperform our expectations for synergies on these assets. I would like to spend a few minutes discussing our progress. When we announced the acquisition, there were many wells that were in various stages of development, and we made estimates of their productivity for our evaluation and for our full year production guidance.
+
+In November 2024, we announced a 2025 production estimate for the assets of 40,000 to 50,000 barrels of oil per day, assuming a full year contribution. When we updated our production guidance on our February call after the actual close dates in late January of the assets were known, we maintained our annual production guidance because we liked how the assets were performing. I am pleased to report that we continue to perform in line to above our production expectation for the acquired assets, giving us further confidence that there is upside relative to what was underpinned -- what underpinned the acquisition.
+
+On the capital side of the acquisition, we have realized a 10% reduction in our total well costs as measured in dollars per foot by applying our Coterra best practices at scale across the assets. A few of the efficiencies I would like to point out are our optimized and standardized hole size and casing designs, which have reduced our drilling times from 15 to 13 days for a standard 2-mile lateral. And on the completion front, we have seen that implementing our proven stimulation designs that have been evaluated across the basin and tailored for each landing zone as well as our scale in the Permian has allowed us to reduce service costs.
+
+In addition to capital savings, we now have line of sight to significant operating cost synergies. We have already reduced the inherited lease operating expense by approximately 5% or $8 million per year. These savings have been seen across most services, but the biggest savings are related to on-pad sour gas treating and electric generation. For example, at our Eagle central tank battery, we acquired a facility that treated sour gas to then be burned in gas turbines to generate power for our field.
+
+Working with our marketing team, we accelerated a residue gas connection to the site that allowed us to remove the gas-treating equipment and allow the turbines to burn clean low Btu gas, increasing reliability and saving over $2.5 million per year in expenses. There are many more projects like this one, and we are currently projecting an additional $20 million per year in net operating cost savings related to on-pad sour treatment, taking our projected total LOE savings on the acquired assets to 15% as a go-forward run rate.
+
+In addition, we believe that the biggest future savings could come from using microgrids instead of well-site generators to power our assets. We are in the final stages of planning for up to 3 microgrids across our Northern Delaware Basin assets. We think that these projects will have the potential to reduce our current power costs by 50%, saving an additional $25 million a year. But as the asset and our power demand in the area grows, the projected savings will grow as well to nearly $50 million per year. This is all while we continue to work with our utility power providers to bring more grid power into the Permian Basin.
+
+Now that we have integrated the assets, we expect not only to demonstrate capital and expense reduction, but also productivity enhancements as we pursue a development plan focused on maximizing capital efficiency. Our subsurface teams have continued to delineate multiple landing zones, and this work has given us confidence that we have 10% more inventory as measured by net lateral footage than we estimated when acquiring the assets. Furthermore, our increased scale in the Northern Delaware Basin has enabled us to make many value-added trades and small-scale acquisitions. We expect our team to prudently add valuable inventory as we continue to develop our highly profitable and low-cost resources in the Permian Basin.
+
+Moving on to the Marcellus business unit. This quarter, we drilled a new 4-mile lateral from spud to rig release in under 9 days, averaging 2,400 feet per day. This sets a new high watermark for Coterra. In fact, it's becoming common for many of our recent wells to eclipse 2,000 feet per day. This type of performance and longer laterals reaching over 20,000 feet have driven drilling costs down 24% year-over-year. With these efficiencies, we no longer need 2 rigs to maintain production in our Marcellus asset. Our maintenance activity level over the next few years would require 1 to 2 rigs, so we will manage our rig count to not build excessive DUC backlog.
+
+While we hold the option to grow our Marcellus natural gas volumes, we are committed to being patient and expect to hold our production volumes relatively flat until additional demand materializes and the strip solidifies. Should we have a cold winter and prices increased into '26, we will fully participate from our approximately 2 Bcf a day of production in the Northeast and expect to generate substantial free cash flow from our Marcellus region.
+
+In the Anadarko business unit, we brought online our last project of the year during the third quarter, the 5 3-mile Hufnagel wells. These new wells, combined with our Roberts project from Q2, continue to drive strong region performance that has exceeded our expectations.
+
+Turning to marketing. Our team continues to be active in the hunt for more deals and partnerships that can deliver flow assurance and price uplift for our products across our diverse portfolio. As Blake mentioned last quarter, the long-term gas sales to CPV's new Basin Ranch power plant in Reeves County, Texas was the latest in a line of deals that our company has a history of delivering.
+
+As Tom mentioned, our Moxie and Lackawanna power deals in the Marcellus were put in place 10 years ago and have provided value well and above an in-basin price. We will continue to find opportunities to improve the netback of our product and increase the value to our shareholders. A strength of our sales portfolio is a significant diversification, but we are not satisfied and we'll continue to optimize.
+
+The teams in all 3 of our regions are firing on all cylinders and have remained focused on solid execution, making decisions to maximize full-cycle returns and creating value for shareholders.
+
+With that, I'll turn the call back over to the operator for Q&A.

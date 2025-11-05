@@ -1,0 +1,69 @@
+fuboTV Inc. (FUBO) Q3 2025 Earnings Call November 3, 2025 8:30 AM EST
+
+Company Participants
+
+Ameet Padte - Senior VP of FP&A, Corporate Development & Investor Relations
+David Gandler - Co-Founder, President, CEO & Director
+John Jenadis - CFO & Principal Accounting Officer
+
+Conference Call Participants
+
+David Joyce - Seaport Research Partners
+Patrick Sholl - Barrington Research Associates, Inc., Research Division
+Alicia Reese - Wedbush Securities Inc., Research Division
+Laura Martin - Needham & Company, LLC, Research Division
+Sebastiano Petti - JPMorgan Chase & Co, Research Division
+William Lampen - BTIG, LLC, Research Division
+
+Presentation
+
+Operator
+
+Thank you for standing by, and welcome to the fubo Third Quarter 2025 Earnings Conference Call. [Operator Instructions] I'd now like to turn the call over to Ameet Padte, SVP, FP&A, Corporate Development and Investor Relations.
+
+You may begin.
+
+Ameet Padte
+Senior VP of FP&A, Corporate Development & Investor Relations
+
+Thank you for joining us to discuss fubo's Third Quarter 2025 results. With me today is David Gandler, Co-Founder and CEO of fubo; and John Janedis, CFO of fubo. Full details of our results and additional management commentary are available in our earnings release and letter to shareholders, which can be found on the Investor Relations section of our website at ir.fubo.tv.
+
+Before we begin, let me quickly review the format of today's call. David will start with some brief remarks on the quarter and our business, and John will cover the financials. Then we will turn the call over to the analysts for Q&A. I would like to remind everyone that the following discussion may contain forward-looking statements within the meaning of the federal securities laws, including, but not limited to, statements regarding our financial condition, anticipated financial performance, expected synergies and other benefits from our business combination, business strategy and plans, including our products and subscription packages, market, industry and consumer trends and expectations regarding growth and profitability.
+
+These forward-looking statements are subject to certain risks, uncertainties and assumptions. Actual results could differ materially from our current expectations, and we may not provide updates unless legally required. Potential factors that could cause actual results to differ materially from forward-looking statements are discussed in the earnings release we issued today, our letter to shareholders and in our SEC filings, all of which are available on our website at ir.fubo.tv. Except as otherwise noted, the results we are presenting today are on a continuing operations basis, excluding the historical results of our former gaming segment, which are accounted for as discontinued operations.
+
+Please note also these results reflect fubo's stand-alone operations prior to the recent completion of our business combination with the Walt Disney Company's Hulu+ Live TV. During the call, we may also refer to certain non-GAAP financial measures. Reconciliations of these non-GAAP measures to the most directly comparable GAAP measures are available in our Q3 2025 letter to shareholders, which is available on our website at ir.fubo.tv.
+
+With that, I will turn the call over to David.
+
+David Gandler
+Co-Founder, President, CEO & Director
+
+Thank you, Ameet, and good morning, everyone. This quarterly earnings call is unlike any other in our history, coming just days after completing our transformative combination with the Hulu + Live TV business, setting a new stage for what's ahead. The combination of fubo and Hulu + Live TV forms one of the largest live TV streaming services in America. Our combined nearly 6 million subscribers in North America make fubo the sixth largest pay TV company according to recent UBS Estimates. It's a defining moment for our team and our shareholders and the culmination of years of innovation and execution. Together with our strong stand-alone results, this combination underscores the enormous potential ahead, a consumer-first platform built on choice, value and profitable scale.
+
+Now looking at our third quarter stand-alone results, fubo ended the quarter with 1,630,000 paid subscribers in North America, our strongest third quarter performance to date and $369 million in total revenue alongside solid contributions from our international operations. We're also proud to report that we achieved meaningful improvements in both net loss and adjusted EBITDA with the third quarter representing our second consecutive quarter of positive adjusted EBITDA. Beneath those strong headline numbers, the health of our underlying metrics continues to improve. Trial starts increased and conversions from trial to paid meaningfully improved year-over-year, while churn declined nearly 50% versus last year. At the same time, we reduced marketing spend during a highly competitive sports quarter, reinforcing our path toward profitability and stronger margin expansion. These trends reflect growing consumer demand, higher engagement and the continued scalability of our model.
+
+Our mission remains clear: deliver must-have programming through a flexible value-forward experience. fubo continues to make watching live content easier and more valuable. The fubo channel store, similar in concept to Amazon Prime video channels, offers third-party premium services like RSNs, DAZN 1, Hallmark Movies Now and Paramount+ with SHOWTIME into one sports-first interface, removing friction and simplifying viewing. Our fubo Sports skinny service added lower-priced, high-value access to top sports content, including the majority of ESPN unlimited content and is driving record trial conversions. Together with the expansion of pay-per-view, which delivered double-digit sales growth in October compared to the prior month, these initiatives demonstrate fubo's ability to innovate, scale engagement and strengthen our live platform.
+
+We have built market-defining features, multiview, game highlights, game alert push notifications and catch up to live that increase engagement and make watching sports easier and more entertaining. These are the types of personalized capabilities we will continue to scale across our growing membership base. Fubo's recent results gives us much to be confident about, and we envision unprecedented opportunities at the combined company. We're expanding choice, not forcing one bundle. The combined company offers consumers a broad set of sports and entertainment-focused programming offerings from fubo and Hulu+ Live TV, respectively. Together, we give families flexible ways to rightsize their spend while broadening access to the best content. In the near term, we'll focus on programming efficiencies, ad tech uplift and marketing at scale, including through ESPN's ecosystem as well as deeper personalization.
+
+These are 4 major drivers to grow our subscriber base and achieve our profitability goals. In closing, we could not be more excited about fubo's future. We believe our third quarter stand-alone performance, coupled with the opportunities unlocked by our business combination with Disney's Hulu+ Live TV, solidly position fubo for future success. We want to thank our retail and institutional shareholders for your unwavering support and to our customers for your loyalty. We remain committed to building a consumer-first streaming service that delivers more live action, less friction and superior value.
+
+I will now turn the call over to John Janedis, CFO, to discuss our financial results in greater detail.
+
+John?
+
+John Jenadis
+CFO & Principal Accounting Officer
+
+Thank you, David, and good morning, everyone. Our third quarter results reflect continued progress in both execution and profitability capped by a historic milestone, the completion of our business combination with Hulu + Live TV. We believe this transaction is a huge win for our company, shareholders and the market, and we could not be more excited about the opportunities ahead. Taking a look at the results for the quarter. In North America, we delivered total revenue of $368.6 million, down 2.3% year-over-year and reached 1.63 million paid subscribers, a 1.1% increase year-over-year and our highest ever third quarter subscriber count. In Rest of World, revenue was $8.6 million, and we ended the quarter with 342,000 paid subscribers. In North America, advertising revenue totaled $25 million, down 7% year-over-year, primarily reflecting the absence of certain ad insertable content and onetime benefits in the prior year period.
+
+That said, demand indicators remain constructive, including upfront commitments for the 2025, 2026 cycle, up over 36% versus last year, with nearly 1/3 of advertisers new to fubo. Non-video formats such as pause ads and branded activations grew over 150% year-over-year. These personalized and dynamic ad experiences are driving greater engagement and reinforce the stickiness of CTV formats beyond standard video ads. Net loss was $18.9 million or $0.06 per share compared to a loss of $54.7 million or $0.17 per share in the prior year period. Adjusted EPS improved to $0.02 compared to a loss of $0.08 in the prior year period. Adjusted EBITDA was positive $6.9 million, representing a year-over-year improvement of more than $34 million. This marks our second consecutive quarter of positive adjusted EBITDA, underscoring the strength of our cost discipline and the scalability of our model.
+
+I would also like to point out our continued improvement in expense efficiency with total operating expenses now approaching parity with revenue, our best ever third quarter performance. This reflects the benefits of disciplined content spending, optimization of marketing investments and ongoing focus on scalable growth. From a cash flow perspective, net cash used in operating activities was $6.5 million or a $9 million increase compared to Q3 2024, while free cash flow was negative $9.4 million, a decrease of $8.3 million compared to the prior year. Free cash flow improved sequentially versus Q2, but was lower year-over-year, driven primarily by working capital timing. We ended the quarter with a solid liquidity position and balance sheet flexibility, including over $280 million in cash. In summary, Q3 was another quarter of steady financial progress and operational execution.
+
+We've demonstrated consistent improvement in profitability metrics, disciplined cost management and continued engagement growth. With the Hulu+ Live TV combination now complete, we enter the next phase of our journey as a stronger scaled player in the pay-TV ecosystem, positioned to deliver sustainable profitability and long-term shareholder value.
+
+With that, I'll turn the call back to the operator for Q&A.
+
+Operator?

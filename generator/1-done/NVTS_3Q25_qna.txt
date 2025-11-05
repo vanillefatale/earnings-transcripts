@@ -1,0 +1,258 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from Kevin Cassidy from Rosenblatt Securities.
+
+Kevin Cassidy
+Rosenblatt Securities Inc., Research Division
+
+Welcome, Chris. Looking forward to working with you. Maybe just to understand a little better the shape of this transition. How long of a tail is the mobile market? Do you have some higher voltage applications in the mobile market that could continue on and then cross over to the power supplies, high-voltage power supplies. When do you expect that would be more than 50% of the business?
+
+Todd Glickman
+Senior VP, CFO & Treasurer
+
+Yes. No, that's a great question. Maybe I could start there and Chris can add color. So when we're looking at the business today, right, I think as we look at Q3, mobile represent the vast majority of our business. And as we move into Q4, it's going to actually represent less than 50%. And all the growth going forward in our company as we go quarter-on-quarter, as we discussed, the gradual growth is going to come from these new markets of AI data center, performance computing and grid infrastructure.
+
+Chris Allexandre
+CEO, President & Director
+
+[ Ralph ], nice to meet you and a very good question. As we move towards '26, what we see is as mobile continue to decline, we see an acceleration of the high-power market that Todd just listed. And we believe this is going to enable us to drive the quarter-over-quarter gradual growth that we talked about. When it comes down to mobile, I think you have to differentiate the high end of the mobile to the low end of the mobile. The low-end side has quickly commoditized over the last year or 2. The high end, however, we've reached a plateau. And if you think about 100-watt chargers today, there is less and less differentiation, and we anticipate an acceleration of the commoditization. That's why we decided along with the speed and the opportunity in the hyper market that Todd mentioned, we decided to accelerate that pivot that we have planned for a while.
+
+Kevin Cassidy
+Rosenblatt Securities Inc., Research Division
+
+Okay. Great. And just as a follow-up, just to understand the AI data center, I see it as 2 stages. One, you have the power supply companies that tend to be more conservative, we'll say, in making transitions and compared to the AI data centers that are starving for more power and would probably want to switch over more aggressively. So what is the strategy there? Do you work with the end users and pull the power supply customers along with them? Or do you work behind the power supply customers?
+
+Todd Glickman
+Senior VP, CFO & Treasurer
+
+It's a very good question, [ Ralph ]. It's actually -- we do both. But as we pivot, the orientation of our engagement is definitely more towards the OEM and the hyperscalers. Let's start by AI because everybody talks about AI. AI is really a catalyst that drive change across all the markets we talked about, data centers, of course, but we'll talk about performance computing that is also disrupted by AI as well as the grid energy infrastructure. So as we ship today to AI, we ship to the, as you said, the power companies, mostly sitting in Taiwan. However, as the hyperscalers are taking control and driving the disruption of the architecture, we see engagement is pivoting towards the U.S. And the announcement made by NVIDIA with the 800-volt DC AI factory is really just an amplified example of how the hyperscalers are now trying to drive from the grid to the GPU and driving the architecture change at all stages. So we talk to those hyperscalers on all level of the stages.
+
+We, of course, work with their partners to implement those solutions, but the system-level discussion that we have and that we had had over the last few weeks and months are really kind of enabling this transition that NVIDIA talked about, both for GaN as well as high-voltage SiC.
+
+Sorry, I called you -- I didn't use the proper name Kevin.
+
+Operator
+
+Your next question comes from the line of Ross Seymore from Deutsche Bank.
+
+Ross Seymore
+Deutsche Bank AG, Research Division
+
+Chris, welcome aboard, and you can call me, Kevin, if you want. So I guess a bigger picture question just to start. So when you guys were added to the collaboration list for the 800-volt data center stuff at NVIDIA, there were 10 names. The line at the time was you were the only one with GaN and silicon carbide. Now there's 14 names and the incremental 4, a bunch of them do have the GaN side, maybe not as much silicon carbide. So I guess the question is, when you look at 14 potential competitors or whatever subset you align to, what do you think the true competitive differentiation is for Navitas? And is it more on the silicon carbide or the GaN side?
+
+Chris Allexandre
+CEO, President & Director
+
+Thank you. Very good question. I would say -- I would start by saying that the fact that we have both high-voltage SiC and GaN has not changed. And this is truly, as you said, a differentiator and not many of our competitors are having that. The other thing, and I've spent over the last 8 weeks, a lot of time with those customers, right? They all told me the same. When it is about enabling that pivot that technology disruption, that adoption of GaN track record matters. And we have through the pioneering of GaN into the first market that got GaN at scale, which is mobile charger, developed expertise, deep technology understanding and experience that really matter. So I would say beyond the technology understanding, the fact that we have both speed and track record is going to be a key differentiator.
+
+And as I talked to NVIDIA and a few other of the hyperscalers, they all told me the same. It's about speed and support to have them enabling that transition with safety and execution. And that's where we're going to differentiate against our competitors.
+
+Ross Seymore
+Deutsche Bank AG, Research Division
+
+And I guess whether it be you or Todd, it's nice that the fourth quarter is the bottom. When you think about growth going forward, I thought I heard, and forgive me if I missed out a little bit on this, but I thought I heard a significant portion of the data center side would be more in 2027. So just not putting absolute numbers around it, but the tailwinds sequentially in 1Q, 2Q, et cetera, of '26, what gives you the confidence this is the bottom? And just kind of conceptually, what are the areas that are going to grow off of the $7 million in the fourth quarter?
+
+Todd Glickman
+Senior VP, CFO & Treasurer
+
+Yes. I think what gives us confidence that this is the bottom is we actually proactively are walking away from revenue in mobile. We want to make sure that there's not a distraction in the business and we can concentrate on the long-term goal here, which is data center performance computing and grid infrastructure. So that's how it gives us the confidence. And going forward, the growth is going to come out of those markets and not mobile. And with today, mobile represent a large majority going forward, that's going to continuously go down as we move through 2026. So that gives us confidence not only the better revenue, but it will be more sustainable and more profitable.
+
+Chris Allexandre
+CEO, President & Director
+
+Let me add just one comment. First of all, as Todd said, by walking away from short term, less long term, less innovation-based engagement with customers and applications, we are pivoting our resource a lot faster to drive this new growth. Number two, there's a clear acceleration in those markets. Should it be the growth in data centers itself, even in the form of the traditional, should I call it this way, traditional power implementation before we move to the 800-volt DC, and we benefit from that through the power vendors. If you look at the impact of AI in performance computing with those notebooks and other high-end computers getting more powerful, they also require a lot more power. And we see an acceleration of that demand to higher power in '26 is going to drive a lot of growth.
+
+Last but not least, we also see an acceleration of demand in any form of energy and green infrastructure. So we have a lot of pull from midsized to large-sized customers really trying to accelerate how they can enable the AI revolution. So long story short, the AI is a catalyst across multiple markets. And yes, data centers itself through the 800-volt DC will drive a lot of accelerated growth, but we see that catalyst already [ yielding ] the fruit in '26.
+
+Operator
+
+Your next question comes from the line of Quinn Bolton from Needham & Company.
+
+Shadi Mitwalli
+Needham & Company, LLC, Research Division
+
+This is Shadi Mitwalli on for Quinn. Obviously, the move away from China Mobile is having a bigger impact than expected. But I just want to get some more color on the puts and takes here. And just overall, has anything new changed over the last 90 days?
+
+Todd Glickman
+Senior VP, CFO & Treasurer
+
+You know, nothing's new changed besides the fact that Chris has been on the road talking to customers, and they've asked us to go faster. And so instead of focusing and sort of allowing mobile to still represent a large majority of our business going forward, we did a more proactive approach to walk away from that. And so that's really the key difference in the last 90 days that's happened just because the growth in these new sectors is extraordinary, and we want to make sure we're in the best position to take advantage of that.
+
+Chris Allexandre
+CEO, President & Director
+
+[ Sean ], let me add some color because I joined 8 weeks ago. So if any change, I'm probably the one behind the change, right? I would say the market itself has not changed, okay? There is a clear acceleration, and it is faster than it was just a few months ago. But what has changed is the clarity that we have that we can't continue to transition smoothly. I come from a background where if you double down on the greatest opportunities, you have more chance to capture it. Again, as I said, I have met a lot of customers, all of them in data centers, computing, infrastructure, all told me the same. They want to move faster, they want to enable the transition. So it was very clear for me after a couple of weeks on the road that we cannot transition this keeping some of our resource maintaining the past. So we have to double down and move our entire resource or most of our resource into enabling the future so that we can capitalize on the opportunity we have and maximize our chance of winning.
+
+So I would say the one thing that has changed is the clarity and the pivot. I think historically, we've been trying to manage the past and the future. And with the amount of resource we have, we just have to accelerate that transition, in my opinion.
+
+Shadi Mitwalli
+Needham & Company, LLC, Research Division
+
+Great. That was helpful. And then my follow-up is on the solar end market. I believe in Q1, you guys talked about ramping a solar microinverter win in the second half of this year. And I was just curious if this is still on track? And if so, how is the ramp going?
+
+Chris Allexandre
+CEO, President & Director
+
+Yes, nothing has changed. I mean you're referring to the GaN BDS, which will ramp in '26 with our lead customer, which is part of the energy and green infrastructure segment that we talked about.
+
+Operator
+
+Your next question comes from the line of Jack Egan from Charter Equity Research.
+
+Jack Egan
+Charter Equity Research
+
+Chris, congrats on being appointed CEO. So Navitas, I mean, I guess kind of a high-level question. Navitas certainly has some exciting opportunities ahead of it. You came from Renesas, you had experience with quite a few large companies in the analog and power space. And so obviously, one big difference is going to be the culture of moving from a company with 10,000 employees to a few hundred. So yes, just from a high level, what are some of maybe the cultural or operational characteristics, I guess, from your prior experiences that you might plan to install at Navitas?
+
+Chris Allexandre
+CEO, President & Director
+
+Thank you for the question. Of course, we are transitioning the culture as we speak. I come from a culture of strong execution and pivot with clarity, and that's what we are bringing here. What I would say as well is have learned very well some of the pitfalls of big companies that do not always move the fastest. So the culture that we are building in Navitas and what you are seeing in the choice we've made walking away from our historical business is, number one, clarity and being solely sharply focused on what's going to make us more profitable and more sustainable from a result point of view in the future. Number two, speed -- speed so we can transition faster and execute the plan for our customers in a faster way. And number three, execution, which I think was probably missing in the culture that we had here so far.
+
+Jack Egan
+Charter Equity Research
+
+Great. Okay. That's helpful. And then for the mobile business in China, you are sticking with the longer term, some of the higher voltage, higher value opportunities. Is there any reason why the competitive and pricing pressures won't eventually kind of move up to that side of the business, like kind of like what's happening with the lower value chargers now?
+
+Chris Allexandre
+CEO, President & Director
+
+I think it's a very good question. What I would say is what's happening in mobile today is the fact that innovation has stopped bringing any value. We've been in the last few years about how do we basically get more power into a smaller form factor. Today, we've reached a plateau. 100-watt charger is fairly small, and it's all about getting it cheaper. When you look at data centers, even if you look at performance computing, we are not at that point. At this point, this is about how do we basically accelerate the efficiency? How do we accelerate the transition, the adoption of high-voltage SiC, the adoption of GaN. And we are at complete different power level. So if I give you an example about high-performance compute with AI going to the client, we are talking about how do we get those super high-end computers into multiple hundred watts. And this is a complete different ball game compared to what we've seen in mobile, where content is much higher, expertise and ability to execute is much harder.
+
+And I think this is going to benefit companies like Navitas who have mastered GaN for the last few years into the first market that took it to scale. So I think the answer to your question is yes. Ultimately, when power level will plateau, and innovation will not make a difference. You're going to get there. But what I see is we are very far away from this in any of the market that we're talking about, in particularly anything that touch AI. We're talking about 10x, 100x every generation after generation [ in power ] delivery.
+
+Operator
+
+Your next question comes from the line of John Tanwanteng from CJS Securities.
+
+Jonathan Tanwanteng
+CJS Securities, Inc.
+
+My first one is, could you just talk about the data center prospects in '26 before you ramp the 800-volt products? Just what kind of growth are you expecting in the next year with the legacy servers and ecosystems that are out there currently?
+
+Todd Glickman
+Senior VP, CFO & Treasurer
+
+Yes. That's a great question. So Jon, I mean, today, we do -- we are shipping into AI data centers today. It's not material. As we look into '26, we'll continue to grow that revenue. But at the end of the day, the materiality when this is going to become a larger portion of our business is going to wait until 2027 when 800-volt becomes prime time. So that's when we really expect the exponential growth happening from data centers.
+
+Chris Allexandre
+CEO, President & Director
+
+Sorry, do you mind if I just add a few color? The way I view it is, again, there is a disruption in the adoption of GaN and high-voltage SiC coming with this new concept of basically breaking the traditional way the data centers were built, okay, moving from the super high voltage going through AC/DC and then converting it down to lower power. With the NVIDIA announcement, we are talking about volt down to GPU. So that will drive a lot more content and the rapid adoption of GaN. In the interim, as I said, AI is a catalyst. There's more server and AI deployment out there that drive ultimately growth for anybody serving power, right? So that's what Todd said. If you look at we are shipping today in data centers, that revenue will grow. It's not material, and it will not represent a material impact. But in '27, as we pivot to the new architecture, this is where the content in GaN, mid-voltage GaN and high-voltage GaN is going to drive to a complete different level.
+
+Jonathan Tanwanteng
+CJS Securities, Inc.
+
+Great. And then I was wondering if you could talk about your cash position and your burn rate, and if that leaves enough for you to ramp growth to meet that next-gen data center demand as you enter '27?
+
+Todd Glickman
+Senior VP, CFO & Treasurer
+
+Yes, absolutely. So we finished the quarter at $151 million, and it's a very healthy balance sheet with no debt. Right now, we're burning around $10 million to $11 million a quarter, and that should be plenty to give us ongoing -- for ongoing operations. So that's where we stand today.
+
+Operator
+
+Your next question comes from the line of Tristan Gerra from Baird.
+
+Tyler Bomba
+Robert W. Baird & Co. Incorporated, Research Division
+
+This is Tyler Bomba on for Tristan. Navitas was initially planning on starting to ramp silicon carbide [ epitaxy ] internally mid-2024. How much of your silicon carbide output is currently in-sourced? What is your target for that either in terms of dollars or percent of revenue?
+
+Todd Glickman
+Senior VP, CFO & Treasurer
+
+Yes, that's a great question. So yes, we did initially when the market was tight, and we wanted to generate some epitaxy in-house. But however, given the market has loosened, we no longer do that. So we never initiated that project. And we are -- all of our substrates and epi as it relates to high-voltage silicon carbide is outsourced today.
+
+Operator
+
+The next question comes from the line of Richard Shannon from Craig-Hallum.
+
+Richard Shannon
+Craig-Hallum Capital Group LLC, Research Division
+
+Chris, welcome to Navitas. I look forward to working with you as well. Let me ask my first question on data center here and talk about the engagement and how things are going here and ultimately when you expect to get to wins here. I think the kind of one of the part of the engagement model, which we didn't hear about any in your prepared remarks is working with Infineon as a second source into this area. Wondering if that's still part of the strategy here. And then ultimately, when do you expect to be able to talk about getting wins and having visibility on when they ramp?
+
+Chris Allexandre
+CEO, President & Director
+
+Thank you for the question. So first of all, I'll answer on the Infineon. We continue to communicate with Infineon. You know that we have a cross-licensing going on. We continue to be aligned on the vision that we want to enable the adoption of GaN and high-voltage SiC into those hyper markets. When it comes to the engagement with NVIDIA, and I would say broadly with the hyperscalers because we don't only spend time with NVIDIA, but we also spend time with a lot of the other hyperscalers, OEM as well as ODM, right? For me, '26 is about enabling the transition. First of all, we are not focusing only on the mid-voltage and closer to GPU. We are focusing on the whole chain.
+
+We talked about energy and grid infrastructure. If you think about the first stage of the 800-volt DC, it requires to basically move from transformers to solid-state transformers where high-voltage SiC is a prime technology. Then you have to go to multiple stage of power conversion. So -- if I -- your question is when can you basically give us color on the engagement. We'll continue to give you in a transparent way how we expand our partnership. We can't be specific on any form of engagement. But what I can tell you is the number of interaction at system level, product level, technology level with some of the hyperscalers that you mentioned is all-time high.
+
+Richard Shannon
+Craig-Hallum Capital Group LLC, Research Division
+
+Okay. Great. Second question, I really just kind of looking at calendar '26 here, and it's kind of a multipart question here. Please bear with me here. wonder if you could give us some sense of the relative contribution of your lower voltage GaN here and also silicon carbide? And then ultimately, I think the question we're going to get asked a lot tomorrow morning is, can you -- how do we think about calendar '26 sales? It seems like it's almost no chance it's going to grow year-on-year based on the dynamics you've discussed here. But if you could make any comments about how that looks, that would be great.
+
+Chris Allexandre
+CEO, President & Director
+
+So I'll start by answering your question about GaN versus SiC, right, and the growth towards '26, and I'll let Todd add some comment with a bit more detail. First of all, we don't look at the business at GaN versus SiC. As I mentioned early on, we are focusing on enabling this low power to high power. And we look at revenue really from a segment point of view, okay? That's number one. Now if you want a bit more color, and we talked about the fact that starting Q4, which is the bottom, we're going to grow quarter-over-quarter gradually as the high-power markets are offsetting the decline in mobile. Both GaN and SiC will grow in high power markets. That's the fact for '26.
+
+Now if you look at segment level, mobile will be down. Mobile consumer will be down. But high-power computing and energy grid infrastructure will be up. And data centers will grow even though not material throughout '26 and really kind of accelerate the growth in '27.
+
+Todd Glickman
+Senior VP, CFO & Treasurer
+
+Great. And I think one of the other questions was on when was low voltage going to go into revenue? Is that's correct, Richard?
+
+Richard Shannon
+Craig-Hallum Capital Group LLC, Research Division
+
+Yes. and some characterization of what kind of contributions you'll see for next year.
+
+Todd Glickman
+Senior VP, CFO & Treasurer
+
+Yes. So low voltage, we went to market with low voltage, as you saw, PSMC. That's designed right now for the 800-volt data center. So when that ramps, you're going to see material revenue from low voltage taking place.
+
+Chris Allexandre
+CEO, President & Director
+
+Yes. We just announced a couple of weeks ago, our first -- it's actually a mid-voltage GaN 100 volt, which was the first outcome partnership with TSMC that we had for a couple of years. That's really tailored towards the last stage of power conversion into the AI 800-volt DC, and we expect that to start to ramp in 2027.
+
+Operator
+
+Your final question comes from the line of John Tanwanteng from CJS Securities.
+
+Jonathan Tanwanteng
+CJS Securities, Inc.
+
+I was just wondering if you could talk about the incremental margins in the high-voltage data centers and the great opportunities, if they're any different from the existing high-voltage businesses that you have for high-power businesses?
+
+Todd Glickman
+Senior VP, CFO & Treasurer
+
+Yes. I think both those margins, we expect those markets to have higher margins and more sustainable than our current mobile and consumer business, which is what is contributing to our guide to basically go quarter-on-quarter growth as margins as revenue picks up in 2026.
+
+Chris Allexandre
+CEO, President & Director
+
+And Jon, what I would say is the high-power markets are very different in nature. First of all, as we talked about, they are at the beginning of the adoption of those high-voltage technologies, so be GaN and high-voltage SiC. Number two, it's about innovation. It's about speed, it's about execution. Yes, all those customers want us to be cost competitive. Yes, cost is part of the criteria that they make decision. What I can tell you, having met many of them over the last 60 days is that they don't lead with that, very different from mobile, where we've plateaued from an innovation standpoint. And now it's about how can you make my charger cheaper. When we talk to the OEM, ODM, hyperscalers, they are asking us, how do you do what you do faster. So I think margin and value that we bring and value that we extract will help us to uplift the margin as the high-power portion of our revenue increase over time.
+
+Jonathan Tanwanteng
+CJS Securities, Inc.
+
+Got it. And actually, the second question is a follow-up to that. How are you planning to accelerate that development? Is it -- what are the remaining things that you need to do to produce products for these markets that work and do you have -- you can scale?
+
+Chris Allexandre
+CEO, President & Director
+
+Well, this is why we've decided to basically move faster away from mobile, right? It's application engineering, it's support to customers. It's system engineering. It's R&D. It's basically moving most of the R&D, if not the entire R&D towards making road map for those markets instead of maintaining generation over generation presence in the low-end mobile market. So it is basically pivoting -- and I think I've heard the word pivot and transformation. It is pivoting the entire resource level to capture on that growing opportunity moving forward.
+
+Jonathan Tanwanteng
+CJS Securities, Inc.
+
+Okay. Great. Last one for me. Can you just talk about the capacity to ramp for these customers? I know you have that new agreement with Powerchip. Just help me understand what the capacity there is to meet the demand if you do get a significant amount of share there.
+
+Chris Allexandre
+CEO, President & Director
+
+So what I would say is, first of all, TSMC has been a great partner, and they are helping us to transition for the next few years. We expect to continue to ship from TSMC for the next multiple years. Number two, we are ramping TSMC. We are in transition. We announced the first product from mid-voltage GaN. We're going to transition the high-voltage GaN in '27. And last but not least, we continue to look for new foundry partners to be able to capitalize on the opportunity that we have, either from a geographical supply chain point of view or a cost point of view as well as volume point of view.
+
+Operator
+
+That concludes the Q&A session for today's meeting. You are now able to disconnect. Everybody, have a great day.

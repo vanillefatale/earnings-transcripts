@@ -1,0 +1,116 @@
+Reddit, Inc. (RDDT) Q3 2025 Earnings Call October 30, 2025 5:00 PM EDT
+
+Company Participants
+
+Jesse Rose - Head of Investor Relations
+Steven Huffman - Co-Founder, CEO, President & Director
+Jennifer Wong - Chief Operating Officer
+Andrew Vollero - Chief Financial Officer
+
+Conference Call Participants
+
+Ronald Josey - Citigroup Inc., Research Division
+Thomas Champion - Piper Sandler & Co., Research Division
+John Colantuoni - Jefferies LLC, Research Division
+Naved Khan - B. Riley Securities, Inc., Research Division
+Jason Helfstein - Oppenheimer & Co. Inc., Research Division
+Andrew Boone - Citizens JMP Securities, LLC, Research Division
+Josh Beck - Raymond James & Associates, Inc., Research Division
+Douglas Anmuth - JPMorgan Chase & Co, Research Division
+Richard Greenfield - LightShed Partners, LLC
+Benjamin Black - Deutsche Bank AG, Research Division
+Kenneth Gawrelski - Wells Fargo Securities, LLC, Research Division
+Rohit Kulkarni - ROTH Capital Partners, LLC, Research Division
+Robert Zeller - Truist Securities, Inc., Research Division
+
+Presentation
+
+Operator
+
+Good afternoon. My name is Julieanne, and I will be your conference operator today. At this time, I would like to welcome everyone to Reddit's Q3 2025 Earnings Call. [Operator Instructions]
+
+I would now like to turn the call over to Jesse Rose, Head of Investor Relations. You may begin your conference.
+
+Jesse Rose
+Head of Investor Relations
+
+Hi, everyone. Welcome to Reddit's Third Quarter 2025 Earnings Call. Joining me are Steve Huffman, Reddit's Co-Founder and CEO; Jen Wong, Reddit's COO; and Drew Vollero, Reddit's CFO.
+
+I'd like to remind you that our remarks today will include forward-looking statements, and actual results may vary. Information concerning risks and other factors that could cause these results to vary is included in our SEC filings. These forward-looking statements represent our outlook only as of the date of this call, and we undertake no obligation to update any forward-looking statements.
+
+During this call, we will discuss both GAAP and non-GAAP financials. Reconciliation of GAAP to non-GAAP financials can be found in our letter to shareholders. Our third quarter letter to shareholders and earnings press release are available on our Investor Relations website and Investor Relations subreddit.
+
+And now I'll turn the call over to Steve.
+
+Steven Huffman
+Co-Founder, CEO, President & Director
+
+Thanks, Jesse. Hi, everyone. Thank you for joining our earnings call. Q3 was a strong quarter for Reddit with differentiated results and solid execution across product, growth and revenue. We ended the quarter with 116 million DAUq and 444 million WAUq, both growing around 20% year-over-year. We're especially encouraged by the mix of growth with organic product-led improvements and successful marketing both playing a role. This balance is working, and we're focused on replicating it across markets.
+
+Revenue came in at $585 million, up 68% year-over-year, and our financial model is scaling very well. We continue to be GAAP profitable with a net income of $163 million and a net margin of 28%, an improvement of $133 million from last year. This quarter, we achieved a targeted adjusted EBITDA margin of 40%, which was a profitability goal we set at our IPO just last year.
+
+Today, Reddit is the #3 most visited site in the U.S. per Semrush, October 2025. That puts us in a rare company. YouTube is #2 and Amazon is #4 and reflects how Reddit is where people start, not just where they end up. People come here to find trusted perspectives to participate in communities that share their interests, no matter how niche or mainstream, and increasingly to engage directly with brands, institutions and publishers.
+
+In September, we launched new Reddit Pro tools tailored for publishers. Early adopters like the Associated Press can now sync their feeds, automatically import articles, track how their stories are shared and use AI-powered tools to find the right communities. Our consumer product strategy continues to focus on making Reddit easier to use and more rewarding from day 1, so casual users become daily users. They're already coming to Reddit. Now it's on us to make the experience worth coming back for by being more relevant and intuitive.
+
+To that end, we're making real progress across the 3 main focus areas we shared last quarter: core product, search and internationalization. Let's start with the core product. We're redesigning the Reddit experience with a more modern search-forward interface and streamlining onboarding so it's easier for new users to find what they're looking for with a dynamic personalized home feed. We're also helping more people contribute to their favorite communities by using AI to interpret subreddit rules and surface post insights.
+
+On the moderation side, we're investing in tools that help mods grow and strengthen their communities. These tools are now live in over 3,000 communities, which are seeing 30% more active moderators on average. Moderators aren't just enforcing rules. They're shaping culture, building communities and helping Reddit thrive. Our job is to give them the tools to do it more efficiently.
+
+Next, search. Search is one of our biggest opportunities because Reddit conversations are uniquely authentic, contextual and helpful. This is why we're investing in making Reddit a true search destination. In Q3, over 75 million people searched on Reddit weekly, and that number continues to rise. Reddit Answers provides users with curated community-powered insights that are often more helpful than traditional web results. We started integrating Reddit Answers into core search, increasing its visibility across conversations and rolling out to non-English languages. Our aim is to have a single great search experience on Reddit.
+
+And third, internationalization. Our international growth continues to accelerate. Machine translation is available in 30 languages, and it's a major driver of top-of-funnel growth outside the U.S. We've built a local content framework to identify top interests in each country, which we use to guide partnerships, content and marketing. This approach worked well in India, and now we're applying it in Australia, Brazil, Germany and France. We're focused on finishing the year strong and putting our strategy for 2026 in motion.
+
+Looking ahead, our biggest priorities are: growing app users by improving the experience and therefore retention; broadening the types of users and communities that call Reddit Home, both in the U.S. and globally; increasing top-of-funnel growth by diversifying the sources of traffic, including organic, paid and publisher-driven; and, of course, scaling monetization and ad formats for our users and partners.
+
+Reddit is in a unique position. We're not trying to be the next anything. We're focused on being the best version of ourselves and what the Internet needs most, a place where people can connect on almost any topic and find genuinely useful information because no matter what you're going through, someone on Reddit has already been there, done that and shared the story.
+
+Thank you for being a part of this journey. I'll now hand it over to Jen to walk through the business in more detail.
+
+Jennifer Wong
+Chief Operating Officer
+
+Thanks, Steve. Good afternoon, everyone. I'd like to start by building on what Steve mentioned about our consumer product strategy. We're excited about the opportunity to meaningfully grow our user base, both in the U.S. and internationally. And as we refine our strategies, our consumer product road map is focusing more intently on the Reddit app. This is where we can build direct, high-engagement relationships, which are most valuable to both our users and our business.
+
+The app can be more personalized, have easier onboarding and incorporate search more consistently. These kinds of changes can impact user retention, increase returns on marketing and help us better convert web users into the app. We're also working on expanding our users, communities and contribution across Reddit. We recently introduced tools focused specifically on publishers to help them share content and engage organically on Reddit through Reddit Pro.
+
+Now moving to monetization. In the third quarter, we demonstrated continued growth and strong execution with total revenue reaching $585 million, up 68% year-over-year. Our unique proposition and ad platform improvements delivered differentiated growth and positive outcomes for advertisers. The advertising business grew 74% year-over-year in Q3, reaching $549 million, and the growth was driven by broad-based strength across the business as we continue to expand existing relationships, acquire new customers and diversify our advertiser base. The total active advertiser count expanded by over 75% year-over-year in Q3 as we added new accounts across all channels, including large mid-market and SMB businesses.
+
+Now moving to our ad stack. Our strategy is focused on making all businesses successful on Reddit by driving performance of our ad solutions, improving usability for users and productivity for our sales force and offering our advertisers and partners Reddit-unique solutions and ad formats. We made meaningful progress against each of these areas in Q3. First, ongoing investments in our ad models and formats are driving greater performance and efficiency, which means better returns for advertisers.
+
+In Q3, we continued to optimize our models for lower-funnel objectives, including app installs and conversions. Model improvements to our lower-funnel app ads objective generated double-digit percentage improvements to performance outcomes and ML-driven optimizations in the lower-funnel conversion objective improved performance by over 20%. We continue to enhance our shopping solution, Dynamic Product Ads, or DPA, which launched to general availability earlier this year. We're excited by the capability and seeing ongoing improvements to performance beyond the core conversion objective. DPAs currently account for a small portion of our total lower-funnel revenue. Broader advertiser adoption remains an opportunity and as it takes a little more time and resources for clients to implement this more complex ad product.
+
+To strengthen our lower-funnel strategy, we continue to make it easier for businesses of all sizes to adopt our measurement tools, including Pixel and conversion API or CAPI. In Q3, CAPI-covered conversion revenue tripled year-over-year. Second, improving usability for advertisers and productivity for our sales force. We're investing in automation across our full ad stack to help drive adoption of our ad tools and improve performance for advertisers. For the upper funnel, we launched the beta of auto bidding, which simplifies budget management and improves efficiency, leading to over 15% more impressions and lower pricing for advertisers.
+
+In the middle and lower funnel, auto targeting is delivering strong results and adoption is growing over 50% year-over-year. We're also in early testing of our end-to-end automated campaign platform that uses AI to streamline campaign setup. It is focused on activating mid- and lower-funnel objectives and provides customers with insights on what made their campaign successful. Early results are promising with advertisers unlocking higher return on ad spend while spending less time managing campaigns. We're continuing to test the solution with a number of global advertisers across business sizes and verticals and adding new features.
+
+Third, building Reddit-unique solutions and ad formats for our advertisers. In the third quarter, we expanded access to conversation summary add-ons, a distinctive ad format that lets brands integrate positive Reddit conversations into ads. We're now testing this format with a broader set of advertisers across the funnel and seeing encouraging results with brands like Bethesda, the mid-market video game publisher, seeing 15% higher click-through rates. We're developing interactive ads built on our developer platform, allowing advertisers to create custom experiences like mini games or quizzes directly within an ad. This format is testing now and the plan -- with plans to scale more broadly next year.
+
+Finally, we're seeing momentum with our free-form ad format launched last year, which lets brands tell richer stories through multiple media types in a post that feels native to Reddit. For example, FootJoy used freeform ads to promote their new HyperFlex line of golf shoes, delivering click-through rates 100% above benchmark and time spent more than 50% above benchmark. Overall, Q3 was another strong quarter for Reddit. I'm proud of the progress and the importance -- and the improvements we're delivering for our communities and partners and excited about the opportunities ahead.
+
+Now I'll turn the call over to Drew.
+
+Andrew Vollero
+Chief Financial Officer
+
+Thank you, Jen, and good afternoon, everyone. Our solid Q3 results again demonstrated that financial model continues to scale well. And specifically, Reddit can be a leader in both growth and profitability. Total revenues grew 68% year-over-year, and our adjusted EBITDA margin reached 40%, passing that important profitability benchmark for the first time. The key to our financial success is continued traction across our 5 financial strategies. These strategies include: First, achieving differentiated revenue growth. Revenues grew more than 60% for the fifth consecutive quarter. Second, expanding margins. Gross margins expanded 90 basis points year-over-year to 91%, our fifth consecutive quarter of over 90%. Our adjusted EBITDA and net income margins expanded by 1,300 and 1,900 basis points year-over-year, respectively.
+
+Third, scaling profitably. GAAP net income reached $163 million and adjusted EBITDA hit $236 million, both new highs for Reddit. Our net income margin was 28%. Our incremental adjusted EBITDA margin hit 60%. Fourth, generating positive cash flow. Q3 cash flow ended at $183 million, and our free cash flow margin for the quarter was 31%. In the last 12 months, we've generated over $0.5 billion of free cash flow. Cash and cash equivalents on the balance sheet continued to build at $2.2 billion.
+
+And fifth, minimizing dilution. We continue to view stock-based compensation and dilution as business costs and manage them closely. The progress continues to be evident Total fully diluted shares outstanding were 206.1 million, down from both 206.6 million last quarter and 206.2 million last year. Similarly, stock-based compensation costs fell sequentially, both in dollars and a percent of revenue basis from 19% to 16%. I'll provide a bit more color on these headlines. First, Q3 total revenue of $585 million was driven by our advertising revenue, which grew 74% year-over-year to $549 million as we saw strength across objectives, verticals, geographies and channels.
+
+Other revenue, which includes revenue from our data licensing business, reached $36 million, up 7% year-over-year. Average revenue per user, ARPU, grew 41% year-over-year to $5.04, which is still low on an absolute basis and remains an opportunity. Regionally, revenue grew 67% and 74% year-over-year in the U.S. and internationally, respectively. In the quarter, 4 revenue drivers fueled growth. First, performance ads and brand ads had strong quarters, both growing more than 70% year-over-year. Second, impression growth remains our key driver, but we saw a tailwind from pricing in the quarter, a consistent trend so far this year as we continue to deliver value and favorable outcomes for advertisers. Third, we saw strength across the funnel with growth ranging from mid- to high double digits in the upper, middle and lower-funnel segments. And fourth, we continued to see diversified strength by verticals. We had 9 of our top 15 verticals grow revenues by 50% or more.
+
+Now moving to expenses. The growth rate in Q3 total adjusted cost was very similar to Q2. Total adjusted costs, which include both cost of revenue and OpEx, were $349 million in Q3, up 37% year-over-year, consistent with a 38% growth last quarter. Our main cost driver continues to be operating expenses, which, on an adjusted basis, were $297 million in Q3, about 85% of total adjusted expenses.
+
+Adjusted OpEx costs grew 35% in Q3, the same growth rate as Q2, close to half the growth rate of our revenue, which was 68%. Most of the increase in OpEx costs were driven by our growth investments in sales and marketing. Adjusted sales and marketing expenses were $115 million in Q3, about 20% of revenue, in line with peers. Sales and marketing investments were made in 2 key areas: first, building out our sales team; and second, brand and user marketing. Let me expand on each.
+
+First, our sales team investments are primarily adding people resources in customer-facing areas like sales, marketing and ad tech. In the quarter, the company grew total headcount about 3% sequentially, slightly more than 80 net adds with about 70% of the net hires focused in these 3 growth functions. Our investment track record continues to be very strong here with fast paybacks and investment returns multiples higher than the cost.
+
+Second, during the quarter, we continued to invest strategically in brand campaigns and user marketing to drive awareness, acquisition and engagement. Our marketing spend was aligned with creative campaigns and targeted specific growth segments. We maintained a balanced approach to investing in brand awareness and performance marketing in both the U.S. and international markets. We remain thoughtful with our Q3 spending, targeting marketing expenses in the low to mid-single digits as a percentage of revenue. We're poised to scale marketing spend where we see the traction is promising. We'll continue to invest in those areas if we see the returns are sustainable.
+
+Let me finish up the results discussion by adding a couple of other call-outs for the quarter. In Q3, our CapEx remained modest $2 million, less than 0.5% of revenue, which means both operating and free cash flow continue to move in lockstep. Net income was $163 million or $0.87 per basic share, $0.80 per diluted share, up 4 to 5x from $0.18 and $0.16 last year, respectively. So as we look ahead, we'll share our internal thoughts on revenue and adjusted EBITDA for the fourth quarter, which is where we have the greatest visibility.
+
+In the fourth quarter 2025, we estimate revenue in the range of $655 million to $665 million, representing 53% to 55% year-over-year revenue growth with a midpoint of about 54%. Adjusted EBITDA in the range of $275 million to $285 million, representing approximately 78% to 85% year-over-year growth and an adjusted EBITDA margin of 42% at the midpoint. So overall, we accomplished a lot in Q3 and the output metrics of users, revenues and margins reflect that progress. The business model remains quite powerful as we saw impressive revenue growth be converted into 90% gross margins, 60% incremental margins and now 40% adjusted EBITDA margins for the first time. That was a pre-IPO goal for Reddit and an important milepost to pass. That concludes my comments for Q3, and now we turn our attention to the seasonally important fourth quarter.
+
+Let me turn the call back over to Steve.
