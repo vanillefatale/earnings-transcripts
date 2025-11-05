@@ -1,0 +1,50 @@
+Tempus AI, Inc. (TEM) Q3 2025 Earnings Call November 4, 2025 4:30 PM EST
+
+Company Participants
+
+Elizabeth Krutoholow - Vice President of Investor Relations & Competitive Intelligence
+Eric Lefkofsky - Co-Founder, CEO, President & Chairman
+James Rogers - Chief Financial Officer
+
+Conference Call Participants
+
+Ryan MacDonald - Needham & Company, LLC, Research Division
+Mark Massaro - BTIG, LLC, Research Division
+Daniel Brennan - TD Cowen, Research Division
+Casey Woodring - JPMorgan Chase & Co, Research Division
+Colleen Babington - Wolfe Research, LLC
+Parth Talsania - Equisights
+Ricki Levitus - Guggenheim Securities, LLC, Research Division
+David Westenberg - Piper Sandler & Co., Research Division
+Mark Schappel - Loop Capital Markets LLC, Research Division
+Daniel Arias - Stifel, Nicolaus & Company, Incorporated, Research Division
+
+Presentation
+
+Operator
+
+Ladies and gentlemen, thank you for standing by. At this time, I would like to welcome everyone to the Tempus AI Third Quarter 2025 Financial Results Conference Call. [Operator Instructions]
+
+I would now like to turn the conference over to Liz Krutoholow, Vice President, Investor Relations. You may begin.
+
+Elizabeth Krutoholow
+Vice President of Investor Relations & Competitive Intelligence
+
+Thank you. Good afternoon, and welcome to Tempus' Third Quarter 2025 Conference Call. This afternoon, Tempus released results for the quarter ended September 30, 2025. The press release, and overview of the quarter and our latest presentation are available on our IR website. Joining me today from Tempus are Eric Lefkofsky, Founder and CEO of Tempus; and Jim Rogers, CFO.
+
+Before we begin, I would like to remind you that during this call, management may make forward-looking statements that are subject to risks and uncertainties that could cause actual results to differ materially. For a discussion of these risks, please refer to our 10-K and other subsequent filings with the SEC. During the call, we will discuss non-GAAP financial measures, which are not prepared in accordance with generally accepted accounting principles. Definitions of these non-GAAP financial measures, along with reconciliations to the most directly comparable GAAP financial measures are included in our earnings release and is available on our IR page.
+
+I would now like to turn the call over to Eric.
+
+Eric Lefkofsky
+Co-Founder, CEO, President & Chairman
+
+Thank you. Q3 was a great quarter all around. Our Genomics volume came in super strong with 33% overall growth with Oncology growing at 27% and Hereditary growing at 37%. We expect Hereditary growth will moderate a bit, although we now expect growth to be in the low to mid-20s as opposed to our previous guide of mid- to high teens. Our genomic growth was across the board. Really all of our assays did exceptionally well. And with MRD reimbursement on track, and our planned regulatory filing of our liquid biopsy xF later this year, we expect additional tailwind in that business, both from a unit perspective and revenue.
+
+Our data licensing or Insights business grew 38% in the quarter with an additional $150 million in total contract value, which was a super strong bookings quarter for us across multiple contracts that we highlighted in our letter. This is on top of the multi-hundred million dollar foundation model deal we struck earlier this year. So from a bookings perspective, our data licensing business is just really performing exceptionally well.
+
+The combination of growth in Genomics and growth in our data business allowed us to generate positive adjusted EBITDA for the first time this quarter, which has been a 10-year goal of ours and a key milestone. This was inclusive of several million dollars worth of additional expense from Paige, which is an acquisition we made mid-quarter. And even with that, we generated a positive EBITDA and would have been close to $4 million in adjusted EBITDA without Paige. So the business is doing exactly what we had hoped. We now expect for the year to be slightly positive adjusted EBITDA, and that's even with the additional several million dollars of drag from Paige.
+
+So all in, the business is performing well. We're growing at a rapid pace, and we're managing our costs to generate leverage in the business, which is exactly where we want to be.
+
+With that, take some questions.

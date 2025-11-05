@@ -1,0 +1,404 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question comes from the line of Andrew Obin from Bank of America.
+
+Andrew Obin
+BofA Securities, Research Division
+
+So I know orders -- maybe you guys don't want to talk about them, but investors certainly do. Maybe we can talk about Electrical Americas LTM orders outlook. Electrical Americas orders continue to accelerate on an LTM basis, I think it was 2% in second quarter, 7% in third quarter. So what's your expectation for orders in fourth quarter and the beginning of '26, if you're willing to talk about it?
+
+Paulo Sternadt
+CEO, President & Director
+
+Sure. Thanks for the question, Andrew. Based on the orders momentum we had in Q3 and a very strong October in orders, and we also have a growth in our negotiations pipeline, we have a lot of visibility into Q4 orders. So we remain very bullish about our orders growth also in Q4. And I say that because we continue to have specific projects that we track in the pipeline that support this outlook that I'm referring to for strong order acceleration of LTM orders into Q4. So we are bullish about orders.
+
+Andrew Obin
+BofA Securities, Research Division
+
+Excellent. And maybe we can talk about Electrical Americas quarterly orders. You only disclose orders on an LTM basis. But I think externally, we do estimate your orders on a quarterly basis in Electrical Americas, I think we sort of came up like mid-20s to close to 30% year-over-year. Is that in the ballpark? And is it close to 30% or is it close to 25%?
+
+Paulo Sternadt
+CEO, President & Director
+
+Another great question. Based on these LTM disclosures we make, we know that people externally estimate quarterly orders as well. I would say this direction, your estimate, is in the ballpark, I would say towards the higher end of your estimation. So we continue to see strong inflection in orders in Q3. And as I just said, we continue to see momentum in Q4.
+
+But most importantly, I would like to remind you and the whole team why we are winning businesses at this pace. I think it's important we talk about it. We have this success because we have the broadest portfolio of electrical products in Electrical Americas. We have all the solutions and services. We count on strong channels. And we also have deep customer intimacy, so we co-design future technologies with our customers.
+
+And this allows us to be a leader in several end markets. I'm not talking only about data centers, but we also lead in utilities, we had very strong orders in utilities, C&I, et cetera. So every investment we make into Electrical Americas actually scale across many different end markets. And as you know, we're expanding our footprint in North America as well to better serve our customers and to continue to capture more than our fair share of the market.
+
+And at the same time, I would say this, that we are also in the position of strength that we have today and winning all these orders because of the way we intentionally position our portfolio. So we have proven to be disciplined, proven to be nimble, progressive, and we'll continue to make the right moves to boost our growth. So we believe the best days and years are ahead of this business yet.
+
+Olivier Leonetti
+Executive VP & CFO
+
+And Andrew, as there was a lot of focus also on data center and hyperscalers, the growth on orders in this particular vertical was very strong. In the Americas, close to 70%, same number for Global. And in total for the Electrical sector, close to 70% order growth in the quarter for data center and hyperscalers.
+
+Paulo Sternadt
+CEO, President & Director
+
+Yes. And I'll just conclude by saying that we are beating every competitor in the market in orders. And part of this is attributable to the portfolio and our sales channels and the relationships. But partially is also to the fact we are investing in our footprint, and our customers feel comfortable and confident in giving us more orders versus other competitors. So I think that's also a point that I would like to stress.
+
+Andrew Obin
+BofA Securities, Research Division
+
+Well, I'll let others to ask how Boyd was going to help you with that.
+
+Operator
+
+And our next question comes from the line of Andy Kaplowitz from Citigroup.
+
+Andrew Kaplowitz
+Citigroup Inc., Research Division
+
+Paulo, you previously said that AI data centers can get you $1.2 million to $2.9 million in sales per megawatt and that you expect data center growth to be 17% over the next several years. But as you suggested today, Eaton and the market have changed, even since your Investor Day, with the market beginning to evolve toward 800-volt DC power architecture. And you added Fibrebond and now you're obviously adding Boyd. So can you talk about what total Eaton sales per megawatt within your eventual new portfolio could be? And do you ultimately see the data center market growing considerably faster than that 17% with Eaton outperforming?
+
+Paulo Sternadt
+CEO, President & Director
+
+Yes, great question. Let me lead with this. We mentioned to you before that we have the broadest portfolio of power management solutions for data centers. We had it already even before the announcement we made yesterday.
+
+But starting with the white space products. The white space is centered around the chips. And moving to the gray space, we have all this power distribution, power quality products, and all the way to the front of the meter where we have our utility grid products. So we have a very extensive portfolio. And the recent acquisitions we made, made our position so much stronger.
+
+And as you know, the data centers exist to support the chips ultimately. And as these chips become more and more powerful, especially in support of AI workloads as you mentioned, data center operators are moving towards direct current. Why is that? Because direct current offers advantages in terms of reduced power losses, fewer conversions with alternate current, and the ability to offer direct integration with other sources of power just like renewables and battery storage.
+
+And Eaton is extremely well-positioned for this change, not only because today our products touch every conversion of AC and DC in the data center, but also because we have decade-long experience with dealing with DC power in other segments, like machinery, industrial facilities and also eMobility, we're dealing with DC power for a while. So this is another example that makes Eaton unique in this space. And the Resilient Power acquisition we made a couple of quarters ago actually accelerates our readiness for DC integration right from the utility feed down to the chips.
+
+So the question you made is how this can be possible. We are working with a number of customers. We're also working with institutions and governments, and we have a seat on the table to decide on the codes for the new systems. And we also, as you probably know, we are partnering with NVIDIA, so we design the data centers from the chip out.
+
+On your specific question on the dollars per megawatt, our range was between $1.2 million to $2.4 million per megawatt, being the lower end cloud and being the higher end AI loads for the portfolio we have today. And with the acquisition of Boyd, we're going to add another $500,000, so it will be close to $3 million per megawatt at the high end of the guide here for construction.
+
+Andrew Kaplowitz
+Citigroup Inc., Research Division
+
+Paulo, that's helpful. And then maybe just for Olivier. Your organic revenue growth in Electrical Americas slowed in Q3 versus Q2. I think the comps are pretty similar. I think you also have more capacity coming on. So can you give us more color on what happened in your end markets? Was maybe residential slower? And I know you have a relatively big implied ramp in Q4, easier comps help. But where is that coming from? Is it data center revenue growth? And how does that translate into '26?
+
+Olivier Leonetti
+Executive VP & CFO
+
+So if you look at Q3 on organic growth for ESA, we had 2 factors impacting our sales to the downside. One, residential being slower in September; and two, some small orders, some orders being delayed from Q3 to Q4. We are confident that we'll catch up in Q4. If you look at the implied revenue guide for ESA, that would be in the range of 17% to 18%. We're confident in our ability to deliver this kind of revenue growth as we're adding capacity.
+
+Paulo Sternadt
+CEO, President & Director
+
+I'd like to complement this -- just to complement what Olivier said, which is absolutely right. I'd like you to take this into perspective. This miss of Electrical Americas to the midpoint of the guide, if you calculate the dollars, are $80 million, 8-0. If you think about the future performance of the business and the overall company, it's not comparable, it's not really important, if you compare versus the backlog sequential increase we had for the company. The backlog increase from Q2 to Q3 for the overall company is about $1 billion, being $600 million only in Electrical Americas.
+
+So that's what gives us the confidence we have the right number going forward. And then a reminder, last year, we had also a tough Q4 because we had impacts of strikes and hurricane. So the comparable as well helps in this case year-over-year.
+
+Operator
+
+And our next question comes from the line of Chris Snyder from Morgan Stanley.
+
+Christopher Snyder
+Morgan Stanley, Research Division
+
+I wanted to follow up on some of that Q3 versus Q4 commentary, but specifically more on EPS. So Q3 EPS was up, I guess, 8% year-on-year. You're guiding Q4 at the midpoint up to 18%, above the full year of 12%. So is that just all driven by the Americas seeing stronger organic growth, which you just talked about? Or are there other factors in here that's driving that sharp pickup in earnings growth?
+
+Olivier Leonetti
+Executive VP & CFO
+
+Mainly other factors. If you look at, first, the tax rate, last year our tax rate in the quarter for Q4 was 17.4%. We are modeling 15%. The 15% is supported by discrete tax items. This is under our control. So that would be half of the difference between the 18% and the 12% for the full year.
+
+And the other half is a compare benefit. Paulo mentioned that last year we had the impact of strike and hurricanes, which impacted EPS and would benefit from the compare as well. So between the 18% and the 12%, 50-50 of the gap between tax and the compare, Chris.
+
+Paulo Sternadt
+CEO, President & Director
+
+And Chris, just to add one element to this, just to complete the picture here. If you adjust by the 2 factors that Olivier just mentioned, the EPS growth will be around 13%, which is a little bit higher than the average of the year. So that gives us confidence that we can hit that.
+
+Christopher Snyder
+Morgan Stanley, Research Division
+
+I appreciate that. And maybe if I could follow up with one maybe more thematically around the Boyd acquisition. I imagine that there has always been some benefits if you were able to supply customers power equipment into both the gray and white space within data center. But it does seem like the ability to supply both is getting more important. I don't know, maybe that's on the move to 800 volts, I'm not sure. But I guess, Paulo, from your standpoint, is the ability to sell into both the white and the gray space becoming more important? And was that a big -- and if so, why? And ultimately, is that kind of a big motivation for this acquisition?
+
+Paulo Sternadt
+CEO, President & Director
+
+Yes. No, great question. If you'll allow me, I'd like to give you a big picture rationale on the acquisition, we can deep-dive on this particular topic. We are excited about the data center market. We all know it's growing at a very fast pace. But if you look at liquid cooling in particular, it's growing at even faster pace than the average of the data center market.
+
+So you saw in your chart, in the low point, projection of the market is 35% CAGR. So market will be between $6 billion and $9 billion already in '28. In 2030, we expect the market to be between $15 billion and $18 billion. So it will be a massive market.
+
+And I told you, I think it's important I get back to that point, I told you last quarter that the white space became much more interesting for Eaton given the power ranges that now also go into the racks, moving from a few kilowatts to a megawatt, which is at sites now. And this makes a remarkable change in the way we design the power solutions, to be more attractive for Eaton having mission-critical solutions here.
+
+And then if you look at the cooling portion of it, there are technical synergies in the way you design the white space from the chip out, and that's what we are interested in, and converting power and cooling technology and knowledge to come up with better designs for our customers.
+
+Then, why Boyd? I would say I would start with this. Firstly, they really have similar DNA that Eaton, which means that they lead with technology and innovation. Second, they are the market leader, so that provides us with a scaled entry into the market, not the suboptimum assets we saw on the market before. This is a market leader. They have a global footprint, which is impressive, in all 3 continents, and a best-in-class engineering team because they have around 500 engineers and they are the best cooling experts on the market. So we like what we see.
+
+And we also like the way they sell it because they work through technical sales, meaning they work intimately connected with all the chip companies. So think about the merchant chips like NVIDIA, AMD, but they also work on the captive proprietary custom silicon developers which are the hyperscalers. So they are in those development projects for the long run. So they know 2 or 3 generations ahead of what is commercial today, what's going to be delivered, because they are part of those projects.
+
+So talking about synergies here, first of all, Eaton, in our power portfolio, we can leverage this connectivity they have with the chip manufacturers and the hyperscalers on their own chips to leverage our power system designs as well. So they have the customer intimacy. On the other end, we believe we can help them grow their co-location, multi-tenant market. We have better access and better relationships than them. And then we also can help them reducing their cost position given our purchasing power at Eaton.
+
+So this business is growing really, really fast. And this year, they're going to reach $1 billion in revenue. Next year, they're going to reach $1.7 billion in revenue, which is a staggering 70% growth. We double-clicked on that during diligence, and their Q4 exit rate is already $400 million, which gives $1.6 billion if you multiply it by 4, making this $1.7 billion plan not only achievable, but there is upside next year.
+
+So I mean, everything we saw from that angle made us believe that was the right asset to go after. And we also know that we keep our discipline with the returns between 200, 300 points, being accretive on year 2. So all the good stuff.
+
+So the asset is fantastic. I'm really excited about winning this business, especially because we've been working, getting them to know as a supplier first for over a year, getting to know the teams, the technology. We hired independent consultants to browse all the cooling players. And all the inputs we got pointed to Boyd as the best option for us. So when the asset came to market, we knew exactly what we wanted to check, we knew what plants we wanted to visit, we had an idea on the talent we wanted to retain. So we were quick. We were fast. And we won by certainty of our proposal, fully vetted by our Board, not necessarily because we were bidding higher than other folks.
+
+So a great step for us, a great step for the business. And we believe that combining these 2 technologies in the future will bring a lot of wins for the company, even though I'd say we didn't need to put much of the synergies into the model to make the math work, because the business is growing so fast that it wins on its own merits.
+
+Operator
+
+And our next question comes from the line of Joe Ritchie from Goldman Sachs.
+
+Joseph Ritchie
+Goldman Sachs Group, Inc., Research Division
+
+Paulo, maybe just continuing the conversation on Boyd. I'm just curious, when you think about this asset and how long they've been providing liquid cooling or CDU solutions to data centers, maybe help us provide a little bit of a history on that.
+
+And then secondly, we're trying to level-set the portfolio of their business that you've laid out on Slide 5. I'm curious specifically, how much is liquid cooling? How much is cold plate? Just any color you can give us on that would be helpful.
+
+Paulo Sternadt
+CEO, President & Director
+
+Great. So the company historically started by designing cooling systems for aerospace, which is a great place to start because it's very stringent, tough requirements, tough engineering solutions. And they really got traction there. And then when cooling became a reality in the data center space, they migrated to cooling in data centers.
+
+You should think about Boyd as over 80% of their revenues are in the data center space and the other 20% are divided between aerospace and industrial applications. So the data center part is growing at a much faster pace, as you know. But the aerospace part is also interesting. We were working on our own projects to achieve exactly that. And now with their technology, we don't need to continue with those projects any longer in Aerospace. It's also important, but not any close to the growth rates that we see in data centers.
+
+And as you think about Boyd, they are not a -- don't think of Boyd as a cold plate company. They are the cooling experts on the market. When you have 500 engineers and you are embedded into 2 or 3 generations of chips ahead of what's commercial today, you know what's going to happen in the next 5 years and you are designed in. And it's almost like the same behavior we have in the Aerospace selling. You get to develop something with your customers, you win and you are in the platform. The difference here is that the aerospace platforms change every 30 years and the chips change every 18 months.
+
+So they are ahead of the curve for the new designs to come to reality, which gives them a lot of advantages. I'm going to explain what I mean by that. When solutions are stable, people will try to copy and do it cheaper. When the design is changing every 18 months, there is no way a company can catch up with them, unless you have a seat on the table, you're working with the engineering teams of your customers. That's exactly how they play. So we felt really comfortable with that.
+
+And then they have a long range of products in the cooling space, and they also have systems and they have systems capabilities. So the way to think about the future of this business is: whatever makes more sense to the customers, they will develop and they will implement. They will not be fighting for Product A or Product B. They will always be offering the best solution to make the chips work perfectly fine.
+
+So that's how they are wired. We love the way they conduct themselves. And we talked a lot about engineering side of it, but they also have a great footprint with plants in Asia, Eastern Europe, North America and [ cutting-edge ], lean qualities as well. So it's a well-run business. And we know we can scale. We know we can scale that business, and we will.
+
+Joseph Ritchie
+Goldman Sachs Group, Inc., Research Division
+
+Got it. That's super helpful. And then just a quick follow-on question on EA backlog. So you've grown the backlog by about $2 billion year-over-year. It sounds like you have an expectation it will continue to grow through the end of the year. Just how are you thinking about 2026 just given the strong growth that you're seeing and potentially continuing to see backlog growth in EA in '26?
+
+Paulo Sternadt
+CEO, President & Director
+
+Yes. So particularly on Electrical Americas, through Q3, we saw this backlog growth of 20%, which includes 9% organically. And on LTM basis, our book-to-bill was 1.1, as I said before. We were supported by higher growth in our end markets and also because, as I said before, we are investing and the customers are trusting us. So great results for Q3.
+
+As we look into Q4, and I said before we are bullish about orders growth once again in Q4, we see momentum in negotiations in orders, so it's very possible that our backlog at the end of '25 will be up year-over-year at similar growth rates as Q3 was versus last year. So there are indications that could be possible. And the book-to-bill could also improve beyond 1.1 as a consequence.
+
+For '26, the second part of your question, I would say it's a bit too early to call. We will have more to share when we provide our guidance in February. One thing is for sure, I want to share with you, we will start 2026 with record backlogs and enormous -- just enormous visibility into the fiscal year. That's a guarantee.
+
+Operator
+
+Our next question comes from the line of Nigel Coe from Wolfe Research.
+
+Nigel Coe
+Wolfe Research, LLC
+
+Just want to change gears a little bit here and maybe talk about Aerospace. Perhaps you could just unpack the drivers of the Aero performance and, in particular, the margins and, obviously, very strong leverage there. So just wanted to understand what's driving that.
+
+Paulo Sternadt
+CEO, President & Director
+
+Okay. Great. Well, you probably remember, Nigel, that we shared in March our plan for the Aerospace business to go to 2030 and to reach 27% margins. John Sapp explained that to the whole team. I will start by saying that we are on the right track to deliver on 2030 commitments. I see great performance by the Aerospace team this year that supports my statement. I'll give you more detail on that.
+
+Firstly, I want to say, which is really important for this business, they landed historical wins on new platforms that were available, defense platforms. So those historical wins will give us a lot of revenue decades to come. So the long-term view of this business is fantastic and incredibly strong. For the short term, I'm again proud of the team as they keep ramping volumes consistently and improving customer satisfaction while they do that, which is also great.
+
+So if you compare, this business last year we grew 10%, and this year we're yet again raising organic growth guidance up 100 basis points to the midpoint of 12% this year, which is a great year-over-year performance. And on the margin front, we start to see upside from some of the key strategic levers, which are driving already 70 basis points of margin expansion. So I would say we are on track to reach the 27% margins we promised for 2030.
+
+You asked for details where we are working to improve margins. The first thing is no surprise in the industry: supply chain. We invested in AI tools to improve planning and the connectivity between our suppliers and our customers, including our plants. This is growing well. Second, we are investing in manufacturing excellence, improving the way Aerospace runs the show. And it's also going in the right track.
+
+And third, I would say this, we also -- although there is not the massive investment we had in Electrical Americas, Aerospace is also expanding a couple of plants and they're doing that very well. But their growth is basically getting more products out of the same facilities they have, which is great performance.
+
+And fourth, I would say this, we talk about portfolio management, both for the short term and for the long term, I see also green shoots here. You've heard me saying before, we treat every GM as a portfolio manager. So John Sapp and his team, they took care of some contracts that we saw as a tail of the portfolio, and they renegotiated those contracts, which will give us better margins in the future.
+
+And the other thing I want to highlight, which the team also landed, I don't want you to forget, is that the Ultra PCS announced deal is a great example of an asset we will acquire that will add to the top line in terms of growth acceleration and will start adding to the margin, being accretive to margins right away. So it's a great asset. And we expect now to close this year, in Q4, rather than beginning or the first half of next year, which is also great news.
+
+So I would summarize by saying I'm proud, really proud of this team, and I'm confident that they will deliver on their commitments towards 2030.
+
+Olivier Leonetti
+Executive VP & CFO
+
+One additional statistic, Nigel, if I may. The 12% revenue guide for the year will also assume a backlog growth. So we're not flushing the backlog. We are growing faster than prior year and adding to the backlog. As a reminder, the backlog in Q3 was 15%, 1-5, higher than it was a year ago.
+
+Nigel Coe
+Wolfe Research, LLC
+
+Yes, that's great color. And then second was margins. There's a lot going on in the Americas margins, price, tariffs, investment spending, et cetera, obviously, a lot of volume leverage as well. So just wondering how we should think about incremental margins in 2026 and how that all plays out.
+
+Paulo Sternadt
+CEO, President & Director
+
+Yes. I will start and then I'll allow Olivier to provide more color. It's too early to talk about 2026 margins, but I think Q3 was a good proxy where the top line didn't come to the levels expected and the business could produce very good margins. And why was this possible? First, because we had a backlog we could deliver on. Second, because the team now covers for all the tariff costs and is not a drag on the margins. So it's not only recovering on the dollar-by-dollar basis by the end of the year now, but also it's not dilutive to margins, which is great news.
+
+Where are we now in Electrical Americas? That's exactly the discussion we should be having. Think about a business that has been growing consistently with the same portfolio of plants, and all of a sudden, now they're expanding 12 facilities at the same time. So 6 are built and they start to ramp. Other 6 are in building phase.
+
+So it's a lot of activity in that business, preparing us to start a new S curve, a new chapter of growth for the business. That's the way to think about Electrical Americas. Our customers trust that, and it's proven by the amount of orders they are giving us, which is it's just fascinating to see that quarter after quarter.
+
+So that business is exactly getting ready for all this demand that we announced the expansions at the right time. And we realized, with all this order momentum we have, we need to accelerate investments, get the people ready so we can produce on this backlog that we count on today. And with all that, we have over 100 basis points of inefficiencies, minimum, that we have, by dealing with those inefficiencies and all this turmoil, are ramping 6 facilities at the same time.
+
+So we're going to give you full guidance in February for 2026. But in '26, you should expect that we continue to ramp, so some of those inefficiencies are still going to be there. But they're going to disappear over time, and then we can print even better margins for Electrical Americas.
+
+Operator
+
+And our next question comes from the line of Jeffrey Sprague from Vertical Research Partners.
+
+Jeffrey Sprague
+Vertical Research Partners, LLC
+
+A lot of ground covered. I just want to come back to Boyd one more time, at least for me. Just a little more color sort of on some of the deal assumptions. Paulo, that was very helpful, giving us the $1 billion to $1.7 billion. That was part of my question. But this 25% margin that you're pointing to, is that their organic margin? Is that kind of comparable to Eaton accounting? Or do you have some synergies baked into that number?
+
+Paulo Sternadt
+CEO, President & Director
+
+No. This is their margin today.
+
+Olivier Leonetti
+Executive VP & CFO
+
+This is their margin, yes.
+
+Jeffrey Sprague
+Vertical Research Partners, LLC
+
+And then so if you think about synergies, you alluded to revenue synergies working together, I would assume you're maybe not ready to totally kind of give us a number on that, although the $500,000 of content certainly is a starting point. But how about on the cost side, is there a cost story here too? Or coming out of private equity, maybe these guys have a lot of capacity they need to add or something to kind of keep up with this demand? Should we just think about kind of investment for growth as opposed to kind of cost-related synergies as part of the earnings algorithm?
+
+Paulo Sternadt
+CEO, President & Director
+
+Yes. We have both. I would say this, and I'll go back to the deal criteria so it's clear that we remain disciplined. This year is delivering between 200, 300 basis points over cost of capital, is going to be accretive on year 2. And I said before, we didn't need to use the synergies to make the business case work given all the growth that they have in the pipe. But if you look at the synergy, the multiple after the synergies, the multiple goes down to high single digit.
+
+So there are synergies that we can play here. The most -- the quickest and the easiest to implement is, on the cost side, we look at what they buy and we compare to our purchasing volumes and our purchasing power, we believe we can help them a great deal. And then again, the other part on synergies, about sales, that we see as a great opportunity, and we work towards that. But once again, we could even take this out of the model and the math will still works fine.
+
+Olivier can give you more details on how we're going to run the financing, et cetera. We also checked our leverage point, and we believe that after the deal, we're going to still be at the same credit rating as today. So that would not be affected. You want to add anything, Olivier, to it?
+
+Olivier Leonetti
+Executive VP & CFO
+
+Nothing more to add. No.
+
+Operator
+
+Our next question comes from the line of Steve Tusa from JPMorgan.
+
+C. Stephen Tusa
+JPMorgan Chase & Co, Research Division
+
+So just to kind of clarify in the fourth quarter here, so I guess what you're saying with the EA revenue is that the resi stuff remains weak and some of these other nits and gnats that were onetime issues ship. And so I think the midpoint of the prior range was higher than 18% revenue growth. Is that basically the resi impact in 4Q?
+
+Paulo Sternadt
+CEO, President & Director
+
+Yes. So you got this correctly, Steve. I'll go back. So we -- if you look at the sequential revenue growth for Electrical Americas, around $200 million, we are confident, we check plant-by-plant what needs to happen, and this is around 5% to 6% sequential growth. And this is possible because new capacity came online in Q3 and we are ramping up as we speak.
+
+In terms of the miss you mentioned, which was half of the miss to the middle of the guidance on growth, you should think about this as being less than 1 day of sales, right? So think about a whole quarter and they missed less than 1 day of sales. And this is going to be a carryover for us in Q4. So that product is on the pipe, it was on the shop floor and now becomes a tailwind for Q4. So this is one element for you to consider. That's why we believe the strong double-digit growth is possible, having this carryover from Q3, that we were working on, we couldn't deliver.
+
+And then the second thing was that last year is the easiest comp of 2024, which the growth was only 9%. So we believe it's possible to achieve that.
+
+C. Stephen Tusa
+JPMorgan Chase & Co, Research Division
+
+Yes. That makes sense. Like only 9% growth, that's not exactly the easiest comp in the grand scheme of the economy, but I understand for you guys, it's kind of a different scale.
+
+And then just lastly, following up on Nigel's question on the margins. I think your margins are guided this year down 50 bps, and you have this 100 basis points of inefficiencies, but you're also absorbing tariffs and maybe like a deal here and there this year. Like why wouldn't it be better than down modestly next year? Like does 100 bps get worse next year or does that get a little bit better? You should be able to kind of, in my view, engineer to something that's at least up a little bit for next year for EA.
+
+Paulo Sternadt
+CEO, President & Director
+
+Yes. So on the first part of your question, of course, we are dealing with those 4 different deals and we are investing. And we don't regret doing that because that makes our position so much stronger.
+
+We cannot continue acquiring companies at that pace. You shouldn't expect that next year, right? We need to digest those deals. They were the right deals in the right time, the right place, but we cannot continue to make acquisitions at that pace per year. It's not what we're going to do. So that addresses the first part of your question.
+
+And of course, the business is making things better, as we speak, every month, every day. And you should expect that those inefficiencies will go away as more of the plants that we start to ramp up, they become mature. I'll only caution you, it's too early to give you guidance for '26. We're going to talk in February and then I'm going to give you more detail on the plan. I need to meet with the team to see the bottoms-up plan myself. They're working on that as we speak.
+
+But directionally, think about this, less deals next year. We focus to digest what we acquired this year. And then in terms of efficiencies, should start getting better over time for Electrical Americas as we mature the footprint.
+
+Operator
+
+And our next question comes from the line of Deane Dray from RBC.
+
+Deane Dray
+RBC Capital Markets, Research Division
+
+Just want to follow up on Jeff's question regarding capacity investments, and particularly for Boyd. We talk about the 70% growth expected for '26. How much capacity do they need to add? One of their key competitors announced they're doubling capacity, you said Boyd has 16 plants. Just what's in front of them in terms of capacity? And really, what are you solving for? Is there a backlog that you have in mind that you don't want to exceed in terms of how much capacity you'll be adding?
+
+Paulo Sternadt
+CEO, President & Director
+
+So this was a key part of our diligence and we double-clicked on that. They are ramping 2 facilities, large facilities, 1 in Asia and 1 in North America. They have ordered. They have equipment in place, they are hiring people at a high pace. And then all the long-term, the long-lead items, the long-lead capital goods, machinery, et cetera, are ordered already. So the capital plan is well underway, and so whatever is required for '26 and '27 is already in the pipe.
+
+And then we feel really good about their capacity to ramp because we were, we saw those plants, we saw the exit rate now in Q4 already in the ballpark of the revenue numbers for next year. So yes, they are investing, they are growing. The investment is already in their plan. And over time, it could well happen, as it's happening with Fibrebond, that we can accelerate and augment their wins and then we can come to a decision later on to invest even further. But today it's not required. It's all in.
+
+Deane Dray
+RBC Capital Markets, Research Division
+
+That's really good to hear. And then just a follow-up, we appreciate the update on the mega-projects. You all have been really good about providing some data points given your perspective. Can you talk about the number of projects you see today and your win rate?
+
+Paulo Sternadt
+CEO, President & Director
+
+Yes, great. Great question. We didn't have a slide -- we planned to have a slide here before we closed the deal, so we needed to remove. So maybe next quarter, I'll bring it back.
+
+So another very strong quarter, record announcements once again. So in Q3, the mega-project announcements reached -- sorry, $239 billion, which is up 18% year-over-year. And if you think about the sequential growth from Q2, it's almost 50%. So a very, very, very strong quarter.
+
+You look at the composition of those mega-projects, you would expect a big portion of it be data centers. And it's true, it's almost half of the total. But the other half is not data center, which is also great and diversifies the end market.
+
+And if you look at what's happening, I gave you data about starts and announcements last quarter, if you look through September, and you look back from January to September, average announcements per month are reaching $65 billion, and the starts for all 9 months are only $100 billion. So there is a lot of things to still come to the markets, a long runway. And the backlog today is around $2.6 trillion. So it's up 29% from last year. So astronomical numbers.
+
+And if you translate to us, we won around $2 billion in orders. We have a negotiation pipeline now, we are active on negotiating other $4 billion-ish in products and solutions. And we win around 40% of what we bid on. So that's a very strong win rate.
+
+With all those numbers and you compare the potential to what we booked so far, I hope you're going to get to the same conclusion I got, which is those large projects typically take between 3 and 5 years from announcement to our revenues. So think about this as a great, great tailwind for extended duration of the market growth that we have for even a longer period of time.
+
+Olivier Leonetti
+Executive VP & CFO
+
+You could also triangulate those large projects with what the -- with the announcement from the hyperscalers. If you remember, during the earnings season, the top 5 in U.S., they announced a growth in the CapEx '25 to '24 by 67% year-on-year, and then '26 versus '25 about 45%. And all those numbers are higher than what they had announced the prior quarter. So many triangulation points.
+
+Paulo Sternadt
+CEO, President & Director
+
+That's a good point. Thanks, Olivier. We are over time, so let's go for the last question, please.
+
+Operator
+
+Our final question for today comes from the line of Scott Davis from Melius Research.
+
+Scott Davis
+Melius Research LLC
+
+Congrats on the numbers, et cetera, or the outlook, I should say, is very encouraging. Just a couple of cleanup items because I think you've touched on 99% of what matters here. But the CapEx, I think you were guiding to kind of, call it, $1.2 billion this year and next combined. Are you at the point where you may need to upsize that '26 CapEx number given the order book?
+
+Olivier Leonetti
+Executive VP & CFO
+
+So we will be higher in CapEx in '26 versus '25. We have said that constant -- in a consistent manner. We think we're going to have leverage -- you go back to the question from Paulo on the CapEx we have deployed in '25, '26 would be a peak, and then we'll go back to the historical CapEx as a proportion of revenue you had at Eaton.
+
+Paulo Sternadt
+CEO, President & Director
+
+As of '27, right?
+
+Olivier Leonetti
+Executive VP & CFO
+
+As of '27, correct.
+
+Paulo Sternadt
+CEO, President & Director
+
+So you should -- we are actually accelerating our hiring and our ramp now on the existing expansions we announced already.
+
+Scott Davis
+Melius Research LLC
+
+Okay. That's helpful. And then, guys, just again another cleanup item. Where do we stand right now with channel inventories? Are they back to kind of more normal levels?
+
+Paulo Sternadt
+CEO, President & Director
+
+Yes. So we have a closer look with our distributors. I think resi reached bottom, in my opinion. And then we see other markets that are coming back really, really nicely. Distribution IT, for example, recovered, not only in North America, but also in EMEA, double-digit orders growth. Our utilities business came back very strongly now as well in terms of orders; strong double-digit growth.
+
+So this is coming back. Resi is still down, DIT is back. And then utilities very, very strong orders, which we didn't have an opportunity to cover, but utility business did really well in orders as well in Q3.
+
+Yan Jin
+Senior Vice President of Investor Relations
+
+Thanks, guys. As always, the IR team will be available to address your follow-up questions. Thank you for joining us. Have a nice day, guys.
+
+Paulo Sternadt
+CEO, President & Director
+
+Thanks, everyone.
+
+Operator
+
+Thank you, ladies and gentlemen, for your participation in today's conference. This does conclude the program. You may now disconnect. Good day.
