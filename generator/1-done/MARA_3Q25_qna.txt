@@ -1,0 +1,269 @@
+Question-and-Answer Session
+
+Reginald Smith
+JPMorgan Chase & Co, Research Division
+
+I appreciate you selecting me for this call here. I have a very big announcement this morning. I guess kind of help me interpret this morning's announcements versus, I guess, kind of your prior strategy. Like what's being emphasized, deemphasized? Maybe talk about that from the -- like what's the most emphasis you're placing on the business and maybe the least, because there's a lot going on here, certainly relative to the other Bitcoin miners. I know the other guys, it's either Bitcoin mining or kind of colocation. You guys seem to have a lot more balls in the air. Maybe talk through those differences.
+
+[Technical Difficulty]
+
+Frederick Thiel
+CEO & Executive Chairman
+
+Hey, guys. Is everything okay?
+
+Reginald Smith
+JPMorgan Chase & Co, Research Division
+
+Yes. I didn't hear anything. Did you catch my question?
+
+Frederick Thiel
+CEO & Executive Chairman
+
+Sorry about that. Sorry. I had a comms issue here. I'm in the U.K., so it was a little bit of a problem. I'm back on now. So yes, I heard your question, Reggie. Sorry. So if you think about the deal we announced today, it's about getting access to low-cost energy that is reliable, available 24/7, where because we are the generator, it provides us with a very low cost. If you look into the details of the announcement, you'll see that the pricing on the gas is amongst the lowest in the market.
+
+The other thing is that it gives us now the capacity to add potentially up to 1.5 gigawatts of data center capacity if we want to, which gives us lots of flexibility. A lot of our Bitcoin mining sites are very attractive to use for inference AI, as we discussed earlier. We talked about what we're doing at Granbury and what we'll be able to do at some of our other sites in a similar fashion where we can blend inference AI and Bitcoin mining.
+
+But the relationship with MPLX and the opportunities it provides give us a much broader canvas that we can paint on, whether that is traditional HPC like some of our peers have done or whether we want to build it out as hybrid AI, inference AI, and Bitcoin mining sites. So it gives us a lot of flexibility. And we believe controlling and owning power is a core part of any company that operates in the digital infrastructure space. When you look at the spending that's going on, and I think Sachin Ardell said this, in a recent podcast that was quoted, where he was quoted as saying that compute isn't the constraint, energy is the constraint. And so access to energy, we believe, is critical.
+
+We think inference over the long term is where all the value is going to get created in this space. But we believe that Bitcoin mining has a very important role to play in not just balancing grids, but providing a flexible load when mixed with AI, such that AI can begin to operate in more places than it does today. And the last thing I'd say is that we believe that the technology curve is going to move so quickly in this space because you have to realize that just like in Bitcoin mining, where cost per petahash is the most important metric that drives profitability in the AI business, unless you are in the application layer.
+
+In other words, running is the -- owning the data and the application that is generating value for the enterprise. In healthcare, owning the healthcare data, running the actual AI analysis. The only thing hosting providers and model operators provide are tokens in the sense of we need lowest cost per token if we're going to use that service. And using the APIs from the cloud providers is a very expensive way of running AI. And most enterprises today are being confronted with the fact that the cost per token is too high using existing systems, and they want to move to lower-cost systems. And we're going to start seeing, and we already are seeing ASIC-based solutions coming, open-source models, all of which will allow enterprises to build their own and operate their own private cloud or use those services from third parties, allowing them to drive value from AI.
+
+So I think for a lot of the big guys, the challenge is they are doing deals with colocation partners where they are not taking on the debt. The debt is being laid on the joint venture or the SPV related to that colocation facility. And that colocation partner is having to deploy a lot of capital to build those sites and equip those sites, and you have technology obsolescence. Over the course of a 10-year lease, you will have to upgrade the hardware in that location. And you have to estimate that in the cost of what it's going to be to build and operate.
+
+And I think there's a risk potentially that $1.4 trillion of data center contracts signed by OpenAI over the -- that will have to be operating in the next 5 years according to what was recently reported in the press, that some of that may not actually be able to come online and generate revenue. So I think our approach is much better, more prudent, certainly much more capital efficient. And by being at the end of the spectrum where we're vertically integrated and able to operate at lowest cost per token and deliver lowest cost per token, we will have a significant advantage in the marketplace.
+
+Salman Khan
+Chief Financial Officer
+
+And Reggie, just a reminder, we -- today, we control approximately 2 gigawatts of capacity. And this added capacity is incremental to that, that takes us to close to 3.5 gigawatts over a period of time.
+
+Reginald Smith
+JPMorgan Chase & Co, Research Division
+
+Got it. Understood. I'd like -- Fred, I appreciate the color there. And I was doing some kind of light math this morning. And I think about, I guess, kind of AI and HPC, you made a comment in your shareholder letter about the price of power and the price of compute. You made some parallels between Bitcoin mining and HPC. And I was looking at the numbers, and I think they may be a little bit off, but directionally, this is, I think, a fair statement.
+
+When you look at Bitcoin mining, the price of power and the price of the actual ASICs, if you think about depreciating per hour, are about the same, like a 1:1 ratio there. For GPUs, that ratio is more like 1 power 10 GPU. So like depreciation charge, and depreciation is super high. So you talked about ASICs and somehow, I guess, driving the cost of the hardware down there. Am I thinking about that right? Like what are you seeing? And kind of where do you see the role going there?
+
+Frederick Thiel
+CEO & Executive Chairman
+
+Listen, just think about it this way. When Bitcoin mining started, we were running CPUs, right? Then we went to GPUs, then we went to FPGAs, then we went to ASICs. And when you look at the amount of compute power for -- think of it as the number of terahash we could produce for a jewel of energy, it has dramatically changed. So you are now processing many more calculations at much lower cost of energy. And in our business, we depreciate the compute over 3 years. So if you're a hyperscaler and you're signing a deal for 10 years, some of these are 15 years and the depreciation schedule is 5 years for the machines. Does that mean they're going to have to replace those machines 3x in that cycle, right? And to your point, GPUs to power is most probably a 10:1 ratio.
+
+And as you get to ASICs, that starts dropping and power starts becoming an even more important component. And when you start looking at the end cost per token, at that point, the model cost also comes into play. And so if you have open source models, if you have low-cost hardware that's energy efficient, you're operating in data centers that don't cost you $10 million a megawatt to build, you start getting to economics that start resembling Bitcoin mining over time.
+
+Reginald Smith
+JPMorgan Chase & Co, Research Division
+
+Okay. Understood. Now, help me understand this. I wanted to understand or make sure I'm hearing you correctly. When you think about kind of the investment risk and the CapEx risk within this chain, obviously, you've got guys that are building data centers, you've got people that are buying like GPUs and hardware. And then you say, obviously, you got the model guys as well. But I guess your comments on kind of where the CapEx risk is greatest, are you suggesting that the people that are buying the machines are taking on the most risk? Or do you think there's still substantial risk in building big data centers? And I ask you that in the context of, I mean, you guys just, I guess, bought a few GPUs yourself. And so like help me square all of this together to understand kind of what your view is there.
+
+Frederick Thiel
+CEO & Executive Chairman
+
+Right. So part of the question is, are you in the business of being a bare metal shop, right? You're providing essentially hosting and GPUs. Look at what Iron is doing, right, bare metal. Somebody has to load their software on it, but they're renting capacity on GPUs effectively. And that's what GPU cloud is called. In that case, the operator is funding the GPU purchases, right? In the case of a colocation, there are some deals that have been done where the operator is funding the GPUs. And there are other deals where the lessor of the space, if you would, is bringing the GPUs, and they are the buyer and operator.
+
+So if Microsoft comes and is going to contract with you to just buy capacity from you, they're going to bring the GPUs, hopefully. You would hope at least. And they're taking that risk. But there are lots of different models out there being operated by people. What we're doing with inference at the edge is much more around providing inference AI, which is not running on GPUs. We're running on ASICs, ASIC type solutions. And so it's a very -- it's a different model from a hardware cost perspective. It's air-cooled. It's not liquid-cooled, for example, which means your infrastructure is much less expensive. You're not having to spend many millions of dollars per megawatt on building infrastructure, specialized cooling infrastructure. And all of that adds up to the economics of what you can do.
+
+But inference is also done at smaller volumes, right? You don't have to do 100-megawatt sites yet. Most of the needs for inference still are quite young. It's early in the market. But if you believe what Gartner and the analysts say, over the next 3 to 5 years, inference will be the primary generator of revenues and value creation within the AI space. So that's where we're swimming.
+
+Reginald Smith
+JPMorgan Chase & Co, Research Division
+
+Understood. I'm going to skip around a little bit here. I wanted to talk about Exaion. And kind of loop it back into the broader discussion. But obviously, you guys announced that acquisition. Help me understand what they do today? And maybe talk about the scale of their operations. Like are they running data centers today? And if so, what's the size of those? Like what do they do exactly?
+
+Frederick Thiel
+CEO & Executive Chairman
+
+Yes. Exaion is today, until we close, a fully owned subsidiary of EDF that operates EDF data centers where all of the data for the nuclear fleet operates in this process. So they run EDFs, AI and traditional data centers across the EDF enterprise. They have about four data centers today, three in France, one in Canada. They also operate quantum technology in the Canadian data center, which is made available for research purposes. And they have built a whole set of software solutions that allow you to operate the data center, store data in full private mode, meaning the users' data is fully encrypted. Exaion doesn't have the keys to that data. And so, were that data center to be broken into, if you think of -- if somebody were to steal data, the data in the data center is encrypted. So it's the customer who holds the keys to that data. And so it's a way to build private cloud solutions that are fully secure.
+
+And so the whole reason for making the investment in Exaion is it gives us access to a team and an existing set of data centers that are Tier 3 and Tier 4 already. They know how to operate the most sensitive data. They know how to protect it. They have existing customers, so they have experience, and we are going to leverage their knowledge, their experience, their technology, and their platforms to expand what they do on a global basis.
+
+Reginald Smith
+JPMorgan Chase & Co, Research Division
+
+Got it. So they're asset like. They're more of a service layer, their engineers, their software, things like that. Like they don't actually own any data centers. It's really running that data center, securing data. Is that the right way?
+
+Frederick Thiel
+CEO & Executive Chairman
+
+Yes.
+
+Reginald Smith
+JPMorgan Chase & Co, Research Division
+
+Understood. Okay. Is there a way to frame it, maybe early, their revenue run rate? And interestingly about that transaction, I think the first 64% of the transaction you bought them for $168 million. The next 11% will be at a much higher rate. Like what was the thinking there? Any opinions you can provide there.
+
+Frederick Thiel
+CEO & Executive Chairman
+
+I mean, I think you can think of how many times deals like this are structured. You're paying for a portion of the business based on where it is today. And then the growth opportunity for the existing investors is in executing on a plan to help grow the business. And therefore, you're going to pay a higher multiple for that. That's how you should think of it.
+
+Reginald Smith
+JPMorgan Chase & Co, Research Division
+
+Understood. Okay. Now, I want to tie all this back. So the MPLX transaction, real quick on that. Does it require any like ERCOT approval? Let's say these guys have the natural gas. You guys would make the power plant or the generation assets and then the data center. But is anything needed from ERCOT? Any roadblocks there? And like how quickly could you have a data center up and kind of running?
+
+Frederick Thiel
+CEO & Executive Chairman
+
+Yes. I think you have to think of it more as the first thing we're doing is building a power generating station, which will be gas-fired power plant. So you have regulatory requirements around air permits, for example, which in the current political environment should not be exceedingly difficult to acquire. We feel fairly confident that we'll be able to get those without much problem. So once you built the power plant, then because you are not directly grid attached yet, you then have to apply to attach to the grid and be a provider to the grid. So there's a regulatory process for that. Meanwhile, you can be producing energy and operating data center fully behind the meter. And ERCOT gets involved when you connect to the grid or the utility does once you connect to the grid.
+
+So -- and the goal here, what's really important to remember about this MPLX relationship is it gives us the ability to own and operate gas-fired power plants with very low-cost gas with the ability to colocate large-scale data centers with reliable 24/7 power in a very attractive part of the marketplace. And so it gives us a lot of control to really drive our growth in a very cost-effective way. And I think it positions us very well, come what may in this HPC AI market and give us a lot of opportunities to really operate and continue to generate a lot of value for our shareholders.
+
+Reginald Smith
+JPMorgan Chase & Co, Research Division
+
+I agree. I've been thinking about this idea of like vertical integration, and I didn't know if it was going to be a power company acquiring data center capabilities or the other way around. So this is very interesting. If I could dig in a little bit more. So I think you talked about 400 megawatts of capacity to start. How should we think about like the minimum effective dose to kind of get started. So I don't know if you want to commit to 400 megawatts right off the bat. Is it 20 megawatts? And how quickly can something like this come together? And then I know it's early days, but we've heard estimates of up to $10 million per megawatt to build out a data center. Like what are you thinking about from that perspective as well?
+
+Frederick Thiel
+CEO & Executive Chairman
+
+So you don't build a power plant in 20-megawatt increments. You build it right to a certain size at each site. So there are three sites. We'll likely think of it in 100-megawatt increments initially, but you have the ability to scale these plants much larger. As it relates to the data centers, we have the optionality. We can build these as traditional Bitcoin mining data centers that are fully containerized at somewhere around $1 million a megawatt, including hardware costs for compute. If you then want to look at going the AI route, if we're doing it similar to how we're running the inference AI we're running today, the actual infrastructure cost is very similar. It may run a little bit more expensive depending on the cooling technology, if we use direct-to-chip cooling or we continue to use air cooled.
+
+And if you use direct-to-chip cooling, your cost of infrastructure will end up somewhat higher. But the key is we're not building buildings that take 3 years to build. We're doing these as modular containerized solutions, which gives us full flexibility to reconfigure a site depending on whatever we want to do at it. And I'm a big believer that you will see very high-performing HPC capable modular solutions on the marketplace within the next 2 to 3 years, where you will be able to deploy the same sophisticated solutions you're building in these very sophisticated data centers where people can run some of the most sophisticated AI they need to.
+
+Remember, there are not many customers in the world who need data centers of the scale that OpenAI needs it, right? OpenAI needs a lot of compute capacity because of the breadth of data and the breadth of the solutions their models operate. If you remember what DeepSeek did and how DeepSeek created the stir in the market, it's because instead of operating with a broad foundational model, they only load into memory specifically the model segments that they need and the data to solve the query, which means you now don't need all of that scale. So what I think will happen in the marketplace is that you're going to have efficiencies in models going to open-source, clients developing their own models and training their own models because the clients don't want to give the data to OpenAI.
+
+If I'm -- and I'll give you an example. I was at FII last week in Saudi Arabia, and I was sitting with the Head of Strategy for Aramco on a panel. And they don't put their seismic data in the cloud. They're not going to do that. What do they do? They build their own models. Other companies do the same thing. Look at what Lockheed just did the deal they just did with Google, right? It's an on-prem solution. You are not -- I'm not going to put my data up into your cloud Google. You're going to build a cloud instance on-prem, on my site that is air gapped from your systems. That's what corporations want. They want data sovereignty. They want private cloud. They don't want to run up in Meta's cloud, Amazon's cloud, or OpenAI's systems. 70% of corporate data today is still not in the cloud. There's a reason for that.
+
+And I think when you look at inference, inference is driving insights from the data that runs your company, right? It's -- if you're in the healthcare business doing drug discovery, it's all the patient data, the lab samples, et cetera, all that data, you're driving insights from it, right? And if you are doing -- you're building airplanes, it's all the design data and the manufacturing data. If you're running a factory, it's the operations data of the factory, right? If you're running a power plant, it's the operations data of that power plant. You don't want to run that off-site. You want to actually run it on site because as those systems become mission-critical and actually operate the resources and operate parts of the business, you can't take the risk that you have a system failure that brings your whole business down just because you lose a link to a cloud or Amazon goes offline like it did the other day.
+
+So I think it's -- people really have to understand that there is a limit to what data and how much risk people want to do in putting their core critical assets into a cloud operated by a third party. And if they can solve the model issue and do it at lower cost, near-prem or on-prem in a private environment, they will do it. And I have been speaking with the heads of AI for major corporations in the financial market today who tell me that they are relocating AI systems out of the cloud back to near-prem, on-prem private solutions because it is significantly less expensive to operate than doing it in an Amazon Cloud or other places like that.
+
+And I think that the analyst community really needs to do a much better job of talking to the enterprises who are the users. These are the people who are actually going to pay the money that will allow OpenAI to be successful or not, that will allow Microsoft to be successful or not. You can talk till you're blue in the face with the people building these things, but it's like building railways. If there isn't passenger traffic and there isn't cargo, the rail lines fail. So I hate to be a downer on this, but this is an important thing that a lot of people aren't doing. You need to talk to the customers. Who's going to pay for this stuff?
+
+Reginald Smith
+JPMorgan Chase & Co, Research Division
+
+And I want to make sure I'm hearing this right and connect these dots. I think you mentioned kind of a smaller kind of, I think, a 1 megawatt, what do you call it, I guess, kind of like a sample or a small micro data center, pilot site. If I'm hearing this right, are you saying that like that could become like the prototype for enterprises having their own on-premise like AI capabilities? Is that what you want to say?
+
+Frederick Thiel
+CEO & Executive Chairman
+
+Yes. So think of it this way, right? I'll give you an oil drilling example, right? So you have an exploration drill that's drilling, you have seismic data. Today, you have to plan exactly the drill profile and what some -- what the drill operator is going to do. And so the oil companies have built these very sophisticated AI models that run in a modular container typically out on the drilling site that are collecting real-time data from the drill and then feeding back instructions into the drill master. That's an existing example. You can go to a trading -- a financial trading company.
+
+And their whole thing is speed and latency. They want their systems operating on their local network, not on a wide area connection where there's latency because 25 millisecond delay in a response means they lose the profit on a trade. And so there are -- whether you're looking at defense, which is going to be a huge growing sector when it comes to AI, just look at the amount of AI that's needed to operate in any theater of war today, look at healthcare, look at manufacturing and production, look at the movie television industry.
+
+The single largest consumer of tokens in AI are video illustrations and audio generation. Those are the systems that consume that these diffusion models are the single largest consumer of tokens. And so cost per token is very critical to them because if you're going to generate a 5-, 10-, 15-minute clip of video, it takes multiple factors of magnitude more tokens than asking OpenAI where you should eat lunch today.
+
+And so I think, again, the marketplace gets all hyped up about these big contracts, but they really need to look at who's actually going to use this stuff. What are they going to use it for? What can they afford to pay for it? What will the pricing trends be over time? And to use the worn-out Wayne Gretzky technology. If you're in our business, you want to be skating to where the puck is going to be, right? You don't want to be chasing the puck. And I think there are a lot of people announcing deals out there, getting on the bandwagon to pump their stock when they need to look at what's this industry going to look like in 5 years.
+
+Reginald Smith
+JPMorgan Chase & Co, Research Division
+
+That actually leads to my next question, Fred. So thinking about announcements and catalysts, like what should we look for from MARA to know that like this strategy is taking form and we can start to frame an economic story or a creation story around some of these initiatives. Like what are the milestones and announcements we should be looking for from you guys?
+
+Frederick Thiel
+CEO & Executive Chairman
+
+So here's what I think you should look for. 4 years ago, I made a presentation at a conference where I said that Bitcoin miners are either going to become energy companies or be owned by energy companies. I think what you should look for is when large energy companies start signing partnership agreements with companies like us to monetize their energy assets at large scale. That will tell you that if that happens to be us, that they have chosen us to do it with because they feel we are the best option for them to maximize the value of the electrons that they produce. That's one step.
+
+The next step is as you start seeing customers using more and more inference AI and you see us reporting a greater and greater mix of inference AI in our data centers. And the real metric you should look for is what is our profit per megawatt hour that we talk about. It's not a GAAP measure, so it's not going to be reported that way. But you can think of it as an operational KPI where the profit we can generate from every megawatt hour of energy that we consume or produce is a data point that our investors will be able to see and that will directly correlate to our profitability and ability to have a cash-generating business.
+
+Reginald Smith
+JPMorgan Chase & Co, Research Division
+
+Okay. And just to make sure -- and I apologize, this is a silly question. Are you looking to sign colocation clients or deals for this site in West Texas? Or is this something that you're thinking about putting your own machines in?
+
+Frederick Thiel
+CEO & Executive Chairman
+
+It gives us -- I'm not going to answer the question directly because I think our competitors spend more than enough time listening to what I say and then emulating it. So I'm just going to say it this way. It gives us maximum optionality to decide what we want to do with whom.
+
+Reginald Smith
+JPMorgan Chase & Co, Research Division
+
+Got it. Okay. Because I want to bring it up because you mentioned signing a colocation as like a milestone and...
+
+Frederick Thiel
+CEO & Executive Chairman
+
+No, you see if I can operate inference AI and make money on it without signing a colocation facility that will give you a little bit more insight into what the business model might actually be. Because think about it, the best thing about our Bitcoin mining business is we don't have a customer. What's the hardest thing all these colocation deals have is they have to go find a customer.
+
+Reginald Smith
+JPMorgan Chase & Co, Research Division
+
+Yes. Okay. Okay. People say, I change my opinion when the facts change. And this is a pretty -- this seems like a pretty major shift for MARA. Like I said, you guys bought GPUs, I guess, in the last 3 months and you start to run them. Like what in your mind has changed -- that has changed your opinion or has your opinion changed? Because strategically, it seems like the company is kind of pivoting. Talk to me about that. Like what have you learned or gleaned in the last couple of months or quarters that has driven this shift?
+
+Frederick Thiel
+CEO & Executive Chairman
+
+Yes. Reggie, I wish I could tell you that I had a lightning bolt strike me and I came to an epiphany, but this is -- we're executing the strategy we decided to execute over a year ago. It's just we have decided not to go totally open with the market and tell people what we're doing because it just gives our competitors insight into what we do and they can emulate it. And we prefer to control the timing on how we talk about what we're doing. But I've been talking for the longest time about inference at the edge, and that's where we would make our mark in the marketplace, and we are.
+
+We've talked a long time about owning power and the desire to run our business based on controlling energy assets so we're fully vertically integrated. And we're doing that. There's no change in strategy. There's no pivot. It's just we have been purposely operating more like a start-up in the sense that we have really wanted to make sure that we had everything in place so that as the market becomes aware of what we're doing, they just start seeing kind of announcement after announcement after announcement that just gives them more and more confidence in that we're executing on the vision that we set out a year ago.
+
+Reginald Smith
+JPMorgan Chase & Co, Research Division
+
+Yes. No, I'd say from where I sit and I think about all the pieces you guys have. There are a lot of pieces, and I'm not smart enough to figure out how to put it all together, but it seems like you guys have a lot of ways to kind of win here. I guess we just have to kind of sit back and wait for those announcements as they kind of come through.
+
+I know we've kind of spent a lot of time on this. I hope it wasn't a wasted time for people. Maybe we could shift gears a little bit and talk about your like sovereign and foreign government initiatives and things that are going on there. Like one of the questions I have, as you think about this is like what do you think gives you guys a right to win in the sovereign compute kind of load management space versus competitors? Who's even competing with you there?
+
+Frederick Thiel
+CEO & Executive Chairman
+
+I think -- so here are a couple of ways to look at it. Most of our competitors enter a marketplace by partnering with somebody or contracting for power. They don't bother talking to the government because they're afraid that if they do, they may not be allowed to do what they want to do. And that's the case in a lot of places in the Middle East. We, on the other hand, chose to do it the other way. So in UAE, where we've been operating now for a couple of years, we chose to directly go and work with the sovereign. So we partnered with ADQ and IHC and operate a joint venture together with them where we balance the grid in UAE. It's one of the most advanced liquid immersion technology sites in the Middle East.
+
+The only one that's bigger than that is the liquid immersion site we operate in Granbury. And so that has given us a reputation of being somebody who works well with government entities, follows the rules, and is focused on being a good grid citizen and balancing the grid. So when we talk to people in other countries, such as in France, such as in the U.K., such as in Kenya, in Saudi Arabia, in other places, we are welcomed with open arms because we are focused on how can we make your grid more efficient and more effective. How can we make sure that every electron your generators generate -- sorry, generate maximum value. And we are here to be a good grid citizen, and we are here to operate such that your grid becomes more stable and it becomes easier for you to bring on new types of loads, be them AI data centers or whatever.
+
+And the challenge, the way most people see it is that takes time. I have been crossing the Atlantic very frequently, but I have been having meetings in the top levels of government, and we have a lot of support. We certainly have seen a lot of support on the European side because there are certain dynamics in Europe that create very large opportunities for us. And so same thing exists in Saudi Arabia, for example, and other places. And we think that it's worth our effort to spend the time and take the time to do this carefully and prudently and well thought out so that we're able to execute successfully and have long-term success in the countries.
+
+Because if we're friends with the government, then we have the advantage that as they look to expand what they're doing, if we are a good partner, they will come to us and say, "Hey, we want to do more with you." And that's the type of relationship we want to have with our partners across industry, be it governments, vendors, or end customers.
+
+Reginald Smith
+JPMorgan Chase & Co, Research Division
+
+And it's funny, we haven't talked about Bitcoin mining at all. I know we're running short on time. Just an update there. Love to hear about the stuff that's happening at the wind farm and some of your flared gas initiatives. Maybe talk a bit about Auradine. And then I guess, your plans for growing hashrate here and how you think about that in the context of kind of where hashprice is and why it makes sense to continue to grow your hashrate at these levels?
+
+Frederick Thiel
+CEO & Executive Chairman
+
+Yes. So maybe I'll look at this in kind of a somewhat reverse order. So there is more hashrate coming online every day from lots of players. There are very well-capitalized companies who are not public, who are -- have access to huge amounts of capital, who have a stated goal of becoming the largest Bitcoin miner in the world. And if we don't grow our hashrate, we will have an ever-decreasing amount of the global hashrate and produce ever decreasing amounts of Bitcoin. And we think that it's our duty to continue to grow hashrate, not just in the United States, but globally to support the security and diversity of the Bitcoin blockchain and the Bitcoin network because we don't want it to be dominated by any small handful of players. And so we believe it's our duty to continue to grow hashrate.
+
+So how do we do that economically? We do it with low-cost power, which we can control, which ties to the MPLX deal. It ties to what we're doing with our wind farm, Texas. It ties to what we're doing with flare gas. We have doubled -- by the end of this year, we'll have doubled our flare gas capacity, and we're going to continue to grow that. The wind farm is fully built out from a data center perspective, and that's running. And we're going to continue to look at opportunities to acquire more energy that is low cost that we can then allocate between Bitcoin mining or AI. You have to kind of think of us as we are going to own lots of electrons, and we're going to put those electrons to best possible use.
+
+In regards to Auradine, Auradine's more recent hydro model, which competes very well with the Bitmain and other vendors' models is doing well. We're deploying Auradine in our fleet. We're not deploying exclusively Auradine at this point. There are still different machines have different characteristics that are really good for different environments, and we have a lot of different environments. And so we're continuing to deploy a mix of systems.
+
+But over time, it would be logical to feel that we're going to add more and more Auradine to our fleets. Their systems offer some very unique capabilities, especially around load balancing that in a model such as the one that is beginning to gain steam in Texas, where the utility wants to regulate your curtailment and shut you off and turn you on, that requires special capabilities in the miners, and that's something that exists in the Auradine systems. And so as more and more utilities start looking for those capabilities amongst miners who are on grid, I think they will continue to gain some market share there.
+
+Other than that, they have spun out some very interesting AI-related businesses, One or Escape, which is around securing large language models -- sorry, which recently had a lot of positive reviews at the RSA show earlier this year and then also ScaleUp, which is a start-up around ultra high-speed cluster interconnect switch technology. So that has been a great investment for us, and we continue to look for investments like that where we can acquire or build technologies that can become part of our solutions over time.
+
+Reginald Smith
+JPMorgan Chase & Co, Research Division
+
+I guess last one for me. You kind of talked about it earlier, but obviously, a lot of market cap, a lot of value has been created in the Bitcoin mining space amongst the publicly traded guys. I'd argue that you guys haven't received or gotten your share of that. Like what do you think the market is missing and hopefully will come to appreciate in the near term or medium term?
+
+Frederick Thiel
+CEO & Executive Chairman
+
+I think.
+
+Reginald Smith
+JPMorgan Chase & Co, Research Division
+
+About that specifically.
+
+Frederick Thiel
+CEO & Executive Chairman
+
+Yes. I mean I think the key for us is the floor on the valuation of our stock is essentially the value of our Bitcoin holdings. And people don't put a lot of value on the Bitcoin mining infrastructure or the Bitcoin mining business per se. And I think as our business continues to evolve, especially with the energy generation story and as AI becomes a bigger piece of this and we generate more profit per megawatt hour consumed, we'll start getting more attention from people. And I think you'll start seeing people realizing really the benefit of what we're doing in our model, and we'll get more credit for that.
+
+Salman Khan
+Chief Financial Officer
+
+Reggie, just to add to that, the power capacity that we have secured through these transactions that puts us at the forefront. And here's the actual value flows with Bitcoin mining option value between AI-ready assets, our operational flexibility with integrated power, that's what's going to drive value for our stockholders from a long-term perspective.
+
+Reginald Smith
+JPMorgan Chase & Co, Research Division
+
+Perfect. Congrats on the quarter.
+
+Robert Samuels
+Vice President of Investor Relations
+
+Thanks, Reggie. We appreciate it. Most of the questions that we received from our retail shareholders have been answered. We're obviously running short on time. But thanks, everyone, for joining us today. If you have any questions that were not answered during today's call, please feel free to contact our Investor Relations team at ir@mara.com. Thanks very much, and enjoy the rest of the day.
+
+Operator
+
+Ladies and gentlemen, thank you for your participation. This does conclude today's teleconference. Please disconnect your lines, and have a wonderful day.

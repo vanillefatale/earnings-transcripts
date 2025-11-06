@@ -1,0 +1,99 @@
+Astera Labs, Inc. (ALAB) Q3 2025 Earnings Call November 4, 2025 4:30 PM EST
+
+Company Participants
+
+Leslie Green
+Jitendra Mohan - Co-Founder, CEO & Executive Director
+Sanjay Gajendra - Co-Founder, President, COO & Director
+Michael Tate - Chief Financial Officer
+
+Conference Call Participants
+
+Harlan Sur - JPMorgan Chase & Co, Research Division
+Ross Seymore - Deutsche Bank AG, Research Division
+Blayne Curtis - Jefferies LLC, Research Division
+Tore Svanberg - Stifel, Nicolaus & Company, Incorporated, Research Division
+Mehdi Hosseini - Susquehanna Financial Group, LLLP, Research Division
+Quinn Bolton - Needham & Company, LLC, Research Division
+Sean O'Loughlin - TD Cowen, Research Division
+Sujeeva De Silva - ROTH Capital Partners, LLC, Research Division
+Sebastien Cyrus Naji - William Blair & Company L.L.C., Research Division
+
+Presentation
+
+Operator
+
+Good afternoon. My name is Eric, and I will be your conference operator today. At this time, I would like to welcome everyone to the Astera Labs Q3 '25 Earnings Conference Call. [Operator Instructions]
+
+I'll now turn the call over to Leslie Green, Investor Relations for Astera Labs. Leslie, you may begin.
+
+Leslie Green
+
+Good afternoon, everyone, and thank you, Eric. Welcome to Astera Labs Third Quarter 2025 Earnings Conference Call. Joining us on the call today are Jitendra Mohan, Chief Executive Officer and Co-Founder; Sanjay Gajendra, President and Chief Operating Officer and Co-Founder; and Mike Tate, Chief Financial Officer. Before we get started, I would like to remind everyone that certain comments made in this call today may include forward-looking statements regarding, among other things, expected future financial results strategies and plans, future operations and the markets in which we operate.
+
+These forward-looking statements reflect management's current beliefs, expectations and assumptions about future events, which are inherently subject to risks and uncertainties that are discussed in detail in today's earnings release and the periodic reports filed and filings we filed from time to time with the SEC, including the risks set forth in our most recent annual report on Form 10-K and our upcoming filing on Form 10-Q. It is not possible for the company's management to predict all risks and uncertainties that could have an impact on these forward-looking statements or the extent to which any factor or combination of factors may cause actual results to differ materially from those contained in any forward-looking statement.
+
+In light of these risks, uncertainties and assumptions, the results, events or circumstances reflected in the forward-looking statements discussed during this call may not occur, and actual results could differ materially from those anticipated or implied. All of our statements are made based on information available to management as of today, and the company undertakes no obligation to update such statements after the date of this conference call, except as required by law.
+
+Also during this call, we will refer to certain non-GAAP financial measures, which we consider to be an important measure of the company's performance. These non-GAAP financial measures are provided in addition to and not as a substitute for financial results prepared in accordance with U.S. GAAP. The discussion of why we use non-GAAP financial measures and reconciliations between our GAAP and non-GAAP financial measures is available in the earnings release we issued today, which can be accessed through the Investor Relations portion of our website.
+
+With that, I would like to turn the call over to Jitendra Mohan, CEO of Astera Labs. Jitendra?
+
+Jitendra Mohan
+Co-Founder, CEO & Executive Director
+
+Thank you, Leslie. Good afternoon, everyone, and thanks for joining our third quarter conference call for fiscal year 2025. Today, I'll provide an overview of our Q3 results, followed by a discussion around the current trends within AI Infrastructure 2.0. I will then turn the call over to Sanjay to walk through Astera Labs near- and long-term growth profile. Finally, Mike will give an overview of our Q3 2025 financial results and provide details regarding our financial guidance for Q4.
+
+Astera Labs delivered strong results in Q3 with our revenue and profitability metrics coming in above our outlook. Quarterly revenue of $230.6 million was up 20% from the prior quarter and up 104% versus Q3 of last year. Growth within the quarter was broad-based across our signal conditioning, smart cable module, and switch fabric products. Scorpio P-Series continued its initial volume ramp at our lead customer, and we are excited that our P-Series revenue will further broaden with recent new design wins across a variety of AI platforms at multiple hyperscaler customers.
+
+Scorpio X-Series is shipping in preproduction quantities with a volume ramp expected throughout 2026. Our Aries portfolio continues to perform well with PCIe 6 solutions contributing robust growth during the quarter. Our Aries 6 products are the industry's first and only PCIe 6 retimer solutions ramping in high volume today. Taurus drove strong growth during the quarter as incremental opportunities began shipping in volume across both AI and general purpose systems, and we expect further growth in 2026 as we expand to 800-gig switching platforms. For Leo CXL memory expansion products, customers are exploring AI inference use cases, especially to offload memory from expensive on-package HPM to large pools of DDR5 memory. This will broaden Leo opportunities beyond the current general purpose compute applications that we continue to support.
+
+On the organizational front, we have grown aggressively and plan to exit 2025 with a global team of more than 700 employees, up 60% compared with the beginning of the year. Lastly, we are happy to report that our non-GAAP operating margin of 41.7% marked a new record level for the company. In addition to our strong financial performance and new design wins, we continue to lay the foundation for future growth with the advancement of our technology roadmap and scaling of our team and capabilities.
+
+In October, we announced that Astera Labs had entered into a definitive agreement to acquire Xscale Photonics, a provider of leading-edge fiber chip coupling technologies. This acquisition will help enable us to develop photonic scale-up solutions by combining Xscale's fiber chip coupling capabilities with Astera Labs connectivity and signal conditioning expertise. We envision future Scorpio scale-up switches to be enabled with photonic solutions to optically expand rack scale cluster sizes containing hundreds of connected AI accelerators. This acquisition represents an important step within our long-term optical journey to intercept a large additive market opportunity associated with scale-up photonics.
+
+The industry continues to see strong momentum with major announcements pointing to ongoing rapid growth in large-scale AI infrastructure deployments. Increasing AI use cases are driving higher monetization and surging demand for compute as evidenced by token generation doubling every 2 months and significant year-over-year increases in LLM user activity. To meet this demand, the industry is rapidly adopting rack-scale infrastructure, which analysts forecasting CapEx at the top 4 U.S. hyperscalers to surpass $500 billion in 2026. This shift to AI Infrastructure 2.0 will require ultra-low latency all-to-all connectivity for large workloads, and Astera Labs is advancing its intelligent connectivity platform to deliver high-performance, energy-efficient fabric switching solutions that maximize AI platform efficiency and productivity.
+
+To achieve the goal of providing our customers with a wide choice of innovative, flexible and efficient connectivity solutions, we are building our portfolio based on open standards. Our full portfolio of standard-based solutions was in display at the 2025 Open Compute Project Global Summit with the support of 15 industry partners, all highlighting the importance of an open ecosystem for AI rack-scale infrastructure. We believe the proliferation of open standards-based AI rack-scale platforms will allow the industry to leverage broad innovation and enable interoperability while providing a diverse multi-vendor supply chain.
+
+We are particularly enthusiastic about the continued momentum behind the UALink scale-up connectivity standard, which exemplifies the open ecosystem approach by combining the low latency of PCIe and the fast data rates of Ethernet to deliver best-in-class end-to-end latency and bandwidth. UALink was built from the ground up with broad contributions from market-leading AI infrastructure participants to specifically solve the mounting challenges of scale-up networking. We believe UALink delivers the bandwidth efficiency and the ultra-low latency needed to unlock full accelerator performance and enable effective scaling as AI clusters expand. Customer activity around UALink continues to be strong. We are engaged with several leading hyperscalers and AI platform providers in the RFP and RFQ stages to align on the designs and applications that fit best with their technology and business requirements. We continue to expect a portfolio of UALink solutions to be available to customers in the second half of 2026 with early revenues generated in 2027.
+
+With that, let me turn the call over to our President and COO, Sanjay Gajendra, to outline our vision for growth over the next several years.
+
+Sanjay Gajendra
+Co-Founder, President, COO & Director
+
+Thanks, Jitendra, and good afternoon, everyone. Today, I want to provide an update on our recent execution, followed by an overview of the meaningful market opportunities that will fuel Astera Labs growth over the next several years. Astera Labs has a singular goal to deliver a purpose-built intelligent connectivity platform, including silicon, hardware and software solutions to customers for rack-scale AI deployments. The forthcoming evolution to AI Infrastructure 2.0 will not only be defined by faster silicon and larger AI clusters, but also by open connectivity standards and software that promote innovation at scale. In short, standardized high-speed interconnect technologies will be essential to deliver AI open racks that are highly performant while operating as one cohesive unit.
+
+During Q3 of 2025, Astera Labs continued its high-growth trajectory and further diversified our overall business to deliver another record quarter. We are excited to report several new design wins at multiple hyperscalers during the quarter for Scorpio P-Series fabric switches across a variety of AI platforms supported by both merchant GPUs, including NVIDIA's GB300 and B300 as well as designs based on custom AI accelerators.
+
+Additionally, our Aries PCIe 6 smart retimer business and customer opportunities are now expanding as AI racks built around custom AI accelerators and new merchant accelerators begin to adopt PCIe 6. This dynamic is poised to further accelerate the broader adoption of PCIe 6 across the ecosystem and further drive our dollar content opportunity. Overall, our PCIe 6 solutions contributed in excess of 20% of our Q3 revenues, illustrating our market-leading position. We see a similar dynamic taking shape within the Ethernet market with the transition to 800-gig links putting additional strain on signal integrity.
+
+Given faster speeds and larger AI cluster sizes, system architects are turning to Ethernet AEC applications to solve the reach challenges of passive cabling. This transition is expected to drive market growth with increasing overall volumes and a generation over generation ASP lift. While we expect strong continued demand for our 400-gig solutions throughout 2026, we also believe our customer base will diversify with 800-gig solutions, driving a new layer of growth for our Ethernet smart cable modules. We believe our approach to enable multiple cable partners with our smart cable modules, supports the scale and flexibility that is preferred by hyperscalers.
+
+Looking ahead, we are gearing up for Scorpio X-Series to shift to high-volume production over the course of 2026. With this ramp of Scorpio X-Series for scale-up connectivity topologies next year, we expect our overall dollar content opportunity per AI accelerator to significantly increase, representing another step-up from a baseline revenue standpoint. Overall, given the extreme importance of scale-up connectivity to AI infrastructure performance and productivity, we see Scorpio X-Series solutions as the anchor socket within next-generation AI racks. Our early engagements are providing us valuable insights in terms of both hardware and software requirements to deploy scale-up switching networks for a diverse set of GPUs and AI accelerators.
+
+Beyond the connectivity protocol like PCIe, UALink or Ethernet, there are additional functions, both in the data part and management of scale-up networks that can make or break the performance and deployment of scale-up networks. We are learning this every day, building a competitive moat and ensuring our solutions are ready for real-world deployments at scale. From an implementation perspective, the architecture of our Scorpio X family was built to support multiple platform-specific scale-up protocols and customizations. We are actively expanding our PCIe-based scale-up fabric solutions.
+
+And in parallel, we are working on future UALink products for applications that need higher bandwidth. For PCIe, we are engaged with over 10 AI platform providers with opportunities that are expected to drive revenue growth across multiple generations of AI platforms over the next several years. We view UALink opportunities to be meaningfully additive to our PCIe scale-up revenues. Our flexible fabric architecture, hands-on experience with scale-up networks, support for diverse workloads that run on training and inference clusters of various scale and complexity and open approach puts us in an excellent position to win next-generation designs.
+
+As we look to 2026 and beyond, our playbook remains the same: one, stay closely aligned with the multigenerational technology roadmaps of our customers and partners; two, innovate exponentially in everything we do; and three, separate the noise from reality and continue to be laser-focused on execution needed for a thriving, durable business.
+
+In conclusion, we are motivated by the meaningful opportunity that lies before us, and we will continue to passionately support our customers by strengthening our technology capabilities and investing in the future.
+
+With that, I will turn the call over to our CFO, Mike Tate, who will discuss our Q3 financial results and our Q4 outlook.
+
+Michael Tate
+Chief Financial Officer
+
+Thanks, Sanjay, and thanks to everyone for joining the call. This overview of our Q3 financial results and Q4 guidance will be on a non-GAAP basis. The primary difference in Astera Labs non-GAAP metrics is stock-based compensation and its related income tax effects. Please refer to today's press release available on the Investor Relations section of our website for more details on both our GAAP and non-GAAP Q4 financial outlook as well as a reconciliation of our GAAP to non-GAAP financial measures presented on this call.
+
+For Q3 of 2025, Astera Labs delivered quarterly revenue of $230.6 million, which was up 20% versus the previous quarter and 104% higher than the revenue in Q3 of 2024. During the quarter, we enjoyed revenue growth from our Scorpio, Aries and Taurus product lines supporting both scale-up and scale-out PCIe and Ethernet connectivity for AI rack-level configurations. Scorpio P-Series demand for PCIe Gen 6 scale-out applications was robust during the quarter. Aries demonstrated solid growth during the quarter for both Gen 5 and Gen 6 solutions.
+
+With the transition to PCIe Gen 6, we gained increased dollar opportunities with both our Scorpio and Aries Gen 6 products as demonstrated with our Gen 6 revenues exceeding 20% of our Q3 revenues. Taurus growth during the quarter was driven by increasing shipments for 400-gig scale-out connectivity and AI systems. Q3 non-GAAP gross margin was 76.4% and was up 40 basis points from the June quarter levels with product mix remaining largely constant across higher volumes. Non-GAAP operating expenses for Q3 of $80 million were up $9.4 million from the previous quarters due to higher payroll taxes and the continued expansion of our R&D organization. Within Q3 non-GAAP operating expenses, R&D expenses were $57.2 million. Sales and marketing expenses were $10 million, and general and administrative expenses were $12.8 million.
+
+Non-GAAP operating margins for Q3 reached a new record level of 41.7%, up 250 basis points from the previous quarter. Interest income in Q3 was $11.5 million. Our non-GAAP tax rate for Q3 was 18%. Non-GAAP fully diluted share count for Q3 was 180.6 million shares, and our non-GAAP diluted earnings per share for the quarter was $0.49. Cash flow from operating activities for Q3 was $78.2 million, and we ended the quarter with cash, cash equivalents and marketable securities of $1.13 billion.
+
+Now turning to our guidance for Q4 of fiscal 2025. We expect Q4 revenues to increase within a range of $245 million and $253 million, up roughly 6% to 10% from third quarter levels. For Q4, we expect growth across our Aries, Taurus and Scorpio product families with particular strength from our Taurus smart cable modules. We expect Aries growth to be driven by a number of end customer platforms where we support scale-up and scale-out connectivity. Strong Taurus growth is expected to be driven by increased volumes on 400-gig designs for AI scale-out connectivity. Scorpio growth will be primarily driven by the continued deployment of our P-Series solutions for scale-out applications on third-party GPU platforms, while we expect Scorpio X-Series to ship initial volumes.
+
+We expect Q4 non-GAAP gross margins to be approximately 75% with the increased mix of our Taurus hardware modules in the quarter. We expect fourth quarter non-GAAP operating expenses to be in the range of approximately $85 million to $90 million. Anticipated operating expense growth in Q4 is driven by the expectation of continued investment in research and development functions and also the incremental operating expenses from the Xscale acquisition anticipated to close during the quarter. Interest income is expected to be approximately $11 million. Our non-GAAP tax rate should be approximately 15%. Our non-GAAP fully diluted share count is expected to be approximately 183 million shares. Adding this all up, we are expecting non-GAAP fully diluted earnings per share to be approximately $0.51. This concludes our prepared remarks. And once again, we appreciate everyone joining the call. And now we will open the line for questions. Operator?
