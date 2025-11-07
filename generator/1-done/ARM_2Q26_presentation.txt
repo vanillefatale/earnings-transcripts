@@ -1,0 +1,121 @@
+Arm Holdings plc (ARM) Q2 2026 Earnings Call November 5, 2025 5:00 PM EST
+
+Company Participants
+
+Jeff Kvaal
+Rene Haas - CEO & Director
+Jason Child - Executive VP & CFO
+
+Conference Call Participants
+
+Sebastien Cyrus Naji - William Blair & Company L.L.C., Research Division
+Joseph Quatrochi - Wells Fargo Securities, LLC, Research Division
+James Schneider - Goldman Sachs Group, Inc., Research Division
+Ross Seymore - Deutsche Bank AG, Research Division
+Vivek Arya - BofA Securities, Research Division
+Timm Schulze-Melander - Rothschild & Co Redburn, Research Division
+Harlan Sur - JPMorgan Chase & Co, Research Division
+Sreekrishnan Sankarnarayanan - TD Cowen, Research Division
+Lee Simpson - Morgan Stanley, Research Division
+
+Presentation
+
+Operator
+
+Good day, and thank you for standing by. Welcome to the Arm Second Quarter Fiscal Year 2026 Webcast and Conference Call. [Operator Instructions] Please be advised that today's conference is being recorded.
+
+I would now like to turn the conference over to your first speaker today, Jeff Kvaal, VP, Investor Relations. Please go ahead.
+
+Jeff Kvaal
+
+Thank you, Sharon, and welcome, everyone, to our earnings conference call for the second quarter of fiscal '26. On the call are Rene Haas, Arm's Chief Executive Officer; and Jason Child, Arm's Chief Financial Officer.
+
+During the call, Arm will discuss forecasts, targets and other forward-looking information regarding the company and its financial results. While these statements represent our best current judgment about future results and performance, our actual results are subject to many risks and uncertainties that could cause results to differ materially. In addition to any risks that we highlight during this call, important risk factors that may affect our future results and performance are described in our registration statement on Form 20-F filed with the SEC. Arm assumes no obligation to update any forward-looking statements.
+
+We will refer to non-GAAP financial measures during the discussion. Reconciliations of certain of these non-GAAP financial measures to their most directly comparable GAAP financial measures can be found in our shareholder letter as can a discussion of projected non-GAAP financial measures that we are not able to reconcile without unreasonable efforts and supplemental financial information. Our earnings-related materials are on our website at investors.arm.com.
+
+And with that, I'll turn the call to Rene. Rene?
+
+Rene Haas
+CEO & Director
+
+Thank you, Jeff, and welcome, everyone. We continued fiscal year 2026 with strong momentum, fueled by accelerating demand for AI compute from milliwatts in the smallest of edge devices to megawatts in the world's largest hyperscale data centers. Artificial intelligence is reshaping every layer of technology and Arm is the only compute platform delivering AI everywhere.
+
+Q2 is our best second quarter ever, with revenue of $1.14 billion, up 34% year-on-year, marking our third consecutive billion-dollar quarter.
+
+Royalty revenue reached a record $620 million, up 21% year-on-year, driven by growth in all major markets, including data center, smartphones, automotive and IoT. Unprecedented compute demand has led to our data center Neoverse royalties to more than double year-on-year.
+
+Licensing revenue rose 56% to $515 million as companies continue choosing Arm to build their next-generation AI products.
+
+Our strong results lifted non-GAAP EPS above the high end of guidance.
+
+During the quarter, we announced a strategic partnership with Meta to scale AI efficiency across every layer of compute from AI-enabled wearables to AI data centers on a consistent compute platform. This partnership combines Arm's leadership in energy-efficient compute with Meta's innovation in AI infrastructure and open technologies to deliver richer, more efficient AI experiences to billions of people worldwide.
+
+In the data center, access to power has now become the bottleneck, and this is accelerated adoption of Arm's Neoverse compute platform, which has now surpassed 1 billion CPUs deployed. Our compute forms the foundation of custom silicon from leading partners, including NVIDIA Grace, AWS Graviton, Google Axion and Microsoft Cobalt.
+
+For example, Google's Arm-based Axion chip delivers up to 65% better price performance while using 60% less energy. And as a result, Google is migrating the majority of their internal workloads to run on Arm.
+
+Customers are increasingly deploying Arm Neoverse CPUs alongside their AI accelerators to orchestrate massive clusters, highlighting the versatility and scalability of our platform.
+
+The addition of 5 new Stargate sites this quarter further expands visibility into future AI capacity and reinforces is Arm's central role in the hyperscale build-out.
+
+As AI chip design becomes more complex, our compute subsystems, or CSS, are helping customers accelerate their development cycles and reduce execution risk.
+
+Demand for CSS continues to exceed expectations. During the quarter, we signed 3 new CSS licenses, 1 each in smartphone, tablets and data centers, bringing our total to 19 CSS licenses across 11 companies. We also expanded our collaboration with Samsung, which is leveraging CSS for its Exynos family of chipsets, driving up to 40% AI performance over previous non-CSS generation.
+
+As a result, the top 4 Android phone vendors are now shipping CSS-powered devices. CSS has quickly become the starting point for customers, building next-generation silicon, offering faster time to market and delivering higher royalty rates for Arm.
+
+In the quarter, we also launched Lumex CSS, our most advanced mobile compute platform to date. Lumex enables rich on-device AI experiences such as real-time translation, image enhancement and personal assistance. Flagship devices from partners like OPPO and vivo are expected to ramp later this year, bringing console-quality performance and new AI capabilities directly to mobile devices.
+
+At the edge, AI is transforming how people interact with their devices in their hands, homes and vehicles. Google launched the Pixel 10 smartphone featuring the new Arm-based Tensor G5 chip, which runs Gemini models up to 2.6x faster and twice as efficiently as prior generations.
+
+NVIDIA began shipping its Arm-based DGX Spark system for AI developers, a compact desktop supercomputer for local model training, fine tuning and inference.
+
+In automotive, a flagship electric vehicle built on Arm's platform introduced advanced park assist, voice control and safety features featuring Arm's Automotive Enhanced technology.
+
+Tesla's next-generation Arm-based AI5 chip delivers up to 40x faster AI performance, enabling the next wave of intelligent vehicles and autonomous machines.
+
+Our leadership in AI is amplified by our unmatched software developer ecosystem, now more than 22 million strong, representing over 80% of the world's developer base. This ecosystem is a powerful growth engine for Arm. Every new ARM-based device brings more developers, which drives more software innovation, which in turn fuels greater demand for our compute platform across every market we serve.
+
+As mentioned in our last call, we are continuing to explore the possibility of moving beyond our current platform into additional compute to subsystems, chiplets or complex SoCs. As a result, we continue to accelerate the investment in our R&D as we are seeing increased demand from our customers for our work from Arm.
+
+AI is shaping how the world computes and Arm is a foundation making it possible. From milliwatts to megawatts, we deliver the performance, efficiency and scalability to meet this moment and the years ahead.
+
+And with that, I'll hand it over to Jason.
+
+Jason Child
+Executive VP & CFO
+
+Thank you, Rene. We have delivered another strong quarter. Total revenue grew 34% year-on-year to $1.14 billion, a record for Q2. It exceeded the midpoint of our guidance range by $75 million and marked our third consecutive quarter above $1 billion.
+
+Royalty revenue exceeded our expectations, growing 21% year-on-year to a record $620 million versus our guidance of mid-teens. The biggest growth contributors were smartphones with higher royalty rates per chip and in data center where we continue to see share gains from custom hyperscaler chips.
+
+Royalty revenue from smartphones grew in order of magnitude faster than the market as multiple OEMs ramped smartphones based on Armv9 and CSS chips.
+
+Data center royalties doubled year-on-year given the continued deployment of Arm-based chips by hyperscaler companies.
+
+Automotive and IoT both continued to grow year-on-year and contributed to our strong royalty performance. Overall, royalty growth rates continue to reflect Arm's increasing royalty rates and rising market share.
+
+Turning now to license. License and other revenue was $515 million, up 56% year-on-year. Growth was driven by strong demand for next-generation architectures and deeper strategic engagements with key customers. We further expanded our license and services agreement with SoftBank. We also signed 4 ATA and 3 CSS deals. These agreements reflect the continued investment by our customers in next-generation Arm technology.
+
+As always, licensing revenue varies quarter-to-quarter due to the timing and size of high-value deals. So we continue to focus on annualized contract value, or ACV, as a key indicator of the underlying licensing trend.
+
+ACV grew 28% year-on-year, maintaining strong momentum following the 28% year-on-year growth we reported in Q1. This is well above our usual run rate of low teens growth rate -- low teens growth and is also above our long-term expectations of mid- to high single-digit growth for license revenue.
+
+Turning to operating expenses and profits. Non-GAAP operating expenses were $648 million, up 31% year-on-year on strong R&D investment and slightly below guidance. These investments in R&D reflect ongoing engineering head count expansion to support customer demand for more Arm technology, including continued innovation in next-generation architectures, compute subsystems, and possibly chiplets or complete SoCs.
+
+For example, over the past 4 years, we've invested heavily in developing the technology that makes up the Lumex Compute Subsystems for smartphones, which we announced in September. This project took around 1,000 man-years with a team size peaking over 450 engineers and required around hundreds of billions of dollars in investment -- hundreds of millions of dollars in investment. Lumex CSS has attracted strong market interest and we're already seeing royalty revenue from an early licensee.
+
+Non-GAAP operating income was $467 million, up 43% year-on-year. This resulted in a non-GAAP operating margin of 41.1% and an improvement from 38.6% a year ago.
+
+Non-GAAP EPS was $0.39, $0.06 above the midpoint of our guidance range, driven by both higher revenue and slightly lower OpEx.
+
+Turning now to guidance. Our guidance reflects our current view of our end markets and our licensing pipeline. For Q3, we expect revenue of $1.225 billion, plus or minus $50 million. At the midpoint, this represents revenue growth of about 25% year-on-year.
+
+We expect royalties to be up just over 20% year-on-year and licensing to be up 25% to 30% year-on-year.
+
+We expect our non-GAAP operating expense to be approximately $720 million and our non-GAAP EPS to be $0.41, plus or minus $0.04.
+
+Our higher revenue allows us to both accelerate R&D investment and pass-through upside to EPS. We are seeing strong demand from our customers for Arm technology, which gives us confidence in our long-term growth trajectory, and our strategy to enable AI everywhere, in the cloud, at the edge and in physical devices. And we will continue investing aggressively in R&D to capture these opportunities and ensure that AI runs on Arm.
+
+With that, I'll turn the call back to the operator for the Q&A portion of the call.

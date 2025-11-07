@@ -1,0 +1,340 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from the line of Matthew Cost with Morgan Stanley.
+
+Matthew Cost
+Morgan Stanley, Research Division
+
+In terms of the faster revenue growth for Grow in the second quarter, I was wondering if you could break down a little bit more what the drivers of that were. Is this a function of Vector improving its ad targeting capabilities for people who are already using it? Is it about rolling Vector out to more customers? Were there new customers coming into your ad business entirely? I guess help us understand the moving pieces for that acceleration in Grow in the second quarter -- excuse me, in the third quarter. And then I do have one follow-up as well.
+
+Matthew Bromberg
+CEO, President & Director
+
+Matt, thanks for the question. Vector AI is proving to be scalable and highly performant. When compared to our prior offerings, what's really important about it is it's able to ingest vastly larger quantums of data, more complex types of data with more features and respond to changes in the real-time marketplace more effectively, and then to learn from those changes. So the self-learning AI continues to improve as we continue to invest in its development and as we continue to invest in the development of the data sets to feed it. And we believe the road map we have in place, coupled with positive trends in overall mobile gaming advertising spend is positioning us really well for continued sustainable growth over the long term.
+
+I think as I mentioned in my comments upfront, it's important to note that we're seeing really broad-based strength across all geographies and platforms and game genres. It doesn't mean that that's always true with every single customer in any given day. There's always work to do to optimize, and we are investing and working really hard to do that. But there's nothing at all structural that we see standing between us and continued broad-based improvement for our customers, which is a really powerful dynamic, and it's really encouraging. We feel very good about having the infrastructure and systems in place to power continued sustainable growth over the long term with Vector. And we just -- we couldn't be more thrilled with the progress we're making.
+
+Matthew Cost
+Morgan Stanley, Research Division
+
+Great. And then on the Developer Data Framework and the runtime data, very encouraging to hear about the high uptake of the Developer Data Framework with new customers. I guess, how should we think through the impact in 2026 that, that data might have? Obviously, Vector in the absence of that data is clearly improving. How big of a sea change might that be? And how should we think through the timing and magnitude of that impact?
+
+Matthew Bromberg
+CEO, President & Director
+
+The way to think about runtime data is as a multiyear growth opportunity, a long-term advantage for us and a moat. It's -- you shouldn't think about it as like a lightning strike that's going to happen on a particular day. I also think it's probably critically important here to emphasize for everybody that absent any contribution from runtime data, we remain really highly confident in the growth trajectory of Vector, and you could already see that from the progress we're making.
+
+Having said all that, yes, we're really pleased about the launch of the Developer Data Framework in August, as you mentioned. We're pleased with the opt-in rates and the developer reception, and we feel like we have the pipes and the processes and privacy in place. And as more and more games are built in Unity 6, these tools are all going to have an increasingly important impact. We also -- the really positive adoption trends, as you noted, will speed that.
+
+But listen, this is a marathon, not a sprint, which doesn't mean as the great Jeff van Gundy, the former coach of the Knicks once observed. It doesn't mean we're not running as fast as we can the whole race. We are, but it's a long-term race. And we're feeling really, really good about the progress we're making.
+
+Operator
+
+Your next question comes from the line of Brent Thill with Jefferies.
+
+Brent Thill
+Jefferies LLC, Research Division
+
+Jarrod, on the guide for Grow at mid-single digit, you just put up 11% sequential. Maybe just talk through what you're embedding in the guide, why you're expecting the sequential slowdown.
+
+Jarrod Yahes
+CFO & Senior VP
+
+Sure, Brent. And thanks for the question. I think, firstly, just taking a step back and looking back, we're really excited about the progress we've made with Vector. This is sort of the second quarter where we've seen extremely fast, rapid sequential growth. There's nothing looking forward that gives us any pause about where we are with respect to the momentum, where we are with respect to leveraging data to help with model improvements and our product road map is really exciting as we look forward.
+
+Ultimately, the guide is a function of many things. It's a function of where we are run rating into the quarter. It's a function of the seasonality that takes place in the fourth quarter, and it's a function of the data that we expect to flow into the model.
+
+We outperformed our third quarter expectations based on where we were when we reported the second quarter. We feel great about where we are. There's nothing to say that our performance will not continue to improve over the course of the fourth quarter, and we'll end up in as phenomenal of a place as the third quarter.
+
+So again, on our side, there's no reservation. There's no hesitation. I think we feel really good about the guide and about where we came out vis-a-vis the third quarter.
+
+Matthew Bromberg
+CEO, President & Director
+
+And just the one thing I'd add to that, Jarrod, and that's well said, is that like, keep in mind, we're not running this business to a quarterly earnings clock. New product rollouts, enhancements, these are things that are organic to the business. They come when they come. The quarter ends on whatever day it ends. It's just not how we're running the railroad.
+
+So I wouldn't read anything into where particular things happen to fall over the course of 1 month or another month. The long-term prognosis for this business is really, really good.
+
+Operator
+
+Your next question comes from the line of Alec Brondolo with Wells Fargo.
+
+Alec Brondolo
+Wells Fargo Securities, LLC, Research Division
+
+With regard to the non-Vector Grow business, could you call out some specific points of improvement, maybe ways that you were able to leverage the learning from Vector into other areas of the business? I think you mentioned in the prepared remarks, there was some improvement in the third quarter driven by that, but maybe some specific examples might be helpful for us.
+
+Matthew Bromberg
+CEO, President & Director
+
+Yes. Thank you very much for the question. We are really excited about the entirety of our ad business. And I appreciate your question because I think we rightly focus on Unity Vector a lot. That is the largest and fastest-growing segment of that business. But we're really excited about the opportunities across the whole segment. And we do have plans in place to incorporate some of the technology and learnings from Vector into our other ad businesses. Now that we are through the launch -- the first piece of the launch of Vector, we do have additional cycles to apply to that. It's something we've already begun. We're optimistic about some of the early results we've seen and the scale of the opportunity there over time. And ultimately, our goal is to drive healthy and sustainable growth across the entirety of that business, and we feel great about the opportunity to do that.
+
+Operator
+
+Your next question comes from the line of Chris Kuntarich with UBS.
+
+Christopher Kuntarich
+UBS Investment Bank, Research Division
+
+I want to ask on the Unity in-app payments initiative here. How should we be thinking about this from the perspective of an incremental monetization opportunity versus more of a value add for your customers?
+
+Matthew Bromberg
+CEO, President & Director
+
+Chris, thanks for the question. We're super excited about this opportunity. And there was again some news this morning in this space, which underlines just the trend that globally app stores are opening up all over the world as a consequence of legal challenges and other regulations and just the trends that we're seeing. And that, combined with the increase in mobile in-app purchase spending is really exciting. As we noted upfront, there's this enormous -- there's just an enormous opportunity for Unity to be able to deliver value to its developers to enable them to manage cross-platform multi-store their full catalogs and manage payment providers all natively from inside the engine that they're already using to build and operate their live service business.
+
+So this is something that we're really excited about it. It's something that as we spend time with customers, I think they're really excited about it. I saw a recent survey that said they thought more than 3/4 of game developers would incorporate alternative app stores into their business model in the next few years. I think that's maybe even undershooting what we're going to see. So it's a real opportunity for us to provide value.
+
+The product is completely free to our users. We'll collect a modest fee that's negotiated with the merchant of record, but that's not really what it's about for us. We do think though that over time, we'll be able to build new commerce products that deliver more value to the developers, and we'll be able to enhance this offering over time, and that can grow into a meaningful product opportunity for us.
+
+But more than anything, the point that we're hoping that folks will take away in our customer set is this is just a perfect example of the kind of product that only Unity can provide, natively, deeply integrated into the tool you already use. And it's, we hope, one big, but not the final step in enhancing our role as a platform across the entirety of the video game space; mobile, PC, ultimately console and to be there for developers and to help them in what's going to become an increasingly complex, more open world.
+
+Christopher Kuntarich
+UBS Investment Bank, Research Division
+
+Really appreciate that. Maybe just one follow-up. As we think about Vector and where it is bidding across various mediation solutions, you called out really strong scalability here. Is there any evidence that Vector is going out and bidding more into nonlevel play mediation solutions?
+
+Matthew Bromberg
+CEO, President & Director
+
+At a high level, Chris, I'd just say that we've seen that Vector is really competitive across all platforms, and we're seeing that continuing.
+
+Operator
+
+Your next question comes from the line of Vasily Karasyov with Cannonball.
+
+Vasily Karasyov
+Cannonball Research, LLC
+
+Congratulations. I wanted to ask for details on the Grow segment growth in Q3. Can you please tell us how the revenue from the solutions, excluding Unity Vector, did in the quarter? And what does the guidance -- your guidance for Q4 imply for that chunk of revenue? And also, if you could, how we should think about it longer term? Is it sequential growth, flat? What is like the rule of thumb for us to model it out?
+
+Matthew Bromberg
+CEO, President & Director
+
+Vasily, thank you for the question. We are not reporting breakdowns in the ad revenue number. So we really can't get into that. I would say that in general, we couldn't be more thrilled with the progress we're making across the entire segment. We're seeing really positive trends across all of our ad businesses, and we expect that number to grow over time. But beyond that, I don't think we want to comment too much.
+
+Operator
+
+Your next question comes from the line of Andrew Boone with Citizens.
+
+Andrew Boone
+Citizens JMP Securities, LLC, Research Division
+
+Matt, in your prepared comments, you spoke about empowering any creator, not just software developers. Can you flesh out that comment and help us understand kind of the bigger picture strategy and the product road map as generative AI becomes more impactful?
+
+And then, Jarrod, is there anything on the cost side that we should be aware of as we think about 2026? It sounds like you may have some opportunities here. What does that look like?
+
+Matthew Bromberg
+CEO, President & Director
+
+Yes, I'll take the first part, and Jarrod, you can follow up, and thank you very much for the question. Yes, here's what I was getting at. The DNA of Unity is around this -- has always been around this notion of democratization of game development. What that meant 20 years ago was we provided a set of tools and technologies and the platforms that enabled any software developer to be able to get into the games industry. And our dream was that like -- and that was impossible before because you could not -- unless you were a really big, scalable business, you couldn't invest in what was required to make that real.
+
+And the dream of the founders of Unity was one day, an individual sitting in his or her living room could build a game that millions of people could play. And that dream has become more than a reality. And that's sort of the thing that's at the beating heart of what we do.
+
+And what we're seeing in the kind of next turn of the wheel here is that AI technologies are going to allow us to make that game development process ever more accessible, which is going to impact not just our professional game developers, who are going to be able to build more efficiently and effectively. And as I mentioned, especially for the professionals, will give them additional cycles to create great things as they spend less time mired in the just kind of getting to the start line, which is a significant challenge for game developers. When you're launching a new game and you look at what else is in the market, you often think, okay, first, I have to build all the features and functionality that exists in the competitor games in the marketplace, and then I have to go figure out how to innovate on top. And you spend so much of your time in that initial piece that you often have not much time left for the innovation piece.
+
+And so we think for the professional developer, we're going to be able to provide tools that help them move more quickly through some of those routinized tasks and enable them to spend more time on the innovation piece. We think that's going to have a really important and already has had a really important impact on the marketplace.
+
+At the same time, this dream of democratization is going to become more accessible. Whereas before we were just hoping that we have software developers come game developers, I think what we're going to see is the Unity tools that we're going to provide are going to make it more and more accessible for nondevelopers and just regular content creators to be able to create interactive experiences as an initial matter, and then take those experiences as far as they want them to go inside the Unity ecosystem.
+
+What I was talking about in the remarks about interactivity is one of the things we have learned, I think, from years of building interactive applications is that engagement is the coin of the realm, engagement and time spent. And whenever creators are looking to enhance engagement and time spent, ultimately, they move to interactivity as the solution. Interactivity creates more engagement, creates more social interaction. It's what content creation ultimately is all about.
+
+So the combination of the democratization of the tools plus more interactivity across more different content types is something that we're really, really excited about, and we think we have a really important role to play.
+
+Jarrod Yahes
+CFO & Senior VP
+
+And just following up on the second part of your question, Andrew, on the cost side, we're excited about the progress we've made so far this year. EBITDA margins are up 200 basis points year-over-year and sequentially in the third quarter. They're up 400 basis points from the beginning of the year.
+
+What we've seen is operating leverage across the business, and we are blessed with extremely high gross margins. Gross margins at Unity are about 82%, 83%. Contribution margins are dramatically higher than that. There's a significant portion of our cost of goods sold that are actually fixed.
+
+What that really means for us looking forward into 2026 is that we can expect to benefit from the revenue growth that we expect in the form of significant operating leverage. If you look back over the last couple of years, we've had to battle against operating deleverage from the simplification and streamlining of our business. The opposite is going to happen looking forward in 2026. When you combine that operating leverage with cost discipline and our ability to leverage AI and automation to improve our business, we really think there's the potential to both expand margins and invest in some of the really important product initiatives that Matt has been laying out.
+
+We think there's a huge organic growth opportunity in our industry. We think we're really blessed with the assets that we have. I think when you think about elements like IP, when you think about collaboration, when you think about some of the data that we uniquely have access to, we think that we can expand the margins of the business while also significantly investing in the product opportunity, really resulting in a nice setup for 2026 from a margin perspective.
+
+Operator
+
+Your next question comes from the line of Dylan Becker with William Blair.
+
+Dylan Becker
+William Blair & Company L.L.C., Research Division
+
+Matt, maybe going back to the idea of in-app purchase monetization. I think the opportunity there is fairly clear. But wondering as well kind of the economics of that shift to a third-party payments provider, how that impacts your customers, the publishers, the studios themselves, right? Is that something that's going to be flowed through 100% to kind of their bottom line? Is that something that they're going to redeploy maybe lower ROAS threshold, maybe they accelerate content creation. It feels like there are other indirect ways that, that can be valuable and accretive to your business. Just wondering how you guys kind of think through the indirect opportunity there as well.
+
+Matthew Bromberg
+CEO, President & Director
+
+Yes. I think from the perspective of the developer, Dylan, the way to think about this is they're going to recapture some margin taking over more responsibility for their own commerce. But they're not going to recapture all that margin because there are things to do, right? To your point, they've got to be more responsible for processing payments, and they've got to do some promotion to potentially encourage customers to move to their commerce solution. So there are ways that both costs and promotional costs that chip away at that.
+
+Having said all that, there's meaningful money left over. And we have, I think, on prior calls, talked about the fact that we believe that a lot of that leftover margin is going to be turned into a fuel for growth. That's what companies do. If they can continue to buy ROAS positive advertising to drive growth, that's what they're going to do. And when your business gets more profitable, that's the first thing you're going to think about. And so we expect that to be, over time, I think, a real positive for us and for the industry as a whole, frankly.
+
+And then as we talked about on the commerce side itself, we're excited about the opportunity to be an open partner to the developer and to help the developer navigate what is going to be an increasingly complex hybrid world as it relates to commerce and transactions going forward.
+
+Operator
+
+Your next question comes from the line of Benjamin Black with Deutsche Bank.
+
+Benjamin Black
+Deutsche Bank AG, Research Division
+
+I'm curious, is there anything you're seeing in the performance of Vector and the Unity ad network today that may change your strategy to potentially go after the larger e-commerce or web-based advertising opportunity earlier?
+
+And then a follow-up on the runtime, just looking beyond data retrieval, what other steps are necessary for the data to be distilled, to be put to work? And when next year do you think we should start seeing sort of the early innings of the impact on the financials?
+
+Matthew Bromberg
+CEO, President & Director
+
+Ben, thanks for the question. I think over the long term, we're really bullish about the opportunities outside of gaming in the advertising space. We are primarily focused on the gaming market. It's what we know best. We think it's what's most valuable for our customers and our partners. But we are mindful of the opportunity over time.
+
+As I think we've shared before, our first foray into non-gaming revenue is more associated with programmatic advertising. And we're excited about the opportunity in programmatic. We think we can create a more efficient, really transparent path for brands to bid on mobile gaming ad opportunities and to enrich that path with additional data that they have not had before to create better outcomes. Programmatic ads is something like a $700 billion in ad spend in 2026 is a projection. So there are real opportunities, and we think that spend is going to move more from the traditional open web into other environments like CTV and retail media. And we think with the scale that we're operating in, combined with the privacy safe way that we can help advertisers access the mobile customer, we think there's a real opportunity here. We made a really big hire in this space last month. We launched a product we call the Audience Hub, which is kind of our first foray into helping brands of all types reach this new audience. And we've recently seen that campaigns powered by our Audience Hub are delivering meaningful lifts in engagement rates.
+
+So we're pretty excited about that in non-gaming. And then we'll think about e-commerce potentially next, but it's not something that's really close in for us.
+
+Benjamin Black
+Deutsche Bank AG, Research Division
+
+The question on runtime?
+
+Matthew Bromberg
+CEO, President & Director
+
+I'm sorry, go ahead. If you want to -- you want to reiterate? Or I can...
+
+Benjamin Black
+Deutsche Bank AG, Research Division
+
+Yes, go ahead.
+
+Matthew Bromberg
+CEO, President & Director
+
+Listen, as I said, the runtime opportunity is going to be meaningful for us. We think it's unique to Unity. And it is something that is -- it's not a science project. It's -- although it is a little bit of a science project, but it is an applied science project. And it's one that we're working really diligently on, and we're really, really pleased with the progress we see.
+
+And we're very bullish on the idea at a high level that one of the things that makes Unity really interesting, by the way, in all parts of our business is that kind of unique among both gaming platforms, but also app platforms, we are operating horizontally, tens of thousands, hundreds of thousands of applications that are connected by our runtime, billions of consumers, and the opportunity to understand and help our customers -- our developer customers understand the game player customer, the app user customers better and to help make user acquisition more efficient, we think, is an extraordinary one.
+
+Operator
+
+Your next question comes from the line of Eric Sheridan with Goldman Sachs.
+
+Eric Sheridan
+Goldman Sachs Group, Inc., Research Division
+
+Maybe ask one bigger picture one, and then I'll bring it back to the P&L. When you think about the scope to apply greater and increased levels of compute capacity to your business over the next 3 to 5 years, how do you think about your line of sight into that capacity and the step function changes that increased compute could actually lead to in terms of second and third derivative order effects of how the business could scale and grow in the years ahead?
+
+And the second part would be, with that potential on the revenue side, how do you think about any offsetting impacts on margin as compute capacity also scales as well?
+
+Matthew Bromberg
+CEO, President & Director
+
+Thanks for the question, Eric. I think what's exciting about our business is that we see opportunities on all sides of that. As the cost of compute goes down and we become more efficient, despite the fact that we will do -- our business will grow, especially on the Grow side, we believe over time that as a percentage of the cost of our cloud costs are going to continue to go down and the efficiency that will enable that. Even though we'll be working with ever greater quantums of data and even though we'll be working on increasingly more inference that, that ultimately is going to be a real positive for our business.
+
+At the same time, that trend is also going to be, we think, long-term positive for our Create business as we talked about, as the expansion of the number of creators who are building games and using Unity, who are increasingly using compute-intensive solutions to do that. again, as that efficiency continues to rise over time, we hope and expect that there will be no sort of friction to more and more people using our tools and platforms to build content, which we think is going to be great for our business.
+
+Jarrod Yahes
+CFO & Senior VP
+
+Yes. Eric, I would just add on to that, which is to say that cloud costs for Unity today are the second largest cost in our business. You would have seen that in the third quarter, our cost of revenue would have increased, and that's really directly in line with the very significant growth that we experienced in our Grow business. We are not afraid of building our business where it is computationally intensive for a period of time because what we found is that over time, we are able to make that consumption of compute much more efficient, much more effective.
+
+The cloud providers are doing a great job of driving efficiencies over time, reducing unit prices to us and our developers on our side are becoming much more effective and efficient in terms of the way that they are consuming compute, effectively commoditizing layers of compute on a very regular and recurring basis. So we're not afraid of getting more advanced in terms of the consumption that we use because we know that this is going to go down over time in terms of cost to serve.
+
+Operator
+
+Your next question comes from the line of Martin Yang with Oppenheimer.
+
+Martin Yang
+Oppenheimer & Co. Inc., Research Division
+
+I'm curious about your prepared remarks comment regarding China. Is there anything different that's happening in China where you see momentum? There are very unique aspects of the ecosystem in automotive and mini apps. Anything that worth elaborating on in China for our business?
+
+Matthew Bromberg
+CEO, President & Director
+
+Yes, there's actually a lot to elaborate on there. So Martin, thank you for the question. China has been a real bright spot for us. And it's no accident. Unity is the only platform that works seamlessly with all of the Chinese platforms, including Open Harmony, which is increasingly becoming the standard for mobile in China. So we have a really important and growing business there. As I think you know, China is the largest market for gaming in the world, I think, at this point and is growing really, really quickly. And we're really well positioned there on the gaming side, having been there for quite some time and again, having worked really hard and well to ensure that our technology is compatible and will be compatible over the long term. Lots of big hit games in the Chinese market are made with Unity.
+
+At the same time, on the industry side, Asia has been a real bright spot for us, particularly with respect to automotive, where the vast majority of the automakers in Asia are using Unity's technology for development of their in-dash experiences, for example. We've also had a lot of penetration in our industry team across more manufacturing businesses in China, lots of work around visualization of factory floors and the like. So China has been and we hope will continue to be a real bright spot for our business.
+
+Jarrod Yahes
+CFO & Senior VP
+
+Martin, I would just add to that. When you look at our Chinese revenue, which we do disclose, it's improved from 15% of revenue to 20% of revenue over the course of the past year. That's a pretty broad-based increase in terms of the revenue growth. So that is both impacting our Create business, which Matt outlined in detail. But what we're also seeing is publishers of Chinese games leverage Unity for global user acquisition. And as Unity Vector improves its efficacy, that is a global phenomenon, and we are seeing that growth in China take place across both Grow and across Create.
+
+We're also seeing that as Unity is delivering a quality product, our ability to enforce our intellectual property is resounding with clients. Customers understand that we're providing a high-quality product. They're paying for that high-quality product, and that's also resulting in strong growth in China and globally in Asia.
+
+Martin Yang
+Oppenheimer & Co. Inc., Research Division
+
+I have a follow-up on the publisher experience because the Unity engine in China is a bit different from the Unity engine elsewhere. How do the publishers use Unity ads differently as they're on a different engine? Is there anything unique about their experience?
+
+Matthew Bromberg
+CEO, President & Director
+
+No. From the ad perspective, it is pretty straightforward and for all important intents and purposes, the same.
+
+Operator
+
+Your next question comes from the line of Tom Champion with Piper Sandler.
+
+Thomas Champion
+Piper Sandler & Co., Research Division
+
+I just wanted to pick up on the last question related to China. It did look like a lot of the year-over-year growth on a dollar basis came from China. I'm just curious, Jarrod, maybe you said that was balanced across Create and Grow. But if we looked at growth on the Grow side on a geographic basis, would that look a little more balanced than maybe it does in aggregate? So that would be the first question.
+
+And then, Jarrod, I'm wondering if you could just touch a little bit on capital allocation. It seems like you've gotten awful lot of cash and really nice free cash flow generation here. What's kind of the thinking on capital allocation going forward?
+
+Matthew Bromberg
+CEO, President & Director
+
+Yes. Thank you for the question. I'll just make a brief comment, and then I'll pass it over to Jarrod. The revenue growth in Create really has 3 principal drivers in the third quarter. The first one was the impact, the ongoing impact of the price increases that we've had, which are beginning to roll through, now been a couple of quarters, so beginning to roll through the P&L and we'll continue to do so over the course of 2026. As you pointed out, growth in China is a meaningful piece. And then also more broadly, more generally outside of China, the growth in our industry business as well. And it's really those 3 that are driving the really positive results in Create.
+
+Jarrod Yahes
+CFO & Senior VP
+
+Yes. I think that's absolutely right. And I think when you look at -- we did talk about a very large customer win in the second quarter. So that's important to sort of call out with respect to China.
+
+You're correct on the capital side, Tom. I mean, we've been doing a great job in terms of generating cash. Cash has gone up by just about $0.5 billion over the course of the past year. Some small component of that is from financing and the refinancing transaction we undertook in February, but the vast majority of that is cash flow from operations and really high free cash flow conversion on EBITDA.
+
+Look, from a business perspective, what we're doing right now is focusing very sharply. We think that there are product opportunities that are organic to our business, that really require our full attention. We do have some refinancings prospectively that we will undertake and some converts that are coming due, but there's nothing we need to do in terms of additional capital raise to meet those obligations. And I think we are going to absolutely be keeping our eyes out for potential acquisition opportunities, but there's a very high threshold and a very high hurdle for us in consideration of the strong product opportunities and organic growth opportunities that we're seeing in front of us.
+
+So thrilled with the cash generation. I'm going to be very savvy with respect to how we think about that capital so as not to distract us from what we think is an improving and really attractive organic growth opportunity in front of us.
+
+Operator
+
+Your final question comes from the line of Clark Lampen with BTIG.
+
+William Lampen
+BTIG, LLC, Research Division
+
+We've dug into a lot of sort of very specific things on the product side and sort of Unity specific. Maybe if we pull back and sort of talk about the mobile market for a second, I wanted to see if you guys could provide some perspective on the way that products like Vector and what some of your peers have released are really impacting the market and developer spend. It sounds like financing companies are stepping in to sort of provide more ubiquitous capital to the market. Are we in a phase right now where you think the market is improving, capturing momentum and that's likely to continue into 2026. Maybe help us think about, I guess, the sort of systematic backdrop and how that's improving alongside the product work you're doing.
+
+Matthew Bromberg
+CEO, President & Director
+
+You bet. Thank you for the question, Clark. We're really bullish on the growth of the games business as a whole, not just the mobile business, which we feel really good about and we think is going to grow, but also the business as a whole. And I know there has been certain kind of targeted spots of difficulty in this market. I believe that we are at a fascinating mode of kind of creative destruction in which the games business is resetting and reimagining itself, but it's going to do that in the context of growth.
+
+And as I talked about upfront, the explosion of really amazing new games, which we're already seeing, which is going to accelerate markedly in the months and years ahead is going to put the importance of AI-driven discovery ever more in the forefront. So to the extent that we can help developers sort through and publishers sort through what is a difficult market from their perspective because there's going to be so much more content and it's going to continue to be more and more competitive. It's a very competitive marketplace. So we think we have a role to play in helping our customers take advantage of that growing pie by providing them better and more effective and more efficient tools, both to acquire new customers, but also to better manage the customers they have, which is why we're so excited about where we sit in the games industry right now.
+
+Everybody is -- most of the other participants in the games business are very vertically focused on one kind of game or on one platform or one set of devices. We exist horizontally across all of them. And our only interest is in doing everything we can to make sure the ecosystem is healthy and that developers can continue to build their businesses. And we're able to help them across the entire life cycle of their businesses from prototyping games through operating those games in live service, figuring out how to optimize revenue and engagement of the games that they're operating on an ongoing basis and then helping them acquire new users.
+
+And to the extent all those activities become increasingly driven by AI and increasingly driven by an understanding of consumer behavior, the fact that the pieces of what we offer are tied tightly together around those 2 things is going to be really meaningful for us over time. And so we're really excited both about the growth of the market and the role we think we have to play in it.
+
+William Lampen
+BTIG, LLC, Research Division
+
+Okay. And if I may ask, I guess, just a very quick sort of Vector-related follow-up. In prior quarters, you talked about sort of returns dispersion between your customers and some experiencing sort of better performance than others. Has that narrowed of late? Are you seeing sort of a tighter band right now and sort of higher ROAS on average for all customers? Or is it sort of maybe moving in the other direction and we should think about growth being driven by a smaller handful maybe of larger customers that are leaning into this a lot more aggressively. I'm just curious, I guess, how that's sort of evolved and what you've seen.
+
+Matthew Bromberg
+CEO, President & Director
+
+You bet. No, we are seeing broad-based improvement across all of our customer sets, small and big geography, genre, the improvements are really quite broad-based.
+
+Operator
+
+This concludes the question-and-answer session. I will now turn the call back to Alex for closing remarks.
+
+Alex Giaimo
+Head of Investor Relations
+
+Thanks, everyone, for joining. We look forward to connecting throughout the quarter. Have a great day.
+

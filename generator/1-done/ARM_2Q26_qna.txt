@@ -1,0 +1,246 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] And your first question today comes from the line of Sebastien Naji from William Blair.
+
+Sebastien Cyrus Naji
+William Blair & Company L.L.C., Research Division
+
+Congrats on the nice results. Rene, I wanted to ask about the AI opportunity. There's been a seemingly nonstop stream of new data center deals announced over the last quarter, calling for tens of gigawatts of additional computing capacity to be stood up.
+
+How do you feel about Arm's strategic positioning with respect to these AI deals? And what do you view as the opportunity across the build-out?
+
+Rene Haas
+CEO & Director
+
+Thank you for the question, Sebastien. As a Board member of SoftBank and also given our heavy involvement there with Stargate and regular dialog with OpenAI, I believe I have a unique perspective in terms of visibility in terms of this market.
+
+One thing that's become quite evident is that power has become the bottleneck for everyone and power not only means access to energy, but everything underneath it in terms of infrastructure build-out, turbines, transformers, everything associated with generating power.
+
+So in that environment, everyone wants to move to the most efficient compute platform as possible. Arm is about 50% more efficient than competitive solutions. We've seen that across the board in benchmarks, but also more importantly, in real-life performance. And that's why we see NVIDIA, Amazon, Google, Microsoft, Tesla, all using Arm-based technology.
+
+We see an unprecedented demand for compute and all the incremental compute that we've seen announced literally has all been based on Arm. So that's driving huge growth opportunity for us, and it's one of the indicators as to why we've seen such growth in our Neoverse business more than doubling year-over-year.
+
+Operator
+
+Your next question comes from the line of Joe Quatrochi from Wells Fargo.
+
+Joseph Quatrochi
+Wells Fargo Securities, LLC, Research Division
+
+I noticed in the filing you announced your intention to acquire DreamBig Semiconductor. Curious just kind of what's behind that? And how does that kind of fold into your plans to potentially expand beyond your current kind of offering platform?
+
+Rene Haas
+CEO & Director
+
+Yes. Thank you for the question. So DreamBig is a great company. They've got a lot of interesting intellectual property particularly around the Ethernet area and already make controllers, which are very, very key for scale-up and scale-out networking.
+
+So when we look at the demand for what's going on inside the data center and particularly in the area of high-speed communications, that type of technology will be very helpful for us to broaden our offering to end customers. So we're very excited about the company and DreamBig has got some fantastic engineers.
+
+Operator
+
+Your next question comes from the line of Jim Schneider from Goldman Sachs.
+
+James Schneider
+Goldman Sachs Group, Inc., Research Division
+
+I noticed in your disclosures that you saw a material step-up in related party revenue. So I was wondering if you could maybe talk a little bit about -- there's also been many announcements related to Stargate and SoftBank since the last earnings call. Can you maybe give us any kind of color you can on the nature of that relationship and how things are changing in terms of design activities?
+
+Rene Haas
+CEO & Director
+
+So one of the ways to think about Stargate and particularly given the relationship between Arm and SoftBank is a huge opportunity for Arm to partner with SoftBank and SoftBank's partners to provide technology into all those solutions.
+
+So without getting into too many of the specifics, but at a high level, if you think about what's associated with building out these data centers, you have the compute, obviously, you have the networking, you have everything associated with power distribution, you have a potential technology that gets into the power mechanism of the data center and then everything associated with even potential assembly of the data center.
+
+So as a result of all the work that SoftBank and the SoftBank family of companies are doing, it provides huge opportunity for Arm to provide solutions into that space. So that, at a high level, is the way to think about how the SoftBank family works together on these designs.
+
+Operator
+
+Your next question comes from the line of Ross Seymore from Deutsche Bank.
+
+Ross Seymore
+Deutsche Bank AG, Research Division
+
+I wanted to go back to the OpEx side of things. I know it was a little bit below your guide in the second quarter, but the fourth -- third quarter looks like it's going to step up again.
+
+Kind of a bigger picture one. You mentioned about exploring different sorts of go-to-market methodologies, chiplets, et cetera. When do you expect to give us more color on when that's going to go from exploration to return on investment or the actual strategy, how should we monitor that and expect to get more information from you?
+
+Rene Haas
+CEO & Director
+
+Yes. Thank you for asking. The best detail I can give you is there's nothing I can talk to you about today in terms of time line, about products or technologies. When the time comes for us to announce it, you'll be the first to know in terms of what we're doing.
+
+Right now, the best commentary I can give is that everything associated with those solutions does require a significant level of R&D. Now as you've seen on the guidance going forward, our revenue go forward is higher than our OpEx increase, which is something we've been very careful to manage. So we feel comfortable about that.
+
+But at the same time, what we're looking at in terms of the opportunity for compute and more importantly, compute using Arm has never been greater. So as a result, we want to make sure we're in the best position possible to capture it. We're looking at all possibilities in terms of how to do that. And when we're ready to talk about what that is, we will certainly advise.
+
+Jason Child
+Executive VP & CFO
+
+The only thing I would add is, I think last quarter, we said, as soon as the way we think about when we announce something, if it were to be something related to full SoCs, it would be once there's tape-out, once there's samples back and once there's actually noncancelable customer orders, when we achieve all 3 of those milestones, that's when we would probably talk about something because this would be a new business and something we haven't done before. So whenever those milestones are achieved, that's when you should expect to hear from us.
+
+Operator
+
+Your next question comes from the line of Vivek Arya from Bank of America.
+
+Vivek Arya
+BofA Securities, Research Division
+
+I just wanted to clarify how much was the SoftBank contribution in Q2 versus what you thought? And then what is baked in for Q3 and hopefully, if you have the number for Q4?
+
+And the real question is how long can this quarterly rate persist? And if you do move into physical chips or chiplets or any other products as part of target, does it start to cannibalize this licensing stream?
+
+Jason Child
+Executive VP & CFO
+
+Yes. So thanks for the question. In terms of the impact, it was about a $50 million increase from last quarter. So last quarter, we think we were about $126 million. It actually went up $52 million, so now about $178 million. and that's a good run rate to assume going forward.
+
+The only way it would change is if we have any additional deals. And again, these are license plus design services. So think of it as being licenses to our IP to work with SoftBank on exploring solutions. But then think of the design services being effectively a kind of a funded R&D model. And so that's a lower margin revenue, of course.
+
+So these -- in terms of how long these revenue streams will occur, we're not at liberty to say yet, but I would say, as Rene said, at some point, probably in the next year or so, you'll hear us talk about what products those might be. But obviously, that's not just up to us. It's when SoftBank is ready to talk about what these products could look like and what the revenue profile, et cetera, is.
+
+And so when that would occur, it's likely to assume that there would be some different revenue source, whether it's royalties or gross revenue from selling a chip if in fact, it's a full SoC. Those are all things that are still to be worked out. And yes, I would think of that as being, to some extent, cannibalistic of whatever the current license and design services.
+
+But then, of course, if there is a product, you could also assume there could be successive generations of products after that, in which case you could stack royalty between license and design services. But then, of course, there could also be royalties or whatever the revenue relates to whatever the product that ships in market is.
+
+So I would think of it as very much durable revenue, in that I think if SoftBank wasn't a related party, we would just be booking license and design services, and it wouldn't be a related party, but then the numbers would be pretty similar. And so the fact that the related party I think is probably what makes it look somewhat unique. But the reality is we also, as Rene already mentioned, this is not really just between us and SoftBank. They also have contracts with many others, OpenAI, other Stargate partners as well. So I would think of this as all being part of a larger effort.
+
+Operator
+
+Your next question comes from the line of Timm Schulze-Melander from Rothschild & Co Redburn.
+
+Timm Schulze-Melander
+Rothschild & Co Redburn, Research Division
+
+I had 2, please. Just following on, on the Stargate theme and the sites. Can you maybe just talk about the shape of what that revenue opportunity looks like on a sort of 1-, 3- and 5-year view just kind of when it's going to start having an influence on the revenue -- the annual revenue or quarterly revenue of the business?
+
+And then my second question was, just to make sure, I wasn't sure I caught it right. You talked about the Lumex CSS. I think that's a product that you launched in September, but I think you also said that you already have royalty revenues associated with that. If you could just maybe expand on that a little bit, that would be really helpful.
+
+Rene Haas
+CEO & Director
+
+Sure, sure. I'll take the first part of that question, and I'll let Jason take the second half.
+
+Without giving you kind of a go-forward forecast of 1, 3, 5 years, maybe a way to think about it is, back in January of this year, OpenAI with Oracle and SoftBank announced Stargate, which was a $500 billion project to build out data centers over the next number of years.
+
+When we go back to where we are now 11 months later, I would say the demand picture for compute is greater than it was at that time. So this is a bit of why you're seeing all kinds of different accelerated announcements around spend, et cetera, et cetera.
+
+So if nothing else, I think the opportunity for compute has only grown since we made that Stargate announcement. And to be clear, that announcement is around a joint partnership with OpenAI and SoftBank being equity partners in this investment for compute.
+
+So we are quite bullish in terms of this overall demand for compute. Right now, what is in the way of realizing that potential is all of the infrastructure required around the power. But from everything that we can tell from people we talk to inside the ecosystem, the demand for compute to train these new models, reinforcement learning to make them great and then inference to serve them, the demand opportunity is stronger than what we announced 11 months ago. So this is why we're accelerating all the investments that we talked about to take advantage of that opportunity.
+
+On the Lumex CSS royalty question, I'll let Jason answer that one.
+
+Jason Child
+Executive VP & CFO
+
+Yes. So I would say the licensee that's already actually -- that we're already receiving royalties from, that is, I'd say, earlier than expected. And the way -- because we just launched this in September, the way it's happened so quickly is this actually -- we're not able to say which partner it is, but it is a partner where this is not their first CSS, this is their second CSS.
+
+So as a result, there was already kind of close partnership on the first generation. And so then when we launched the next generation, because the teams have already been working pretty close to each other, it allowed that second generation to be adopted very quickly and for royalties to come really just within a couple of months after the technology was delivered.
+
+So kind of unusual, a little ahead of what we had expected, but it very much speaks to exactly why CSS has been more successful even than we thought when we launched it 2 years ago. It's really about speeding up time to market, and this is an excellent example of that occurring.
+
+Operator
+
+Your next question comes from the line of Harlan Sur from JPMorgan.
+
+Harlan Sur
+JPMorgan Chase & Co, Research Division
+
+Rene, you talked about Neoverse royalties growing 2x year-over-year with all these cloud-based CPUs ramping. And then on top of that, with these high-performance AI clusters, right, they're using more DPUs or SmartNICs that are also using Arm cores.
+
+On the networking side, data center switching and routing chips have multiple Arm cores embedded in them for things like telemetry, load balancing, overall system management.
+
+The bottom line is that there's significant Arm compute going into all aspects of the data center, right? We're also even seeing Arm taking over x86 in the service provider networking markets as well.
+
+So last fiscal year, cloud and networking accounted for about 10% of royalty revenues. We're midway through this fiscal year. Maybe you guys could just true us up, I assume, this mix has increased. Is it approaching 15%, 20% of total royalty revenues for the team? Any color here would be great.
+
+Rene Haas
+CEO & Director
+
+Yes. I'll let Jason address the numbers, but thank you for being a great salesman and describing our penetration across domains. You're 100% right. There's Arm technology in virtually every set of the networking stack. The BlueField technology at Mellanox, DPU-based, that's Arm. Significant technology goes into the switches around Tomahawk and Arista are all using Arm technology.
+
+So we are definitely seeing an acceleration of all that. And at the same time, I think the power efficiency piece is probably the biggest accelerant I think we're going to see just in terms of being able to offload as much as everything you can on to the more power-efficient domain of the compute platform.
+
+So I'll let Jason comment on royalties scheme in terms of where that is going directionally.
+
+Jason Child
+Executive VP & CFO
+
+Harlan, so on the royalties, yes, I mean, it ended the year at around 10-ish percent. And so we're certainly with the growth rate in infrastructure being double, I'd say, all the other categories in overall average royalty, you should expect it to continue to increase.
+
+We'll provide a full update at the end of the year. But your trajectory of somewhere in the 15% to 20% range is not a bad assumption and probably a reasonable expectation for where we expect to trend throughout the year.
+
+Rene Haas
+CEO & Director
+
+So I would say it's probably going faster than we expected a year ago.
+
+Operator
+
+Your next question comes from the line of Krish Sankar from TD Cowen.
+
+Sreekrishnan Sankarnarayanan
+TD Cowen, Research Division
+
+I have a question for Rene. Clearly, you kind of highlighted how you have strengthened smartphones and also increasing market share in data centers. I'm kind of curious, when you look over the next few years, how do you see chip demand and token generation playing out and its implication for Arm, especially as you move into more of an inference world where edge devices may play a bigger role?
+
+Rene Haas
+CEO & Director
+
+I think from some accounts of people who I talk to will say that today on some of these data centers, these build-outs of multi-hundred megawatts that still -- and again, depending on how you define training versus inference and reinforcement learning, majority of compute is being used for training still. That clearly will flip. Well, at some point, it has to, we think. And then that demand starts to move to inference.
+
+What we're seeing is all kinds of demand for different architectures and compute type of solutions to run inference not in the cloud. Obviously, you're going to not rely 100% on something on the edge. But today, it's the reverse. It's about 100% on the cloud. And we think that is going to change.
+
+We are seeing already lots of demand for the CPUs and Lumex that have these scalable matrix extensions, and these are the extensions that allow you to run AI workloads at higher performance. That's only going to continue.
+
+And I think for Arm, that is an enormous trend for us on 2 levels. Number one, huge trend for us because the further you move away from the cloud on to battery-level devices, that's a domain that Arm can play in, in the sense of the software workload running exclusively there. But at the same time, customers would love a scalable software solution between the cloud and the edge.
+
+And that's a lot of what's behind the announcement that we made with Meta in October. This is around working in such a way with Meta where whether they're running something in the cloud or running in the edge, for developers, they're able to port models in such a way that it's as efficient as possible no matter where you're running.
+
+So this is all, I think, a good thing for us because more tokens means more compute, more computes means more compute needed at the edge, and more compute at the edge is really good for us because that's a -- I think we're in a very, very unique position to address that.
+
+Operator
+
+We will now take our final question for today. And the final question comes from the line of Lee Simpson, Morgan Stanley.
+
+Lee Simpson
+Morgan Stanley, Research Division
+
+Well done everyone on a great quarter. I see China is maybe 22% of sales this Q. And I was just wondering what is driving that? Is it more licensing or royalties for strength in the quarter?
+
+And maybe just as you look at the licensing pipeline for the rest of the year, have you seen more reason to be confident in the growth this year for licensing, especially as you look to Q4, which, as I believe we said before, there's potential for good renewal deals this year.
+
+Jason Child
+Executive VP & CFO
+
+Thanks for the question, Lee. In terms of the China performance, yes, it definitely has done well. And I would just overall say the demand in China looks to be as strong as we've ever seen. We did have one of our largest license deals actually come out of China.
+
+And so I would say license was slightly more of a -- I'd say, more of the overperformance came from license. Royalties are also growing strong in China as well, but license was a little bit of a bigger driver this quarter. And our pipeline indicates that we have a pretty strong license pipeline for the remainder of the year.
+
+In terms of overall license revenue, hard to say as we get into Q4. There are some large deals as we always have. In terms of timing. Right now, we're just guiding on Q3. But next quarter, we'll definitely have much more clarity around what deals are going to be able to land in Q4 and whether there's any pull forward, pushouts or whatnot.
+
+But as a reminder, we don't -- the deal cycles on large license deals are usually 6 to 9 months, and we don't really lose deals. It's really just about what exactly are the market needs for customers and when do they need it. And given the certain -- the current CapEx kind of forecast and all the AI cycles that continue to be as strong as they've been for the last couple of years, I have a lot of confidence, but we'll give you a little more detail next quarter on what's going to land in Q4.
+
+Operator
+
+Thank you. That was our final question for today. I will now hand the call back to Rene for closing remarks.
+
+Rene Haas
+CEO & Director
+
+Thank you, and thank you, everyone for the questions. As we stated, we could not be more happy with the results last quarter. Royalties at a record, 34% growth year-on-year, just terrific results.
+
+But more importantly, when we think about the opportunity for Arm going forward, the future has never been brighter because if we look at what's going on with artificial intelligence, artificial intelligence is driving unprecedented demand for compute.
+
+And given the unprecedented demand for compute, we are seeing all kinds of constraints on power and infrastructure to deliver that compute, which means that the compute that's being delivered for AI needs to be as efficient as possible. That's also a great place for Arm.
+
+And then as more and more of this AI compute moves from the cloud to edge devices and requires the most efficient compute on the planet, that's a great place for Arm, too.
+
+So we are extremely excited about the future going forward. We continue to invest to ensure that we can take advantage of that opportunity. And on behalf of everyone inside Arm who made this quarter happen and to our partners and customers, thank you so much, and thank you for all the questions.
+
+Operator
+
+Thank you. This concludes today's conference call. Thank you for participating. You may now disconnect.

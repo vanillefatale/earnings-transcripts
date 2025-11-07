@@ -1,0 +1,206 @@
+Novo Nordisk A/S (NVO) Q3 2025 Earnings Call November 5, 2025 6:30 AM EST
+
+Company Participants
+
+Jacob Martin Rode - Head of Investor Relations
+Maziar Doustdar - President, CEO & Member of the Management Board
+Ludovic Helfgott - Executive VP of Product & Portfolio Strategy and Member of Management Board
+David Moore - Executive VP of US Operations & Member of Management Board
+Martin Lange - EVP of R&D, Chief Scientific Officer and Member of the Management Board
+Karsten Knudsen - Executive VP, CFO & Member of the Management Board
+
+Conference Call Participants
+
+Carsten Madsen - Danske Bank A/S, Research Division
+Peter Verdult - BNP Paribas, Research Division
+Florent Cespedes - Sanford C. Bernstein & Co., LLC., Research Division
+Martin Parkhoi - SEB, Research Division
+Sachin Jain - BofA Securities, Research Division
+Michael Nedelcovych - TD Cowen, Research Division
+Harry Sephton - UBS Investment Bank, Research Division
+Emmanuel Papadakis - Deutsche Bank AG, Research Division
+Richard Vosser - JPMorgan Chase & Co, Research Division
+James Quigley - Goldman Sachs Group, Inc., Research Division
+
+Presentation
+
+Operator
+
+Good day, and thank you for standing by. Welcome to the Q3 2025 Novo Nordisk Earnings Conference Call. [Operator Instructions] Please be advised that today's conference is being recorded.
+
+I would now like to hand the conference over to your first speaker today, Jacob Rode, Head of Investor Relations. Please, go ahead.
+
+Jacob Martin Rode
+Head of Investor Relations
+
+Thank you. Welcome to this Novo Nordisk Earnings Call for the First 9 Months of 2025. My name is Jacob Rode, and I'm the Head of Investor Relations. With me today are CEO of Novo Nordisk, Mike Doustdar; Executive Vice President, Product and Portfolio Strategy, Ludovic Helfgott; Executive Vice President, U.S. Operations, Dave Moore; Executive Vice President, Research and Development and Chief Scientific Officer, Martin Holst Lange; and Chief Financial Officer, Karsten Knudsen. All speakers will be available for the Q&A session.
+
+Please note that the call is being webcasted live, and a recording will be made available on our website as well. The call is scheduled to last a little more than 1 hour.
+
+Please turn to the next slide. The presentation is structured as outlined on Slide 2. Please note that all sales and operating profit growth statements will be at constant exchange rates unless otherwise specified.
+
+Next slide, please. We need to advise you that this call will contain forward-looking statements. These are subject to risks and uncertainties that could cause actual results to differ materially from expectations. For further information on risk factors, please see the company announcement for the first 9 months of 2025 as well as the slides prepared for this presentation.
+
+And with that, over to you, Mike, for an update on our strategic aspirations.
+
+Maziar Doustdar
+President, CEO & Member of the Management Board
+
+Thank you, Jacob. Next slide, please. In the first 9 months of 2025, we delivered 15% sales growth and 10% operating profit growth. We've also narrowed our guidance range to 8% to 11% on sales and 4% to 7% for operating profit. This is because we expect lower growth for our GLP-1 treatment in diabetes and obesity. Karsten will get back to the guidance update later in the call.
+
+Looking into the R&D in diabetes, Rybelsus is now approved in the U.S. and EU with CV indications based on the SOUL trial. Within obesity, and business development, we have progressed on a number of projects that Martin will come back to later. In rare disease, we have now submitted Mim8 for regulatory approval in both U.S. and EU. We're now serving around 46 million people living with diabetes and obesity. This is around 3 million more people with our GLP-1 treatment compared to just 12 months ago.
+
+Furthermore, I would like to note that 2025 strategic aspirations is our current framework for reporting, and we look forward to updating this next year as the current strategic aspiration runs out.
+
+Next slide, please. Since I became CEO, I have said several times that Novo Nordisk will sharpen its focus on core areas, specifically diabetes and obesity. I want to take a moment to explain how we have refined our strategy. For more than 100 years, we have been guided by a simple purpose: to identify and solve major unmet medical needs. This commitment is unchanged. There are many people who can benefit from expertise in diabetes and obesity, and we believe we can serve them better than anyone else. Going forward, we will concentrate on these areas where we can make the greatest difference.
+
+Our strategy begins with patients at the center of everything we will do. Way more than 1 billion people are affected by diabetes or obesity. We will work tirelessly to develop products that help them live healthier, fuller lives. Some of these products will be developed internally. Others will be added to our portfolio through partnerships and acquisitions. Many of these assets can address multiple unmet needs. We will explore those opportunities and expand indications where appropriate to serve our patients.
+
+Speaking of patients, it is a known fact that obesity and diabetes vary by individual and often comes with comorbidities that lack effective treatments. As with the Akero acquisition, Novo Nordisk will keep pursuing innovation with identification within research and then advancing those to development to address comorbidities within our core and the overlaps with those cores. We are now shaping our focus -- sharpening our focus.
+
+In the past, we spread our resources into areas a bit further away from our core. Think about stem cell research for Parkinson's disease. Therefore, during this last quarter, we have discontinued several noncore assets and redirected resources to areas aligned with our strength.
+
+We will intensify our commercial efforts to strengthen competitiveness. To meet evolving market dynamics and increasingly consumer-like behavior, we will, for example, expand telehealth capabilities across markets.
+
+In short, we remain disciplined about where we will compete within diabetes, obesity and related comorbidities in the years ahead. We will also continue our targeted research and commercial work in rare disease. And to support this strategy, we have launched a company-wide transformation, which I would like to give you an update on its progress right now.
+
+Please go to the next slide. We previously announced a company-wide transformation designed to simplify our operating model, accelerate decision-making and reallocate capital and resource towards the highest growth opportunities in diabetes and obesity. This program supports our strategy to capture rising global demand and strengthening our competitive position in the increasingly consumer-like obesity market.
+
+As part of the plan, we expect a reduction of approximately 9,000 positions globally. While this decision was not taken lightly, it is expected to drive approximately DKK 8 billion in annual savings by the end of 2026. Those savings will be redeployed to expand our diabetes and obesity franchises and fund strategic priorities.
+
+We recognize the human impact of these changes and remain committed to responsible transition for affected colleagues. At the same time, we're confident this transformation will increase operational efficiency and strengthen our long-term future and enhance return for our shareholders.
+
+I will now hand over to Ludovic for an update on our commercial execution for the first 9 months of 2025.
+
+Ludovic Helfgott
+Executive VP of Product & Portfolio Strategy and Member of Management Board
+
+Thank you very much, Mike, and please turn to the next slide.
+
+In the first 9 months of 2025, our total sales increased by 15%. The sales growth was driven by both operating units. U.S. operations grew 15% and international operations grew 16%. Sales growth in the first 9 months of 2025 was positively impacted by one-offs in the U.S. of around DKK 6 billion.
+
+Our GLP-1 sales in diabetes increased by 10%, driven by both operating units growing at the same rate. Insulin sales increased by 3%, driven by U.S. operations growing 18%. The sales increase was positively impacted by gross to net adjustments related to prior years as well as channel and payer mix. This was partially countered by a decline in volume.
+
+International operations sales decreased 2%. Obesity care sales increased 41%, driven by U.S. operations growing 24% and international operations growing 83%. Our rare disease sales increased by 13%. This was driven by sales increase in the U.S. of 14% and in international operations of 13%.
+
+Next slide, please. Sales in international operations grew by 16% in the first 9 months of 2025, driven by GLP-1 products. GLP-1 diabetes sales increased by 10%, driven by sales growth of Ozempic and Rybelsus. In Region China, GLP-1 diabetes sales decreased by 4%, which was negatively impacted by wholesaler inventory movements. Obesity care grew by 83% to DKK 22.4 billion. Sales of Wegovy reached approximately DKK 20 billion growing at 168%, driven by sales growth across all regions.
+
+Please go to next slide. In the combined diabetes and obesity GLP-1 market, Novo Nordisk remains the market leader in international operations with a volume market share of 68%. Rybelsus is now available in more than 40 countries, and Ozempic continues to be the leading GLP-1 diabetes product within international operations have been launched in around 80 countries.
+
+In obesity, Wegovy is now launched in more than 45 countries with more to come. Oral semaglutide 25-milligram or Wegovy in a pill has been submitted in the EU for potential launch in selected EU markets. The GLP-1 class growth of 35% in international operations is encouraging. And while competition in diabetes and obesity across international operations is intensifying, the unmet needs remain substantial.
+
+And with that, I would like to hand it over to Dave for an update on our U.S. operations.
+
+David Moore
+Executive VP of US Operations & Member of Management Board
+
+Thank you, Ludovic. Please go to the next slide. Sales of GLP-1 diabetes care products in the U.S. increased by 10% in the first 9 months of 2025. The sales increase was driven by continued uptake of Ozempic, partially countered by Victoza and Rybelsus. Ozempic sales in the U.S. were positively impacted by gross to net sales adjustments and wholesaler stocking. Weekly Ozempic prescriptions are currently around 670,000 in standard units compared to 690,000 standard units in the second quarter of 2025.
+
+The GLP-1 diabetes market grew around 10% in the third quarter of 2025 compared to the third quarter of 2024. In the U.S., we continue to invest in commercial activities and have recently launched Ozempic in our direct-to-patient cash offering.
+
+Please go to the next slide. Wegovy sales increased by 25% in the U.S. operations in the first 9 months of 2025. The Wegovy sales growth was driven by increased volumes, partially countered by lower realized prices. Wegovy has around 270,000 weekly prescriptions compared to 280,000 weekly prescriptions at the end of last quarter. In August, we announced that the U.S. FDA approved Wegovy for the treatment of MASH. In U.S. operations, we have established a sales force targeting U.S. hepatologists and gastroenterologists while we work to build access in this segment.
+
+Generally, we also continue to work on expanding access to safe and authentic Wegovy. Around 55 million people with obesity have Wegovy coverage in the U.S. with more than 10 million people estimated to be covered with Medicaid. However, looking into 2026, Several states have already announced changes to coverage for obesity medicines in response to budgetary concerns, which will affect Medicaid access to Wegovy.
+
+Regrettably, Novo Nordisk market research shows that compounding has continued to increase. Multiple entities continue to market and sell compounded GLP-1s and it is now estimated to be well above 1 million patients in the U.S. that are currently on compounded GLP-1. Novo Nordisk launched NovoCare Pharmacy in March of 2025 and together with retail channel, total cash market is up around 10% of total Wegovy prescriptions.
+
+Novo Nordisk will continue to invest in the expansion of direct-to-patient initiatives like the recently announced collaborations with GoodRx and Costco. We continue to anticipate a regulatory decision regarding Wegovy in a pill later this year, which then we will be ready to launch in early 2026.
+
+Now back to you, Ludovic.
+
+Ludovic Helfgott
+Executive VP of Product & Portfolio Strategy and Member of Management Board
+
+Thanks, Dave. Please turn to the next slide. Yesterday, we confirmed that we submitted an updated proposal to acquire Metsera to further strengthen our research and development portfolio in diabetes and obesity. As we said before, unlocking the full potential of the obesity market will require a broad and deep portfolio with different treatment options, formats, serving differentiation groups and their very different preferences. Obesity treatment is still in its early stage. And in Novo Nordisk, we foresee future patient segments that, for example, could be categorized based on BMI, age, gender, lifestyle behaviors and comorbidities.
+
+We believe that Metsera's innovative pipeline would further enhance our opportunity to meet all these very different needs of all these very different groups. MET-097 is a potential best-in-class once-monthly GLP-1 treatment and MET-233 is a next-generation amylin asset. The pipeline of Metsera also includes a combination of the 2 mentioned above as well as innovative oral and injectable preclinical assets.
+
+Furthermore, Metsera's institutional knowledge and capabilities around peptide engineering and synthesis, half-life extension technologies and oral peptide delivery nicely complements Novo Nordisk's core strength in research. The proposed deal structure includes an upfront payment of USD 62.2 per share in cash, equal to an approximate enterprise value of USD 6.7 billion.
+
+The cash consideration is paid at signing in exchange for nonvoting preferred stock, representing 50% of Metsera's shared capital. In addition, up to USD 2.8 billion in contingent value right CVRs will be issued upon the closing of the acquisition in exchange for the remaining shares. The CVRs are based on the achievement of certain clinical and regulatory milestones.
+
+In total, Metsera is eligible to receive up to USD 10 billion or USD 86.2 per share. Novo Nordisk believes that the proposal, including the structure of the transaction complies with all applicable laws and is in the best interest of patients, who will benefit from our commitment to innovation as well as Metsera's shareholders. The offer highlights Novo Nordisk's commitment to investing in the U.S. and interest in continuing to grow the scale of its U.S. investment.
+
+Now over to you, Martin.
+
+Martin Lange
+EVP of R&D, Chief Scientific Officer and Member of the Management Board
+
+Thank you, Ludovic. Please turn to the next slide. As Mike described, we are intensifying our focus on key therapeutic areas such as diabetes and obesity, while continuing our commitment to related comorbidities as well as rare disease. The strategy aligns with our recent acquisition agreements of Akero and Omeros' zaltenibart assets. In early October, we announced the agreement to acquire Akero's efruxifermin, a once-weekly subcutaneous long-acting FGF21 analog with potential to be first to market in F4 and best in class. Efruxifermin complements a strategic position in Novo Nordisk MASH pipeline.
+
+Current treatment options such as Wegovy, primarily target patients with F2 and F3 disease states. Consequently, there remains a significant unmet need in the F4 cirrhosis population, for which no approved therapies are currently available.
+
+The Phase II data for efruxifermin are encouraging across F2 to F4. Specifically, the SYMMETRY Phase IIb trial demonstrates that after 96 weeks of treatment, 29% of F4 patients show improvement of at least 1 fibrosis stage with no worsening of MASH and 42% achieved MASH resolution with fibrosis -- without fibrosis worsening. This is the first Phase II trial to show statistically significant fibrosis regression in F4 patients for an FGF21 analog.
+
+Efruxifermin is currently in the Phase III SYNCHRONY program with pivotal readouts in the coming years and expected launch by the end of this decade. As a result, efruxifermin has the potential to be first-in-class FGF21 analog targeting the F4 population as well as playing a role in F2 and F3 patients, including people who are not responsive to existing treatments.
+
+We look forward to leveraging our capabilities to further optimize the SYNCHRONY program trials, assess the potential combinations with our current GLP-1-based portfolio and explore opportunities for additional indications such as alcohol liver disease. Also in October, we announced the agreement to acquire the clinical stage MASP-3 inhibitor zaltenibart from Omeros for rare blood and kidney disorders. This action aligns with the rare disease strategy with a key focus on rare blood disorders.
+
+Zaltenibart is currently in Phase II for the acquired rare blood disease paroxysmal nocturnal hemoglobinuria or PNH. Plans are in place to begin a global Phase III program for zaltenibart in PNH. The molecule holds big potential in a number of additional indications within rare disease and kidney disorders, which will be evaluated at a later point in time.
+
+We believe our extensive expertise in the development, manufacturing and commercialization of medicines within these fields makes us well positioned to advance these assets, optimize the value of their innovation and ensure they reach the patients in need of these treatments in a very timely fashion.
+
+Please turn to the next slide. Looking towards our internal pipeline, we recently published a sub-analysis of REDEFINE 1, focusing on cagrilintide. In the trial, cagrilintide achieved 11.8% weight loss at 68 weeks, assuming full treatment adherence. About 1 in 3 patients on cagrilintide lost at least 15% of their body weight. Overall, cagrilintide was very well tolerated. The most common side effects were gastrointestinal of nature. And the discontinuation rate due to gastrointestinal adverse events was 1.3%.
+
+Obesity is a global challenge that requires continued scientific innovation. More treatment options also focusing on tolerability are needed to meet their diverse individual needs and preferences. We are very encouraged by the first Phase III data for cagrilintide from REDEFINE 1, and we look forward to studying it further in Phase III, the so-called RENEW program. RENEW 1 and RENEW 2 will assess the 2.4 milligram dose in people with obesity with and without type 2 diabetes, respectively. Both trials have already been initiated and additional studies evaluating higher doses of cagrilintide are anticipated in the beginning of first half of 2026.
+
+Please turn to the next slide. Turning to the upcoming R&D milestones. We're looking forward to the remainder of 2025 with a number of readouts and milestones. In the first half of 2026, we anticipate the readout of the REIMAGINE 3, which is the first of 3 pivotal trials for CagriSema and people with type 2 diabetes. REIMAGINE 3 is a smaller study with CagriSema as an add on to basal insulin. REIMAGINE 2 is the largest study, which will provide comparison to semaglutide and will read out in the first quarter of 2026. We also look forward to the Phase II results of the subcutaneous and oral amycretin in type 2 diabetes in Q4 this year.
+
+Within obesity, we completed the Phase I trial with our internal GLP-1/GIP/amylin triagonist. The study assessed the safety, tolerability, pharmacokinetics and pharmacodynamics of the triagonist in the trial. All multiple doses tested appear to have a safe and well-tolerated profile. The result of this study allowed progression to a Phase Ib/II trial in individuals with overweight obesity, which was initiated in October of 2025.
+
+Looking forward, we expect the FDA decision regarding the new drug application for the Wegovy pill by the end of this year. Further, the submission of CagriSema as well as the readout of the REDEFINE 4 trial remains on track for the first quarter of 2026.
+
+Within rare disease, we have filed Mim8 as once monthly, once every 2 weeks and once weekly prophylaxis treatment to prevent or reduce the frequency of bleeding episodes in people with hemophilia A with and without inhibitors for regulatory approval in the U.S. and in EU.
+
+Finally, we anticipate the results of the evoke trials in patients with early Alzheimer's disease later this year. While there are a number of high unmet need for the treatment of Alzheimer's disease, it is important to remind you that this represents a high-risk opportunity.
+
+And as the very final remark, while it is not on the slide, I would be remiss if I don't mention that the first readout of ziltivekimab is anticipated to read out in the second half of 2026.
+
+With that, over to you, Karsten.
+
+Karsten Knudsen
+Executive VP, CFO & Member of the Management Board
+
+Thank you, Martin. Please turn to the next slide. In the first 9 months of 2025, our sales grew by 12% in Danish kroner and by 15% at constant exchange rates, driven by both operating units.
+
+In the third quarter, DKK 9 billion in costs related to the restructuring was booked. The gross margin decreased to 81.0% compared to 84.6% in 2024. The decline in gross margin mainly reflects impact of around DKK 3 billion from the one-off restructuring costs and impairments related to a few production assets.
+
+Further cost of goods sold are impacted by amortization and depreciations related to Catalent as well as costs related to ongoing capacity expansions.
+
+Sales and distribution costs increased by 12% in Danish kroner and by 15% at constant exchange rates. The increase in costs is driven by both U.S. operations and international operations and is primarily related to Wegovy S&D costs are impacted by one-off restructuring costs of around DKK 2 billion.
+
+Research and development costs increased by 9% in Danish kroner and by 10% at constant exchange rates. This reflects increased R&D activity across the early and late-stage portfolio, particularly within obesity care. R&D costs are impacted by one-off restructuring costs of around DKK 4 billion and impairments related to the closure of early noncore projects to free up resources for projects in core therapy areas. This is partially countered by the impairment loss related to ocedurenone of DKK 5.7 billion and other impairments of intangible assets in 2024.
+
+Operating profit increased by 5% measured in Danish kroner and by 10% at constant exchange rates. Operating profit adjusted for costs related to the restructuring increased by 16% measured in Danish kroner and 21% at constant exchange rates. Net profit increased by 4% and diluted earnings per share increased by 4% to DKK 16.99.
+
+Free cash flow in the first 9 months of 2020 was DKK 63.9 billion compared to DKK 71.8 billion in the first 9 months of 2024, driven by increased capital expenditures. And finally, in the first 9 months of 2025, we have returned DKK 53 billion to shareholders, mainly through dividend payments.
+
+Please go to the next slide. For 2025, sales growth is now expected to be 8% to 11% at constant exchange rates. The new range reflects lower expectations for sales growth of our GLP-1 treatments in diabetes and obesity. Given the current exchange rate versus the Danish kroner, sales growth reported in Danish kroner is expected to be around 4 percentage points lower than constant exchange rate growth.
+
+In international operations, the updated outlook reflects current growth trends driven by GLP-1 penetration in diabetes and obesity, partially offset by intensifying competition within both diabetes and obesity. In U.S. operations, the outlook is based on current prescription trends for Wegovy and Ozempic as well as intensifying competition and pricing pressure within both diabetes and obesity.
+
+Operating profit is now expected to be 4% to 7% at constant exchange rates, negatively impacted by DKK 8 billion in restructuring costs. Given the current exchange rates versus Danish kroner, growth reported in Danish kroner is expected to be around 6 percentage points lower than at constant exchange rates. The narrowing of the guidance range mainly reflects the lower sales growth outlook and costs related to the agreed acquisition of Akero and Omeros, partially countered by reduced spending.
+
+Novo Nordisk expects net financial items to show a gain of around DKK 2.6 billion, driven by gains on hedged currencies, whereas capital expenditure is now expected to be around DKK 60 billion driven by adjustments to expansion plans.
+
+Free cash flow is now expected to be DKK 20 million to DKK 30 billion, reflecting lower-than-expected trade receivables in the U.S. and reduction in capital expenditure. Furthermore, the free cash flow guidance assumed an impact from the acquisition of Akero contingent on final timing of closing. Potential financial impacts related to the potential acquisition of Metsera has not been included.
+
+For the coming years, Novo Nordisk has previously informed that the compound patent expiry of semaglutide molecule in certain countries in international operations is expected to have an estimated negative low single-digit impact on global sales growth in 2026. In 2026, the agreed acquisition of Akero is expected to lead to increased R&D costs with an estimated negative impact on full-year operating profit growth of around 3 percentage points depending on the timing of closing.
+
+Lastly, Novo Nordisk accepted the Inflation Reduction Act maximum fair price, MFP, for Ozempic, Rybelsus and Wegovy in Medicare Part D for 2027. The estimated direct impact of semaglutide MFP in Medicare Part D had it been introduced first of January 2025, would have been a negative low single-digit impact on global sales growth for the full year of 2025. The MFPs for semaglutide will be effective as of 1st of January 2027 in Medicare Part D in the U.S.
+
+That covers the remaining details on the outlook for 2025. Now back to you, Mike.
+
+Maziar Doustdar
+President, CEO & Member of the Management Board
+
+Thank you, Karsten. Please turn to the next slide. It's been a busy and productive quarter. Throughout the first 9 months of 2025, we delivered 15% sales growth and nearly 46 million people are now benefiting from our treatments. We have also advanced our R&D pipeline, launched a company-wide transformation program and announced a few strategically aligned R&D acquisitions and agreements.
+
+With that, back to you, Jacob.
+
+Jacob Martin Rode
+Head of Investor Relations
+
+Thank you, Mike. Next slide, please. And with that, we are now ready for the Q&A, please. [Operator Instructions]
+
+So with that, operator, let's take the first question, please.

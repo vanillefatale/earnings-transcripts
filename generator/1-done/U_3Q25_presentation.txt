@@ -1,0 +1,104 @@
+Unity Software Inc. (U) Q3 2025 Earnings Call November 5, 2025 8:30 AM EST
+
+Company Participants
+
+Alex Giaimo - Head of Investor Relations
+Matthew Bromberg - CEO, President & Director
+Jarrod Yahes - CFO & Senior VP
+
+Conference Call Participants
+
+Matthew Cost - Morgan Stanley, Research Division
+Brent Thill - Jefferies LLC, Research Division
+Alec Brondolo - Wells Fargo Securities, LLC, Research Division
+Christopher Kuntarich - UBS Investment Bank, Research Division
+Vasily Karasyov - Cannonball Research, LLC
+Andrew Boone - Citizens JMP Securities, LLC, Research Division
+Dylan Becker - William Blair & Company L.L.C., Research Division
+Benjamin Black - Deutsche Bank AG, Research Division
+Eric Sheridan - Goldman Sachs Group, Inc., Research Division
+Martin Yang - Oppenheimer & Co. Inc., Research Division
+Thomas Champion - Piper Sandler & Co., Research Division
+William Lampen - BTIG, LLC, Research Division
+
+Presentation
+
+Operator
+
+Ladies and gentlemen, thank you for joining us, and welcome to the Unity Technologies Q3 Earnings Call. [Operator Instructions]
+
+I will now hand the conference over to Alex Giaimo, Head of Investor Relations. Alex, please go ahead.
+
+Alex Giaimo
+Head of Investor Relations
+
+Thank you, Nicole. Good morning, everyone. Welcome to Unity's third quarter 2025 earnings call. Today, I'm pleased to be joined by our CEO, Matt Bromberg, and our CFO, Jarrod Yahes.
+
+Before we begin, I would note that today's discussion contains forward-looking statements, including statements about goals, business outlook, industry trends, expectations for future financial performance and similar items, all of which are subject to risks, uncertainties and assumptions. You can find more information about these risks in the Risk Factors section of our filings at sec.gov. Actual results may differ, and we take no obligation to revise or update any forward-looking statements.
+
+Finally, during today's meeting, we will discuss non-GAAP financial measures. These non-GAAP financial measures are in addition to and not a substitute for or superior to financial performance prepared in accordance with GAAP. A full reconciliation of GAAP to non-GAAP is available in our press release and on the sec.gov website.
+
+And with that, I'll hand it over to Matt.
+
+Matthew Bromberg
+CEO, President & Director
+
+Thanks, Alex, and good morning. On behalf of everyone at Unity from across the globe, I'd like to thank each of you for joining us today. On our last call, we posited that the second quarter of 2025 would ultimately be seen as an inflection point in Unity's trajectory, the moment where it became clear that the company was poised to deliver sustainable long-term growth in the years ahead. Today, with the third quarter now behind us, it's clear that's precisely what was happening.
+
+In Q3, Unity showed strength across both our Grow and Create segments, driving results that once again meaningfully exceeded both our guidance and consensus for both revenue and adjusted EBITDA, including an 11% quarter-over-quarter lift in our Grow segment, driven by Vector AI.
+
+Progress in the Create segment has been equally exciting. After backing out the impact of nonstrategic revenue, our Create subscription software business increased 13% year-over-year, reflecting the fundamental improvements we've made in both the quality of our product and the connection we have with our customers.
+
+But this inflection point we're referencing is about so much more than just the financial results we're reporting because in the new Unity, we're not choosing between execution and vision. We need to achieve both. The video game industry has already overtaken Hollywood, music and linear video combined in scale. We believe social media and short-form video are the next targets. As consumers increasingly demand that their entertainment be interactive in nature and creators search relentlessly for ways to increase engagement and time spent, all roads lead to gaming as the solution.
+
+Unity has always been about democratizing access to technology. We aim to give every software developer the tools and the platform to become a game developer. That's in our DNA. Advancements in artificial intelligence will enable us to enhance and extend this mission. Soon Unity Software will empower any creator, not just any software developer, to build interactive experiences. We believe this new form of democratization will not only spark an unprecedented explosion of content creation and more time spent in games, it will also make user acquisition and personalized discovery through Unity Vector more vital than ever. Players will have more choices about how and where to play than at any other point in history with Unity uniquely positioned at the intersection of the creation, discovery and monetization of those games, all powered by Vector AI.
+
+For the most talented segment of developers, this increase in the efficiency of content creation won't just be about making more content; it will mean making more time, more time to build something truly different and great as the basic game elements increasingly become just table stakes. We believe the real metric for the skilled game developers of the future won't be time to market, it will be time to innovation. How long did it take not just to complete the basic requirements, but to ship something that changes the nature of the art. And Unity will continue to be the bridge between that creativity and the players who turn it into the next global phenomenon.
+
+For now, let's dive a little more deeply into some of the product improvements we delivered in the quarter. During Q3, we continued to make rapid fundamental advancements in Unity Vector, delivering stronger returns for our customers. These performance gains are broad-based, spanning client size, geography, operating system and genre. As we continue to ingest higher-quality signals and refine our models, Vector will keep learning, driving sustainable, healthy revenue growth well into the future.
+
+We expect these efforts to be further enhanced by the highly differentiated behavioral data available through our runtime, which should begin having a financial impact in 2026.
+
+In August, we rolled out the Developer Data Framework, a unified system featuring dashboards that allow our customers to control how data is collected, shared and used in the production and operation of the interactive applications they build with Unity. This framework is designed to enable developers to unlock the power of the runtime to better diagnose problems and to optimize the experiences they offer their players. We are pleased to report that over 90% of new projects built with Unity 6.2 are now utilizing the new Developer Data Framework.
+
+In October, we announced our expansion into cross-platform commerce with Unity IAP, enabling developers to manage their entire global commerce and catalog from a single dashboard within Unity. The scale of this opportunity is meaningful. Each year, more than $120 billion of in-app purchases are made in mobile gaming alone. The majority of these purchases are taking place in a made with Unity game. As the gaming ecosystem continues to open beyond the traditional app stores, providing developers with a central Unity-native commerce capability is a big win for our customers in the ecosystem.
+
+Alongside our announced partnership with Stripe, we also recently entered into a new partnership with Coda and are in active discussions with several other payment providers.
+
+With the Unity Engine and runtime at the core and our industry-leading distribution, we are uniquely positioned to help developers capture value from the generational platform shifts that are taking place. And we'll help them drive success through accessible, open, easily integrated commerce solutions. That's just the first step for us. Over time, you'll see us take every opportunity we can to provide content creators with the trusted, open, developer-friendly platform they need to develop, deploy and grow interactive entertainment.
+
+The increased velocity of our product release cadence is occurring against the backdrop of steadily improved quality, stability and performance of the Unity engine. Since the launch of Unity 6, customer reported issues are 22% less frequent. And with enhanced quality and features, we're seeing significant continued momentum and adoption. Unity 6 has now registered over 9.4 million downloads, a 42% increase from just last quarter.
+
+Developers of all sizes are using Unity to create many of the most popular games in the industry. In the last few months, we've seen a meaningful increase in high-quality Unity games hitting the charts from developers of previously modest scale. PEAK, a co-op climbing adventure game built by just a handful of developers in a few weeks, has sold well over 10 million copies worldwide since its launch in June. Megabonk just became one of the most played games on Steam of all time. Schedule I, a made with Unity game created by a single incredibly talented developer is one of the highest revenue-generating games over the last 6 months. Kenny Son and friends' BALL x PIT sold over 300,000 copies in its first 5 days, all made with Unity, all made with very modest-sized teams. This is the dream that Unity lives to serve. And each week, we're seeing new breakout hits like these. This is not an outlier. It's a trend.
+
+Before passing the mic to Jarrod, I do want to take a moment to highlight the advancements we're making with respect to emerging technologies like extended and augmented reality. We recently announced day 1 support for Android XR in close collaboration with Google and Samsung. This initiative enables teams across gaming, education, entertainment and enterprise to quickly build new games and apps or port existing Unity apps to the Android XR ecosystem. With shipments of AR and VR headsets expected to grow 39% in 2025, this is an area where we're fully leaning in and will ensure that Unity has the capabilities in place to support robust industry growth.
+
+And finally, we're incredibly excited to connect with thousands of creators and industry professionals at our upcoming user conference, which we call Unite, just 2 weeks from now in Barcelona. Unite offers us an opportunity to celebrate and showcase the incredible talent and success of Unity creators as well as to highlight some of the exciting new Unity products that are going to be pivotal to our vision and the future of gaming.
+
+Thank you again for your time and attention this morning, as always. With that, I'll pass over to Jarrod for an overview of our financial performance. Jarrod?
+
+Jarrod Yahes
+CFO & Senior VP
+
+Thanks, Matt, and good morning, everyone. The inflection in Unity's business we spoke about last quarter is rapidly translating into faster revenue growth and improved profitability. In the third quarter itself, we added $30 million of high-margin incremental Grow revenue on a sequential basis, resulting in $19 million of additional adjusted EBITDA, well in excess of the top end of our guidance range. Grow revenue in the third quarter was $318 million, up 11% sequentially and up 6% year-over-year. Revenue upside compared to our guidance was driven by the exceptional performance of Vector, which drove further acceleration of the Unity ad network even when compared to the rapid sequential growth we saw last quarter. We are proud of the turnaround in our Grow business, sparked by the launch of Unity Vector, and we're confident that this business will continue to grow strongly into the future.
+
+In Create, revenue was $152 million, up 3% year-over-year. As a reminder, we lapped $12 million in nonstrategic Create revenue from the third quarter of 2024 and $12 million of revenue from a large customer win recorded in the second quarter of 2025. Excluding the impact of nonstrategic revenue, our Create business grew 13% year-over-year, powered by strength in our subscription business. Growth was driven by ARPU improvements from ongoing price increases and continued momentum in China, which has been an extremely bright spot for us in 2025.
+
+Turning from revenue to non-GAAP profitability. Adjusted EBITDA for the quarter was $109 million, representing 23% margins, an improvement of 200 basis points year-over-year and versus the second quarter as both sales and marketing and G&A costs came down as a percentage of revenues. As a team, we're executing steadily around operating expense reduction opportunities, maintaining our cost discipline and increasingly leveraging automation and AI.
+
+Over a multiyear time horizon, we believe Unity has the potential for dramatically higher margins driven by extremely high flow-through contribution margins, combined with operating leverage resulting from faster revenue growth.
+
+Unity had record free cash flow in the third quarter of $151 million, representing an improvement of $36 million year-over-year. This represents our second straight quarter of record free cash flow, showcasing the success of the restructuring efforts we have taken over the last 2 years. While there are always quarterly movements due to working capital, investors should expect Unity to continue to convert an extremely high percentage of our adjusted EBITDA to free cash flow, highlighting the cash flow generative nature of our business. Our balance sheet remains strong with cash of $1.9 billion and convertible debt of $2.2 billion.
+
+With that, I'd now like to turn to guidance for the fourth quarter. We're expecting total fourth quarter revenues of $480 million to $490 million and adjusted EBITDA of $110 million to $115 million. In Grow, we're forecasting mid-single-digit sequential revenue growth. We expect Vector to continue to drive strong performance while also experiencing benefits from work we've done to leverage Vector in other Grow products.
+
+In Create, we're forecasting steady revenue growth. Excluding the impact of nonstrategic revenue, our guidance assumes high single-digit year-over-year revenue growth driven by continued strength in our subscription business.
+
+We expect adjusted EBITDA margins to remain stable in the fourth quarter. While revenue growth remains strong and flow-through margins highly attractive, we have some known expense items in the fourth quarter, including Unite, our global user conference. We are also seeing outperformance in Create bookings, resulting in end-of-year accelerators for Unity's sales force.
+
+With that, I'd like to thank you for joining us on Unity's third quarter 2025 conference call. Let me now turn the call over to Alex so that we can take your questions.
+
+Alex Giaimo
+Head of Investor Relations
+
+Thanks, Jarrod. Nicole, I'll hand it to you for questions.
