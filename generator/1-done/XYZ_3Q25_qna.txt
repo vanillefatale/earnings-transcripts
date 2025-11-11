@@ -1,0 +1,403 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions]
+
+And our first question comes from the line of Tien-Tsin Huang with JPMorgan.
+
+Tien-Tsin Huang
+JPMorgan Chase & Co, Research Division
+
+Appreciate it. It's nice to have Nick and Owen on the call. So I'll ask, Owen, the question, if that's okay. I've heard Owen you talk about Cash App actives growth and [indiscernible] on that topic, I know Jack's been pushing towards network density overall. So can you just give us a progress report on that now? When might we see an inflection in network growth, given some of the investments you're making?
+
+Owen Jennings
+Business Lead
+
+Sure. Thanks so much for the question. We're really happy with where we landed in September. We've made some pretty massive progress here over the past few months.
+
+And of course, we still have a lot of work to do, and we see a lot of opportunity ahead. So we reported the 58 million number for September. But the underlying trends are strong as well.
+
+So what we've seen is an acceleration in year-over-year growth for monthly actives since we declared this a top priority at Block and at Cash App. And we actually saw that acceleration in year-over-year growth for monthly actives again in October, which is great.
+
+I guess stepping back, how we think about growing monthly actives overall is there's really 2 pieces. First, there's net new acquisition for new customers who haven't used Cash App before and then also engagement is a key piece of the equation as we can increase engagement and drive quarterly actives or annual actives to increasingly become monthly active, weekly active, daily active. And so that's really how we've been approaching it.
+
+Some of the key focus areas on the development side have been, first, what we call network enhancements, which is basically just looking at our core flows and making sure that it's simple and easy for customers to successfully use our app and complete transactions.
+
+On the multiplayer money side, this has been 1 of our key focuses. I know you all saw the launch of pools. We saw 1 million pools created through the end of September and then now 1.5 million pools created through the end of October. And we're really continuing to invest here, not just in pools, but just how we think about social primitives and what we can build to allow our customers to connect with one another and that drives meaningful engagement.
+
+And then third is probably on the teens and family side. We continue to invest here. We've achieved massive scale on the teens and family side, we have 5 million monthly active teen accounts that are using Cash App, and we continue to invest to serve them. A couple of weeks ago, we've launched high-yield savings for our teen customers, and we're going to continue building, both for teens and for parents.
+
+And then I would say more broadly, we just continue to focus on high quality, high velocity. And that goes for the marketing development side as well as the product velocity side. On the marketing side, we're focused across the funnel, across channels. We're really leveraging incentives to drive customer behavior, and we've seen really strong ROI there.
+
+From a product perspective, I think it's not just the network expansion work. It's really everything that we're building on Cash App. I see as contributing to network expansion and monthly actives growth, either on a first order basis or on a second order basis. If we're building useful, simple things for our customers, that's going to reliably compound and drive active growth.
+
+So overall, I think we have a lot of room and a lot of opportunity on the active side. We also have massive opportunity on the engagement side. We reported inflows per active grew 10% year-over-year, that's a pretty good -- that's a pretty good signal of just engagement on the platform.
+
+Also gross profit per active was up 25% year-over-year in September. And so all of our investments across Cash App Borrow, Cash App Afterpay, post purchase, our banking suite, our Bitcoin products, that's going to continue to drive healthy engagement as well.
+
+So that's a bit of a snapshot just in terms of how we're approaching it. I think pretty happy with 58 million, but so much more work to do and a lot of opportunity ahead.
+
+Operator
+
+And our next question comes from the line of Tim Chiodo with UBS.
+
+Timothy Chiodo
+UBS Investment Bank, Research Division
+
+I think this is probably a good one for Nick giving Nick's on the call. So I want to talk a little bit about the field sales teams and their productivity and then a little bit around the GPV and the gross profit contributions that those teams will be bringing, so on the field sales teams, I gather, and if you could put some color around this, that there are certain things that you're doing to help make these sales people as productive as possible, whether it's other tools or systems you have in place, technology you're using? I'm hoping you could shed a little bit of light on that to bring it to life. Gather the paybacks are quite healthy. I think you've talked about the field sales teams being in roughly the 5 to 6 quarter range. And then as a related follow-on, it's very logical to think that these salespeople and the ISO channel, they're going to be bringing on a larger merchant with probably a longer L in the LTV equation.
+
+So we'll be around with you for much longer. It's also logical to think that they'll be paying slightly less in terms of their monetization rate per unit of volume. But the absolute GPV and the absolute gross profit growth that they'll be bringing will be at much higher levels. And I was hoping you could shed some light on both of those topics again, the field sales productivity and then the contributions that they'll bring.
+
+Nicholas Molnar
+Sales & Marketing Lead
+
+Yes, of course. Thanks so much, Tim. Our go-to-market motions in general and field more specifically have been performing really well. As you mentioned, we're seeing really strong paybacks and the marginal ROI on our incremental head count that we bring on to the team continues to scale in a really nice way.
+
+But to be honest, we actually have some meaningful room to continue to invest as we focus on that marginal ROI sustaining and growing into the future.
+
+Amrita mentioned in her opening remarks, our sales-led NVA was up 28% year-to-date through September and we expect to grow last quarter to over 40%.
+
+So I feel like we're going to exit the year with Q4 in a nice way that takes us into 2026. A lot of that has been as a result of how we've shown up culturally through the right tactics, the right sales motions, really gearing our reps up to hit the ground running and be able to close the deal in the least possible time.
+
+But we've already significantly scaled our team over the course of the year. If I think about from the start of the year, we had next to no field sales ramped reps, we're now over 100 field reps scaling fast.
+
+And so I understand your point from a gross profit per -- gross profit relative to GPV. But while we have scaled our team, it's still pretty early from a field sales perspective. And of our U.S. NVA is coming from field in '25. But as that team continues to ramp, we believe they'll continue to compound.
+
+And we're seeing pretty stable margins as we're scaling our team, ISO does have a longer L as you referenced, but I don't think field is in the same category.
+
+Certainly, as we move up market, that can mean a different gross profit to GPV profile. But candidly, it's not really how I think about our economics. I think about how do we maximize our variable profit dollar growth head count that we have in the team.
+
+And if we can continue investing into our cohort curves and seeing that NVA grow per quarter, I believe that will translate to faster GPV over time, which will ultimately mean really strong gross profit growth.
+
+And I know you didn't specifically ask about our self onboarding motion. But while we have seen sales strength, it [Audio Gap] self onboarding. We're seeing Square hold a really strong organic motion, still with 70% of our NVA coming from sellers who self onboard, which is a result of a combination of flow optimization, really leaning in on the AI front. We're now the #1 -- we show up #1 for F&B-related keywords on AI-related search and feeling really good about our self onboarding is continuing to grow and scale some of the best growth rates that we've seen in web and app since 2017, and a lot of that is a function of how marketing has continued to scale, driving really strong lead flow and really strong return on investment.
+
+Amrita Ahuja
+Foundational Lead, COO, CFO & Treasurer
+
+Now I'll just add a couple of perspectives as well, Tim. Ultimately, our focus and belief is that compounding growth in GPV will drive gross profit, which will drive incremental variable profit dollars, which is our core focus across the business.
+
+What we see, as Nick has talked through, ultimately, are indicators of underlying health across that growth algorithm and across the platform from new seller acquisition trends to ROIs to opening up new distribution channels to be able to reach incremental sellers. And I think you see that coming through, whether it's outsized growth in food and beverage at 17%, or with mid-market sellers or larger sellers at 20% or in markets outside the U.S. at 26%.
+
+So we're seeing that strategy play out and work. As you know, there's some idiosyncratic things that I mentioned in the interim remarks in last quarter as well around a decision that we made for operational flexibility that hit Q3 by about 2.6 percentage points from a gross profit perspective, ex that operational flexibility point, which we expect to lap in the second quarter of next year, gross profit growth and GPV growth are relatively equivalent to each other in the third quarter, and we'd expect that they would be as well in the fourth quarter ex that change from an operational flexibility standpoint.
+
+So our focus again is on driving incremental sellers into our platform through the distribution channels that Nick has talked about, where we're seeing strong execution take hold.
+
+Operator
+
+And our next question comes from the line of Andrew Jeffrey with William Blair.
+
+Andrew Jeffrey
+William Blair & Company L.L.C., Research Division
+
+My question is around the Borrow product and maybe to a lesser extent, BNPL. I think there's been a lot of investor concern about the credit quality of these products and the long-term profitability of these products and the 24% Cash App gross profit growth is awesome.
+
+I wonder if you could touch on why you think as we do, that these are superior products for consumers, short-term liquidity products that address really pressing needs that traditional financial institutions have not been able to bring to market.
+
+And so maybe touch on the value proposition as you see it and also on some of the distinctive Block brings to market, Cash App brings to market in terms of underwriting, be that data-driven or AI to give investors a sense of why you think that's such a good business as do we.
+
+Amrita Ahuja
+Foundational Lead, COO, CFO & Treasurer
+
+Awesome. Thanks for the question. Yes. I'll start us off on Borrow. First, Andrew, as you called out the broader purpose of the product and why it's resonated so strongly with our customers. And then secondly, go into some of the metrics where we see it as a good business for us.
+
+First of all, these credit products are a really important part of our business in how we expand credit access, especially frankly, the segments of consumers who are often overlooked by the traditional financial system. These products provide financial mobility, cash flow flexibility and growth for our customers.
+
+As a result, we've seen incredibly strong product market fit and growth in our system on the back of really healthy unit economics. We're able to do this responsibly fundamentally because of the deep capabilities that we bring to bear from an AI and ML-based underwriting perspective.
+
+So zooming into what we're seeing in real time in these metrics, Borrow performance was incredibly strong in the third quarter with origination volume up 134% year-over-year, reaching nearly $22 billion on an annualized basis in the third quarter and even higher growth from a gross profit perspective. This is on the back of a couple of different initiatives.
+
+First, just core underwriting model improvements which we were able to deploy across both existing states and new states as well as expansion nationwide on the back of the migration to our bank, SFS, which enabled us to unlock more states, in which we can steadily ramp the Borrow eligibility offering.
+
+And then third, providing Borrow eligibility and getting more nuanced with limits for our existing customers who are highly engaged in the platform, whether those are primary banking actives or direct deposit customers. So those 3 strategies at play have helped us expand Borrow, but maintain very healthy risk loss rates, below our 3% target despite this triple-digit originations growth.
+
+And see, therefore, annualized net margins at the 24% range in the quarter above our internal targets. Very importantly, we also see that these borrow actives have meaningful lifts in engagement metrics that carry through the entire Cash App ecosystem relative to non-borrow actives.
+
+We looked at this from the 12 months ending in August. And what we saw was that borrow actives have 3x higher inflows per active, 2x higher Cash App Card spend. Now 3x higher retention rates relative to non-borrow actives, so it's a key piece of the broad engagement story for us around banking within Cash App.
+
+And we think more experimentation and more product innovation here around Borrow can help us drive growth in other parts of our business.
+
+So finally, I guess, what I would say is what powers all of this, whether it's Borrow or other lending products like post-purchase BNPL where we've also seen -- earlier in its life but also seen very strong growth is fundamentally our Cash App credit score, which is an internal score that we use that's truly a core asset that we have that we can deploy across the range of our lending products.
+
+And we think, ultimately, the model that underpins that is advantageous in that it has data that covers a wide range of financial activity across our entire platform, near real-time insights based on that activity and then advanced modeling using AI, ML and data science over a decade-plus of experience of serving lending products to our customers which ultimately then results in being able to expand access while still maintaining the strong loss rates and unit economics that we've been able to maintain here.
+
+So we're incredibly excited about the metrics that we see here with Borrow. We'll obviously be very watchful on a real-time basis on how they trend, but what we've seen so far has been extremely strong momentum.
+
+Operator
+
+And our next question comes from the line of Darrin Peller with Wolfe Research.
+
+Darrin Peller
+Wolfe Research, LLC
+
+I think this is a good follow-up to Amrita, what you were just talking about to some degree. I mean, because even when we back out the growth contribution from Cash App Borrow, I mean, we're calculating an acceleration of Cash App gross profit without the Borrow benefit from what was, I think, around high single digits last quarter to double digits, low double digits this quarter.
+
+So it sounds like MAUs, but also the flywheel effect of more Cash App inflows -- Cash App Borrow inflows is driving a lot of it. So maybe just talk through the different levers, putting aside purely the year-over-year comp on Cash App Borrow itself of what you see really driving that and sustain that growth well into the double digits. And if you think it's sustainable now if you're going to have MAU growth continuing to drive that or if there's other variables we should think about too.
+
+Owen Jennings
+Business Lead
+
+Sure. Thanks, Darrin. I appreciate the question. I'm happy to offer a bit more color here. I think fundamentally, it's important just to think about Cash App as an ecosystem. So we kind of think about the 4 key parts as our network products, inclusive of peer-to-peer, our banking products inclusive of direct deposit, our commerce products and then our Bitcoin products.
+
+We've made meaningful progress from a product development perspective and on the marketing side across all 4 pieces.
+
+And so all of this is coming together to drive that acceleration in growth that you're talking about. I touched on some of the items on the network expansion and the active side before, and we expect to continue to see that pay dividends.
+
+On the banking side, things like direct deposit attach and really seeing that primary banking activity. We've launched some recent experiments and architectural changes that are helping there. I mean on the commerce side, we're operating at tremendous scale, and we're also seeing really healthy growth. And so card GPV is growing at 19% year-over-year. Cash App Pay GPV growing at 70% year-over-year.
+
+I think Amrita mentioned the acceleration on the Cash App Afterpay side, going from $2 billion in annualized originations to $3 billion in annualized originations now in early October.
+
+And so we're going to continue to invest across the entirety of the ecosystem. And I think what you get there is just a portfolio of diverse products and diverse business lines that come together and are able to deliver that durable growth over and above, something of a steep acceleration on the Borrow side.
+
+But I would also, if I may, like we don't really see the world in this, like gross profit ex Borrow sort of way. Amrita touched on this to some extent, but Cash App Borrow and our ability to extend liquidity to our customers is just -- it's a fundamental part of the Cash App ecosystem. On a first order basis, it just has an incredible return profile. We have like -- we have a 30% return on invested capital for Borrow.
+
+I've looked all over the place. I haven't been able to find a lending product that has a return profile that looks like that. So on a first order basis, it's fantastic. But then also when we think about the strength of market fit, it's really the second order effects that got me the most excited.
+
+When we offer a Borrow loan, a large share of those funds actually move through the Cash App ecosystem. So you get kind of that double hit. And then this is one of the products, such a large share of the U.S. population is living paycheck to paycheck and has to smooth through their pay period that we see tremendous market fit for this offering.
+
+And then I think, increasingly, we're going to be able to leverage that as a carrot to incentivize certain behaviors. So we've been doing some experiments in terms of eligibility and limits and fees for our Borrow product and how we can kind of tune that to drive let's say, primary banking activity. And I'm really excited for what that can mean going forward. We'll have some announcements next week at Cash App Releases. And then I'm excited to talk about the durable growth profile for Cash App in depth at Investor Day in a couple of weeks. Thanks.
+
+Operator
+
+And our next question comes from the line of Adam Frisch with Evercore ISI.
+
+Adam Frisch
+Evercore ISI Institutional Equities, Research Division
+
+Great to have Nick and Owen on the call and I hope that continues. I think a big issue for the right now is the macro versus the company specific. And given the significant and accelerating momentum on both sides of the business, plus a pretty tricky macro backdrop that I think some companies may be using as a crutch for subpar performance, can you speak, Amrita, to your visibility and how all of that is translating into your calculus around the 4Q guide and provide some color maybe on consumer spend.
+
+And then, Nick, on the company-specific stuff, if you could speak to your go-to-market strategy and what you're doing to drive such terrific growth acceleration on the Square side.
+
+Amrita Ahuja
+Foundational Lead, COO, CFO & Treasurer
+
+Yes, Adam, thanks for the question. I'll get us started here on the 4Q guide and macro. Obviously, it's a dynamic environment. We're paying close attention to the range of potential outcomes here. What we used to inform our guidance is what we see most recently in both our third quarter performance as well as in October.
+
+What we've seen so far has been strong. Obviously, third quarter performance had acceleration across a number of key input metrics or operating KPIs that indicate the health of our underlying ecosystems, whether it's Square GPV or its inflows per active on the Cash App side, we saw acceleration from 2Q into 3Q.
+
+We continue to see really healthy returns on our investment in our go-to-market spend and then obviously strong underwriting outcomes as well across each of the different pieces of our lending portfolio.
+
+We saw only isolated impacts from tariffs and sort of the de minimis tax exemption changes that appeared in our Buy Now Pay Later business. But even with that, GMV growth remained strong at 17% or 18% on a constant currency basis in the third quarter.
+
+Based on what we saw in October was relative consistency across a number of different metrics that we track, whether it's average transaction sizes, Borrow origination volumes, loss rates, we're not seeing meaningful changes that indicate a change in the macro environment yet.
+
+Cash App performance was strong in October. I think you heard Owen speak to some of this earlier. We've seen strong active growth inflows per active and monetization in Cash App.
+
+In Square, we did observe slightly slower GPV growth towards the end of October that we believe was primarily weather related, but we're also seeing some of the strongest new volume added NVA that we've seen in a long time across self onboard and sales, obviously off a very large base.
+
+So look, ultimately, what we've seen has been healthy, but we're going to be data-driven and read our metrics on a daily basis as ever. And our philosophy here is that we have the ability to shift, whether it's on marketing or underwriting or how we run our business as needed.
+
+And those are kind of the key elements that underpin the guide that we put forward, which we think is a strong guide based on the momentum that we've got heading into the fourth quarter.
+
+Nicholas Molnar
+Sales & Marketing Lead
+
+Thanks, Amrita. And maybe I can just give a little bit more color on the go-to-market side. I spoke a little bit earlier about the strength of self-onboarding growth that we've seen. And more specifically, some of the flow [Audio Gap] AI work, the contribution that marketing has had and similarly, I spoke about scaling our sales headcount, particularly in the field sales team as we're seeing really strong marginal ROI.
+
+Just to be clear, I believe we have a huge amount of room to continue to scale our headcount. Our field sales team to date is only effective in our U.S. market, and we have a lot of room to keep growing. We know we have a lot of room as a function of proprietary data that we have available and more specifically, being able to leverage and look at the Cash App Card data to understand our penetration in local geographies and local neighborhoods and local markets, really gives us line of sight of how far we believe we can push our headcount envelope and then begin to scale internationally.
+
+We've seen some really strong wins up market, whether it's Katz's Deli or Purdys Chocolatier. We're proving [Audio Gap] just for small businesses and coffee shops that we're able to win large and complex sellers.
+
+And we have a massive TAM that we're excited and we continue to execute against, we've seen incredibly strong partnership momentum, 2 specific examples are Grubhub, which saw our ability to bring more of the Block assets to the partnership, but we can look at these as not just a feature exchange or an individual deal, but how do we think about this across Square and Cash App combined.
+
+And then similarly, from a Cisco perspective, we're seeing a strong feeling of new sellers joining the platform as a result of the strength of that partnership.
+
+So all in all, I feel like just given our ability to articulate a very considered and consistent strategy, we've been able to [Audio Gap] execution across our development teams, product engineering designs through our marketing campaigns, through how we shop from a sales perspective, and it's that coordination that's leading to us winning more against competitions, leading to delivery of features that we've been waiting for, for quite a while that are now coming to fold and seeing real strength in outcomes like multi-location, menu management, food delivery services, just features that we didn't have before that were table stakes for some of these upmarket sellers. So I'm really excited about what's to come, and I believe we'll exit Q4 in a really strong position going into 2026.
+
+Operator
+
+And our next question comes from the line of Dan Dolev with Mizuho.
+
+Dan Dolev
+Mizuho Securities USA LLC, Research Division
+
+Great results here. I wanted to ask about Square Bitcoin was announced earlier this quarter, fully integrated payments. I know it's going to be launched later this month, but I wanted to see maybe if you've done any testing or anything that could give us an indication because if it works, it could be huge in our view. So wanted to get your views on that.
+
+Jack Dorsey
+Co-Founder, Block Head & Chairman
+
+Yes. So we're really excited to launch this to all of our sellers next week, actually and it's going to be available to everyone, and they just have to make a simple switch in their settings and they'll be able to start accepting Bitcoin. We do have beta merchants that have been on for quite some time and have found it really easy, and it's something that they want to promote heavily because there's no fees associated with accepting Bitcoin.
+
+So we've offered kind of placards and just the stickers in ways to show that like this business does now accept Bitcoin.
+
+We have a lot of hope for this. I think the challenge is going to be making the payment side and getting people comfortable with paying with Bitcoin. But that's just a matter of making the interface more accessible and more usable. We do a lot there within Cash App and also within BitKey and our Spiral debt team works constantly on payment adoption and making sure that we can see Bitcoin as everyday money.
+
+And it's something we're super excited about. And we're going to look for every opportunity to both educate all of our sellers on why accepting Bitcoin is the best option and why buyers would want to use it as well.
+
+Operator
+
+And our next question comes from the line of Jason Kupferberg with Wells Fargo.
+
+Jason Kupferberg
+Wells Fargo Securities, LLC, Research Division
+
+So you've made it really clear that you feel pretty good about the competitive momentum on the Square side of the business.
+
+And I wanted to get a sense, you talked about all that new volume coming in. Is it coming more from sellers, who haven't made the move to a cloud solution yet? Or is it coming more from other cloud-based providers?
+
+And then I'm just wondering if there's been any changes in the Square pricing environment, either in terms of seller sensitivity to price or pricing posture that you're seeing exhibited by your competitors?
+
+Owen Jennings
+Business Lead
+
+Yes, why don't I take this? So let me just start with the pricing point. I don't believe there's been any major significant payment pricing moves that we've made as a result of focusing on our go-to-market and as I scale the team.
+
+From my perspective, it's been pretty business as usual. And more specifically, I think a lot of what we've seen is [Audio Gap] we're showing up in a lot more conversations as a result of getting out in the field.
+
+The field sales team going from basically 0 to over 100 today, and it will be meaningfully larger by the end of the year. That, from my point of view is a major contributor of our ability to have greater consideration and put us in more conversations to have the chance to win.
+
+We're also seeing our telesales growth rate improving and pretty meaningfully internationally, we've seen a significant acceleration of NVA growth.
+
+And so very excited, yes, about the U.S. and how we're showing up, but our telesales performance in all our global markets is seeing a highly accretive NVA growth curve.
+
+We're also seeing some of the lowest churn rates that we've seen since Q2 2023. And I think a lot of that is a function of the investments that we have made [Audio Gap] talked about earlier, our account management team and how we're showing up and supporting our partners.
+
+And just to wrap up the question, a lot of the wins that we're having, yes, some of them are kind of the legacy point-of-sale systems.
+
+But we, in recent times, have had like pretty meaningful win backs of those that have gone to direct competitors. And so we're seeing really strong win rates across all aspects of our competitor base -- and many -- once they had left are seemingly coming back as we're continuing to show up and have those conversations. So I'm really proud of the team and proud of what's been delivered this quarter.
+
+Unknown Executive
+
+And then just to touch on pricing a little bit. We did update our pricing on the Square side for our software products earlier this year. I think we went through it at Square Releases a few weeks ago. .
+
+The reason for that from a customer perspective, a seller perspective, it was really all about simplicity. On the business side, it's really about ARPU expansion and SaaS attach rates. So we used to have more than a dozen individual software products that sellers could attach to.
+
+We combine this into a really simple 3-tier system where we have a free tier, we have a plus tier and then we have a premium tier for more complex sellers. It's just a massive improvement in terms of how we've simplified and streamlined the Square ecosystem.
+
+When we look at that relative to the competitive set, it's just clearly a lower cost of ownership when you go with Square versus some of our direct peers, we are actually including a lot of things that our competitors are charging separately for. So think like loyalty or marketing tools or team management tools or so on and so forth.
+
+And Nick and the sales team are able to kind of show that breakdown when we're having a conversation, and we're trying to win a deal.
+
+So when I talk to people on Nick's team, account executives are saying, yes, we're seeing stronger close rates in these deals. When I talk, they're loving the simpler structure. So overall, I think that's a great tailwind.
+
+But also I would say there's definitely some deals where we're up against the direct competitor and a cloud-based point of sale, but also we have to remind ourselves, this is a massive TAM. This is trillions and trillions of dollars.
+
+I think it's like $1 trillion in TAM just for food and bev and so just secularly, there's tremendous tailwinds here over and above kind of specific pricing dynamics.
+
+Operator
+
+We will take our next question from Bryan Keane with Citi.
+
+Bryan Keane
+Citigroup Inc., Research Division
+
+Congrats on the results. Nick, I wanted to ask you about your baby Afterpay, maybe you could talk about some of the unique opportunities you see ahead with the asset that might differentiate you from the competition.
+
+I think volumes were up 18% on a constant currency basis. But obviously, there's probably a lot of growth to come, especially with the post purchase on BNPL and some of the other initiatives, but I'd love to get your thoughts there.
+
+Nicholas Molnar
+Sales & Marketing Lead
+
+Yes. Of course, thank you so much for the question. Yes, as you mentioned, GMV was up 18% on a constant currency basis, and gross profit was up 23% year-on-year, the significant driver of growth was post-purchase Afterpay and the Cash App Card, which was key driver of growth in the third quarter. Adoption and our conversion is trending ahead of our expectations.
+
+As Owen said before, we crossed $3 billion in origination run rate in early October, and we expect to continue to expand eligibility and increase attach rates and when we compare post-purchase Afterpay to Borrow's early trajectory, we're seeing the Afterpay and the Cash App Card scale in a meaningful way that pace is well ahead of the early trajectory of Borrow, which is really encouraging for us to see.
+
+And as we scale, we've had a resolute focus on our loss profile and our loss rates on consumer receivables in Q3 remained in line with our expectations.
+
+So healthy loss rates and strong growth rates. We have been very focused on rolling Afterpay out into Cash App, and we begin to turn our attention to the core Afterpay business across the world.
+
+We've signed a number of new partners over the last few months, including Uber and Amazon in Australia, Hibbett and Jenni Kayne in the U.S., and we're expanding our commerce network and our advertising business.
+
+So yes, I feel like we're focused on the right things as to how Afterpay is showing up both within Block and in partnership with Cash App and with Square, but also as it's core network and really investing in the growth of reacceleration of the core Afterpay business.
+
+Operator
+
+And our next question comes from the line of Mihir Bhatia with Bank of America.
+
+Mihir Bhatia
+BofA Securities, Research Division
+
+I was wondering if you could just spend a few minutes on AI here? Amrita touched on some of the AI tools that you are enabling for sellers. But I was wondering more just bigger picture at Block, Jack. What kind of impact do you see AI having at Block? Just touch on how you are currently -- what you're currently doing with AI? What are some of the use cases that might be interesting here in the short term, like, let's call it, a year or two, and then I guess like really, at the end of the day, is AI going to be more of a cost side benefit for Block? Or is it more of a growth driver?
+
+Jack Dorsey
+Co-Founder, Block Head & Chairman
+
+Just to answer that question right away, I would see it as both. I think it will allow us to grow a lot faster, monetize our capabilities even more. Just as one way to envision that is right now on the Square side, for instance, and even within Cash App, people have to navigate our interface to find features and products that we offer. We'll be able to surface them immediately as they need them based on the understanding and the data we have around how they run their business or how they run their financial portfolio on Cash App.
+
+So it's definitely something we're looking at for growth. But also, we imagine it really reduces our costs as well, especially at the company level. Our goal, ultimately, like I believe that AI will be transformational for our company.
+
+Our goal is to automate our company as much as possible and really take away a bunch of the mundane tasks that we have to do to serve our customers, so that we can focus on more creativity, and we can ship features and products much faster. That has been proving out. We started about 2 years ago with Goose, which is very small projects to help automate engineering tasks.
+
+And now it's grounded into something that nearly every single person in the company uses, not just engineering roles, but nearly every single role in the company has touched it and benefited from it and saved some time from their day-to-day so they can focus on more important tasks.
+
+And that has contributed a lot more to our overall velocity over the past -- over this year, actually. And we expect that only to increase as we continue to build on this platform. The most interesting thing is Goose allowed us to put a lot of this functionality directly into Square, with Square AI, and we're going to be doing the same thing with Cash App as well. And you'll see some of that next week in Cash App Releases.
+
+But more importantly, you'll see it at the Investor Day, where we'll go pretty deep on how we're touching every one of our product services with AI and what to expect from it.
+
+On the seller side, we want to build a virtual COO or manager for our customers, our sellers such that it can be very proactive because we have this deep understanding of their business.
+
+And on the Cash App side, effectively a virtual CFO so that people can really make the most of their money. And our goal is to help people to even build wealth as well.
+
+And AI is going to be instrumental in doing this. And I think we have something really unique in that we have all this real-time living data that comes in every single second of every day and we can tune these models not to be trained off the Internet, but actually to be trained off real human data as it happens.
+
+And it can be a whole lot more proactive. So you don't need to come to Square or to Cash App and know which question to ask. It can actually be proactive about things you might want to consider, products you might want to try out, features that you want to turn on and do so in a very friendly and human way that makes sense. And both of these are in testing right now, and we're getting really good feedback from our sellers and individuals.
+
+Operator
+
+And our next question comes from the line of Harshita Rawat with Bernstein.
+
+Harshita Rawat
+Sanford C. Bernstein & Co., LLC., Research Division
+
+I want to ask about Cash App banking users. Good to see kind of the 8.3 million number user growing nicely. You talked about ways to deepen engagement here. You've had marketing campaigns recently, the product velocity appears to be improving. My question is, what do you think you need in terms of brand perception of product or otherwise to attract more inflows into the app, which I know accelerated a little bit this quarter and drive more commerce spend per user, which I think can get a lot higher.
+
+Unknown Executive
+
+Thanks for the question. I love this question. It's actually 1 of the key things that I'm going to be focusing on next week at the Cash App Releases event.
+
+I think fundamentally, what we need is a platform that supports our understanding of primary banking behavior and what a customer, who is a primary banking active actually is. And so that's really where we've been focused.
+
+On the 8.3 million number, that primary banking actives were up 18% year-over-year in September, it's actually accelerated pretty meaningfully in October. So for October, we actually saw 8.7 million primary banking actives, so 400,000 net adds there. And then we saw the year-over-year growth rate accelerated from 18% to 20%.
+
+I think the key perspective here is that we don't want to be too narrowly focused on just paycheck deposit actives. It's not actually reflective of the modern earner and how the next generation is actually participating in the economy.
+
+And so we've been running a lot of tests and rolling out new products and new platforms that support this world view. And I think we love systems like that because then we're able to really optimize flows to twist knobs and turn dials and we have a track record of doing that across a number of these programs that we've run, like our referrals and notifications program, our instant discounts program Boost.
+
+And really, this is connected back to one of the conversations we're having about Cash App Borrow. There are ways that we have within the app to incentivize a certain amount of behavior and bring Cash App Card to the top of wallet. One of the advantages that we have versus some of the other neo banks is we have that base of 58 million monthly actives. And so -- and we have 26 million Cash App Card actives on a monthly basis right now. And so we're able to play this like cross-sell, upsell, attach rate game as well.
+
+And so a big part is just driving engagement. In terms of the why and why we're so focused on this, it's just the ARPU and the LTV for primary banking actives is just so much greater than it is for the average customer.
+
+So every time that we convert your average Cash App customer or your average Cash App Card customer to a primary banking active, there's a huge ARPU uplift.
+
+And so we're going to be pulling a lot of levers here. We're going to be looking at everything we can offer from limits to overdraft coverage, to rewards, to Borrow eligibility to Cash App Afterpay and so on and so forth to build a really, really, really compelling banking suite.
+
+And we think that when we go to market with that, and we have campaigns about that, it's going to lead to some of the outcomes that you mentioned.
+
+Operator
+
+And we will now take our final question from James Faucette with Morgan Stanley.
+
+James Faucette
+Morgan Stanley, Research Division
+
+I want to go back to the work that you're doing on Square and the product and distribution enhancement to us seems like it really could expand the appeal to a broader range of merchants. You made that pretty clear in talking about the responses you're looking to go upmarket, how should we think about, though, the impact to things like pricing and profitability?
+
+And I guess 1 of the other questions I have in terms of market fit is, what segments of the market are really responding or what enhancements or the segments where you're seeing traction? What are they really responding to thus far in features, et cetera, on that you can lean into.
+
+Owen Jennings
+Business Lead
+
+Yes. I'm happy to take this. So why don't I just start at like the Block level, and then I can talk about the Square specific components.
+
+From a Block perspective, I think this is 1 of the really strong benefit [indiscernible] to where we're able to go to market leveraging the combined value of Block for our partners and our consumers.
+
+So when we're showing up and we're speaking to a partner, we're speaking to them about Cash App's network of 58 million actives, we're speaking to them about the scale of the Cash App Card that already exists on their platform.
+
+We're able to illustrate the value of Square, where we have millions of sellers across a very broad set of industries, and we have both Pay Now and Pay Later that is a global network, not just a U.S. specific network. So that means that we can have very strategic conversations with our partners.
+
+And that's where I think these like distribution opportunities truly start to unfold because we're having conversations at a different altitude that's looking at what are the benefits that Block could bring as a whole that does create sometimes a more complexity in the partnership motion. But I do think that if we can be a little bit patient, knowing what [Audio Gap] I feel really good about what's to come and how do we think about these things global that are more all-encompassing across our platform.
+
+And then when I think about just the overall competitive advantage of Square, number one, we're addressing a very significant TAM.
+
+We're addressing a very broad set of verticals. I mentioned earlier around some of the more recent product features like menu management, delivery platform integrations and others from an F&B perspective, which has been our focus.
+
+But we are showing up across a broad subset of verticals, and we are starting to bring Cash App into that conversation as well, where we can talk to our Square partners, not just about the features that we can provide them, but we can talk to them about our ability to drive growth, the great work that Brian and team are doing from a Neighborhoods' perspective and how do we start to bring those 58 million in Cash App into the Square sellers and illustrate, we can drive foot traffic into store. Like we can be a growth partner for our sellers, not just a point of sale.
+
+And I think that is our fundamental competitive advantage over the long term. I don't think this is about price and profitability. I think it's about scaling the team with the right marginal ROI profile and the incremental headcount and having a team that is appropriately represented for the TAM that we're servicing, and showing up with the right tactics, the right framework, the right ability for an account executive to do a deal when they're standing in front of the seller.
+
+And that's all we're seeing today. We're seeing really strong NVA growth, and I believe that it will continue to accelerate into Q4. So thank you for the question.
+
+Operator
+
+And ladies and gentlemen, that concludes today's call, and we thank you for your participation. You may now disconnect.
+

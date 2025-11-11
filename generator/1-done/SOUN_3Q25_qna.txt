@@ -1,0 +1,142 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question comes from the line of Gil Luria from D.A. Davidson.
+
+Gil Luria
+D.A. Davidson & Co., Research Division
+
+First, I wanted to ask about the 8-figure Chinese robotics deal. Is it too much for us to think of this as maybe a humanoid robotics? It seems like that may be a good application for low latency voice to meaning and therefore, a very interesting new development. And then the other part of that question is the double-digit millions over what time frame?
+
+Keyvan Mohajer
+Co-Founder, CEO, President & Director
+
+Yes. It is a robotic company. This particular product is not a human robot, but the deal does pave the way to experiences that you are imagining. This one is more of a device that can carry and like a wearable, but not actually a wearable, but in that category and in the double-digit million in the next 2 to 3 years.
+
+Gil Luria
+D.A. Davidson & Co., Research Division
+
+Got it. Hope to be invited to the demo of the humanoid.
+
+Keyvan Mohajer
+Co-Founder, CEO, President & Director
+
+Yes, sorry to add that, it's actually a commitment number from them. It's not our -- just our estimates.
+
+Gil Luria
+D.A. Davidson & Co., Research Division
+
+Got it. And then the second one on the Interactions acquisition. Where do you specifically -- which verticals do you think they will specifically have an impact? And then what do you expect the financial impact to be for the balance of the year and into next year?
+
+Nitesh Sharan
+Chief Financial Officer
+
+Yes. Gil, so the first part, there is nice adjacencies and sort of going deeper with our enterprise vertical. So they have strength across some of their customers overlap in our automotive and our tech services. They have a really deep retail footprint and several of the verticals that we're in. And the application of the technology, particularly around the workflow orchestration or they have sort of intent analyst that really complement some of the more complicated enterprise use cases. So you could think also financial services and health care. So there's really nice complement to the existing portfolio.
+
+In terms of contribution, I mean, this is, I think, sort of a pattern of our M&A that similar to what we've seen where we had brought companies that have amazing customer -- long-term contracts, customer relationships trust and -- but frankly, in some cases, legacy technology that we're able to partner and bring our own innovation on top of and recalibrate the growth curve. So this is one that we're pretty excited about how we can regrow them together. And so they're all contemplated in our outlook. I think you'll notice a little nudge up in our expectations, particularly with respect to next year. So it's an important acquisition. I think it's one that we're excited about what we're going to do. And most importantly, to your first part, just really excited the complement that it brings both on a tech product platform as well as sort of industry overlaps.
+
+Operator
+
+Our next question comes from the line of James Fish from Piper Sandler.
+
+Caden Dahl
+Piper Sandler & Co., Research Division
+
+This is Caden on for Fish. I was just wondering, could you provide a percentage what you're seeing come from term license versus SaaS within Amelia at this point? And then anything to call out for onetime revenue this quarter?
+
+Nitesh Sharan
+Chief Financial Officer
+
+Sure, I can give you more of the general trending, and we know it continued to grow our recurring footprint with Amelia. And we have noted in prior quarters that there were sort of a greater onetime type license deals. We talked about that last time, much smaller footprint this quarter. So I think with respect to Amelia, it continues to be more heavily penetrated towards the recurring. But I think most importantly, as we look at the shift to agentic and just really what the technology is able to do now integrating LLMs with our deterministic flows is the footprint is you embed, you get a recurring basis, but it's more outcome-based contracts and pricing.
+
+So as we can continue to deliver outcomes, for example, at hospitality, we can book more reservations or in maybe a health care setting, book more appointments, like the economic model is one that is advantageous that we can scale. So it will be recurring plus outcome-based generative or incremental revenue. That's sort of the model also with respect to why we comment on restaurants and high order completion rates. Some of our pricing is just fixed per location amounts. And then more and more customers are seeing that there's real sharing of economic upside if we can say it's more based on real returns to the customer and the pricing will follow.
+
+Operator
+
+Our next question comes from the line of Mike Latimore from Northland Capital Markets.
+
+Unknown Analyst
+
+This is Vijay Devar for Mike Latimore. Could you tell me how many customers have committed to upgrading to Amelia 7 right now? I think the number was around 15 last quarter.
+
+Nitesh Sharan
+Chief Financial Officer
+
+Yes. We're continuing to grow it. The 15 was sort of a selected first set of customers, and that has progressed really, really well. That was an initial cohort and they were sort of our early adopter group. That group -- that number just continues to grow. We're migrating with others. We've expanded that set quite significantly. We're in active conversations with a number of them. Ultimately, our target here is that about 75% of our customers, we expect to be moving on to Amelia 7 probably by mid next year. So we're sort of thinking of the trajectory of moving towards that.
+
+And ultimately, all of our new customers are going to get into that -- are going to be migrated on to Amelia 7. So we're trying to make sure there's a fair migration path for all our customers. Obviously, every customer is different, and we need to be thoughtful about their journeys and be very sensitive to their own end customers. Ultimately, we're trying to orchestrate across all other platforms, so we make sure that there's interoperability with other agentic platforms, and we're really thoughtful about just onboarding and pace. So continuing to see great momentum, lots of exciting conversations. And most importantly, I mentioned in my prepared remarks, just the outcomes or the feedback we're getting, whether it's in Net Promoter Score, customer satisfaction or even just the containment rate improvements, like they're real positive outcomes early days, so we're trying to be aggressive in how we migrate.
+
+Unknown Analyst
+
+That's pretty interesting. Second one, what percent of your revenue is recurring presently?
+
+Nitesh Sharan
+Chief Financial Officer
+
+The vast majority of our revenue is recurring, and there's just different -- well, I guess I'll group it. We talk about recurring and reoccurring. Like I've mentioned, I think, a couple of times around our automotive business where we have license recognition as cars are shipped, we get recognition for the voice capabilities, and we get a royalty on that. So maybe I'll count that reoccurring as long as these mega OEMs keep shipping cars under the contract duration, we get revenue.
+
+Then we have and to the prior question from Caden around Amelia, it's recurring largely. They're SaaS. Oftentimes, they're fixed price up to certain levels of interactions. And then if the customer activity grows above an interaction level, then we'll -- it gets priced to the next level up. And then we do, from time to time, have certain recognition. When we deploy an edge solution where our obligation to the customer is to pass over that license, then there is immediate revenue recognition. So the vast majority is recurring SaaS-like and -- but there's a diversification in the product suite. And as I mentioned in the other question you asked, more and more, we're finding the trends towards outcome-based. And again, the reason is the AI solutions work. They can deliver more value. They can align to the economic interest of the customer. And so it makes sense for us to price accordingly.
+
+Operator
+
+Our next question comes from the line of Scott Buck from H.C. Wainwright & Company.
+
+Scott Buck
+H.C. Wainwright & Co, LLC, Research Division
+
+So you listed off kind of 8 or 9 industry verticals in the release and talked through them. I'm curious, do you feel like you're -- you have enough capacity across each of those to continue to grow them? Or if not, how are you kind of prioritizing where your attention goes near term?
+
+Nitesh Sharan
+Chief Financial Officer
+
+Sure. I can start and Keyvan can add. I mean, I guess to think about it, I get this question to be open, and we get this question a lot like are you doing too much or -- and I kind of not trying to be flippant, but like if you start hearing us talk about investing in nuclear energy, maybe that's the fair place to say we're extending a little too far. We're a horizontal platform. We start with the premise of like the pioneering vision was in voice AI. We believe that's the major shift that we are going to enable humans to interact with technology predominantly through natural conversations and voice, the way we're talking right now. And we'll be able to get many, many things done.
+
+And so we think, first and foremost, in terms of the ultimate vision, we are -- that can pervade across many, many industries. And again, we got traction in automotive restaurants moving into health care, financial services and setting appointments, booking reservations, doing money transfers, all of that just on the horizontal platform. So when we're deploying our technology, and we've mentioned it previously, whether it's Polaris or some of the other capabilities, we're best of breed. We're market-leading even against unlimited resource competitors, where we outperform on our speech recognition technology on how we bring real-time speech to speech for understanding and conversation.
+
+So that -- I think when you think of us as a platform provider, that's sort of like the premise. Again, I'd say that's where our focus is. If we -- that's where we determine as long as we're playing in the game of conversational and voice AI, that's the right focus. Now it is fair, yes, there are different applications, especially when you go into workflow integrations that different ecosystems have different appointment reservation systems or order taking or point-of-sale systems in the restaurant. And there are in many of these industries, fragmentation. So we do have to be thoughtful about how deep we can go and who we partner with.
+
+So we've talked in the past about our partnering strategy in restaurants, for example, where some of the drive-thru opportunity requires hardware partnerships, and we're excited that we work with the likes of Samsung and HME and PAR and others. So we think that's a great complement. We can go to market together. With respect to the integration with the menu structures, we're excited that we partner with the likes of Square, Toast, Olo, Oracle MICROS Simphony and on and on. And so that's an example of where we kind of go, here's where our software extends and here's where we want to use partners to go deeper. And that same application and some of the announcements we made today with some of the channel partners going deeper into health care, that's how we calibrate.
+
+So I think there's a lot of room. I take the premise got to your point of like, hey, we're hustling relative to the -- certainly the big tech, smaller scale company, we have to be very judicious with our limited resources. I actually think that's a strength of ours because it does force prioritization and it forces us to focus on where our main strengths are, but that's definitely something we're constantly calibrating around.
+
+Scott Buck
+H.C. Wainwright & Co, LLC, Research Division
+
+Great. I appreciate the added color there. Second, I'm just curious on the Voice Commerce launch in '26 laid out in the release. Is that something that you're sharing marketing responsibilities for? Does that fall on the OEMs? I guess what does that rollout look like?
+
+Keyvan Mohajer
+Co-Founder, CEO, President & Director
+
+Well, we talked about Voice Commerce for a number of years. We showcased it at CES of January of this year in 2025, end-to-end, and it was very well received. Immediately after that, we had multiple OEMs that started running pilots and POCs and several brands, merchant brands like national and global brands that were participating. And those are all going really well. It's moving forward. We're getting more traction, but there are some that are actually eager to go live. Some want to be the first to go live. So we feel very confident that it's going to happen. Not everything is in our control because the OEM has to do something, but a lot of the work is being done by us actually, the whole integration of the voice AI and the merchant experience is done by us. We have done an end-to-end. We are able to drive a car, talk to the car, place an order, go pick it up from the store. All of that is done. We'll have more to show at CES and hopefully, more to share about the timing of an actual go-live in production around that time.
+
+Operator
+
+Our final question comes from the line of Leo Carpio from Joseph Gunnar.
+
+Leo Carpio
+Joseph Gunnar & Co., LLC, Research Division
+
+A couple of quick questions. First, on the competitive environment. Can you give us an update on the competitive environment? Are you still facing off against the vendors that we've talked about in the past? And how have the large LLMs compete in the space, I mean, that they started to encroach? But ultimately, how deep is your competitive moat? And then turning secondly on to the contracts that you've won, have you been seeing any pricing pressure at all? Or it's pretty much you're getting the pricing that you asked for at this stage of the adoption curve?
+
+Keyvan Mohajer
+Co-Founder, CEO, President & Director
+
+Yes. So I'll talk about the competition. First of all, the space is extremely attractive, and you hear more names, and that's more of a validation. And we've had competitors in our whole life of 20 years and we had bigger competitors in the past. The particular space you're going after, enterprise AI, customer service, we feel we are the leader because of the 20 years of innovation. We have our own technology. Most of the new players don't have their own technology. So they're using APIs and models from third party, and they have to kind of stick it together and make it work. And a lot of these models make really good POCs and good demos.
+
+But when you go to production, they have issues, but we are able to actually go from demo to deployment in production faster with a higher quality. And that's thanks to our 20 years of experience, having our own models, lower cost, higher accuracy, better latency, more integrations that we've accumulated over the years and some through the acquisition. So we feel very confident about the space.
+
+And some of the names that you may hear in the market could end up being our customers because they need models from companies like SoundHound. And as they go through their choices, they will learn that models like Polaris outperform the competition, right? We beat the big tech and some of the industry giants by as much as 35%, 40% in accuracy, several times in latency, and we can run at a lower cost.
+
+Nitesh Sharan
+Chief Financial Officer
+
+And I think your second question was around pricing. I'm going to make the general point, and Keyvan can certainly add color. I think in a lot of these sort of eras where we're shifting from old tech to new tech, people are really sort of -- there's pressure on if you provide legacy technology to drop prices, and it becomes a little bit of a price battle. And so the key is we're demonstrating our innovation is where you can showcase price value and alignment, and that's where you can protect on pricing. And we've shown that and said that, I think, in prepared remarks today and previously, around where we are seeing pricing expansion. A lot of that is because we're bringing innovation.
+
+We're layering on top generative AI intersection, the first company to bring generative AI into the vehicle, Stellantis early last year. We're seeing that with the generative capabilities. Like you need to be competitive in an ecosystem, as Keyvan noted, that's increasingly competitive. But the use case opportunities and expansions are so tremendous. So if you're a hospitality and you believe through a nice conversational engine that delights the customer, you can actually upsell a reservation or provide more services, then you're willing to pay more.
+
+And that's a little bit the transition we're in. So I don't want to disparage in certain parts, certainly because we're across industry, there's different stories for different sectors and different solutions. And there's macroeconomic dynamics that play into it. But I'd just say largely, there's a transition of pricing architectures. I think ultimately, for those who can provide real innovation and product quality, there's ultimate ASP expansion available. And so that -- there's a little bit of both sides of that equation from a pricing dynamic that we're navigating through right now.
+
+Operator
+
+Thank you. This concludes the question-and-answer session. Thank you for your participation in today's conference. This does conclude the program, and you may now disconnect.

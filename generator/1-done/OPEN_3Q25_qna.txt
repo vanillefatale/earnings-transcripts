@@ -1,0 +1,186 @@
+Question-and-Answer Session
+
+Michael Judd
+
+Great. Thanks, Christy. Our first question comes to us from video submission from Vlad Tenev.
+
+Vladimir Tenev
+Robinhood Markets, Inc.
+
+What's up, Kaz? By the way, we're super pumped that you guys are streaming live to retail on Robinhood. I think the question on everyone's mind is what's going on with tokenization? How real is it? And how do you think it could revolutionize the homeownership experience?
+
+Kasra Nejatian
+CEO & Director
+
+Thanks, Vlad. Thanks for hosting us. Look, I'm such a big fan of Robinhood, and I hope that we can continue to do things together. Our mission at Opendoor is to tilt the world towards homeowners and those working hard to become homeowners. And I love that Robinhood does some of the same things, this whole thing of taking power away from fancy people and giving to average person.
+
+Now to answer your question, look, I have a habit of not announcing products before they're launched. That's because I build products, not spreadsheets. And I think it's important that we ship things before we talk about them. And I don't want to say we're going to do this next week, but I generally can't imagine a future where real estate is not tokenized.
+
+And I also can't imagine a future where Opendoor isn't leading innovation in real estate. Look, asset tokenization is not a side quest for us. Tokenization allows us to increase the speed of transactions, decrease the cost of transaction and broaden base of homeownership. That's our job.
+
+Today, we talked about how we can now accept USDC. This week, I bought Bitcoin on my own laptop so we can start developing. And we've begun talking with partners about how we can work across stablecoins and tokenization. The work is active. We're very serious about it, and we'll tell you more when we launch something.
+
+Michael Judd
+
+Great. Our next question comes to us also via video submission from Eric Jackson.
+
+Eric Jackson
+
+Eric Jackson, welcome. On behalf of the entire $OPEN Army, we are thrilled to have you here leading the charge. I have two questions. Can you say specifically what the headcount is now at the company? I believe it was 1,407 over the summer.
+
+And second, can you say more about the revenue opportunities that you see around iBuying? Do you expect to add mortgage and title and other ancillary services? Zillow experimented with doing this a few years ago by acquiring a legacy company, and that didn't really take. So what is the Kaz approach to revenue? And how do you expect to grow this in the coming quarters? Thank you, again.
+
+Kasra Nejatian
+CEO & Director
+
+Thanks, Eric. Look, to start with, I think Opendoor has had far too complicated structure for a company of this size. To give you a sense, we've had 11 different HR software products. We're going to go down to one.
+
+As of this morning, there were 1,100 people working at Opendoor. And the most important thing isn't the number of people, but how aggressive and efficient those people are. I believe every single Opendoor employee needs to be 2 to 3x more aggressive and more efficient than the average employee in tech.
+
+We will have the most aggressive software company in the public market because our mission is incredibly important. And like I said in the prepared remarks, our job is to be incredibly mindful of OpEx and to reduce our fixed OpEx over time so that it becomes a smaller and smaller part of our income statement.
+
+On the second question, look, I'm incredibly bullish on what I call services. When I joined Shopify, Shopify was 50-50 in its revenue between SaaS and services. Today, services are 75% of Shopify's revenue. And while I didn't have everything to do with it, I had something to do with it and was the services guy at Shopify.
+
+The reason why these embedded fintech things typically don't work is because they're usually designed by some dude in a Boardroom trying to figure out how can I make more money from my users. That's what it typically work. And that's just not how users interact with products.
+
+We will build excellent products. They will feel whole, and you will buy a home from Opendoor the same way you buy a car from Tesla or something from Amazon. They will feel like one product, and there won't be a different -- bunch of different cross-sell motions that you have to keep feeling that you're talking to different companies. I hope that answers your question.
+
+Michael Judd
+
+Great. Our next question comes from Zach H, who asks, when will we see a dramatic change in profitability?
+
+Kasra Nejatian
+CEO & Director
+
+Next year. The answer is next year, we're going to see a dramatic change in profitability.
+
+Christy Schwartz
+Interim CFO
+
+Zach, let me walk you through some of the details. So as we shared in the prepared remarks, we are driving the company to adjusted net income profitability exiting 2026 on a 12-month go-forward basis.
+
+The framework to achieve that goal requires us to rescale acquisitions. We guided to rescaling acquisitions, growing them by 35% quarter-over-quarter for Q4 2025, and we are driving to exit Q4 2026 by buying somewhere around 6,000 homes. You can track that -- our progress against that goal and hold us accountable to that goal at accountable.opendoor.com, which will be updated weekly.
+
+On the margin side, we expect to get contribution margin of 5% to 7% as we approach the acquisitions with renewed rigor, decreasing tail homes, improving days in possession and therefore, holding costs. In addition, as we get more shots on goal and buy more homes, we get the opportunity to attach more products and drive margin from ancillary services.
+
+We expect financing costs of 2% to 3% of revenue. These costs are highly sensitive to our turns and will benefit from our faster resale velocity. We're targeting adjusted OpEx of 3% to 4% of revenue. We expect to leverage our existing fixed OpEx structure, as Kaz mentioned, to invest slightly more in marketing, but with the discipline that Kaz discussed earlier, and we expect to scale operations marginally as we rescale volumes. That's a framework. It's not new guidance. But it's -- yes, go ahead.
+
+Kasra Nejatian
+CEO & Director
+
+I'm going to add a little to this, if you don't mind. Look, I spent the last few years of my career at Shopify, and I think folks would say that I had something, though obviously not everything to do with Shopify's profitability and growth. In late 2022, when I became Shopify's Chief Operating Officer, I'm going to read this because it was a quote. There was an analyst that said, "Shopify will lose money every year through 2025. Profitability is nowhere to be seen."
+
+Well, Shopify became profitable 2 quarters after I became COO, and it has been profitable ever since and have hit the Rule of 40 every quarter. Companies don't become profitable in Excel sheets. The way this works pragmatically is what [indiscernible] and I did at Shopify.
+
+You create a list of projects, you put odds -- adjusted odds of success against each of them and you execute every single day. At Shopify, we had a few dozen of these, 3 or 4 of them ended up really mattering. And we have the same list here. We have a list of projects.
+
+And the reason I say we're going to drive to profitability is because this is not a passive thing. It's not just going to happen to us. We know what we are going to do. We're going to take those actions, and we're going to exit 2026 profitable on a go-forward basis. Sorry, I cut you off.
+
+Michael Judd
+
+Our next question comes to us from Victoria B.
+
+Short sellers keep attacking Opendoor, spreading negativity and driving the stock down despite strong progress. What’'s your strategy as CEO to fight these daily short-selling pressures, protect shareholders, and make sure the market sees Opendoor's true strength?
+
+Kasra Nejatian
+CEO & Director
+
+Look, I care a great deal about our average shareholder. And you've seen us do some things today to help align us to our average shareholder. Having said that, I don't spend that much of my time thinking about short sellers.
+
+I never worked on Wall Street, and I generally don't understand why these people do what they do. It just seems deeply boring and like just bad for the soul. I mostly just pity them. They don't really build anything.
+
+Look, we run the company for long-term owners, not for people that bet against us every week. And what matters to us is execution week in, week out, how fast we buy and sell homes, how operationally excellent we are, how we turn over inventory.
+
+And I think the best way to deal with short sellers is just prove them wrong through numbers. Every quarter, we're going to improve unit economics. Every quarter, we're going to get better. Every week, we're going to show you the numbers. We're going to do all the right things. And I think when you do that, the score takes care of itself.
+
+Michael Judd
+
+Great. Our next question comes from Dae Lee from JPMorgan. How do you define Open's identity? What do you see as its biggest strength? And how will you leverage that to achieve sustainable growth and profitability as Open navigates the currently depressed housing market and longer term?
+
+Kasra Nejatian
+CEO & Director
+
+That's a great question. I'll take it first, if you don't mind. Look, Opendoor is a software company. We're not a hedge fund waiting for macro to turn around. That's our job. Our job is to help people sell, buy and own homes. And our leverage comes from building excellent products. And you do that by writing excellent code.
+
+So that's the largest source of our leverage, right? Codes written by our engineers, data on our databases and the models we have and we're improving the value not just the valuation of home, but dispersion on them and days in possession. And I firmly believe that the best software companies are built in hard times because the times forces you to be disciplined, right? You end up having to care about your user more. You end up building deeper integrations that solve more of the problem. So when times get good, you end up having abnormally large profits. I'm very bullish on the company.
+
+Just in the last couple of weeks, we've shown that we can grow acquisitions relatively quickly. I think we grew 60% on acquisitions just this past week. We'll see how much we grow next week. And we've shown that we have relatively good levers in this company.
+
+And when you decide that you're going to do that, you have the good levers, you have great software and you have the balance sheet that we do, you get the chance to go on offense. And I really like our odds, and I think things are starting to work for us.
+
+Michael Judd
+
+Great. Our next question comes to us from Ryan Tomasello from KBW. Does management intend to continue to emphasize the Cash offer as Opendoor's primary product? Or do you envision moving the business more capital light? Will the Key Agent program be the primary distribution channel for the cash offer? And if so, how should we think about potential bottlenecks on growth given this high-touch approach tied to agents?
+
+Kasra Nejatian
+CEO & Director
+
+That's just not how I think of the business, to be honest. Let me answer your question first. Look, I think companies fail when they think of themselves first and their users second. Like our job is to serve our users and people come to us to sell or buy a home. That's why they come to us. And our job is to meet them where they are.
+
+Some of them want to use an expert, some of them don't. And the question is, how do we answer? I think Cash is a great product. I think Cash Plus is a great product. We're going to have different products along both the risk and the ownership axis because I think that's just not the final two products we're going to have. And I like our D2C model. I think we talked about how in our tests early on, it has been converting 6x better.
+
+So I think the question isn't really one of which channel are you going to pick. We're going to pick the channels that allow us to have the maximum impact on behalf of our users. And I firmly believe in our DTC channels are going to be the future of the company. And if there are users that want to use experts, we want to serve them where they are.
+
+Michael Judd
+
+Great. We have a few questions on sustainable acquisition growth, so I'll read for you those out. One from Ygal at Citi. How are you expecting to manage guardrails and acquisitions as you pick up pace? Another from Andrew at Citizens. Can you talk about controlling the long tail and how those purchases have outsized losses? And Nick McAndrew at Zelman. How do you balance near-term transaction growth with your stated goal of evolving into a platform business?
+
+Kasra Nejatian
+CEO & Director
+
+Okay. I'll try to take these one at a time. I think the tail question is actually the best question. Let me take that one first. So what you actually want to have is a lot of dispersion in your model, right? Opendoor historically have not had that, where it has kind of like just had a peanut butter spread across its space.
+
+We now have significant dispersion, and this is basically all we talk about is how we can have excellent offer on good homes where we know days in possession is going to be low and be more careful on longer days in possession homes. And we have a new process for inspecting every home to make sure that we don't get caught by surprise. This is a trust but verify approach that I talked about, which will be great because it will both, a, variable cost and b, more importantly, allows us to have lots of data on our servers.
+
+Last question second. I don't think these two things are at conflict. Look, at Shopify, we had high growth and high free cash flow. I think these two things actually go together because when you buy lots of homes, you get opportunities to sell lots of homes. And when you sell lots of homes, you get opportunity to attach additional services to them. And I think these two things go hand-in-hand.
+
+And to answer your first question last. Look, I think we have shown that we have really good levers at our disposal. Morgan and the growth team have been working only for a couple of weeks now. But every single day, we're seeing improvement on buying the types of home we want to buy, and we really like our top of funnel. We have cut marketing and have seen acquisition go up, which is always a good sign. Am I missing something?
+
+Michael Judd
+
+That's great. We have another question from Ben Black with DB. There's a few in there, but his last question was, in what ways can AI be an accelerant to growth?
+
+Kasra Nejatian
+CEO & Director
+
+I mean, look, in all the ways, and basically all the ways. Look, I don't spend that much of my time worrying about like the problems Opendoor has traditionally had on this area because there have been different types of problems. I spend a lot of time about what the problems are today.
+
+Let me give you one example. I talked about this a bit. We would have up to 11 people touch a home before we had a sales contract go out for it. Today, in many of our flows, that's down to 1. And the job of that one person is to watch the machine, right? This significantly reduces OpEx per home that we acquire, far, far, far fewer human beings, far more machines. This is better speed, better user experience, lower OpEx, win, win and win.
+
+And then secondly, on the -- just the top of funnel part, you've seen us cut marketing and we cut marketing when I came in and increase acquisition. We're able to do this because we can optimize our funnels and put more of the experience in the hand of the user. And by the way, AI is also able to help us explain to our users the valuation of each home.
+
+So across top of funnel, middle of funnel, bottom of funnel, already, we are seeing the impact of AI. And we're also seeing the impact on closing, which is the last step, where we've had machines do much of their work for closing these days, and that's just going to continue.
+
+Michael Judd
+
+Great. We had one more question from Margarita M, who asks, how can you guys make homeownership easier for younger generations?
+
+Kasra Nejatian
+CEO & Director
+
+I mean this is like the fundamental goal of the company. Look, home prices have increased by something like 50% since 2020. Mortgage rates are much higher than they used to be. Housing inventory is far too low. Typical sale is taking like 60-plus days and like 1 in 7 deals are falling through.
+
+And the average time for a person to buy a home is almost 40 now. This is just terrible because it's harming our communities, harming our families and people who want to own are facing real barriers. People feel trapped in their homes because of mortgage rates. This is why we announced our partnership with Roam today.
+
+But the enemy really isn't any one group of people or any one company. That's just not how it works. The enemy is the process. There are so many people involved in the process of you buying and selling a home that the costs are just out of hand.
+
+And one of the things I'm super excited about is the fact that we can underwrite a home gives us excellent power to underwrite mortgages and the fact that we can do things that allow you to buy a home earlier, buy a better home earlier and know that you have the peace of mind to buy it, is going to be a key part of the company's future. But that's the mission, right, tilt the world towards homeowners and people who are working hard to become homeowners.
+
+Michael Judd
+
+Great. We're getting close to the top of the hour. So that was our last question. So Kaz, if you have any closing remarks?
+
+Kasra Nejatian
+CEO & Director
+
+Yes. Let me -- thanks. I appreciate it. Thanks for your question, folks. Look, I spend most of my day in Cursor and GitHub. I don't spend much of my time in spreadsheets. I started writing code on my Commodore 64 when I was 6. And I'm opinionated about what Opendoor's product should look like.
+
+We are a product company building software to enable homeownership. And you've seen us launch many products, like dozens of products just in the past few weeks, and you should expect us to do the same. And you should expect us to be operationally excellent and incredibly mindful of your dollars as our shareholders.
+
+You're going to see us be accountable. We're going to make mistakes along the way, but at every single step, you're going to see us care deeply about our mission and be transparent as we build.
+
+I'm incredibly bullish. I am more bullish today than I was when I took this job. And I think we're going to actually make a change and make a real difference in the future of homeownership in this country.
+
+Michael Judd
+
+Great. With that, we'll conclude our third quarter open house.
