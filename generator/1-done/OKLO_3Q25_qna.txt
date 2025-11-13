@@ -1,0 +1,354 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question comes from the line of Ryan Pfingst with B. Riley.
+
+Ryan Pfingst
+B. Riley Securities, Inc., Research Division
+
+Just want to make sure I'm clear on the DOE authorization. Does the INL plant shifting to the DOE pathway change your requirement to submit a COLA with the NRC for that project? Or is that something you still have to do? And has the government shutdown impacted your ability to do that at all?
+
+Jacob Dewitte
+Co-Founder, CEO & Chairman
+
+Thanks for the question. I think -- so yes, we no longer need to do a COLA, right? So we're going through the DOE authorization process, which is inherently quite different, so we don't have to do that anymore. At the end of the day -- to build. At the end of the day, we'll still do some kind of combined license type application to the NRC. Part of it's being a little bit redefined and developed based on even just this MOU signed between the NRC and DOE, which was a pretty big deal just last week or the week before. It sets the stage for how the facility would then become a commercial operating NRC licensed plant at some point after we get through some of the initial startup and operational kind of frame -- baseload paradigm, I should say. But yes, now it's just through a different DOE process.
+
+What's huge about this, is this -- this is a muscle that, if you think about it, there's 3 major agencies, hats, right, to do nuclear authorization or permitting. Obviously, the NRC. Then, there's the Department of Energy and then the Department of War. And those 3 agencies have those abilities. DOE and DOD/DOW haven't really used those very much recently, but they have that history. And so they are -- like they've used them and they do have continued oversight of the programs, but they're using them now a lot more.
+
+And this, by the way, wasn't just something that happened overnight. Like this goes back to the Nuclear Energy Innovation Capabilities Act, NEICA, that was passed into law in 2018. That set the stage for this. It was just following the executive orders that really supercharge this effort. And DOE has really leaned into it, and it's kind of empowered that ability to do these things.
+
+What's cool about it is it changes the cadence compared to what the NRC had. The NRC framework said you have to do a lot of upfront licensing work before you can build and operate the plant meaningfully. Part of why we're able to break ground and move into meaningful construction is because the DOE process gives you the flexibility to build while you're going through the different steps of basically authorization up until loading fuel and turning it on. And that gives you a lot more flexibility to just move into a build mode and iterate a lot faster. Something that I think is really important and that you see in pretty much every other industry.
+
+So in many ways, this has taken off a huge run of the regulatory risk, has changed the paradigm that we can build in parallel and has opened the path for a different kind of approach. And mind you, the Department of Energy has a long history of doing regulatory oversight and authorization of sodium fast reactors like we're developing. They were the ones that provided the regulatory authorization for EBR-II for FFTF and continue that oversight into operations. They know how to do this better than probably anybody, so it's a really great kind of fit.
+
+We looked at this pathway as it existed before back in the past, but it wasn't in any way modernized. And then since NEICA passed and then following the EOs, it has been, which made a ton of sense then for us to move into that space. Not to mention kind of the enhanced work between the NRC and DOE to obviously leverage this. The interesting thing is, right, DOE reviewers, NRC reviewers as well, they would all also use our national laboratory experts in this country, one of the key kind of things we have in the country. And what's great about that is that actually means that there's going to be residual expertise and experience gained through our approaching this through DOE that will also help us in the NRC space.
+
+So it's a huge kind of change in many, many positive ways that is going to let us move faster to build and turn on the plant and also then convert over to commercial operations and scale from there. Doesn't take away NRC licensing. It just changes the cadence to kind of accelerate the ability to get something built and get into NRC licensing in the commercial space in a meaningful way, which is really, really accelerative for us.
+
+Ryan Pfingst
+B. Riley Securities, Inc., Research Division
+
+Got it. Appreciate that detail, Jake. And then my second question, I've asked you this one before. But curious if your thinking has changed regarding order conversion from pipeline to more of something firm and if it's starting to make more sense to try to lock in a PPA with a customer as we get closer to '26, '27 and ultimately, that first plant being built.
+
+Jacob Dewitte
+Co-Founder, CEO & Chairman
+
+Yes. Well, our view has always been find and build the right partnerships and deals with customers and takes time to do that in the most constructive way possible for the company and not necessarily rush into PPA timing but rather build better offtake structures because doing this inherently is not the same exact thing as sort of just doing a power offtake purchase from like a solar project, which is what much of the, I would call it, legacy conventional PPA structure has been built for. There's a lot of room to be also more creative, and that opens the door to do a lot of things that are important for, frankly, derisking a lot of things for us that the offtakers are also incentive aligned to do with us.
+
+So yes, I mean, we've continued to develop customers in the market, and we continue to do that here. And that is part of kind of our intentional cadence and strategy to do that. And I think as we work towards what we're executing against, we expect to be able to kind of mature those into places that do make sense for everybody to kind of build a really constructive mutual relationship that is part of an offtake agreement that also helps derisk some of the stuff today into that for them, for their power offtake. That's pretty powerful.
+
+So that's kind of where our focus -- I shouldn't say kind of. That is where our focus has been for the last over -- 12 months or so. And we're continuing on that pace because that's what the market is quite supportive and receptive to and we expect that to continue and position us well so that going into the next year and beyond, we'll start converting those into that kind of -- those kinds of structures as it works.
+
+Each of these different off-takers and groups is going to have different knobs and levers and things to turn that work better for them, respectively, than maybe their peers or competitors. So we got to make sure we work kind of with the right ones that can kind of lean into this in the right ways and cadence and then focus on moving that into the kind of execution phase. So that's how we think about that.
+
+I think one X factor that's interesting is part of the executive order structure includes the government's ability to be -- and also, as we've seen in their policy actions and I think as we hear about policy actions that are still developing sort of around the AI side of things, enhancing the ability for them to be host and/or even some kind of middlemen or some kind of enabling structure for data center development at DOE sites, so this is still developing and speculative in many ways, but there's some interesting potential based on what the EOs put into law -- put into executive action that could enable sort of interesting structures, too, to expand deployments under the DOE authorization that are providing to the government for their own use cases as they think about critical resource needs and critical capability needs, resource needs, meaning AI and compute needs. So it's kind of cool to see what that might look like, too, which is interesting.
+
+So that's probably the biggest shift that a lot of this has opened the door for. Otherwise, we've continued to work at pace in saying, hey, let's find the most constructive way to work with our customers and ultimately convert them forward based on what -- how we can work together and what we can do to sort of more or less guarantee success in this project in a beneficial way.
+
+Operator
+
+Our next question comes from the line of Brian Lee with Goldman Sachs.
+
+Tyler Bisset
+Goldman Sachs Group, Inc., Research Division
+
+This is Tyler Bisset on for Brian. Wanted to follow up on a prior question. I just wanted to confirm, are you guys still targeting commercial operations at INL to commence between late '27 and early '28? Or does shifting to the DOE pathway accelerate that time line? And it sounds like full activation is targeted for early January. So what are the next sort of milestones we should be watching out for that supports that time line beyond January?
+
+Jacob Dewitte
+Co-Founder, CEO & Chairman
+
+Yes. I mean this is what's really exciting about the Reactor Pilot Program. It opens the door for quite a bit of different ways of doing things and thinking about things in terms of cadencing these milestones. So a couple of big things to pull back. We have 3 Reactor Pilot Programs awarded to us. We talked about those a little bit in earnings. One is Aurora-INL. The other is for the Atomic Alchemy pilot prototype production reactor. That is on pace for that plant and specifically in pace to turn on in June, July of next year, 2026. It's incredible. It's awesome. It's really cool to see how that's progressing. So that's a pretty big set of milestones alone to achieve that. So obviously, we'll continue to update the market as we hit milestones on that front as we execute into that.
+
+Then, there's the Pluto reactor, which is basically plutonium fuel testing reactor. That will have a continued set of milestones as well. That bridges well into serving both research and development purposes for us, to serve that for the government. We announced earlier today partnering with Idaho National Laboratory and Battelle Energy Alliance about providing fast neutron irradiation capabilities. Pluto will kind of expand on that capability set, but that has an incremental set of milestones that will march forward about moving towards basically plutonium-driven fuel systems and critical assemblies and test reactors that are happening on a pretty fast time scale as well that we'll continue to update the market over the course of the next 6 -- well, the next 3, 6, 9, 12 months out.
+
+And then back to part of where your question was on the Aurora-INL plant. The authorization path that's important here it allows us to move into the construction activity much more quickly, so we can start building the plant. We broke ground in September. We're moving into major excavation work here coming up shortly and then moving through the full-scale procurement and activities as we speak, including stuff we've already done, stuff we're ramping forward into.
+
+That is going to be pretty important for us to be able to turn that plant on. We are still targeting in the '27, '28 time lines for that plant to commence operations, to turn on and go. There are some things that might be accelerative to benefit that, but some of that can also just help take out or accommodate some slack and other things in the system. It's just important that you can move fully into the build stage so that you can move through these things more iteratively.
+
+And then on top of that, the key thing that's enabling all of this is the ability to actually like fabricate fuel to put into these reactors. And that's a critical part of the supply chain that we've been focused on for a very long time and with the Reactor Pilot Program and then the associated fuel pilot program allows us to move into. And as we talked about and we announced earlier today, we see some pretty sizable milestones there in a really compressed time window and it illuminates objectively how clearly beneficial these things are for us.
+
+We are building a fuel fabrication facility to make fuel for our Aurora plant in Idaho, where you can partner with the government. We're using an existing building at Idaho National Laboratory to do that. That building needs to have some refurbishment and then have equipment go into it. That building going through the traditional -- the kind of legacy DOE -- because it's a DOE facility, DOE authorization path before the executive orders, we were moving at a pace that was in the order of like 2 years to kind of get close to a milestone that then when we reset the process under the pilot program, starting from 0 there, granted we had some work done so we can kind of copy-paste over that, but we moved in 2 weeks to hit this significant milestone that is now allowing us to actually do the construction work there and sell equipment and fabricate fuel much more quickly. So there's clear benefits that we're seeing that we are going to be in pace to have things moving faster and be able to deploy and turn that plant on.
+
+I will caveat that, that plant in Idaho, it is not going to be selling commercial power to the grid under DOE authorization. That's not what its intent is. You might be able to do some work selling into not just power but irradiation services to the lab complex and the Department of Energy as part of the authorization, but the point is we get this built more quickly, get the initial operational experiences and everything else, and then we can take that path over to the NRC. And as indicated by the expanded MOU, signed, so the MOU signed by DOE and NRC just in the last week or 2, they made it clear that the NRC is going to build on the DOE's work for that. So we expect -- look, there's some new work, obviously, to do that kind of thing, but it's supportive that they're already getting in front of that. Part of why they're looking at that is to build off the success that we can do under the DOE.
+
+And again, the feature DOE has compared to the NRC, the NRC has been doing a lot of work to get ready to license advanced reactors. DOE has been licensing advanced reactors for a long time, so they already have those muscles internally. Now they're just using them a little bit differently, externally, and that's hugely beneficial because then the NRC is going to be able to build off and reference those things. So it kind of keeps the same pace and cadence of operations for what we're trying to do for the Aurora plant but opens the door for accelerated milestones on that and then additional accelerated milestones for other things going on.
+
+Tyler Bisset
+Goldman Sachs Group, Inc., Research Division
+
+Awesome. Super helpful. And then really appreciate the incremental details around the 20 tons of plutonium reserves potentially being made into 180 tons of Aurora fuel. Can you help me understand what underpins that conversion math or your assumptions because that was a lot more than what we were estimating? And then is this an opportunity for your fuel recycling facility? Or would processing this material require a separate NRC license facility? Because it sounds like that fuel source could accelerate your deployment schedule.
+
+Jacob Dewitte
+Co-Founder, CEO & Chairman
+
+So one of the things that we got -- I love that question for so many reasons, and I'm sure some folks are probably going to be a little nervous that I'm going to spend the whole time getting into the technical details, which I'll try not to because on the pre-recorded practice sessions, we were thinking about getting really, really deep on all this. Let me rephrase that. I was just doing that because this is one of my favorite things technically.
+
+So to answer your question, yes, so the key thing about plutonium, right, is it's an incredibly useful fissile material as a fuel source. In other words, if you think about HALEU, is 19% -- up to 20% -- less than 20% enriched in uranium-235, the balance uranium-238. And the fast reactor, pretty much all isotopes and plutonium, but especially the stuff being made available, which is mostly plutonium-239 with some plutonium-240 and 241 in there. But that material, it's a great bridge fuel because it can be a direct replacement for the uranium-235 without needing any enrichment, right? It already exists.
+
+So you blend it in with uranium. In our case, you have some zirconium to obviously make the metallic fuel, but you just blend the plutonium with uranium to make a HALEU equivalent type fuel form. And the thing about plutonium is it's an even better fuel than uranium, so you need less of it to get commensurate performance.
+
+So on average -- and it depends by the variations and flavors in the fuel, but on average, if you basically -- it's about 11-or-so percent equivalent. So about 11-or-so percent plutonium is equivalent in our reactors in behavior and performance to about 19% -- just under 20% enriched uranium. So that's where that conversion and math comes from. So that's why it's such a potent fuel form, so to speak.
+
+So that's pretty cool. That's obviously very accelerated for a lot of things. And for that facility, that's one of the things that was encompassed in the pilot program, the fuel pilot program awards and being able to do that kind of work there at an initial stage on initial scale. So it may, at the end of the day, convert over to a larger scale kind of commercially licensed facility, but to get through some of the initial sources of that material and initial supplies, assuming that that's fully made available and we have access to, again, key thing on that, then we have the DOE fuel pilot program selection to support that.
+
+It's hard to overstate the significance of the government moving this material away from a $20-plus billion taxpayer funded liability to bury it, literally mix it with kitty litter in the sand and bury in the desert in Mexico versus making it available to be a bridge fuel for the advanced reactor industry and completely changes the paradigm where you no longer or feel constrained because of that. It's huge. And what's significant about that, obviously, is not just that you can build more reactors sooner, but that means you can scale more powerful and significant orders to the enrichment market as well as what we're doing on the recycling side. It's incredible. It is absolutely, absolutely incredible.
+
+So for me, like that was one of the most exciting things to have happened this year because of what that catalyzes for building more things sooner without like having to be dependent on other factors and then instead using that -- basically the ability to build more plants to convert to more fuel orders to then help scale that fuel supply side more quickly. So for a long time at Oklo, we've been working to advocate for government bridge fuel supplies as a key enabler to kick start the commercial fuel supply chain. And I think we're seeing that really take root and open the doors for that to move in a totally different way. So yes, seriously, it's a really, really significant policy move to enabling the deployment of more nuclear power quickly -- more quickly.
+
+And I'll just add one little piece to that. Like not all reactors and fuel fabrication approaches can benefit from plutonium the same. It has different characteristics to it. We just know it works really well in fast reactors because we spend a lot of time developing and researching it for that. So that obviously is part of the benefit of fast reactors and their ability to be quite fuel agnostic and fuel flexible.
+
+Operator
+
+Your next question is from the line of Vikram Bagri with Citi.
+
+Unknown Analyst
+
+It's [ Ted ]. I wanted to ask about the Pluto test reactor. So it looks like it's going to be deployed after the first reactor at INL. Is this going to be the template for all the future reactors? And what are the differences to Aurora? Is it only that it's going to be run on plutonium? Should we also assume a 75-megawatt size for it? And then just lastly, what are the main learnings that you hope to obtain from this test reactor?
+
+Jacob Dewitte
+Co-Founder, CEO & Chairman
+
+Yes. It's a great set of questions. So basically, it's a little bit different. It's bespoke to enable the accelerated sort of fast neutron irradiation testing capabilities that a system like that can afford. That's important for a couple of reasons. Like part of what we've talked about is, at the company, right, if you think about what Oklo does, obviously, the reactor part is what people focus a lot on. We sell power. We sell heat. But we have these other parts of the business that we had to build to deliver into that like fuel fabrication, which will help us, obviously, make fuel for our reactors, potentially for others, too, which is part of what some of the investments and partnerships, which we announced this quarter, touched on.
+
+Additionally, we talked about recycling, which is great because we can make fuel for ourselves as well as potentially for others and sell various materials and isotopes as coproducts from that as well as possibly recycling services, all great. And then obviously, the isotype side of the business, which is specifically focused on that.
+
+Part of the reactor part of the story, though, and also somewhat ties over to the isotope side is we are a fast reactor. We use fast -- we make fast neutrons. We will have fast neutrons to help test and characterize materials and fuels. That is not a capability that we've had in this country in 30-plus years. And it's not a capability that the Western world has had in a similar time frame, so like in 20 years or so. So it's an important thing that we're bringing to bear. The government set forward on building a big, dedicated test reactor, but it was a government program. So it naturally had a lot of sort of challenges around it.
+
+What we're doing at the Aurora plant and our ability to do that and therefore, also offer that as a potential revenue-generating aspect of the company, which is, hey, we have fast neutrons. We can provide irradiation capabilities not just for our own use but for others as well as what we're doing on the Pluto side, which expands that and gives us that cadence of experience in a plutonium-based system is pretty accelerative to opening the door for moving into better deals and different materials and expanding the fuel performance envelope so that we can maximize what we do.
+
+We're in a good spot to be able to build and operate. That's great, but there is going to be so much more we can get out of these materials with more end fuels in terms of timing the reactor and just ultimately better economic performance with more data that we can generate using this.
+
+So that was part of the incipience to look at doing the Pluto test reactor. It's a smaller system. It's not producing electric power. Its primary job is -- I mean as of now, its primary job is focused on making fast neutrons. And it's a culmination of activity, so think of it more as a program than just a single reactor that will involve some plutonium critical, getting some experience doing that with our national lab partners, doing some work around the plutonium handling and management and then moving that into obviously the full-scale like Pluto reactor.
+
+The reactor will be smaller in its power production and will also be optimized to use plutonium. Since plutonium is inherently, in the nuclear space, higher worth, to use that terminology, fuel means we can actually use less overall fuel if we concentrate up the plutonium a bit more, which is what, generally speaking, fast test reactors have done. So that means we can kind of use a higher loading of plutonium, total -- less total fuel mass, get more thermal power out of it and therefore, more neutrons to test things with it. And it's a pretty favorable thing to do with that. But the system will give us a very significant amount of repetition about doing the actual work around plutonium fuel fabrication going forward.
+
+The fuel will look, generally speaking, very similar to the Aurora fuel if we use plutonium in it, in terms of form factor and type. It would just use a lower amount of plutonium in it because we have -- what we're designing to in the Aurora plant is going to be interchangeable between HALEU, plutonium-bearing fuel and transuranic-bearing fuel. And that means you kind of dilute the plutonium more compared to what Pluto will do.
+
+When you think about what Pluto is as a program, it's the cadence to build on top of the fuel -- the plutonium fuel fabrication piece into the plutonium reactor part. So over the course of the next year, we're gaining experience with plutonium criticality and work around that, and then we'll move that into the next steps of actually building the plant going forward. Those are high-level kind of perspectives on where it goes, but it's a pretty significant enabler for getting those repetitions under our belt to then start fueling Aurora plant with plutonium-bearing fuel.
+
+Now just to put a number on this, like the thing that's really powerful about moving in this space, like building out these fast neutron irradiation capabilities, yes, it opens the door to do additional things for irradiation services. Yes, it opens the door to do some additional isotope production using different material types. And yes, it's important because it helps us with ourselves as well as other companies come to us or government programs can come to us and either rent or buy irradiation type time -- sorry irradiation time or similar types of kind of exposure in the environment to help bring some materials that are quite mature but need a little bit more to go over the finish line that are inherently basically economically better than what we have to use based on what the experiences are today.
+
+Those are still great because we can make stuff work. But that looks -- this is a platform for R&D and margin improvement. There's one way to think about it. So anyway, that's kind of the cadence of how we see things.
+
+Unknown Analyst
+
+Got it. That's super helpful. And then I just had one follow-up. On Slide 9, it mentions the breakdown of CapEx by components. And I think it's lifted by number of components. Are you able to share just directionally what that is in dollar terms?
+
+Jacob Dewitte
+Co-Founder, CEO & Chairman
+
+Yes. I mean, I guess I'll kind of hand this over for Craig, if you want to kind of answer some of it, and then I can chime in.
+
+Richard Bealmear
+Chief Financial Officer
+
+Yes. So I think, directionally, we would expect the dollars to be similar to the components. In terms of an actual dollar breakdown, we're still refining a lot of our cost estimates now that we've got Kiewit onboard and now that we're deepening some of our procurement activities. And we'll probably have more to share on that going probably into 2026.
+
+Operator
+
+Our next question comes from the line of Jed Dorsheimer with William Blair.
+
+Jonathan Dorsheimer
+William Blair & Company L.L.C., Research Division
+
+I guess, first, I don't know if, Jake, you want this or Craig, but just if you could talk a little bit about backlog. I think it was 14 gigawatts. Has that changed at all? And maybe just a little bit of color on the discussions that you're having. Is it mostly utility? Is it mostly hyperscaler? Just that breakdown if you would. And then I have a follow-up.
+
+Richard Bealmear
+Chief Financial Officer
+
+Yes. Jed, I can take that. So I'd say the 14 gigawatts is still predominantly made up of data center and hyperscaler customers. I think I mentioned to you last time we were on the phone, we also got other potential customers in the mix that aren't identified customers as part of that 14 gigawatts that could maybe even cause that number to go up.
+
+I know the bigger question is when do you convert that into a PPA. And I'd say we are working on that with pace and urgency and actively exchanging term sheets. I never want to promise an exact date on when we might announce something because it takes Oklo to be on the same page with the customer, but I'm really pleased with kind of how those commercial discussions are progressing and not just on the PPA price, but I think we're also seeing good traction on -- similar to what we were able to achieve with Equinix, which was a prepayment for power, we're also progressing conversations with customers that could convert into prepayment for power or prepayment for fuel or some other asset-oriented contribution to the deal itself.
+
+Jonathan Dorsheimer
+William Blair & Company L.L.C., Research Division
+
+Got it. That's helpful. Just along those lines, the discussions, does -- has Atomic Alchemy in having that standing up a fueling recycling, even if that's in the future, has that kind of moved some of those discussions along from a supply chain risk? And sorry -- yes, that's...
+
+Richard Bealmear
+Chief Financial Officer
+
+Well, I would say Atomic Alchemy is probably -- the types of conversations we're having around feedstock for isotope production taking customer discussions into contract conversion, the steps are the same, but it's definitely with different counterparties on both the feedstock side, the supplier vendor side and all of that. But I think we are excited around the tremendous progress that the team is making around the reactor pilot program that Atomic Alchemy was awarded. And in addition, we're also making good progress on the lab scale facility that will be down the road at INL.
+
+And I think, as I've said earlier, there is the possibility for the lab scale project that we could be generating revenue and gross margin. It's going to be in the single million dollars, not anything bigger than that, and it won't be exactly ratable. But we're excited about what we might be able to do to actually turn some of that -- the lab scale facility, especially in the gross margin in the first half of next year.
+
+Jonathan Dorsheimer
+William Blair & Company L.L.C., Research Division
+
+Got it. And then just one for Jake. If I just look at using an EBR for isotope production and isolation, do we need to wait until you get the VIPR up for sort of an actinide tailoring? Or can that be done in between? I ask because CANDU is really well suited for cobalt and lutetium, which are being used for sort of the radioisotope or radiopharma market right now and just curious on the EBR side, whether or not you need that tailored reactor before you can do that or if there's an in-between.
+
+Jacob Dewitte
+Co-Founder, CEO & Chairman
+
+Yes, it's a good question. I mean there's a couple of steps actually to parse that out. So one, there are some things we can do in the near term without a reactor in terms of isotope sort of consolidation and recovery that we are making progress, we talked about in the update, towards -- in Idaho, where you'll be able to actually have infrastructure and facility capabilities to actually do some of that work and start producing some of the isotopes from those kinds of sources.
+
+But for sort of the most meaningful -- and that's great because we get a lot -- we get some practice, repetitions, maybe helps accelerate revenue, which is cool. But at the end of the day, it helps position us with experience to then move into the next stage, which is where the reactors really unlock significant differentials in performance.
+
+And yes, CANDUs do that. They're also not in the U.S. And there is a pretty important focus on these production capabilities being in the U.S., not even in our nearest neighbors, right? And so -- and CANDUs are pretty limited. They can do some things pretty well, but they can do everything very well. And the versatile isotope production reactor design is designed to do pretty much most everything pretty well that you can do with thermal neutrons, key caveat.
+
+So the nice thing about that reactor is we'll have its prototype up running by the middle of next year. It uses standard pressurized water reactor fuel bundles that are just shortened in height at commercial scale. And that's awesome and filled with LEU. And it's part of what we were drawn to with this business, was it wasn't trying to design because some of the margins and the numbers that these radioisotopes bring to you have drawn some folks in the field to look at really exotic reactors because you can pay for it because of that.
+
+So you kind of build like a Formula 1 custom reactor to produce these isotopes when maybe all you need is like a Ford F-150 or something similar to that. It doesn't have to go quite as fast or be quite as exotic and therefore, way cheaper and easier to build. And that was one of the things that really attracted us to Atomic Alchemy, is we were working with them. So that's one of the features here is what that will enable.
+
+But then there's the other part, which is some isotopes, you really -- I would say you best produce, if not, uniquely produce in a fast spectrum environment. You need fast neutrons to really do that. And that's where being able to harvest some of the fast neutrons in our fast reactors will unlock those capabilities pretty attractively and then tie that in to the Atomic Alchemy kind of sales channels and -- well, productization and sales channels. And that's a pretty cool feature set that we'll be able to have.
+
+If you look back in the analyst history, the Fast Flux Test Facility, one of the reactors from which we derive our legacy, a reactor that our Chief Technology Officer spent a lot of time at, had quite cool setup to do a bunch of fast neutron like isotope production work, like a ton and pretty attractive economics to go with it. And that was in a somewhat constrained way of thinking about it.
+
+And then on top of that, the Russians have been significant players in the isotope market at a global scale because they've been using our fast neutron capabilities to do that, too. So it's a pretty significant game changer that does diversify away from capabilities that you can't do with just thermal neutron reactors. But at the end of the day, those are pretty important things.
+
+One other thing I'll just throw out that we've talked a little bit about but it's important to kind of illuminate, to go back to the VIPR reactor, one of the things it's designed for is also being able to do silicon radiation which is, generally speaking, the -- or one of the gold standards for achieving silicon doping right? If you do phosphorus like type vapor deposition or infusion, it's kind of limited in wafer thicknesses and other things like that. Neutrons permeate the material much more uniformly and will then transmute and make that phosphorus doping happen naturally, and it's a pretty attractive thing.
+
+That capability used to be used, when it existed, in [ a ] way because the ability to do that, the radiation kind of went away. So we're also -- that's one of the cool things about VIPR, is it could do stuff like that, too, right? So a lot of flexibility that you couldn't otherwise do without a system design that would be versatile in nature.
+
+Operator
+
+Your next question comes from the line of Jeffrey Campbell with Seaport Research.
+
+Jeffrey Campbell
+Seaport Research Partners
+
+Congratulations on all the progress. I hadn't planned this one, but I found the last discussion pretty fascinating. So Jake, let me just ask, when you get around to trying to do isotope radiation with an Aurora, are you going to be able to do it in a way that won't interrupt your fuel cycle? You mentioned the Russian reactors. It has kind of a peculiar fuel cycle that allows it to go in periodically and do the irradiation. And of course, the CANDU can do it without any interruption. But typically, reactors have to match their fuel -- their refueling cycle with their irradiation. So I'm just wondering what you think about that.
+
+Jacob Dewitte
+Co-Founder, CEO & Chairman
+
+Yes, it's a great question. By and large, like the focus of those reactors is really power production but some of the flexibility that will be afforded to us by -- for example, the Aurora, Idaho as well as the Pluto reactors will give us a lot more flexibility to do more work around those things. So think of it more as -- imagine some -- like for normal commercial ops, if we want to harvest some of those neutrons because it makes sense, we're going to have to fit it into the power cadence because that's the primary driver. But we'll have some flexibility in some other reactors that will give us more flexibility to kind of match that accordingly because we're going to be doing other testing work.
+
+So there's going to be some interesting planning and coordination like it is for other test reactor -- or radiation and test reactors to sort of optimize to that and do the trade-offs. But generally speaking, yes, for the vast majority, the focus, if we're going to use any of their fast neutron capacity, would be largely skewed towards minimizing, if not, completely avoiding interference on the power operation schedule, while there will be a couple that will have more flexibility that we can kind of optimize, too, on the isotope side if it makes sense to do so.
+
+So it's kind of one of those acknowledgments of, yes, we're going to have to look at possibly parsing some of the asset's operation schedules if it makes sense to do. And that's the key question there, is if it makes sense to do.
+
+Jeffrey Campbell
+Seaport Research Partners
+
+Okay. Yes, that makes sense. The other question I wanted to ask you is, if you could give us any update on your proposed natural gas Aurora partnership with Liberty Energy. Liberty has recently spoken about it at a high level, and they seem to indicate they've been aimed towards large projects. Frankly, I wondered if there's been any diminished appetite on Oklo's side as its progression to Aurora construction has accelerated.
+
+Jacob Dewitte
+Co-Founder, CEO & Chairman
+
+Yes. I think, in general, we still see it as a pretty powerful bridge. I think we've seen now several other groups be talking at a broad thematic about the gas-to-nuclear combo and bridging capabilities and features that offers. So we continue to see that as a positive thing in different customer discussions. I think what we see in general though -- and this is a bit anecdotal, so take it for that. But I think some of the near-term focus and priorities at the moment is around utilizing stuff that's basically on grid to be the nearest term operational kind of preference, where that will be a key enabler for getting some stuff built or powering stuff that's already being built and filling in the power to either meet additionality goals or other kind of feature sets that this can do.
+
+And then that is in parallel happening, but just the temporal nature of the project planning isn't kind of followed by the benefits of being able to bring gas and to enable power at a site for either a colocation or near location or even behind-the-meter approach that gas can enable pretty successfully. So I mean it's still a pretty powerful feature in market conversations and discussions. But I think at the end of the day, like -- and I don't think there's much diminishment on it. I think if anything, there's a lot of validation that it's valuable and it's a feature, and it continues to kind of evolve and progress.
+
+One of the challenges, I think, we see in the commercial markets, I don't know if you'd call it a challenge, but one of the things we've observed is a lot of focus on the hyperscalers has been on the energy objectives they have over the next -- on multi-month scale time frames, right? Maybe that extends out to 24 months or less, but like that's where they're obviously really, really focusing most of their activities, is making sure they're in a good position for all of what they need then. And they're increasingly looking at the longer-term views just given how constrained the power markets are as a whole, realizing they need to expand those horizons and that systematically continue to see evolve and gas as an ability to bring power to a facility or site sooner is pretty powerful.
+
+I still think -- I'll say that -- I still think that the understanding of the benefits that making fuel -- government fuel availability, like was it increasing government fuel availability, like the plutonium side, which can be quite accelerative to building new nuclear plants faster and more plants faster? It's still being digested in the market. So like that may have an ability to help show a path to bringing nuclear on even sooner, and that's, I think, pretty potent. And I think it's still very early innings for folks' understanding of what that means given the nature of it's still pretty fresh.
+
+Jeffrey Campbell
+Seaport Research Partners
+
+Yes, that makes sense. But at least I wasn't completely irrational. You know what I was saying, so appreciate the color.
+
+Operator
+
+Your next question comes from the line of Derek Soderberg with Cantor Fitzgerald.
+
+Derek Soderberg
+Cantor Fitzgerald & Co., Research Division
+
+Just one question for me. Is there a level of prepayments you need to make to secure some of these long lead time items in either the nuclear, nonnuclear supply chain? And wondering if you can quantify how much capital it will require to just ensure access to those long lead time items as you scale.
+
+Richard Bealmear
+Chief Financial Officer
+
+I can take that one. So like we're currently working on progressing, I don't want to mention the vendor specifically, but some of the other supply chain partnerships we've already announced. And there might be some form of a prepayment, but it's in the -- it's in that 10% range. So it's a number, but it's not significant. And I think one of the reasons, though, that we're so glad about the success we've had around the capital raise is that we can -- we don't need to have capital be a constraint that if we find an opportunity, then it makes sense in terms of the returns to do a prepayment because we can get a better price point on the asset, then we can go forth and do that.
+
+Operator
+
+Your next question is from the line of Sherif Elmaghrabi with BTIG.
+
+Sherif Elmaghrabi
+BTIG, LLC, Research Division
+
+Just a two-parter on the fuel line pilot at INL. Do you have a target online date? And then the facility was also selected for a DOE program, which you mentioned. And I'm wondering if there's an economic opportunity there as soon as the facility comes online or if that's also something that needs NRC approval to monetize?
+
+Jacob Dewitte
+Co-Founder, CEO & Chairman
+
+Yes. So I just want to understand, the Aurora plant, so that is going through DOE authorization to get built and turned on initially and get through some of the initial operational cycles. And then the intent is to move that over into a commercially operating space. I will flag like moving that over to an NRC license is the most likely path. It's not impossible, though, that given some of the dynamics of what's happening on the DOE side that there might be pathways to kind of sell into the government that could exist. We're not planning that that's exactly where it is, but that is something that has been -- and it was in the EOs, and that might be something that does evolve. But the plan is to convert that over to an NRC license after some of that experience is gained, which, at the end of the day, is great because you point to real data with the real plant. Just move some of that stuff pretty constructively forward.
+
+The Atomic Alchemy plant in Texas, the intent we have on there is to primarily be serving where DOE is. It's not impossible that we go convert it over to an NRC license as well. There's some optionality potentially there. But the general view is keep to the DOE facility, get the experience of loading it, running it, doing some radiation work, providing some support to DOE emissions and possibly opening the door for other things. But at the end of the day, that's kind of how we see that, and that similarly is kind of how we think about the Pluto reactor as well.
+
+Again, it's possible that there's a feature set to convert many of these facilities or convert these to NRC license, all of them to NRC licenses. That's a possibility, but the general purpose and plan is we kind of see the Aurora-INL being the one that would make the most sense to do that with. The other 2, not necessarily, but it depends on some factors that may evolve.
+
+Another thing I'll flag is coming out of the executive orders, one of the things that's mentioned and clearly defined in there, just to highlight, is the fact that DOE authorization or DOE-authorized facilities can support and provide "product", right, whether that be power or heat or isotopes or whatever it is to the Department of Energy use cases. That can then, by how these things are defined, can be and proceed and be built like -- sorry, things that do that work can be under -- like basically authorized under DOE authorization. And that could mean, for example, we are in a position where we build more plants under DOE authorization because they're serving DOE. So that could be something that also occurs. There's nothing firm on that but just given that the EOs put that out there and it does open the door for the possibilities that, that might be something else.
+
+The nice thing and the key thing here that's so important for why we felt confident and excited to move in this pathway that's accelerative is because it's clear that the NRC and DOE are working well together and working together to, I would say, be efficient in how work done by one will be complementarily kind of informative to the other. And that's an important kind of capability set. And again, that's evidenced pretty clearly by the recent MOU between DOE and NRC, which is supportive of the fact that getting DOE authorization and going through the technical work to do that will be constructive in NRC either licensing conversion and/or, I should say really and future NRC license applications for future commercial plans.
+
+Operator
+
+And our final question comes from the line of Craig Shere with Tuohy Brothers.
+
+Craig Shere
+Tuohy Brothers Investment Research, Inc.
+
+What are the prospects for rounding up remaining fuel needs to maximize your made in INL powerhouse to 75 megawatts? And if you don't have it upfront as you commence operations, the later get NRC approval and can commence full commercial sales. At that time, could you refuel to maximum capacity?
+
+Jacob Dewitte
+Co-Founder, CEO & Chairman
+
+Yes. Although given the recent activities and traction around a multitude of kind of fuel policy arrangements as well as what we're seeing in the commercial fuel supply markets, I think we feel increasingly confident that we'll be able to have the fuel needed to run that facility, if not, immediately at the onset of full power pretty close to the immediate onset of full power. Not that this is the plan because we feel, again, increasingly confident that there's going to be extra HALEU that we can use for that facility from actually a variety of sources, which is the diversity of sources is part of the confidence -- the inspiration of the confidence.
+
+The other part of it is we can in that reactor, if we needed, if we were able to get, for example, access to some of that plutonium feedstock, mix that into fuel that could be located and commingled with the reactor fuel there. It just means some assemblies would have plutonium-bearing fuel. Some would just be uranium-bearing fuel. And you can design it to work just fine in that configuration and manner. And given that, that material exists in a pretty much ready-to-fabricate form, it gives us a lot of confidence in how that can actually kind of proceed. So that's how we see that kind of playing out.
+
+Craig Shere
+Tuohy Brothers Investment Research, Inc.
+
+Great. And last for me. To the degree you start employing, which sounds like a great opportunity, this plutonium mix to help bridge quicker plant deployments, does that have any implications on NRC regulatory process? Do they have to shift because of the new fuel mix and having some plutonium in there, does that have any proliferation concerns of any kind?
+
+Jacob Dewitte
+Co-Founder, CEO & Chairman
+
+Yes, it's a very good question. There are some inherent things that are a little different. To go back in the history of this plutonium material, kind of its legacy and policy history, the President's executive orders directed 34 tons that was slated for dilute and dispose to be made available for reactors for fueling. Before the program of diluted and dispose, which is are we going to spend $20-plus billion of taxpayer money to just blend the stuff up to kitty litter and sand and bury it, the program before that was actually fabricated into fuel as part of a joint treaty with Russia at the time for stockpile reduction. And the plan was to take that material, fabricate it into fuel for light water reactors and then use in light water reactors. It was called the MOX program and then the facility in South Carolina to do that.
+
+That program, there's a -- you could spend a long time and for time's sake, I'll keep it very simple and a little bit simplistic. That program had significant struggles because plutonium fuel and light water reactors, while very doable, is inherently something very different than what we do as a country here. So the infrastructure to do all that wasn't necessarily in place because plutonium does behave notably differently in a slow neutron reactor than a fast reactor. It still behaved differently than uranium and the fast reactor, but the difference is it is more amplified and accentuated in the thermal spectrum or slow neutron reactor, especially water-cooled reactor.
+
+And it wasn't something utilities were really wanting. Fuel markets were not constrained. It was not something that there was a market for. And it was a top-down government-run approach where the facility got way out of control in costs and everything else because it wasn't mainly driven by a kind of a more, I would say, entrepreneurial or enterprising kind of dynamic.
+
+So the recommended options, the best path coming out of that program basically not being in a spot to not proceed was to actually -- the technical panelists were to say, okay, the best thing would be to put it in fast reactors. But we don't have any fast reactors, so the next best option is just to dilute and dispose it. Well, now we're going to have fast reactors, right, based on what we're doing. So our view is, hey, this is great because -- it's not just that. There are other companies developing reactors and other things that can use this material, and there is a fuel crunch. So now we're in a different world where -- how they think about that.
+
+That facility that I talked about under the light water MOX program was actually going through and have gone through a -- like all of that was set up to be under NRC purview, generally speaking. And so there's a lot of infrastructure in place and experience around that. So there are some differences with things you need to do on the regulatory side for this. But it's not -- it's, generally speaking, pretty well known. But what's really powerful, too, is that DOE expanding kind of with the Reactor Pilot Program to include the fuel pilot program to help fuel these reactors under the pilot program. They also are extending their authorization capabilities, and they are the ones that already oversee from a permitting and authorization perspective plutonium work. So it's great to be able to kind of tie in with that.
+
+And we've been expanding our partnerships with some of the national labs who have experience doing all that work. So it kind of helps us drive and build out that expertise set in partnership with the experts that we have in this country and kind of accordingly kind of be able to scale that forward.
+
+So that's like -- that's how this course sort of charts. It's got some things that are a little bit different than the uranium side but nothing significantly departed and stuff that's largely like noble and manageable. I mean again, there's contours and elements to it. But generally speaking, there are -- this is -- this has a history and precedent behind it in a multitude of ways between DOE and NRC.
+
+Where there is -- and to your other part of the question, where there is kind of an exciting opportunity around this is the story and the conversation around proliferation. And I say that because the kind of only way to permanently destroy plutonium out of this universe is to fission it. So by putting it in the reactors, you're fissioning it, and you're trying to get into 2 fission products that -- like stars have a really hard time synthesizing through supernovas into -- back into plutonium. So that's a cheeky way of saying like this is a pretty good way to get rid of it and generate power in doing so and solve a fuel crunch while doing so.
+
+So if anything, our view is pretty strongly, is you obviously apply all the relevant state of the art -- and this is something we've leaned into because of our work in recycling in other fields. Applying state-of-the-art capabilities on safeguards and security around managing this material from receipt into fabrication and then into reactors, and then in the reactors, you're destroying it.
+
+So it's actually a pretty cool setup and something that, as a country, we were geared to do. There are some, I would say, predicts out there, mostly just pretty clear antinuclear advocates who have said, "Oh, this is a non-proliferation concern." I've never understood that because destroying plutonium, I think, is the best way to get rid of it. I think it's objectively the best way to get rid of it. So yes, it's just pretty elegant solution to actually get rid of the material. I think what it really distills to, though, is just like, oh, this is different, and then it's just changed. It takes a little bit of time to socialize and people are like, oh, yes, makes a lot of sense.
+
+The other concern is like, well, we'll incentivize other countries to do the same, which, I would also argue, well, I think if we incentivize other counties to destroy their plutonium, that's also kind of a feature in the non-proliferation world, so not necessarily the worst thing on that front. And then I think what's important, too, is this is legacy material from weapons programs. As we think about the future and recycling, you're not separating out pure plutonium using state-of-the-art technologies, which again gets back to how I think at a policy level, we should be thinking about leading in the world stage. If we, as a country, are, as what we announced in Tennessee, recycling material in a manner that does not ever produce pure separated plutonium, instead produces uranium, transuranic mix that's co-mingled, that's a good spot to kind of lead from. And so that's kind of how I think about the space.
+
+Operator
+
+And with no further questions in queue, I will now hand the call back over to Jake Dewitte, CEO and Co-Founder of Oklo. Please go ahead.
+
+Jacob Dewitte
+Co-Founder, CEO & Chairman
+
+Thank you. Thank you all for joining in today. We appreciate it. There's -- this is the second call since the executive orders were signed, the first call since we had the Reactor Pilot Program and fuel pilot program selections. So it has significantly changed how we think about the regulatory landscape and the regulatory strategy we're employing accordingly.
+
+It's significant in its accelerated features but also in its regulatory derisking features. This aligns pretty well with what we're also seeing in the policy landscape, driving sort of a continued focus and effort on modernization at not just the Department of Energy but the Nuclear Regulatory Commission. Our work with the NRC has not stopped. It still continues. But now it gets the benefit and the accelerating benefit of working with the Department of Energy and the national laboratory ecosystem that supports this, that will help NRC reviews and generally speaking, enable a world where NRC reviews will be accelerated and made more efficient and generally speaking, improved by the experiences already done by the DOE.
+
+DOE has a tremendous track record of safely authorizing and reviewing and overseeing nuclear facilities. And the NRC and DOE, don't forget, were born from the same entity, the Atomic Energy Commission. And so there's a lot of kind of common threads. They worked together for a long time, and we're happy to see that that's kind of continuing and in some ways, they're even getting closer again to work together.
+
+And I mean that in a constructively independent way, where NRC can use DOE's best resources and information because one of the best ways you can do safety analysis and safety oversight is good understanding of what the system is you're overseeing and leveraging our nation's leadership, technically speaking, that the DOE has, the national labs have to help support that. It's a pretty powerful combination.
+
+So I like to think that we're now kind of moving into this next chapter of this new wave of nuclear that's leveraging the best features of government to its maximum abilities, and that's a benefit for all of us. Additionally, the opportunities around making more fuel sources available, for example, this plutonium material as well as continued traction and efforts to stand -- to build out and invest in and expand the uranium fuel supply chain are pretty accelerative because the bridge fuel opportunities that plutonium gives us is a game changer and building more reactors more quickly and using that to help accelerate the investment and development of the uranium enrichment markets.
+
+Uranium enrichment is radically undersupplied in this country, practically meaning like 18%, 20%. We need more of it for just our existing plants. And we also needed, of course, where we're making less than 1 ton a year but for HALEU. And so things we can do to help signal more powerful offtakes, orders and investments and therefore, expansion in the HALEU side, supported by building more reactors sooner using bridge fuels is pretty accretive to realizing more fuel supplies and to use maybe a bit of a silly term, fuel leadership and fuel dominance because back in the 1980s, we as a country, had more fuel production capacity, meaning conversion enrichment, de-conversion, fabrication in the rest of the world combined. And now we definitely don't. So a big opportunity for how that's proceeding. And bridge fuels are a really important piece of that.
+
+And then on the reactor front, one of the great things about the pilot program and the benefits there is an ability to move into building. A big thing that we have long thought from policy would be very supportive of nuclear is to move the front-loaded paperwork to be developed largely or largely as in parallel as possible with the actual building of facilities so that you can do the kind of learning of building while you do the regulatory work so that you know what you're building, 1, 2, and you know what you're licensing. But also you can have it built and then you get the final authorization before you actually load the fuel and actually run the plant.
+
+And the DOE pathways allow us to do that. So we can accelerate time lines. And it's bringing forward an ability to start going from greenfield and the design of a reactor to turning reactors on and what looks like it's going to be less than 12 months for at least what we're doing on the Atomic Alchemy side as well as some other companies that are pursuing this that were selected under the program. That's, as someone said recently, kind of Manhattan project level speed of being able to do these things. And that's a real feature to moving all of this excitement and enthusiasm into real-world application and the iterations that come from being able to build and build more quickly.
+
+So this is a bit of a dream set of scenarios that I think Caroline and I long dreamed about when we were starting the company, and it's all coming together in a very, very accretive time for us, not just to be positioned to take advantage of it because of where we are as a company and the maturity we have but also the resources we have to bring to bear to it. So we're very excited that we are selected for 3 of those Reactor Pilot Programs as well as the fuel line programs and executing down that as we also scale forward with additional customer development and future sites and deployment opportunities.
+
+So thank you all.
+
+Operator
+
+Thank you again for joining us today. This does conclude today's conference call. You may now disconnect.
