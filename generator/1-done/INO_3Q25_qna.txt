@@ -1,0 +1,128 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] And your first question comes from the line of Ted Tenthoff from Piper Sandler.
+
+Edward Tenthoff
+Piper Sandler & Co., Research Division
+
+When it comes to Papzimeos, have you guys heard if they've officially launched yet? And I'm wondering how big of a deal do you think this head start that they have is, especially in a market where it's going to be a lot about education and educating physicians about new therapeutic options.
+
+Jacqueline Shea
+CEO, President & Director
+
+Thanks, Ted. Yes. So what we've heard from their public statements is that Papzimeos became available to order as of October 21. So Steve, do you want to talk about our expectations of being a fast follower and how we see our market entry?
+
+Steven Egge
+Chief Commercial Officer
+
+Sure. So we would expect when we look at rare disease analogies and in the time period kind of between when they're out and when we would expect to be approved in mid-'26, if the current time line holds, we would expect single-digit penetration into the prevalent population in that time period. So at the time we enter, the majority of the prevalent population will be available. Obviously, the incident annual diagnosed patients will be available. And then over time, we've talked about, we would expect continued treatment or redosing also to represent an opportunity. So by the time we arrive, the vast majority of the opportunity will remain. And like we've talked about previously, we do expect to have the preferred product profile in this space. So over time, we think there's still a significant opportunity, of course, for 3107.
+
+Operator
+
+And your next question comes from the line of Jay Olson from Oppenheimer.
+
+Jay Olson
+Oppenheimer & Co. Inc., Research Division
+
+Congrats on the progress. Our first question is, do you expect to have a similar label for 3107 versus Papzymeos? And do you think the requirement for debulking with Papzymeos is something that could present a key differentiator in the label for 3107? And then our second follow-up question is related to -- I think you mentioned you're still planning to run a pivotal study for full FDA approval. Is that study also required for ex U.S. approval?
+
+Jacqueline Shea
+CEO, President & Director
+
+Thanks, Jake. Great question. So Mike, maybe I can ask you to take the label question, first of all.
+
+Michael Sumner
+Chief Medical Officer
+
+Yes, certainly. So I mean, from a patient population perspective, we studied a broad population. We had 2 to 8 surgeries pretreatment with INO-3107. And we demonstrated clinical efficacy across the entire range of surgeries. As you are aware, we have a well-tolerated product profile. So we do believe our data would justify a broad label similar to what Papzimeos received.
+
+Jacqueline Shea
+CEO, President & Director
+
+So in terms of the minimal residual disease surgeries that Precigen's treatment regimen requires, we do think that, that's going to be a really key differentiator. What we're hearing from our market research is Physicians have questions around the logistics of scheduling those surgeries, so do payers as well. So we think in addition to what it means for patients, patients clearly don't want to undergo additional surgeries as part of the treatment regimen. But just from the logistical point of view as well, it also creates some challenges. Steve, Mike, I don't know if you'd like to add to that.
+
+Michael Sumner
+Chief Medical Officer
+
+No, I think you've covered it. That's good.
+
+Jacqueline Shea
+CEO, President & Director
+
+And then in terms of the confirmatory trial, Mike?
+
+Michael Sumner
+Chief Medical Officer
+
+Yes. So I mean, obviously, you heard me say today that we have submitted a Type D meeting request to the agency to align on what that confirmatory study is going to look like. It's difficult to say exactly the value of that study to a European filing without knowing the exact design. But clearly, any data collected under -- in a rigorous manner is going to help define our efficacy and safety profile. So I think any study that we perform will be of value to our European filing.
+
+Operator
+
+And your next question comes from the line of Sudan Loganathan from Stephens.
+
+Felix Ampomah
+
+Congrats on the quarter. This is Felix Ampomah for Sudan. I have 1 or 2 questions. Number one, can you please comment on the sales force preparedness post 3107 approval? And then secondly, if 3107 is approved, given that it's a DNA-based medicine and also Papzimeos is virus-based, can you comment on switching from Papzimeos to 3107, if there wouldn't be any cross reactivity issues there?
+
+Jacqueline Shea
+CEO, President & Director
+
+Great questions, Felix. So maybe, Steve, you can take the commercial readiness question.
+
+Steven Egge
+Chief Commercial Officer
+
+Yes. So we're -- as I mentioned in the prepared comments, we're advancing our launch preparations. In terms of what a field force would look like, we are planning to have MSLs as well as an access team out ahead of approval to begin to engage in scientific exchange as well as work with payers on pre-approval information exchange. And then we haven't guided in terms of the timing on the sales force. You've probably heard Precigen has shared that they expect a sales team of 18 or 18 territories. And I think it's a safe assumption that we would be kind of in that neighborhood, but we haven't provided specific guidance there. But we're certainly advancing commercial plans and plan to get out of the gate very, very quickly post approval.
+
+Jacqueline Shea
+CEO, President & Director
+
+Mike, the cross-reactivity?
+
+Michael Sumner
+Chief Medical Officer
+
+Yes, certainly. So there's certainly no reason to suspect there would be any cross-reactivity issues for patients who have previously received Papzimeos to receive INO-3107. The one thing we would anticipate, though, is it will be important to give the entire treatment regimen as clearly, we present different epitopes to patients. So they will need to have all 4 courses of the treatment.
+
+Operator
+
+And your next question comes from the line of Ram Selvaraju from H.C. Wainwright.
+
+Eduardo Martinez-Montes
+H.C. Wainwright & Co, LLC, Research Division
+
+This is Eduardo on for Ram. I guess some questions related to the DMAb and the DPROT technologies. I was hoping if you could comment a bit on the levels of expression that you're achieving for the DMAb. I know that there was a SARS-CoV neutralizing antibodies that you guys published in Nature Medicine, as you mentioned. Curious about what kind of titers you guys are achieving and if that compares favorably to kind of existing recombinant kind of titers and doses and where you can -- how you're envisioning prioritizing programs within each of these technologies and platforms?
+
+Jacqueline Shea
+CEO, President & Director
+
+Yes. That's a really great question. So we're excited around our DMAb technology. In the Nature Medicine paper, we described production of 2 different monoclonal antibodies against SARS-CoV-2 within the body. We were able to get sustained expression over 72 weeks. We didn't see any antidrug antibodies being produced. And this was a dose escalation and safety study, and we were able to see a dose response with an increasing amount of the DNA medicine being administered and we were able to increase the dose by giving -- sorry, increase the amount of monoclonal antibodies that we were able to detect in the blood by giving a second dose.
+
+So we were able to demonstrate in this first clinical proof-of-concept study, a concentration in the blood of about of over 1 microgram per ml. And that would certainly put us into the right range for a number of different antibody therapies as well as potentially some protein replacement candidates as well. But this was the first proof-of-concept study. We were able to show that these monoclonal antibodies were functional as well and as functional as the native monoclonal that we designed this program around. So we think this is very promising and has read through to production of other proteins within the body. At the end of the day, monoclonal antibodies are a complex protein to produce and we think this data bodes extremely well.
+
+Eduardo Martinez-Montes
+H.C. Wainwright & Co, LLC, Research Division
+
+Great. And any thoughts or comments on what specific programs you're going to potentially prioritize in further development down the line?
+
+Jacqueline Shea
+CEO, President & Director
+
+Yes. So we've -- this week, we're going to be presenting our first data on some of the preclinical work on some undisclosed targets that we've been conducting. And this first target that we're presenting on is Factor VIII for the treatment of hemophilia A. As we're progressing these programs, clearly, the majority of our resources are going towards 3107 at the moment supporting the potential launch of 3107. And so we're going to be looking to advance these programs once we get into the clinic through partnerships or once we have additional financial resources available.
+
+Operator
+
+And there are no further questions at this time. I will now hand the call back to Jacqui Shea for any closing remarks.
+
+Jacqueline Shea
+CEO, President & Director
+
+Thank you. Before we close, I'd like to reiterate the key catalysts ahead. We're now focused on the next milestones for 3107, which include expected BLA file acceptance by year-end and a potential PDUFA date in mid-2026. We'll also finalize our confirmatory trial design with FDA and have this study underway before approval. And we'll continue to advance our commercial preparations so that we'll be ready to launch our first commercial product in the year ahead.
+
+In closing, I'd like to take a moment to thank all the patients, advocates and doctors of the RRP community who have made our progress with 3107 possible. You are at the heart of our efforts to deliver on the promise of DNA medicine and our mission to provide every RRP patient with effective and durable relief from the devastating cycle of surgical interventions. As always, we're moving forward with the patient in mind, knowing that every day and every surgery matters. Thank you for your attention, and good evening, everyone.
+
+Operator
+
+And this concludes today's call. Thank you for participating. You may all disconnect.

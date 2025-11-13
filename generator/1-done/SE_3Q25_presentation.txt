@@ -1,0 +1,141 @@
+Sea Limited (SE) Q3 2025 Earnings Call November 11, 2025 7:30 AM EST
+
+Company Participants
+
+Rebecca Lee
+Forrest Li - Founder, Chairman & CEO
+Hou Tianyu - Chief Financial Officer
+
+Conference Call Participants
+
+Pang Vittayaamnuaykoon - Goldman Sachs Group, Inc., Research Division
+Divya Kothiyal - Morgan Stanley, Research Division
+Alicis a Yap - Citigroup Inc., Research Division
+Piyush Choudhary - HSBC Global Investment Research
+Jiong Shao - Barclays Bank PLC, Research Division
+
+Presentation
+
+Operator
+
+Good morning, and good evening to all, and welcome to the Sea Limited Third Quarter 2025 Results Conference Call [Operator Instructions] And finally, I would like to advise all participants that this call is being recorded. Thank you. I would now like to welcome Ms. Rebecca Lee to begin the conference. Please go ahead.
+
+Rebecca Lee
+
+Thank you. Hello, everyone, and welcome to Sea's 2025 Third Quarter Earnings Conference Call. I am Rebecca from Sea's Investor Relations team. On this call, we may make forward-looking statements, which are inherently subject to risks and uncertainties and may not be realized in the future for various reasons as stated in our press release.
+
+Also, this call includes the discussion of certain non-GAAP financial measures such as adjusted EBITDA. We believe these measures can enhance our investors' understanding of the actual cash flows of our major businesses when used as a complement to our GAAP disclosures. For a discussion of the use of non-GAAP financial measures and reconciliation with the closest GAAP measures, please refer to the section on non-GAAP financial measures in our press release.
+
+I have with me Sea's Chairman and Chief Executive Officer, Forrest Li; President, Chris Feng; and Chief Financial Officer, Tony Hou. Our management will share strategy and business updates, operating highlights and financial performance for the third quarter of 2025. This will be followed by a Q&A session in which we welcome any questions you have. With that, let me turn the call over to Forrest.
+
+Forrest Li
+Founder, Chairman & CEO
+
+Hello, everyone, and thank you for joining today's call. After a very strong first half of the year, our momentum has continued into the third quarter. We achieved a total revenue of $6 billion and adjusted EBITDA of $874 million, representing 38% and 68% year-on-year growth, respectively. Shopee's GMV grew by over 28% year-on-year. Monee's loan book expanded 70% year-on-year while maintaining a stable risk profile. And Garena delivered its best quarter since 2021, with quarterly bookings up over 50% year-on-year.
+
+Our focus remains the same, continuing to deliver high and profitable growth across all 3 of our businesses. With e-commerce and digital finance penetration in our market still low but increasing, strong growth lays the best foundation to maximize our long-term profitability. I'm very pleased with the profitable growth we have consistently delivered, and we will keep on this path.
+
+With that, let me take you through each business' performance. Starting with e-commerce. Shopee delivered another record-setting quarter, achieving new highs in quarterly GMV, gross order volume and revenue. We have now achieved 5 consecutive quarters of sequential GMV growth, driven by more active buyers and higher purchase frequency, and we have improved our year-on-year profitability across Asia and Brazil.
+
+Our monetization continued its upward trend into the third quarter. Take rates increased both year-on-year and quarter-on-quarter. Ads were a big contributor. Our efforts to make ad services both simpler and smarter drove broader adoption and higher ad spend by our sellers. Ad revenue increased over 70% and ad take rate rose by more than 80 basis points year-on-year. The number of sellers using our ad products increased by more than 25% and their average ad spend increased by over 40% year-on-year.
+
+Our monetization gains, strong growth momentum and healthy balance sheet have positioned us well to capture even more growth opportunities. Our 3 operational priorities, enhancing price competitiveness, improving service quality and strengthening our content ecosystem have proven to be a winning formula, and they remain consistent. Within these priorities, let me highlight some of the areas we have been investing into that we believe are critical for our long-term competitiveness and profitability.
+
+First, we continue to improve our logistics capability, a highly strategic competitive moat that has differentiated us from our peers. We launched SPX Express in 2018, where we recognized that reliable and cost-effective delivery was the most urgent logistics demand in our market due to wide differences in geography and in structure. Over the years, we have learned how to deliver packages by truck, plane, boat, motor bike and more. We deliver well in dense, congested and high-rise cities.
+
+We also deliver well in rural areas where we need to cross rivers, navigate right field and locate homes without formal addresses or postal calls. This experience has given us a very deep understanding of every region in our markets. Our delivery capability has now developed to the point where we can identify and deploy service quality improvements, addressing specific user needs in different markets. This helps us to serve more users better while improving our operational efficiency even further.
+
+For example, in Indonesia, we saw growing demand from urban buyers for very fast deliveries and the willingness to pay a premium for it. So we rolled out same-day and instant delivery with delivery times as fast as under 2 hours. The response was excellent. Orders using these faster options in the Greater Jakarta area increased by more than 35% year-on-year in the third quarter. But for rural regions, we saw a preference for economical delivery. So we came up with delivery solutions that reduced the cost per order by 20% compared to our standard delivery, allowing rural buyers to enjoy free shipping with much lower minimum spend.
+
+This boosted Shopee's popularity among rural buyers, orders delivered outside Java increased by more than 45% year-on-year in the third quarter. In Taiwan, we noticed a very different customer demand. Many buyers preferred self-pickup options. So we expanded our automated locker store network to over 2,500 locations in less than 3 years, making us the only e-commerce player in Taiwan with a locker network at such scale.
+
+Today, it is a key logistics channel accounting for more than 70% of all our deliveries in Taiwan. This move has paid off in more than one way. The lockers run at over 30% lower cost per order than traditional pickup locations. On top of that, the locker locations double up as last mile hubs for home delivery at a lower cost compared to traditional last-mile models.
+
+In other words, we are making our buyers happier while reducing our cost. In the third quarter, our GMV in Taiwan showed double-digit growth year-on-year, and we still see a lot of room to deepen our penetration further in this highly attractive market. Today, we have built SPX Express into a clear leader in scale, coverage and cost in our Asian markets. Our deep local insights have enabled us to customize growth strategies to create the most efficient and effective solutions in every market, reinforcing our cost advantage.
+
+Our logistics capability underpins the strong growth we have seen from Shopee this year, playing a big role in making us the platform of choice for both buyers and sellers. With our delivery capability well scaled, our next goal to further deepen our logistics competitive moat is to enhance our fulfillment capability. This addresses a more upstream need for our sellers, ensuring fast, accurate order handling in addition to speedy and reliable delivery.
+
+We aim to make fulfillment a second core pillar of our overall logistics capability, another way for us to strengthen our reputation among buyers and sellers and ensure high levels of customer satisfaction, just as we did with delivery. These efforts are already underway. In previous calls, I have shared updates on initiatives such as intelligent demand forecasting, where we preship commonly ordered products closer to where we anticipate buyer demand will be. This helps us reduce buyer waiting time and fulfill orders more cost efficiently.
+
+For instance, in Indonesia, if we wait until an order comes in from a remote island before shipping the item out from Java, we must rely on more expensive forms of transport such as airplanes to get it there quickly. But if we have already anticipated this demand, we can use cheaper forms of transport to preship it to the area, letting us deliver it quickly and cost effectively once the order is placed. We have made further headway in fulfillment by starting to offer warehouse solutions in some of our markets.
+
+Offering fulfillment services benefits everyone. It takes the burden of packaging and shipment of sellers. It gives buyers more consistent service, and it allows Shopee to better optimize end-to-end logistics while serving more buyers and sellers. We are investing in this capability in a capital-efficient way, for instance, by mostly leasing rather than buying land and warehouses. The most intense investment comes not in the form of money, but in time and effort.
+
+It would be very difficult to build a fulfillment capability without a deep understanding of logistics needs in our market and a tightly integrated delivery network to pair it with. After 7 years of experience with SPX Express, we have both. Second, we continue to find new and exciting ways to deepen user engagement. Our subscription-based Shopee VIP membership program is a great example and has continued to gain strong traction.
+
+By the end of September, VIP members across Indonesia, Thailand, Vietnam surpassed 3.5 million, up more than 75% from the previous quarter. Given the price sensitivity of many customers in our market, the success of our VIP program shows the high value we are delivering to our customers. VIP members are demonstrating higher engagement.
+
+In Indonesia, these members spend around 40% more after subscribing to the program. Shopee VIP members also bought 3x more frequently and spent 5x more than nonsubscribers in the third quarter, accounting for about 10% of total GMV in Indonesia. We have also deepened user engagement by enhancing Shopee's content ecosystem. Our partnership with YouTube continues to gain strong traction. In the third quarter, Shopee orders driven by YouTube content across our Southeast Asian markets grew by more than 30% quarter-on-quarter.
+
+With these strong results, we are now extending this partnership to Brazil. Late last month, we also announced a collaboration with Meta to launch new tools allowing seamless product promotion and checkout between Facebook and Shopee accounts. We are excited to see how this partnership will enrich our buyer community further. Third, we are committed to embracing AI as a powerful way to improve the whole consumer retail experience. Our AI efforts have already begun to bear fruit, contributing meaningfully to our monetization gains in the third quarter.
+
+Smarter search, better recommendations and more personalized content have made Shopee easier and more enjoyable to shop on. We have also used AI to enhance product discovery beyond search, helping buyers find relevant and interesting items even when they arrive without a specific purchase in mind. We empowered sellers with AI tools, enabling them to generate image, videos, text descriptions and virtual showrooms to make their product listings more appealing.
+
+These initiatives have increased buyer engagement, improving our purchase conversion rate by 10% year-on-year in the third quarter. Taken together, all these efforts have resonated with our customers. Buyer purchase frequency across our markets continued to improve, going up a further 12% year-on-year in the third quarter. Average monthly active buyers also increased 15% year-on-year in the third quarter.
+
+And Shopee remains consistently regarded as the e-commerce platform offering the most price competitiveness product in both our Asian market and Brazil based on Qualtrics surveys. I would also like to highlight our progress in Brazil, where Shopee continued to deliver exceptional growth while maintaining positive adjusted EBITDA. Our GMV growth there has been outpacing the market, driven by sustained increases in monthly active buyers, purchase frequency and average basket sizes over the past several quarters.
+
+Our wide product assortment, highly competitive pricing and structural cost leadership are enabling us to scale rapidly and profitably. Our continuous improvements in delivery speed and reliability have enabled us to expand into more upmarket product categories. Delivery speed improved sequentially in the third quarter with average delivery time improving by about 2 days compared to a year ago.
+
+In the Greater Sao Paulo area, 1 in 3 parcels were delivered the next day and nearly half within 2 days. With these improvements, we are seeing more merchants listing higher-value products and new buyer cohorts showing higher spending patterns. In the third quarter, GMV for Shopee Mall, our premium shopping section more than doubled year-on-year in Brazil. In conclusion, Shopee has delivered another quarter of strong and profitable growth. With our strong performance year-to-date, we now expect Shopee's full year 2025 GMV growth to be more than 25%.
+
+Next, moving to digital financial services. Monee has delivered another very strong quarter with revenue growing by 61% and adjusted EBITDA growing more than 35% year-on-year, while our 90-day NPL ratio remained stable at 1.1%. This strong growth was broad-based, driven by both user growth and product expansion across multiple markets. Our loan book expanded by around $1 billion during the quarter to reach $7.9 billion at the end of September, solidifying our position as one of the largest unsecured consumer lender in Southeast Asia.
+
+Thailand has reached another major milestone, surpassing $2 billion in loans outstanding at the end of September. In Brazil, our loan book more than tripled year-on-year in the third quarter with improving portfolio quality and a stronger user performance. Our significant credit history with a very large base of users across many markets allows us to roll out products more widely while maintaining the health of our portfolio. We used to take a wide list approach to onboarding new users.
+
+Now any Shopee user in most of our markets can apply for a pay later credit and we can make credit approval decisions very quickly, in many cases, almost instantly. Moving to this all can apply approach enabled us to add more than 5 million first-time borrowers in the third quarter. New user cohorts scaled well with generally positive unit economics, a testament to our increasingly advanced risk underwriting capability.
+
+At the end of the quarter, active users across our consumer and SME loan products reached $34 million, up nearly 45% year-on-year. Meanwhile, loan disbursements to new users still accounted for less than 10% of total disbursement in the third quarter as we continue to assess credit quality before cross-selling more products. We are also making our credit products on-Shopee SPayLater, off-Shopee SPayLater and personal cash loans easier to use in a wider set of use cases.
+
+In many of our markets where credit card penetration remains low, we are steadily establishing SPayLater as a trusted and convenient payment method of choice for all kinds of purchases, both online and offline. On-Shopee SPayLater has grown steadily as penetration continues to deepen across all our markets. GMV penetration now ranges from single digits in early markets to over 30% in more mature ones, reflecting our discipline in scaling only when incremental disbursements are profitable.
+
+We see meaningful room to continue increasing SPayLater on-Shopee penetration across our markets. Off-Shopee SPayLater showed strong traction this quarter, growing over 300% year-on-year and over 40% quarter-on-quarter. It still only accounts for less than 10% of our total loan book as of the end of September. So large upside remains for future growth. This product segment represents a significant opportunity to unlock success to offline spend, a very large part of consumer expenditure in many of our markets.
+
+The stand-alone ShopeePay app supporting both online and offline payments across a wide range of merchants is a key pillar of our strategy to grow our money businesses off-Shopee. In payments, it offers users a faster and more seamless experience, giving them direct success without having to go through the Shopee app. Beyond payments, it helps us unlock more use cases, positioning ShopeePay as a one-stop platform for users' broader financial needs of Shopee credit, insurance, wealth management and more.
+
+The app has launched in Indonesia, Thailand, Vietnam and Malaysia and is showing strong traction. More than 20% of our ShopeePay monthly transacting users are using the stand-alone app. Personal cash loans also grew strongly this quarter. In Indonesia, we have been offering higher limits and longer tenures to attract more prime users who demonstrate strong repayment behavior.
+
+Loan sizes can typically range from a few hundred dollars to over $1,000, allowing us to serve users with larger financial needs. Building on this [ success ], we have similarly expanded access to prime users in Thailand and Malaysia, where user adoption is going up quickly. In Brazil, personal cash loans grew close to 50% quarter-on-quarter, driven by the continued popularity of the combined credit limit we offer to SPayLater users.
+
+In conclusion, Monee has delivered another excellent quarter, doing well while diversifying our credit portfolio across markets, users and products. Our portfolio quality and our unit economics have remained healthy, and we are extending SPayLater's reach beyond e-commerce and embedding it into users' everyday financial user use cases. This will build a pathway for strong off-Shopee growth for many years to come.
+
+Finally, moving to digital entertainment. Garena has delivered another stellar quarter. Bookings were up 51% and adjusted EBITDA grew 48% year-on-year, making it our best quarter since 2021. Free Fire anchored this strong performance with 2 high-impact campaigns, Squid Game and Naruto Shippuden Chapter 2. The campaigns received a huge positive response, accelerating our growth momentum from the previous quarter.
+
+Our Squid game collaboration incorporated iconic challenges from the blockbuster Netflix TV series such as Red Light, Green Light and the Glass Bridge. The event drove strong participation with the Red Light, Green Light, Challenge being played more than 300 million times in the quarter. Our Naruto Shippuden Chapter 2 event expanded on the resounding success of Chapter 1 in the first quarter of this year.
+
+Based on gamer feedback and performance insights, we added 5 new fan-favorite ninja characters, new attack mechanics, highly sought-after collectible items and the new one-on-one mode, letting players use signature abilities from the series. Chapter 2 went on to surpass Chapter 1 in both engagement and revenue. We saw an extremely high social media share rate for Chapter 2, double the already high bar set by our eighth anniversary event.
+
+Both Naruto chapters have achieved the highest satisfaction scores of any campaign launched over the past 2 years. Our Naruto content was very successful because it focused on what players value most, authenticity through attention to detail. This strong focus underpins how we take IP collaboration to the next level, and it is driven by Garena's core creative culture. First, we require every major IP partnership to be led by a team of genuine superfan of that IP within Garena to ensure authenticity and respect for the original work.
+
+Naruto fans love how closely the gameplay mirror small but important details from the anime. For instance, one key storyline from the original anime was about rogue ninja returning to desecrate the ninja village they had been exiled from. In Chapter 1, we had built this ninja village into our map and introduced iconic attack skills from the main anime characters.
+
+In Chapter 2, we introduced attack skills that was specifically from the rogue ninja characters like fireballs, black fire and exploding burst and redesigned the map to feature a destroyed version of the ninja village. Continuing the narrative between the chapters in a way that was true to the original anime created a highly immersive experience and brought fan excitement to the next level. These are details only super fans would care about and understand how to incorporate into gameplay.
+
+Second, we take a global yet local approach, bringing global IPs to our market in highly localized ways. For instance, we took advantage of the huge traction of our Naruto campaign to hold ninja themed offline events in 8 markets across Asia and the Americas, attracting tens of thousands of fans.
+
+The largest of these events was a 2-day International All-Star Ninja Clash Esports Tournament in Bangkok with teams of Free Fire players flying in from across Asia and Latin America to compete. The Bangkok tournament was a huge success, becoming a top trending event on YouTube gaming and on social media across key markets. In addition to such events, our teams stay closely connected to players through creators, programs and fan groups, tapping into a constant stream of feedback and ideas that shape game design decision.
+
+These efforts build very strong community connection and loyalty across our markets. Beyond Free Fire, we continue to expand our publishing portfolio with the launch of EA SPORTS FC Mobile in Vietnam last month, strengthening our long-standing partnership with electronic arts. The game quickly became the country's most downloaded mobile game in October based on Sensor Tower.
+
+By combining EA's world-class football franchise with Garena's local know-how, we are deepening our expertise in sports games and reinforcing our position as a trusted publishing partner for global titles. With this very strong quarter, Garena remains on track to achieve more than 30% year-on-year growth in bookings for 2025.
+
+Our creative steps, disciplined execution and close connection with players will continue to drive Garena's growth. In conclusion, all 3 businesses have built on the strong momentum from the first half of the year and delivered another quarter of exceptional growth. We will continue to make our digital ecosystem even more vibrant, strengthen our leadership position and deliver sustainable and profitable growth to our shareholders. With that, I invite Tony to discuss our financials.
+
+Hou Tianyu
+Chief Financial Officer
+
+Thank you, Forrest, and thanks to everyone for joining the call. For Sea overall, total GAAP revenue increased 38% year-on-year to $6 billion in the third quarter of 2025. This was primarily driven by GMV growth of our e-commerce business and the growth of our digital financial services business. Our total adjusted EBITDA was $874 million in the third quarter of 2025 compared to an adjusted EBITDA of $521 million in the third quarter of 2024.
+
+On e-commerce, Shopee's gross orders increased 28% year-on-year to $3.6 billion in the third quarter of 2025, and GMV increased by 28% year-on-year to $32.2 billion in the third quarter of 2025. Our third quarter GAAP revenue of $4.3 billion included GAAP marketplace revenue of $3.8 billion, up 37% year-on-year and GAAP product revenue of $0.5 billion. Within GAAP marketplace revenue, core marketplace revenue, mainly consisting of transaction-based fees and advertising revenues was $3.1 billion, up 53% year-on-year.
+
+Value-added services revenue, mainly consisting of revenues related to logistics services was $0.7 billion, down 6% year-on-year due to increased shipping subsidies. E-commerce adjusted EBITDA was $186 million in the third quarter of 2025 compared to an adjusted EBITDA of $34 million in the third quarter of 2024.
+
+Digital Financial Services GAAP revenue was up by 61% year-on-year to $990 million. Adjusted EBITDA was up by 37% year-on-year to $258 million. As of the end of September, our consumer and SME loans principal outstanding reached $7.9 billion, up 70% year-on-year. This consists of $6.9 billion on book and $0.9 billion off book loan principal outstanding. Nonperforming loans past due by more than 90 days as a percentage of total consumer and SME loans was 1.1% at the end of the quarter. Digital entertainment bookings grew 51% year-on-year to $841 million.
+
+GAAP revenue was up 31% year-on-year to $653 million. The growth was primarily due to the increase in our active user base as well as the deepened paying user penetration. Digital Entertainment adjusted EBITDA was $466 million, up 48% year-on-year.
+
+Returning to our consolidated numbers. We recognized a net nonoperating income of $61 million in the third quarter of 2025 compared to a net nonoperating income of $50 million in the third quarter of 2024. We had a net income tax expense of $161 million in the third quarter of 2025 compared to net income tax expense of $93 million in the third quarter of 2024. As a result, net income was $375 million in third quarter of 2025 as compared to a net income of $153 million in the third quarter of 2024.
+
+Rebecca Lee
+
+Thank you, Forrest and Tony. We are now ready to open the call to questions. Operator?

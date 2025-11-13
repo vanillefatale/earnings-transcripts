@@ -1,0 +1,60 @@
+Nebius Group N.V. (NBIS) Q3 2025 Earnings Call November 11, 2025 8:00 AM EST
+
+Company Participants
+
+Neil Doshi - VP & Head of Investor Relations
+Arkady Volozh - Founder, CEO & Non-Independent Executive Director
+Dado Alonso - Chief Financial Officer
+Marc Boroditsky - Chief Revenue Officer
+Andrey Korolenko - Chief Product & Infrastructure Officer
+Tom Blackwell - Chief Communications Officer
+Roman Chernin - Chief Business Officer
+
+Presentation
+
+Neil Doshi
+VP & Head of Investor Relations
+
+Thank you, and welcome to Nebius Group's Third Quarter 2025 Earnings Conference Call. I'm Neil Doshi, Vice President of Investor Relations. Joining me today are Arkady Volozh, Founder and CEO and our broader management team.
+
+Our remarks today will include forward-looking statements, which are based on assumptions as of today. Actual results may differ materially as a result of various factors, including those set forth in today's earnings press release and in our report on Form 20-F filed with the SEC. We undertake no obligation to update any forward-looking statements.
+
+During this call, we will present both GAAP and certain non-GAAP financial measures. A reconciliation of GAAP to non-GAAP measures is included in today's earnings press release. The earnings press release, shareholder letter and accompanying investor presentation are available on our website at nebius.com/investor-hub.
+
+And now I'd like to turn the call over to Arkady.
+
+Arkady Volozh
+Founder, CEO & Non-Independent Executive Director
+
+Thanks, Neil, and thank you, everyone, for joining the call today. I'd like to share my thoughts about the demand environment, about our capacity plans and what we are doing in our product. First, about the demand. Q3 demand was very strong. We sold out all of our available capacity. We continue to see a consistent trend. Every time we bring capacity online, we sold all of it.
+
+With the new generation of NVIDIA Blackwell is coming online, more customers are interested in purchasing capacity in advance and securing it for a longer period of time.
+
+Today, we are very pleased to announce that we signed another major deal at this time with Meta for approximately $3 billion over the next 5 years. In fact, the demand for this capacity was overwhelming and the size of the contract was limited to the amount of capacity that we had available, which means that if we had more, we could have sold more. This deal comes on top of the Microsoft deal we announced early in September with a contract value between $17.4 billion and $19.4 billion. As we said before, we expect to sign more of these large long-term deals, and we are delivering that promise.
+
+As busy as we are with these mega deals, our main focus is still to build our own core AI cloud business. We made great progress here with AI native start-ups like Cursor, Black Forest Labs and others. The economics and the cash flow of mega deals are attractive in their own right, but they also enable us to build our core AI cloud business faster. This is our real future opportunity.
+
+Now on the capacity. In order to meet the growing demand, we have accelerated our plans to secure more capacity, and this is actually our main focus for now. Capacity today is the main bottleneck to revenue growth. And we are now working to remove this bottleneck. As we look to 2026, we expect our contracted power to grow to 2.5 gigawatt contracted. This is up from the 1 gigawatt, which we discussed in our previous earnings call in August. Furthermore, we plan to have power connected to our data centers, which means fully built of approximately 800 megawatts to 1 gigawatt by the end of 2026, by the end of next year. While we made significant investments in our capacity footprint, we are also investing in our main product, our AI cloud.
+
+To extend our addressable market opportunity to large enterprise customers, we released our new enterprise-ready cloud platform version 3.0 called Aether and our new inference platform called Nebius Token Factory. We believe Aether gives organizations the trust, control and simplicity they need to run their most critical AI workloads. Nebius Token Factory is a production scale inference platform that enables organizations to run open source models with reliability, visibility and control. And we have a large pipeline of new software and services that we are continuing to build, which will differentiate us from other cloud companies. Based on the strength in demand that we see and our accelerated capacity growth plan, we believe we can achieve annualized run rate revenue ARR of $7 billion to $9 billion by the end of 2026.
+
+In summary, Nebius is positioned to win in this large and rapidly expanding AI cloud market. We're just beginning to realize the powerful potential of the AI evolution that is underway, and we are quickly becoming one of the primary cloud and infrastructure providers to support it.
+
+And with this, I would like to hand the call over to our CFO, Dado Alonso. Dado, please?
+
+Dado Alonso
+Chief Financial Officer
+
+Thank you, Arkady. While the details of our Q3 financial performance can be found in our shareholder letter, I'd like to provide some additional color to the quarter, discuss our financing options and conclude with 2025 guidance. Q3 group revenue was $146 million, up nearly 355% year-over-year and 39% quarter-over-quarter. Annualized run rate revenue for the core business at the end of September was $551 million. The core infrastructure business, which accounted for nearly 90% of total revenue, grew 400% year-over-year and 40% sequentially. Once again, we sold out our capacity and our revenue growth was limited only by the capacity that we were able to bring online. I'm also pleased to say that adjusted EBITDA margin for the core infrastructure business expanded quarter-over-quarter to nearly 19%.
+
+On financing, in order to support our aggressive growth plans in 2026 and to maintain this pace of growth in 2027, we will be utilizing at least 3 sources: corporate debt, asset-backed financing and equity. We are in the process of raising asset-backed debt, which we'll be able to secure with attractive terms supported by creditworthiness of our largest customers. Tomorrow, November 12, we will be putting in place an at-the-market equity program for up to 25 million Class A shares and plan to file a prospectus supplement. We will evaluate the program regularly based on our capital needs. The program enables us to access equity funding on an efficient ongoing basis. However, we will remain dilution sensitive as we prepare to finance future growth opportunities.
+
+Now I would like to turn to 2025 guidance. As we approach the end of the year, we are tightening our full year group revenue guidance to a range of $500 million to $550 million, and we are currently pacing to the midpoint of that range. This compared to the $450 million to $630 million in our previous guide. The reason we are in the middle and not at the top of that range simply relates to the exact timing of when capacity comes online. Our current momentum and the long-term trajectory remain extremely strong. Our annual run rate revenue, which is a good reflection of our future growth opportunity continues to expand, demonstrating the resilience and scalability of our business model.
+
+As such, we remain well on track to hit our ARR guidance of $900 million to $1.1 billion by the end of 2025, while also paving the way for substantial annualized run rate revenue growth in 2026 and beyond. In terms of the mega deals, we will begin serving Microsoft and Meta late in the quarter and almost all of the revenue from these deals will start to be realized and ramp up during the course of 2026. We plan to give full year revenue guidance for 2026 next quarter.
+
+Turning to adjusted EBITDA. As we have previously indicated, we expect to be slightly positive at the group level by year-end, while remaining negative for the full year. Regarding CapEx, we are raising our 2025 guidance from approximately $2 billion to circa $5 billion. This acceleration reflects our strong conviction in the demand outlook and our decision to secure critical infrastructure, including hardware, power, land and key sites. These investments are strategic enablers of future growth and will position us exceptionally well to capture the opportunities ahead.
+
+In summary, we have a large and rapidly growing opportunity in front of us, and we are executing with focus and discipline to capture it while delivering sustainable growth and setting the stage for strong long-term profitability.
+
+Now let me turn the call over to Neil for Q&A.

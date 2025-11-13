@@ -1,0 +1,94 @@
+Plug Power Inc. (PLUG) Q3 2025 Earnings Call November 10, 2025 4:30 PM EST
+
+Company Participants
+
+Teal Vivacqua Hoyos - Director of Marketing Communications
+Andrew Marsh - Executive Chairman & CEO
+Jose Crespo - President, Chief Revenue Officer & GM of Material Handling
+Paul Middleton - Executive VP, CAO & CFO
+
+Conference Call Participants
+
+Andre Stillman Adams - Oppenheimer & Co. Inc., Research Division
+Manav Gupta - UBS Investment Bank, Research Division
+Eric Stine - Craig-Hallum Capital Group LLC, Research Division
+Craig Irwin - ROTH Capital Partners, LLC, Research Division
+Sherif Elmaghrabi - BTIG, LLC, Research Division
+Sameer Joshi - H.C. Wainwright & Co, LLC, Research Division
+George Gianarikas - Canaccord Genuity Corp., Research Division
+Christopher Senyek - Wolfe Research, LLC
+Ryan Pfingst - B. Riley Securities, Inc., Research Division
+William Peterson - JPMorgan Chase & Co, Research Division
+
+Presentation
+
+Operator
+
+Greetings, and welcome to the Plug Power's Third Quarter 2025 Earnings Conference Call and Webcast. [Operator Instructions] As a reminder, this conference is being recorded. [Operator Instructions]
+
+It's now my pleasure to turn the call over to Teal Hoyos. Please go ahead.
+
+Teal Vivacqua Hoyos
+Director of Marketing Communications
+
+Thank you. Welcome to the 2025 Third Quarter Earnings Call. This call will include forward-looking statements. These forward-looking statements contain projections of our future results of operations or of our financial position or other forward-looking information. We intend these forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934.
+
+We believe that it is important to communicate our future expectations to investors. However, investors are cautioned not to unduly rely on forward-looking statements, and such statements should not be read or understood as a guarantee of future performance or results.
+
+Such statements are subject to risks and uncertainties that could cause actual results or performance to differ materially from those discussed as a result of various factors, including, but not limited to, risks and uncertainties discussed under Item 1A Risk Factors in our annual report on Form 10-K for the fiscal year ending December 31, 2024, or subsequent quarterly reports on Form 10-Q as well as other reports we file from time to time with the SEC.
+
+These forward-looking statements speak only as the date in which the statements are made, and we do not undertake or intend to update any forward-looking statements after this call or as a result of new information. At this point, I would like to call -- turn the call over to Plug's CEO, Andy Marsh.
+
+Andrew Marsh
+Executive Chairman & CEO
+
+Good afternoon, and thank you for joining us. Plug delivered a strong third quarter, one that reflects continual growth, improving margins and disciplined execution across our global hydrogen business. For the quarter, we reported $177 million in revenue with balanced strength across our core businesses. Our GenEco electrolyzer business generated about $65 million, up 46% sequentially and 13% year-over-year.
+
+Clear evidence that Plug technology continues to gain traction globally as customers scale hydrogen production. I think just as important, we're improving the quality of the growth. Operation cash burn improved by more than 50% from the prior quarter, driven by pricing discipline, better execution and tighter working capital management. These results show the tangible impact of Project Quantum Leap, which is transforming Plug into a leaner, more efficient and more profitable enterprise.
+
+Quantum Leap is about focus, simplifying the business, aligning investment to near-term profitability and resolving legacy issues that have limited performance. The noncash charges we recognized this quarter reflect that effort, cleaning up the past while sharpening our strategic priorities. As a result today, Plug is more streamlined, more focused and better positioned to deliver continued margin improvement and cash flow gains.
+
+Operationally, we continue to execute at scale. To date, Plug has more than 230 megawatts of GenEco electrolyzer programs underway across Europe, Australia and North America. A real highlight this quarter was delivery of our first 10-megawatt electrolyzer, the Galp project in Portugal, the first phase of a planned 100-megawatt installation, a clear validation of Plug's ability to deliver complex world-class hydrogen infrastructure.
+
+Our hydrogen production network also continues to improve. In August, our Georgia Green Hydrogen Plant produced 324 tons with 97% uptime and 92.8% efficiency, underscoring the strength and reliability of our operating platform. Earlier today, we announced a strategic initiative to monetize our electricity rights in New York and one other location in partnership with a major U.S. data center developer. This transaction is expected to generate more than $275 million in liquidity through asset monetization and the release of restricted cash.
+
+It also positions Plug in the rapidly growing data center market where our fuel cell systems can deliver resilient zero-emission backup power to mission-critical facilities. This initiative is directly linked to our new global hydrogen supply agreement with one of the world's leading industrial gas companies and potential purchases from some of our North American electrolyzer companies as they deploy hydrogen site.
+
+The agreement secures competitively priced long-term hydrogen supply for Plug and our customers, a major strategic milestone that reduces the need for near-term self-development of new plants. As a result, we have suspended activities under the DOE loan program, allowing us to redeploy capital towards high-return opportunities across our hydrogen network. Together, these actions strengthen our balance sheet, expand our reach into dynamic new markets and reinforces our disciplined approach to capital allocation. Finally, I want to touch on leadership. As announced last month, Jose Luis Crespo will become Chief Executive Officer on March 1.
+
+Jose has been instrumental in driving Plug's commercial growth and building our customer relationships worldwide. This transition represents continuity and strategy, not change. The road map we've built together remains in place, focused on growth, profitability and disciplined execution. But also, look, the world changes. It gives Jose the flexibility to resolve -- to evolve our strategy as the hydrogen market mature.
+
+He is the right leader for this next chapter, and I am confident Plug will continue to thrive under his direction. In summary, Plug's progress this quarter demonstrates a company that is executing, improving and building momentum. Our technology, people and strategy are delivering results and the fundamentals of our business have never been stronger. With that, I'll turn the call over to Jose, who will discuss our commercial performance and marketing activities in more detail. Jose?
+
+Jose Crespo
+President, Chief Revenue Officer & GM of Material Handling
+
+Thank you, Andy. Good afternoon, everyone, and thanks for joining us today. This is my first earnings call as President and incoming CEO of Plug. And I have to say I'm both excited and honored to take on this role. I've been with Plug for 12 years, helping drive our commercial growth and making sure customers are always at the heart of what we do, and that won't change. My focus will continue to be on growth, profitability and disciplined execution.
+
+As Andy mentioned earlier, we delivered $177 million in revenue in the third quarter, and we're seeing solid momentum across our core markets. Let's start with material handling. This business continues to perform well, and our customers are really seeing the productivity and energy benefits that come with the fuel cell technology. More than ever, customers are recognizing how fuel cells free up utility power in their distribution centers, power that they can use elsewhere or simply save by reducing peak demand.
+
+And the investment tax credit for fuel cells has been reinstated, which makes the financial case for our customers as stronger than ever. We are having great conversations with our major pedestal customers, Amazon, Walmart, about their 2026 plans, and we are expecting to continue growth there. And we are also excited about new customers like Floor & Decor, where we deployed our GenDrive fuel cells, GenFuel hydrogen systems at their Frederickson, Washington facility. Floor & Decor has a strong potential to grow into one of our next pedestal customers.
+
+Now I'm going to turn it into our GenEco electrolyzer business. We have delivered $124 million in revenue year-to-date. This is up 33% year-over-year and is putting us on track for a record year in the electrolyzer business with around $200 million in expected sales. We continue to see big opportunities for green hydrogen, particularly in replacing gray hydrogen in refineries like Galp and BP and in the reduction of e-fuels -- sorry, in the production of e-fuels such as e-methanol, synthetic jet fuel and ammonia.
+
+Our $8 billion electrolyzer funnel remains very active, and the quality of the projects we are pursuing right now is the best that we have ever seen. The probability of many of these projects reaching final investment decision, FID, has never been higher. In Australia, government support remains strong. Andy spent time there recently, and we are very encouraged by the progress on the 3-gigawatt Allied Green Ammonia project as it moves towards FID. We're also happy to have Alfred, Allied Green's CEO, speak at our Symposium next week, November 18.
+
+In Europe, we are seeing policy clarity finally take hold as the Green Deal and RED III mandates are being transposed by the EU member states and becoming law. This is giving our industrial customers more certainty around their green hydrogen targets and time lines.
+
+We're also seeing subsidy programs like those from the European Hydrogen Bank to start outlook real projects, many of which should reach FID in the next 12 to 18 months. And we are already executing at a scale in Europe. We delivered our first 10-megawatt electrolyzer array to Galp in Portugal, part of the 100-megawatt project we have in there and 25 megawatts of containerized systems to Iberdrola and BP in Spain.
+
+These are flagship projects that demonstrate Plug's ability to deliver large, complex systems globally. Here in the U.S., we announced a new partnership with Edgewood. Plug will provide engineering, plant design and commissioning for a facility that will convert waste streams into sustainable aviation fuel, renewable diesel and biomethanol.
+
+If you want to hear more about that, Steve, Edgewood's CEO, will join us at the Symposium November 18, so I encourage you to come. Edgewood is a great example of how we are adapting to market conditions. The U.S. continues to support blue hydrogen, and we're using our deep experience with more than 20% of our team coming from oil and gas backgrounds to capitalize on those opportunities as well.
+
+Our path to profitability will be powered by growth. We have built real scalable capabilities. We know how to produce, deploy and operate hydrogen solutions, and we have an $8 billion funnel of opportunities ahead of us that gives Plug a unique position to lead as the hydrogen economy accelerates globally. Thanks again for joining us today, and I'm looking forward to sharing more at our Plug Symposium on November 18 and to continue this journey towards sustainable, profitable growth. Back to you, Andy.
+
+Andrew Marsh
+Executive Chairman & CEO
+
+Okay. It's question time. Teal?
+
+Teal Vivacqua Hoyos
+Director of Marketing Communications
+
+We are open for question, Kevin please.
