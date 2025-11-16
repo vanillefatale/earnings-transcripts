@@ -1,0 +1,54 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question comes from Winnie Dong with Deutsche Bank.
+
+Yan Dong
+Deutsche Bank AG, Research Division
+
+I was wondering if you can provide maybe a preliminary update on the direction of the strategic actions going forward. In the prepared remarks, it was said that you're evaluating potential to sale or partial sale of the company. Just wondering if there is any preliminary indication of interest and what you guys might be leaning forward?
+
+Paul Ricci
+CEO & Director
+
+Yes. As we -- as I did comment in my moments ago, we have had interest in assets, business lines and in fact, the entire company and we're in the process of evaluating those as well as other financing interest in the company.
+
+Yan Dong
+Deutsche Bank AG, Research Division
+
+Okay. That's helpful. And then maybe in the meantime, in terms of your next-gen product development, is that put on hold? Or is that still behind you scenes like still progressing?
+
+Paul Ricci
+CEO & Director
+
+No, it has not been put on hold. We've maintain critical engineering and related resources necessary to pursue the Halo architecture, which we've talked about in some detail in previous quarters. And that work continues unabated.
+
+Operator
+
+[Operator Instructions] Our next question comes from Jash Patwa with JPMorgan Chase.
+
+Jash Patwa
+JPMorgan Chase & Co, Research Division
+
+I wanted to start with LSI. Could you maybe give us a sense of the size of the business, the intellectual property portfolio and the current momentum you're seeing with customers? I understand that LSI is the result of a series of acquisitions over the years. So I appreciate your perspective on how you think about the intrinsic value of that segment? And I have a follow-up.
+
+Paul Ricci
+CEO & Director
+
+Well, I -- earlier in my comments, gave a little bit of indication of revenues year-to-date in LSI. Other than that, I can't comment terribly on the size, too much on the size. It is a growing business. It has deep technologies in various areas of Photonics that I mentioned in my comments. Those range from medical applications to industrial applications to military and defense applications. As I've indicated previously and again today, we think it's an under-recognized asset and kind of business line in our company. And we're doing the things necessary to accelerate growth in that business. And there has been, as I've mentioned, strategic interest in that business as well.
+
+Jash Patwa
+JPMorgan Chase & Co, Research Division
+
+Appreciate it. As a follow-up, while we appreciate all the detail on your automaker partnerships, I was hoping you could also share any updates on your relationships with platform partners like NVIDIA, is there a continued engagement on that front, especially in light of several major automakers recently announcing their L4 platforms in collaboration with these platform players?
+
+Paul Ricci
+CEO & Director
+
+The company does continue to work with platform players. I don't have any updates on partnerships in that area today now.
+
+Operator
+
+This concludes the conference. Thank you for your participation. You may now disconnect.
+

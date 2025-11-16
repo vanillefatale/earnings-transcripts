@@ -1,0 +1,156 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from the line of Brett Fishbin with KeyBanc Capital Markets.
+
+Brett Fishbin
+KeyBanc Capital Markets Inc., Research Division
+
+Just wanted to start on AST. I was curious if you guys could comment a little bit on what drove the second consecutive quarter of double-digit growth in services. And then just how you're thinking about sustainability of trends in that area going forward?
+
+Daniel Carestio
+President, CEO & Director
+
+Yes. Thanks, Brett. This is Dan. I think it's more or the same. We continue to see pretty stable volume from our medtech customers. We continue to see recovery in bioprocessing, which was a negative drain on us for some quarters a year or so ago. And in addition to that, we've had a number of expansions going into place over the last 4 years. And that investment is facilitating our growth. So we're very confident in the 9% to 10% outlook that we have going forward.
+
+There's still a little noise out there. We have seen some juxtaposition of customer volume in terms of manufacturing location, but not in a real meaningful way. So we feel pretty good about our global footprint and how that facilitates those needs.
+
+Brett Fishbin
+KeyBanc Capital Markets Inc., Research Division
+
+All right. Perfect. And then just one more for me. I think in the press release, you mentioned that operating margins took a step up despite several headwinds. I think you mentioned tariffs and inflation on the call today. Maybe if you could just touch on any other items that you might have been referring to? And then how much of an offset you're kind of viewing those collective headwinds against the underlying margin expansion?
+
+Karen Burton
+Senior VP, CFO & Chief Accounting Officer
+
+So as you noted, we are referring to tariffs and inflation, both labor and material.
+
+Brett Fishbin
+KeyBanc Capital Markets Inc., Research Division
+
+Okay. Sorry, is there like any way to maybe approximate like how much those headwinds represented as an offset in the quarter to margins?
+
+Karen Burton
+Senior VP, CFO & Chief Accounting Officer
+
+The -- yes, tariffs in the quarter were 90 basis points and material inflation was -- material and labor inflation was about 130 basis points across the company.
+
+Operator
+
+Your next question comes from the line of Patrick Wood with Morgan Stanley.
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+Beautiful. Two quick ones. I guess, the first one, Healthcare on the service side also was very strong. What are you seeing there? Could you unpack that a little bit for us?
+
+Daniel Carestio
+President, CEO & Director
+
+Yes. I mean a couple of things. Our service business in Healthcare is obviously our traditional rents turning service on our equipment and install work that we do that goes along with our capital. But there's a much larger component of that, that goes into our IMS repair business and then processing of instruments where we operate as a service.
+
+So volumes are strong. We've been doing very well for the last, I don't know, 5, 6 quarters, I would say, with double-digit growth. Some of that, we have said all along that, that's an area of the business that we're able to get price, and we have been able to get price because of the justification of significant labor increases that were going on for a number of years. And -- but as that has normalized, those things, you're going to see -- I believe what we're going to see is a bit of a slowdown from 12%, 13% to something less than that, but we are also going to see a coinciding slowdown in labor cost. So it's -- it should not affect the overall margin, but will slow down the top line a bit.
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+I got you. That makes sense. I guess one more, which is basically like on the modality side like X-ray, could you give us a sense of how that's contributed to growth? It's obviously an exciting modality.
+
+Daniel Carestio
+President, CEO & Director
+
+Yes, we're very excited about it. We don't break out the technologies. Just -- it will become just a math exercise that we'd have to keep up with, that's not worth pursuing. We look at radiation as one technology and dose is dose. And we use gamma and we use e-beam and we use x-ray. And although we're incredibly excited about X-ray, and that's a lot of the expansion capacity that we've built out, it's just one tool in our bag.
+
+Operator
+
+Your next question comes from the line of Jason Bednar with Piper Sandler.
+
+Jason Bednar
+Piper Sandler & Co., Research Division
+
+Congrats on another strong quarter here. I heard you on the updated outlook for the segment, and I appreciate the breakout of the service growth in AST. Wondering if you're willing to give maybe a similar perspective on the outlook for some of those Healthcare subsegments.
+
+Dan, I just heard you on service there, maybe detailing a little bit as maybe price comes off. But what about like consumables versus equipment? Any way to give a little bit of color there, rack and stack, help service top, consumables next, equipment bottom on kind of the growth. Anything there would be great.
+
+Daniel Carestio
+President, CEO & Director
+
+Yes. I mean we would -- I mean you can do the basic analysis, and we consider our consumable business to grow on sort of the share we've gained in the history and procedure rate, right? And so I would expect that trend of good performance to continue.
+
+On capital, we're sitting on a huge backlog number right now, over $400 million in Healthcare capital. And our order rate remains strong. That comes down to really timing of shipments. We feel pretty good about the next 2 quarters, although we've got some tough comps in Healthcare capital. So it's hard to say specifically. What we're confident is that we're in a good position. But if you have to put a gun to my head, I would say service is probably going to be near the top, consumable second. And capital is going to grow, it's going to do fine, and it's kind of a bit of a wildcard in terms of timing.
+
+Jason Bednar
+Piper Sandler & Co., Research Division
+
+Okay. That's very helpful. And then, Karen, you're already at $530 million in free cash flow this year. Really impressive so far, but you typically generate far more free cash in the second half of your fiscal years. So is this just an abnormal year? When I look at the -- your updated guidance, I like the raise, but is this just an abnormal year where you get more cash generation in the front end of the year and you've maybe had some things shift out of second half or pulled forward from second half into first half? Or is the guidance just really conservative here for the full year?
+
+Karen Burton
+Senior VP, CFO & Chief Accounting Officer
+
+So I would say that we have seen stronger first half cash flow than is typical. The -- pulling the earnings a little bit forward into the first half is a contributor. We've also had some meaningful improvements in working capital, faster collections on those late fiscal '25 shipments. So I think the answer is all of the above. As you mentioned, it's stronger earnings earlier in the year, improvements in working capital earlier in the year and a little bit of cautiousness.
+
+Operator
+
+Your next question comes from the line of Mike Matson with Needham.
+
+Michael Matson
+Needham & Company, LLC, Research Division
+
+So just in terms of the Healthcare business, I mean, I know you kind of broke it out into the capital service and consumables. But I'm just wondering if you could give us any more detail around geographies, types of customers, hospitals versus ASCs, product lines, et cetera, that are driving the growth there. Is it pretty strong across the board? Are there any areas of those things where you would call out you're seeing particular strength?
+
+Daniel Carestio
+President, CEO & Director
+
+Not really. I mean, we're seeing pretty good strength across the globe in terms of geographic and there still seems to be a lot of procedures going on and particularly strong in the U.S. more so than other places, but we're starting to see recovery in other places as well. So no, there's nothing I would call out specifically.
+
+Michael Matson
+Needham & Company, LLC, Research Division
+
+Okay. And then for AST, can you just give us an update on your capacity there? And are you currently capacity constrained? And if so, how fast can you address this? I think you've said earlier in this call that you are expanding capacity there.
+
+Daniel Carestio
+President, CEO & Director
+
+Yes. It's a long process to expand capacity. In AST, from the time we decided to build a plant at the time its operational, it can be 2 to 3 years. So we have a number of expansions that have been completed. We have a number that are in process, and we have a number that are planned out into the future. And we've been pretty steadily bringing new capacity into the market now for the last 8 years. So we're in a good position in most geographies, if not all geographies of the world right now in terms of where we've added capacity to facilitate plants that are nearing their limit of capacity.
+
+Operator
+
+Your last question comes from the line of Michael Polark with Wolfe Research.
+
+Michael Polark
+Wolfe Research, LLC
+
+I will say I forget what the record is for prepared remarks, but 9 minutes was pretty good again. So kudos. I got two big picture ones. Life Sciences, some growth mojo back, 12% in the quarter. Obviously, the comps are easy and capital equipment is up big off of a low base, but nevertheless, 12%. My question is thematic, this notion of reshoring, hearing about a little bit pharmas biotechs bringing, their manufacturing partners bringing manufacturing back towards the U.S. What do you think on this? Do you see any evidence that it's helpful so far here, anecdote that it could be helpful for you? What is the state of this theme for your exposure in this space?
+
+Daniel Carestio
+President, CEO & Director
+
+Thanks, Michael. Yes, any -- in general, any time we see our large pharma customers moving or expanding capacity in manufacturing locations, whether that's new greenfields or whether that's existing sites, that generally bodes well for our capital equipment business. And there's probably more noise than there's substance to the amount of redistribution or construction of pharma at this point. But there is some. It is real. And I do believe we are getting maybe some benefit from that on the GMP side or the pharma side of our capital equipment.
+
+It's also, like you said, it's -- we're comparing against some pretty significant troughs when there was nothing going on in pharma for almost 18 months in terms of that type of work.
+
+Michael Polark
+Wolfe Research, LLC
+
+The other one is in Healthcare, and I've been asked this once or twice a year for a good number of years running, but it's the topic of single-use scopes. And obviously, this is a function of your Cantel exposure. Like what is the state of that trend today? Has it really not lived up to what was once believed to be high expectations or those products are getting some traction? It's just small and therefore, not all that significant. I know once upon a time, not long ago, you talked about launching your own single-use scope. Maybe that's been a helpful offset. But what are you seeing there over the last year or 2? And what's on the horizon over the next year or 2?
+
+Daniel Carestio
+President, CEO & Director
+
+Yes. I think what I would say and what we've been consistent in our messaging is that there is a place for single-use scopes, especially as it relates to small diameter scopes. So think of hysteroscopy, ureteroscopes, different nasogastric scopes, things like that, bronchoscopes. But the bulk of the business we have at STERIS in terms of everything that we do has to do with the large diameter scopes that you would use for colonoscopies.
+
+And the reason why it makes sense for the small diameter scopes is the cost -- the break frequency and the relative cost to fix them is pretty high versus when you look at large diameter scopes, they tend to be much more robust. They last a long time. They also cost a lot more upfront. So we've said all along, there's a place for certain aspects of disposable. And I think if you look a lot of the disposable scope manufacturers are highly focused on the small diameter scopes. And some of you even announced that they're not focusing at all on large diameter scopes for colonoscopy.
+
+Operator
+
+That concludes our Q&A session. I will now turn the call back over to Julie Winter for closing remarks.
+
+Julie Winter
+Vice President of Investor Relations & Corporate Communications
+
+Thank you, everyone, for taking the time to join us this morning to learn more about our performance in the quarter and our outlook for the year. We look forward to seeing many of you on the road later this.
+
+Operator
+
+Ladies and gentlemen, thank you all for joining, and you may now disconnect. Everyone, have a great day.

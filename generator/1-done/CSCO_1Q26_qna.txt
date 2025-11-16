@@ -1,0 +1,420 @@
+Question-and-Answer Session
+
+Ahmed Sami Badri
+Head of Investor Relations
+
+Thank you, Mark. [Operator Instructions] Operator, can we move to the first analyst in the queue?
+
+Operator
+
+Aaron Rakers with Wells Fargo.
+
+Aaron Rakers
+Wells Fargo Securities, LLC, Research Division
+
+On the quarter. I guess I want to dive a little bit deeper into the AI orders. Obviously, tracking to, I think that was a $3 billion number in fiscal '26 from the webscale vertical. So maybe start there.
+
+As we think about the diversity that Cisco is seeing in the web scale opportunity, how has that evolved? And have you guys been engaged in deepening kind of super spine or even scale across opportunities in the webscale vertical? And then as a follow-up on the enterprise side, I think the number was $2 billion pipeline. I think the slide deck says $200 million on orders this last quarter. How do we expect that to progress through this fiscal year?
+
+Charles Robbins
+Chairman & CEO
+
+Thanks, Aaron. So let me -- I want to just clarify the $3 billion number that we gave out was a revenue number from the hyperscale AI infrastructure in the fiscal year. I would say that the $1.3 billion was -- were new orders that we took during the quarter from the same customers that we measured last year, and it's the same products that we measured last year.
+
+So it's clearly -- it is definitely apples-to-apples, first and foremost. What we expect from an orders perspective this year is that we will -- we're expecting at least 2x the orders that we received in fiscal year '25 from that same set of customers. So we see a lot of solid pipeline throughout the rest of the year. And the use cases, we see it expanding.
+
+Obviously, we've been selling networking infrastructure under the training models. We've been selling scale-out. We launched the P200-based router that will begin to address some of the scale across opportunities. We clearly have seen great success with our pluggable optics. All of the hyperscalers now are officially customers of our pluggable optics. So we feel like that's a great opportunity.
+
+They not only plug into our products, but they can be used with other companies' products with our competitors or white boxes. So that's been good. We've also begun to see inferencing use cases where we're also winning there. I'd say the other thing that we saw in Q1 is that we had 4 of the major hyperscalers who grew triple digits during the quarter, and we had meaningful use case wins during the quarter, one from each of those 4, so across 4 different hyperscalers. So the momentum continues with the silicon.
+
+Your second question relative to the enterprise, what we said was that the Neocloud, sovereign cloud, enterprise pipeline basically for the rest of our fiscal year, so for the next 3 quarters, exceeds $2 billion. We booked $200 million in Q1. And so that provides incremental opportunity for us as we look to the future, and that's through the end of our fiscal year. Thank you.
+
+Ahmed Sami Badri
+Head of Investor Relations
+
+Thank you, Aaron. Michelle, can we move to the next analyst, please.
+
+Operator
+
+Meta Marshall with Morgan Stanley.
+
+Meta Marshall
+Morgan Stanley, Research Division
+
+Maybe just following up on Aaron's question. Just in terms of kind of some of that strength that you're seeing, is the kind of upside that you're seeing to some of these AI orders coming from kind of scale across strengthening? Or is it just coming from deepening engagements?
+
+Because I guess our view is that scale-across has strengthened throughout the quarter. So just kind of want to get a sense if that is something you've picked up on as well. And then just as a follow-up question, just any commentary around DRAM pricing has certainly become more elevated. Just how you guys are thinking about that in terms of the gross margin.
+
+Charles Robbins
+Chairman & CEO
+
+Thanks, Meta. I would say that the scale across opportunity is emerging, and we obviously announced the 51.2 terabit router that will help us go after that opportunity. I'd say, in general, most of what we saw in Q1 was just a deepening of existing use cases.
+
+We won the 4 new ones, but candidly, there wasn't a ton of new orders from them during the quarter. So those are all yet to be recognized. But we think the scale across opportunity will continue to grow and evolve. And again, we saw a pretty meaningful acceleration in pluggable optics, which is a really solid business for us and gives us yet another opportunity to pursue with these customers. On the DRAM question, Mark, I'll pass that one to you.
+
+Mark Patterson
+Executive VP & CFO
+
+Yes. So I would just say across memory as well as PCB and optics, we've noticed a bit of a tightening of supply. On the memory side, we've seen what you all have all seen as well, and that's pretty significant price increases as well. Both of those in terms of the supply as well as the pricing, though, are both included and considered in our updated guide for the Q2 as well as the year.
+
+Ahmed Sami Badri
+Head of Investor Relations
+
+Thank you, Meta. Michelle, can we move to the next analyst.
+
+Operator
+
+Tal Liani with Bank of America.
+
+Tal Liani
+BofA Securities, Research Division
+
+Great quarter. It's hard for me to ask a tough question in a great quarter, but I'm going to do it anyway with your permission. If I remove $1 billion from last year revenues, which were the AI back end, and I remove $3 million from the guidance for next year, the rest of the business, which is the majority, it's $55 billion base for last year, is only growing 3.6%. Why don't we see greater growth with what we have in Wi-Fi and campus and security. Why don't we see more than 3.5% growth for the rest of the business?
+
+Charles Robbins
+Chairman & CEO
+
+Tal, it's a good question, and you're always allowed to ask tough ones. So I'm just going to point out on the orders front for Q1, and then I'm going to let Mark talk a little bit about the P&L. Just to be clear on the -- if you normalize out the hyperscaler growth in Q1, the rest of the business grew 9% from an orders perspective. So I just -- that's not a data point we've given you I want you to have that. And then, Mark, do you want to touch on.
+
+Mark Patterson
+Executive VP & CFO
+
+Yes, Tal. Thanks for the question, Tal. I would say we're 90 days into the year. We've got a very good start, as you've seen in the order growth rates and the momentum that we're building. But as we get into the second half of the year, we're seeing much more difficult comps.
+
+I mean the comps in Q1, Q2 a year ago were minus 6% and plus 9%. The comps as you get into Q3 and Q4 are plus 11% and plus 8% on the top line. So much tougher comps there, but I do follow your math, and that sounds about right.
+
+Ahmed Sami Badri
+Head of Investor Relations
+
+Thank you Tal. Michelle, can we move to the next analyst, please?
+
+Operator
+
+Ben Reitzes from Melius Research.
+
+Benjamin Reitzes
+Melius Research LLC
+
+Chuck, I wanted to talk about one of your comments around the multiyear nature of the cycles. I know you guided for the year. So I mean, we're good with that. But can you just elaborate a little bit more on that? What are you seeing that gives you the confidence to talk about multiyear cycles? Maybe highlight the key ones you're thinking about a little more? And what made you say that comment, which was particularly interesting?
+
+Charles Robbins
+Chairman & CEO
+
+Yes. Thank you, Ben. I think when we look at the refresh opportunity, if you recall, we announced a new suite of products in our enterprise routing space. We announced new Wi-Fi 7 portfolio, and we announced a new suite of campus switches. And what we saw is we -- I think if you think about the Cat4K and the Cat6K installed base that's coming to end of support, that's one factor that's driving it.
+
+We saw -- as we ramp this launch of these new products, all 3 of those product families are ramping faster than they have in historical launches. So that leads us to believe that customers are actually aggressively moving on this. And I think the other is that the -- it indicates that customers are still very focused on modernizing their network infrastructure in the enterprise in preparation for inferencing and AI workloads.
+
+And so -- but it's -- these things are always multiyear, Ben. When we launched the Catalyst 9K in 2017, and I mean, that transition just kept going for 5, 6, 7 years. And so that's just typically what we see when these things move and the fact that they're growing. They're ramping faster than what we've seen in the past would indicate there's a lot of interest in these portfolios.
+
+The last thing I would say is that these new switching platforms, which truly enable security to be fused deeply into the network is a message that's resonating with our customers, particularly as they look to agentic workflows in the future. They realize they can't port this traffic off to a firewall. They're going to have to be applying security policies in the network as the traffic moves. And I think that's another consideration that they're preparing for.
+
+Ahmed Sami Badri
+Head of Investor Relations
+
+[Operator Instructions] Michelle, we can move to the next analyst.
+
+Operator
+
+James Fish with Piper Sandler.
+
+James Fish
+Piper Sandler & Co., Research Division
+
+Good stuff on the networking side. I guess how far along or what's the penetration of Silicon One into the product portfolio now? And as a stand-alone product, what are you guys seeing as why Silicon One is starting to gain some of that traction with the hyperscalers and what it can do versus the custom solutions that are being talked about as well as Broadcom's latest chips?
+
+And just as a follow-up, why is it now that Splunk is starting to see some of those greater shifts to cloud at this point? And any sense of the impact it had on the security number this quarter?
+
+Charles Robbins
+Chairman & CEO
+
+Yes, Jim. So on the silicon, we are -- we think by the end of fiscal '29, so we think in another 2.5 years, we'll have that fully rolled -- we'll have Silicon One fully rolled across the entire portfolio. So that's the intent. It's in some of our data center switching products going to the enterprise. It's obviously in the hyperscaler products. And I think it's a combination of performance, programmability and low power consumption.
+
+And our -- and I think the other thing is that they just -- they enjoy having multiple sources and they really enjoy the custom engagements that we have with them to really look at their unique requirements for each. I think that is -- that's really what's changed the trajectory for us with these customers. And I mean, for those of you who are on these calls 5, 6, 7 years ago, you remember, I kept telling you that we hadn't done well here, we hadn't done well here and that our intent was to do so. And I'm really proud of what the teams have accomplished.
+
+On the security stuff, Jim, I'm glad you picked up the revenue issue as I said in my prepared comments on Splunk, and then Mark, I'll let you talk a little bit about the implications. But we just saw a pretty meaningful mix shift during the quarter to cloud. I think the prior quarter, it was somewhere roughly 50-50, and I think it was down to the on-prem was only about 1/3 of the revenue.
+
+So we expected more of a 50-50 kind of mix because that's what we had seen. And at the end of the day, it's actually quite positive, as I said, because it allows us to drive adoption with our customers' expansion as well as deliver innovation real time because it's cloud tethered. So from a long-term perspective, it's good.
+
+In the quarter, it was obviously a onetime timing issue on the revenue front. If you look at all the dynamics on the order side, things are generally the way they were the prior quarter. We saw positive order growth in our new and refreshed products. We saw the same drag from our prior generation products, although that number is getting smaller.
+
+And then we saw double-digit ARR, double-digit RPO on the product side as it relates to Splunk. So on the demand side, there's not a lot to worry about. We just had the onetime revenue issue associated with this recognition with the 606 accounting. So Mark, anything to add?
+
+Mark Patterson
+Executive VP & CFO
+
+Yes. So if you look at this transition that we're seeing on the Splunk side, as you mentioned, Chuck, it's a good thing despite the timing difference that we're -- you will see based on ASC 606 and the revenue recognition based on on-prem versus cloud. We expect to actually recognize more revenue over time. So when we look at the cloud offers, they're stickier than the on-prem offers.
+
+Customers are actually able to adopt the technology faster, adopt features faster, et cetera. And so it's a good thing. What you are seeing and I think a better measure of the health of the business of Splunk is really to look at ARR and RPO. Both of those grew in the double digits for the quarter. So again, while we're disappointed with the timing a little bit in the quarter, overall, it's actually a really good thing for us.
+
+Ahmed Sami Badri
+Head of Investor Relations
+
+Thank you, Jim. Operator, we can move to the next analyst.
+
+Operator
+
+David Vogt with UBS.
+
+David Vogt
+UBS Investment Bank, Research Division
+
+One, maybe, Chuck, to start, just to pivot to campus. I think in the deck in your prepared remarks, you talked about the next-gen solutions ramping faster than prior product launches. Can you kind of give us a sense for like what's driving that? Is it a competitive? Is it just better competitive products? Are you seeing disruption from some of the smaller players like #2, #3 in the marketplace, given sort of the dynamics in that sort of integration there?
+
+Just more color there would be helpful. And then along those lines, maybe when you think about sort of the campus market, I do know you mentioned in the prepared remarks, there's a lot of end-of-life product out there. How do you think about that as it relates to sort of some of those customers, I think, are government customers, if not public sector customers, put in the context of what's going on actually in D.C. right now.
+
+So is that part of the strategy going forward just to upgrade those as soon as money starts to free up and get this first? I'm just trying to marry the 2 sort of markets here, both campus and government, kind of what's going on there?
+
+Charles Robbins
+Chairman & CEO
+
+Yes. Thank you, David. I'd say on the campus, it's a lot of what I said before. I think it's the end of sale stuff, the Cat4K, Cat6K, older Wi-Fi. And so we see in the early days of it, we see slightly faster adoption than we've seen historically with these launches.
+
+As it relates to #2 and #3, there's clearly been some confusion in the marketplace, particularly around Wi-Fi. We've been talking about that for several quarters. And so I think that's been positive for us. I can't give you any specifics relative to whether that's a big part of it now.
+
+And the other 2 things I think that are driving it are AI preparation and this belief that security does ultimately have to be in the network. And we're the only ones who have both security and networking. You've seen some of our competitors announce partnerships with security vendors, and those are hard to pull off. I mean it's hard to get the level of integration you're going to need to have when you don't own each of the technologies. So we feel like we're well positioned there.
+
+So we think all of those things are having an impact on various customers. As it relates to the government, we were pleased last quarter that our U.S. federal business despite the shutdown grew high single digits. From an orders perspective, we thought that was quite positive. We're optimistic that the vote happens today and that the government reopens, and we don't have to talk about this much more.
+
+But as it relates to the end of support stuff that happens to be in the -- particularly in the federal government, there is a lot of discussion and a lot of pressure beginning to build on ensuring that, that equipment gets updated just from a cyber risk perspective and a hygiene perspective. So we would expect that there'll be some upside from that as they get back and begin working again and reopening the government.
+
+Ahmed Sami Badri
+Head of Investor Relations
+
+Thank you, David. Michelle, we can move to the next analyst.
+
+Operator
+
+Samik Chatterjee with JPMorgan.
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research Division
+
+Chuck, maybe both questions on the AI front itself. Firstly, on optical, you talked about the strong growth you're seeing in Acacia. Could you just talk about optical more broadly in terms of the demand you're seeing inside the data center versus outside the data center in terms of like pull-through from scale across, et cetera?
+
+And what -- how is Cisco participating in both of those aspects? And then for the follow-up, for the -- I heard you say twice the number of orders in terms of AI orders from the same customer group in fiscal '26. And the sovereign customers, it looks like you are progressing on the engagements, but haven't seen orders as much yet. So that would be sort of upside to that number. I just want to clarify that the sovereigns aren't included as those orders come through in that sort of $4 billion number that you're highlighting for orders.
+
+Charles Robbins
+Chairman & CEO
+
+Yes, Samik, thank you. On the optics side of AI, we're participating in both. We're blessed to have great solutions in both inside the data center and then outside the data center DCI scale-across. I think we'll -- and we'll continue to innovate there. As I said, we now are selling our pluggable optics to the -- all of the hyperscalers, all the major hyperscalers. And I think that we'll continue to have -- we'll continue to see great opportunities across both of those.
+
+And again, it's a really large market that is meaningful even on par with sort of the switching side of it. So we're pleased to be on both sides of it. On the order front, yes, what my comment was is that we expect this year that we would be at least 2x the orders that we saw from the hyperscale customers last year, and that's the same products that we measured last year and the same customers that we measured last year. So no change.
+
+On the Neocloud, sovereign cloud, enterprise, there's those -- that upside where I said we had $2 billion plus of pipeline for the balance of the year. None of that is included in that 2x number that I quoted. So you had that exactly right.
+
+Mark Patterson
+Executive VP & CFO
+
+And maybe just to add, Chuck, on the sovereign side, the early phases of the sovereign build-out are really not material to this year's guide as well.
+
+Charles Robbins
+Chairman & CEO
+
+Yes. And I would say that, as you all know, Samik, there's export licenses that have to be attained in many of these cases. And so we're still working through that. And it's -- so we expect most -- some of that stuff will really start flowing in probably the second half of our fiscal year. But to Mark's point, it's not a material part of the guide this year.
+
+Ahmed Sami Badri
+Head of Investor Relations
+
+Thank you, Samik. Michelle, we can move to the next analyst.
+
+Operator
+
+Michael Ng with Goldman Sachs.
+
+Michael Ng
+Goldman Sachs Group, Inc., Research Division
+
+I just have 2. First, the G42 partnership, it looked like it was a full rack solution using AMD chips. I was just wondering if you have some sort of kind of preferred partnership with AMD. Should we see more of that as we head out through the year? And how important is that combination of compute and networking as rack solutions potentially get more important?
+
+And then second, I wanted to ask about some of the channel partner program changes that are supposed to kick off next year. Any feedback or comments just on the drivers of that change and what you expect to be the result on the business going forward?
+
+Charles Robbins
+Chairman & CEO
+
+Yes. Thanks, Michael. The -- yes, we're really pleased with the G42 partnership. I was over there again a couple of weeks ago. And you're right, the first announcement is with AMD. And I would say what we believe is that there are going to be multiple GPU providers, particularly in the world of inferencing, you're going to continue to see an expansive portfolio of GPUs and XPUs.
+
+And what we want to do is participate as a connectivity layer across as many of those as we possibly can. And so that would -- we work very closely with AMD. We've been very close with them on the G42 opportunity, and we continue to talk to them about other opportunities that are occurring around the world. So my anticipation is we'll have as many ecosystem partnerships as we possibly can.
+
+On the partner program, I'll make some comments, and then Mark, if you want to -- because I actually -- most of you know that 25 years ago, I helped build the program in our partner and build our partner strategy. And I think that what this really is, is it's a recognition of the growth opportunities ahead of us and how do we align our programs so that our teams are incented and our partner teams are incented in the same way to go after these growth opportunities that we see in the future.
+
+And I'd say we had our Partner Summit last week, our Annual Partner Summit, and the partners were generally positive. We've launched tools to help them assess the monetary impact of the new program versus their old program. Does it get better? Does it hurt you? And if it's hurting you, how can you adjust your sales strategy or your go-to-market strategy to actually increase your performance in the program.
+
+And I think we have a new worldwide partner leader, Tim Coogan, who has -- who is very well trusted by the partners. They know them really well. And every time we do one of these major changes, we know there's a reasonable chance that we miss something along the way. And our commitment to them is that if we miss something, we'll fix it.
+
+And we've got a long history of doing that. And so I think in general, the partners feel pretty good about it, and they feel good about the fact that we're going to continue to adapt the program to make sure it drives our growth priorities and helps them have a profitable journey alongside us.
+
+Mark Patterson
+Executive VP & CFO
+
+Yes. Chuck, maybe just to add 3 things. I think, one, the new partner program is really about simplification. We've had a number of different rewards and incentive programs. This really tries to streamline that and bring that together. Secondly, the new program rewards partners for not only portfolio breadth, but the depth of expertise. And I think that's a really important thing.
+
+And then lastly, it gets them laser-focused on what really matters, what truly matters, and that's campus refresh, AI, security and then premium services. So all in all, I'd say, while there's always some concerns, as you mentioned, whenever you do something new, I think it's being accepted quite well.
+
+Ahmed Sami Badri
+Head of Investor Relations
+
+Thank you, Michael. Michelle can we move to the next analyst.
+
+Operator
+
+Amit Daryanani with Evercore ISI.
+
+Amit Daryanani
+Evercore ISI Institutional Equities, Research Division
+
+I have 2 as well. I guess, first, on the $3 billion of AI sales in fiscal '26 that you folks talked about, is there way to think about how much of that do you think is optics versus systems? And do you see the overall margin of AI really being comparable to the corporate averages? That's the first one.
+
+The second one, Chuck, security revenue was down 2%. And I thought I heard you on the legacy pressure and the mix shift that you folks have had on the cloud side. Can you just talk about what do you think normalized security growth could look like once this mix stabilizes? I'm just trying to square that against the prior guide of mid-teens you've had on the security side, that would be helpful.
+
+Charles Robbins
+Chairman & CEO
+
+Yes. I'm going to let Mark take the revenue and the margin one, then I'll come back to security one. Mark?
+
+Mark Patterson
+Executive VP & CFO
+
+Yes, happy to. So when you look at it, certainly, we've got a broad portfolio and a range of margin, if you will, across -- and we've always had that, whether it's across geographies, it's across technologies that we sell, it's across customer markets, et cetera. I think what you're seeing right now is strong margins, 68.1% for Q1. We're pleased with that.
+
+In the guide that we gave you as well, you can see that both Q2 as well as the full year for '26 that we're expecting to grow the top line faster than the -- or sorry, the bottom line faster than the top line. So a real focus on leverage and profitable growth, if you will. And I would just tell you that optics, webscale, service provider, our true enterprise core portfolio, et cetera, that's all part of the mix and all part of the guide that we gave you.
+
+Charles Robbins
+Chairman & CEO
+
+And then, Amit, on the security front at negative 2%, yes, we -- first and foremost, I just want to reiterate, we still are committed to the mid-teens long-term guide on revenue for security. I've talked a lot about the fact. And by the way, none of us are happy about where we are right now. Let me be clear about that.
+
+But I think we think that it will continue to accelerate through the year, and it will come out of the year at a much higher rate. And then I think the normalization of this sort of mix shift is probably going to take us 4 quarters to get to where the year-over-year comparisons are sort of apples-to-apples on the mix side.
+
+
+So that's how I think about it. We're going to just give you as much transparency as we possibly can. The other thing I would tell you is that we don't need security to materially improve from here to hit the guide for Q2 or the year that we've given you. We've sort of baked that in.
+
+Ahmed Sami Badri
+Head of Investor Relations
+
+Thank you, Amit. Michelle, can we move to the next analyst.
+
+Operator
+
+Karl Ackerman with BNP Paribas.
+
+Karl Ackerman
+BNP Paribas, Research Division
+
+I have 2 as well. For my first question, I guess, Chuck, how much of the incremental $1 billion in revenue in fiscal '26 is coming from an earlier-than-expected enterprise campus refresh versus AI growth? And then separately, for my follow-up, maybe for Mark, have you been able to secure enough capacity? Or are you constrained in any way from fulfilling a doubling of AI orders among hyperscale customers this year?
+
+Charles Robbins
+Chairman & CEO
+
+I am -- on the first one, I think you're referring to the incremental $1 billion being the increase in our guide from last time on the year. And I'd say it's a combination of those 2 things. I mean if you look at the hyperscale growth of orders is certainly going to be meaningful. But when you look at the larger business that we're talking about that was -- orders were up 9% in Q1, I think it'd be a mix. I don't know that we have an exact number that Mark to go through. And do you want to take that?
+
+Mark Patterson
+Executive VP & CFO
+
+We're seeing strength clearly on both sides. And as far as whether we've been able to secure sort of the capacity, if you will, and the supply, if you just look at -- we always think the best measure is to look at sort of inventory plus advanced purchase commitments on a combined basis. If you look at that for the quarter, just in the last 90 days, we're up almost $1 billion.
+
+And year-over-year, we're up 38%, about $3 billion plus. So we are making those advanced purchase commitments and making sure that we can secure the supply and the inventory that we need to meet the accelerating demand that we're seeing in hyperscale.
+
+Ahmed Sami Badri
+Head of Investor Relations
+
+Thank you, Karl. Michelle, can we take the next analyst.
+
+Operator
+
+Antoine Chkaiban with New Street Research.
+
+Antoine Chkaiban
+New Street Research LLP
+
+I'd love to follow up about Cisco Unified Edge. How large do you think that opportunity can be relative to the large-scale multi-gigawatt cloud data centers? And I think you mentioned use cases in retail, health care, manufacturing, if you can double-click on each of them.
+
+And what's the preferred deployment strategy for edge AI compute? Do you think that's more an opportunity for players with edge assets like CDNs or operators? Or do you think that's more something enterprises will deploy on-prem? And maybe as a follow-up, so is Cisco planning to participate to the scale-up opportunity? And will that be material? And what partnerships would you be forming to do that?
+
+Charles Robbins
+Chairman & CEO
+
+Thanks, Antoine. So yes, the Unified Edge product is something we're really excited about. As we all know, when you're really trying to do real-time inferencing in a retail environment when a customer is there and you're trying to learn something or gain very critical information at that moment in time, you're going to have to push that inferencing to the edge and you can't send the data back and forth to a data center.
+
+So we think this Unified Edge over time is going to have huge applicability, retail, restaurant chains, health care and it's a unique thing that we can put together because we own all of those technologies. And so I'm proud again of the team for coming together across all of our business units and actually seeing the need to deliver that product and delivering it.
+
+We'll see how it scales and ramps, but I think it's something that's going to be very interesting to our customers. Years and years ago, we had branch solutions that had integrated compute, et cetera, and integrated security. And I think this is sort of -- it's the revitalization of that kind of technology at the edge.
+
+From a deployment strategy perspective, I'd say it's all of the above. I think you could see CDN players. I think it is something that, hopefully, the carriers and the telcos who have these distributed PoPs that are very close to these customers can offer this as a consumption service. I think customers will also choose to put it on-prem in certain cases, every customer has a different perspective.
+
+If I go to your second question on the scale-up opportunity, if you look at the slide that we had in our prepared notes on our Silicon One road maps. We did have a scale-up silicon offering on the right side of that slide. So we have talked a bit about our future ability to participate in the scale-up. We do believe that, that's going to transition to a version of Ethernet, and it's our intent to play in that market. So you should expect to see something from us over time, for sure.
+
+Ahmed Sami Badri
+Head of Investor Relations
+
+Thank you, Antoine. Michelle, we can move to the next analyst.
+
+Operator
+
+Simon Leopold with Raymond James.
+
+Simon Leopold
+Raymond James & Associates, Inc., Research Division
+
+I've got the 2 as well. One is, I want to understand what's sort of motivating the customers in this campus refresh. And where I'm coming from is we had the sort of backlog flush after the pandemic. So 2023 was a phenomenal year for your campus business. And so I assume the embedded base is relatively young.
+
+So help me understand sort of the motivation or why you're succeeding here. And the second question is, we've heard that other governments, international governments, state and local governments have picked up more of the slack with the federal challenges you saw earlier this year. Could you unpack what you're seeing, particularly on the international governments?
+
+Charles Robbins
+Chairman & CEO
+
+Yes, Simon. So on the campus side, I think the reality is, is that I think the size of that installed base and how much of it was actually flushed in 2023 is probably overestimated. I mean it was a big move granted. But if you look at the amount of end of support equipment that our teams have identified, it's billions and billions and billions of dollars of installed base that is pre-Cat9K. So not only it didn't get it upgraded to Cat9K, it didn't get upgraded in the 2023 push. So all of that is still out there, and I think that's part of what we're seeing.
+
+On the other government front, we see dynamics in Europe where from a defense perspective and from a geopolitical perspective, we see lots of investment happening in public sector in Europe. We see it in the U.K. and Germany. We obviously saw U.S. federal growing strongly even though it was closed.
+
+The government was closed, but public sector globally has been strong for several quarters in a row, and we anticipate that given the push for general sovereignty around the world, not just data sovereignty and tech sovereignty, but overall sovereignty, we would expect that to continue.
+
+Mark Patterson
+Executive VP & CFO
+
+Yes, Simon, I would just add to your point, I think you were alluding to this. All 3 of our geographies grew in public sector, but the bulk of the strength or the greatest strength that we saw was actually outside the U.S. and kind of in the mid- to-upper teens in EMEA and APJC. So good strength there.
+
+Ahmed Sami Badri
+Head of Investor Relations
+
+Thank you, Simon. Michelle, can we move to the last and final analyst in the queue.
+
+Operator
+
+Thank you, sir. Ben Bollin with Cleveland Research.
+
+Benjamin Bollin
+Cleveland Research Company LLC
+
+Bigger picture question for you, Chuck. When you look at the current AI build-out, how do you think about this relative to the late '90s with respect to the Internet build-out? And interested in your thoughts in durability, sustainability, integrity, just how you're contemplating and thinking about all these orders and the optionality going forward?
+
+Charles Robbins
+Chairman & CEO
+
+Yes. Thanks, Ben. I think this is a common question that we get, particularly since we live through it. I think there's a few differences. I think that the speed at which this transition is moving is even faster than what it was, I think, at the turn of the century and in the dot-com days. I also think that the companies that are investing in this are massive, strong balance sheet, strong cash flow, profitable companies.
+
+And that's -- a lot of the spend is coming from companies that are incredibly strong, who view this as existential, right? And so this is not -- it's not -- there aren't as many companies that are making bets that don't have business models. I mean there's clearly going to be winners and losers, but I think there's such a concentration of spend from highly profitable, strong balance sheet, strong cash flow companies. I think that's a big difference.
+
+And I think the pace at which this is moving is meaningfully different. I think just to be determined sort of the impact on society and the impact on business relative to what we saw in -- at the turn of the century around 2000. But it is -- the pace is what's hugely different for me. So it's an area we're really excited about. So thanks for the question, Ben.
+
+Ahmed Sami Badri
+Head of Investor Relations
+
+Thank you, Ben. I'm going to hand it over to Chuck for some closing remarks on our conference call.
+
+Charles Robbins
+Chairman & CEO
+
+Yes. Let me just start by saying how proud I am of our team, how hard they've worked to get to these results. I think the innovation that our teams are delivering is at an all-time high. The commitment and the focus on listening to our customers and delivering the technology that they need right now is fantastic. I think the last 12 to 18 months, the real emergence of the importance of the network in this AI wave is very clear, and that's what we do best.
+
+And so driving a lot of innovation in the network, I think, at a time where the network is becoming more important is huge. It's just the beginning. We have momentum with the hyperscalers. We see the growing opportunity across enterprise sovereign and Neocloud.
+
+We've got this multiyear, multibillion-dollar network refresh opportunity. And again, with what I think is an unmatched innovation pipeline as well as an acceleration of our global partnerships, and it really does position us for the strongest fiscal year we've ever had. So we have a lot of confidence. We have a lot of excitement. And I want to just once more thank the teams for everything they do. And then, Sami, I'll turn it back over to you.
+
+Ahmed Sami Badri
+Head of Investor Relations
+
+Thank you, Chuck. Cisco's next quarterly call, which will outline our second quarter fiscal year 2026 results will be on Wednesday, February 11, 2026, at 1:30 p.m. Pacific Time, 4:30 p.m. Eastern Time. This concludes today's call. If you have any further questions, please feel free to contact the Cisco Investor Relations department, and we thank you very much for joining the call today.
+
+Operator
+
+Thank you for participating on today's conference call. If you would like to listen to the call in its entirety, you may call (800) 839-2232. For participants dialing from outside the U.S., please dial (203) 369-3662. This concludes today's call. You may disconnect at this time.

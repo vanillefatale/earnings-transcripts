@@ -1,0 +1,126 @@
+Question-and-Answer Session
+
+Aduke Thelwell
+Head of Investor Relations & Communications
+
+Thank you, Ali and Brian. We will now move into the Q&A session. First, I'd like to say a big thank you to all the investors and analysts who submitted questions via e-mail. We really appreciate your engagement.
+
+First question, I think this might be for Ali. Do you expect to add more robots in 2026? If so, what would be timing and magnitude of the additions? Ali?
+
+Ali Kashani
+Co-Founder, Chairman, CEO, Treasurer & Secretary
+
+Thank you, Aduke. Yes, I can take this one. So good question. We aren't going to share the specific numbers right now. Hopefully, we have more to share early next year. But I do want to explain how we are thinking about growth.
+
+As we are looking to get towards our 1 million robots' goal, what we want to do is make sure we grow quickly, but also with precision and discipline. We've been really laser-focused in getting the fleet really efficient and effective every day and driving utilization, while at the same time, layering new partners, going to new geographies, all of this makes that scale up easier.
+
+So in a way, being efficient and growth kind of line up together. So in that -- it's the same type of effort that it takes to get there. So we are definitely going to push on growth, but we want to do it responsibly.
+
+Aduke Thelwell
+Head of Investor Relations & Communications
+
+All right. Thank you. Next question is about robot design. Could you provide details on robot design simplification and cost reduction beyond economies of scale? Ali, do you want to take this one?
+
+Ali Kashani
+Co-Founder, Chairman, CEO, Treasurer & Secretary
+
+Yes, I'll take this one, too. I think there's a few different factors here. First of all, there is a ton of progress that we've made when it comes to the robot design. We've made it a lot more modular, easier to manufacture, a fewer custom assemblies. We've also really strengthened our supply chain to get better parts and at lower prices. So this both cuts down the cost of the material, but also cost of assembly.
+
+At the same time, as we improve our design, we've also benefited from our scale manufacturing, which obviously helps bring the cost down as well. And while all of that is happening, the broader kind of ecosystem of suppliers, they're also getting more mature.
+
+I think a really good example that I'm excited about is Ouster. They have done a phenomenal job of bringing these advanced LiDAR sensors to market at scale. They're shipping record number of sensors right now, I think, thousands per quarter. And we are directly benefiting from that. And I think a lot of folks in the autonomous space would benefit from more affordable LiDAR sensors that just didn't seem within that realm just a few years ago.
+
+So combining our improvements to the design and our improved supply chain and our scaled manufacturing and the maturity of the ecosystem that per unit cost of the robots is definitely coming down substantially to the point that, as we've shared in the past, our Gen 3 robots are 1/3 the cost of our Gen 2 robots. And we are going to keep pushing these improvements forward.
+
+Aduke Thelwell
+Head of Investor Relations & Communications
+
+Okay. Thank you for that. Next question, what are the next steps in your DoorDash relationship? How do you see that helping the business? Ali?
+
+Ali Kashani
+Co-Founder, Chairman, CEO, Treasurer & Secretary
+
+Yes. We are working very close with our partner at DoorDash. They -- first and foremost, it's about integrating the robots into the fleet in a thoughtful way and planning the market rollouts over time.
+
+DoorDash obviously unlocks an enormous network of restaurants and consumers for us. We have over 1,000 robots right now and soon 2,000 that can deliver for those restaurants and customers. So the timing is perfect. And I expect that in the next few months, we will start to really grow the volume under the new channel with DoorDash basically.
+
+I do want to emphasize this is a really important milestone for us because we've always envisioned this multi-platform approach. I think a single robot being able to alternate between deliveries from each platform from DoorDash and Uber, it is really, really important that we are able to do that, and I think we are now proving that we can. And this kind of interoperability actually increases our utilization, which in turn lowers the cost per delivery. And that actually benefits all of our partners as well.
+
+Aduke Thelwell
+Head of Investor Relations & Communications
+
+Perfect. Thank you. We have a question on acquisition. Can you quantify the autonomy effect from Vayu? For example, would average speed increase or would the ratio of robots to operators improve? Brian, do you want to take this one?
+
+Brian Read
+Chief Financial Officer
+
+Yes. So yes, good question. And I mean, I think the simple answer to start here is we're very early in this integration process to dive into those results exactly. And this is the type of integration that can take months. But we're actually doing the call here today from Vayu offices and the excitement from the teams to hit the ground running as soon as the merger was completed was tremendous, and there's just a lot of excitement on both sides to go faster and deeper into that road map to bring those new capabilities into the fleet.
+
+I think we think about it as part of a flywheel where over time, that integration will allow our robots to be faster and smarter, while maintaining the safety and reliability that we focus on daily. And that, in turn, then drives efficiency and utilization, ultimately landing in unit economics and overall is a benefit for these acquisitions.
+
+Aduke Thelwell
+Head of Investor Relations & Communications
+
+Okay. Thank you. Our next question, what are some differences between deployments in different cities? What have you learned from new deployments and expansions that will help you scale further? Ali, can you take this one?
+
+Ali Kashani
+Co-Founder, Chairman, CEO, Treasurer & Secretary
+
+Certainly, yes. Each city has its own distinct personality. It's like they're different in ways that's actually very helpful for us and honestly, quite fun for our team as we've been expanding, seeing, for example, in Atlanta and Miami, learning about humidity and the different kinds of pedestrian intersections and city design compared to what we had in Los Angeles before.
+
+They have different width in their sidewalks, different nuances about how -- the best routes for traversing would actually look like or our new market in Chicago is an incredible place for getting that on really dense urban environments with cold weather where you have to look at battery efficiency and snow detection and traction. So a lot of things that we have tried to test in advance now are being put to test in real life, and we are learning a lot from that.
+
+What's really powerful, I think, is that as we go to these new cities, it really enriches the models. And the data in this new environment actually helps the model across the board for the entire platform. And that actually means that every subsequent city launch, as I mentioned earlier, gets more reliable and better. In fact, we saw this in Chicago when we first launched, it was the fastest market for us to get to our SLAs that are comparable to our more mature markets. So it kind of proves that the playbook is working well and the robots are getting smarter.
+
+Brian Read
+Chief Financial Officer
+
+And just to finish that, from a financial standpoint, I think, too, is we're using these learnings. We're translating them directly into efficiency through our operations teams. So we're seeing shorter payback periods with the expansion. We're seeing the higher utilization as we deploy into new markets and neighborhoods to continue the expansion. And that's exactly what we're building towards.
+
+So we've been talking internally about describing this as being sharper with our scale. And we believe all of these technology improvements are going to compound, which will show up in our financial results. So that is really what's positioning us to expand in a disciplined capital-efficient way in 2026.
+
+Aduke Thelwell
+Head of Investor Relations & Communications
+
+Okay. Thank you. Next question. What can you share about the pipeline for software and data sales? How are you looking to accelerate software revenues in 2026 and beyond?
+
+Ali Kashani
+Co-Founder, Chairman, CEO, Treasurer & Secretary
+
+Yes. This is a good question. The revenue pipeline for these other opportunities like the delivery platform, the software that's powering the robots as well as the data that's generated by the robot. It's been a really strong pipeline. We are in substantial discussions with multiple partners that want to basically use the platform or the data that we are creating.
+
+And I think we are trying to be smart and selective in terms of who we engage with and apply some filters there to pick the right partners. But the amount of inbound interest we're getting really reinforces that what we have is quite differentiated. And I'm hoping that as we move some of these conversations forward and have more updates to share, we will actually tell you more about those relationships as well.
+
+Brian Read
+Chief Financial Officer
+
+And if I can also wrap the financial aspect into this question is. As the fleet scales, these data and AI insights are going to become more valuable, right, to all of the people Ali just mentioned that we're talking to and the substantive discussions we're having.
+
+So that's going to enable our team to look at opportunities for adding more recurring software as we go throughout 2026 and focus on that robotics and Autonomy as a Service offering. So it's really a long-term vision, right? This is a balanced model. We're focused on diversifying revenue and fleet revenue is that foundation with software and data as that real high-margin accelerant that we're focused on as we enter 2026.
+
+Aduke Thelwell
+Head of Investor Relations & Communications
+
+Okay. And the last question, you mentioned the $60 million to $80 million run rate. When do you expect to reach that run rate? Brian, can you take this one?
+
+Brian Read
+Chief Financial Officer
+
+Yes. Let me give a little bit more color. I know in the script; we did mention the outlook for 2026. So we'll point everybody back to that commentary. But obviously, this is a good question to end on here as we think about this Q3 update.
+
+So the path to hitting $60 million to $80 million is underway, right? And that's really the final step. When we think about the ambitions, we laid out a few years ago to deliver 2,000 robots, right, $60 million to $80 million is the endpoint. But along the way, we've exceeded a lot of expectations, especially as we near the end of 2025. And that's been a testament to the team and how we've delivered.
+
+I mean, to summarize what we've talked about on a lot of the earnings calls, we are on track to deliver the 2,000 robots. We've expanded into multiple markets with more coming. We talked about new partnerships and adding top of the funnel orders into our pipeline. But last but not least, we have the acquisition. So across all of these verticals, we are firing and we're really exceeding what we set out to achieve in 2025.
+
+I'd like to remind investors and anybody that wants to understand our story that, that's all great. But critically, we're maintaining the safety and the reliability throughout that network as we're building it. And so the final boss, as Ali likes to say, is achieving that financial milestone is continuing to improve the utilization across the fleet. And so we have that momentum through 2025 and accelerating into 2026 to approach that $60 million run rate target. To be clear, I think we're still more than 12 months out, and we'll certainly, as we indicated, we'll have more to say on this in the next call early next year.
+
+Aduke Thelwell
+Head of Investor Relations & Communications
+
+Okay. Thanks so much. That's all the time we have for today, and that concludes our session. Thank you for your thoughtful questions and participation.
+
+And with that, I hand it over to the operator.
+
+Operator
+
+That concludes today's call. You may now disconnect.

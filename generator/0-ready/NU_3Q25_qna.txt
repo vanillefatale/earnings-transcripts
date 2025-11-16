@@ -1,0 +1,326 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] I would now like to turn the call over to Mr. Guilherme Souto, Investor Relations Officer.
+
+Guilherme Souto
+Investor Relations Officer & Director of Market Intelligence
+
+Thank you, operator. Could you please open the line for Mr. Yuri Fernandes from JPMorgan.
+
+Yuri Fernandes
+JPMorgan Chase & Co, Research Division
+
+Congrats on delivering -- I think the debate from investors here, I'd love to hear your thoughts, David, are related to your provisions, Lago. Your cost of risk was lower. I think you are doing a risk migration, right, growing more middle income in Brazil, growing more secured lending. When we check your new Stage 3 formation, new Stage 3 formation improved. But I guess investors, they will try to understand the lower provisions this quarter that helped on EBIT. So if you can like provide some explanation for investors to understand what drove this lower provision, I think this will help with the understanding for the quarter. Thank you very much, and congrats again.
+
+Guilherme Marques do Lago
+Chief Financial Officer
+
+No, thanks, Yuri, for the question. Yes. I think asset quality has been positive over the past 2 quarters. I think this quarter, we have also seen kind of asset quality performing as per expectation, even it's likely better than expectations.
+
+We have also had some effects of the policies that we have intensified over the past now 3 to 4 quarters of reactivating customers in Brazil who had defaulted with us a few years ago and only now after they have cured their debt, we are also kind of offering them additional credit opportunity that has materially improved the recovery levels.
+
+And then finally, we actually have seen through both machine learning, but also the predictive AI technology and modeling that David alluded, the ability to actually have greater precision in some of the credit modeling techniques. So what you have seen is kind of asset quality performing in line or even better, but it's still, if I would now draw your attention, Yuri, to, let me go here, Slide 17, you see that the coverage ratio that we continue to have are at levels that we believe to be fairly robust in both the total balance as well as NPL 90+.
+
+Now let's see how it goes, but we are also kind of in the mid of the fourth quarter of 2024 now, it's November 13. And we continue to see asset quality performing relatively okay. So that's kind of the main background for the evolution of our CLA this quarter.
+
+Guilherme Souto
+Investor Relations Officer & Director of Market Intelligence
+
+Operator, could you please open the line for Mr. Jorge Kuri from Morgan Stanley.
+
+Jorge Kuri
+Morgan Stanley, Research Division
+
+Congrats on the numbers. Great results. My question is around your net interest margin. I heard what Lago said about the mix of credit being responsible for the decline in NIM. I have -- I'm looking at just the nominal numbers and your interest income was up 14% quarter-on-quarter versus a loan book in total that was up 11%. So it doesn't seem that you're growing your income less than the assets, which would be sort of like a signal of mix deterioration. It's actually the other way around.
+
+But on the flip side, your interest expense was up 24% quarter-on-quarter versus your deposits up 6%. And so you talked about the cost of deposits coming down, but it's just in this -- in dollar numbers, it's kind of like doesn't add up. And so I'm just wondering if you can walk us through these dynamics and exactly what explains that NIM contraction.
+
+Guilherme Marques do Lago
+Chief Financial Officer
+
+Sure, Jorge. Look, 2 things on this. So first on the revenue and then on the cost. I think on the revenue side, we have seen the growth being kind of more heavily weighted into less risky assets, not only asset classes per se. For example, you can see that if you go to Slide 12, you can see that, for example, secured lending has outpaced the rest of the portfolio. Secured assets has no everything else constant, lower kind of yield levels.
+
+But even within lending and within credit card, Jorge, we are seeing kind of a faster growth on a balanced basis. towards less risky customers that would have, all else equal, kind of lower yields.
+
+So that is one of the things that would justify, but you correctly pointed out that we have also seen an increase in interest expenses, and that has come entirely from Brazil. So our average funding cost in Brazil has gone up and the average funding cost in Mexico and Colombia have been coming down.
+
+When we look at the average funding cost that we published on Slide 14, you will see kind of the -- what we call the cost of deposits as a percentage of the interbank rate going from 91% to 89%. And they may call the question, why, how do I kind of connect the dots, right?
+
+If you are lowering the cost of funding as a percent -- expressed as a percentage of interbank rates, how can your cost of funding expressed in dollars be going up? It's because the piece that is going up is the piece denominated in Brazilian reais, which is subject to the nominally higher interest rates of SELIC of 15%. So the weighted average cost of fund expressed as a percentage of the interbank deposit rate, which is what you see here on Slide 14, has come down. But the overall interest expenses, dollar-wise, has gone up a little bit.
+
+So the combination of lower asset yield because of the mix with a slightly more expensive funding base in Brazil has compressed net interest margins in the quarter, which is what you see on Slide 15 that has gone from 17.7% to 17.3%.
+
+What I would, however, point out is, when you're taking into account the asset quality or the cost of risk, you actually see an expansion in margin. And that is what is shown on the subsequent slide, which is Slide 16. Our risk-adjusted margin has actually gone up from 9.2% to 9.9%, which goes to show that even though we have kind of increased the growth towards less risky assets that has come at the expense of slightly lower asset yield. This has been more than offset by much lower cost of risk, which has led to the expansion of risk-adjusted NIMs.
+
+Jorge Kuri
+Morgan Stanley, Research Division
+
+All right, Lago. Thank you very much. That was very clear. And if you remind my follow-up on the previous question, on provisions. You mentioned recoveries stronger than expected. Would you mind quantifying that and what impact it had on the combined provision number?
+
+Guilherme Marques do Lago
+Chief Financial Officer
+
+We don't -- we are not disclosing this one-off impact, Jorge. It's basically the additional of the recoveries, mostly from the customers that we reactivated over the past now 3 quarters.
+
+This is a program that we have done by kind of offering a second chance to customers who defaulted was a few years ago have completely kind of paid down their debt and then we have seen that out of those customers, the recovery has been higher than we had booked for. But we are not disclosing the exact breakdown of the additional recovery coming from this program.
+
+Guilherme Souto
+Investor Relations Officer & Director of Market Intelligence
+
+Operator, could you please open the line for Mr. Pedro Leduc from Itau BBA.
+
+Pedro Leduc
+Itaú Corretora de Valores S.A., Research Division
+
+If I may, on credit cards, please. Last quarter, we saw a big increase in newly granted limits. And this quarter, we may be seeing some of the effects here. There's more cards active, more cards generating revenues, transaction volumes, the cards seem to be going up.
+
+Can you talk a little bit more about how you're seeing this rollout perform on the ground? It looks like you did another small increase now in 3Q. If you can talk about that as well.
+
+And I think it may tie up also to the -- what we're seeing in the stages and the probabilities. It seems like this growth is coming from slightly better quality mix. If you can also include that. I know it's a longer question, but I think you get the spirit.
+
+Guilherme Marques do Lago
+Chief Financial Officer
+
+Sure, Leduc. Thanks for the question. So look, we announced a relatively large credit limit increase program in the second quarter of 2025. And the rollout of that credit limit program was spread roughly 1/3 in the second quarter, 1/3 in the third quarter and 1/3 expected to be finalized in the fourth quarter. So we have not yet seen the full effects of that CLIP program materializing in the financial performance of the company. It's something that we will only see in full most likely towards the mid and end of 2026 because it takes some time for limits to converge into PV and for PVs to converge into IBB. So there's some leeway there as well.
+
+Second point, Leduc, you're right. I think a substantial portion of the credit limit was granted to less risky customers. And so kind of the average unit of risk that we have added has actually lowered over time. However, as we increase the limits to kind of lower-risk customers, we also decreased the flip side, the utilization, right? So I think if you have BRL 1,000 limits and we increased this by 20%, you would experience much higher utilization than if you have BRL 100,000 limits and we increased this by 10%, but both the utilization as well as the credit performance related to this credit limit increase have now both performed largely per our expectations.
+
+So nothing kind of deviates or forces us to revisit both from the offensive as well as on the defensive side, the pace and intensity of those movements. Now even though we did disclose in the second quarter that we saw a big CLIP, a credit limit increase, I don't think we should see this as a one-off, right? This is really a continuous enhancement of the programs that will not be kind of a straight line, but we will see kind of CLIP programs being introduced from time to time. This is what we've seen over the past years.
+
+And then if you go, Leduc, to what David mentioned at the beginning of his session about the implications of the predictive AI modelings to our credit underwriting, I would say that, first, we have introduced this to credit limit increases that has not yet been introduced to releases by which I mean we have been able to sharpen how we increase credit limits of existing customers.
+
+We have not yet applied this to the determination of the new customers to which we granted the initial line, which we call customer acquisition. We have also not introduced this to lending. And we have not introduced this to Mexico and Colombia. So I think there's still quite a lot of runways for us to see further improvements and enhancements in our credit underwriting performance.
+
+Guilherme Souto
+Investor Relations Officer & Director of Market Intelligence
+
+Operator, could you please open the line for Mr. Mario Pierry from Bank of America.
+
+Mario Pierry
+BofA Securities, Research Division
+
+Congrats on the results. Let me double-click a little bit on Mexico and Mexico ARPAC of $12.50 that you're showing and which is a quite impressive number, right, especially given that Mexico is fairly new for you and the ARPAC is almost similar to Brazil.
+
+Can you give us like a little bit more details on the breakdown of this ARPAC between interest income and fees? Because -- and I ask this, right, because we saw the regulator in Mexico now proposing a cap on card interchange fees. So I was wondering what is your view on that? And how much that could impact your results in Mexico.
+
+Also staying with Mexico, you only give us data, right, the NPL data and coverage data for Brazil operations only. I was wondering if you could share any asset quality metrics from Mexico, that would be helpful.
+
+Guilherme Marques do Lago
+Chief Financial Officer
+
+Sure, Mario. Let me try to address each of those questions, and feel free to follow up if I miss any of them. So I think on Mexico, you mentioned about the evolution of the customer in ARPAC and cost to serve. And I would draw your and the attention of the others to Slide 7, where you can see the evolution of our customers in Mexico. It's now about 13 million customers, accounts for roughly 14%, 15% of the adult population of Mexico, but accounting for now nearly 25% of the bank population in Mexico.
+
+So we can easily say now that about 1 out of every 4 banked Mexicans are customers of Nubank, which makes us quite excited. And then as you said, you see kind of the ARPAC evolution in Mexico. Most of them are kind of interest related, both from credit card lending and floating from our deposit base. The fees, the interchange related to both credit cards and debit cards account for a smaller portion of the overall ARPAC.
+
+That said, Mario, I think you alluded to the public consultation that the Mexican government has recently issued aimed at capping the interchanges of both credit cards and debit cards in Mexico. We have, since this kind of came out, been in very active dialog with other industry participants and with the government itself. And even though that accounts for the smaller portion of our revenues, we are concerned with the idea of caps and price control there because they may actually inhibit, the financial inclusion and credit deepening than we have seen in Brazil and other countries as they make the unit economics of new-to-credit customers less compelling.
+
+So we are kind of in active discussions with all of the industry participants. We are very confident that kind of we will be able to find together as an industry to a good balance that will not put at risk our ability to promote together with other fintechs, the financial inclusion in Mexico over time. Mario, I may -- have I -- did I forget any of your questions?
+
+Mario Pierry
+BofA Securities, Research Division
+
+No, no, that's helpful. And then on the NPLs. And just to clarify, like when you say, right, that the fees are a smaller percentage, are we talking about like 15%, 20%. Any idea or new color you could give to us?
+
+Guilherme Marques do Lago
+Chief Financial Officer
+
+No, we don't provide this breakdown. But I think if you take a look at the financial statements that we posted with the regulators in Mexico, you will largely get a good proxy of kind of the weight of each of those components for us.
+
+But I think even if the, Mario, for example, let's assume that interchange account for a small portion. If you cap this in the magnitude that has been proposed by the government, the existing kind of business plan that we have, a significant portion of the new customers of the ones that we would bring from informality to the bank may be compromised, right? So we do believe that it's our obligation and duty to be able to share this very openly with the stakeholders in Mexico to continue to foster the competition and financial inclusion that we want to do so.
+
+Mario Pierry
+BofA Securities, Research Division
+
+Okay. And the second part of my question was on the NPLs in Mexico, as Mexico becomes more relevant, right? Like are you going to disclose the NPLs for the total group rather than just Brazil? And if you can make any comments on how that is behaving in Mexico and the coverage that you're seeing?
+
+Guilherme Marques do Lago
+Chief Financial Officer
+
+Yes. No, absolutely. We do expect that as Mexico gains relevance in our overall credit portfolio, we will start providing kind of a much more granular disclosure on its asset quality. Today, it still accounts for less than 10%, 15% of our overall book, but we are certainly ready, able and willing to provide those levels of the disclosures.
+
+The asset quality and asset performance in Mexico overall has been a fairly good story for us. I think we spent the good part of 2023 and 2024 kind of sharpening the data stacks and the models.
+
+And what you have seen over the past 12 to 18 months, it's a relatively strong acceleration of the growth of our credit book in Mexico, growing at a clip of about 50% to 70% on an annualized basis. But more than the top line growth or the size of the book, the asset quality has performed very much in line, in some cases, even better than expected.
+
+Also, we have recently launched kind of a lending product in Mexico. We have been kind of working primarily with credit card. And lending has been doing really, really well in Mexico. I wouldn't be surprised if differently from Brazil at some point in time, lending becomes an even bigger business for us in Mexico than credit cards.
+
+So I would say, yes, the left side of the balance sheet has expanded nicely in both kind of quantum and quality. And then on the right side of the balance sheet, as you may have seen, Mario, we have been kind of sequentially redesigning and repricing deposits. It has led to a fairly substantial drop in cost of funding in Mexico. And still preserving what we see very intensively there, which is primary banking relationship, transactionality, activation. So for most of the customers, it has actually been going up. We are an all-time high of transactionality there.
+
+So very excited with Mexico with what we're seeing. Still early days. But as David mentioned, it's playing out to be as strong, if not even stronger than Brazil.
+
+Mario Pierry
+BofA Securities, Research Division
+
+It's very impressive how quickly and how profitable you're growing in Mexico.
+
+Guilherme Souto
+Investor Relations Officer & Director of Market Intelligence
+
+Operator, could you please open the line for Mr. Marcelo Mizrahi from Bradesco BBI.
+
+Marcelo Mizrahi
+Banco Bradesco BBI S.A., Research Division
+
+So my question is regarding the cost of risk again. So I understand what drives the cost of risk to go down. But as Lago has said, so about the campaign to recovery to bring back clients, so we are already seeing the number of active cards going up. So the question is, looking forward, this level of cost of risk, it seems that is the new level in the next quarters. So the growth of the NIM will come with this proportionality, so more from the cost of risk than from the net interest margin.
+
+Guilherme Marques do Lago
+Chief Financial Officer
+
+So thanks for the question. I think it will -- in terms of NIMs, starting with your -- the latter part of your question, it will be a function of both asset mix as well as LDR, right? So I think as we increase kind of -- we continue to increase the ratio and the weight of secured lending in our book, we could eventually see the continuous kind of lowering of the asset yield.
+
+But as LDRs go up, we should expect to see kind of NIMs even expanding potentially. So it will depend on the velocity with which we increase kind of our credit assets versus the velocity with which we continue to increase deposits in both Brazil, Mexico and Colombia.
+
+In terms of cost of risk, we don't provide guidance on cost of risk in the short or in the long term. What we have been doing, as you have followed us for some time, is we have been kind of measuring and managing the business with a paranoid focus on the short-term data that we collect on the margins. So far, the data has proven to be fairly encouraging and reassuring for us to continue to grow the book.
+
+However, as we have done in the past, if and when we see any deterioration in asset quality across any of the segments, any of the products or any of the geos, we will not hesitate to kind of -- to pull the brakes, reassess, revisit whether we will go. So that's one of the reasons why we are so hesitant to provide kind of a guidance on both top line as well as cost of risk.
+
+Marcelo Mizrahi
+Banco Bradesco BBI S.A., Research Division
+
+Can I just do a follow-up here on the LDR. So looking for the -- what is happening now in Mexico. So for me, it makes sense to see this -- part of this profitability coming from the leverage of the portfolio. So on the LDR part. Are you guys seeing that already or not?
+
+Guilherme Marques do Lago
+Chief Financial Officer
+
+Yes. Look, I think LDR in Mexico is about 15%, 1-5, right? So certainly, it's in many respects, one of the most liquid financial institutions that we may have in the region.
+
+Having said that, over the past 2 quarters, most of the expansion of NIMs in Mexico has come from the lowering of the cost of funding rather than any material changes in LDR. Going forward, however, I think that LDR will play a much bigger role than any material change in cost of funding.
+
+Guilherme Souto
+Investor Relations Officer & Director of Market Intelligence
+
+Operator, could you please open the line for Mr. Thiago Batista from UBS.
+
+Thiago Bovolenta Batista
+UBS Investment Bank, Research Division
+
+Congratulations for the results. I have one question, actually, one question divided into two, about regulation. The first part of the question is about mortgage. With the recent change in regulation on saving deposits and mortgage in Brazil, do you believe it is possible to start to operate in this market in the near future? And second, on the FGTS loans, with the change that we saw probably 1 month ago or less than that, do you believe that FGTS loans will be reduced in a material way?
+
+David Velez-Osomo
+Founder, Chairman & CEO
+
+Thank you for your question. So we've looked at the mortgage space in Brazil, and certainly, there are a number of attractive angles, specifically around principality. But it's not a priority for us right now. It's not a product that I see yourselves really doing over the next couple of years.
+
+The main reason for that is we think about our balance sheet fundamentally as a small balance sheet that is well capitalized that has very high velocity and very high return on equity.
+
+So from that perspective, we're going to be picking products, especially credit products that have short duration, very data-intensive that gives us the opportunity to react very quickly to changing macroeconomic environments and that maintains -- it gives us a lot of agility.
+
+And obviously, mortgages is kind of the opposite of that. It does -- it's very long-term duration, removes a lot of agility. It requires a lot of long-term funding. So it doesn't really match with the type of products that we want to be offering directly from the balance sheet and perhaps down the road, there might be an opportunity to partner with somebody to actually do it, but it's not something that we -- that we'll be prioritizing right now.
+
+On FGTS regulation, yes, I think the regulation would have a decrease of our FGTS originations. But given the size of the portfolio and the rest of the lending products that we offer, it wouldn't really be material. So yes, effect on FGTS, but not really a material effect overall on the portfolio growth.
+
+Guilherme Souto
+Investor Relations Officer & Director of Market Intelligence
+
+Operator, could you please open the line for Mr. Gustavo Schroden from Citi.
+
+Gustavo Schroden
+Citigroup Inc., Research Division
+
+Congrats on the results. Thanks for the call. Most of my questions were answered. So let me do a follow-up here. The first one is, I'd like to understand better this -- the asset quality. Indeed, the bit was on the lower ECL. So despite this some metrics like 90 days NPLs relatively stable and early NPLs improving, when we analyze the transfers to Stage 3 in both credit cards and loans, it is continually increasing, right? I mean it's rising.
+
+So I'd like to understand how we reconcile this increase in transfers to Stage 3 with this, let's say, lower risk credit portfolio you are adopting and this lower provision expenses in the quarter.
+
+Guilherme Marques do Lago
+Chief Financial Officer
+
+Gustavo, thanks for the question. Look, we've been -- I think other than what we've already mentioned related to the better-than-expected asset quality performance in some of the segments, especially with Credit Cards Brazil, I think the other positive surprise -- I wouldn't say surprise, I mean the positive outcome that we have had after kind of many months and years of investment is also on the ability to improve our collections engines and platforms, which has had kind of a material improvement in Brazil. And I think it will start to have material improvements in Mexico, most likely starting in the fourth quarter of 2025.
+
+But other than that, it's just kind of a general performance of the portfolio. There's nothing atypical or nothing abnormal that you would have seen over the past 2 to 3 quarters that we wouldn't expect to continue seeing in the next 2 to 3 quarters unless we see kind of material changes in macro.
+
+Gustavo Schroden
+Citigroup Inc., Research Division
+
+Okay. Okay. Understood. And my follow-up would be regarding Mexico. Assuming this, let's say, improving in cost of funding, we follow data from Mexico and we can see that you are improving the cost of funding there. Assuming a potential improvement also in loan-to-deposit ratio, and we also follow the NPL ratio, and we see the NPL ratio in Mexico under control. So do you think that assuming these trends you are posting Mexico, we can expect like some positive ROE or bottom line in Mexico soon?
+
+Guilherme Marques do Lago
+Chief Financial Officer
+
+So Schroden, I wouldn't guide in any way or form as we haven't done in the past on kind of the P&L or net income either for the company or for any of the legal entities. So I would stay away from trying to provide you any high conviction outlook on when we're going to become net income positive or ROE.
+
+That said, I'm much more comfortable providing you with our impressions of the profitability potential of Mexico. If you take a look at our business in Mexico, it is -- it posts actually unit economics that are as compelling, if not more compelling than Brazil's. It has higher ROA. It has higher ROE and allows us to actually provide kind of with material credit access to a portion of the population that it hasn't yet had no access to credit.
+
+If you take a look at the more than 13 million now, almost 14 million customers in Mexico, about 20% of those did not have access to kind of a banking or credit before joining Nubank.
+
+And we think that in Mexico, we enjoy a very favorable cost structure compared with many of the other players in the region that allows Nubank to play at segments that incumbent banks are unable and unwilling to play to price it lower and still have compelling kind of unit economics. And we are super excited with what lies ahead in Mexico. We are still very, very, very early.
+
+But as we continue to gain scale, we will see kind of economies of scale and operational leverage playing out there. In fact, today, Mexico already has a cost to serve that is about $1, which is much better than what Brazil had when it was at the same point in time with development of Mexico, and it already has kind of very encouraging ROEs and ROAs trends.
+
+Big question in Mexico become how fast the economy will truly digitalize and how much kind of a banking penetration will grow. We are now excited not only to witness this but also to be a very active agent in promoting this together with other players in the industry and with the Mexican government.
+
+David Velez-Osomo
+Founder, Chairman & CEO
+
+The other point I would just add here is that if we wanted to be profitable in Mexico, we would be profitable already. It's a decision. We literally touch about on mechanization and we're profitable immediately. We have already had the scale to generate that profitability. But that would actually be a really bad decision. It would be sacrificing the future for a short-term decision. We've always told investors we're optimizing for the long run. We're really optimizing to try to make investments that will pay for long as possible. And this is a very attractive market.
+
+Another data point that I think Lago mentioned previously is, on the ARPAC question, this is a country has a 40% higher income per capita than Brazil and where credit cards are majority, about 80% are revolvers versus only in Brazil, about 10% to 15% for our portfolio are revolvers.
+
+So anyway, it's a big market, low penetration, a lot of the advantages that we have, like our capabilities on credit underwriting, the efficiency ratio. Good unit economics provide a really compelling investment opportunity. And so we'll continue investing the excess capital that we have in trying to maintain a leadership position in the country.
+
+Gustavo Schroden
+Citigroup Inc., Research Division
+
+Okay. Okay. Okay. That's a great answer. And as I said, we have followed your data in Mexico in the -- and we can see these trends improving. This is why I was asking about the potential profitability maybe sooner than we were expecting. But thanks again, and congrats on the results.
+
+Guilherme Souto
+Investor Relations Officer & Director of Market Intelligence
+
+Operator, could you please open the line for Mr. Tito Labarta from Goldman Sachs.
+
+Daer Labarta
+Goldman Sachs Group, Inc., Research Division
+
+First, I have a follow-up question, Lago, on your comment on the higher interest expenses just driven by higher funding costs in Brazil and SELIC being a little bit higher, I think.
+
+But just to understand, because average SELIC only increased modestly in the quarter. Was there any impact perhaps from just more working days in the quarter. You had also launched the Turbo Money Boxes. I was wondering if that had any impact. I was a bit surprised by how much the interest expenses jumped.
+
+Guilherme Marques do Lago
+Chief Financial Officer
+
+So no, Tito, you're right, there were a few additional working days in the quarter, but it would have been equally offset by the revenues as well. But what you will see is that as we kind of took a more aggressive stance on the segmented portion of our deposits in Brazil, by which I mean, for a selected profile of customers that we think that are primary bank relationship customers or are prone to become primary banking relationship customers, we have been more aggressive with the Money Boxes, with the Turbo Cajitas and that has, all else constant, increased our cost of funding in Brazil. So that is unequivocal observation.
+
+What I was trying to allude only, Tito, is that how would you reconcile what I've just said with Slide 14, which is where we show kind of the cost expressed as a percentage of interbank rate coming down.
+
+And I was just trying to say that the reason why it comes down is because we do a weighted average of percentage of CDI, a percentage of IBR and percentage of TIIE in Mexico. And as both Colombia and Mexico went down, that line here on Slide 14 goes down, notwithstanding the fact that overall cost of funding denominated in dollar has gone up because of our deliberate intention to play more aggressiveness on the segmented roles of Cajitas in Brazil.
+
+Daer Labarta
+Goldman Sachs Group, Inc., Research Division
+
+Okay. No, that's very clear. That helps clarify a lot, yes. I mean we expected funding costs in Mexico and Colombia to come down. I was just a little bit surprised by how much that had gone up specifically in Brazil, and as you mentioned, more than offset by the revenues.
+
+So my second question is somewhat on the revenue. Just thinking on the loan growth, very good loan growth overall. But first on the secured lending, right? And David, you mentioned your FGTS could be a headwind, but it shouldn't have an impact.
+
+Do you expect that to be potentially offset by private payroll loans? I don't think you're necessarily growing significantly there. Just think about what could offset that FGTS potential headwind would be helpful.
+
+Guilherme Marques do Lago
+Chief Financial Officer
+
+Yes. No, absolutely, Tito. Look, let me put it this way. The secure lending class or segment that we define here is largely composed by FGTS, public payroll loans and private payroll loans. So grossly, those are the 3 components. You do still have a smaller portion that we call IBL, investment backed loans, but that's a much minor portion.
+
+We do expect to see a material headwind in terms of FGTS if the new regulation kind of prevails. But we do believe that this will be more than offset by an increase in public payroll loans at this point in time, more so than on private payroll loans.
+
+On public payroll loans, we have seen a fairly material uptick in our ability to originate public payroll loans in Brazil in the third quarter. We expect to see this in the fourth quarter as well.
+
+And as we see, nominal interest rates in Brazil finally coming down, we do expect to see portability going up as we have seen in all of the prior cycles, and that will give us the opening to actually get a disproportionately higher shares of the public payroll loan market in the country.
+
+Now going to your third and final piece, which is private payroll loans. We are very, very bullish on this product in the medium and in long term. We are still more cautious than some of the other players in the industry with respect to its cost of risk, mostly related to what we call employee-related collateral. But we are seeing this kind of improving quarter-after-quarter, and we are reflecting and watching this very carefully on when and how we will lean in more aggressively in the future.
+
+It's not something that we are taking as a base case now, but we are certainly paying very close attention to that. For now, public payroll loans is the one that will offset the slowdown in FGTS, Tito.
+
+Daer Labarta
+Goldman Sachs Group, Inc., Research Division
+
+That's very clear. Thanks a lot, Lago. And congrats on the results.
+
+Guilherme Souto
+Investor Relations Officer & Director of Market Intelligence
+
+So thank you, everyone. We now have approached 60 minutes of the call. So we are now concluding today's call. On behalf of Nu Holdings, our Investor Relations team, I want to thank you very much for your time and participation on Nu earnings call today.
+
+Over the coming days, we'll be following up with questions received tonight but we are not able to answer. And please do not hesitate to reach out to our team if you have any further questions. Thank you, and have a good night.
+
+Operator
+
+The Nu Holdings conference call has now concluded. Thank you for attending today's presentation. You may now disconnect.

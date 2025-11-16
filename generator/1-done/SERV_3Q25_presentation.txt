@@ -1,0 +1,138 @@
+Serve Robotics Inc. (SERV) Q3 2025 Earnings Call November 12, 2025 5:00 PM EST
+
+Company Participants
+
+Aduke Thelwell - Head of Investor Relations & Communications
+Ali Kashani - Co-Founder, Chairman, CEO, Treasurer & Secretary
+Brian Read - Chief Financial Officer
+
+Presentation
+
+Operator
+
+Hello, and thank you for standing by. I would like to welcome everyone to the Serve Robotics Third Quarter 2025 Financial Results and Conference Call.
+
+Now I would like to turn the call over to Aduke Thelwell, Head of Communications and Investor Relations. Please go ahead.
+
+Aduke Thelwell
+Head of Investor Relations & Communications
+
+Thank you, operator, and good afternoon, everyone. Welcome to Serve Robotics' third quarter 2025 earnings call. With me today are Serve's Co-Founder and CEO, Ali Kashani, and our CFO, Brian Read.
+
+During today's call, we may present both GAAP and non-GAAP financial measures. If needed, a reconciliation of GAAP to non-GAAP measures can be found in our earnings release filed earlier today.
+
+Certain statements in this call are forward-looking statements. You should not place undue reliance on forward-looking statements. Actual results may differ materially from these forward-looking statements, and we do not undertake any obligation to update any forward-looking statements we make today, except as required by law.
+
+For more information about factors that may cause actual results to differ materially from forward-looking statements, please refer to the press release we issued today as well as the risks and uncertainties described in our most recent annual report on Form 10-K and in other filings made with the SEC. We published our quarterly financial press release and our updated corporate presentation to our Investor Relations website earlier this afternoon, and we ask you to review those documents if you haven't already.
+
+With that, let me hand it over to Ali.
+
+Ali Kashani
+Co-Founder, Chairman, CEO, Treasurer & Secretary
+
+Thanks, Aduke, and thank you, everyone, for joining us.
+
+We are at a pivotal moment for Serve. This past quarter, we crossed the threshold for 1,000 robots deployed. That's not just some round number. It's an inflection point. You can feel this in the sidewalks that we serve. The future of cities is autonomous, and we are at the forefront of this, turning it into daily reality in these neighborhoods across the country.
+
+This is not just swapping humans for robots. We are unlocking new possibilities for cities. We are rewriting the operating system of how cities function, how goods move, how spaces are shared, how businesses reach residents. When the whole system upgrades like this, everything gets better, safer streets, friendly and greener cities and more prosperous businesses and workers.
+
+So why now? What's possible today that wasn't possible before? There are 4 forces that have really converged. First is physical AI. It's really finally caught up with our ambitions. Advances in distributor training, also the better onboard compute that is now available, it lets us ingest orders of magnitude more sensor data. And that leads to incredibly more capable AI models that can help machines really understand the world in real-time.
+
+Our perception and planning models are improving on the street every single day. Each mile traveled enriches our data set. Each model update expands where, when and how quickly and how safely we can move. And this all has a compounding effect.
+
+Second, every hardware component needed to create this advanced inexpensive and intelligent machines has matured. This includes powerful sensors that are now at mass scale and low cost, paired with electric motors and batteries that enable new vehicle form factors.
+
+Technologies like LiDAR sensors were unaffordably expensive just a few years ago, but now we have partners like Ouster, who are shipping thousands of sensors each quarter in record numbers. That benefits everybody in the ecosystem because of the economies of scale.
+
+Third, consumers have adopted the convenience of online and on-demand ordering, and merchants need CapEx-light and labor-light capacity, so that they can economically serve the demand. Restaurants have optimized their operations in the post-pandemic reopening, but they now need a way to unlock and realize that full potential. They want dependable, right-sized logistics that matches their demand by the hour, and that's what our fleet can deliver.
+
+And last but not least, it's the cities themselves. Cities are asking for quieter and cleaner and less congested streets. Smaller vehicles made for specific use cases can now replace those 2-tone vehicles that we've become so addicted to. And this is the future.
+
+Our robot footprint is small with an electric powertrain and a friendly presence. We earn the right to scale when we operate with safety and transparency and community respect and when we are working closely with the cities that we serve. And we create these new jobs, full-time employee jobs in neighborhoods that we are serving.
+
+Our third quarter results prove that we are on the right track with all this. Our delivery reliability was nearly 100%, while our delivery volume increased 66% in a single quarter, and we continue to maintain a strong safety record. We now deliver for over 3,600 restaurants, which is an amazing 45% increase from the last quarter and more than a ninefold increase since last year. This is all proof that autonomy can be safe, reliable and predictable even as we scale rapidly.
+
+We did all this while also expanding faster than anyone in our industry. In less than a year, we grew our fleet size 10x, our cities 5x and our major platform partners 2x. Last month, we announced partnering with DoorDash, the largest delivery platform in the U.S. and one of the largest in the world. Combined, Uber and DoorDash serve over 80% of the food delivery market in the United States, which provides us an incredible reach to consumers and merchants.
+
+The scale that we've achieved in the last few months really changes things. Here's how to think about it. With a few dozen robots, you're running pilots. At a few hundred, you're starting to prove repeatability. Beyond 1,000, the system tips. We run more efficiently; the economics improve. The national partners really lean in and our learning really speeds up. All of which makes every new city launch smoother and every new robot smarter than before.
+
+As we scale with precision, we've gone from 1 market to 5 fully operational hubs covering over 3 million population and well over 1 million households. That's nearly 70% increase in a single quarter and more than a tenfold increase in our coverage compared to the same time last year. Not only have we 10x our fleet, we have 10x our reach.
+
+And as importantly, each neighborhood adds to our rich data sets with new and novel edge cases, which really accelerates our ability to learn across the network, and it compresses our time line for future city launches.
+
+On that note, I'm excited to share with you our next 3 expansions. We've just been greenlit to expand into Bucket, Georgia, Fort Lauderdale, Florida; and Alexandria, Virginia before the end of this year. Alexandria also gives us a toehold in the Washington, D.C. area. We're building the first truly national interconnected autonomous delivery network on a common AI software platform and operations stack, so that a single partner integration would light up multiple metros and thousands of restaurants at once.
+
+For example, in Q3, we announced our partnership with DoorDash. Coming in addition with our existing contract with Uber, this allows our existing robots to unlock an incredible amount of additional volume. A robot that's completing a delivery for DoorDash could do a delivery for Uber on its way back. So this would actually improve utilization levels for robots.
+
+And we are not done yet. In addition to our existing partnerships with Shake Shack and Little Caesars, we've also started delivering for Jersey Mike's Subs, the famous sub sandwich chain with over 3,000 locations nationwide. And while it's too soon to give details, we also expect to add another well-known national QSR brand to the lineup.
+
+So the partnership platform is growing nicely. And concurrently with that, we are also developing an unparalleled map of cities, the care cuts and slopes and potholes and obstacles and patterns, a living Atlas that becomes a valuable asset and an operational advantage. And while we do that, we are also deepening our community bonds at a very hyperlocal level with merchants and landlords and HOAs and precincts, we need to integrate respectfully into these neighborhoods as we grow.
+
+Now let's take a step back. Serve is pioneering a robotics and Autonomy as a Service platform that packages the full power of our autonomy stack, our hardware and our urban robotics operation playbook. With the last quarter's acquisition of Vayu Robotics, our platform is now increasingly reinforced by AI foundation models and a scalable simulation-powered data engine.
+
+Under the hood of all this is the physical AI flywheel that powers everything. Our third-generation fleet leverages the best-in-class sensors, which creates this proprietary urban data sets, and that, in turn, leads to better AI models, which then creates more efficient and more autonomous fleets. A better fleet expands our TAM and increases our operating domain and verticals that we can do. And that, in turn, creates more pull in the market for more robots. So more miles, it's more robots, it's more data, it's better AI and the cycle repeats itself.
+
+The integration of Vayu will actually accelerate this loop because it turns data into better models faster. And that leads to tangible gains in our delivery speed and autonomy and the market reach. Our library of long-tail edge cases is expanding faster than ever. And the latest data that we gather on weather and obstacles and parades and detours, it all provides the learnings that are applied network wide. So every robot is learning from every robot.
+
+And this AI flywheel that we are building, the flywheel that's now accelerating in turn attracts exceptional talent. Our rare data scale and this real-world fleet presence that we have is pulling in elite builders. And they, in turn, ship better systems and better systems attract even more elite builders. So the talent flywheel is also compounding.
+
+All the forces that I mentioned are helping us execute our vision. I'm really proud of our team for reaching the 1,000 robot milestone last quarter. In September alone, we shipped over 380 robots. That is in a single month. That means we launched more robots in a single month than the prior quarters. This was a pivotal milestone.
+
+We promised to ship 2,000 robots by the end of the year during our IPO, and we are on track to do it with robot #2000 planned to deploy in Miami in mid-December, but we are not going to stop there. We envision a future where Serve's fleet reaches 1 million robots deployed across cities globally. They will travel billions of miles annually. They become embedded into the core fabric of a modern city, and they unlock new possibilities.
+
+Our conviction is simple. We are entering the age where things will move at our will, but on their own. Autonomy will become this essential infrastructure in our lives. It's rarely noticed because it just works, but it's sorely missed when it's not available. And we want to be the company that you will trust to run this.
+
+On the path to 1 million robots, we are still early. But with 1,000 robots operating from coast to coast, we've really just crossed that chasm where the technology and the market all say go. From here, every additional robot, every additional hour, every additional block makes the whole Serve ecosystem more essential and more valuable to the entire network. We are building something durable, and we are just getting started.
+
+With that, I'll turn it over to Brian to cover our Q3 results in more detail.
+
+Brian Read
+Chief Financial Officer
+
+Thank you, Ali, and it's great to be with you all today.
+
+This quarter marked another step change for Serve, one defined not only by scale, but by strategic execution. We advanced in every meaningful area, expanding our fleet, strengthening our technology base and executing with greater precision across operations, engineering and finance. We've also been extremely opportunistic.
+
+During the quarter, we've integrated 2 key acquisitions that deepen our competitive moat, acquiring Vayu, a pioneer in urban robot navigation using large-scale AI models. We're expanding our physical AI capabilities by accelerating our road map.
+
+As we further integrate Vayu into our autonomy stack, we expect it to create opportunities to enhance our leadership in autonomous delivery as well as to reduce data infrastructure costs and improve operational metrics over time.
+
+These integrations allow us to convert more of our operational data into faster model improvements and richer monetization layers, all while reinforcing Serve's position as the category's innovation leader.
+
+Our focus remains clear: to scale efficiently, deploy capital strategically and translate our growing operational advantage into sustainable financial performance, all in service of building an enduring business in this new age of autonomy and physical AI. As Ali described, the Serve flywheel is accelerating, more robots, richer data, smarter AI and stronger economics.
+
+Let's dig into our Q3 results, showcasing how these effects translate into measurable financial impact and expanding leverage across our business. Total revenue for Q3 2025 was $687,000, an increase of 210% versus last year and in line with our guidance provided for the quarter. Fleet revenue was $433,000. Significantly, this quarter, we saw branding revenue jump 120% sequentially over Q2.
+
+As we've mentioned previously, the growth of our robot fleet into the thousands unlocks a pipeline of large-scale branding opportunities, and we delivered on that in Q3. Software revenues continued to transition from onetime to recurring and were $254,000 in the quarter.
+
+We delivered exactly what we said we would. Fleet revenue is becoming the predictable growth engine we've envisioned, and we're now meaningfully stacking platform and data services on those same routes.
+
+Gross margin performance this quarter reflected the balance between rapid fleet expansion and deliberate investment in our long-term efficiency infrastructure. As planned, we continue to build capacity ahead of 2026 scale, expanding our operations footprint, onboarding new cities and integrating the systems and teams from our recent acquisitions.
+
+These near-term investments are already yielding returns in the form of measurable operational gains across reliability and autonomy. Average daily operating hours per robot increased another 12.5% sequentially from Q2, driven by the growing mix of Gen 3 hardware across our fleet. This is a strong leading indicator that each unit is capable of contributing more value.
+
+Robot intervention rates saw a meaningful reduction through the quarter. And further, our best-in-class sidewalk autonomy is getting more and more capable. We saw a consequential increase in the proportion of miles driven in autonomous mode in the last week of Q3 compared to the first week of the quarter, indicating the return on continued R&D investment.
+
+Taken together, these factors drove higher autonomous run times, which in turn drive improvements in our average speed. This leads to compounding gains. Even a small increase in the average speed corresponds to an increase in our potential delivery volumes.
+
+These efficiency improvements are compounding. Each additional robot -- each additional mile in each new market contributes data that sharpens our models and reduces human touch points across the network.
+
+On the expense side, we remain disciplined, investing in the capabilities that drive our competitive advantage. GAAP operating expenses for Q3 were $30.4 million, increasing from Q2 from deliberate investments in new market launches, M&A integrations and expanded operational capabilities to support our national scale. On a non-GAAP basis, operating expenses were $21.8 million.
+
+R&D remained our largest investment area, totaling $13.4 million on a GAAP basis or $10.7 million on a non-GAAP basis, primarily directed towards advancing our autonomy stack, expanding our AI foundation models and integrating new data and hardware capabilities from our recent acquisitions. These initiatives are accelerating our pace of innovation, while positioning us for long-term cost structure.
+
+G&A and go-to-market spending remain disciplined and aligned with our city expansion cadence. We're executing with leverage, adding cities, partners and robots without linearly increasing headcount or our overhead. Our approach remains consistent, invest where we have clear line of sight to efficiency, differentiation and scale advantage, while maintaining financial discipline and measured growth.
+
+On the balance sheet, we ended the quarter with $211 million in cash and marketable securities. In October, we executed a stock sale that generated approximately $100 million, which will be used to fund working capital and expansion activities.
+
+CapEx for the quarter was $11 million tied to robot production, market launch and expansion infrastructure. Our strong liquidity and debt-free balance sheet remain a competitive advantage, providing us flexibility to scale responsibly and invest opportunistically. Adjusted EBITDA was negative $24.9 million, driven by operational expansion in the quarter, expected to accelerate efficiency through 2026.
+
+And now to our outlook. Once again, we delivered results at the high end of our Q3 guidance range. Building on this momentum, we now expect to generate more than $2.5 million in revenue for the full year 2025. Our underlying recurring fleet revenues, which exclude nonrecurring software, is projected to grow 3x year-over-year from roughly $0.6 million in 2024 to roughly $2.1 million in 2025.
+
+2025 was a pivotal year focused on establishing our national footprint, deploying 2,000 robots, expanding into new markets and deepening our partnership portfolio. With this groundwork in place, we remain confident in our ability to generate annualized revenue run rate of $60 million to $80 million. We intend to update 2026 full year guidance early next year. Initial indications show our expansion and operational plan positions Serve to deliver roughly 10x inflection in revenue during 2026.
+
+Q3 marked another step forward in both scale and precision. We're executing with discipline, expanding intelligently and translating operational progress into tangible financial results. Each quarter, our fleet becomes more capable, models more refined and economics more efficient.
+
+The foundation we've built across technology, partnerships, operational excellence position us for sustainable growth through 2026. We're proud of what the team has accomplished this quarter and even more excited about the opportunities ahead. Serve is defining this category, and we're confident in our ability to lead it for years to come.
+
+With that, I'll hand it back to Aduke for Q&A.
