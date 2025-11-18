@@ -1,0 +1,161 @@
+Nu Holdings Ltd. (NU) Q3 2025 Earnings Call November 13, 2025 5:00 PM EST
+
+Company Participants
+
+Guilherme Souto - Investor Relations Officer & Director of Market Intelligence
+David Velez-Osomo - Founder, Chairman & CEO
+Guilherme Marques do Lago - Chief Financial Officer
+
+Conference Call Participants
+
+Yuri Fernandes - JPMorgan Chase & Co, Research Division
+Jorge Kuri - Morgan Stanley, Research Division
+Pedro Leduc - Itaú Corretora de Valores S.A., Research Division
+Mario Pierry - BofA Securities, Research Division
+Marcelo Mizrahi - Banco Bradesco BBI S.A., Research Division
+Thiago Bovolenta Batista - UBS Investment Bank, Research Division
+Gustavo Schroden - Citigroup Inc., Research Division
+Daer Labarta - Goldman Sachs Group, Inc., Research Division
+
+Presentation
+
+Operator
+
+Good evening, ladies and gentlemen. Welcome to Nu Holdings conference call to discuss the results for the third quarter of 2025.
+
+A slide presentation is accompanying today's webcast, which is available in Nu's Investor Relations website, www.investors.nu in English and www.investidores.nu in Portuguese.
+
+This conference is being recorded, and the replay can also be accessed on the company's IR website. This call is also available in Portuguese. [Operator Instructions] [Foreign Language] [Operator Instructions]
+
+I would now like to turn the call over to Mr. Guilherme Souto, Investor Relations Officer at Nu Holdings. Mr. Souto, you may proceed.
+
+Guilherme Souto
+Investor Relations Officer & Director of Market Intelligence
+
+Thank you, operator, and thank you, everyone, for joining the earnings call today. If you have not seen the earnings release already, a copy is posted in the Investor Relations website.
+
+With me on today's call are David Vélez, our Founder, Chief Executive Officer and Chairman; and Guilherme Lago, our Chief Financial Officer.
+
+Throughout this conference call, we'll be presenting non-IFRS financial information, including adjusted net income. These are important financial measures for Nu Holdings, but are not financial measures as defined by IFRS and may not be comparable to similar measures from other companies.
+
+Reconciliations of the non-IFRS to the IFRS financial information are available in the earnings press release. Unless noted otherwise, all growth rates are on a year-over-year FX-neutral basis.
+
+I would also like to remind everyone that today's discussion might include forward-looking statements. which are not guarantees of future performance, and therefore, you should not put undue reliance on them. These statements are subject to numerous risks and uncertainties and could cause actual results to differ materially from our expectations. Please refer to the forward-looking statements disclosure in the earnings release.
+
+I will now turn the call over to David. Please go ahead, David.
+
+David Velez-Osomo
+Founder, Chairman & CEO
+
+Hello, everyone, and thank you for joining us today. In Q3 2025, effectively every single one of our metrics continued to grow, reinforcing our position as the leading digital bank in Latin America and one of the leading fintech platforms globally.
+
+Our customer base grew to 127 million customers, with more than 4 million net additions in the quarter while maintaining an activity rate above 83%, a clear reflection of the depth of engagement we continue to build with our users.
+
+In Mexico, we surpassed 13 million customers now reaching around 14% of the adult population. And in Colombia, we're approaching 4 million customers. Both markets continue to demonstrate strong traction, highlighting the scalability of our model.
+
+The solid growth, combined with continued ARPAC expansion, which surpassed $13 this quarter, has led to record revenues of over $4 billion. These results highlight the compounding effect of our customer expansion, deeper engagement and disciplined monetization.
+
+Our gross profit continues to rise sharply, reflecting strong unit economics and operating leverage. And with a cost-to-income ratio of 28%, we continue to progress on our trajectory of improving efficiency.
+
+And finally, we delivered net income of $783 million, another quarter of solid profitability even as we keep investing in growth and innovation across all markets.
+
+This consistent performance is a direct result of our business model, one that attracts millions of new customers every quarter, fosters deeper engagement that expands monetization, all while operating on a low-cost and highly efficient platform. This formula continues to drive our earnings growth across markets, but with each component playing a distinct role in every geography.
+
+In Brazil, we now serve over 60% of the adult population and estimate that we're already the largest player in the SME segment by number of accounts. Having reached scale, revenue per customer has become the main growth driver. Our focus going forward is broadening our product portfolio, deepening engagement across all segments and continuing to execute our credit strategy, increasing exposure among customers with the strongest risk-adjusted returns.
+
+In Mexico, our main focus remains on expanding our customer base, deepening product adoption and advancing financial inclusion, all while laying the groundwork for sustainable long-term monetization. Given the scale-up phase, ARPAC levels are already nearing those seen in Brazil, reflecting the strong unit economics of the credit card business in that market, driven by a higher share of interest-bearing balances and a steadily declining cost to serve supported by our ongoing platformization efforts.
+
+Both markets demonstrate the strength and adaptability of our model, which is capable of driving rapid growth and scale in earlier stages while expanding profitability as market matures.
+
+Diving deeper into Mexico, our second S-curve, we see a market now beginning to scale and one that we expect will contribute meaningfully to our results in the years ahead. We're building strong foundations, having reached market leadership position in the Mexican digital banking space, already reaching 13 million customers or around 14% of the adult population compared with about 10% when Brazil entered its inflection point back in 2019.
+
+Even with the product portfolio still largely centered on the credit card, ARPAC has already reached $12.5, reflecting strong customer engagement and the favorable unit economics of this product in Mexico.
+
+On the cost side, cost to serve is already below $1 and recent adjustments to deposit yields are beginning to flow through our cost of funding.
+
+Looking ahead, we'll continue stacking U.S. curves with focus and discipline, while Brazil and Mexico remain our core priorities where most of our resources and execution efforts are directed. We also see transformational optionality in the U.S. following our filing for a national bank charter, a step that could unlock new opportunities over time as we remain fully focused on our core markets.
+
+As we continue scaling across markets, we're also building the next generation of our platform, redefining how we operate and how customers experience banking.
+
+We have heard several investors asking us about our AI strategy, and so we wanted to spend a few minutes on it. Our vision is to become AI-first, which means integrating foundation models deeply into our operations to drive an AI-native interface to banking, while creating meaningful benefits for both our customers and our business.
+
+For our customers, AI is enhancing our understanding of each individual and their financial needs, allowing us to deliver personalized recommendations, contextual offers and products and proactive insights at the right amount. It will also transform the way people interact with Nubank, be it through a simpler and seamless app or through a number of additional channels, embedding conversational user interfaces. We think there is a significant opportunity to include agentic workflows across most products and services, improving customer experiences across the board.
+
+For our business, AI is strengthening how we manage risk and scale efficiently. It is helping us to design safer and more precise financial solutions, reducing credit and fraud losses and enabling tailored collection strategies that drive better recoveries. At the same time, it is enhancing productivity across the company from leaner operations to faster development cycles and higher engineering throughput.
+
+When we bring all of this together, becoming AI-first means accelerating our flywheel by scaling to offer higher-quality products at lower costs, unlocking the full value of open finance, deepening cross-sell and product penetration and opening new revenue streams, all while optimizing pricing and delivering superior value for both customers and shareholders.
+
+But AI is not a buzzword for us. We believe Nubank is uniquely positioned to become AI-first and a leader in the use of AI in financial services globally, and we're already starting to see the first breakthroughs.
+
+Since our early days, we've known that technology and data will be our strongest competitive advantage, being cloud-native and built entirely on modern architecture enables us to simulate, experiment, train and deploy foundation models at scale. Coupled with our proven ability to attract world-class talent, this puts us ahead of incumbent banks and regional fintech competitors and places us in a unique position globally.
+
+Over the past 12 to 15 months, we developed nuFormer, our proprietary approach for building large generalizable models based on advanced transformer architectures and self-supervised learning principles, similar to those powering world-class LLMs. These models provide a deeper understanding of customer behaviors and can be deployed across our critical risk and personalization engines.
+
+To reach this level of performance, the first generation of our nuFormer model was built with 330 million parameters and trained on approximately 600 billion tokens, an unprecedented scale of data by financial industry standards. Yet that represents only a fraction of our full data set, which spans trillions of tokens and reflects the vast scale and diversity of Nubank's platform.
+
+Our business model with principality at its core generates a deep repository of high-quality transactional and behavioral data, giving us a distinctive edge by enabling nuFormer to learn from richer context and continuously strengthen its predictive power.
+
+Historically, gains in credit performance have come from our main fronts, incorporating more and better data sources into models, expanding training samples or reducing bias within them, optimizing positive frameworks, including the use of complementary models that evaluate different dimensions of credit risk, and finally, refining modeling techniques from definition of targets to model architecture and feature engineering.
+
+The adoption of foundation models represents a radical expansion of this last frontier. It brings a research-driven approach that moves the needle through advances in model architecture and training processes, enabling rapid and continuous improvement as AI researchers push the boundaries of what's possible.
+
+When we applied this approach, the models were built to deliver an average improvement about 3x higher than what's typically observed in successful machine learning model upgrades. Translating this into business outcomes, our initial models enable a major upgrade to credit card limit policies in Brazil, allowing us to meaningfully increase limits for eligible customers while maintaining the same overall risk appetite.
+
+This successful breakthrough within an already robust underwriting model, like Credit Card Brazil, underscores the significant potential of these advanced approaches.
+
+We're now focused on scaling this innovation beyond Brazil, already in motion in Mexico and extending them across every part of Nubank from personalization and cross-sell to fraud and collections, further reinforcing both the strength of our model and our ability to execute at scale.
+
+That said, we're still just scratching the surface. As always, at Nubank, it's still day 1, but we believe that embedding AI into our business represents a once-in-a-lifetime opportunity to further differentiate Nubank from traditional banks.
+
+We're building on years of experience in model governance, privacy and large-scale model deployment to ensure we continue evolving responsibly. This means having robust processes to make sure our tools truly promote our customers' financial well-being with the right guardrails in place to bring these advanced models safely into production within a highly regulated environment. We'll continue to share our progress as this journey evolves.
+
+And with that, I'll hand it over to Lago, our CFO, to walk you through the financial highlights of the quarter. Thanks a lot.
+
+Guilherme Marques do Lago
+Chief Financial Officer
+
+Thank you, David, and good evening, everyone. To begin, I'd like to start with our credit portfolio. Total balances reached $30.4 billion in the third quarter, up 42% year-over-year on an FX-neutral basis, with very solid growth across all products.
+
+Credit cards accelerated during the quarter, supported by our ability to continuously enhance the precision of our credit models and increased limits for our customers, all while maintaining very healthy risk metrics as we will see in the following slides. At the same time, secure lending grew 133% and unsecured loans 63% year-over-year, reflecting the ongoing diversification and maturation of our portfolio.
+
+Together, secured and unsecured loans now account for nearly 35% of total balances, up from 27% a year ago. This reinforces our capacity to broaden the credit spectrum and serve a wider range of customers' needs over time.
+
+Moving to loan originations. We reached a record high of $4.2 billion in the quarter, up 40% year-over-year on an FX-neutral basis with growth coming from both unsecured and secured lending.
+
+In unsecured lending, performance was supported by the strong momentum in our SME portfolio and by new credit policies introduced for both business and individual customers. These updates are enabling us to safely expand eligibility and increase average loan sizes while keeping new originations more concentrated in lower risk segments.
+
+In secure lending, results were driven by strong originations in public payroll loans or Consignado, which grew nearly 130% year-over-year along with a gradual normalization of INSS loans.
+
+Now turning to deposits. Our balances reached $38.8 billion, up 34% year-over-year on an FX-neutral basis, while the cost of funding actually improved from 91% to 89% of interbank rates. This is a clear demonstration of our ability to grow volumes while enhancing efficiency, continuing to build a scalable and sustainable funding franchise across Latin America.
+
+In Colombia, deposits continued to grow steadily, even with funding costs below the interbank rate.
+
+In Brazil, we saw strong inflows across all segments, reinforcing the depth and the resilience of our deposit franchise.
+
+And in Mexico, we had anticipated some outflows following the recent reduction in deposit yields. This was a deliberate move that reduced our consolidated funding cost and this was fully aligned with both our expectations and our long-term strategy for sustainable growth. Recent trends in Mexico reinforce our confidence in our ability to continue expanding and strengthening our deposit franchise.
+
+Moving to net interest income. We reached $2.3 billion in the quarter, up 32% year-over-year on an FX-neutral basis, driven again by the continued expansion of our credit portfolio.
+
+Net interest margins contracted by about 40 basis points from the prior quarter. This reflects our disciplined approach to optimizing risk-adjusted returns as we continue to expand originations in lower risk segments, including in credit card interest-earning portfolios, unsecured loans also to lower-risk individuals and higher shares of SME and secured loans within our total interest-earning portfolio.
+
+While some of these products carry lower nominal yields, they strengthen the portfolio's overall quality and resilience over time, as you can see in the next slide.
+
+Our credit portfolio continues to outperform our expectations, supported by disciplined underwriting and a healthy mix shift towards customers and products with stronger risk-adjusted returns. Combined with better recoveries, these factors drove a 7% decline in credit loss allowance expenses quarter-over-quarter, also on an FX-neutral basis, mainly reflecting lower provisions in our 2 largest products, namely credit cards and unsecured loans.
+
+As a result of this lower cost of credit, our risk-adjusted net interest margins expanded to 9.9% in the quarter, underscoring the resilience and the quality of our portfolio.
+
+Next, looking at delinquency metrics for our consumer credit portfolio in Brazil. The 15-90-day NPL ratio remained well within expectations, ending the quarter at 4.2%, slightly below the historical third quarter seasonality. The 90+ day NPL ratio increased marginally to 6.8%, also very much in line with the expected seasonality and the underlying portfolio dynamics.
+
+Now finally, our coverage ratios remained solid, even though they declined modestly in line with the recent movements in credit loss allowance. We continue to maintain what we believe to be a quite robust provision buffer both over the total portfolio and specifically over the 90+ day NPL balances.
+
+Moving to gross profit. We delivered another quarter of solid growth, reaching $1.8 billion, up 32% year-over-year, also on an FX-neutral basis. The expansion in gross profit margin now to 43.5% reflects the consistent top line growth, combined with the continued improvement in the risk-adjusted performance that we saw in the prior slide.
+
+These trends reinforce the sustainability and the scalability of our business model as we continue to balance growth, profitability and risk discipline across the 3 markets in which we operate.
+
+In the third quarter, our efficiency ratio decreased slightly to 27.7%, reflecting continued progress in productivity and operating leverage. Yet, we will continue to invest intentionally and strategically to become the largest and the most loved retail financial institution in Latin America.
+
+These investments are fully aligned with our long-term value creation strategy, even if they sometimes create short-term pressures on costs. That all said, the structural trend remains clear, as we scale, revenue growth and disciplined cost management will continue to drive efficiency gains and margins expansion.
+
+Now to wrap up, we delivered a record high net income of $783 million and a record ROE of 31%, up 39% year-over-year, also on an FX-neutral basis. We achieved these results while we continue to deliver strong operational growth, always putting our customer at the very center of everything that we do, offering better products, lower fees and an exceptional experience. These results once again highlight the strength and the scalability of our model as well as our ability to combine growth with profitability.
+
+Now with that, we will open the call for questions. Thank you.

@@ -1,0 +1,71 @@
+Luminar Technologies, Inc. (LAZR) Q3 2025 Earnings Call November 13, 2025 5:00 PM EST
+
+Company Participants
+
+Yarden Amsalem - Head of Investor Relations
+Paul Ricci - CEO & Director
+Thomas J. Fennimore
+
+Conference Call Participants
+
+Yan Dong - Deutsche Bank AG, Research Division
+Jash Patwa - JPMorgan Chase & Co, Research Division
+
+Presentation
+
+Operator
+
+Good day, and thank you for standing by. Welcome to the Luminar Third Quarter 2025 earnings call [Operator Instructions] Please be advised that today's conference is being recorded. [Operator Instructions]
+
+I would now like to hand the conference over to your speaker today, Yarden Amsalem, Head of Investor Relations.
+
+Yarden Amsalem
+Head of Investor Relations
+
+Thank you, Josh, and welcome, everyone. With me today are Paul Ricci, Luminar's Chief Executive Officer; and Tom Fennimore, our Chief Financial Officer. As a quick reminder, you can find the press release and presentation that accompany this call at investor.luminartech.com. In a moment, you will hear remarks from Paul and Tom, followed by a Q&A session.
+
+Before we begin the prepared remarks and Q&A, let me remind everyone that during the call, you may refer to GAAP and non-GAAP financial measures. Today's discussion also contains forward-looking statements based on the environment as we see it today. And as such, it does not include risks and uncertainties. Please refer to our press release and presentation for more information on the specific risk factors that could cause actual results to differ materially.
+
+With that, I'd like to introduce Luminar's CEO, Paul Ricci.
+
+Paul Ricci
+CEO & Director
+
+Good afternoon, everyone, and thank you for joining us. This has been a pivotal and challenging quarter for Luminar including the developments we disclosed in our 8-K a few weeks ago. We're now taking deliberate action to reposition the company, and I want to begin by addressing a few items directly. First, on our capital structure, we've entered into forbearance agreements with the majority of our secured noteholders, which run through November 24. We anticipate further extensions as we continue to negotiate with our secured noteholders towards a longer-term solution to our capital structure and liquidity needs.
+
+During this period, our 2025 financial guidance remains suspended. We've also paused usage of our equity finance, credit and preferred stock programs while we work toward a comprehensive solution. We may decide to resume use of these programs in the future depending on developments. As previously disclosed, we've also received and are evaluating multiple preliminary proposals and indications of interest to purchase the entire company as well as certain of its assets and business lines.
+
+We have added Patricia Ferrari and Elizabeth Abrams as independent directors to support our efforts. Together, Ms. Ferrari and Ms. Abrams bring extensive experience in banking, finance and restructuring advisory work. In addition, this will be Tom Fennimore's final quarter with Luminar as CFO. Tom has worked tirelessly with me over the past 6 months and I'm appreciative of all the contributions he's made during his time here and wish him the best in his next chapter. I also want to take a moment to welcome our new CFO, Tom Beaudoin. Tom brings more than 4 decades of financial and operational leadership across both public and private technology companies. Tom and I work side-by-side for many years in building Nuance, and I'm delighted to be working again with him here at Luminar.
+
+On the business front, we are managing continued challenges in our automotive LiDAR business. As disclosed, the future course of our relationship with Volvo will depend on the outcome of ongoing processes. We've made a claim for damages and paused further production commitments of Iris units pending resolution. We remain in dialogue with Volvo and are hopeful we can reach an agreement on a path forward. At the same time, we have advanced the strategic shift we outlined last quarter. We're pursuing nonautomotive markets more deliberately in elevating the role of our LSI Photonics business where we see continued progress.
+
+Over the past several months, momentum has continued to build across both Luminar and LSI, especially in aerospace and defense, where our technology addresses mission-critical sensing and National Photonics needs. These developments reinforce our belief that this strategic direction better positions Luminar for the years ahead. I'll speak more to that progress in a moment. But first, let me turn to customer updates. Starting with Volvo, the uncertain status of that relationship will reduce or perhaps eliminate the expected volume and revenues from the EX90 and ES90 programs. But given the unfavorable economics of Iris sales to Volvo at these depressed volume levels, this change also will help our cash flow and gross losses.
+
+We're continuing the dialogue with Volvo and we'll provide updates when there is more to share. Regarding Mercedes, we do not anticipate further development activity under the current Halo development contract although our technology remains under evaluation for future programs. Finally, our relationship with Nissan continues to advance as we remain focused on meeting their hardware and software program milestones and delivering the quality and performance they require. Taken together, the developments of Volvo and Mercedes reflects broader industry conditions including extended time lines for L3 ADAS program readiness and award decisions. These dynamics reinforce the direction we outlined last quarter to move more deliberately to pursue commercial markets outside of automotive, where engagement and near-term opportunities continue to grow and particularly so in aerospace and defense applications.
+
+Luminar now works with nearly all major developments in terrestrial off-road autonomy, including Caterpillar, where we recently shipped the first design validation units as we progress towards start of production. We are also expanding into defense and industrial use cases. For example, Forterra, a leading autonomous mission systems company is currently using Iris on its off-road autonomy platforms. Our 1550-nanometer approach supports operations and conditions where stealth, detail and reliability are important. It captures a highly accurate 3D view of unstructured terrain and allow safe navigation without GPS, which is increasingly important as GPS jamming becomes more common. Beyond ground systems, we are seeing similar interest in aerial and marine applications. Our work with LAKE FUSION Technologies is an early example where Iris sensors are being used to help helicopter pilots identify power lines and other hazards.
+
+We're also supporting partners in marine autonomy for obstacle avoidance and precision positioning. Ultimately, these commercial, defense and industrial markets represent growing high-margin opportunities that validate the scalability of our technology. This connects directly to the progress we're seeing at LSI. As a reminder, LSI supplies photonics components subsystems and systems across aerospace, defense, industrial and medical markets, combining defense-grade reliability with chip scale innovation from concept to deployment. As a trusted U.S. supplier in export control domains, such as missile defense, quantum sensing, directed energy and optical communications, LSI is well positioned to benefit from strong tailwinds, driven by rising defense budgets, reshoring mandates and national security priorities.
+
+Given the LSI currently represents about 1/3 of Luminar's annual revenue, we believe is an underrecognized element of our business. Year-to-date, LSI has generated roughly $18 million in revenue, and we see a path for strong growth from here. And unlike the automotive business, which has proven to be a more unpredictable business, LSI benefits from stronger revenue visibility with a significant portion of its backlog tied to multiyear customer orders. With strong secular tailwinds, we believe LSI stands to build on this momentum over the next several years.
+
+Before turning it over to Tom to discuss Q3 results, I'd like to discuss our organization briefly. Where we are taking steps to align our cost base with our long-term goals. As previously discussed, as part of our ongoing realignment, we will reduce roughly 25% of our workforce by year-end. This was a difficult but necessary step to get the company the stability of requires. We expect a meaningful reduction in operating expense as a result of these actions beginning in 2026. Regarding the supply chain, we are currently reviewing our arrangements with our contract manufacturing partners. This is consistent with our broader effort to rightsize our cost structure and align our supply chain strategy with a lower volume environment in the near term.
+
+And with that, I'll hand it off to Tom to discuss Q3 results.
+
+Thomas J. Fennimore
+
+Thank you, Paul. Revenue for the quarter came in at $18.7 million, up about 20% sequentially and 21% year-over-year. The increase in revenue during the quarter was primarily driven by 3 factors: First, we shipped roughly 5,400 Iris sensors in Q3 compared to 4,800 in Q2, with the vast majority of these shipments going to Volvo. Second, higher NRE revenue related to development work we are currently performing for our customers; and finally, a sequential increase in LSI revenue, as we've seen continued growth in defense and aerospace related spending.
+
+Further quarter, we reported a gross loss of negative $8.1 million on a GAAP basis and negative $7.3 million on a non-GAAP basis. Q3 gross loss improved sequentially, driven by a higher mix of NRE revenue lower inventory purchases following the previously discussed Volvo program pause as well as a lower warranty expense. This was partially offset by higher shipment of series production sensors and unfavorable economics. OpEx came in at $66.6 million on a GAAP basis and $43 million on a non-GAAP basis. Non-GAAP OpEx declined roughly 9% and $4 million relative to the prior quarter and 29% or $18 million relative to Q3 of last year. This decrease was driven primarily by lower R&D spend and continued progress on our cost actions. We ended the quarter with $74 million in cash and marketable securities, in line with the preliminary results shared a few weeks ago.
+
+As Paul noted, we have paused usage of our equity financing in preferred stock programs while we work towards a longer-term solution for our capital structure and liquidity needs. We may decide to resume use of these programs in the future depending upon developments. We are also actively evaluating multiple nonbinding preliminary proposals and indications of interest to purchase parts up or the entirety of the company.
+
+We will share updates on this when appropriate. Our change in Q3 was negative $34 million above the $31 million level from Q1. This was driven by lower proceeds from our equity financing program. Free cash flow for the quarter was roughly negative $48.5 million lower than the $53.8 million in Q2 and significantly below the $58.4 million from a year ago.
+
+I'll now turn it back to Paul for closing remarks.
+
+Paul Ricci
+CEO & Director
+
+While this is undoubtedly a challenging period, we're approaching it with disciplined transparency and focus. We're deeply grateful to our employees, customers and partners for their continued commitment and trust as we navigate this transition. And we'll now take your questions.
