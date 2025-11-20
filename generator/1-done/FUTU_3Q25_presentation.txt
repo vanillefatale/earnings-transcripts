@@ -1,0 +1,169 @@
+Futu Holdings Limited (FUTU) Q3 2025 Earnings Call November 18, 2025 7:30 AM EST
+
+Company Participants
+
+Daniel Yuan - Chief of Staff & Head of Investor Relations
+Leaf Li - Founder, Chairman & CEO
+Arthur Chen - Chief Financial Officer
+
+Conference Call Participants
+
+Yun-Yin Wang - China Renaissance, Research Division
+Peter Zhang - JPMorgan Chase & Co, Research Division
+Emma Xu - BofA Securities, Research Division
+You Fan - China International Capital Corporation Limited, Research Division
+Cheng Zhou - UBS Investment Bank, Research Division
+Chiyao Huang - Morgan Stanley, Research Division
+Leon QI
+
+Presentation
+
+Operator
+
+Hello, ladies and gentlemen. Welcome to Futu Holdings Third Quarter 2025 Earnings Conference Call. [Operator Instructions] Today's conference call is being recorded. If you have any objections, you may disconnect at this time. I would now like to turn the conference over to your host for today's conference call, Daniel Yuan, Chief of Staff to CEO, Head of Strategy and IR at Futu. Please go ahead, sir.
+
+Daniel Yuan
+Chief of Staff & Head of Investor Relations
+
+Thanks, operator, and thank you for joining us today to discuss our third quarter 2025 earnings results. Joining me on the call today are Mr. Leaf Li, Chairman and Chief Executive Officer; Arthur Chen, Chief Financial Officer; and Robin Xu, Senior Vice President.
+
+As a reminder, today's call may include forward-looking statements, which represent the company's belief regarding future events, which, by their nature, are not certain and are outside of the company's control. Forward-looking statements involve inherent risks and uncertainties. We caution you that a number of important factors could cause actual results to differ materially from those contained in any forward-looking statements.
+
+For more information about the potential risks and uncertainties, please refer to the company's filings with the SEC, including its annual report.
+
+With that, I will now turn the call over to Leaf. Leaf will make his comments in Chinese, and I will translate.
+
+Leaf Li
+Founder, Chairman & CEO
+
+[Foreign Language]
+
+Daniel Yuan
+Chief of Staff & Head of Investor Relations
+
+[Interpreted]
+
+Thank you all for joining our earnings call today. We concluded the third quarter with 3.13 million funded accounts, marking a 43% year-over-year and 9% quarter-over-quarter increase. During the quarter, we acquired 254,000 net new funded accounts, up 65% from a year ago and 25% sequentially. We're encouraged to see accelerated client acquisition in all markets.
+
+Leaf Li
+Founder, Chairman & CEO
+
+[Foreign Language]
+
+Daniel Yuan
+Chief of Staff & Head of Investor Relations
+
+[Interpreted] In the third quarter, Hong Kong posted the highest quarterly net client adds since the first quarter of 2021 and remained the largest contributor to new funded accounts among all markets for 4 straight quarters. We effectively sparked and captured clients' trading interest amid a quarter of strong equity market performance and busy IPO schedules. With the new IPO FINI framework, retail investors in Hong Kong increasingly consolidate their brokerage accounts to increase their chances of getting IPO allocation, and they tend to pick a trusted platform with the best overall user experience at their main brokerage accounts.
+
+Leaf Li
+Founder, Chairman & CEO
+
+[Foreign Language]
+
+Daniel Yuan
+Chief of Staff & Head of Investor Relations
+
+[Interpreted]
+
+In Singapore, new funded accounts again posted steady sequential growth, and we led our peers in DAUs by an even wider margin, further solidifying our position as the #1 retail broker in Singapore. Following 7 quarters of rapid expansion in Malaysia since launch, we still see huge runway for future client growth as equity ownership continues to go up. In the third quarter, we further strengthened product localization by launching Bursa derivatives and SGX futures and upgraded AI tools to support Malay language and local stock analysis. Our annual flagship offline investor event, MooFest, was held in Singapore in July and in Malaysia in October, altogether attracting over 28,000 investors to sign up and further elevating our brand image in the region.
+
+Leaf Li
+Founder, Chairman & CEO
+
+[Foreign Language]
+
+Daniel Yuan
+Chief of Staff & Head of Investor Relations
+
+[Interpreted]
+
+Thanks to our growing brand recognition and product experience, our U.S. business delivered another quarter of high-quality growth. We achieved high double-digit sequential increase in new funded accounts. We also observed another quarter of more active derivatives trading activity as both the number of option traders and option contracts traded recorded double-digit sequential growth.
+
+Leaf Li
+Founder, Chairman & CEO
+
+[Foreign Language]
+
+Daniel Yuan
+Chief of Staff & Head of Investor Relations
+
+[Interpreted]
+
+As of quarter end, total client assets reached HKD 1.24 trillion, up 79% year-over-year and 27% quarter-over-quarter. The growth was driven by another quarter of robust net asset inflow, while the appreciation in client stock holdings also contributed meaningfully to the overall asset expansion this quarter. Average client assets locked double-digit sequential increases and hit new highs in every market. Bullish sentiment on Hong Kong and U.S. equities prompted more leverage positions. A buoyant Hong Kong IPO market also boosted financing demand. As a result, margin financing and securities lending balance climbed 23% quarter-over-quarter to HKD 63.1 billion.
+
+Leaf Li
+Founder, Chairman & CEO
+
+[Foreign Language]
+
+Daniel Yuan
+Chief of Staff & Head of Investor Relations
+
+[Interpreted]
+
+Total trading volume rose 105% year-over-year and 9% quarter-over-quarter to HKD 3.9 trillion on the back of favorable market dynamics and upbeat investor sentiment. Elevated trading velocity and technology names lifted overall Hong Kong stock trading volume by 43% sequentially to HKD 1.19 trillion, which accounted for 31% of total trading volume, the highest percentage since 2023. U.S. stock trading volume remained elevated at HKD 2.6 trillion as many technology and crypto names posted new highs.
+
+Leaf Li
+Founder, Chairman & CEO
+
+[Foreign Language]
+
+Daniel Yuan
+Chief of Staff & Head of Investor Relations
+
+[Interpreted]
+
+Crypto trading volume surged 161% sequentially, driven by a 90% quarter-over-quarter increase in crypto asset balance and accelerated trading velocity. Ethereum trading volume quadrupled during the quarter, overtaking Bitcoin as the most popular coin on our platform. In Hong Kong, the launch of Solana for retail investors was well received. Solana contributed meaningfully to the growth of crypto turnover this quarter. We believe that as we continue to broaden coin selection, strengthen product capabilities and deepen investor education, there is significant potential to further drive crypto trading penetration among our client base.
+
+Leaf Li
+Founder, Chairman & CEO
+
+[Foreign Language]
+
+Daniel Yuan
+Chief of Staff & Head of Investor Relations
+
+[Interpreted]
+
+Period-end wealth management assets rose 8% sequentially to HKD 175.6 billion. During the quarter, clients increasingly allocated to fixed income funds alongside the sustained inflow into money market funds. To better serve the bespoke needs of professional investors, we introduced a self-service request-for-quote function for structured products, whereby clients can customize products based on their desired parameters, access and compare quotes from a number of issuers and execute trades seamlessly without human intervention. We leverage technology to remove friction in the client experience while driving operating efficiency.
+
+Leaf Li
+Founder, Chairman & CEO
+
+[Foreign Language]
+
+Daniel Yuan
+Chief of Staff & Head of Investor Relations
+
+[Interpreted]
+
+We ended the quarter with 561 IPO distribution and IR clients, up 22% year-over-year. We continue to play a leading role in facilitating retail participation in the heated Hong Kong IPO market. In the third quarter, 12 IPOs each attracted over HKD 100 billion in subscription amount on our platform. We served as joint bookrunners for multiple well-known listings, including those of Chery Automobile, Hesai Group, and Lens Technology. Notably, in the Butong Group IPO, we assumed the role of overall coordinators for the first time, underscoring the advancement of our enterprise service capabilities.
+
+Leaf Li
+Founder, Chairman & CEO
+
+[Foreign Language]
+
+Daniel Yuan
+Chief of Staff & Head of Investor Relations
+
+Next, I'd like to invite our CFO, Arthur, to discuss our financial performance.
+
+Arthur Chen
+Chief Financial Officer
+
+Thank you, Leaf and Daniel. Please allow me to walk you through our financial performance in the third quarter. All the numbers are in Hong Kong dollars, unless otherwise noted. Total revenue was HKD 6.4 billion, up 86% from HKD 3.4 billion in the third quarter of 2024. Brokerage commission and handling charge income was HKD 2.9 billion, up 91% year-over-year and 13% Q-over-Q, both primarily driven by higher trading volume. The change in blended commission rate was mostly technical in nature. The blended commission rate declined year-over-year as clients trade a higher-priced U.S. options compared to a year ago quarter, while the Q-over-Q increase in blended commission rate was due to sequentially stronger trading activities in low-priced U.S. stocks and options.
+
+Interest income was HKD 3 billion, up 79% year-over-year and 33% Q-o-Q. The year-over-year increase was driven by higher interest income from security borrowing and the lending business, margin financing and bank deposits. The Q-over-Q increase was driven by higher interest income from security borrowing and the lending business as well as higher margin financing interest income. Other income was HKD 441 million, up 111% year-over-year and flat Q-o-Q.
+
+The year-over-year increase was primarily attributable to higher currency exchange service income, fund distribution service income and IPO subscription service charge income. Our total cost was HKD 780 million (sic) [HKD 793.7 million], an increase of 25% (sic) [27%] from HKD 625 million in the third quarter of 2024. Brokerage commission and handling charge expenses were HKD 161 million, up 97% year-over-year and flat Q-o-Q. Both the year-over-year and the Q-over-Q increase was roughly in line with the change of our brokerage commission and handling charge income. Interest expenses were HKD 474 million, up 17% (sic) [14.6%] year-over-year and 25% Q-o-Q. Both the year-over-year and Q-over-Q increase was mainly due to higher interest expenses associated with our securities borrowing and lending business as well as higher margin financing interest expenses.
+
+Processing and servicing costs were HKD 146 million, up 12% year-over-year and 10% Q-over-Q. The year-over-year increase was largely due to higher market information and data fee. The Q-o-Q increase was mainly driven by higher market information and data fee as well as higher product service fee. As a result, our total gross profit were HKD 5.6 billion, an increase of 100% from HKD 2.8 billion in the third quarter of 2024. Gross margin was 87.8% as compared to 81.8% in the third quarter of 2024.
+
+Operating expenses was up 57% year-over-year and 31% Q-o-Q to HKD 1.7 billion. R&D expenses was HKD 574 million, up 49% year-over-year and 30% Q-o-Q. The year-over-year and Q-o-Q increase was mainly driven by our greater investment in crypto and AI capabilities. Selling and marketing expenses were HKD 586 million, up 86% year-over-year and 36% Q-o-Q. Both the year-over-year and Q-o-Q increase was mainly attributable to higher new fund accounts. G&A expenses was HKD 535 million (sic) HKD [545 million], up 40% (sic) [43.1%] year-over-year and 26% Q-o-Q. Both the year-over-year and Q-o-Q increase was primarily due to increase in general and administrative headcount.
+
+As a result, income from operations increased to 127% (sic) [125.5%] year-over-year and 17% Q-o-Q to HKD 3.9 billion. Operating margin increased to 61.3% from 50.4% in the third quarter of 2024, mostly due to strong top line growth and operating leverage.
+
+Our net income increased by 143% year-over-year and 25% Q-o-Q to HKD 3.2 billion. Net income margin expanded to 50.1% in the third quarter as compared to 38.4% in the same quarter last year. Our effective tax rate for the quarter was 16.7%.
+
+That concludes our prepared remarks. We'd now like to open the call to questions. Operator, please go ahead.

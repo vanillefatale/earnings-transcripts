@@ -1,0 +1,237 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question comes from the line of Joyce Ju from Bank of America.
+
+Joyce Ju
+BofA Securities, Research Division
+
+James, Jane, Cindy and Michelle, congratulations on another strong quarter. AI is clearly top of the mind for the market and a key pillar of Trip.com's strategy. Can management please elaborate on where do you see AI heading on your platforms, specifically, how do you view the trajectory for AI agents? Do you see them going mainstream?
+
+James Liang
+Co-Founder & Executive Chairman
+
+Thank you for the question. AI is a central pillar of Trip.com's strategy, and we are committed to unlocking its full potential for the travel industry. We believe we are at the forefront of this transformation. On the user side, we are shifting more touch points to AI-driven tools continuously iterating our AI plus content ecosystem. Our AI agent, TripGenie, is now used in over 200 countries and regions, with users growing over 200% year-over-year in the first half of 2025. We are also refining the balance between advanced AI search and conventional search to better serve user intent.
+
+For hotels, search results now evolve from standardized information to real-time recommendations tailored to individual preferences. On the operational side, AI helps detect issues and provide intelligent solutions for complex cases. This enhances employee productivity, improves customer service efficiency, increases satisfaction and conversion rates and can help reduce cancellations through smarter, more responsive service.
+
+Looking ahead, we see AI as a tremendous opportunity to make travel more accessible, reliable and enjoyable. Trip.com is committed to investing in AI to enhance every step of the traveler's journey. By combining cutting-edge technology with 26 years of travel expertise, we ensure seamless experiences that go beyond AI alone. We will continue to explore how AI can make every step of the traveler's journey better and enrich the travel experience. Ultimately, travel is about exploration and experience, and we are focused on delivering the best for our customers today and in the future.
+
+Operator
+
+We will now take our next question from Alex Yao from JPMorgan. .
+
+Alex Yao
+JPMorgan Chase & Co, Research Division
+
+I would like to ask some of the near-term consumer behavior and also travel trends during national holiday and also mid-autumn festival. In addition, I think when the current geopolitical tension between Japan and China, can you talk about Japan's revenue contribution to our company and also the financial impact that you could expect over the next, let's say, couple of quarters?
+
+Jane Sun
+CEO & Director
+
+Sure. I'd be happy to take this question, Alex. So first of all, for the National Holiday, combined with midterm holiday, we have seen very strong trend. The trend we call is 3Ls, which is long stay, long distance and long tail. Because it's a longer holiday, most people go long haul, which is the strength for Trip.com. And also because people are going so far away, we are able to promote many long-tail travel destinations for sophisticated travelers, and the stay is longer.
+
+So if you look at the industry, the domestic market posted a very healthy single-digit growth. Cross-border, it was even stronger. The international capacity recovered even further compared to previous quarter at around 88% pre-COVID level. If you look at our platform, our long-haul, long stay drives strong growth, both domestically and internationally. For outbound hotel and air bookings, it jumped to more than 30% year-over-year growth. And also for inbound travel, we surged by more than 100% year-over-year for Golden Week holidays. So we are very positive for these holiday seasons.
+
+Regarding Japan, I think as long as consumers have the buying power, they will travel to different travel destinations. What we've seen a couple of factors impacting traveler's behavior. First of all, the travel destination needs to be safe and welcoming. Secondly, the visa application needs to be eased. Thirdly, the direct flight also is a very important consideration for travelers. So over the years, we have seen -- if certain destination is impacted, travelers as long as they have time, they have money, they can choose different travel destinations to go to. So overall, on our platform, we haven't seen major impact so far, yes.
+
+Operator
+
+We will now take our next question from Thomas Chong from Jefferies.
+
+Thomas Chong
+Jefferies LLC, Research Division
+
+And congratulations on a strong set of results. My question is about how have hotel and air ticket price trend recently? And what's the outlook for next year?
+
+Xiaofan Wang
+CFO & Executive VP
+
+In Q3, the year-on-year decline in hotel and air ticket prices narrowed to the low single digits. During the Golden Week, both domestic hotel and airfares trended higher, reflecting strong travel demand before easing sequentially after the holiday on the supply side, domestic hotel capacity continues to expand at a mid- to high single-digit pace year-over-year, which is likely to keep some pressure on room prices going forward. Internationally, flight capacity has now recovered to about 88% of 2019 levels. As a result, cross-border air ticket prices have softened compared with last year but remain above pre-pandemic levels while hotel prices have stayed largely stable.
+
+Operator
+
+We will now take our next question from Yang Liu from Morgan Stanley.
+
+Yang Liu
+Morgan Stanley, Research Division
+
+Congratulations on the solid results first. I have one question that -- yes, could you please hear me? .
+
+Michelle Qi
+Senior IR Director
+
+Yes, we can.
+
+Yang Liu
+Morgan Stanley, Research Division
+
+My question is that could management share some insight on the recent consumer sentiment and more importantly, your early thoughts for the coming year?
+
+Jane Sun
+CEO & Director
+
+So we have seen the travel industry remain very strong. People's desire to explore the world continues to grow across culture, reflecting travelers' design for good products. In terms of the leisure travel, it has stayed robust supported by extra holidays this year. Our platform, long-haul trips show strong momentum. Outbound hotel and flights rose over 30%, with Europe emerging as a key driving force.
+
+Domestically, travelers are also seeking deeper and more immersive experiences and explore less known destinations. Year-to-date, per capital spending on our platform remains in line with last year. For business travelers, it has remained stable. We continue to attract new corporate clients with average business travel spending on our platform has increased year-over-year, supported by Chinese companies expanding its global footprint.
+
+Looking forward in 2026 at Trip.com Group we view challenges as opportunities to strengthen our foundation. Our focus remains on enhancing our product, service and to better meet the evolving needs of our global travelers. For international business, our strategy at Trip.com has proven to be very effective driving rapid market share gain outside of domestic market in recent quarter. We will also continue to invest globally, particularly across Asia Pacific to accelerate our growth and expand our presence.
+
+Domestically, we are focusing on capturing more demand and providing excellent services to our customers. In particular, we tap into the great opportunity for inbound travel and silver generation and young travelers. We aim to deep the collaboration with our partners when we bring inbound customers to domestic market, it drives huge job opportunities. and also drives huge incremental opportunities for our hotel partners, flight partners, destination partners, rental cars, et cetera. So we are very positive for the growth in 2026.
+
+Operator
+
+Our next question comes from John Choi from Daiwa.
+
+John Choi
+Daiwa Securities Co. Ltd., Research Division
+
+Congratulations on another great quarter. Just quickly, with new strategies from your industry peers in the China market, what kind of impact could this have on your business going forward?
+
+Jane Sun
+CEO & Director
+
+Sure. First of all, I think the travel market brings joy and happiness to people. Secondly, we invest heavily in our technology and AI, try to improve the efficiency for the whole industry, that will benefit all the players in the market. And thirdly, as you can see, we have a couple of offerings, which is very much liked by the consumers. First of all, we provide one-stop total solution. So when you make a reservation for flight, customers automatically will book a nice hotel with us, and we offer airport transfer.
+
+We also have a trusted list for destinations -- for attractions. And when you are traveling, if you run into any issues, for example, if a certain area has a tsunami or earthquake or if there is a war happened during your trip within 2 minutes, our team will reach out to the customers in the destination, making sure they are moved to the safe area. The very next day, if our customers choose to fly back to their home countries, we will make prioritized arrangement for our customers.
+
+So that capacity and ability to help the customers in destination, pre-trip, post-trip give the confidence for our consumers that when they travel with Trip.com, they have peace in mind. So we continuously improve our customer service level to make sure we offer the best product, best technology and best service to our customers. And we'll continuously do that. I think as long as we make the right investment in this area, our customers will trust our team for our service and product. We will continue to grow.
+
+Operator
+
+Our next question comes from Wei Xiong from UBS.
+
+Wei Xiong
+UBS Investment Bank, Research Division
+
+Sure. Congrats on a solid quarter. On the international side, it's encouraging to see Trip.com continue to maintain strong growth in the third quarter. So could management maybe share more on our international performance and any regional operational highlights?
+
+Jane Sun
+CEO & Director
+
+Sure. In Q3, booking on Trip.com increased by around 60% year-over-year, with APAC growing more than 50%, demonstrating robust growth despite macroeconomic uncertainties. In particular, Asia Pacific remains our operational focus and the largest contributor for our international business growth. Through localizing our products and tailor our marketing strategy, our brand recognition and market presence continue to strengthen across key markets.
+
+Trip.com was named as the Best Online Travel Agency in Asia at 2025 Travel Weekly Asia Readers' Choice Award. We are now a leading OTA in several key markets. reflecting our growing and solid footprint. For the new markets, emerging markets such as Middle East and Europe also show encouraging momentum signaling expanding global opportunities.
+
+For inbound booking, we surged more than 100% year-over-year in Q3 by continuously innovating our offerings such as half-day tour [ at The Bund ] or at the Great Wall and Taste of China immersive dining experiences we reinforced our position as the pioneer in inbound travel market. So our international business will continue to grow, and we will make strong investment in this field.
+
+Operator
+
+We will now take our next question from Brian Gong from Citi.
+
+Brian Gong
+Citigroup Inc., Research Division
+
+James, Jane, Cindy and Michelle, congratulations on a solid quarter. My question is regarding the inbound travel. You just mentioned, which is the fastest-growing segment for Trip.com. Could you provide updates on your inbound business and the key catalysts for the growth ahead?
+
+Jane Sun
+CEO & Director
+
+Sure. When we surveyed the inbound customers, we got very positive feedback. People told us the country is very safe, particularly for women travelers. They can run, they can jog in the middle of the night, where they cannot do even in some major cities in their home countries. People are very friendly, very hospitable, the food is delicious, the history is very rich and the infrastructure is very new and effective. And on top of it, they find affordable luxury in inbound travel. By paying USD 100, USD 200, they can stay in a very nice 5-star hotel with excellent services. So that gives a very good foundation for us to build upon these preconditions.
+
+And also the free visa gave more than 60 countries, convenience for these people to come for inbound travel. And also the extension for in transit travel from 3 days to 10 days also make it easier for business travelers to come. So we see great opportunity to capitalize on these opportunities. And from our end, because our inventory in China is the most comprehensive one. And our service is also very good. And we offer multi-language services when a customer come in, we offer 24-hour service. if you call our call center within 30 seconds, a live person will answer the call to help them to solve the issues on the ground. And we remain very alert when they enter into the country.
+
+So all that combined together, which enable us to drive the volume for inbound travel very strongly, and we will continuously do so. By winning these inbound customers into the country. We also offer very good job opportunities for young people. We also bring new revenue opportunities for our hotel partners for our airline partners for the local tour operators for major travel destination partners and also for famous landmarks attractions.
+
+So overall, I think we bring happiness for the consumers who are traveling inbound. We also bring great job opportunities for young people as well as great opportunities for our partners for inbound travelers. So a very positive move in this field.
+
+Operator
+
+[Operator Instructions] Our next question comes from Wei Fang from Mizuho.
+
+Wei Fang
+Mizuho Securities USA LLC, Research Division
+
+James, Jane, Cindy and Michelle, congrats on the good numbers. I think I heard there were additional marketing spend allocated to the international business, right, in the quarter? I was wondering, can management give us some more updates on your Trip.com's marketing progress in the quarter? And what's your plan for the next quarter and beyond like 2026?
+
+Jane Sun
+CEO & Director
+
+Sure. Our marketing strategy on Trip.com delivered solid results in Q3. The scalable nature of our business is not directly improving marketing efficiency in our key targeted markets. In Q3, our mega sale in major markets, such as Korea, Thailand, Malaysia reached historical heights for the quarter. Internally, we also empower our execution team to set ROI targets aligned with long-term growth objectives. This approach drives motivation and ensure disciplined control over the key levers of marketing efficiency.
+
+Looking ahead, upcoming global holidays will continue to execute our signature campaigns using a proven play book while staying agile to capitalize on the emerging market trends by combining these opportunities with our long-term strategy, we aim to accelerate revenue growth and strengthen our market position, including expanding our organic mobile use base.
+
+Operator
+
+Our next question comes from Parash Jain from HSBC.
+
+Parash Jain
+HSBC Global Investment Research
+
+I have a question more on the recent dynamics in the global market and how they will impact your business. And the dynamics on 2 fronts. Firstly, on probably with your deeper penetration in the region, as you rightly mentioned, are you seeing intensifying competition with the global OTAs like Agoda?
+
+And my second question is, I mean, another trend we have noticed is where Google is pushing the paid search instead of SEOs, and does it impact your metasearch platform?
+
+Jane Sun
+CEO & Director
+
+Sure. Thanks for your question. Asia Pacific market offers huge potential representing around 60% of world's total population and benefiting from a strong economic growth rate. The middle income population is rising very fast and the GDP growth in this region is the fastest compared to the rest of the world. The region combined rich -- very rich travel resources from majestic nature to vibrant cities with a fragmented market and relatively low online penetration, highlighting opportunities for consolidation and digital expansion.
+
+So we invest heavily to expand into this market. These market dynamics create a very favorable environment for online travel companies. We focus on delivering one-stop total solution for our customers, with localized product and exceptional customer service for APAC travelers worldwide. Our globalization strategy involves the insights from each market, driving significant growth in our presence by taking the dynamic and market-specific approach we are confident in our continuous growth trajectory. Thank you.
+
+Operator
+
+Our next question comes from Simon Cheung from Goldman Sachs.
+
+Simon Cheung
+Goldman Sachs Group, Inc., Research Division
+
+James, Jane, Cindy and Michelle, I just have one quick question. So I think you touched on when you discussed about your packaged tour business. One of the segments that I'm interested in your destination service business and the so-called experience markets. Wondering whether you can share some thoughts about your long-term positioning and the opportunity over there, especially given -- reported there's some IPO going on in that segment?
+
+Jane Sun
+CEO & Director
+
+Sure. Destination service business is quite small compared to the overall pie. We expect our group to deliver around [ RMB 5 billion ] in GMV for destination service which represents only 2% to 3% of our total GMV. We drive our volume and the growth is more than 130% Trip.com growth year-to-date, and the rising demand from the APAC is strong. We cover about 300,000 offering worldwide, and we continuously cover more and more products in our platform. For us, our strength is one stop travel platform covering activity, attraction, transportation to better match users' demand and enhance overall travel experience.
+
+Leverage our large APAC user base, along with the loyalty program and AI tool, we're deepening engagement and driving repeated booking. Over the next 3 to 5 years, our focus is broadening product covering and market share. So for us, the [indiscernible] destination service is free because our customers already make the air flight and hotel bookings. So we don't need to spend money to acquire these customers. So the acquisition of these customers is free. And on top of it, we don't intend to make any money for destination marketing because it's very small. It's mainly to enhance users experience and making sure our customers love our product, love our platform.
+
+So we intend to expand aggressively in this field aiming to increase the loyalty and customer satisfaction to better serve our customers on the flight hotel. So the one-stop ecosystem gives us the advantage from a traffic acquisition also take away the pressure for making profit for this very small segment.
+
+Operator
+
+Our next question comes from Ellie Jiang from Macquarie.
+
+Ellie Jiang
+Macquarie Research
+
+Congrats on the solid print. I have a question on the cost side. The operating expenditure came in at slightly lower end of expectations during the third quarter. How should we think about the outlook for the coming quarter, fourth quarter as well as for 2026?
+
+Xiaofan Wang
+CFO & Executive VP
+
+We continue to manage our investments with discipline on sales and marketing side, we adjust spending based on each market's maturity and the characteristics of different channels. As a result, the overall expense mix may in line with business priorities. On the personnel front, as more markets grow rapidly, we are expanding our global presence while maintaining high standards for new hires to ensure strong marginal cost efficiency.
+
+The quarter-over-quarter increase in operating expenses mainly reflected seasonal factors in China. With the global holiday season approaching, we plan to step up marketing investments as planned. while the marketing ratio may rise sequentially, it will vary year-over-year depending on regional and channel mix. Over the longer term, we remain focused on improving efficiency by growing direct mobile traffic enhancing cross-selling and strengthening customer loyalty.
+
+Operator
+
+We will now take our last question from the line of Qiuting Wang from CICC.
+
+Qiuting Wang
+China International Capital Corporation Limited, Research Division
+
+My question is about Trip.com's margin as our international business grows rapidly, how should we expand margin out of Trip.com next year and in the longer term?
+
+Xiaofan Wang
+CFO & Executive VP
+
+It is still too early to provide specific commentary on the margin outlook for 2026. In general, we view margin as a natural result of a dynamic business mix. and ongoing improvements in operating efficiency across each business segment. In the long run, we do not see any structural limitations to our profit margins, supported by our innovative strategies global expansion and forward-looking investments, our margins could be comparable to both of our international peers.
+
+Operator
+
+We have now come to the end of the question-and-answer session. Thank you all very much for your questions. I'll now turn the conference back to Michelle for closing comments.
+
+Michelle Qi
+Senior IR Director
+
+Thank you. Thank you, everyone, for joining us today. You can find the transcript and webcast of today's call on investors.trip.com. We look forward to speaking with you on our fourth quarter of 2025 earnings call. Thank you, and have a good day.
+
+Jane Sun
+CEO & Director
+
+Thank you very much. See you next quarter. .
+
+Operator
+
+Thank you for your participation in today's conference. This does conclude the program. You may now disconnect your lines.

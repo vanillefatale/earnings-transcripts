@@ -1,0 +1,141 @@
+Lowe's Companies, Inc. (LOW) Q3 2026 Earnings Call November 19, 2025 9:00 AM EST
+
+Company Participants
+
+Kate Pearlman - Vice President, Investor Relations & Treasurer
+Marvin Ellison - President, CEO & Chairman
+William Boltz - Executive Vice President of Merchandising
+Joseph McFarland - Executive Vice President of Stores
+Brandon Sink - Executive VP & CFO
+
+Conference Call Participants
+
+Christopher Horvers - JPMorgan Chase & Co, Research Division
+Zachary Fadem - Wells Fargo Securities, LLC, Research Division
+Simeon Gutman - Morgan Stanley, Research Division
+Katharine McShane - Goldman Sachs Group, Inc., Research Division
+Seth Sigman - Barclays Bank PLC, Research Division
+Gregory Melich - Evercore ISI Institutional Equities, Research Division
+Zhihan Ma - Sanford C. Bernstein & Co., LLC., Research Division
+Robert Ohmes - BofA Securities, Research Division
+
+Presentation
+
+Operator
+
+Good morning, everyone. Welcome to Lowe's Companies Third Quarter 2025 Earnings Conference Call. My name is Rob, and I'll be your operator for today's call. As a reminder, this conference is being recorded. I'll now turn the call over to Kate Pearlman, Vice President of Investor Relations and Treasurer.
+
+Kate Pearlman
+Vice President, Investor Relations & Treasurer
+
+Thank you, and good morning. Here with me today are Marvin Ellison, Chairman and Chief Executive Officer; Bill Boltz, our Executive Vice President, Merchandising; Joe McFarland, our Executive Vice President, Stores; and Brandon Sink, our Executive Vice President and Chief Financial Officer. I would like to remind you that our notice regarding forward-looking statements is included in our press release this morning, which can be found on Lowe's Investor Relations website.
+
+During this call, we will be making comments that are forward-looking, including our expectations for fiscal 2025. Actual results may differ materially from those expressed or implied as a result of various risks, uncertainties and important factors, including those discussed in the risk factors, MD&A and other sections of our annual report on Form 10-K and our other SEC filings. Additionally, we'll be discussing certain non-GAAP financial measures. A reconciliation of these items to U.S. GAAP can be found on the quarterly earnings section of our Investor Relations website.
+
+Now I'll turn the call over to Marvin.
+
+Marvin Ellison
+President, CEO & Chairman
+
+Thank you, Kate. Good morning, everyone, and thank you for joining us today. Third quarter sales were $20.8 billion with comparable sales increasing 0.4% year-over-year, despite a roughly 100 basis point headwind related to Hurricanes Helene and Milton. During the quarter, adjusted operating margin expanded approximately 10 basis points, leading to adjusted diluted earnings per share of $3.06, which is an increase of 6% versus last year.
+
+These results reflect continued operational discipline and strong execution across our perpetual productivity improvement or PPI initiatives. And auto sales results continue to be impacted by softer demand within an uncertain macro environment, we're encouraged to see improvement in DIY customer engagement and discretionary projects across many areas of the home. We're also pleased with our performance in the North and West divisions, which were not affected by storms in the prior year.
+
+And we're seeing strength across all 5 key initiatives within our 2025 Total Home Strategy, which we launched at our analyst and investor conference last year. Let me give you an update on the performance of our Total Home Strategy, beginning with the small to medium Pro, where we once again delivered growth this quarter. We're enhancing our Pro offering through our Pro extended aisle, which is a direct interface with our supplier systems. It allows our Pro sales associates to sell directly from their product catalogs with the suppliers opting fulfilling their orders directly to the job site. This expands our product assortment, inventory quantities and delivery capabilities for larger orders.
+
+Second, when it comes to accelerating online sales, we delivered online sales growth of 11.4% this quarter, driven by increased traffic and continued strong conversion. We're also continuing to enhance the online experience across lowes.com and our mobile app to make it simpler and faster for DIY and Pro customers to find all the products they need. Looking ahead, we're pleased with the ongoing build-out of our marketplace. This allows us to expand our product assortment to offer our customers everything they need for their homes across the price spectrum from value to premium without assuming the risk of owning the inventory.
+
+Third, we're leveraging our loyalty ecosystem to increase our customer preferences for Lowe's, so they choose us first and shop more often. In fact, our 30 million MyLowe's Rewards members shop twice as often and spend over 50% more than non-members. Through both our DIY and Pro loyalty programs, we're gaining deeper customer insights, which help us tailor more personalized value-enhancing offers through data-driven marketing.
+
+Fourth, we're really pleased with the strong results this quarter in home services, where we delivered double-digit comps. Later in the call, Joe will discuss the initiatives that are driving these gains. And the fifth and final initiative in our Total Home Strategy is increasing space productivity. We made great progress optimizing our selling space, and Bill will provide details on a couple of key initiatives later in the call.
+
+Overall, I'm very pleased with the progress that we have delivered through our Total Home Strategy and the strategic alignment we're driving across the organization. Let me now discuss the importance of generative AI to improve how we sell, how we shop and how we work. This is what we refer to as our AI framework. And as we continue to make strategic investments in our AI capabilities, we're already seeing tangible results.
+
+Our virtual assistants, Mylow and Mylow Companion, which are built on an OpenAI platform, are answering nearly 1 million questions per month about everything from product specs to project know-how to the status of a customer order. In fact, when our customers engage with Mylow online, the conversion rate more than doubles, which is clear evidence that AI is simplifying decision-making and driving sales. And when our associates use Mylow Companion to help customers shopping in our stores, we're seeing customer satisfaction scores increase 200 basis points.
+
+And every interaction with our virtual assistant is feeding our proprietary models, allowing us to continually improve accuracy and build a durable advantage in home improvement expertise. Within our technology team, engineers are using AI tools for development and code review, leading to double-digit productivity gains and accelerating our speed to market. In fact, Lowe's has just been recognized by OpenAI with their 100 billion token milestone award as a reflection of the depth and breadth of AI adoption throughout the organization.
+
+Achieving this milestone places Lowe's in an elite tier of companies that are not just experimenting with AI, but operating at a true enterprise scale. Looking ahead, we have a detailed road map of several additional high-impact AI initiatives that will drive further enhancements to the Pro and DIY customer experience, both in-store and online. This will include our participation in agentic commerce so we can continue to meet our customers where and how they choose to shop. And we also anticipate incremental productivity gains as we leverage AI to drive operating efficiency across the enterprise.
+
+Now let me turn to our acquisition of Foundation Building Materials or FBM, which we completed in October. I'd like to begin by extending a warm welcome to the entire FBM team. As a reminder, FBM is a leading distributor in interior building products, including drywall, metal framing, insulation and ceiling systems. FBM's business mix is balanced evenly between commercial and residential. And while the housing market is currently under some pressure, we're pleased with the momentum we're seeing with FBM's commercial sales. Some recent highlights include several data center projects, a luxury 150-unit residential high-rise and medical facilities, as FBM leverages a strong reputation for reliability and technical expertise to win these contracts.
+
+And when we consider the impact to Lowe's, this acquisition gives us a more comprehensive product portfolio, expands our revenue streams and further enhances our offering to our Pro customers. In fact, efforts are already underway to quickly connect FBM's product catalog to our Pro extended aisle. And FBM customers will gain access to Lowe's complementary products like tools, safety gear and fasteners so they can more quickly and conveniently source everything they need for their jobs.
+
+FBM's 370 locations nationwide also strengthens our fulfillment capabilities, especially in high-density urban markets in California, the Northeast and the Midwest, where Lowe's has less of a physical store presence. Our acquisition of FBM and Artisan Design Group, or ADG, creates a comprehensive interior solutions for our homebuilders with everything from drywall and insulation to doors, flooring, cabinets and appliances. And I look forward to updating you on the progress we're making with both acquisitions in the future.
+
+Now let me transition to our view of the macro environment. Overall, the U.S. homeowner remains healthy. Balance sheets are strong and consumers continue to spend. However, affordability and uncertainty in the broader economy continue to weigh on consumer confidence, particularly when it comes to larger discretionary purchases as borrowing costs have been elevated for longer than originally anticipated.
+
+Looking ahead, lower interest rates, including for home equity loans could begin to spur demand even as many homeowners remain reluctant to move and give up their historically low mortgage rates. This cycle is different from past housing slowdowns in a few important ways. First, homeowners today have record levels of equity, roughly $400,000 on average. And at the same time, they are more likely to invest in the home they already own instead of giving up the low mortgage rate. This is referred to as the lock-in effect and could make home equity financing a more attractive solution.
+
+So while the near-term macro backdrop reflects an anxious consumer, the combination of strong fundamentals, substantial home equity and the potential for lower rates ahead gives us confidence in the long-term health of the home improvement sector. And we remain confident that the continued execution of our Total Home Strategy will position Lowe's to win in the short and in the long term. Before I close, I'd like to wish all of our associates a blessed and safe holiday season. Our associates are our competitive advantage, and I appreciate all they do to make Lowe's a great company.
+
+And with that, I'll turn the call over to Bill.
+
+William Boltz
+Executive Vice President of Merchandising
+
+Thanks, Marvin, and good morning. This quarter, we delivered positive comps in 10 of our 14 merchandise divisions, and solid performance across both DIY and Pro despite lapping hurricane activity last year. Starting with home decor. We delivered positive comps in appliances, flooring, paint and kitchens and bath. We continue to strengthen our leadership position in appliances by providing customers with a value proposition that no other retailer in the industry can match. This includes the widest assortment of top brands and innovative products, all at a must-win price point. And by leveraging our market delivery network, we're the only retailer who can deliver and install major appliances in virtually every ZIP code in the U.S. next day.
+
+This capability is crucial for items like refrigerators or washing machines that often need to be replaced immediately. One example of our innovative product offering is an exclusive new Bosch hybrid tub dishwasher line available only at Lowe's. These models combine the quiet operation Bosch is known for, along with the durability of stainless steel, in the affordability of polymer. The result is a better clean and a better value with the most accessible price points in the industry.
+
+Turning to flooring. We saw a broad-based strength across soft services, vinyl and tile flooring. In carpet, customers are enthusiastic about the benefits of STAINMASTER PetProtect. Its LeakDefense backing helps prevent spills and pet accidents from seeping into the carpet pad or subfloor. STAINMASTER is the most trusted brand in carpet and it is exclusive to Lowe's. Touching on paint. We drove broad-based growth across stains, primers and paint, along with accessories and applicators.
+
+And we're excited to announce the launch of Sherwin-Williams ProBlock Quick Dry primers, an innovative product that block stains and provides outstanding coverage and drives in less than an hour. This new primer is available only at Lowe's and Sherwin-Williams locations, marking the first time that we have co-launched a product. This product provides Lowe's with true differentiation within the home center channel as we continue to build on our strong relationship with this key supplier.
+
+Lastly, in kitchens and bath, we recently completed a reset of our bathroom vanity showrooms and these new sets are delivering results ahead of our expectations. The updated showroom provides a much better shopping experience for both Pro and DIY customers because they can now see and interact with a larger number of products and the stock products are now much more accessible and readily available for quick take with. This is an important way we're driving space productivity and leveraging our larger stores as a competitive advantage.
+
+Turning now to building products. We drove positive comps across millwork, rough plumbing, lumber and electrical. We're supplementing our already robust in-store Pro offering and building products with our Pro extended aisle. As Marvin mentioned, this initiative expands our product offering, increases our inventory depth and enhances our delivery capabilities. And in millwork and rough plumbing we've seen strong performance driven by higher installation sales in home services, which Joe will discuss shortly. Millwork is another area where we're seeing innovation like the Larson 60 MT storm door with magnetic technology that keeps the door closed. It offers both performance and curb appeal and it gives customers a reason to upgrade.
+
+Turning to hardlines. We delivered positive comps in lawn and garden, with particular strength in live goods and hardscapes. Customers were inspired by the outdoor vignettes that showcased everything they needed to build their vertical gardens, along with upgrading a mailbox display and more. And the mild weather gave customers more opportunities to tackle more outdoor projects which helped drive extended demand.
+
+We're also pleased with a strong start to the holiday season in our tools, Trim A Tree and decor categories. Shifting gears to tools where we also delivered positive comps and we saw strong performance in hand tools and tool storage. Customers responded to our value offerings and improved assortments like the Kobalt 46-inch Workstation available in a wide range of colors. During the quarter, we leaned into value and drove strong online engagement during our DEWALT Days event supported by a homepage takeover and a compelling free tools battery offer.
+
+Now let me give you an update on one of our key Total Home Strategy initiatives, increasing space productivity, which is all about driving incremental sales opportunities by optimizing our sales footprint. This quarter, we completed the rollout of our rural format in 150 additional stores, bringing the total to nearly 500. We're also on track to complete rollouts of workwear and pet to more than 1,000 stores, giving us an opportunity to drive these assortments beyond our rural stores. In line with our pet expansion, which is focused on grab-and-go items like toys and treats, we're pleased to announce our new private brand, Heart & Herd. It offers pet owners high-quality, value-priced products for dogs and cats, just in time for holiday gifting.
+
+And as part of our space productivity efforts, we've made significant progress on our SKU rationalization initiative designed to improve our inventory productivity. By the end of 2025, we're set to achieve our multiyear goal of reducing our in-store SKU count by 15%. As we head into the holiday season, we're delivering new exciting products, both in-store and online through our Black Friday buildup event. We're giving customers an early start on their holiday shopping with great deals, including several that are already available now. In closing, I'd like to thank our merchants, inventory and supply chain teams, along with our MST associates and our supplier partners for their continued efforts to deliver results for our customers ahead of the busy holiday season.
+
+And now I'll turn the call over to Joe.
+
+Joseph McFarland
+Executive Vice President of Stores
+
+Thank you, Bill, and good morning, everyone. Let me begin by recognizing our store and supply chain associates who show up every day with energy and commitment to serve our customers. Quarter after quarter through changes and challenges, they've proven themselves to be our company's greatest asset. And that's why I'm particularly pleased to share that the investments we're making to support our frontline associates are truly paying off. New training programs are better equipping our store teams to sell complete customer projects, including featured seasonal products and services by enabling our associates to deliver more comprehensive solutions.
+
+These programs are boosting their knowledge, confidence and effectiveness at driving sales. And as Marvin mentioned, they can also rely on our AI-powered Mylow companion for product details and for help answering customers' questions. Add it all up, and we're empowering our associates with the tools they need to sell more effectively across all departments in the store. Additionally, a few weeks ago, we concluded our associate annual engagement survey a critical component of our proactive listening strategy, which supports our efforts to become the employer of choice in retail.
+
+Scores across the key measures of engagement and associate well-being as well as leadership effectiveness have all continued to improve, and our 95% participation rate continues to be industry-leading. All told, our better train and highly engaged associates are elevating the Lowe's shopping experience, which is reflected in improved customer satisfaction scores for both the DIY and Pro. To focus now on the Pro, enrollments in our MyLowe's Pro Rewards program continue to grow as our core small to medium Pro customers experience firsthand the benefits of our easier-to-use loyalty platform, which allows them to start earning rewards immediately and achieve higher rewards with lower levels of spending.
+
+We're also pleased to see Pro's taking advantage of our enhanced digital capabilities as they shift to more shopping online. And looking ahead, we're encouraged that our recent Pro survey overall sentiment improved for small to medium Pro's as they remain confident in their job prospects and report stable backlogs. Shifting now to performance in Home Services this quarter. We're pleased with our double-digit growth in this key initiative within our Total Home Strategy. The team delivered broad-based strength across a number of product categories including windows and doors, HVAC, water heaters, kitchens and bath and window treatments.
+
+These strong results were driven in part by tech-enabled solutions, which have enhanced the experience of customers, installers and associates alike. For our customers, we've accelerated the process from inquiry to completed installation by providing intuitive solutions for scheduling, quoting and payment. These enhancements have transformed what was a time-consuming process by removing friction and pain points along the customer journey.
+
+Turning now to our focus on operating efficiency. I'd like to thank our asset protection teams for continuing to deliver one of the best inventory shrink results in big box retail. Despite the challenging environment, these results are driven by a combination of outstanding leadership in industry-leading technology. We also focus this year on a number of perpetual productivity improvements or PPI initiatives in our stores including our front-end transformation, streamlining our BOPIS fulfillment and the freight flow optimization. And we're already working on our PPI roadmap for 2026 for store operations as we leverage AI-enabled solutions to further enhance the customer experience while also driving labor productivity.
+
+Before I close, let me take a moment to discuss one of our new initiatives to support veterans. As part of our long-standing commitment to the military community and the support of our objective to deliver 10 million square feet of impact in 2025. As a marine who served in combat, I'm particularly proud to share that in partnership with Building Homes for Heroes, and our hometown of Mooresville, North Carolina, we've just broken ground on Freedom Hill. This first-of-its-kind community will provide mortgage-free housing and support services for up to 15 households of injured veterans and first responders.
+
+As the executive sponsor of Lowe's philanthropic support of our military communities, it will be an honor for me to see lives changed through this initiative.
+
+With that, let me turn the call over to Brandon.
+
+Brandon Sink
+Executive VP & CFO
+
+Thank you, Joe, and good morning. Starting with our third quarter results. We generated GAAP diluted earnings per share of $2.88. In the quarter, we closed on our acquisition of Foundation Building Materials or FBM. We recognized $105 million in pretax transaction costs, including the fees associated with $9 billion in bridge financing. To finance the $8.8 billion purchase price, we issued $5 billion of bonds with a competitive weighted average coupon of 4.38% and borrowed $2 billion under a 3-year term loan. Given our better-than-expected cash flow generation, we financed the remaining $1.8 billion with cash on hand. We also recognized $24 million in non-GAAP adjustments associated with Artisan Design Group, or ADG.
+
+And keep in mind that in the third quarter of last year, we recorded a pretax gain of $54 million associated with the 2022 sale of our Canadian retail business. Excluding these impacts, we delivered adjusted diluted earnings per share of $3.06, exceeding our expectations. This is a 6% increase compared to adjusted diluted earnings per share in the prior year quarter. My comments from this point forward will include certain non-GAAP comparisons that exclude these impacts where applicable. Third quarter sales were $20.8 billion with comparable sales up 0.4% driven by DIY engagement across project-related categories as well as another quarter of growth in Pro, online and appliances.
+
+As Marvin mentioned, we also lapped storm-related demand, which was a roughly 100 basis point headwind to sales this quarter. While we continue to manage through an uncertain macro environment, we are pleased that we delivered positive comps in 10 of 14 product categories. Monthly comps were up 2.5% in August, up 0.9% in September and down 2.6% in October when storm-related demand was most concentrated last year. For the quarter, comparable average ticket increased 3.4%, driven by ongoing strength in Pro and appliances, mix shift into larger ticket purchases and modest price increases while comparable transactions declined 3%. Gross margin was 34.2% in the quarter, up 50 basis points as we cycle a number of storm-related pressures in the prior year. We also saw improvements in credit revenue and better sell-through of inventory as we drive our SKU rationalization efforts.
+
+Adjusted SG&A was 19.6% of sales, deleveraging 36 basis points as we cycled lower bonus attainment in the prior year and also invested in sales driving actions. Adjusted operating margin rate of 12.4% was up 10 basis points versus prior year and the adjusted effective tax rate of 24% was in line with prior year results. Inventory ended Q3 at $17.2 billion, down approximately $400 million versus prior year. This net decrease also reflects the inclusion of inventory from recent acquisitions of approximately $600 million and higher tariffs. These results were driven by several inventory productivity initiatives across the company as we leverage advanced AI inventory solutions to enhance our demand planning, allocation and replenishment while also driving our SKU rationalization efforts. ADG operating results were accretive to EPS on a non-GAAP basis for the third quarter and pressured operating margin by approximately 15 basis points, in line with expectations.
+
+Turning now to capital allocation. In Q3, we generated $687 million in operating cash flow, inclusive of the payment of federal and state taxes of roughly $900 million that have been deferred under a provision related to Hurricane Helene. Capital expenditures totaled $597 million as we continue to invest in our strategic growth imperatives. In the quarter, we paid $673 million in dividends at $1.20 per share. Adjusted debt to EBITDAR was 3.36x at the end of the quarter after we repaid $1.75 billion in debt maturities and borrowed $7 billion to finance the acquisition of FBM.
+
+The structure of this financing in conjunction with the timing of our existing bond maturities will allow for steady deleverage to our 2.75x target, which is expected by mid-2027. We ended the quarter with $621 million of cash and cash equivalents and delivered a return on invested capital of 26.1%.
+
+Turning to our financial outlook, which we are updating to include our year-to-date results and our expectations for FBM. We are seeing a cautious consumer amid ongoing uncertainty in the macro environment and the timing of an inflection in the home improvement in housing markets remains unclear. We're now expecting comp sales to be roughly flat for the year, which is at the bottom end of our previous guidance.
+
+When we include FBM sales of approximately $1.3 billion in the fourth quarter, we are expecting sales of approximately $86 billion for the year. We also now expect full year adjusted operating margin of approximately 12.1%, which includes 20 basis points of dilution from FBM and ADG. We're expecting adjusted diluted earnings per share of approximately $12.25, which represents a 2% growth over the prior year. Please note that this includes the impact of FBM, which is roughly neutral to adjusted EPS, and we expect capital expenditures of up to $2.5 billion for the year.
+
+On an annualized basis, we expect FBM and ADG to negatively impact consolidated adjusted operating margin by approximately 50 basis points. We are already working collaboratively with the FBM and ADG teams on cross-selling opportunities as we expand the offering for our Pro customers. We've also begun the efforts to extract cost synergies from our overlapping areas of spend.
+
+Taken together, we remain confident that there are compelling long-term EBITDA synergies from both revenue growth and lower operating expense. These investments in our Pro growth initiative, along with the other investments in our Total Home strategy will position us to capitalize on the expected recovery in housing and home improvement and continue to deliver long-term sales growth and shareholder value. And with that, we will open it up for your questions.

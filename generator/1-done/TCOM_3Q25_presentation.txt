@@ -1,0 +1,103 @@
+Trip.com Group Limited (TCOM) Q3 2025 Earnings Call November 17, 2025 7:01 PM EST
+
+Company Participants
+
+Michelle Qi - Senior IR Director
+James Liang - Co-Founder & Executive Chairman
+Jane Sun - CEO & Director
+Xiaofan Wang - CFO & Executive VP
+
+Conference Call Participants
+
+Joyce Ju - BofA Securities, Research Division
+Alex Yao - JPMorgan Chase & Co, Research Division
+Thomas Chong - Jefferies LLC, Research Division
+Yang Liu - Morgan Stanley, Research Division
+John Choi - Daiwa Securities Co. Ltd., Research Division
+Wei Xiong - UBS Investment Bank, Research Division
+Brian Gong - Citigroup Inc., Research Division
+Wei Fang - Mizuho Securities USA LLC, Research Division
+Parash Jain - HSBC Global Investment Research
+Simon Cheung - Goldman Sachs Group, Inc., Research Division
+Ellie Jiang - Macquarie Research
+Qiuting Wang - China International Capital Corporation Limited, Research Division
+
+Presentation
+
+Operator
+
+Good day, and thank you for standing by. Welcome to Trip.com Group Third Quarter 2025 Earnings Call. [Operator Instructions] Please be advised that today's conference is being recorded.
+
+I'd now like to hand the conference over to your first speaker today, Michelle Qi, Senior IR Director. Please go ahead.
+
+Michelle Qi
+Senior IR Director
+
+Thank you. Thank you, all. Good morning, and welcome to Trip.com Group's Third Quarter of 2025 Earnings Conference Call. Joining me today on the call are Mr. James Liang, Executive Chairman of the Board; Ms. Jane Sun, Chief Executive Officer; and Ms. Cindy Wang, Chief Financial Officer.
+
+During this call, we will discuss our future outlook and performance, which are forward-looking statements made under the safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements involve inherent risks and uncertainties. As such, our results may be materially different from the views expressed today. A number of potential risks and uncertainties are outlined in Trip.com Group's public filings with the Securities and Exchange Commission. Trip.com Group does not undertake any obligation to update any forward-looking statements, except as required under applicable law.
+
+James, Jane and Cindy will share our strategy and business updates, operating highlights and financial performance for the third quarter of 2025 as well as outlook for the rest of the year. After the prepared remarks, we will have a Q&A session.
+
+With that, I will turn the call over to James. James, please.
+
+James Liang
+Co-Founder & Executive Chairman
+
+Thank you, Michelle, and thanks, everyone, for joining us on this call today. Travel is thriving and the travel spirit shows no signs of slowing down. In the third quarter, travel demand surged across markets, led by vibrant domestic travel in China and a steady rise in outbound journey. Travelers are exploring with confidence seeking authentic experiences in new horizons, a reflection of their enduring passion for discovery. This growing enthusiasm is mirrored in the performance of our AI-powered tools such as Trip.Planner, whose recent upgrade has fueled a 180% year-over-year surge in unique visits.
+
+Inbound travel continues to play a vital role in fostering international exchange, trade and innovation, generating meaningful economic and cultural benefits. Expanded visa-free entry policies and broader coverage of the 240-hour transit visa exemption have made it easier than ever to visit, bringing the goal of raising inbound travel revenue to 1% to 2% of GDP increasingly within reach. As part of our inbound initiative, Trip.com Group launched Taste of China, an immersive dining experience that allows international visitors to explore Chinese culture through its rich culinary tradition.
+
+We remain optimistic about the future of travel. By leveraging AI innovation and delivering world-class service, we continue to make travel easier, more personalized and more enjoyable for every traveler.
+
+With that, I will turn the call over to Jane for operational highlights.
+
+Jane Sun
+CEO & Director
+
+Thank you, Jane. Good morning, everyone. As a quick overview, our net revenue in Q3 increased by 16% year-over-year, reflecting strong demand across segments during peak travel season. Travel consumption remained robust throughout the summer and the National Day holiday with both domestic and international travel markets showing healthy momentum. This performance underscores travelers' growing desire for diverse, immersive and high quality experiences.
+
+Outbound travel continued to post solid growth in Q3 with our outbound hotel and air bookings growing by close to 20% from last year and reaching about 140% of 2019 volume. Japan, South Korea and Southeast Asian destinations remain the most popular choices, supported by their proximity and visa convenience. At the same time, travelers' radius of exploration continued to expand as more people sought new adventures and richer cultural experiences. This trend was particularly evident during the Golden Week, which was 1 day longer than last year and sparked stronger demand for long-haul trip.
+
+During the holiday, outbound hotel and air bookings surged by around 30% year-over-over reflecting sustained travel enthusiasm. Europe stood out as a key growth region driven by increased flight capacity and travelers appetite for in-depth experiences. Bookings to Iceland and Norway more than doubled year-over-year. Spain, Italy and Germany also grew by approximately 70%. These trends show that travelers are increasingly willing to invest in high-quality travel experiences highlighting strong consumption power and continued confidence in outbound travel.
+
+Domestic travel also remained vibrant fueled by travelers' passion for new and immersive experiences. From cultural discovery to outdoor exploration, the growing diversity of travel demand continues to drive solid market growth. Major cities such as Beijing, Shanghai, Chengdu and Xi'an remained the top choices for their accessibility and offering. Remote regions, including [indiscernible] and Lhasa also grew by nearly 30% as more travelers ventured West to discover unspoiled landscape and rich heritage. At the same time smaller cities are emerging as new favorites for urban residents seeking peace and renewal. Their local charms and slower pace offer refreshing escape from everyday life.
+
+Inbound travel continues to connect the world, bringing travelers from across the globe to experience oriental culture, spark innovation and drive trade. The Asia Pacific region remains the largest source of inbound travelers, with Europe and the U.S. also seeing strong growth. In Q3, inbound travel bookings on our platform grew by over 100%, reflecting robust international demand.
+
+Building on the success of relay over tours in Beijing and Shanghai, we recently launched a free layover experience for travelers at Hong Kong International Airport. Transit travelers with 7 hours or more can book in advance on the Trip.com app or website or on-site at the airport to explore Hong Kong's highlights. For those seeking a deeper adventure, premium tours provide access to landmarks, such as Lantau Island and Victoria Peak. We are making it easier than ever for international visitors to plan, book and enjoy these experiences, aiming to become the go-to platform and trusted hub for travelers from around the world.
+
+On the international front, Trip.com Group continued to deliver strong performance. International bookings on our platform grew by around 60% year-over-year. The Asia Pacific region remains the largest contributor, rising over 50% in Q3. Across all regions, Mobile continues to be a key growth driver, now accounting for over 70% of total bookings. Travelers increasingly rely on our app for one stop on the go experience managing flights, hotels and tours seamlessly combined with high service standards and hassle-free bookings. We offer users great convenience and excellent value, fueling continued growth across markets.
+
+As travel demand expands across borders, it is also diversified across generation. With spending power 3x that of younger travelers, affluent and active seniors are eager to explore and spend on quality travel, reshaping the market from price competition towards a true value creation. In Q3 the number of Old Friends Club members and their total GMV rising over 70%. Trip.com Group is tailoring more products and services for this growing segment. We launched our first Old Friends Club flagship store in Shanghai to connect with senior travelers face-to-face and introduced themed trips designed around their interest. We also formed a dedicated service team of [ chief ] mom and dad officers friendly travel buddies who travel alongside the seniors, offering support and thoughtful care for their needs.
+
+Younger travelers are also shaping new trends in travel, seeking experiences that go beyond the ordinary. In Q3, revenue from this segment grew by triple digit propelled by the rising craze for concerts and live experiences. To meet the growing demand, Trip.com Group announced multiyear strategic partnerships with the world's leading live entertainment company. The collaboration allows fans to plan entertainment trip seamlessly combining exclusive presale access to shows with flights, hotels and curated local experiences to our platform, as entertainment becomes an increasingly powerful driver of travel, these partnerships help fans follow the artists they love while supporting regional tourism and enhancing destination appeal across Asia.
+
+We are also strengthening event booking capabilities through our partnership with Cityline Group, covering Hong Kong and Macau. Users can now effortlessly collect tickets via Cityline extensive self-service kiosk network by connecting online bookings with offline ticketing, the partnership delivers a smooth, hassle-free experience for travelers enjoying large-scale events.
+
+Trip.com Group remains deeply committed to nurturing the broader travel ecosystem and supporting local economic development by promoting travel products around concerts, festivals, and major sports events. We inspire more travelers to explore these destinations, driving overnight stays and spending and turning seasonal excitement into lasting economic impact for local communities. At the same time, we continue to tailor products and services to meet diverse traveler needs. For example, offering Muslim-friendly options, highlighting smart toilets for Japanese users and providing foreign currency exchange for inbound visitors.
+
+To further empower partners and elevate service standards across the industry, Trip.com Group is harnessing technology and AI to help the entire travel ecosystem move forward. Hotels can now overcome language barriers with our AI communication tools that respond to guest inquiries in real time. Our AI content generator and training tools also empower hoteliers to produce engaging content and sharpen their digital skills, helping them connect with international guests and with our updated hotel scoring and page ranking algorithms, we encourage hotels to focus on what truly matters, genuine service and lasting guest satisfaction instead of chasing ratings or ranking.
+
+Together, these efforts help partners stay competitive in a fast-changing landscape and create richer, smoother and more seamless travel experiences for travelers around the world. Travel is a fundamental part of the human experience, and we remain confident in the industry's long-term growth. We will continue to enhance our services and empower the broader ecosystem, driving sustainable growth across the travel industry and the wider economy.
+
+With that, I will now turn the call over to Cindy.
+
+Xiaofan Wang
+CFO & Executive VP
+
+Thanks, Jane. Good morning, everyone. For the third quarter of 2025, Trip.com Group reported a net revenue of RMB 18.3 billion, representing a 16% increase from the same period last year and a 24% increase from the previous quarter, reflecting robust travel demand throughout the summer and the Golden Week holiday. Accommodation reservation revenue for the third quarter was RMB 8.0 billion representing an 18% increase year-over-year and a 29% increase quarter-over-quarter. This was mainly driven by strong momentum in outbound and international hotel bookings along with sustained strength in domestic demand.
+
+Transportation ticketing revenue for the third quarter was RMB 6.3 billion, representing a 12% increase year-over-year and a 17% increase quarter-over-quarter. International air bookings showed robust growth with outbound air bookings continuing to outpace the market.
+
+Packaged tour revenue for the third quarter was RMB 1.6 billion, representing a 3% increase year-over-year and a 49% increase quarter-over-quarter, primarily driven by the expansion of our international offerings, our destination services delivered strong growth with international markets continuing to drive overall expansion.
+
+Corporate travel revenue for the third quarter was RMB 756 million representing a 15% increase year-over-year and a 9% increase quarter-over-quarter. This was driven by more companies adopting our managed corporate travel services. Excluding share-based compensation charges, adjusted product development expenses for the third quarter increased by 12% year-over-year.
+
+Adjusted G&A expenses for the third quarter increased by 6% year-over-year. These were mainly due to increase in personnel-related expenses. Adjusted sales and marketing expenses for the third quarter increased by 26% from the previous quarter and increased by 23% from the same period last year. The sequential increase was primarily driven by broader marketing investments with incremental spend allocated to our international expansion.
+
+Adjusted EBITDA was RMB 6.3 billion for the third quarter compared with RMB 5.7 billion in period last year and RMB 4.9 billion (sic) [ RMB 4.8 billion ] in the previous quarter. Diluted earnings per ordinary share and per ADS were RMB 28.61 or USD 4.02 million for the third quarter of 2025. Excluding share-based compensation charges, and fair value changes of equity securities investments and exchangeable senior notes, non-GAAP diluted earnings per ordinary share and per ADS were RMB 27.56 or USD 3.87 million for the third quarter. Diluted earnings per ordinary share and per ADS for the quarter were elevated primarily due to a onetime gain from the divestment of one of our overseas investments.
+
+As of September 30, 2025, the balance of cash and cash equivalents, restricted cash short-term investment, held-to-maturity time deposits and financial products was and RMB 107.7 billion or USD 15.1 billion. Looking ahead, we are confident in the continued strength of our business and future opportunities. Our disciplined approach to investment and execution will remain central as we focus on sustainable growth and long-term value creation.
+
+With that, operator, please open the line for questions.

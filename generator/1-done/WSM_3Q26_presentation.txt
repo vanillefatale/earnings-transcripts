@@ -1,0 +1,165 @@
+Williams-Sonoma, Inc. (WSM) Q3 2026 Earnings Call November 19, 2025 10:00 AM EST
+
+Company Participants
+
+Jeremy Brooks - Senior VP, Chief Accounting Officer & Head of IR
+Laura Alber - President, CEO & Director
+Jeff Howie - Executive VP & CFO
+Sameer Hassan - Chief Technology & Digital Officer
+
+Conference Call Participants
+
+Maksim Rakhlenko - TD Cowen, Research Division
+Zachary Fadem - Wells Fargo Securities, LLC, Research Division
+Cristina Fernandez - Telsey Advisory Group LLC
+Peter Benedict - Robert W. Baird & Co. Incorporated, Research Division
+Christopher Horvers - JPMorgan Chase & Co, Research Division
+Jonathan Matuszewski - Jefferies LLC, Research Division
+Simeon Gutman - Morgan Stanley, Research Division
+Steven Zaccone - Citigroup Inc., Research Division
+Charles Grom - Gordon Haskett Research Advisors
+Michael Lasser - UBS Investment Bank, Research Division
+Oliver Wintermantel - Evercore ISI Institutional Equities, Research Division
+
+Presentation
+
+Operator
+
+Welcome to the Williams-Sonoma, Inc. Third Quarter Fiscal 2025 Earnings Conference Call. [Operator Instructions] I would now like to turn the call over to Jeremy Brooks, Chief Accounting Officer and Head of Investor Relations. Please go ahead.
+
+Jeremy Brooks
+Senior VP, Chief Accounting Officer & Head of IR
+
+Good morning, and thank you for joining our third quarter earnings call. I'm here today with Laura Alber, our Chief Executive Officer; Jeff Howie, our Chief Financial Officer; and Sameer Hassan, our Chief Technology and Digital Officer.
+
+Before we get started, I'd like to remind you that during this call, we will make forward-looking statements with respect to future events and financial performance, including our updated guidance for fiscal '25 and our long-term outlook.
+
+We believe these statements reflect our best estimates. However, we cannot make any assurances these statements will materialize, and actual results may differ significantly from our expectations. The company undertakes no obligation to publicly update or revise any of these statements to reflect events or circumstances that may arise after today's call.
+
+Additionally, we will refer to certain non-GAAP financial measures. These measures should not be considered replacements for and should be read together with our GAAP results. This call should also be considered in conjunction with our filings with the SEC. Finally, a replay of this call will be available on our Investor Relations website.
+
+Now I'd like to turn the call over to Laura.
+
+Laura Alber
+President, CEO & Director
+
+Thank you, Jeremy. Good morning, everyone, and thank you for joining the call. I'm excited to talk to you about our third quarter. First, I'd like to take a moment to thank our team for their continued hard work. Everyone at Williams-Sonoma Inc. has been focused on our key 3 priorities this year, which are returning to growth, elevating customer service and driving earnings. And that focus continues to drive our results.
+
+We are proud to deliver strong results in the third quarter of 2025 with an accelerating positive top line comp and continued outperformance in our profitability. In Q3, our comp came in above expectations at 4%, driven by another quarter of positive comps across all of our brands, and we continue to deliver on the bottom line despite the substantial tariff headwinds.
+
+Our operating margin came in at 17%, expanding 10 basis points with earnings per share of $1.96, growing 5% year-over-year. We are encouraged by our continued strong year-to-date performance through Q3 and are confident in our outlook for Q4. And therefore, we are reiterating our outlook for the full year comparable brand revenue growth to be in the range of 2% to 5%, and we are raising our bottom line guidance 40 basis points to an operating margin of 17.8% to 18.1% versus 17.4% to 17.8%. We drove this improvement in performance despite continued geopolitical uncertainty and no substantive improvement in the housing market.
+
+And we continue to gain market share and outperform the industry, which declined again in Q3. Our continued strong results reflect the power of our operating model, industry-leading channel experiences and strong portfolio of brands.
+
+We continue to see exceptional performance in our retail channel, which ran a positive 8.5 comp in Q3. Retail continues to benefit from an improved in-store experience with more inventory availability, enhanced design services and events and the opening of 14 beautiful newly remodeled or repositioned stores so far this year with 7 more to come in Q4.
+
+This investment is paying off with almost all of them beating the performance of the prior location. Our stores service brand billboards, and we believe a refreshed store improves customer perception of our brands. As we move into the final quarter of 2025, I want to highlight the specific progress we've made on our 3 key priorities. Starting with growth, our core brands continue to deliver strong results from positive momentum in furniture.
+
+Our focus on innovation has driven strong and improving furniture comps. Additionally, we are focused on incremental growth categories like Pottery Barn Dorm and West Elm Kids. We're also broadening our reach through strategic collaborations. These initiatives attract new customers while keeping our brands fresh and relevant. Our B2B business also remains an important growth engine, up 9% this quarter with strength in both trade and contracts, and our emerging brands, Rejuvenation, Mark and Graham and GreenRow continue to perform exceptionally well.
+
+Together, they delivered a double-digit comp, and we're excited to have recently opened our 13th Rejuvenation store in Salt Lake City. This year, we're also very proud of our improvements in customer service. We are committed to flawless execution delivering orders on time, damage-free every time, and we're proud that this year, we have record metrics. We're focusing on furthering our improvements through fewer split shipments and faster fulfillment.
+
+Finally, our third key priority, driving earnings. Our focus on revenue growth, elevating customer service and maintaining cost discipline has delivered strong earnings with our year-to-date earnings per share growing 5% in a very tough tariff environment.
+
+Also in Q3, we used AI as a key business driver to accelerate our strategy. Across our portfolio, AI-powered chat experiences are now live for all brands, providing customer service, delivery support and product guidance. These agents are improving speed, consistency and satisfaction, and we are now resolving over 60% of chats without human assistance, reducing handle times from 23 minutes to just 5 minutes.
+
+Another notable milestone this quarter was the launch of Olive, our new AI culinary and shopping companion for the Williams-Sonoma brand. Olive helps customers plan, cook and shop with confidence combining our culinary authority with cutting-edge technology to create a differentiated experience. What makes Williams-Sonoma Inc., unique is how AI can amplify our differentiated foundation with our proprietary data, our vertical integration from design to delivery, our multichannel engagement and our expertise in home design in the culinary space.
+
+Our strong balance sheet, coupled with our tech capabilities allows us to apply AI in ways that can drive real scalable impact for our business that others cannot. Looking ahead, we see opportunity to drive down costs and drive up sales with AI, and our early results are reinforcing that confidence. We're using AI to enhance what we do best, guiding customers through shopping and design decisions. Additionally, AI is driving improvements in productivity and empowering associates with tools to amplify their creativity and expertise.
+
+Now I'd like to update you on tariffs. Since we last spoke, there have been notable changes in tariffs, such as a new tariff on some furniture, including imported upholstery kitchen cabinets and bath vanities. And now the 20% additional China tariff are down from 30%. Net-net, these changes are a push to our current estimated impact. As we look forward to the future, predictability in the tariff environment and a reduction in the India tariff would certainly be a positive for us.
+
+In the meantime, we continue to be actively and aggressively mitigating what we can with our previously discussed 6-point plan. To remind you, first, we are obtaining cost concessions from our vendors. Second, we are resourcing goods to get the best cost for our customers. Third, we're identifying further supply chain efficiency. Fourth, we are controlling costs. Fifth, we are expanding our Made in USA assortment, production and partnerships. And last, we are taking select price increases with a focus on maintaining competitive pricing.
+
+Now let's review our brands. Pottery Barn ran a positive 1.3% comp in Q3. We are pleased with the improvement we saw in large ticket, including furniture, upholstery and lighting. Our Pottery Barn stores continue to outperform, led by our standout design crew services and our increased take at-home today assortment.
+
+Our strategy of focusing on improving retail inventory availability, refreshing product assortments and enhancing design services is working. We have opened 6 beautiful new remodels or repositioned Pottery Barn stores so far this year with 3 more to come in Q4. Finally, across the brand, we continue a major change that we have made all year, which is to substantially reduce promotions in Pottery Barn.
+
+Now I'd like to talk to you about our Pottery Barn Children's business, which ran a 4.4% comp in Q3. We saw acceleration in furniture fueled by successful new product launches, continued growth in collaborations and back-to-school and Dorm was a particular highlight in the quarter. In fact, back-to-school delivered double-digit growth, an acceleration from Q2. Our brands have become a destination for high-quality study solutions, durable backpack and on-trend dorm decor.
+
+Additionally, our enhanced dorm design tools and pickup near campus options have been important for gaining share in a very fragmented market. Now let's review West Elm. West Elm ran a positive 3.3% comp in Q3. We continue to make progress against the brand's 4 key pillars: product, brand heat, channel excellence and operational efficiency.
+
+Throughout the year, West Elm has brought in new successful collections in both furniture -- and on Furniture, where the brand was previously underdeveloped. West Elm has significantly shifted the composition of their sales towards new products and the cumulative effect of new introductions since the fall of last year continues to produce results.
+
+Retail in West Elm was also a highlight due to improved in-stocks and more new furniture and more new fabrics displayed on the retail floor. And we've opened 2 beautiful new remodels or repositioned West Elm stores so far this year, with 1 more to come in Q4. To remind everyone, we have 119 stores in West Elm. And based on results, we are looking forward to returning to retail unit growth in this brand. As you can hear, we are quite excited by the momentum at West Elm.
+
+Now let's review the Williams-Sonoma brand, which continues to fire on all fronts and we had a positive 7.3% comp in Q3. Williams-Sonoma remains focused on premium quality products that are expertly crafted combining style and functionality. In Q3, we celebrated many successful culinary stories from the food and flavors of Spain to authentic Indian flavors through a collaboration with Palak Patel, Founder of The Chutney Life. We also recently launched a Wicked collection featuring limited-edition, Le Creuset Dutch ovens inspired by Elphaba and Glinda.
+
+And as we continue to connect our customers to the world's best chefs and products, we are seeing great traction with in-store events. Across the country, we hosted 42 in-store book signing events in Q3. We welcome the fans of celebrities and celebrity chefs like Neil Patrick Harris, David Burke and Melissa King into our stores for amazing cooking demos and cookbook signing.
+
+Finally, we've opened 6 beautiful remodeled or repositioned Williams-Sonoma stores so far this year with 2 more to come in Q4. Now I'd like to update you on B2B, which grew 9% in Q3 with both trade and contract delivering strong comps. Leveraging our design expertise and commercial-grade product assortment, we've built a strong and growing client base across multiple industries. Our B2B offering remains a powerful differentiator, and we are seeing continued momentum. Our biggest success story in Q3 was an increase in commercial workspace wins, including projects with Google, WeWork, TurboTax and PayPal.
+
+Q4 brings the ramp-up of our growing corporate gifting program, including our leading assortment of quality giftables that can be customized with logos and company branding. We're also a destination for seasonal favorites that make a perfect client and employee holiday gift, if any of you need help.
+
+Now I'd like to update you on our emerging brands. With our proven ability to incubate and scale brands in-house, we are confident in the continued growth of our concepts and their ability to deliver profitability to our results. Rejuvenation delivered strong double-digit comps in the quarter, continuing an upward trajectory fueled by product innovation and category expansion. Our high-quality product offer and proprietary designs are resonating with customers.
+
+Both channels are performing well, and we continue to open new retail locations to drive brand awareness. This quarter, we expanded our Rejuvenation store count to 13, with the opening of 2 new storefronts 1 in Nashville and 1 in Salt Lake City. The brand also saw a strong performance from its first ever lighting collaboration. Mark and Graham delivered its best Q3 in brand history, driven by successful new categories, M&G Kids and Bark & Graham as well as continued growth in personalized corporate gifting.
+
+As we head into the peak gifting season, the brand is well positioned with thoughtful, personalized gifts for all occasions. I'm also excited to talk about our newest brand, GreenRow, which delivered strong growth this quarter. In Q3, we launched the largest holiday collection to date with handcrafted decor and gifts made from upcycled and natural materials. The brand's colorful and unique products have had a great response and the product line is incredibly beautiful in person.
+
+Therefore, we believe retail stores are the next leg of growth at GreenRow and are looking to test a few store locations as soon as possible. Finally, I'd like to share one highlight in our global business. In the U.K., we broadened our brand presence with the launch of Pottery Barn Online and the opening of a pop-up store in our West Elm Tottenham Court Road in London. And so far, we're quite pleased with the performance of Pottery Barn in this new market.
+
+In summary, we're pleased with our execution and continued outperformance in Q3 marked by accelerating positive comps and strong profitability. Across the company, we remain dedicated to enhancing our channel experiences and strengthening our brands. Each and every day, we prioritize innovation, product design and exceptional customer service. These are the qualities that set us apart in a fragmented industry and position us to capture additional market share.
+
+We see tremendous opportunity to continue to lead our industry as we execute on our vision to own the home and the places where our customers work, stay and play. As we enter the final quarter of the year, we're filled with optimism for a strong finish. This holiday season, we're ready to showcase our best across our stores and online. From all of us, we wish you and your family a joyful Thanksgiving next week and a happy holiday season.
+
+Before I hand things over to Jeff, I want to take another minute to express our thanks to our team, our vendors and all of our partners for their ongoing dedication and contributions to our company's success. We appreciate everything they do. And with that, I will turn it over to Jeff to walk you through the numbers and our outlook in more detail.
+
+Jeff Howie
+Executive VP & CFO
+
+Thank you, Laura, and good morning, everyone. Our results this quarter reflect Williams-Sonoma, Inc.'s competitive advantages in the home furnishings industry, including the following: the strength of our multi-brand portfolio across different categories, aesthetics and price points. Our size and scale, providing the ability to drive market share gains as we maximize white space opportunities. The competitive advantage of our multichannel platform, serving customers where they choose to shop online, in-store, or business to business.
+
+Our focus on customer service and full price selling, creating efficiency and cost savings across our supply chain. And finally, the power of our operating model to deliver highly profitable earnings. Our headlines for this quarter demonstrate these competitive advantages. We delivered positive comps for the fourth straight quarter. Furniture and nonfurniture categories both ran positive comps, reflecting strength across all categories of our offering.
+
+White space opportunities, such as Dorm, West Elm Kids and Rejuvenation grew double digits. Retail, e-commerce and business-to-business all drove positive comps. Our supply chain team achieved best-ever results across nearly all customer service metrics while simultaneously improving efficiency and reducing costs. And despite the headwinds from tariffs, we drove operating margin expansion of 10 basis points to 17% and EPS growth of 5% to $1.96 per share.
+
+Our results this quarter would not be possible without the team we have at Williams-Sonoma, Inc. I'd like to thank our talented, dedicated team for delivering these outstanding results. Now let's dive into the numbers. I'll start with our Q3 results and then update guidance for fiscal year '25. Q3 net revenue finished at $1.88 billion for a positive 4% comp. All brands delivered positive comps driven by positive comps in both our furniture and nonfurniture categories.
+
+We gained market share in the quarter, even as we increased our penetration of full price selling. From a channel perspective, both channels delivered positive comps, with retail up 8.5% comp and e-commerce, up 1.9% comp. Moving down the income statement. Gross margin exceeded our expectations, coming in at 46.1%, 70 basis points higher than last year. Higher merchandise margins and supply chain efficiencies drove this gross margin improvement, offset by slightly higher occupancy costs.
+
+Merchandise margins delivered 60 basis points of our gross margin improvement, exceeding our expectations. Three factors contributed to this improvement in merchandise margins. First, the impact from tariffs is taking longer than anticipated to flow through to our gross margin. This is due to the delayed effective dates of the tariffs and our aggressive front-loading of inventory before tariff effective dates. Second, we are seeing margin upside from our 6-point tariff mitigation plan, including price increases, as well as strong consumer response to our full-price product offering.
+
+And finally, lower inbound transportation costs are helping offset tariff costs. Supply chain efficiencies added 30 basis points to our gross margin. Our focus on customer service and in-stock ready to sell inventory is delivering tangible margin improvements from lower accommodations, damages, replacements and out-of-market shipping expense.
+
+Occupancy costs were up 5.9% and were 20 basis points higher year-over-year. This was because of our retail outperformance and the higher occupancy costs in that channel. To recap, our gross margin results this quarter exceeded our expectations. Our tariff mitigation efforts more than offset the headwinds from tariffs in the third quarter.
+
+Turning now to SG&A. Our Q3 SG&A ran at 29.1% of revenues, 60 basis points higher than last year. Employment expense deleveraged 50 basis points due to higher incentive compensation from our strong results year-to-date. We continue to manage variable employment costs across our stores, distribution centers and customer care centers in line with top line trends.
+
+Advertising expenses were 20 basis points higher year-over-year. Our in-house marketing team continues to test and optimize into different levels of spend. During the quarter, we increased our investment in digital advertising. After testing and proprietary in-house analytics model indicated we could scale efficiently. The higher spend drove an acceleration in year-over-year site traffic and improved revenue per visit.
+
+Our in-house marketing team's ability to test, scale and optimize across our portfolio of brands is a competitive advantage in the home furnishings industry. Finally, general expenses leveraged 10 basis points. On the bottom line, our earnings exceeded our expectations. Despite the tariff headwinds, our operating margin of 17% was 10 basis points above last year and diluted earnings per share grew 5% year-over-year to $1.96.
+
+On the balance sheet, we ended the quarter with a cash balance of $885 million with no outstanding debt. We generated $316 million in operating cash flow during the quarter and invested $68 million in capital expenditures supporting our long-term growth. During the quarter, we returned $347 million to our shareholders. We did this through $267 million in stock repurchases and $80 million in dividends.
+
+Merchandise inventories stood at $1.5 billion, up 9.6% from last year. Our inventory includes $48 million of incremental tariff costs recorded in inventory as well as $30 million of a strategic pull forward of receipts and lower tariff rates than in effect today. Without this incremental $78 million, our inventory level would be in line with our sales trends. Overall, our inventory levels and composition are well positioned to support our upcoming holiday season.
+
+Summing up our Q3. We're proud to have delivered strong results, even as we navigated a challenging tariff environment and historically low housing turnover.
+
+Now let's turn to our guidance for fiscal year '25. First, some housekeeping. In the first quarter of fiscal year '24, we recorded a $49 million out-of-period adjustment related to prior year's freight accrual. This benefited fiscal year '24 operating margin results by approximately 70 basis points. Our guidance for fiscal year '25 uses our fiscal year '24 results without the out-of-period adjustment as a comparable basis.
+
+Additionally, fiscal year '24 was a 53-week year for Williams-Sonoma, Inc. In fiscal year '25, we will report comps on a 52-week versus 52-week comparable basis. All other year-over-year compares will be 52 weeks versus 53 weeks. On full year '24 results, the additional week contributed 150 basis points to revenue growth and 20 basis points to operating margin. The discrete impact of the additional week on just Q4 '24 was 510 basis points to revenue growth and 60 basis points to operating margin.
+
+Now our guidance. Given our strong Q3 results and our outlook for Q4, we are updating our fiscal year '25 guidance. On the top line, we are reiterating our fiscal year '25 net revenue guidance. We expect full year '25 comps to be in the range of positive 2% to positive 5%, with total net revenues in the range of positive 0.5% to positive 3.5% due to the 53rd week impact from last year.
+
+Our guidance continues to assume no meaningful changes in the macroeconomic environment, or interest rates or housing turnover. Our guide reflects the continued strength in our business, strong customer response to our product lineup and continued traction across our growth initiatives.
+
+On the bottom line, we are raising our full year operating margin guidance 40 basis points to a range of 17.8% to 18.1%. This means that despite the tariff headwinds, we are now guiding the midpoint of our fiscal year '25 operating margin to be approximately 20 basis points above last year when excluding the 53rd week impact.
+
+Our higher operating margin guide reflects both the strong results we have delivered year-to-date and the expectation that tariffs will have a greater impact on our margins in Q4. Our updated guidance reflects all the tariffs in place as of this call. This includes the new Section 232 tariffs on furniture, the revised 20% additional China tariffs, the 50% India tariff, the 20% Vietnam tariff and an average 18% tariff on the rest of the world as well as the 50% steel and aluminum tariffs, and a 50% copper tariff.
+
+In fact, our incremental tariff rate has more than doubled from 14% earlier this year to 29% today, inclusive of all the tariffs I just mentioned. We believe the strength of our operating model, combined with the 6-point mitigation plan Laura outlined enables us to mitigate a large portion of these tariffs, which is embedded in our guidance. It's important to note the tariff policy has been volatile and subject to multiple revisions.
+
+It's hard to say where tariffs will ultimately land and what impact they will have on our business. Our guidance reflects our best estimates of the impact based upon the tariffs in place as of this call. Also today, we are providing some further inputs for modeling purposes. We now expect our full year interest income to be approximately $35 million and our full year effective tax rate to be approximately 26%.
+
+Turning now to capital allocation. Our plans for fiscal year '25 continue to prioritize funding our business operations and investing in long-term growth. We expect to spend between $250 million and $275 million on capital expenditures in fiscal year '25.
+
+We are investing 85% of this capital spend on our e-commerce channel, retail optimization and supply chain efficiency. We remain committed to returning excess cash to our shareholders in the form of increased quarterly dividend payouts and ongoing share repurchases.
+
+For dividends, we will continue to pay our quarterly dividend of $0.66 per share, which is a 16% increase year-over-year. We are proud today that fiscal year '25 is the 16th consecutive year of increased dividend payouts. For share repurchases, we announced today that our Board of Directors approved an additional $1 billion share repurchase authorization, bringing our total authorization to approximately $1.6 billion.
+
+We remain committed to opportunistically repurchasing our stock to provide returns to our shareholders. As we look forward to 2026, we will balance our long-term growth potential with the tariff and macroeconomic landscape, and we will provide guidance in March. As we look further into the future beyond '26, we are reiterating our long-term guidance of mid- to high single-digit revenue growth with operating margins in the mid- to high teens.
+
+Wrapping up Laura's and my comments, we delivered another quarter of strong results despite the headwinds from tariff policy and historically low housing turnover. Our focus remains on our three key priorities: returning to growth, elevating our world-class customer service and driving earnings. We are confident we will continue to outperform our peers and deliver shareholder growth for these 5 reasons.
+
+Our ability to gain market share in the fragmented home furnishings industry, the strength of our in-house proprietary design, the competitive advantage of our digital first but not digital-only channel strategy, the ongoing strength of our growth initiatives and the resilience of our fortress balance sheet. With that, I'll open the call for questions.
