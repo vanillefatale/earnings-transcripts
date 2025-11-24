@@ -12,7 +12,7 @@ from git_utils import git_commit_and_push
 
 def main(output_name):
     #해당 아래 디렉토리에 저장하게 됩니다!
-    quarter_dir = "3Q25"
+    quarter_dir = "2Q25"
 
     pres_filename = f"{output_name}_presentation.txt"
     qna_filename = f"{output_name}_qna.txt"
