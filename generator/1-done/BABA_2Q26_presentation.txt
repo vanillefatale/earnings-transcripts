@@ -1,0 +1,156 @@
+Alibaba Group Holding Limited (BABA) Q2 2026 Earnings Conference Call November 25, 2025 7:30 AM ET
+
+Company Participants
+
+Hong Xu - Chief Financial Officer
+Lydia Lu - Head of Investor Relations
+Yongming Wu - CEO, Head of Core E-Commerce Business & Director
+
+Conference Call Participants
+
+Alex C. Yao - JPMorgan Chase & Co, Research Division
+Alicia Yap - Citigroup Inc., Research Division
+Gary Yu - Morgan Stanley, Research Division
+Kenneth Fong - UBS Investment Bank, Research Division
+Thomas Chong - Jefferies LLC, Research Division
+Yuan Liao - Citic Securities Co., Ltd., Research Division
+
+Operator: Good day, ladies and gentlemen. Thank you for standing by. Welcome to Alibaba
+Group's September quarter 2025 results conference call. At this time, all participants are on
+listen-only mode. After management's prepared remarks, there will be a Q&A session. I would
+now like to turn the call over to Lydia Liu, Head of Investor Relations of Alibaba Group. Please
+go ahead.
+Lydia Liu: Thank you. Good day, everyone. Welcome to our September quarter 2025 earnings
+conference call. With me today from Alibaba are: Zhou Cai, Chairman; Eddie Wu, Chief
+Executive Officer; Toby Xu, Chief Financial Officer; Jiang Fan, Chief Executive Officer of
+Alibaba E-commerce Business Group. I would like to remind you that this call is also being
+webcast on our corporate website. A replay of the call will be available on our website later
+today. Just a few forward-looking statements before we begin today. Today's discussions may
+contain forward-looking statements, particularly statements about our business and financial
+results that are subject to risk and uncertainties, which could cause actual results to differ
+materially from those contained in the forward-looking statements. Please refer to the safe
+harbor statements that appear in our press release and investor presentation provided today.
+Lydia Liu: Please note that certain financial measures that we use on this call are expressed on
+a non-GAAP basis. Our GAAP results and reconciliations of GAAP to non-GAAP measures can
+be found in our earnings press release. With that, I'm going to turn the call over to Eddie.
+Eddie Wu: [Foreign language]
+Eddie Wu: Welcome to Alibaba Group's quarterly earnings call. Over the past quarter, Alibaba
+delivered steady and healthy growth. Our total revenue increased 15% year-over year,
+excluding Sun Art and InTime. Our continued investment in core businesses is yielding results,
+with China e-commerce CMR growing 10% and cloud intelligence revenue rising 34%. Let me
+walk you through the latest developments across our AI+ cloud and consumption businesses.
+Sustained strong demand for AI and rising usage of public cloud drove Alibaba Cloud's 34%
+revenue growth this quarter, while revenue from external customers accelerated by 29%.
+AI-related products continued to post triple-digit year-over-year growth for the ninth
+consecutive quarter. In the cloud computing market, two major trends are becoming
+increasingly apparent. First, as AI applications scale, more developers and enterprise
+customers are choosing vendors with full-stack AI technology portfolios.
+Eddie Wu: Second, customers are deepening and broadening their use of AI, which is
+significantly increasing demand for compute, storage, and other traditional cloud services.
+Together, these forces are accelerating revenue growth driven by external customer demand.
+This quarter, we continued to strengthen our full-stack AI capabilities, spanning
+high-performance AI infrastructure, foundation models, and AI development frameworks. Our
+flagship model, QN3 Max, ranks among the global leaders in benchmarks for real-world coding
+tasks, agent tool use capabilities, and other specialized evaluations. Our full-stack AI
+capabilities are now a defining competitive advantage. Alibaba Cloud is gaining market share
+across multiple segments. In the hybrid cloud market, Alibaba Cloud has become a key player,
+growing more than 20% year-over-year, outpacing the industry and steadily expanding market
+share. Our financial cloud business is also growing faster than the market, with market share
+continuing to rise.
+Eddie Wu: In China's AI cloud market, we're also the clear leader, with a market share larger
+than the combined total of the second to fourth largest providers. Recently, businesses such as
+the NBA, Marriott, China UnionPay, and Bosch have partnered with Alibaba Cloud on AI
+initiatives. Last week, we officially launched the QN app, which aims to be the most advanced
+personal AI assistant powered by our latest models. In the first week of its public beta, the QN
+app has already surpassed 10 million in new downloads. The launch of the QN app marks
+Alibaba's commitment to both AI for enterprise and AI for consumer. In enterprise-focused AI,
+our goal is to build a world-leading full-stack AI provider serving businesses across all
+industries. For consumers, we aim to build native AI-first applications by leveraging our
+best-in-class models and Alibaba's extensive ecosystem.
+Eddie Wu: On the one hand, QN3 Max's intelligence and world-class tool use capabilities,
+combined with Alibaba's rich consumer and lifestyle use cases, contributed to exceptional user
+retention in the QN app's beta release. We believe this is the right moment to scale our
+consumer AI efforts. On the other hand, the synergy between AI and the broader Alibaba
+ecosystem is a powerful multiplier. Alibaba is the only company in China with both a leading
+large model and extensive lifestyle and commerce use cases. QN will gradually integrate
+e-commerce, map navigation, local services, and more, becoming an AI-powered entry point for
+everyday life. With AI innovation and ecosystem collaboration reinforcing each other, we're
+confident in our ability to deliver substantial user value. In consumption, we continue to
+deepen collaboration across businesses, and the benefits of our large integrated platform are
+becoming increasingly evident. This quarter, China e-commerce CMR grew 10%.
+Eddie Wu: Our quick commerce business saw significant improvement in unit economics, with
+greater fulfillment efficiency, stronger user retention, higher average order value, and
+expanding scale. The growth of quick commerce business contributed to rapid growth in
+Taobao App's monthly active consumers and supported CMR expansion. Brands on Tmall are
+also accelerating their adoption of on-demand retail. As of October 31, approximately 3,500
+brands on Tmall have onboarded their offline stores to our quick commerce business. Going
+forward, we will further enhance synergy between quick commerce and the broader Alibaba
+ecosystem, continue improving unit economics, and meet consumers' fast-growing demand for
+immediate access to diverse products and services. On October 1, AMAP's daily active users
+reached a historical high of 360 million. In September, we launched the AMAP Street Stars
+feature, which has significantly boosted user engagement.
+Eddie Wu: In October, AMAP Street Stars averaged more than 70 million daily active users, with
+average daily user reviews more than triple the amount of the same period last year, indicating
+strong future growth potential. AMAP Street Stars has built a trust-based rating system for
+local offline services using user-consented metrics, such as the user's credit rating. We believe
+that enhancing consumer trust is essential to strengthening consumer confidence, enabling
+merchants to focus on operations while giving consumers greater peace of mind, supporting
+the healthy and sustainable growth of the local offline services sector. Looking ahead, we'll
+continue investing decisively in our two core strategic pillars: AI+ cloud and consumption. We
+will advance both enterprise and consumer-focused AI, unlock deeper synergies across
+Alibaba's businesses, and use these engines to drive Alibaba's long-term growth and carry the
+company to the next level. Thank you. I will now hand over to Toby.
+Toby Xu: Thank you, Eddie. We are continuing our focus and discipline on AI+ cloud and
+consumption, and we see strong momentum from these strategies with gains in technology,
+market share, consumers, and user engagement. Now, let's look at the financial results. On a
+consolidated basis, total revenue was RMB 247.8 billion. Excluding revenue from Sun Art and
+InTime, revenue on a like-for-like basis would have grown by 15% year over year. Total
+Adjusted EBITDA decreased to 78%, primarily due to our strategic investments in quick
+commerce business to grow its user base and transaction volume, partly offset by double-digit
+revenue growth in China e-commerce group and cloud intelligence group, and improved
+operating efficiencies across various businesses, including AIDC and Hujing DME. Our GAAP
+net income was RMB 20.6 billion, a decrease of 53%, primarily attributable to the decrease in
+income from operations.
+Toby Xu: Operating cash flow was RMB 10.1 billion, a decrease of RMB 21.3 billion compared to
+the same quarter last year. The year-over-year decrease was mainly attributed to our increased
+strategic investments in quick commerce business. Free cash flow was an outflow of RMB 21.8
+billion, which reflected our significant investments in quick commerce business and AI+ cloud
+infrastructure. We are reinvesting our free cash flow to create a winning quick commerce
+business and to be a leader in AI. Our strong balance sheet, backed by $41 billion in net cash,
+gives us confidence for this reinvestment strategy. Revenue from Alibaba China e-commerce
+group was RMB 132.6 billion, an increase of 16%. Customer management revenue increased by
+10%, primarily due to the improvement of take rate, which benefited from the increasing
+penetration of Chen Zhan Tui and the addition of software service fees.
+Toby Xu: Revenue from our quick commerce business increased 60%. During the quarter, we
+executed our plan to grow the scale of our quick commerce business, improve user experience,
+and narrow UE loss. The Adjusted EBITDA from Alibaba China e-commerce group was RMB
+10.5 billion. Excluding loss from our quick commerce business, our Alibaba China e-commerce
+group EBITDA would have grown at mid-single-digit year-over-year for the quarter. Going
+forward, this adjusted EBITDA may fluctuate quarter over quarter due to intense competition
+and a significant investment in user experience. Revenue from AIDC grew 10%. AliExpress, in
+particular, has developed its AliExpress Direct model that leverages local inventories in over 30
+countries. AliExpress has also enhanced the range of our product offerings by launching the
+Brand Plus program, providing go-to-market solutions to Chinese brands going overseas.
+Toby Xu: A combination of logistics optimization and investment efficiency enhancement
+resulted in AIDC's Adjusted EBITDA profit of RMB 162 million this quarter. Looking ahead,
+while we continue to enhance operating efficiency, AIDC Adjusted EBITDA may fluctuate
+quarter-over-quarter due to tactical investments in select markets. Our cloud business
+delivered another quarter of accelerated growth, as both growth of cloud segment revenue and
+revenue from external customers accelerated to 34% and 29%, respectively. This momentum
+was primarily driven by public cloud revenue growth, including the increasing adoption of
+AI-related products. AI-related product revenue continued to grow at triple-digit pace. AI-related
+product revenue this quarter accounted for over 20% of revenue from external customers, with
+its contribution continuing to increase. We are seeing accelerated adoption of our AI products
+across a broader range of enterprise customers, with a growing focus on value-added
+applications, including coding assistants.
+Toby Xu: The Adjusted EBITDA margin remained relatively stable at 9%. We will continue to
+invest in customer growth and technology innovation to increase adoption of AI infrastructure
+cloud and strengthen our market leadership. All other segment revenue was a decrease by
+25%, mainly due to the disposal of Sun Art and Intime businesses. All others Adjusted EBITDA
+was a loss of RMB 3.4 billion, primarily due to the increased investment in technology
+businesses, partly offset by the improving operating results of other businesses. Hujing DME
+has achieved profitability for three consecutive quarters. The all other segment comprises a set
+of innovative initiatives, including several strategic AI-driven technology infrastructure and
+businesses, including our foundation model and AI apps. We are excited to continue investing
+in these initiatives for future growth. Thank you. That's the end of our prepared remarks. We
+can open up for Q&A.
