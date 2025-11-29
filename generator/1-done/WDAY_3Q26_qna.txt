@@ -1,0 +1,257 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question is from Mark Murphy with JPMorgan.
+
+Mark Murphy
+JPMorgan Chase & Co, Research Division
+
+And I'll add my congrats on a very nice performance. Carl, we're hearing some feedback that the venture-backed vibe coding startups have started seeing a slowdown or at least as some of them have or elevated churn. And it's happening because companies are finding it's pretty difficult to operationalize them and put them into production use. I'm wondering if you're seeing any signs of some of that novelty wearing off for this third-party vibe coating products. And if so, do you see any accelerated adoption of Workday Extend where presumably, they'd have all the security and all the other infrastructure already in place?
+
+Carl Eschenbach
+CEO & Director
+
+Yes. Mark, thanks for the question. And before I answer, I just wanted to say the following. Q3, Mark, was another solid quarter for Workday reflecting in the strength. And as I always like to say, the diversity and durability of our business. Our customers are seeing clear ROI from Workday, and they're engaging more than ever, and we had more than 1 billion AI actions year-to-date and it's only growing faster and faster. We feel really good about the momentum of the business as we head into Q4 and into FY '27. And I'm truly grateful for all the work, both our partners and our workmates have done to get us to this point in the year. It's been a really good year for us so far.
+
+And Mark, I really appreciate your question. It's similar to what Kash asked last quarter when you talked about all of this potential disruption coming from these AI start-ups to more mature and larger SaaS companies like Workday. And at the time, I said, I thought it was a completely overblown narrative, and I thought it was flat out wrong. And quite frankly, fast forwarding 90 days, I think that's playing out exactly like we thought it would. When I spend time with CXOs around the world that both customers and prospects they talk about 3 things that's hindering or slowing down enterprise adoption of AI: It is data quality; it's data integrity; and its security. And by the way, none of these are an issue for Workday. As you know, we have one of the largest and cleanest and most highly curated data sets for HR and finance in the industry. No questions asked. And we have the security compliance and controls in place because today, we onboard a large portion of the world's workforce, and we can apply those same process and procedures to your workforce in the future, both human and digital. And when we spend time with our customers, while maybe they're enamored with these point solutions, they're ultimately coming back to the vendors they trust, who have been in their infrastructure for a long time, has that data set and drives real business outcomes. The narrative we've been hearing in the last couple of quarters is changing, and it's coming back to those who are highly penetrated in the enterprise, already providing value and are deeply trusted by our customers. So I agree with what you're seeing. We're seeing it. We're hearing it and it's reflected in customers continuing to bet on Workday for their future.
+
+Operator
+
+Our next question is from Kirk Materne with Evercore ISI.
+
+S. Kirk Materne
+Evercore ISI Institutional Equities, Research Division
+
+Congrats on the solid quarter. Carl, the other narrative that often comes up these days is clients see a big customer laying off people. And I know you guys commented that your customers are growing, headcount slowly right now. What are the mechanisms that you guys have if a customer were to have to lay off people to be able to keep growing ACV with them? Obviously, cross-sell, upsell, are there discounts that go away? I just -- can you just explain that a little bit? Because I think people believe there's sort of a linear relationship between a number of -- on a per seat basis. And I realize it's probably a little bit more complicated that, especially at the high end of your business.
+
+Carl Eschenbach
+CEO & Director
+
+Thanks, Kirk. I appreciate the question. And yes, in my prepared remarks, I once again want to articulate and share that on a net basis, the head count of our customer base is up year-over-year. So while there are some layoffs out there, we're still growing head count across our customer base. And what we're doing, you said it, we are selling back into our base, and we're focused not on just seats, but actually revenue per seat. And what we have now more than ever is we have a whole bunch of new solutions, both organically innovative solutions and solutions that we got through acquisition that we're selling back into our customer base, whether it's Evisort, whether it's HiredScore, now it's Sana, now it's Paradox, now it's Flowwise. We have so much more to sell back into our customer base and that drives strength for us and offset any potential impact we might see from head count reductions in our customers. Also, our customers do true-ups with us both annually on their headcount. And we do have floors and minimums that the customer can bring their headcount down, and that gives us some protection. But overall, we're still seeing growth in headcount year-over-year. And we're selling just a lot more back into our customer base because they're betting on our platform, and they're using us as a consolidation platform across all of their point solutions to drive a better total cost of ownership.
+
+Zane Rowe
+Chief Financial Officer
+
+Kirk, I'd just add, if you look at the aggregate, it is a net positive, but it's not a significant amount of our growth. So there are lots of elements, as Carl alluded to, that go into that growth number, and this is just one of them.
+
+Operator
+
+Our next question is from Keith Weiss with Morgan Stanley.
+
+Keith Weiss
+Morgan Stanley, Research Division
+
+Congratulations on the solid quarter. I wanted to ask about some of the early success you guys are seeing with your AI solutions. Carl, I think on the call, you said 1.5 points of growth in ARR already coming from the AI solutions. Can you give us any rules of thumb that you're starting to see that could help us maybe model this out a little bit in terms of what type of uplift do you see on a typical deal or for a typical customer when they're buying the AI solutions? Or how broad is this? Like what percentage of your customer base has already bought into the solutions and how far do we have to go? Just something to help us extrapolate that early success into what this might look like in a year from now or 2 years from now?
+
+Carl Eschenbach
+CEO & Director
+
+Yes. Thanks for the question, Keith. And we gave some of the statistics at FAD just 90 days ago. That's why we called out again this quarter. Our AI solutions are adding 1.5 points of growth to our ARR, and we're also trying to give you some color specifically on the strength of our AI solution. So for example, 75% of our new sales included in AI solution, 35% of our sales back to our customer base includes AI. So we're seeing really good traction, and we're seeing really good early indications of demand from some of our acquired companies like Sana and Paradox. So overall, our AI momentum is strong, if not stronger than ever, and it's being reflected in how our customers are buying our product, both at time of new sales as well as our ability to sell back into our customer base. So I couldn't be more excited about where we're at. Things like Evisort had a record quarter. We're seeing an acceleration in growth in Evisort. In Extend Pro, we call that out. It once again grew 50% year-over-year. And then when we sell back into our customers, for example, when we sell something like a higher score recruiting agent, it's a significant uptick over what we would sell our standard recruiting SKU for.
+
+Keith Weiss
+Morgan Stanley, Research Division
+
+Got it. Any sense on how much of an uplift it is versus the standard?
+
+Carl Eschenbach
+CEO & Director
+
+Yes. On, for example, on HiredScore, for every dollar of recruiting we sell, we sell about $2.50 of HiredScore on top of it.
+
+Operator
+
+Our next question is from Michael Turrin with Wells Fargo.
+
+Michael Turrin
+Wells Fargo Securities, LLC, Research Division
+
+I appreciate you asking -- I appreciate you taking the question and congrats on the results as well. I guess just a 2-parter for me. I guess first, just -- I wanted to zoom in on some of the early feedback around Paradox and Sana. Just what you're hearing from customers coming out of rising? And if that can help the Workday business model continue to evolve towards just some of the questions around AI and agentic capabilities that you're offering alongside the Flex Credits program.
+
+And then, Zane, maybe just coming out of Rising,, an update on how you're thinking about the trade-offs between growth and margin given some of the recent additions in the product portfolio and some of that feedback there as well.
+
+Carl Eschenbach
+CEO & Director
+
+Yes. So maybe I'll start, and then I'll kick it over to both Gerrit and Zane specifically to follow up on the questions. So first, as you know, we've closed the Paradox acquisition in October. And within 2 weeks, we were already off and selling it. And it had a small impact in the quarter, a few million dollars over a 2-week period just by our sales force going out and selling that into the market. I will tell you, coming out of Rising EMEA. The demand and excitement for Paradox and being a Workday product and selling it on our paper was very, very strong. On Sana, similar feedback from our customers. They see this as an extremely powerful AI solution across multiple dimensions, starting with Learning. We can now sell their AI learning platform back into and on top of our 4,000 customers that have Workday Learning today. And then obviously, we're going to refresh our UI/UX, leveraging the Sana platform going forward. So the early indications, specifically on these 2 recent acquired companies is as strong as anything we've seen when we acquire a company? And maybe, Gerrit, you can talk specifically about Sana because that one is off the charts right now from a demand and from an excitement from our customers.
+
+Gerrit Kazmaier
+President of Product & Technology
+
+Yes. And as Carl has said, we are seeing tremendous interest around the 3 main vectors of Sana. One, as Carl has said, it's the leading AI learning platform. So very natural for us to bring this to our customers, of which we have a very scaled base of Workday Learning customers, which are using Sana and are excited about Sana as a learning AI experience platform on top of that, very natural, very immediate interest. And secondly, what Carl has mentioned, Sana is also now being developed into the leading UI experience for Workday. So you can think about a complete conversational experience around the Workday platform. Workday being the innovation leader and our customers are tremendously excited about the massive simplification that brings to them. And if you imagine every employee having access to HR and finance AI at scale. What that means in cost reduction. On the other side, you can see what drives that interest. And thirdly, Sana goes much more beyond that. And I would recommend you look at the big picture with also Pipedream, adding 3,000 connectors to the Sana platform, which now allows our customers to take Sana knowledge management actions in Workday and the actions that Pipedream adds to really drive enterprise-wide AI transformation with that model. And we see very strong customer interest across all of those 3 vectors.
+
+Zane Rowe
+Chief Financial Officer
+
+Michael, this is Zane. I'll just add. As you can hear between Carl and Gerrit, we're thrilled with the early success that we're seeing from both Paradox and Sana. So as it relates to our financial framework, I'd say no change at all. We continue to invest in AI, both organically and inorganically and are pleased with the investments we're making there and at the same time, recognizing the efficiencies and scale that we're driving across the business. So we're still driving that within the framework and very pleased with the progress we're making there.
+
+Operator
+
+Our next question is from Brent Thill with Jefferies.
+
+Brent Thill
+Jefferies LLC, Research Division
+
+Just with Paradox. I know that SAP and other ERP installed bases are using that. Is your vision that you can sell this anywhere that you're going to be agnostic to whatever platform is running in the back? How are you thinking about that from a go-to-market?
+
+Carl Eschenbach
+CEO & Director
+
+Yes. Thanks, Brent. We are super excited about the go-to-market capabilities we have around Paradox. Number one, we can sell it back into our customers, right, as an attachment to our already strong recruiting platform including something like HiredScore. Now we have Paradox. So we have the industry-leading AI recruiting platform out there today. At the same time, this is now a new product that is a land-only product for our sales force who can now go and sell Paradox not only on top of Workday or back into our installed base, but also into our competitors' environment. In fact, a significant portion of their existing customers aren't Workday today. And we're going to continue to leverage that go-to-market model, so it gives us another land product without someone having to decide completely on Workday, HR or finance, they can go just with Paradox. And I've seen that come up multiple times just in the first 60 days of us having this great asset.
+
+Brent Thill
+Jefferies LLC, Research Division
+
+Okay. Zane, real quick, just on cRPO. Is there anything to consider in the guide that you're maybe highlighting as a headwind, tailwind? Any change to how you're thinking about that in terms of how we should think about modeling it?
+
+Zane Rowe
+Chief Financial Officer
+
+No. I mean I think it's fairly clean, Brent. I mean obviously, we feel good about what we saw in the third quarter. I mentioned that Paradox was over 1 point of that. we feel very confident. I mean, obviously, as always, cRPO, the number of factors, both the net new business as well as renewal activity and just the volume that you get in any particular quarter. So we think we've got great strength heading into the fourth quarter. We've got terrific coverage on our expected subscription growth heading into next year, which I alluded to as you think about even between the fourth quarter and the first quarter. So no, we feel good about the cRPO growth as well as the coverage. So net-net, we feel good even on a sequential basis. I did call out how much of that was [ Sana ] as well, which is a very small impact on revenue for the fourth quarter.
+
+Operator
+
+Our next question is from Karl Keirstead with UBS.
+
+Karl Keirstead
+UBS Investment Bank, Research Division
+
+Maybe we can just continue that conversation. So if we try to take your 4Q cRPO 15% to 16% and normalize it by deducting maybe some of the onetime stuff. So just so I've got the thinking right, maybe 1 point year-over-year from the tenant contracts, maybe 1 point year-over-year from Paradox and 1/4 from Sana. So maybe 2.25 points from more unusual stuff to back out to get to more normalized. Is that roughly the right math?
+
+Zane Rowe
+Chief Financial Officer
+
+Yes, Karl, I mean, there are lots of things you can sort of move around within that cRPO growth. I mean I think you've got it, it sort of generally in line. But again, there are other variables within the timing on renewal activity and things like that. One other call out I'll make, if you're trying to understand sort of those components between the organic and the inorganic component in the fourth quarter is, I'd say, that both Sana and Paradox contribute roughly 1.5 points to our Q4 subscription revenue growth. So just to help you contextualize that. I mean, as I mentioned, in my prepared remarks, absent Sana, we believe our Q4 was consistent with our view just a quarter ago. So we feel great about the activity there. But that helps you understand sort of the components of Q4 and the cRPO growth heading into the quarter and into next year.
+
+Karl Keirstead
+UBS Investment Bank, Research Division
+
+Okay. And maybe just in the spirit of a follow-up on 4Q, this time on [indiscernible], it sounds like it's embedding a view of reaching those DIA go-live milestones. I'm assuming that given that there's just 2 months left in the fiscal year, you and Carl are feeling pretty good about that. Obviously, the shutdown, I suspect didn't help, but can you just maybe express confidence level in hitting those DIA go-lives?
+
+Zane Rowe
+Chief Financial Officer
+
+Yes, it's a great call out. We're highly confident. Just to give you a sense of size on that one, it's a roughly $15 million in the fourth quarter. We feel great about the progress we've been making all year. We're tracking it very closely, and it's embedded in our forecast in -- for the fourth quarter.
+
+Carl Eschenbach
+CEO & Director
+
+Yes. Yes, Karl, we're tracking really well towards the contract requirements that give us that $15 million in Q4, and we're already talking to them about an expansion of taking that platform to the next level, which opens up a whole bunch of different opportunities across a broader Department of Defense or Department of War. We're really excited about the momentum we're seeing with the federal government in this DIA project or the first phase of it is really openings up to a great opportunity going forward. And as I said, we're already negotiating a follow-on to take that platform to the next level with further security requirements they're asking us for.
+
+Operator
+
+Our next question is from Brad Sills with Bank of America.
+
+Bradley Sills
+BofA Securities, Research Division
+
+It's clear from all the announcements and what we saw out of the conference was that you're really going forward with AI, the Sana acquisition, Paradox, more recently, Pipedream, that partnership with Microsoft. I mean, how should we read that? Should we think of this as kind of a year where you're building the foundation for AI and agents and that 1.5 points of growth coming from AI goes materially higher, perhaps in fiscal '28? Or is this more of a '27 event just given where you are with all the great innovation that you're kind of bringing together and the time it might take for that to kind of sink into the sales cycle and pipelines?
+
+Carl Eschenbach
+CEO & Director
+
+Yes. Thanks for the question, Brad. I'm going to turn it over to Gerrit to give some color, and then I'll talk about in the context of growth.
+
+Gerrit Kazmaier
+President of Product & Technology
+
+Yes. So I think, first of all, for us, this is a continuation. As Carl has said, we have 1.4 billion AI actions already in production in the Workday platform today. So we have been doing this at Workday extremely successfully. And now we are just taking the next steps and leading AI technology to help our customers become truly AI-driven enterprises. And specifically, the vectors of our innovation is with Paradox and in a bigger picture frontline, fully bringing AI automation to the entire hiring journey. If you put that together with our recruiting agent, Paradox as a candidate engagement agent in connection with each other, it basically builds the AI-driven talent suite. What they're doing with Sana is we're acquiring leading knowledge management and a leading agent orchestrator to be the AI experience layer across Workday. So very important, when we think about adoption that our conviction is, AI is going to be the new UI and that all of the legacy vendors who are not having leading experiences are going to get relocated through that. And thirdly, what you mentioned about Pipedream, right? Our ambition and our customers' requirements are actually taking us much broader than Workday is in finance and HR and really looking for enterprise-wide orchestration. We think about it as an enterprise AI fabric that we are creating through Pipedream, with Sana, as the experience layer on top, built on top of Workday's business process platform.
+
+Carl Eschenbach
+CEO & Director
+
+Yes, Brad, the only color I'd add there is, clearly, we're going all in on AI, and it's for the following reason. We're uniquely positioned versus everyone else out there today. We have the data, right? We have the context of the data, and we're built in the business workflow. And our customers are saying, time and time again, they no longer want to even evaluate point AI solutions. They want to do it on the back of a trusted platform. Therefore, we go when we get something like Paradox, we get Pipedream, we get Sana, last year, Evisort. Before that, we get HiredScore. And it's not just our customers who are saying they believe in our platform, it's partners. To your point, we're partnering with Microsoft. So as they start to build agents, they see the most secure, reliable and trusted way to onboard their agents is through Workday and our Agent System of Record because no one has more experience in onboarding employees Workday and now we're taking that to the digital worker as well.
+
+Operator
+
+Our next question is from Brad Zelnick with Deutsche Bank.
+
+Brad Zelnick
+Deutsche Bank AG, Research Division
+
+Great. Brad, following Brad. Congrats guys on a good quarter and thanks for taking the question. My question is about Workday GO, where we continue to hear really good things, particularly in ME and emerging enterprise. So it was interesting to see it soon to be more broadly available. Perhaps looking at AI from a different angle, is there anything different Workday needs to deliver from an AI product perspective for downmarket customer versus large enterprise?
+
+Carl Eschenbach
+CEO & Director
+
+Yes. Let me have Gerrit take that, and then I'll talk more about Workday GO and the big announcement we had at Rising EMEA last week.
+
+Gerrit Kazmaier
+President of Product & Technology
+
+Yes. And specifically, the AI side, Brad, there are 2 things to consider, right? One is that also medium-sized companies want to benefit from the best AI. So of course, they're going to get the full power of Workday's AI agents also delivered in Workday GO. That's the first part, very important. And secondly, we are specifically innovating around Workday GO with specific AI models. Think about the whole configuration, administration, management of the system, set up complexity. We are working and announced a new deployment agent, which already is slashing deployment time and complexity down by a significant degree. It's a key investment theme for us. And just connecting it back to the broader partner network, specifically with Workday GO to new managed services like payroll, we are working on payroll AI that is securely being connected into our ASO with our partners that are providing these services to also drive payroll automation, payroll simplification, benefits management across the Workday GO global partner network. And that's specifically being created all from that angle to make the mid-market customer run at the scale of Workday, but with unmatched simplicity.
+
+Carl Eschenbach
+CEO & Director
+
+Yes. And Brad, we announced Workday GO, as I call it, 2.0 last week at EMEA Rising. And I will tell you, to Gerrit's point, the feedback was unbelievable with 3 key components to it. We now offer Global Payroll, if a customer wants it, by the way. If they don't want to use a managed Global Payroll service from Workday, they can bring their own payroll. We have a partner network that's going to help us take Workday GO to the market around the world and resell it on our behalf, and then we have that AI deployment agent. Also included in Workday GO is a payroll agent to help people simplify how they're managing their payroll activity across the enterprise. Workday GO, I will tell you, is on fire. People are excited about it, and people are leaning into Workday down market as we aggressively go attack that market segment around the world.
+
+Operator
+
+Our next question is from Alex Zukin with Wolfe Research.
+
+Aleksandr Zukin
+Wolfe Research, LLC
+
+Maybe just a quick 2-parter. Carl, first for you. When you think about the commentary for next year, it's great to hear about the kind of reiterating the confidence and the growth rate of 13%. But since Analyst Day, is there anything that maybe you've seen that gives you even more confidence when you're talking with customers around things like budgets or their demand environments as we head into 2026 or propensity to allocate more from the AI budget specifically to Workday that you could kind of comment on that gives you that confidence?
+
+Carl Eschenbach
+CEO & Director
+
+Yes. Thanks, Alex, for the question. As Zane said in his prepared remarks, we feel really good about our midterm guide that we laid out for next year. And we think the approximate 13% guide on subscription revenue next year is solid. That being said, we feel really good about all the acquired companies and the momentum we're seeing early on with them as well as the organic innovation that we have coming out of our super strong product and technology organization. We haven't even talked about it, but we're also entering new markets like we've done in the last couple of years in the federal market here in the U.S. taking that to the public sector around the world. We announced entrance into the Middle East. And next week, we have a strong team led by Rob, our President of Customer Operations, going and launching our efforts in India. So we're really excited about all the growth vectors that we have going into next year as well as all the momentum we have around our AI solutions, both organic solutions and these inorganic solutions that we're getting through M&A.
+
+Aleksandr Zukin
+Wolfe Research, LLC
+
+Perfect. And then maybe just, Zane, as a follow-up, if we think about next year's guide that 13%, and the acquisitions that you've made over the last couple of months. A, kind of how much do we think kind of comes from inorganic there? And then the pace of M&A, are we kind of through -- like should we think about this pace continuing at kind of current course and speed of these exciting technology tuck-ins? Is -- or do you need to digest the ones that you've made here over the course of the next few weeks, months, quarters?
+
+Zane Rowe
+Chief Financial Officer
+
+Sure. Yes. Look, I'll start with -- as we think about the acquired revenue, I mean, first off, as you know and as you can see here, when we acquire companies, they quickly become part of the broader portfolio. If you look at the acquired revenue, I'd say it probably contributes approximately 1 point into next year. But as you can tell, there's a lot more that we're doing around it and the whole portfolio benefits. So it's more -- there's significant synergy, if you want to think about it more broadly. But on the acquired revenue, I'd call it sort of roughly 1 point heading into next year. And then we have a high bar on M&A. And as we've talked about all along. I mean, we've kept consistent and think about the technology, the culture the people and how they integrate either -- whether it's through adjacencies or tuck-ins for different reasons. So I'd say no change in how we think about that and no change in how we incorporate that inorganic growth.
+
+Operator
+
+Our next question is from Raimo Lenschow with Barclays.
+
+Raimo Lenschow
+Barclays Bank PLC, Research Division
+
+International is a big kind of driver for you. And you mentioned a little bit of that, but like if I look at the growth rate, there's not that much difference between U.S. and international. Can you talk a little bit what you saw in the quarter? And maybe there was more on the pipeline build, et cetera.
+
+Carl Eschenbach
+CEO & Director
+
+Yes. Thanks, Raimo. I hope you're well. So yes, we were really pleased with our international performance. And when I say international performance, it's across the 3 major regions that we describe as international. Europe, APAC and Japan. All 3 of those markets had a really good quarter for us. We've historically been talking about our performance in Europe when we talked about our international results. But this quarter, we're talking about it in the context of Europe, APAC and Japan because all 3 delivered solid results in the quarter. I think that's driven by 2 things. Number one, on the product side, we continue to internationalize and localize our product to serve all of these markets. Number two, we're leveraging a strong network of partners out there around the world to enter these markets. And the third is we continue to attract great talent to lead our Workday efforts around the world. The international market had great results and we expect that momentum to continue as we see customers more and more lean into Workday for their platform of choice across HR and finance.
+
+Operator
+
+Our last question is from Kash Rangan with Goldman Sachs.
+
+Kasthuri Rangan
+Goldman Sachs Group, Inc., Research Division
+
+Last question, and it is my last Workday earnings call as well, so fitting. So congrats on the Q3 results, Carl and Zane. I wonder -- it's clear that you guys are seeing a bit of -- quite a bit of AI momentum, right? And I agree with you, the AI disruption risk seems to be little overstated. But I think we can look at the numbers and say that AI, there is some tangible contribution. Your backlog, 12-month backlog growth rate, although it did include some acquisitions, it did do a little better. And these acquisitions if you [indiscernible] they are growing very nicely, that should lead to an acceleration in the organic growth here as well. But that effect conceptually, you put your thinking hands off -- your thinking hats on -- sorry, down with the flu, a little too [indiscernible]. If you were to rebuild a company on an AI native stack, an HCM company AI native stack today, what would that functionality be able to do? That is what would that stack be able to do that could be disruptive that you can do as a Workday customer with the tools that Workday is providing, be it organically or through these combinations of acquisition?
+
+Carl Eschenbach
+CEO & Director
+
+Kash, thanks for the question. And let me say thank you. Going all the way back to our founders, David and Neil and all of our workmates over the last 20 years. We just want to thank you for your continued coverage of Workday. I know this is your last call with us. And I just want to say thank you. And Neil said hello, and he also wanted to send this regard, as well as do I and everyone else. You've been a great analyst for us, and we really appreciate your support over the years. And we all hope you enjoy your next phase of life, which you're telling us is retirement. I hope that's the case, and you really do go out and spend some quality time with your amazing wife and family. With that, I'll hand it over to my friend, Gerrit, to talk about how he would build a new HCM or finance platform around AI going forward.
+
+Gerrit Kazmaier
+President of Product & Technology
+
+Kash, thank you for ending on such a beautiful question. So let's just look at the core principles of building AI systems at scale, right? And let's just look at what it really is. The first thing that you need is a vast set of data, which basically describes the domain, the domain of finance, the domain of HR. And you need a vast set of data that basically codifies how their data is being used, right? That is ingredient number one. If you look at AI at scale, it's about learning and using patterns. So you need to have that global database. Secondly, you need to have strong semantics and clarity about what data we present. So you need to have both a data model that defines what data element represents what entity in the business? What do they relate on? And what are the rules for these business entities because data is not created equal, right? They have integrity, they have meaning, they have purpose. And you need to have a business process system, which now basically tells you how to activate this data in a way so it can drive towards a business outcome. Even more so, you need to have clarity on what that business outcome is. Those are the basics of building a successful AI solution. Now take a look at Workday. We are the only scaled SaaS vendor born in the cloud with a consolidated data set. Our 50 million to 75 million users that we have contribute to a uniform data model, which is completely clean. We have all of the process data in a form of business process description codifying 70,000 core business process architypes which are instantiated across all of our customers and thousands of variations. We have ample data of usage and how these processes are being used in the business and most importantly, the domain knowledge to specify what are the target outcomes to drive. So if you were to build a system that is built for enterprise AI at scale, it would look like Workday. And what we are doing right now specifically is that we're opening up our core and basically integrate reasoning models and AI systems to automate these processes. We [ lay Asana ] on top to lead the experience AI innovation on top of that. And if you look at all of that in aggregate, it truly is the AI stack for the enterprise of the future.
+
+Operator
+
+This concludes our question-and-answer session. Ladies and gentlemen, thank you for your participation on today's conference. I'll now turn it over to Mr. Eschenbach for final comments.
+
+Carl Eschenbach
+CEO & Director
+
+Thank you, operator, and thank you, again, for all of you who joined us today. Thank you for those who will continue to look into Workday and watch our results and provide guidance and input to everyone out there in the market. For those celebrating, I want to wish all of you a Happy Thanksgiving. I'll close by once again expressing my deep appreciation to all of our workmates, our customers and partners for their continued commitment to Workday. We'll see you all next quarter, if not before. And again, for those celebrating Happy Thanksgiving.
+
+Operator
+
+This concludes conference. You may disconnect your lines at this time. Thank you again for your participation.

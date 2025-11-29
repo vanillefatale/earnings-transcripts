@@ -1,0 +1,103 @@
+NIO Inc. (NIO) Q3 2025 Earnings Call November 25, 2025 7:00 AM EST
+
+Company Participants
+
+Rui Chen - Head of Investor Relations
+Bin Li - Co-Founder, Chairman & CEO
+Stanley Qu - Chief Financial Officer
+
+Conference Call Participants
+
+Tim Hsiao - Morgan Stanley, Research Division
+Paul Gong - UBS Investment Bank, Research Division
+Y.C. Lai - JPMorgan Chase & Co, Research Division
+Bin Wang - Deutsche Bank AG, Research Division
+Ming Chung - Citigroup Inc., Research Division
+Ming-Hsun Lee - BofA Securities, Research Division
+Jing Chang - China International Capital Corporation Limited, Research Division
+Yuqian Ding - HSBC Global Investment Research
+
+Presentation
+
+Operator
+
+Hello, ladies and gentlemen. Thank you for standing by for NIO Inc.'s Third Quarter 2025 Earnings Conference Call. [Operator Instructions]
+
+I will now turn the call over to your host, Mr. Rui Chen, Head of Investor Relations and Corporate Finance of the company. Please go ahead, Rui.
+
+Rui Chen
+Head of Investor Relations
+
+Good morning and good evening, everyone. Welcome to NIO's Third Quarter 2025 Earnings Conference Call. The company's financial and operating results were published in the press release earlier today and are posted on the company's IR website.
+
+On today's call, we have Mr. William Li, Founder, Chairman of the Board and Chief Executive Officer; and Mr. Stanley Qu, Chief Financial Officer.
+
+Before we continue, please be kindly reminded that today's discussion will contain forward-looking statements made under the safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995.
+
+Forward-looking statements involve inherent risks and uncertainties. As such, the company's actual results may be materially different from the views expressed today. Further information regarding risks and uncertainties is included in certain filings of the company with the U.S. Securities and Exchange Commission, the Stock Exchange of Hong Kong Limited and the Singapore Exchange Securities Trading Limited. The company does not assume any obligation to update any forward-looking statements, except as required under applicable law.
+
+Please also note that NIO's earnings press release and this conference call may conclude discussions of unaudited GAAP financial information as well as unaudited non-GAAP financial measures. Please refer to NIO's press release, which contains a reconciliation of unaudited non-GAAP measures to comparable GAAP measures.
+
+With that, I will now turn the call over to our CEO, Mr. William Li. William, please go ahead.
+
+Bin Li
+Co-Founder, Chairman & CEO
+
+[Interpreted] Hello, everyone, and thank you for joining NIO's 2025 Q3 earnings call. In Q3 2025, the company delivered 87,071 smart EVs, representing a year-over-year growth of 40.8%. During the quarter, we launched two large 3-row battery electric SUVs, the ONVO L90 and the NIO All-New ES8. Both models have received strong recognition from users from their comprehensive competitiveness and continue to see solid demand. In the meantime, FIREFLY continued to see steady market growth by covering a broader range of price segments and meeting more diverse needs. The NIO, ONVO and FIREFLY brands are able to drive significant growth in deliveries.
+
+In October, the company delivered 40,397 smart EVs, up 92.6% year-over-year, marking three consecutive months of record high delivery. For Q4, we expect total deliveries to be in the range of 120,000 to 125,000, a year-over-year increase of 60.1% to 72%, achieving a new quarterly high.
+
+On the financial front, thanks to the ongoing cost optimization. In Q3, the vehicle gross margin improved to 14.7%, and the gross margin of other sales was 7.8%, resulting in an overall gross margin of 13.9%, the highest in nearly 3 years. This reflects the company's strengthened product and service profitability.
+
+Operational efficiency in R&D, sales and general administration continued to improve. Non-GAAP operating loss was narrowed by 30% quarter-over-quarter. In Q3, the company's operating cash flow and free cash flow both turned positive.
+
+NIO remains committed to a battery electric vehicle road map, featuring chargeable, swappable and upgradable batteries, leveraging the company's full stack R&D capabilities in 12 key pack areas. The three brands are able to precisely meet users' needs across multiple market segments and the competitiveness of our NIO products under all three brands have been well received.
+
+The NIO brand recently introduced three color themes for the ET9 Horizon Edition. The Horizon Edition is a special collection reserved for NIO's most prominent flagship models. The distinctive design, advanced technology, executive excellence and exclusive services makes the ET9 Horizon Edition a standout in the market.
+
+The All-New ES8 and all-around tech flagship SUV was launched and started delivery at NIO Day in September. Leveraging the unrivaled space and driving experiences made possible by all electric technology. The All-New ES8 has remained a top seller in the premium large 3-row SUV segment, surpassing 10,000 deliveries within just 41 days, the fastest were above price above RMB 400,000.
+
+In November, the ES6, another all-around SUV in NIO's lineup celebrated its 300,000 units delivery milestone topping the sales chart of China's BEV models priced over RMB 300,000.
+
+Within the ONVO brand, the L90 delivered over 33,000 units in 3 months since its launch in late July, leading the large battery electric SUV segment for three consecutive months. The L60 also delivered strong performance, maintaining a Top 2 position in the battery electric SUV segment with MSRP above RMB 200,000 during the first 3 quarters. With exceptional products, experiences and word-of-mouth, the ONVO brand increasingly becomes the preferred choice for families.
+
+Since deliver began, FIREFLY has led the high-end small EV market in sales volume, establishing itself as a benchmark in the market. With creative launches of special edition, it continues to strengthen its appeal among users who value quality and individuality. This dynamic small car is already making its way into global markets and will expand into more countries and regions across Europe and Asia.
+
+In Smart Driving, the NIO world model, NWM is the first word model that not only understand and predict the real world, but also operates with a close-loop training system. Actually, the industry trend is increasingly shifting towards a word model road map.
+
+Next, we will gradually roll out upgrades on NWM for vehicles equipped with NIO's NX9031 and NVIDIA's Orin X smart driving chip, further enhancing urban and highway NOP Plus, parking and smart safety performance. The upgrades will also enable execution of open set command.
+
+For the ONVO's Smart Driving, the Coconut 210 scheduled for release at year-end will upgrade its model-based end-to-end solution for urban and highway NOA as well as parking, delivering a more seamless driving experience.
+
+Our sales and service network currently includes 172 NIO houses, 395 NIO spaces, 422 ONVO stores as well as 405 service centers and 70 delivery centers. Our global charging and swapping network now operates 3,641 power swap stations, providing users with more than 92 million swaps. Besides, NIO has built over 27,000 power chargers and destination chargers.
+
+On September 17, NIO completed a total of USD 1.16 billion in equity financing on both the U.S. and Hong Kong Stock Exchanges, further strengthening its balance sheet and providing ample resources with long-term commitment to R&D and user services.
+
+On November 23, the 2025 NIO Cup Formula Student Electric China successfully concluded in Hefei. NIO has been supporting this competition since 2015, helping cultivate tens of thousands of young professionals for the industry.
+
+Today also marks the company's 11th anniversary. Over the past 11 years, we have remained committed to in-house R&D in core Smart EV technologies, continued investing in charging and swapping infrastructure, built a multi-brand sales and service system and created a vibrant community for over 900,000 users to share joy and grow together. These advantages have been increasingly recognized by our users. This year, our NIO products across three brands have performed strongly in their respective market segments, marking the beginning of a new phase of rapid growth. At the same time, through the cell business unit mechanism, we have comprehensively optimized our organization and enhanced operational efficiency, consistently improving our business results, rooted deep and growing beyond.
+
+Looking ahead, we will continue to provide more competitive technology, products and services to deliver better user experience and greater user value. As the company evolves into a user enterprise leading in technology and experience, we aim to shape a sustainable and brighter future with more users.
+
+Thank you for your support. With that, I will now turn the call over to Stanley for Q3's financial details. Over to you, Stanley.
+
+Stanley Qu
+Chief Financial Officer
+
+Thank you, William. Let's now review our key financial results for the third quarter of 2025. Our total revenues reached RMB 21.8 billion increased a 60.7% year-over-year and 14.7% quarter-over-quarter. Vehicle sales were RMB 19.2 billion, up 15% year-over-year and 19% quarter-over-quarter. The year-over-year growth was mainly due to higher deliveries, partially offset by a lower average selling price from product mix changes.
+
+The quarter-over-quarter increase was mainly from higher deliveries. Other sales were RMB 2.6 billion, up 31.2% year-over-year and down 9.8% quarter-over-quarter. The year-over-year growth was driven by increased sales of used cars, technical R&D services and sales of parts, accessories and after-sales vehicle services, while the quarter-over-quarter decrease was mainly due to the decrease in revenues from used cars, technical R&D services, partially offset by the increase in parts, accessories and aftersales vehicle services and provision of Power Solutions.
+
+Looking at margins. Vehicle margin was 14.7% compared with 13.1% in the Q3 last year, and 10.3% last quarter. The year-over-year and quarter-over-quarter increase were mainly due to the decreased material costs per unit primarily driven by our comprehensive cost reduction efforts. Overall gross margin was 13.9% versus 10.7% in Q3 last year at 10% last quarter. The year-over-year increase mainly reflected higher vehicle margin and better profitability in sales of parts, accessories and after sales vehicle services driven by cost reduction and efficiency improvements. The quarter-over-quarter increase was mainly attributable to higher vehicle margin.
+
+Turning to OpEx. R&D expenses were RMB 2.4 billion, decreased 28% year-over-year and 20.5% quarter-over-quarter. The decreases year-over-year and quarter-over-quarter were mainly driven by lower personnel costs in R&D functions due to organizational optimization and decreased design and development costs from different development stages.
+
+SG&A expenses were RMB 4.2 billion, up 1.8% year-over-year and 5.5% quarter-over-quarter. The year-over-year SG&A expenses stayed stable. The quarter-over-quarter increase was mainly driven by the increase in sales and marketing activities associated with new product launches. Loss from operations was RMB 3.5 billion, down 32.8% year-over-year and 28.3% quarter-over-quarter. Excluding share-based compensation expenses and organizational optimization charges, adjusted loss from operations was RMB 2.8 billion, representing a decrease of 39.5% year-over-year and 31.3% quarter-over-quarter.
+
+Net loss was RMB 3.5 billion, showing a decrease of 31.2% year-over-year and a decrease of 30.3% quarter-over-quarter. Excluding share-based compensation expenses and organizational optimization charges, adjusted net loss was RMB 2.7 billion, representing a decrease of 38% year-over-year and 33.7% quarter-over-quarter.
+
+Furthermore, we generated positive operating cash flow and positive free cash flow this quarter, together with the USD 1.16 billion equity offering in September. We ended the quarter with RMB 36.7 billion in total cash and cash equivalents, restricted cash, short-term investments and long-term time deposits, laying a solid foundation for our future growth.
+
+That wraps up our prepared remarks. For more information and the details of our unaudited third quarter 2025 financial results, please refer to our earnings press release.
+
+Now I will turn the call over to the operator to start our Q&A session. Operator?

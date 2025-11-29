@@ -1,0 +1,184 @@
+Lenovo Group Limited (OTCPK:LNVGY) Q2 2026 Earnings Call November 19, 2025 9:00 PM EST
+
+Company Participants
+
+Lixi Yuan - Director of Investor Relations
+Yang Yuanqing - Chairman & CEO
+Shao-Min Cheng - Group Chief Financial Officer
+Luca Rossi - Executive VP & President of Intelligent Devices Group
+Sergio Buniac - Senior VP of Mobile Business Group & President of Motorola
+Kin Hang Wong - Executive VP and President of Lenovo Solutions & Services Group
+Ashley Gorakhpurwalla - Executive VP & President of the Infrastructure Solutions Group
+
+Presentation
+
+Lixi Yuan
+Director of Investor Relations
+
+Good morning, good afternoon and good evening. Welcome to Lenovo's Earnings Investor Webcast. This is Lixi Yuan, Director of Investor Relations at Lenovo. Thanks, everyone, for joining us.
+
+Before we start, let me introduce our management team joining the call today. Yuanqing Yang, Lenovo's Chairman and CEO; Winston Cheng, Group CFO; Luca Rossi, President of Intelligent Devices Group; Ashley Gorakhpurwalla, President of Infrastructure Solutions Group; Ken Wong, President of Solutions and Services Group; and Sergio Buniac, Senior VP of Mobile Business Group and President of Motorola.
+
+We will begin with earnings presentations. And after that, we'll open the call for questions.
+
+Now let me turn it over to Yuanqing. Yuanqing, please.
+
+Yang Yuanqing
+Chairman & CEO
+
+Hello, everyone, and thank you for joining us. Today, I'm pleased to share that Lenovo has delivered another quarter of record performance, capitalizing on the AI democratization trend, we have made significant progress in both Personal AI and Enterprise AI, driven by our clear strategy, operational excellence and the relentless innovation.
+
+The results reflect not only our strong performance today, but also our strength to leading the AI era. First, let's start at the group level. Last quarter, our group revenue reached an all-time high of USD 20.5 billion, growing at almost 15% year-on-year.
+
+Our profit grew even faster with adjusted net income increasing more than 25% year-on-year. All business groups and all sales geographies, delivered a double-digit year-on-year revenue growth.
+
+While our AI-related revenues reached 30% of the group total increasing by 13 points year-on-year.
+
+While uncertainties remain in the external environment, we are seeing positive signs of stabilization. We will continue to leverage our unique Global/Local model to navigate uncertainties, lead the industry with operational resilience and capture the tremendous hybrid AI opportunities.
+
+We are seeing today's AI era unfold along a clear path. The first wave was marked by the emergence of large language models, which triggered a massive demand for AI infrastructure, and led to our explosion in cloud-based and training intensive computing power.
+
+Now as large language models become increasingly commoditized, user priorities are shifting towards personalization and the private domain.
+
+This is accompanied by growing emphasis on efficiency, response speed, security privacy and sustainability. This evolution is steering AI development towards a more human and enterprise-centric paradigm unlocking substantial opportunities in AI devices of diverse form factors, hybrid infrastructure of public cloud, private cloud, on-prem data center and edge computing as well as AI solutions and services tailored to diverse needs.
+
+This very trend, the democratization of AI is now accelerating rapidly across both Personal AI and Enterprise AI.
+
+In Personal AI, consumers are increasingly looking for AI outputs that are based on their own experiences, memories, behaviors and knowledge. At Lenovo, we are addressing this demand for hyper-personalization by landing our vision of One Personal AI, Multiple Devices.
+
+You will witness this firsthand at our upcoming Tech World on January 6, 2026, where we will launch our Personal AI super agent to the global market. It orchestrates across wearable and ambient devices to see what you see, hear what you hear, and memorize what you have experienced.
+
+Furthermore, it leverages portable devices and personal trusted computing hubs using personalized algorithms and models to continuously learn from your habits and anticipate your intentions, so that it can think as you would think and act as you would act, and ultimately becoming your Personal AI Twin. I invite you to join us for this spectacular event at Sphere in Las Vegas in person or via live stream.
+
+Our IDG or Intelligent Devices group acts as the core engine behind the Lenovo's Personal AI strategy as demonstrated by strong results from last quarter.
+
+Its revenue exceeded USD 15 billion with a 12% year-on-year growth. PC market share exceeded 25% for the first time in our history with a sustained industry-leading profitability.
+
+Our AI PC leads the Windows AI PC category as a global #1. We also achieved a record-high Motorola smartphone volumes last quarter.
+
+Our momentum in AI device is particularly encouraged with its revenue mix within IDG increasing by 17 points year-on-year to 36% now.
+
+In Enterprise AI, the infrastructure market is undergoing an important shift from AI training in public cloud to AI inferencing increasingly happening on-prem under the edge.
+
+It's significant because the scaling of infrastructure will potentially drive even higher growth of devices and applications, further expanding our total addressable market.
+
+At Lenovo, we are driving our Enterprise AI strategy by helping businesses, turn data and knowledge into insights and value.
+
+Specifically, we started with helping enterprises collect and process various types of data, organize it into knowledge, leveraging the computing power of our hybrid infrastructure. We then apply AI models and AI agents to turn data and knowledge into insights and outcomes or engage the business processes.
+
+These are consolidated into repeatable, scalable solutions for horizontal functions or vertical industries are supported by our full-cycle services. Ultimately, our goal is to create Enterprise AI Twin for our enterprise customers.
+
+ISG or Infrastructure Solutions Group is the key driver of Lenovo's hybrid infrastructure. Last quarter, its revenue grew 24% year-on-year to exceed USD 4 billion. We continue to execute our Cloud Service Provider, or CSP, and the enterprise SMB dual strategy.
+
+For CSP, the business not only delivered a record fiscal Q2 revenue, but also demonstrated a robust growth in AI infrastructure with a strong pipeline.
+
+For Enterprise SMB, we are optimizing and even rebuilding our business models to better serve the distinct needs of enterprise and SMB customers. We are confident our infrastructure business will return to profitable growth soon.
+
+SSG, our Solutions and Services group. By leveraging the Lenovo Hybrid AI Advantage framework, strives to provide the solutions and services for enterprises on their journey of intelligent transformation.
+
+Last quarter, SSG achieved 18% year-on-year revenue growth, its 18th consecutive quarter of double-digit expansion with our operating margin over 22%.
+
+Projects & Solutions and Managed Services revenue mix further advanced to almost 60% of SSG's total revenue. We are accelerating this business further by unleashing the power of Lenovo Hybrid AI Advantage, combining the AI factory, AI services and the AI library of repeatable, scalable AI solutions for selected vertical industries and horizontal functions.
+
+To conclude, we are proud of our record results, confident in our vision and strategy and determined to capture the enormous opportunities ahead.
+
+It's our firm belief that by rigorously executing our hybrid AI strategy, we will not only deliver sustainable long-term returns to our shareholders, but also make AI truly personalized for every individual and every enterprise and eventually bring smarter AI to all. Thank you.
+
+Now let me turn it over to our CFO, Winston. Winston, please?
+
+Shao-Min Cheng
+Group Chief Financial Officer
+
+Thank you, Yuanqing. I will now go through the Lenovo's Fiscal Year 2025, '26 Second Quarter financial and operational results.
+
+The group continued its strong performance into the second quarter, maintaining strong momentum across our business groups and sales geographies. We delivered record fiscal quarter revenue of $20.5 billion representing 14.6% year-on-year increase with balanced double-digit growth across all business groups.
+
+Our adjusted net income grew 25% year-on-year to $512 million, and adjusted net income margin expanded to 2.5%, driven by higher revenues.
+
+Our second quarter results demonstrate our strategic potential to capture substantial AI opportunities. AI-related revenues now account for 30% of the group's total with high double-digit revenue growth year-on-year in AI servers and triple-digit revenue growth in AI PC, AI smartphones and AI services.
+
+Our PC business continued strong growth momentum and continue to grow share, reaching historic high of 25.6% global market share.
+
+Our smartphone business achieved a record high concurrent quarter activations, underpinned by solid end-user demand. ISG delivered strong revenue growth year-on-year and improved operating performance driven by growth in AI infrastructure and related industry demand.
+
+SSG delivered a record revenue quarter while continuing to expand operating margin. All reported geographies delivered double-digit year-on-year revenue growth, reinforcing our balanced strength across 180 markets supported by our Global/Local strategy and resilience and agility of our supply chain.
+
+Turning to liquidity and cash position. Our growth continues to be supported by disciplined financial management. In the second quarter, we delivered operating cash flow of USD 1.5 billion, while free cash flow climbed to $1.1 billion, supporting continuous investment in focused growth areas.
+
+This was driven by robust operational cash and effective working capital management with days of inventory reduced by 10 days year-on-year as well as disciplined expenditure.
+
+We also achieved a 31% year-on-year reduction in adjusted net finance costs, reflecting ongoing cost optimization and working capital efficiency initiatives.
+
+Our HKFRS net income this quarter was $340 million, primarily impacted by noncash items related to warrants and 0 coupon convertible bonds associated with our strategic transaction with Alat, a wholly owned subsidiary of PIF.
+
+Key adjustments to reported figures include $148 million noncash fair value loss from warrant revaluation and $28 million notional interest from the convertible bonds.
+
+Further details on other noncash items can be found in the supplementary financial materials at the end of this presentation. We encourage investors and analysts to focus on adjusted operating profit and net income, which excludes these noncash, nonoperating impacts and better reflect our core operational performance.
+
+Now let's turn to the performance of our business groups. IDG delivered another strong quarter. Revenue up 12% year-on-year to $15.1 billion, and operating profit climbed 11% to $1.1 billion.
+
+This performance reflects expanded PC leadership globally, obtaining a record high global market share of 25.6%. Growth was driven by high-margin segments, premium PC shipments grew 25% year-on-year, and AI PCs are now a major contributor, accounting for 33% of Lenovo PC shipments, solidifying our #1 position with 31.1% market share in the global Windows AI PC market.
+
+In China, AI PC with 5 key features now make up 30% of notebook shipments. Our cross-device AI ecosystem is creating a strong foundation for our Personal AI vision, delivering a seamless One AI, Multiple Devices experience that connects PCs, tablets and smartphones.
+
+Our continued investment in AI-driven innovation and R&D are delivering strong results. Lenovo remains the clear leader in the PC industry across all major categories.
+
+Globally, we hold the #1 position in both consumer and commercial segments, and we continue to expand market share in the second quarter. Within our PC portfolio, our leadership further extends into strategic categories, such as Windows AI PC, gaming and premium PCs.
+
+These are critical growth drivers as the industry transitions to a more intelligent and immersive computer experiences. Our global leadership is balanced across the world with #1 market leadership in 4 out of 5 geographies and market share gains in every region during the quarter.
+
+This broad-based growth underscores the strength of our manufacturing footprint and resilience of our global supply chain.
+
+Turning to our Infrastructure Solutions Group performance in the second quarter. ISG continues to benefit from the strength of AI infrastructure spend and our leading product and technology for advanced computing, delivering 24% year-on-year revenue growth to $4.1 billion with improved operating performance, driven by new customer acquisitions in cloud service providers and advancing enterprise and SMB transformation.
+
+ISG continued to experience strong growth in our Neptune liquid-cooling technology, which grew 154% year-on-year, reinforcing our leadership in sustainable high-performance infrastructure.
+
+We continue to drive sustainable growth in high potential areas, advancing enterprise and SMB transformation to capture opportunities in AI infrastructure and inferencing.
+
+Our AI server business achieved high double-digit revenue growth, fueled by rising AI adoption and supported by clear product launch road map.
+
+In China, our operations delivered consistent operating margin improvement, leveraging uniquely localized offerings and our ODM+ model to drive differentiation.
+
+In the second quarter, ISG broadened its customer base across CSP, enterprise and SMB segments with wins in the AI infrastructure, cloud computing and high-performance computing.
+
+These deployments include AI training clusters, GPU as a service and liquid cooling solutions, reinforcing our position in next-generation infrastructure.
+
+We also continue to see growing traction in AI inferencing workloads as customers deploy and scale AI applications across hybrid infrastructure, and we are actively accelerating our capabilities in this area.
+
+The enterprise server and storage industry has evolved over the last few decades and benefited from the infrastructure spend behind some of the largest industrial revolutions underpinned by data compute and storage.
+
+Lenovo's ISG business has an industry-leading technology and product excellence from its IBM x86 server heritage. Our leadership in high-performance compute and in liquid cooling positions in Lenovo well for the recent growth in demand due to AI training, and we are aligning our resources to capture the next future for AI inferencing in enterprise and SMB to traditional CSP and most recently, the emerging AI opportunities from CSPs.
+
+Echoing Yuanqing's remarks, we're entering the next stage enterprise and SMB AI. This represents a significant opportunity as the AI transitions from training to inferencing, driving increased demand towards on-premise hybrid environments.
+
+We've delivered another record revenue quarter marking SSG's 18th consecutive quarter of double-digit year-on-year revenue growth. Revenue rose 18% year-on-year to $2.6 billion, and operating margin expanded near historical high. SSG grew at twice the pace of addressable market driven by robust demand in high-growth areas such as hybrid cloud, AI and digital workplace solutions.
+
+Growth in Project & Solutions was driven by enhanced AI solutions targeted at key verticals such as manufacturing and retail. Revenue from TruScale DaaS and Infrastructure as a Service also increased year-on-year with notable customer wins across global markets. In addition, both support services revenue and bookings growth accelerated.
+
+Overall, SSG deferred revenue grew 17% year-on-year to $3.6 billion, providing strong visibility into future performance. With combined revenue for Managed Services and Project & Solutions now accounting for 59.9% of SSG's total revenue and AI services tripling year-on-year, we are capturing higher-value AI-led services business models.
+
+Over the past 4 years, Managed Services and Project Solutions have grown at a 25% compound annual rate significantly outpacing the addressable market.
+
+Our tech-driven offerings enable customers to optimize cost and deepen engagement, aligning with the industry shift towards subscription and consumption-based models that are gaining strong traction.
+
+Meanwhile, support services remain a solid, profit growth driver, supported by rising attach rates from devices and sustainable recurring revenue streams.
+
+We are proud to share that group continues to be recognized globally for our leadership in ESG. In 2025, Gartner Supply Chain Top 25, we ranked 8th highlighting our strong performance in building sustainable, resilient supply chains.
+
+Lenovo's factory in Monterrey, Mexico was recently added to the World Economic Forum's Global Lighthouse Network, the second for Lenovo, among only 201 leading manufacturing facilities worldwide.
+
+Our ESG scores also improved across CDP and S&P Global, and we maintain our AAA rating in the MSCI ESG Ratings for the fourth consecutive year.
+
+We've continued to build on our strong foundation of inclusion, the group was recognized as the Best Place to Work for Disability Inclusion in the U.S., the U.K. and Brazil.
+
+We're also honored as an Ambassador in the Workplace Pride Global Benchmark, reflecting our ongoing commitment to LGBTQ+ inclusion.
+
+In addition, we've deepened our collaboration with the United Nations Industrial Development Organization, focusing on circular economy initiatives. We also joined the Coalition for Sustainable AI, an initiative led by French government in partnership with UNEP, demonstrating our commitment to responsible innovation and environmental stewardship.
+
+These achievements reinforce our long-term commitment to sustainability, innovation and building a more inclusive future.
+
+Looking ahead, we are hopeful of global trade improvements. Our Global/Local model remains a key source of resilience and differentiation. We're also elevating our brand through major initiatives like the upcoming FIFA partnership and Tech World at CES 2026.
+
+With strong execution and continued focus on Personal and Enterprise AI, we are confident in translating our strategy into sustained profitable growth. Thank you.
+
+We will now answer any questions you may have.

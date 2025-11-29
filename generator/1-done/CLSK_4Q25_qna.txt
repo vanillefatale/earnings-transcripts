@@ -1,0 +1,299 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from the line of Brian Dobson with Clear Street.
+
+Brian Dobson
+Clear Street LLC
+
+Just a quick question. There's been a considerable amount of volatility in the stocks as of late. Perhaps you could take this opportunity to give us a little bit of color on the types of conversations you're having with potential clients and your outlook for demand in the HPC-AI space over the course of the next 2 years.
+
+S. Schultz
+CEO & Chairman
+
+Yes, absolutely. Brian, thanks for calling in, and thank you for the question. I can tell you that we've had extensive conversations. Now I posted on my social media. Our whole team was invited to Northern California to spend some time with the team at NVIDIA. From that meeting, we've had subsequent follow-ups. And I can tell you that there is, I don't want to say a bidding war, but strong multiple layer inquiries about Sandersville specifically, and we're starting to gain additional traction on the Sealy, Texas site. So we feel like the demand is there.
+
+Obviously, there have been some delivery challenges and credit risk on some of the other peers that maybe haven't been able to perform to the expectations. But we're -- based on the fact that we're running a company with nearly an $800 million annual run rate at 55% gross margins, we have the cash necessary to get us to that next level. So we actually feel very optimistic about it.
+
+Brian Dobson
+Clear Street LLC
+
+Yes, outstanding. And as you're thinking about various campuses, what do you think about pairing Bitcoin mining with HPC campuses to provide, call it, power-usage versatility or do you think that they'll be separate to start?
+
+S. Schultz
+CEO & Chairman
+
+That's a really thoughtful question. We were invited by Jack Dorsey and his team to go to Dalton, Georgia and spend some time as they launch their new domestic-manufactured ASIC, the Proto Rig that's built by Block.
+
+And it was a fascinating event, but leaving the event, the CEO of the utility there in Georgia, grabbed Gary, Harry and myself and asked us to go to lunch. And he shared that there's about 120 hours a year that really causes problems for the utility. And he said, historically, they love Bitcoin miners because of the interruptible load. Now we've experienced providing that service and load balancing in many of our jurisdictions. I mean, you've heard the stories about redirecting power in Georgia to a hospital when the hurricane hit or whatever the case may be.
+
+But the takeaway from the utility was they're interested and the fear that came from them was because Core Scientific is a big consumer of power there in Dalton, and it's historically been a flexible load. And the concern is that extra 120 hours a year, when -- they need somebody to be able to give back. So what they specifically -- the request from us was to consider blending AI, HPC and Bitcoin mining, so a component of those loads remain interruptible. So we see it as a dual-pronged strategy. And I think you'll see a lot of our sites will serve both loads.
+
+Operator
+
+Your next question comes from the line of Mike Colonnese with H.C. Wainwright.
+
+Michael Colonnese
+H.C. Wainwright & Co, LLC, Research Division
+
+Congrats on the strong fiscal year here. First one for me on the HPC side. I'm curious, what are some of the key development milestones that investors should be on a lookout for in 2026 as it relates to the HPC strategy? It sounds like the near-term focus will be on deployments at your Texas and Sandersville sites. So it would be great to get some more color there.
+
+S. Schultz
+CEO & Chairman
+
+Yes, you nailed it, Mike. I can tell you I had a conversation not with a neocloud or anybody like that. But actually, with the senior director of site development for a global hyperscaler last night on my way leaving here. And what he shared with us is their 2026 forecasts are so constrained that they're looking at alternative types of builds just to facilitate the needs for '26.
+
+The takeaway from the conversation was Sandersville and Sealy, because both of them can be energized, Sandersville is live and active right now powering 11 exahash of Bitcoin miners. But it could switch to a 200-megawatt critical IT load and be online in a reasonable period of time. And I think kind of a cool thing that maybe has gone unnoticed and that is this MOU with Submer.
+
+We don't historically -- I mean if you look at CleanSpark's past, we don't announce MOU or LOI or anything that isn't definitive or concrete. It was really important to ink that with Submer because of the way that they approach the business. Submer has approved reference architecture for AMD, for NVIDIA and they build the entire MEP solution. So mechanical, electrical and plumbing with all the fiber runs. They take that out of the field, put it into the factory. So a company like CleanSpark builds the powered gray shell, we contract with Submer to roll-in the MEP solution for -- specifically to the reference architecture of the end user requirements. So speed to market is really, really critical right now. And having that modular approach, I think, is going to be a massive differentiator for us.
+
+Michael Colonnese
+H.C. Wainwright & Co, LLC, Research Division
+
+That's helpful color, Matt. Appreciate that. And then the second one is on the Bitcoin mining side. I know you mentioned some of these near-term deployments you guys are looking to install in the first quarter. Just remind us of what your near-term expansion plans will look like for the Bitcoin mining business and existing site expansions versus any sort of new development opportunities on the greenfield side or mergers and acquisitions at this stage?
+
+S. Schultz
+CEO & Chairman
+
+Yes. So I think what you're going to see is a migration of our Bitcoin mining away from areas that are closer to major metropolitan areas that are maybe more sensitive to utility rates and into more remote locations. There are a number of utilities that have either recently passed or are discussing the blockchain-specific tariffs.
+
+To my point on the last question, that interruptible component of the load is in such demand that they give us favorable rates whether it's TVA or Wyoming or any of a number of different jurisdictions to have the offtake that allows us to flex and to assist the utility.
+
+So I think what you'll see is locations like Sandersville, locations like the Metro Atlanta sites in Norcross, in College Park, et cetera, those will probably be prioritized for HPC-AI because of the quick access to fiber, the low latency loads that they can serve, et cetera. And then the Bitcoin mining from those facilities will likely migrate out to some of the other locations.
+
+So to answer your question directly about scale, we're at 50 exahash per second right now. We have 6 exahash of the S21 XP Immersion miners. We had slotted out a deployment strategy. Now we use modular immersion-cooled data centers for the vast majority of those. When we secured the 100 megawatts in Wyoming, we actually beat out a hyperscaler because of the fact that Wyoming wanted to energize those megawatts today and not in 3 years. So we have the infrastructure purchased, delivered, on hand, ready to roll to deploy these in very short order.
+
+So I think what you'll see is between now and towards the end of Q1 '26, calendar Q1, you'll see that additional 6 exahash come online. Above that, what you'll see is as we do fleet upgrades, not in the $250 million capacity that we've historically done, but in a more disciplined, more thoughtful manner to ensure that we're protecting our share of the hash rate and supporting what we believe to be a national security issue, and that is ensuring that there's Bitcoin mining hash rate domestically.
+
+So we're going to take a real balanced approach at that. But you'll see us continue to grow. And really, the differentiator is just in the fact that we have right now one of the most efficient fleets in the world. And with the deployment of this 6 exahash of 13.5-joule machines, we'll have hands down the most efficient fleet around.
+
+Operator
+
+Your next question comes from the line of Paul Golding with Macquarie Capital.
+
+Paul Golding
+Macquarie Research
+
+Congrats on a strong finish to the year. I wanted to ask, with the 13,000 Bitcoin on the balance sheet, around $1.2 billion at fiscal year-end and with the recent financings that you've done, how should we think about the total aspiration to build this powered land bank as you think about the opportunity to bring tenants in for HPC or to simultaneously grow your Bitcoin mining fleet as you were just discussing? And then I have a follow-up.
+
+Gary Vecchiarelli
+President & CFO
+
+Thanks for the question, Paul. Our team around the Bitcoin stack really hasn't changed, right? To give you context, we consciously had stacked Bitcoin quite rapidly over an 18-month period, and that brought us to about 13,000 Bitcoin on the balance sheet. And we believe that we're one of the only companies using it in the strategic ways that it should be used as a capital asset. So I think going forward, what you can count on from us is a few things.
+
+One, we'll continue to monetize the Bitcoin stack through yield strategies to generate some cash. Two, we'll continue to borrow against it to be opportunistic to draw down on cash to make sure that we're nimble in the marketplace and take advantage of accretive acquisitions. And we've always said that we're not ideological about the Bitcoin balance. We're very strategic. And so if there comes a point in time where we needed to or we felt that the right thing to do is to part with that Bitcoin balance through sales, we most certainly would do that, and we were open to do that. Because, again, we've built this entire company and even the financial wherewithal on optionality.
+
+But I'll tell you that with those sales comes to punitive tax treatment because we have mined those at such a low basis, we'll have to pay -- we'll be a cash-paying taxpayer on those items. So we take those into account when really looking at the stack. But overall, we'll continue to use this as a form of nondilutive capital.
+
+Paul Golding
+Macquarie Research
+
+Got it. And then turning to the MOU with Submer and Matt, the explanation you were just giving on how you might break out the shell development versus the MEP componentry. How should we think about the potential economic impact of that? If you can give any color, just thinking about how pricing on some co-location deals involve yield on cost and, of course, build-to-suit can involve more capital, but with a partner, just looking for any additional color you could provide?
+
+S. Schultz
+CEO & Chairman
+
+Yes. Great question, Paul. Thank you for joining. So the Submer relationship really was born out of a prior relationship between Humain and Submer. And Jeff had a working relationship with Patrick, the CEO at Submer. And we've also got Submer infrastructure deployed in our Bitcoin mining side. So we're very comfortable with them.
+
+And I can tell you that the quality of the product that they deliver, it's much simpler in the Bitcoin mining side than some of the other modular immersion-cooled type companies. But because we haven't done a deployment domestically and they're just spinning up a manufacturing facility in Houston, I don't want to comment too much on what the cost per megawatt is, but I can tell you, in general terms, that the cost to build out 1 megawatt of mining infrastructure is about $1 million. To do the same for AI and HPC according to the reference architecture required by the major chip manufacturers, it's closer to $10 million.
+
+We also know that the mechanical, electrical and plumbing, the MEP solution, is a pretty extensive, pretty robust build-out because you've got all those trades working inside a facility at the same time. Building these in a factory increases the speed to market by an order of magnitude and the initial representations are that it saves us anywhere from 10% to 15% over a stick-built in the field deployment. So we believe there's cost savings and speed to market that give us a very unique competitive advantage.
+
+Operator
+
+Your next question comes from the line of Greg Lewis with BTIG.
+
+Gregory Lewis
+BTIG, LLC, Research Division
+
+I guess, Gary or Matt, I was hoping you could talk a little bit more about the Texas facility and just kind of -- you mentioned that it starts to energize in 2027. Is that energization, is there steps along the way? And then longer term, as we think about that site, is there the ability to expand at that site or potentially grow with the customer?
+
+Gary Vecchiarelli
+President & CFO
+
+Greg, it's Gary. I want to give you the rundown on Texas because I think it's a really exciting project for us, and it's the beginning of what you've seen from us across the Georgia, Tennessee and Wyoming markets, which we take a fundamental land-and-expand approach, which is we get a foothold, and then we know that once we have that toehold in the market, the opportunity to significantly extend our footprint is available to us, the energization schedule there is that the first 200 and change megawatts scheduled to come online first half of 2027. And then there's 240-megawatt tranches in '28 and '29. But what's critical is that the counterparty that we purchased the land and the contracted power from is also among the largest substation developers in the state. And so what we were able to step into are the long lead time items and the placeholders that they had on those components, giving us a high degree of build certainty to land the power on the site.
+
+The second piece is that, that site is fully ERCOT proofed. And so when we look at the energization schedule, we've already passed all of the regulatory hurdles that would typically be associated with a project in the state. The final piece of what you asked that I want to touch on is about expansion. And the ERCOT approval status wouldn't come with the expansion on grid that we're looking to accomplish there. But one of the parts that was most attractive not only to the power contract at that particular location and the service point from the utility that's going to be delivering to us, but it's also the parcel that's there. We have significant land capabilities to be able to digest more power in the same type of AI-based center footprint. That's going to be represented by the 285. And so we're excited about the scalability. Matt touched on in his comments, the behind-the-meter gas generation opportunity, but this is where we find ourselves at our true core competency which is being an opportunistic acquirer of land and power. Not only because we're able to locate high-quality assets for our portfolio today, but also for what those assets can represent to our business going into the future.
+
+Operator
+
+Your next question comes from the line of John Todaro with Needham & Company.
+
+John Todaro
+Needham & Company, LLC, Research Division
+
+Congrats guys on the progress here. First question here, as it relates to the AI readiness at Sandersville, just remind us if that site has force curtailment. And then if so, really kind of how much should we earmark for HPC versus mining if you intend to kind of have both at that site?
+
+Harry Sudock
+Chief Business Officer
+
+Yes. Thanks, John. So what's important to understand about the Georgia and the MEAG power specifically is that it is not subject to forced curtailment at that location. It's part of why we didn't just trip all and land with an AI thesis around the Sandersville assets. Those were also inbound because of the highly attractive nature of the Georgia power markets more broadly. And so we feel great about the applicability of that location to the ultimate AI campus use case and how we balance that versus the Bitcoin mining is going to be the way we do everything, which is a fundamental return on investment profile. We take a measured approach. We're data-driven. And the early indication is that every one of those megawatts is highly applicable for AI as its highest and best use. But we're going to remain data-driven across the analysis period for the asset.
+
+John Todaro
+Needham & Company, LLC, Research Division
+
+Great. That's helpful. And then just as it relates to credit becoming a little bit of a concern out there, especially as it relates to neocloud customers. Just walk us through how you are thinking about the customer profile, if there's maybe bigger focus than hyperscalers now than maybe a couple of months ago when you guys were initially thinking about it? And then also hyperscaler backstops, is that starting to become a necessity? Would love to get some color on that.
+
+Gary Vecchiarelli
+President & CFO
+
+John, thanks for the question. I'll tell you this about the financing. And I mentioned in my prepared remarks is that there's new pools of capital that are going to be available to us at much lower cost of capital. So we feel really good about that. We know we're going to introduce at some point, secured debt into the capital stack. So we're closely monitoring the deals that are going on and the debt markets. But I'll tell you, the focus really first is to get that high credit quality tenant in there to make sure that we can get the best deal possible because, as you know, levered IRR is significantly higher, the more -- the higher the loan to value is. But I'll also tell you that while we might expect to get debt at about 80%, 85% LTV over time, we have no problem also bringing a little bit more equity to the table, maybe at a 60% to 70% LTV for the first project or 2.
+
+Yes, that will decrease our levered IRR just a bit, but also produces cash flows in the interim, which would also be helpful. But ultimately, to us, it's really going to come down to execution for which we still think that the industry hasn't proven but we're going to see that over the next 12 to 18 months, particularly as we bring our land and power to market. So I don't have the specific answer for you right now, but I'd tell you that we are confident that there's a number of options for us to get financing at attractive prices and get the levered IRR that this market is offering.
+
+Operator
+
+Your question comes from the line of Reggie Smith with JPMorgan.
+
+Reginald Smith
+JPMorgan Chase & Co, Research Division
+
+Congrats on growth in the quarter and on the pivot. I just had a question on the Sandersville site as well. I'm not sure if you guys talked about what type of CapEx would be required to upgrade that to HPC or if it's ready, like kind of move-in ready now. And then I'm curious, I know it's early, maybe thought about the use cases, whether it would be used for training or inference and whether that at all plays any role in the price that you'd be able to get to kind of lease that space out. So like does inference pay more or generate more revenue per megawatt than training. Any insights you can provide at least around how you're thinking about kind of self-appraisal of the site and what it could be worth?
+
+S. Schultz
+CEO & Chairman
+
+Reggie, thanks for joining, and thanks for the call. You've been to that Sandersville site, I believe, on some of our show and tell journeys. And I think what's important to note is the facility, as you saw it, would not be a conversion to HPC AI. We have a phenomenal relationship with the Economic Development Director in the county. And so we secured an additional plot of land, hundreds of acres of land that's immediately adjacent. So what you would see would be construction that is parallel with Bitcoin mining continuing and when we're ready to energize, we literally flip the switch, de-energize the Bitcoin mining and migrate that out and go to compute.
+
+Now specific types of compute. Jeff has built a model. Obviously, you have the giga campus, which is large-scale training. Those are generally close to 1 gigawatt and above. Then you have the mega campus, which is that kind of sweet spot 200 to 800 megawatts. And that's generally perceived to be kind of a combo site where it's inference and training or primarily inference depending on the offtake client.
+
+The last mile or the low latency, real mission-critical sites like what you've seen in and around Metro Atlanta would be kind of the exception to that rule. And those would obviously be low latency inference-type operations. So this is going to be -- I think Sandersville is going to be an interesting case study because, quite frankly, the demand that we're seeing is for multiple 190 to 200-megawatt critical IT loads and the offtakers are asking for 2026 delivery. So there's some real challenges in getting that tipped up in time. But as we saw, even with companies like Meta, for example, they're putting tents up and using behind-the-meter gas at $0.12 a kilowatt hour because the demand is such that there is no sensitivity to those utility rates.
+
+So we really feel like we're uniquely positioned in this, Reggie. And you and I -- when you first launched coverage on CleanSpark, we talked about the fact that when CleanSpark entered the space, there were a handful of household names that were the standard from Bitcoin mining. We mined our first Bitcoin in December of 2020. And as of today, we have more hash rate in the United States of America than anybody else. Our uptime is second to none. And I think you can see -- you can count on seeing that same type of operational excellence and efficiency rolled into our next strategy. And Jeff is just the perfect guy to lead those initiatives.
+
+Reginald Smith
+JPMorgan Chase & Co, Research Division
+
+And if I can get one more in. I'm not trying to nail you down to a time line, but I kind of read between the lines. But I think about Cipher and they purchased a property in Texas a year ago and kind of just now announced a deal. And obviously, it takes a while to spot these types of things out. But I'm curious like how you're thinking about it, if it took you a year to sign a deal, would that be your satisfactory or kind of disappointing based on which you're seeing from a demand perspective now? Like should we think of something much sooner than that? Like any color you can help on how you're thinking about that personally would be great.
+
+S. Schultz
+CEO & Chairman
+
+Yes. So that's a phenomenal question. I can tell you that you called me, I was at my kids' basketball game, you called me when CoreSite CoreWeave announced their deal. And we talked about what the demand portfolio -- the demand profile looked like back then. And at that point, it was we're going to convert these megawatts and we're going to identify a customer. I think there's been a complete paradigm shift in the space. And now you have customers knocking at the door because they have loads that need to be served very rapidly. So what I can tell you with, I would say, a strong amount of certainty is you'll see a lease executed much quicker than what you've seen in the space. And the flexibility that's now come, I mean, we look at some of our peers that have extended their energization schedules because they're falling behind on construction, et cetera.
+
+The hyperscalers and the end users that we're having conversations with, we've made it abundantly clear. We're constrained like anyone else for the MEP side, but we have a distinct advantage. So I think what's likely to happen and Reggie, quite frankly, there are 2 different offtakers that want to sign lease agreements by year-end. Is that going to happen? It's hard to say. But the demand is there. It's real. And as I mentioned in earlier comments, we were working on this script and the slide deck that we showed today, and I left here at 8:00 last night and the Global Director of site selection for a hyperscaler was calling me wanting to confirm that they were still in the running. So I don't think there's any question that you're going to see a lease much quicker than a year.
+
+Operator
+
+Your next question comes from Brett Knoblauch with Cantor Fitzgerald.
+
+Brett Knoblauch
+Cantor Fitzgerald & Co., Research Division
+
+Maybe, Matt, just on the land and power procurement side of the equation. Could you comment on what you had to pay for the new site in Texas that you guys just announced? And I think you guys have one out there that are looking to go out and find additional land that is energized soon. I think all of your peers and even hyperscalers are probably looking to do it themselves. But I guess, how hard is it? How expensive is it? And how much is there out there that you think you can go out and buy that is kind of turnkey ready similar to the site that you guys announced in Texas?
+
+S. Schultz
+CEO & Chairman
+
+So yes, I could say what we paid for it, but I'm not going to. And I'll tell you why. There are some very fertile hunting grounds in the ERCOT region, and we don't want to price ourselves out of the market. What I can tell you is that the acquisition cost was a combination of equity and cash. We obviously filed the proper -- the appropriate filings for the share issuance. But the purchase price of that land and power came in line with what you're seeing in the market towards the low end of that range. Our advantage, I think, in securing land and power and speed to market is really because we've continued to state that Bitcoin mining is going to be a part of what we do going forward.
+
+And 18 months ago, when we were invited to sit down at Mar-a-Lago with Donald Trump during his candidacy, he brought in Senator Hagerty from Tennessee. And because the question that came was, can Bitcoin miners actually plow the road, so to speak? Can Bitcoin miners go in and monetize megawatts for a utility that needs to generate revenues now or for an energy developer that needs to monetize their power while they're waiting for an interconnect agreement. And so Mr. Trump asked Bill Hagerty, can Bitcoin miners do that? And what he said is unequivocally, they -- not only can they, but they do in TVA and CleanSpark is one of them. And so when we talk about Cheyenne, we're driver nine iron across the street there from FE Warren Air Force Base, and there's another $1 trillion company -- $1 trillion market cap company that's in our same neighborhood. They were bidding for those megawatts. And we won -- we didn't win because the utility thought that our balance sheet was prettier or we were a better credit risk, we won because we said if you sell us those megawatts, we'll start buying them in 6 months, not in 1.5 years or 2 years.
+
+So I think long answer to your question, I think being a Bitcoin miner with a diverse mining portfolio and the flexibility of the modular deployments that we've done on some of the sites that you've actually seen, it gives us an advantage to jump in, monetize those megawatts on a small portion of the campus while we're tilting up the powered shell in the background. So I think our speed to market is complemented not only by the modular approach with the Summer partnership, but also by using Bitcoin to go in and buy the power today.
+
+Operator
+
+Your next question comes from Jim McIlree with Chardan Capital.
+
+James McIlree
+Chardan Capital Markets, LLC, Research Division
+
+Is Sandersville the only existing mining site you've identified for critical IT applications or the first one and there's going to be others?
+
+S. Schultz
+CEO & Chairman
+
+Yes. Jim, thanks for the question. The answer to your question is B, it's the first one. The inbound inquiries we've had for the 100 megawatts surrounding the Atlanta Airport are second in urgency only to Sandersville. And Sandersville is because it's 250 megawatts energized operating today, the demand for College Park and Norcross is because it's low latency in the most dense compute environment in North America outside of Northern Virginia. So there's a tremendous amount of demand there as well as some of our sites in Tennessee. So it's really just a sorting process. And as we mentioned in our prepared remarks, we've done a portfolio analysis to kind of determine we don't want to move Bitcoin mining infrastructure into a facility that's going to be rapidly pivoted to an AI HPC deployment. So I think the answer is Sandersville is the low-hanging fruit that everybody wants. The Metro Atlanta stuff is second, and then we've got a whole bunch of third place sites.
+
+James McIlree
+Chardan Capital Markets, LLC, Research Division
+
+And the way you described it, it sounds like that flipping of the switch from mining to AI can take place before the Sealy facility is energized. Am I understanding that correctly?
+
+S. Schultz
+CEO & Chairman
+
+Yes. So think about it this way, Jim. We're -- our facility in Sandersville is purpose-built Bitcoin mining. We have a couple of hundred acres adjacent. We're going to build on that land while we're still mining. Now the speed to market, really, the summer is a big differentiator. As I mentioned before, there are hyperscalers that are popping up tents because they need access so quickly. So I think it's a relative question. The Sealy part -- the Sealy project is very appealing because we've done all the analysis, all the engineering is done. We've gone to the levels of completing the survey and finding where there are easements for the gas lines on site, et cetera. So we can configure the footprint based on the needs of an end-use customer. So we spent a great deal of time in NVIDIA with some of their teams, and they have a giga site. They have all the reference architecture for a GB 300 deployment for a gigawatt of power and everything is detailed down to the inch of fiber runs.
+
+So that type of build is obviously much more detailed and going to take a longer period of time than tilting up a powered shell and slotting in a modular solution like you'd see from a Submer, like you'd see from a company like Integra out of Houston. There are a number of these companies that provide that full MEP turnkey solution. So I think what is likely to happen is we'll probably execute on both simultaneously. The delay on Sealy, and it's not really a delay, it's just the energization schedule on ERCOT is fixed. The cool thing about that is the large load studies are done. There's no if, it's just when. And the first 207 megawatts energizes the first half of '27. Their commitment is April, but they have flexibility for the first half. So I think the conversations we've had with offtakers for Sandersville, they're looking to get something in the books fast with Sealy. It's also high demand and with the understanding that by Q2 '27, it's energized. And you can build in the meantime.
+
+James McIlree
+Chardan Capital Markets, LLC, Research Division
+
+Understood. And just one more, if I might. You talked about increased expenses. And given that as well as the recent prices of Bitcoin, will you need to sell the entirety of your Bitcoin production in order to cover your expenses?
+
+S. Schultz
+CEO & Chairman
+
+Not at all. We're generating 600, 700 Bitcoin a month, and we're doing so at a 54%, 55% gross margin. So the expenses we talked about and as we're building, I think it really depends on the lease we put together and the ability to leverage that lease for financing. But what we're seeing is that the -- depending on the credit quality of the end-use tenant, the LTVs are anywhere from 15% to 30%. Having just put up -- or the inverse of that, I'm sorry, 70% to 85%. The -- having just put up that $1.15 billion 0% bond, we're sitting on a pretty healthy stack of cash. And then as Gary mentioned in his prepared comments, we have $400 million in low single-digit interest unused capacity on Bitcoin-backed credit facilities. So I think you'll see us take more of a hybrid approach rather than sell the stack.
+
+And then the last thing, with regard to the compressed margins in the environment, having the highest uptime and the most efficient fleet in the nation means that as energy prices press up, margin compression happens to everybody, we just happen to make more money out of the same megawatts because of fleet efficiency and uptime. So I tell the story, it's like when my grandfather told me when 2 guys are camping in a tent and a bear walks into the camp site and the one guy puts on his shoes and the guy says, why are you putting on your shoes? You can't outrun a bear and he said, I don't have to outrun the bear, I just have to outrun you. And that's really what we see as our Bitcoin mining advantage. They're still industrial scale miners operating fleets greater than 20 joules per terahash with not significantly better power pricing than we do. So we have a ton of flexibility, and I really like the position that we're in to continue using Bitcoin mining.
+
+Operator
+
+Your next question comes from the line of Jon Hickman with Ladenburg.
+
+Jon Hickman
+Ladenburg Thalmann & Co. Inc., Research Division
+
+As you might imagine, most of my questions have been answered. But I was just wondering if you could maybe opine about there are others in the space that are trying to do the same thing that you're doing, taking Bitcoin sites and moving them over to HPC and AI, and they've been telling us they're going to do this, and it's been a year has gone by and there's no like lease. why would -- could you opine as to why it would be taking so long when there is so much demand?
+
+S. Schultz
+CEO & Chairman
+
+I'll tell you from my perspective, and then I'd certainly invite either of my colleagues to chime in on it. What we learned when we spent some time with NVIDIA and AMD, there are very specific reference architecture that is required for specific clusters. And I think that the challenge that we're seeing, and I'm certainly not casting aspersions on anyone's strategy. But I think if there is so much demand for a hyperscaler, but they want a specific cluster, be that the new Google chips or AMD or NVIDIA, the site needs to be specifically designed for those clusters. And I think building a site and then suggesting that it's flexible for somebody else to reconfigure or modify it, it could be useful, I think, is a little bit of a challenge. So to have it purpose-built to the specific architecture of the offtaker, I believe, is a real advantage. And having all these sites that are already energized that we're currently using those megawatts to mine Bitcoin give us that flexibility. I'm not in a rush. I don't have to do anything, quite frankly, until we have a lease, I don't even have to start construction because I want to make sure that it's built to suit for the offtake customer. So I guess my perspective, Jon, and again, I invite Harry or Gary to comment, I think the build it and they will come mentality doesn't apply if it's not to the specific architecture requirements of the end user.
+
+Harry Sudock
+Chief Business Officer
+
+I would just add one quick thing, Jon, which is just that the market today is different than the market a year ago. The demand profile has accelerated. The crunch for power is tighter than it was. And so we're seeing some of the hesitation that some of these offtakers might have had 12 or 18 months ago. The sense of urgency is just more significant, and that's going to represent a difference in execution time lines today than they would have looked like back then.
+
+Jon Hickman
+Ladenburg Thalmann & Co. Inc., Research Division
+
+Okay. And then I just have one question. On Sandersville, when you get the AI part built and it's time to flip the switch, what happens to the Bitcoin mining site? Like would they have no power you shut the shutter, would you?
+
+S. Schultz
+CEO & Chairman
+
+Yes. No, a couple of opportunities there. First and foremost, the ASICs would be migrated to a facility that needs them right now, and there's always plenty of demand for that. The facilities that we built -- and Jon, I don't remember if you visited Sandersville on our Analyst Day. But the facility is -- okay, so they're identical to what we built in Jackson, Tennessee as an example. So the cool thing is we build all the foundational stuff and then what goes vertical is basically bolt together. So we have the ability to repurpose those buildings based on any number of different factors. But no, it wouldn't be a write-off in mothball. It would be repurposing those assets for deployment elsewhere.
+
+Jon Hickman
+Ladenburg Thalmann & Co. Inc., Research Division
+
+But you would need more power.
+
+S. Schultz
+CEO & Chairman
+
+Yes, for sure. That's why we would move it somewhere else, like, for example, Wyoming or Tennessee or even other sites in Georgia, we would, for sure. Now Sandersville is a bit of an anomaly because there are some opportunities for power expansion there. And that's something that's still out for discussion, but the demand is significant.
+
+Operator
+
+And with your last question, it comes from Nick Giles from B. Riley Securities.
+
+Nick Giles
+B. Riley Securities, Inc., Research Division
+
+You spoke to a multi-gigawatt pipeline, and I was hoping you could break that down a bit. I mean how many of these opportunities would you describe as late stage? Or how soon can we see those drop down? And then which of your existing power markets do you see most of these opportunities?
+
+Harry Sudock
+Chief Business Officer
+
+Yes, Nick, great question. And I want to give you a historical example to kind of illustrate why we don't always give direct pipeline granularity as our business. So if you look back to the prior quarter's call, we talked about pipeline and it was contemplated in that environment. What wasn't contemplated in either of those numbers was the 285 megawatts that we purchased in Texas. And that's because the relationships that we have across the utility and infrastructure space are diverse, and they're all very warm and deep. And so there are opportunities that come out of the woodwork along the way that leapfrog to the front of list that we thought were very set.
+
+And so it's part of our capital strategy to have dynamic flexibility and execution with speed. And it's also part of the pipeline and relationship management that we do work on across the infrastructure and utility partners that we have. And so that type of dynamic flexibility is why we've been successful acquiring power and land and developing it with the quality that we have. And so when we look at that multi-gigawatt pipeline, a lot of those regions where we see expansion opportunities are places where we have deep relationships, the Georgias, Tennessees, Wyomings and now Texases of the world. But some of the utilities that serve those regions, I'll use TVA as an example because I'm a homer. Tennessee Valley Authority serves 7 different states. And so while it's the same utility partner, it bleeds outside the lines of the great state of Tennessee. And so those are the types of dynamics that we see replicated across those relationships and part of why we feel so good about the pipeline of growth opportunities and why we capitalize the business to hunt power and land, just like Gary said.
+
+Operator
+
+And with no further questions in queue, I'd like to turn the call back over to Harry for any closing remarks.
+
+Harry Sudock
+Chief Business Officer
+
+Everyone, thank you again for joining today's earnings call. We look forward to staying in touch and sharing future results with you in the coming quarters. Stay tuned for more progress and exciting achievements ahead of us at CleanSpark, America's Bitcoin miner.
+
+Operator
+
+This concludes today's conference call. You may now disconnect.

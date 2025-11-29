@@ -1,0 +1,447 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions]
+
+And our first question will come from Jim Rollyson with Raymond James.
+
+James Rollyson
+Raymond James & Associates, Inc., Research Division
+
+I don't know if it's John or Bud, but you guys have obviously historically been quiet on the power business. And obviously, that changed with your release last night. And plan to deploy more than 400 megawatts in a new strategic order.
+
+Can you maybe just back up and spend a minute on how your thought process has changed? What's your updated power strategy, and how Moser fits into that, given the equipment differences, please?
+
+John Turner
+President, CEO & Director
+
+Yes. Jim, this is John. I'll take that question. We've been intentionally tight-lipped until now about our power business because we wanted to share targets that were backed by a clear line of sight execution.
+
+Our power strategy really hasn't changed. We're simply advanced to the next phase of the next quarter. From the start, we knew success required an established platform with deep power expertise far beyond just ordering generators.
+
+The acquisition of Moser delivered exactly that: a seasoned team in engineering controls and manufacturing. We've since bolstered that with talent, experience in large-scale permanent projects, EPC partnerships, and negotiating long-term power purchase agreements to support our major investments.
+
+The secular tailwinds here are explosive, comparable to the oil and gas business in the mid-2000s when China became a super consumer. But with far broader customer depth, power is now the critical bottleneck across revolutionary U.S. growth areas from AI to electrification, solving that offers high equity returns and stability.
+
+Unlike the whipsaw of the oil and gas business, power delivers predictable long-term cash flows, making it far easier to justify sustained investments.
+
+Strategically, it's a straightforward position ourselves as an integrated power producer, behind-the-meter power provider of choice for building, owning, and operating bespoke solutions.
+
+To scale, we're augmenting our assets with higher density generation as evidenced by today, our 400-plus megawatt deployment target by early 2027, and the large equipment order we've actually placed.
+
+Now, as far as where Moser plays into that, our legacy business is mission-critical to our power charge strategy. It solves the current real-world data crisis, I mean, crisis right now, data centers and industrial projects are being built without assured power.
+
+Counterparties have invested billions in facilities at risk, staying dark and grid connections delayed 3 to 5 years.
+
+Our existing assets deliver immediate bridge power. We deploy proven in-place generation to projects operational now. These solutions aren't space-optimal, but they're vastly better than 0 output.
+
+Customers aren't waiting for perfect. They're choosing to stay in business. This positions power as a strategic enabler, not just a legacy unit. It generates stable cash flow, derisks customer commitments, and buys time to scale permanent power solutions.
+
+In short, the legacy Moser business isn't just fitting into the strategy; it's unlocking it.
+
+James Rollyson
+Raymond James & Associates, Inc., Research Division
+
+And as a follow-up, sticking to that same topic, I presume you have contracts or a line of sight to contracts to justify ordering the 240 megawatts of new capacity? And if so, do you guys plan, like some of the others in this business, to use those contracts to finance the equipment, kind of generally externally, other than deposits?
+
+John Turner
+President, CEO & Director
+
+Yes. I mean, the answer to that question, as far as line of sight to contracts, the answer to that is yes, we wouldn't have ordered the equipment unless we had line of sight on contracts, and those negotiations are currently ongoing.
+
+I'll let Blake talk about the financing piece of it.
+
+Blake McCarthy
+Chief Financial Officer
+
+Yes. I mean, with respect to the financing, like we're thinking through the lens of more like project financing, ask where, as John said, these are permanent power solutions.
+
+That's one of the key things about the equipment we're ordering. They're built to go into place and be stationary, and operate under very, very long-term contracts. And as such, that type of cash flow is very financeable.
+
+So, certainly thinking about it long-term financing there. And the capital providers see the same market trends that we all see. And so, it's something that is very accessible right now.
+
+James Rollyson
+Raymond James & Associates, Inc., Research Division
+
+Our next question comes from Derek Podhaizer with Piper Sandler.
+
+Derek Podhaizer
+Piper Sandler & Co., Research Division
+
+Maybe just sticking to the power theme. Can you help us understand the equipment that you ordered, the 240 megawatts from the third party? If you can provide us who the third party? I think you said there are 4-megawatt units.
+
+Are these turbines or these natural gas reciprocating engines? Maybe just a little bit more color on the actual equipment would be helpful.
+
+Tim Ondrak
+
+Yes. Derek, this is Tim Ondrak, and I'll take that question. So, we're not going to disclose the OEM on the equipment, but these are resi units. We like resi units for a couple of different reasons. And those come down to efficiencies and redundancies.
+
+So, these are higher density. They're a 4-megawatt gross output. And again, we like them because of the responsiveness of the redundancy.
+
+Blake McCarthy
+Chief Financial Officer
+
+Yes. As we mentioned that these are designed to be put in place and not moved. So these aren't trailer-mounted or anything like that.
+
+These are effectively creating many power plants, or not even many, but power plants that go in place, and they stay there under a long-term contract.
+
+James Rollyson
+Raymond James & Associates, Inc., Research Division
+
+Then maybe just on the CapEx related to the orders, maybe on a cost per megawatt basis. And does this include the balance of plant or any sort of battery that you'll need to support some of the high transient loads for some of these projects?
+
+Blake McCarthy
+Chief Financial Officer
+
+Yes. So the order includes the balance of plant, and I think, looking at it, we're in line with what others in the market have reported on a cost per megawatt.
+
+Until we have all of our contracts negotiated on the EPC side, I don't think we're ready to give a full cost per megawatt on the entire package.
+
+Operator
+
+Moving on to Stephen Gengaro with Stifel.
+
+Stephen Gengaro
+Stifel, Nicolaus & Company, Incorporated, Research Division
+
+You mentioned some of the higher operating costs at Kermit in the quarter. Can you talk about what caused those costs and how we should think about them when they normalize?
+
+John Turner
+President, CEO & Director
+
+Yes. So the issue at Kermit was really at Kermit was related to tailings in the pond where those tailings are kept.
+
+Our tailings are the waste product that remains after we extract the sand. We deposit tailings in the ponds where reserves have already been removed.
+
+And so every so often, a tailings pond fills up, and we have to go build a new pond. And this is all done in accordance with our 10-year mining plan. And so in August, we noticed that our current pond, which we were using, was near full.
+
+We began to build a new pond, but we were not able to build the new pond in time. So we had to put tailings into the pond where we were mining sand.
+
+The introduction of tailings to that pond led to inefficiencies in our wet plant and the Canyon process. So we ended up having to rerun all the wet sand that we had washed through the wash process the second time, which significantly increased our cost and also impacted the time it took for the sand to dry, and also led to elevated costs in the drying process.
+
+We have a new tailings pond that has been built. It was really the last pond we were mining reserves from. And the current dredges have been moved to their next reserve pond. And when the new dredges arrive in 2026, we'll open up another reserve pond.
+
+So we're also installing equipment to monitor the flow of tailings in the pond, so we'll be better informed and can better plan in the future. I would suspect that we're going to continue to see some elevated costs here as we begin the fourth quarter, but those costs are going to decline as we continue.
+
+And then once we bring those new dredges on next year, you're going to continue to see cost efficiencies and costs go down.
+
+Stephen Gengaro
+Stifel, Nicolaus & Company, Incorporated, Research Division
+
+The other one I just had was as we think about the balance sheet, maybe, Blake, on '26 capital spending, do you have an early read and maybe even the split between power and the sand business?
+
+Blake McCarthy
+Chief Financial Officer
+
+Yes, yes. We're still definitely in the middle of the '26 budgeting process. But I don't think it's going out on a limb, I want to say that CapEx in '26 is going to be down from '25 levels and likely very close to the maintenance levels we've always talked about, and I'm talking cash CapEx.
+
+With current conditions in the oil and gas market, the current price of sand, and incremental growth investments just aren't justified by the returns you can obtain in the market right now.
+
+So we're going to spend enough to keep the plants in good working condition and keep the Dune Express humming, but it's going to be significantly near year.
+
+With respect to the power CapEx, like I said, we're looking at the first large order through the lens of more project financing capital. And this initial order will have a minimal impact on '26 cash CapEx.
+
+That being said, the pace at which these projects are progressing, they're moving at a speed that we need to ensure that we're positioned to act. At times, this may require us to make down payments with cash before financing is fully secured, and we need cash on hand to do that.
+
+So that was currently a key part of the calculus of suspending the dividend so that we continue to build cash so that we're armed to take advantage of the opportunities down there.
+
+Operator
+
+Our next question comes from Doug Becker with Capital One.
+
+Doug Becker
+Capital One Securities, Inc., Research Division
+
+You're targeting to have more than 400 megawatts deployed by early '27. Just want to get a sense for how that reconciles with having about 225 megawatts of capacity in August and the old target of increasing 310 megawatts by the end of 2026.
+
+And just simplistically thinking about it, this would imply more capacity deployed than 400 megawatts.
+
+Blake McCarthy
+Chief Financial Officer
+
+Doug, it was a little garbled in the beginning, but I think what your question was is that with the target, the 400-plus target, how does that fit with the initial targets we gave when we announced the Moser acquisition? Is that correct?
+
+Doug Becker
+Capital One Securities, Inc., Research Division
+
+Exactly.
+
+John Turner
+President, CEO & Director
+
+I'll start, and others can add. When we originally announced our Moser acquisition, we talked about 2 numbers. We talked about our total fleet, and then we also talked about the deployed.
+
+So let's go look at what nameplate capacity was when we acquired Moser. It was 212 megawatts is which was in the presentation, what we announced.
+
+By the end of 2026, on the legacy fleet, that number is going to grow to 262 around 260. And then by the end of 2026, that number is going to be around 280 megawatts.
+
+You add so then on top of that, so that's total deployed. Then, if you add what we're adding to new, that's going to be another 240 megawatts. So your total deployable or nameplate capacity of our plant is going to be 500-plus megawatts.
+
+Now, if we go back, when we're talking about 400 megawatts, we're talking about what's deployed. That's not our nameplate capacity. That's what deployed.
+
+So when we bought Moser and announced it, our total deployed at that time was around 130 megawatts. That number will be around 160 by the end of 2025, and that number will grow to 180 to 200 by the end of 2026.
+
+So we continue to grow the Moser fleet. But then, if you add on top of that, you add with the new order of 240, you get 400-plus megawatts of deployed power.
+
+So we continue to grow that legacy business. And with the addition of these new assets, that's just an addition to that. Nothing's really changed.
+
+Blake McCarthy
+Chief Financial Officer
+
+Yes. And I think to distill it down to probably what matters most to you guys is that at the time of the acquisition, we talked about, hey, we're going to grow the fleet to 310 megawatts, and that's going to translate to an exit EBITDA run rate at the end of '26 to approximately $8 million.
+
+With this new target, the power EBITDA target is revised up. And so think about it as we're allocating incremental capital to a very high-return investment opportunity.
+
+John Turner
+President, CEO & Director
+
+Yes. And I think just add a little more color to the fleet. So when we guided to -- I think it was 310 megawatts, which was based on our production capacity.
+
+So we have actually done some things to increase our production capacity, but we also want to be opportunistic with a portion of our fleet. We've got a portion that's out today working with oil and gas.
+
+We've got the new equipment that we've ordered that we expect to be deployed late 2026, early '27. And then we've got a portion of our fleet that allows us to be opportunistic to provide these bridge power solutions that end up leading to our team developing a bespoke, permanently installed solution.
+
+And so that flexibility and manufacturing capacity allow us to do that, and we'll continue to be opportunistic as we look to grow those megawatt numbers.
+
+Blake McCarthy
+Chief Financial Officer
+
+Yes. And I think that's a really key point, Doug, is that with respect to the Moser assets, they provide a vital link for a lot of these permanent power opportunities.
+
+These are customers that are coming to us in a bit of a state of panic, where they're like, hey, we've made hundreds of millions, billion-dollar investments in these facilities. And now we're being told, like, hey, like, yes, you can connect to the grid and you're going to get a fraction of what you actually need to run the facility.
+
+And they're like, well, hey, like we need to get into Phase 1 immediately, we need power now. And the thing is with these assets that actually, for the equipment you need for the permanent solutions, there are lead times on this.
+
+So there's a gap there. And most are assets, while not ideal from a footprint standpoint, that's a heck of a lot better than the lights not being on. And so it pulls forward the revenue opportunity for us, but more importantly, it allows them to operate their facilities.
+
+And we think, a key advantage in terms of these conversations where, hey, like we can be the problem solver for you.
+
+John Turner
+President, CEO & Director
+
+Yes. As we said earlier, the legacy business is a critical part of our business, and it's unlocking the permanent power business for us.
+
+Doug Becker
+Capital One Securities, Inc., Research Division
+
+Maybe just thinking about the market for reciprocating engines, a number of other players have announced orders without contracts signed.
+
+I think they probably have a good line of sight. But how do you assess just the supply of uncontracted recip capacity and how that plays into contracting for Atlas over the next several months?
+
+Ben Brigham
+Founder & Executive Chairman
+
+So I think the market for any type of natural gas-fired generation equipment is incredibly tight right now.
+
+And so when you go back to the press release we put out on the 240 megawatts of power that we bought, I think it was critical for us to get a hold of those assets. And that allows us to end up deploying them.
+
+I think when you look at the rest of the market, there are only so many engine blocks that are manufactured every year. And so we will continue to be opportunistic when assets become available if they fit solutions for customers that we're talking to.
+
+And the comments that John and Blake made about the motor platform opening doors for us, we expect the same thing out of these equipment orders, that they continue to open doors.
+
+And while we're in active negotiations for placing that 240 megawatts, we expect that that will bring more folks to the table. And when you go back to retaining capital in the business, we're doing that so we can act on all these opportunities.
+
+Blake McCarthy
+Chief Financial Officer
+
+Yes. I think it's really hard to understate the rate of growth that we're seeing in the opportunity set.
+
+Like, just over the last 3 months, we talked about that tangible opportunity set approaching 2 gigawatts. That was a heck of a lot smaller just 3 months ago. And it's increasing at a pace. And we drafted that number 2 weeks ago. And since then, the number of phone calls we've gotten, I think we updated that number, it's probably moving up.
+
+So the demand growth, I think Bud said, like he hasn't seen anything like this in his entire career, it's pretty wild. And I think we're all just trying to sprint to keep up with it.
+
+Operator
+
+We'll go next to Keith MacKey with RBC Capital Markets.
+
+Keith MacKey
+RBC Capital Markets, Research Division
+
+Maybe just continuing on the power generation opportunity. Can you just discuss a little bit more about what's in that 2 gigawatt number that you put out there for the potential market opportunity?
+
+What types of opportunities are those comprised of? Where do you see that growing over time? That type of commentary would be helpful.
+
+John Turner
+President, CEO & Director
+
+Yes. So I think I can give a little bit of color on that. So I think when you look at that 2 gigawatts, there's a core of that that will continue to belong to oil and gas, and that's in the applications that we're using our units in today.
+
+It's in microgrids to continue to support oil and gas development. So that's going to be about 10% of our mix and our opportunity set. I think there's another 40% that's in C&I opportunities, which I would take the univers groups of our opportunities.
+
+I would say everything that's not a data center is a C&I opportunity. That's how we're defining that. So about half that opportunity set is C&I and oil and gas. And the other 50% is going to be data centers. And so we're getting a lot of inbounds from data centers.
+
+We're not actively hunting that market. But I think because we have power, they're finding us, and a lot of them are these smaller bridge opportunities where the conversation immediately goes to, can you solve this near term, and what solutions do you have for the long term?
+
+Ben Brigham
+Founder & Executive Chairman
+
+The near term could be 3 years, maybe longer.
+
+John Turner
+President, CEO & Director
+
+A lot of that's driven by equipment lead times and what the proper solution looks like for that customer. And so again, we think we're uniquely positioned to provide a bridge that opens these doors for permanent installs that are 10-, 15-, 20-year power plants.
+
+Blake McCarthy
+Chief Financial Officer
+
+When you look at that split, 90% of that -- let's talk about the C&I space. In the C&I space, we're looking at 10-plus-year contracts on supplying that power. So these are all very attractive opportunities from a risk-adjusted basis for us to deploy capital.
+
+Keith MacKey
+RBC Capital Markets, Research Division
+
+And I know Blake touched on the EBITDA or earnings generation and the increased target for what you can generate with the megawatts you'll have in the field.
+
+Would you be able to just put some maybe guideposts around how you're thinking about that? I know others in the market have said it's somewhere between a 4 to 6x EBITDA build multiple for the CapEx for these types of opportunities.
+
+Would you be roughly within that range? I know certainly a sensitive time for the negotiations, but any way we can think about the earnings power of this new opportunity would be helpful.
+
+Blake McCarthy
+Chief Financial Officer
+
+Yes. I'm going to refrain from going into specifics just because we have ongoing negotiations.
+
+But I think that with respect to how you think about it, I wouldn't be too far off on the EBITDA per megawatt generation that you've seen from others in the space.
+
+Operator
+
+Moving on to Sean Mitchell with Daniel Energy Partners.
+
+Sean Mitchell
+Daniel Energy Partners, LLC
+
+Just one for me. Just when you talk to your OEMs, I mean, I know you're not providing who's building these for you, but just OEMs at large, what are lead times like for gas recip engines today? And where is that going over the next 2 years?
+
+John Turner
+President, CEO & Director
+
+Yes. So it varies, but the majority of the OEMs we're talking to are taking orders for 2028 and beyond delivery.
+
+It really depends on what you're looking for. I think there are some large players out there that have recently announced bigger deals and bigger orders. And so that has sucked up some of these blocks into 2030.
+
+And so, like I said, it varies. But typically, it's going to be 2028, and maybe there's somebody who has canceled an order, and we can step in and be opportunistic with picking up those assets if we've got line of sight to.
+
+Blake McCarthy
+Chief Financial Officer
+
+Yes. And that's why it's so critical, though, that we're armed with capital to pass on it. These slots are very valuable, and we're not the only ones looking to take advantage of them.
+
+So when an opportunity arises that aligns with the commercial opportunity, we have to be positioned to move quickly.
+
+Sean Mitchell
+Daniel Energy Partners, LLC
+
+And then maybe Blake or John, just as you think about the traditional business and the 10 million tons Dune Express at some point, I mean, if we're at a $65 world next year or through next year, what price do you think these guys are going to get back to work? Because it feels like everybody is taking a pause right now.
+
+Blake McCarthy
+Chief Financial Officer
+
+Yes. I think that it's just it's continuing at the current pace. Like, I think everybody is just waiting to see which way the wind blows.
+
+I think guys like you are part of the problem. We all read the same stuff where it's like, hey, the price of oil is going to fall off here in the next 6 weeks. And so when crude hangs in the low 60s, but there's a risk that it's going to fall to the low 50s, nobody is going to put more equipment to work.
+
+On the flip side of that is that you are starting to see the production statistics start to move in the right direction. But I think it's just a wait-and-see. And then there's no impetus right now at the tail end of the year for people to spend more CapEx.
+
+So I think that we'll see the customers are a bit opaque in terms of, like, what their plans are. And I think that's because they're working through their own budgeting processes.
+
+But the signals that we have received through RFP season thus far have been very encouraging from our standpoint, and just in terms of being able to gather incremental share.
+
+And so like that's what we're focused on right now. Our expectation right now is that '26 is more of the same that we've seen in '25. And so it's up to us to go execute in that type of market. We know the playbook, and we're ready to go.
+
+Operator
+
+Our next question comes from Eddie Kim with Barclays.
+
+Edward Kim
+Barclays Bank PLC, Research Division
+
+Just on the power business, do you currently contemplate the entirety of the 240 megawatts you just ordered to be deployed on a single project?
+
+Or is it going to be split up into multiple different projects? And just based on your discussion of the end markets, it feels like the 240 megawatts is going to be deployed in something other than like a Permian micgrid supporting artificial lift, so likely in other C&I or data centers.
+
+Would that be a fair assessment to make?
+
+John Turner
+President, CEO & Director
+
+So we don't expect that to be deployed in the oil and gas. We've got multiple opportunities that 240 megawatts could deploy into. I would expect that it's probably not more than 2, and it potentially could go to one project.
+
+Edward Kim
+Barclays Bank PLC, Research Division
+
+My follow-up is on the base business, and apologies if I missed this. I know you haven't provided 2026 guidance yet, but any way you could help us think about your volumes for next year, even just directionally?
+
+It feels apparent that the Permian frac crew count is going to be down next year on a year-over-year basis. So, should we expect a similar trajectory for your volumes sold as a base case and maybe flat year-over-year in an upside case scenario? Just any thoughts there would be helpful.
+
+Bud Brigham
+
+Yes. This is Bud. I might start, and these guys may add to my comments. Blake touched on it that none of us have a really good sense of when oil is going to bottom.
+
+And of course, oil drives sand consumption, whether that's the fourth quarter or whether it pushes out through 2026, it's really hard to say. But my personal view is that for Atlas, in terms of where we sit in this trough that the fourth quarter is the trough for Atlas, in part because our competition is getting weaker.
+
+We are the lowest cost producer, and we have significant logistical advantages, including, of course, the Dune Express. So, as we mentioned, our market share has grown.
+
+We think that will continue to happen through next year. And so that's why I feel like this is likely our trough from an Atlas perspective, even if oil prices do stay soft, which is probably likely through 2026.
+
+But we all know that the longer oil prices are down at these levels, the stronger. The upswing is going to be on the other side. And that's when Atlas is really going to be poised to perform extremely well.
+
+Blake McCarthy
+Chief Financial Officer
+
+Yes. And we're running through the RFP season right now. I said this in my comments. Everything is looking really good right now. I mean, we're looking like, as far as the volumes go, I mean, like Bud said, we're going to gain share. It's not good.
+
+Pricing is low, but we're doing what we should with our low-cost advantage. I mean, most other folks aren't producing any cash flow in the sand and logistics business.
+
+But we obviously still have really good margins and are generating cash flow. It's not the cash flow we want to generate, but it's good cash flow, and we're positioning ourselves for the upswing.
+
+I also think the adoption of the Dune Express was muted last year, with Liberation Day happening. But we are getting an opportunity to fill out those tons this year with opportunities that are coming up.
+
+So we're going to have more about that as we move into the fourth quarter, and when we report next year, we're going to have more to talk about. But we're optimistic about the volumes we're going to see next year.
+
+Operator
+
+Lee Cooperman with Omega Family Office has our next question.
+
+Lee Cooperman
+
+I tuned in a little bit late. I apologize if this question was addressed. Have you suspended your buyback program? Number one? Number two, how much stock have you bought back at what prices did you pay when you bought it back?
+
+Blake McCarthy
+Chief Financial Officer
+
+So we still have a $200 million share buyback authorization in place. We executed a very small amount of that a quarter ago, but we did not execute any during this current quarter.
+
+So, that is certainly when there are multiple means of returning capital to shareholders, and we're always looking for the highest return means of increasing shareholder value. We do think that the power opportunity is a once-in-a-generation opportunity.
+
+We announced the 240-megawatt order yesterday. This won't be the only one. We had the confidence to make this order because of where we are in negotiations.
+
+But I said that's 240 megawatts compared to an opportunity set that is rapidly, rapidly expanding. And so we are working to continue to grow that announcement training.
+
+That being said, based on our current forecast, we should be building cash over the course of 2026. And that creates a lot of optionality with respect to how we deploy that.
+
+Where the stock is currently trading, we think management believes that it's significantly below the intrinsic value of the stock, and that's certainly a very high return way of creating capital value for shareholders.
+
+Lee Cooperman
+
+Despite the elimination of dividends, you would not rule out stock repurchase as a use of capital.
+
+Blake McCarthy
+Chief Financial Officer
+
+No, sir, by no means.
+
+Operator
+
+This now concludes our question-and-answer session. I would like to turn the floor back over to John Turner for closing comments.
+
+John Turner
+President, CEO & Director
+
+I want to thank everyone for participating. Thank you to our employees for all the hard work. To our customers and partners, thank you for your continued confidence. And to our shareholders, thank you for your support as we build the future together.
+
+We look forward to reporting our fourth quarter results and talking more about 2026 and some of the exciting developments that are happening on the power side at our next call. Thank you.
+
+Operator
+
+Ladies and gentlemen, thank you for your participation. This does conclude today's teleconference. You may disconnect your lines and have a wonderful day.

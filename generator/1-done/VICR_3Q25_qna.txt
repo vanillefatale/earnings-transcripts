@@ -1,0 +1,361 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] And our first question comes from the line of Quinn Bolton with Needham & Company.
+
+Unknown Analyst
+
+[indiscernible] Phil and Jim, congratulations on the nice results and especially on the IP licensing side of the business.
+
+I guess I wanted to start there on IP licensing. Royalty revenue more than doubled quarter-on-quarter. And I'm just wondering if you can -- give us a little bit more detail as to what drove that increase? Did you guys sign additional licenses in the quarter that generated higher royalty? Were you able to come to terms with one of your existing licensees about royalty payments on their latest generation architecture? Just -- any color you can give us on what drove that increase would be super helpful.
+
+And I guess the follow-up question is, would you expect that royalty revenue to continue to trend up? Or were there perhaps some back quarter payments included in the third quarter licensing?
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+So to your point, we're able to come to a compromise and accommodation with an existing licensee who took an additional license for a time period of 2 years is some of that 2-year time frame, to your point is in the past. So within the quarter, we recorded the payment that includes a catch-up for a few months of the year. There's going to be recurring payments every quarter.
+
+And in terms of answer your question as to where licensing income is going, I think as we commented in the press release yesterday, our licensing income is going up substantially, as Jim reported in his prepared remarks. We expect licensing income to grow at the rate that could be of the order of 50% a year.
+
+We have line of sight to doubling our licensing business within a couple of years based on a combination of factors and actions that we are preparing to execute.
+
+Unknown Analyst
+
+That's great. I guess the second question for me, just on the licensing or the IP-related royalty. I believe in the past, you've said that certain licensees or certain licenses that you grant may also include product revenue such as your NBM modules as part of the license agreement. In the press release yesterday, where you talked about the $300 million of IP-related revenue, is that just the litigation settlement plus the royalty income? Or are you including some portion of NBM or product sales in that $300 million related to license agreements?.
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+In that figure, we're including some of the module business that is in effect related to the licensing deals. So in terms of gauging the licensing business by itself without including the module component, I think we can point to the $90 million run rate achieved in the third quarter as the current level of, if you will, the licensing business component of Vicor, which at this point in time, I would submit, should no longer be viewed as just a power module maker, but should be viewed in terms of assessing its value as the combination of 2 businesses, the licensing business that is growing very rapidly.
+
+It's got some lumpiness to it. It's got a lot of opportunities and upside on the one hand. And a module business supported by $1 billion plus fab, one of it's kind in the universe. That's not been growing, but it will be growing based on the performance levels we achieved with our second-generation VPD, which as Phil reported in his prepared remarks, fits a need, fills a void that is very much a subject of concern and limitation in the [AI world].
+
+Operator
+
+Our next question is from Jon Tanwanteng with CJS Securities.
+
+Jonathan Tanwanteng
+CJS Securities, Inc.
+
+Congrats on the strength in the IP and licensing business. I was wondering if you could talk a little bit more about the strength you saw in the quarter. Was it only from one customer that you came to terms with that caused the sequential jump? Or was there other licensees that you signed up and other royalty streams related to that?
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+So I guess as we look back at what has come about this year, on the eve of [further delineation] from the International Trade Commission, our first ITC case, which, as you know, resulted in exclusion order. Prior to that we signed up a substantial hyperscaler. So that was in general. We then settled dispute with one of the respondents in the ITC case. So that came into our second quarter performance. And in the third quarter, we, as I mentioned earlier, entered into a second license with an existing licensee, that still has a first license. So that's been the progression...
+
+Jonathan Tanwanteng
+CJS Securities, Inc.
+
+Okay. Great. That's helpful. And then I was wondering if you could talk just about bookings for the next quarter and a couple of quarters. You had a nice step-up in the book-to-bill, just backing into it. Is that just the catch-up from the tariff headwind that you faced? Or is there more organic demand there underlying that?
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+Well, so depending on end markets, there is a different level of activity. Phil can tell you more about that in a moment. But from my perspective, we've been allowed in terms of growth in product bookings and shipments for a combination of reasons, which effectively addressed the delivery of generation components and second generation vertical power delivery.
+
+So as suggested in Jim's earlier remarks, we expect to fill the fab. As we do that and no longer suffer from significant underabsorption having in fact, put a lot of capacity in place in anticipation of demand. We're going to see all these parameters grow substantially, starting with bookings, backlog and the top line from product revenues.
+
+Philip Davies
+Corporate VP of Global Sales & Marketing and Director
+
+Yes, Jon, as I mentioned on the last call, I see the base business, as we call it: Industrial, aerospace and defense, I mentioned that I see that strengthening as we go through the year, and that's what happened in Q3.
+
+Operator
+
+Our next question comes from Richard Shannon with Craig-Hallum Capital Group.
+
+Richard Shannon
+Craig-Hallum Capital Group LLC, Research Division
+
+Maybe I'll address kind of a 2-part question here on the IP revenues here. First of all, I'd love to get a sense here of how many customers are -- do you have licensed now? And I certainly understanding that one of them has 2 different licenses. How many that you might expect here over the next couple of years or so?
+
+And then last call, you talked about the potential and actually, I think you talked about this in the shareholders' meeting as well. But the potential of seeing as much as $400 million worth of return on litigation investment through the end of '26. You didn't use that language today, although previous answer from Patrizio suggested that's the case. So I just want to confirm that that's possible?
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+Okay. Let me start with the last one, then I'll go back to the first. So -- with the progress made as we came through the first, second and third quarter of this year with licensing deals done in every quarter. Our expectation with respect to total returns from what we call [LEO 1], our first ITC action has been growing. And we've been able to raise our target for returns, not just today, but through the end of next year and after that.
+
+One should understand that the existing exclusion order will remain in effect for the life of the patents. It will affect -- and this is a very important point, not just those parties, which were directly involved in that case. But because of dependencies from contract manufacturers that were respondents in those decades, it will affect from the foreseeable future. Any other OEM and hyperscaler that is dependent on those infringing products.
+
+Let me go to the other part of your question with respect to how many licensees that we signed up and how many do we expect to sign up. First by addressing the second part. We expect in the next couple of years to sign up each OEM and each hyperscaler in the AI space, and data center space. We know that's not going to be easy. But given our visibility with respect to the product roadmaps, the existing solutions, the coverage of our comprehensive plan portfolio over various aspects of bus conversion, density bus conversion over a wide range of voltages all the way to the point of load with respect to first-generation of VPD, which Vicor invented, but chose not to practice because of it 's limitations.
+
+I don't see any hyperscaler or OEM with, in effect, state-of-the-art solution being able to do without Vicor power system IP. We have very well thought that. And obviously, it's been very effective strategy to assert IP, protect our innovations. And get compensated for it. And I see that continue to stand and involving the entire marketplace of OEMs and hyperscalers.
+
+Richard Shannon
+Craig-Hallum Capital Group LLC, Research Division
+
+Okay. Great. I want to follow up on a response to a prior question here about engagement with second-gen VPD here. And I think if I caught it correctly, you talked about being engaged with an OEM and a hyperscaler. I wonder if you can provide any more details on how long this has been going on, applications that you're working with? And how long you expect the qualification process to last?
+
+Philip Davies
+Corporate VP of Global Sales & Marketing and Director
+
+Richard, it's Phil. So I'll take that one. So we have been very, very laser focused on our lead customer, right, as we brought the technology through. And now we're very close Q1 of next year to production. So we have been talking to pretty much everybody in the industry. But what we've done now in terms of the second phase of our VPD launch is to really focus in on 2 or 3 companies, hyperscaler and a couple of OEMs that offer major, major growth. They have huge potentials because of their scale in terms of both the hyperscale and their reach as OEM sort of chip manufacturers.
+
+And we've been talking to them for a while. And they have obviously been working with others in the industry, looking at their VPD solutions, infringing VPD solutions, albeit, but they have not been able to meet the specifications that they've put forward to the competitors -- so-called competitors of Vicor. So they're very, very excited now that we're ready to engage -- and Q4, we'll see that happen in earnest. And in terms of when I believe we will get to market in terms of sort of pre production, it's probably the second half of next year. And towards the end of Q3 going into Q4.
+
+Operator
+
+Our next question is from John Dillon with D&B Capital.
+
+Unknown Analyst
+
+Congratulations. It's really good news all around. Phil, I've got a follow-up question to Richard's. And that's the second-gen VPD deliveries to your lead customer. Have you achieved the 133% solution yet? Or when do you expect to?
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+I'll take that one. So to date, we delivered units to the original target. We're working on the 133%. We just taped out a device that will enable us to get there. We're going to have initial samples of that device in January. So we're on our way to the set goal of 133%. But thus far, we met the goal of the original, current requirement.
+
+Philip Davies
+Corporate VP of Global Sales & Marketing and Director
+
+And then John, let me just add to that, that the -- even the 100% goal that we fit with our lead customer is significant enough to get design wins with these other customers I'm talking about, all right? So we're so far ahead even of the competition that they're looking at Vicor because it's not just current density, I mentioned the thinness of the package. They're also telling us they need solutions below 3 millimeters in height, and no one is able to do that. They're all at about 5 millimeters. So that's a critical spec as well. We hit that 50% smaller than what they want. So again, they're very excited. And what we've got is good enough to get going. And then we'll just up the bar as we bring the 133% through.
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+Let me add a comment to that regarding thickness, right? So VR solutions with gearboxes and so on and so forth are quite thick, several millimeters, quite clumsy, thermally inept as opposed to that, very difficult to thermally manage, very costly, not [innately] reliable.
+
+There are IVRs, which are -- and are capable of up to about 1.5 amps per square millimeter current density. But they are challenging in other respects, which is in order to achieve the level of current density, they need to be supplied with 1.8-volt, which at high power levels implies a huge cost that need to get delivered at such a low voltage, very close to the point of load. And that was one of the points that Phil in his prepared remarks made.
+
+So the predicament for any customer seeking a VPD solution and looking at conventional approaches ranging from traditional VRs to IVRs, which is, in a way, a renewed attempt at that which Intel did with fiber many, many, many years ago, right, with very mixed results.
+
+They have relative to one another, certain advantages and disadvantages in particular. The VRs are typically powered nowadays from 5 or 6 volts. So power delivery to a VR is not quite as challenged as 1.8 volt. But then the VRs are thicker in terms of [indiscernible] solution, they must run at a much lower frequency, they've poor duty cycle. So that's Phil's point with respect to peak your poison.
+
+If you want to raise the intermediate bus voltage in order to get somewhat more efficient power distribution, your challenge in the voltage regulator, which works on an average in principle, is dividing a voltage by fundamentally mixing that voltage source with ground. And as you raise the level of voltage source as the upper voltage gets close to ground, you have to operate with a very low duty cycle, which is inefficient.
+
+Or in the alternative, you make the duty cycle efficient, 50% or so by going to an IVR, but then the problem is you can't efficiently feed the IVR. And fundamentally, the issue is that whether it's VR or IVRs, they don't have car game. And they insert a loss in the case of IVRs, which is upwards of 10%. And for that loss, you only get a factor or 2 car game which is nothing if the GPU, TPU needs thousands of amperes, right? I think it's been noted that the typical house power inlet is 150 amps.
+
+Obviously, it's a much higher voltage and that you can power whole house. But the challenges of distributing a 1,000 amp, or 1.8-volt are a significant handicap with respect to IVR. So they all have their trade-offs. They're all fundamentally constrained by the same laws of physics, which are lacking car game, make them somewhat handicap with respect to keeping up with processor road maps and processor current density requirements.
+
+Unknown Analyst
+
+Yes, yes, I get that. Because of Ohm's law, the low voltage is really going to be a handicap for them, and they're going to have incredible transmission losses and extra heat that they've got to remove. So I get that. It's good. That's a great explanation.
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+It's not just Ohm's law. It's Kirchhoff's law. There's few laws at play. But the bottom line is they're up against those of physics which are not changing, right? And fundamentally they can make a trade-off, make a different trade-off. They gain in one respect, but then they lose in another. And that's the dilemma that is ongoing with respect to that approach to powering AI.
+
+Unknown Analyst
+
+Got it. My follow-up question is pretty simple. It's -- I thought I heard earlier that you said production quantities in Q1 for your lead customer. But then later on, I heard Q3 or Q4. So I'm wondering if you could just clarify, I don't think I've heard that correctly.
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+I think we're talking about different customer...
+
+Philip Davies
+Corporate VP of Global Sales & Marketing and Director
+
+Yes. So our lead customer is Q1, John, I mean I was talking about other customers next year in the second half, end of Q3, Q4 for other customers for production...
+
+Unknown Analyst
+
+How are you getting from prototype to production so quickly? That's incredible. I mean that's really fast.
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+Okay. Well, so the prob metrics with respect to current multipliers at higher or lower current levels is extremely scalable. We're going to have complete make up ready for sampling. And then when it comes to the adoption time line, it's to a high degree, accelerated by the need for a solution lacking acceptable alternative solution based on conventional technology, again, VRs, IVRs and an IVA architecture. That's handy capping solutions.
+
+I can tell you that even though subsequent generations of GPUs have used Vicor technology, at least for bus conversion, now then as in terms of its power system, deliver the requisite power car level that the silicon team had targeted. And this is a compromise that is very challenging, clearly, particularly as the AI space gets more competitive with, obviously, some increase in credible threat of competitive alternatives.
+
+Philip Davies
+Corporate VP of Global Sales & Marketing and Director
+
+Yes, John, I'd also like to say there's lots of stuff going on in parallel, and there's nothing like having your own vertically integrated ChiP fab. We are in full control with short cycle times, right? So there's a lot of other things going into that and -- that are advantageous for us getting to production in Q1 next year.
+
+Unknown Analyst
+
+Congratulations. This is great news. Great job, guys.
+
+James Schmidt
+Corporate VP, CFO, Treasurer, Corporate Secretary & Director
+
+I'd just like to add to what Phil has said, which is the cycle time and it might be an opportune time to mention how different Vicor is now compared to a couple of years ago. So we have an internalized fab. We have very, very short cycle times. We have great yield, fantastic inventory control, quality control and on-time delivery, all the metrics that you care about operationally are really now in a place that we're very, very happy about. It's a big deal for Vicor.
+
+And I think that what one point I made in my prepared remarks under absorption on the product revenue side is suppressing what would otherwise even be higher margins for the company. We make great standard margins because the pricing captures value but because we're not lowering the factory, we're absorbing under absorption variances. So that's a future state for us to all be very optimistic about.
+
+Operator
+
+Our next question comes from the line of [Patrick Connors] with Ajax Capital.
+
+Unknown Analyst
+
+Congratulations on a good quarter. I know defending your IP has been a slugfest. So congratulations on the hard work. As you go into production in Q1 for your lead customer and a potential large hyperscaler in the horizon, are there any concerns about deploying a second source or you had any pushback from your current clients or future clients about not having a second source? And how are you addressing that?
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+So that's always been an issue and will remain an issue. We have ways to deal with that. Obviously, a licensing practice provides opportunity for multi-sourcing. But in and of itself doesn't give rise to the know-how and core technology. It is just fundamentally a covenant not to sue a license that ensures that the supply chain is not going to be interrupted by injunction or exclusion order.
+
+But we're open as needed to different business arrangements, including fabs that could be owned with shared ownership and other ways to accomplish what you identified as an issue that has been there and will remain there. So we are prepared to deal with these needs. We understand given the pace of growth in AI that there is a need for multi-sourcing. You can't have total dependency on any one source. And we're prepared to enable that through the licensing model, which provides flexibility with respect to the IP as well as with respect to the fab that could be replicated in other parts of the world with a lead time of about a year.
+
+Unknown Analyst
+
+Okay. One quick question is you quoted 98% yields right now. Is that at size right now? I mean I don't know how you measure that. Can you give us some kind of clue as would that satisfy your lead customer?
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+Yes, that's a very good yield in this industry. It's a record yield for us. It's a great yield. To be clear that's for particular module that we make upwards of 100,000 a month. So that will not be applicable to devices that are not in mass production.
+
+Operator
+
+Our next question comes from the line of Quinn Bolton with Needham & Company.
+
+Quinn Bolton
+Needham & Company, LLC, Research Division
+
+Just wanted to come back on the licensing or the royalty revenue to date. Can you give us a sense, is all of the licensing revenue today just from your power module patents? Or have you started on the 2 or the licenses you have in hand, does that include vertical power or not?
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+It does not include vertical power. It only stems from the assertion of IP to a few certain patents that we have to NBM technology. We have other patents to NBMs. We have lots of patents with respect to VPD power package. None of these have been asserted yet. Now as I mentioned earlier, the first LEO, the first limited exclusion order with respect to those patents without to infringe is going to be enforced for many, many years.
+
+And it's going to be enforced more broadly as time goes on and we identify the customs -- U.S. customs infringing products manufactured by contract manufacturers, particularly the ones that were respondents in our first ITC case. And again, that can affect other customers of those contracts manufacturers. And in fact, it's one of this kind of developments that led us to the license that was entered into -- in the third quarter. But all of the actions have been revolving around the very first case.
+
+Quinn Bolton
+Needham & Company, LLC, Research Division
+
+The very fist case. So short summary, you will have another opportunity to go back to customers to license the vertical power at the point you choose to serve those patents in the future?
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+Absolutely. So the hyperscalers, OEMs that we've been communicating with over time, in some cases, for 3 years or more. They understand how our licensing practice works. The cost of license in terms of royalty rates -- starts at a level that is very attractive relative to taking a license at a later stage.
+
+And we have 7 stages ranging from a stage where there's been no complaint filed, no litigation, rates are attractive to what we call Stage 7, which is after this injection or customs stop importation of infringing products into the U.S. There is every incentive for OEMs and hyperscalers to take a license proactively, right? As opposed to playing a game of catch me, if you can because if they play that game, I think we already demonstrated that we'll catch them, and that's going to be very, very expensive.
+
+Quinn Bolton
+Needham & Company, LLC, Research Division
+
+Got it. And then a quick one for Jim. Jim, you mentioned the One Big Beautiful Bill caused a pretty nice tax benefit in the third quarter. Can you give us some assistance on what we should be thinking about for future tax rates in Q4 heading into next year? I think previously it may have been in the mid-teens percentage rate. But any help you can give us with the tax rate given the One Big Beautiful Bill?
+
+James Schmidt
+Corporate VP, CFO, Treasurer, Corporate Secretary & Director
+
+Yes. So Quinn, I can't really say much about next year right now, but I can tell you that fourth quarter would be low single-digit expectation.
+
+Operator
+
+[Operator Instructions] And we have a question from the line of Mr. [Neil Gore].
+
+Unknown Analyst
+
+Great quarter, guys. On your licensing deals. Are they similar to most licensing deals where you get money upfront granting the license then on an ongoing basis, you get a small percentage of the sales?
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+We actually don't look for money upfront. Obviously, we have all cash and the cash reserves are growing, even though we've been buying stock. So we make it easy for OEMs and hyperscalers to take a license. They don't have to put up any money upfront. They have to commit to using the license. Their fee to, in effect, pay as you go in one licensing structure depending on the use they make of the technology.
+
+Unknown Analyst
+
+Okay. And the companies that have been licensing from you for more than a year, is there revenue growing on a regular basis? Or is it pretty flat?
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+So I think we have examples of both. So we have one example with an hyperscaler where the royalty rates increased at about 3% per month. We have another example where the royalty is fixed by quarter for a number of quarters. So -- and this reflects in effect, the fact that depending on the OEM, the hyperscaler, the issues might be different. We're very flexible, not rigid with respect to, in fact, enabling what works best for that particular licensee to be turned into a license.
+
+Unknown Analyst
+
+Okay. And one last thing. About 2 years ago, you said you planning to be a $1 billion company. Most companies have 5-year plans. Are you on track to achieve what your plan was initially set out for within the time frame that you thought you were going to achieve it?
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+Yes. So we are almost half of the way there, right? This year is going to be quite good. You can extrapolate to the end of the year at this point given the track record of the last 3 quarters. I think as suggested in answer to questions, going back to maybe about this time last year when I think I stuck my neck out indicating that this was going to be a record year for Vicor. It's playing out, as Jim summarized earlier to be a record year in all respects, top line, the bottom line, EPS. But we are not quite half of the way there to EUR 1 billion. So what's going to get us there?
+
+Well, filling the fab by itself will get us just on product revenues past $1 billion. Because actually, the capacity of that fab has been going up, particularly with fifth generation products, our second-generation VPD devices, which being thinner, have faster cycle time and higher capacity per pound through the fab. So needless to say, if we were to fill the fab, would be just on the product revenues beyond $1 billion.
+
+The licensing business as a snapshot in the third quarter is at $90 million run rate. I can't tell you what's going to happen next quarter, the quarter after that. There could be additional licensing deals that may not yet happen. But I can tell you that there's going to be a lot more over the next couple of years as we get additional exclusion orders. And the industry gets realized that if products use Vicor IP they need to have a license. So those products aren't going to ship. So the licensing business by itself, as suggested earlier, from $90 million can get to a couple of $100 million dollars. We have line of sight to that within a couple of years. And that's not the end of that growth opportunity. I think it can go well beyond that level.
+
+Operator
+
+And we have a question from the line of [John Dillon] with D&B Capital.
+
+Unknown Analyst
+
+Guys, I've seen reports that future AI manufacturers, including NVIDIA, are planning processors that will require 6,000 to 7,000 amps. And you're saying that a lot of the power supply companies are having issues with 2,000 amps. So my question is there anything on the horizon that can power a 6,000 amp processor besides Vicor?
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+Well, I frankly believe that even at the 2000 amp level, VRs and IVRs and bus converters delivering the kind of power kilowatts, either at 5, 6 volts, okay, so IVR 1.8 volt. Those things are fundamentally challenged. I think if we look at -- GPU companies, they haven't been able to go to VPD because it's really not practical, it's not mature. Because it's first generation of VPD, and it's got the complexities that Phil summarized in his prepared remarks, right? It requires lots of layers Hard to put together, hard to assemble on the back of processor, heat getting trapped, lots of issues, even at the level of 8,000 amps, never mind 2,000 or more.
+
+Now there is one large hyperscaler that has gone very far with respect to the VPD. But again, suffering from the same kinds of challenges and difficulty seeing how the GPU, TPU road map in future years is going to be supported by power system capabilities that are already available from a lot of these sources.
+
+Unknown Analyst
+
+It sounds like there's nothing out there that will be able to handle 6,000 amps. So and Phil...
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+It all depends on -- this has got to be put into perspective, right, for it to be meaningful because to be clear, with our lead customer, we've been supplying tens of thousands of amperes for years, but that's a wafer scale engine as opposed to -- yes. So 6,000 amps, if our wafer scale engine would be solving it right. There, we're now at the level of 50,000 amps. And in the future, it's going to be higher than that. So it's all relevant, right, all these things.
+
+There's nothing very magic about 1,000 amps, 2,000 amps or 6,000 amps or 50,000 amps. I think the more relevant metric, right? The figure of merit that matters is the current density. And relating to that, the current multiplication what you need in order not to get in the way of AI processor road maps is you have to have very high current density, i.e., several amps per square millimeter and rising number one. And you have to have high current multiplication because if you don't high current multiplication, then you're stuck at the entry point to the point of load processor, which is fundamentally the [ligament] of IVRs.
+
+Unknown Analyst
+
+Yes. And that's my point. It sounds like Vicor is the only one who's going to be able to handle these new processors that are going to be running at these kind of amperes.
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+I'm not good enough to know -- it's always dangerous to make absolute statements, right?
+
+Unknown Analyst
+
+I understand. We don't know, what we don't know. Yes.
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+I'm not aware of any other company that can address the road map requirements in terms of high enough current density with enough current multiplication. Vicor is the only company with that technology. We pioneered that, heavily patented. Many, many different perspectives and have just begun to show the industry that anybody chasing our truck is going to have serious problem. You might recall me saying in the past that our past portfolio is land mine. We began to see the effect of people stepping over the perimeter of that land mine field.
+
+Unknown Analyst
+
+I get it. I get it. And then, Phil, you had answered a question about the NBM sales as a result of licensing contracts with their incentives to take product. What I was wondering is, are we going to start seeing an increase in NBM sales in the next quarter or 2?
+
+Philip Davies
+Corporate VP of Global Sales & Marketing and Director
+
+Well, I think that the NBMs that we have are super for a lot of different applications. But the focus for us, John, is really as Patrizio pointed out, bus converters are useful in a number of applications, but the future isn't bus converters. We'll sell a lot of them going forward, but it's really about VPD and coming in 48 volts to our VPD solution and current multiplication at the point of load, as Patrizio just explained. That's the future. That's the growth for the company.
+
+Unknown Analyst
+
+I get that. But I was just wondering, as a result of these contracts, do you expect to see some NBM increases in NBM sales on the next couple of quarters?
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+Yes, we already have seen that.
+
+Philip Davies
+Corporate VP of Global Sales & Marketing and Director
+
+Yes. We'll see some...
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+To Phil's point, that's nice but it's not the call of the strategy.
+
+Operator
+
+Thank you. And ladies and gentlemen, with that, we conclude our Q&A session and conference for today. Thank you all for participating, and you may now disconnect. Everyone, have a great day.
+
+Patrizio Vinciarelli
+Founder, Chairman, CEO & President
+
+Thank you.

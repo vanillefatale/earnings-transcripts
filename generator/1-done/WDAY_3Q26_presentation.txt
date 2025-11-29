@@ -1,0 +1,105 @@
+Workday, Inc. (WDAY) Q3 2026 Earnings Call November 25, 2025 4:30 PM EST
+
+Company Participants
+
+Justin Furby - Vice President of Investor Relations
+Carl Eschenbach - CEO & Director
+Zane Rowe - Chief Financial Officer
+Gerrit Kazmaier - President of Product & Technology
+
+Conference Call Participants
+
+Mark Murphy - JPMorgan Chase & Co, Research Division
+S. Kirk Materne - Evercore ISI Institutional Equities, Research Division
+Keith Weiss - Morgan Stanley, Research Division
+Michael Turrin - Wells Fargo Securities, LLC, Research Division
+Brent Thill - Jefferies LLC, Research Division
+Karl Keirstead - UBS Investment Bank, Research Division
+Bradley Sills - BofA Securities, Research Division
+Brad Zelnick - Deutsche Bank AG, Research Division
+Aleksandr Zukin - Wolfe Research, LLC
+Raimo Lenschow - Barclays Bank PLC, Research Division
+Kasthuri Rangan - Goldman Sachs Group, Inc., Research Division
+
+Presentation
+
+Operator
+
+Welcome to Workday's Third Quarter Fiscal Year 2026 Earnings Call. [Operator Instructions]
+
+I will now hand it over to Justin Furby, Vice President of Investor Relations. Please go ahead.
+
+Justin Furby
+Vice President of Investor Relations
+
+Thank you, operator. Welcome to Workday's Third Quarter Fiscal 2026 Earnings Conference Call. On the call, we have Carl Eschenbach, our CEO; Zane Rowe, our CFO; and Gerrit Kazmaier, our President, Product and Technology.
+
+Following prepared remarks, we will take questions. Our press release was issued after close of market and is posted on our website where this call is being simultaneously webcast.
+
+Before we get started, we want to emphasize that some of our statements on this call particularly our guidance, are based on the information we have as of today and include forward-looking statements regarding our financial results, applications, customer demand, operations and other matters. These statements are subject to risks uncertainties and assumptions that could cause actual results to differ materially. Please refer to the press release and the risk factors and documents we file with the Securities and Exchange Commission, including our fiscal 2025 annual report on Form 10-K for additional information on risks, uncertainties and assumptions that may cause actual results to differ materially from those set forth in such statements.
+
+In addition, during today's call, we will discuss non-GAAP financial measures, which we believe are useful as supplemental measures of Workday's performance. These non-GAAP measures should be considered in addition to and not as a substitute for or in isolation from GAAP results. You can find additional disclosures regarding these non-GAAP measures, including reconciliations with comparable GAAP results, in our earnings press release, in our investor presentation and on the Investor Relations page of our of our website. The webcast replay of this call will be available for the next 90 days on our company website under the Investor Relations link.
+
+Additionally, the prepared remarks of this call and our quarterly investor presentation will be posted on our Investor Relations website following this call.
+
+Our fourth quarter fiscal 2026 quiet period begins on January 15, 2026. Unless otherwise stated, all financial comparisons in this call will be to our results for the comparable period of our fiscal 2025.
+
+With that, I will hand the call over to Carl.
+
+Carl Eschenbach
+CEO & Director
+
+Thank you, Justin, and thank you all for joining us today. I'm pleased to report that Workday delivered solid Q3 results, with 15% subscription revenue growth and 28.5% non-GAAP operating margin. Our teams executed well, and our value proposition is clearly resonating with organizations around the world. I've been on the road a lot lately, meeting with our customers and prospects, and they're all saying the same thing. They see the potential of AI but they're stuck with disconnected systems, bad data and closed platforms. That's where Workday gives them the ultimate advantage by unifying HR and finance on one intelligent platform, we deliver business-ready AI that helps organizations adapt quickly, make better decisions and deliver outcomes that truly matter.
+
+Now let's turn to our customer highlights for the quarter. In Q3, we continued to grow across industries, segments and geographies. In HCM, we added new customers, including Sunnybrook Health Sciences Center, Fuji Electric and The Magnum Ice Cream Company. Core Financials also performed well, driving strong full suite adoption. In fact, half of all net new global deals in Q3 included both HR and finance, with key wins such as Ardent Health, Kelly Services and Specialized. We also expanded with customers such as CommonSpirit Health, Levi Strauss and Novartis. And consistent with recent quarters, our customers' headcount levels continue to grow modestly. And our momentum isn't just from large enterprises. Workday GO is helping us drive strong new customer growth and continued ACV momentum in the medium enterprise. Just last week, we announced a major expansion of Workday GO, including Global Payroll, an expanded partner network and a new AI powered deployment agent that can cut implementation time by up to 25%.
+
+Customers of all sizes and industries tell us that an investment in Workday is an investment in their AI strategy. More than 75% of our core customers are using Workday Illuminate AI, driving well over 1 billion AI actions on the Workday platform this year alone and adoption keeps growing. More than 3/4 of net new deals and 35% of customer expansions included one or more AI products.
+
+Among the standouts, Evisort delivered another record quarter and Extend Pro grew net new ACV by more than 50% year-over-year. Altogether, our AI products added more than 1.5 points of ARR growth this quarter. That doesn't include Paradox, which we closed in Q3 and is already off to a strong start. And with the rollout of Flex Credits early next year, we're making it even easier for our customers to adopt our AI and platform innovation.
+
+Our customer footprint spans every major industry. Tech and media and financial services, 2 of our $1 billion industries were standout performers in the quarter. And in Q3, Healthcare became our sixth industry to exceed $1 billion in ARR with strategic wins like Ardent Health, Ascendian and Northeast Georgia Medical Center. One of my favorites this quarter was a major win back at a large U.S. health insurer. They were a long-time Workday customer that moved to a competitor several years ago and quickly regretted it. Now they're back with Workday in choosing our full suite with a 10-year commitment.
+
+Our public sector momentum was also strong in Q3. And despite the weeks long government shutdown, engagement across federal agencies remained high. The Department of Energy's successful go-live in Q3 is a great example. They're the first cabinet level agency to bring their core HR systems into our FedRAMP authorized cloud. We're also nearing completion of the first phase of our work with the DIA. This opens up an important long-term opportunity, both with the agency and across the intelligence community and Department of War.
+
+In SLED, we welcome new customers, including the county of San Luis Obispo, the City of Concord and Cleveland State University, and we expanded with Cornell University, which added both core financials and student. While we had a number of successes across our Fed, SLED and health care teams, we also saw some isolated impacts within institutions that rely heavily on federal grants, primarily in higher ed. However, when they are ready to move forward, our win rates are very strong, and we're excited by the long-term opportunity ahead. Across all of these industries, we're delivering innovation that's changing how work gets done, and the market is taking notice. Gartner just named Workday, a leader in 3 Magic Quadrants, including Cloud ERP for Service-Centric Enterprises, Cloud HCM Suites for 1,000+ Employee Enterprises and the first-ever MQ for Cloud ERP Finance, giving us the highest placement for both Ability to Execute and Completeness of Vision.
+
+If you joined us at Workday Rising, you saw how our organic innovation is only accelerating. We introduced new Illuminate agents that tackle some of the toughest challenges at work from performance reviews and workforce planning to financial close. These purpose-built agents are powered by our unmatched HR and financial data and context which is what makes them highly accurate, actionable and trusted. And now we have more than 150 customers, including Target, Accenture and Netflix using our agents and Agent System of Record in early access. At the same time, we're opening up our platform so customers and partners can create their own AI-powered apps and agents with Workday Build.
+
+And with Workday Data Cloud, along with our partners, including Databricks, Salesforce, Snowflake and now Google Cloud, customers can unlock even more insight and value from their Workday data.
+
+We're also accelerating our innovation through strategic acquisitions. We just closed acquisition of Sana, an AI-native platform with an incredible team. They're going to help us completely reimagine our user experience for the age of AI. Our vision is very simple and straightforward, make Workday the new front door to work by bringing together enterprise knowledge, AI agents and all the HR and finance processes our customers run every day. This will make it easier than ever to find answers, take action and learn right in Workday. Customer feedback on this vision has been absolutely incredible and Sana Learn brings hyper-personalized skill development and AI-generated content creation to Workday Learning. I can't wait for our customers to get their hands on it. We're not stopping there. Last week, we announced the intent to acquire Pipedream, a low-code integration platform for AI agents with more than 3,000 prebuilt connectors to the world's most widely used business applications like Asana, Jira and Slack. When you combine that reach with Workday's trusted data, deep business context and the capabilities from Sana and Flowise, our agents move from surfacing insights to truly getting work done. So hopefully, you're seeing a theme here. While other vendors confuse the market with thousands of overlapping general purpose agents, we're focused on what we do best, and that is building powerful agents for HR and finance that deliver real ROI and measurable business value.
+
+Turning to international. We delivered solid performance across EMEA, APAC and Japan in Q3. We just wrapped up our largest EMEA Rising yet. There we announced the new Workday EU Sovereign Cloud which will let customers run our AI-powered HR and finance solutions entirely within the EU, keeping their data local, secure and fully controlled. Also in Q3, we established a new AI Center of Excellence in Dublin, which is one of our major R&D hubs, and we announced a new office in Dubai. A few of the great wins we had across EMEA in Q3 included Bayer, ING Bank and Tandem Bank. APAC also had a strong quarter with wins at Genesis Energy, DBS Bank and MGM Grand Paradise. And we continue to build on our success in Japan with new and expanded relationships with Pioneer Corporation, Hoshino Resorts and Eisai.
+
+Our partners continue to play a critical role in our success. Once again, in Q3, more than 20% of our net new ACV was sourced from partners, a testament to the strength of our ecosystem.
+
+In Q3, we brought on new Workday Wellness partners, including Chime, Spring Health and Strada to expand the value we deliver to our joint customers. We also expanded our partnership with Microsoft to help joint customers securely manage their people and agents across both of our platforms. We're living in a new era of work, powered by AI and built on trust. And Workday is made for this moment. The momentum in our business and the energy I'm seeing across our customer community gives me a ton of confidence in what's ahead. A huge thank you to our global workmates, our customers and our partners for helping us deliver another solid quarter. As we head into Q4, we're focused on finishing strong and setting ourselves up for an even more impactful FY '27.
+
+With that, I'll turn it over to Zane.
+
+Zane Rowe
+Chief Financial Officer
+
+Thanks, Carl, and thank you to everyone for joining today's call. Our Q3 results were driven by continued progress across several key growth initiatives, as we accelerate innovation throughout the platform and bring exciting AI solutions to market.
+
+Turning to results. Subscription revenue in the third quarter was $2.244 billion, up 15%. Professional services revenue was $188 million, resulting in total revenue of $2.432 billion, growth of 13%.
+
+U.S. revenue in Q3 totaled $1.825 billion, up 12%. International revenue totaled $607 million, up 13%. 12-month subscription revenue backlog or cRPO, was $8.21 billion at the end of Q3, increasing 17.6%. We closed the Paradox acquisition in the quarter, which added over a point to cRPO growth, and was not included in our backlog guidance. Excluding Paradox, cRPO came in slightly above the high end of our outlook.
+
+Total subscription revenue backlog at the end of the quarter was $25.96 billion, up 17%, and gross revenue retention rates remained healthy at 97%.
+
+Non-GAAP operating income for the third quarter was $692 million, representing a non-GAAP operating margin of 28.5%. We remain focused on making targeted investments to support long-term growth. This includes increasing our AI talent, both organically and inorganically, entering new markets such as the Middle East and India and investing in the medium enterprise. While we make these investments, we're also continue to drive efficiencies as we scale the business globally.
+
+Q3 operating cash flow was $588 million, growth of 45%, in line with our expectations. As we discussed at our recent financial Analyst Day, we intend to accelerate the pace of our buyback. We made good progress in Q3, repurchasing $803 million of our shares during the quarter and $1.4 billion year-to-date. We plan to repurchase an additional $3.6 billion through the end of FY '27, leading to $5 billion in total repurchases. As of October 31, we had $4.4 billion remaining under our current authorization. We ended the quarter with $6.8 billion in cash and marketable securities. Our head count as of October 31, stood at 20,588 workmates around the globe, including roughly 600 workmates from the Paradox acquisition.
+
+Now turning to guidance. For Q4, we expect subscription revenue of $2.355 billion, growth of 15%, which includes revenue from the Sana acquisition and the expected delivery on the first phase of the DIA contract. We expect FY '26 subscription revenue of $8.828 billion, growth of 14%. Our Q4 subscription revenue guidance is consistent with our view from last quarter, excluding the expected contribution from Sana. While we did see some impact in Fed and SLED tied to fiscal funding, this was offset by strong execution across the portfolio, including the Paradox acquisition. We expect cRPO to increase between 15% and 16% in Q4. This includes approximately 0.25 point of expected growth from the Sana acquisition or about $20 million. And over 1 point of impact from tenants, which we begin to lap in Q1.
+
+For Q4, we expect professional services revenue of $168 million. And for the full year, we expect it to be $715 million. We are executing well against our efficiency goals and expect a non-GAAP operating margin of at least 28.5% for Q4 and approximately 29% for the full year. We're optimistic about the AI-driven growth investments we are making and have ample capacity to continue to invest while we drive further efficiencies, consistent with the framework from our Financial Analyst Day.
+
+We expect GAAP operating margins to be approximately 19 and 21 points lower than our Q4 and full year FY '26 non-GAAP operating margins, respectively. The FY '26 non-GAAP tax rate is expected to be 19%. We are increasing our FY '26 operating cash flow outlook to $2.90 billion, and we continue to expect capital expenditures of approximately $200 million, resulting in free cash flow of $2.70 billion, growth of 23%.
+
+Looking beyond this year, as we shared in our recent financial Analyst Day, we are targeting a subscription revenue CAGR of 12% to 15% through FY '28, along with continued margin expansion on both a GAAP and non-GAAP basis. For FY '27, specifically, we continue to expect subscription revenue growth of approximately 13% and also consistent with the view we shared in September at our Analyst Day. We are confident in this growth rate based on the momentum we see across the business as reflected in our Q3 performance as well as our Q4 cRPO guidance. We are optimistic about our growth initiatives and our recent acquisitions and look forward to updating you with formal guidance for FY '27 next quarter.
+
+We currently expect our Q1 FY '27 subscription revenue growth to be approximately 14% year-over-year and flat sequentially, reflecting typical seasonality from Q4 as well as the expected revenue from DIA in Q4, which doesn't extend into Q1. We believe that the completion of this first phase sets us up for a larger opportunity with the DIA and the broader defense and intelligence communities. We remain on track and confident in our ability to achieve the financial framework we laid out at our Analyst Day back in September, including subscription revenue growth, non-GAAP margins and stock-based compensation. In closing, I'd like to thank our workmates, customers and partners around the globe that help deliver this quarter's results. We enter Q4 well positioned to close the year with strength and remain focused on our long-term opportunity of driving durable growth while expanding operating margins.
+
+With that, I'll turn it back over to the operator to begin Q&A.

@@ -1,0 +1,373 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question comes from Brad Zelnick with Deutsche Bank.
+
+Brad Zelnick
+Deutsche Bank AG, Research Division
+
+Excellent. Congrats on such a strong start to the year and hitting your Zero Trust Everywhere goal 3 quarters ahead is just amazing. Jay, I wanted to ask about Zero Trust Branch, which we continue to hear good things about. It's showing some nice early adoption. But as we look ahead, how much more work needs to be done on the product and/or go-to-market fine-tuning to see real acceleration from here?
+
+Jagtar Chaudhry
+Co-Founder, CEO & Chairman of the Board
+
+Thanks, Brad. We have done some amazing work on the technology side to build a Zero Trust Branch, where each branch is merely an island, no lateral movement that's generally caused by traditional networking with SD-WAN and MPLS. Product is in a great shape, go-to market. We put together a specialty team that can actually engage with the right buyers to explain the solutions. The numbers are pretty impressive.
+
+I open [indiscernible] internally that Zero Trust Branch needs no pipeline generation effort because there's so much demand in the customers. I think we shared some numbers. Our Zero Trust Branch customers have now exceeded over 450 customers.
+
+A lot of customers start small, they do the smaller rollout and then they move on to bigger deals. In my prepared remarks, I gave an example of a Global 2000 manufacturing customer whose ARR more than tripled. I think there are many, many such examples. We got about 4,400 enterprise customers. We've only gone to about 10% of them. So I see a big opportunity. I think it's an exciting area for us, and it's part of our Zero Trust Everywhere platform.
+
+Operator
+
+Our next question comes from Saket Kalia with Barclays.
+
+Saket Kalia
+Barclays Bank PLC, Research Division
+
+Okay. Congrats on the strong start to the year. Congrats, Ashwin. Maybe a little bit of a joint question for you, Jay and Kevin. The $1 billion in ARR that's coming from the 3 emerging areas is clearly outgrowing the rest of the business. In fact, I think you said it accelerated and for good reason.
+
+But I was wondering if you could help us think about the other $2 billion in ARR. And maybe specifically, is it fair to think about that other tranche as more of a la carte Zero Trust tools like ZIA and ZPA? And maybe relatedly, how do you think about the growth rate for that $2 billion versus an emerging bucket that's clearly growing faster than the rest of the business?
+
+Jagtar Chaudhry
+Co-Founder, CEO & Chairman of the Board
+
+So yes, it's very true that our 3 buckets, $1 billion ARR has been growing very well. The remaining $2 billion, yes, a big part of that ZIA/ZPA. It has been going quite well. But the big opportunity for that business is also to emerge into Zero Trust everywhere. Remember, we said that Zero Trust journey started with users. We've taken it to branches. We've taken to Cloud and next to IoT/OT.
+
+While other vendors who try to play in Zero Trust tried to say we got SASE, they're merely sitting with Zero Trust, trying to do for users. And we have expanded the platform to give a lot of opportunities. The core business by itself will grow at a smaller rate than the rest of the overall business. But our goal is really to take every customer to Zero Trust everywhere, and that's what we are successfully doing.
+
+Operator
+
+Our next question comes from Meta Marshall with Morgan Stanley.
+
+Meta Marshall
+Morgan Stanley, Research Division
+
+Great. Maybe I just wanted to ask a question about Red Canary and just how it's kind of performing towards expectations given that you guys have been looking at a fair amount of churn within your kind of assumptions for that business. Just any context around that performance would be helpful.
+
+Jagtar Chaudhry
+Co-Founder, CEO & Chairman of the Board
+
+I'll start with broad comments, and Kevin can go deeper. The integration of Red Canary with Zscaler is going very well. G&A integration was done right away. The two other main areas were: one, engineering end products. We're integrating Red Canary's agentic AI technology with Zscaler platform doing well.
+
+Second is go-to-market. Red Canary's go-to-market team has become security operations specialist team. It's working with our field sales organization, which is uncovering opportunity. So seeing a vast majority of Zscaler Red Canary pipeline is now coming from Zscaler customers. Kevin?
+
+Kevin Rubin
+Chief Financial Officer
+
+Yes. Look, I would just add that Red Canary is trending slightly better than our previous guidance. But keep in mind that we don't believe that Red Canary's contribution is material to our overall business. So as we go forward, we don't intend to provide specific color on Red Canary.
+
+Operator
+
+Our next question comes from Tal Liani with Bank of America.
+
+Tal Liani
+BofA Securities, Research Division
+
+This quarter was stronger than actually we see because if I look at the year-over-year growth in dollars last year, first of all, first quarter last year was very strong. So you're growing 26% almost on a very strong quarter. And second, last year, on a year-over-year basis, you added between $122 million to $130 million every quarter on a year-over-year basis. And this quarter, you're adding $160 million. So that means that the growth is strong.
+
+And I'm trying to understand if you can break down on revenue level, not on ARR level, what is driving the strength. I mean the stock is down, but the trends beneath the surface seem very strong. And I'm trying to understand what is driving it? And if you can break it down, even not in numbers, even if it's just qualitative to discuss what's happening in the core versus what are the key leading products that are driving this strength?
+
+Jagtar Chaudhry
+Co-Founder, CEO & Chairman of the Board
+
+So I'll start with a broad product area, right? As you know, we built the platform and we are expanding our platform. The three big pillars of our platform have been Zero Trust Everywhere, AI security and data security. All three areas are growing very well. They are actually accelerating, and that's our part of the strategy.
+
+Our strategy is if every customer starts moving to Zero Trust Everywhere, we become very, very differentiated because no one in the market is even coming close to that. They're all trying to figure out how to solve the user side of it. And the data security, our customers are basically saying "We are tired of seeing point products, so many point products in data security." And we have the best platform.
+
+AI security is evolving. It's a new area for us. Agentic operations has done well for us and security of AI products is young, but it's growing pretty well. So I think we're very pleased with that growth we wanted from the three key pillars and it's beating or it's exceeding our expectations.
+
+Kevin, do you want to give more color?
+
+Kevin Rubin
+Chief Financial Officer
+
+Yes. Thanks for the question, Tal. I mean, I think that's, frankly, both the qualitative and the quantitative response, which is we are seeing accelerated growth in our three growth pillars, which is contributing well to the business.
+
+I also mentioned in my prepared remarks that we saw organic growth come in at similar levels to what we saw last quarter. So we are seeing very strong performance. And the business did come in -- I was just going to add some color that we did see the business perform better than our internal expectations in the quarter.
+
+Tal Liani
+BofA Securities, Research Division
+
+And how is the core business? You have Cisco with a new product, Check Point with a new product, Palo talking about very strong growth. How is the competitive landscape when it comes to the core business?
+
+Jagtar Chaudhry
+Co-Founder, CEO & Chairman of the Board
+
+Competitive landscape hasn't changed a whole lot. If anything else, our brand has gotten bigger. Most of the large enterprises know us very well. We are very well engaged here. A number of new entrants who have come in the market in the past year or so, largely some of the firewall companies, we have hardly seen them out there. So competitive landscape hasn't really changed much to mention.
+
+Operator
+
+Our next question comes from Joseph Gallo with Jefferies.
+
+Joseph Gallo
+Jefferies LLC, Research Division
+
+Jay, I think when some look at the recent massive M&A in the space, they're fearful of the implications for underlying cyber growth. In your conversations with customers, how are they thinking about spend in calendar 2026? And what are the priority areas that they have as a part of that?
+
+Jagtar Chaudhry
+Co-Founder, CEO & Chairman of the Board
+
+So customers' priorities for spending?
+
+Joseph Gallo
+Jefferies LLC, Research Division
+
+Yes. Just what's the -- how has the fundamental cyber growth been? How do you expect it next year and what the priorities are?
+
+Jagtar Chaudhry
+Co-Founder, CEO & Chairman of the Board
+
+Broadly speaking, there's no significant growth in macro environment. IT budgets remain tight. There is pressure on CIOs. There is far less pressure on the cyber side of it. So cyber is under less pressure. We do see scrutiny for large deals similar to what we shared in the past.
+
+But two areas are still of high interest to customers. One is Zero Trust Security because of all these breaches happening out there and second is AI security because everyone is trying to do some level of deployments of AI applications because CIOs feel like if they aren't doing anything in this area, they'll be viewed as laggards.
+
+That is also mixed. Some of the customers are seeing better results than others in terms of AI. But as soon as they start thinking about doing AI applications and models, the security becomes a worry for them. So we are going in with two leading messages, Zero Trust Everywhere being one and AI security being two.
+
+So with that, we're able to get the pipeline created. And the second part is to close deals, we must show strong cost takeout, and we can do that as we eliminate a lot of point products. So we are able to do both of those things. That's what's really leading us to deliver these strong results.
+
+And also if I mention that, since our brand has become so much stronger, and we've become pretty strategic partners to customers, all these CIOs, CISOs meetings I do, it's wonderful to see them to say, "Jay, I mean, we moved from company A to company B, and we called your team to help us here as well." So look, we are tracking well. We are excited about what lies ahead for us.
+
+Operator
+
+Our next question comes from Mike Cikos with Needham.
+
+Michael Cikos
+Needham & Company, LLC, Research Division
+
+I just wanted to come back to the SASE market specifically. And Jay, I know you're probably already cringing at the word SASE but just there was a security vendor out there last week discussing some success in competitive displacements in the SASE market. I'd just love to get your feedback specifically on what you're seeing as far as trends from a competitive or pricing discipline standpoint. Appreciate it.
+
+Jagtar Chaudhry
+Co-Founder, CEO & Chairman of the Board
+
+Yes. Look, we remain very strong in when it comes to, I will call the Zero Trust market because the SASE word has no meaning. Every vendor claims themselves to be calling SASE. For example, if you do Zero Trust, you don't do SD-WAN.
+
+And most of these SD-WAN vendors competing into the SASE space or expansion in our customer base is because of all the new functionality we are bringing to take Zero Trust Everywhere. Our expansion is happening as we have taken our data security platform and made it much bigger. So we've done so many innovations in so many spaces.
+
+So we think in spite of new entrants in the market, I think the market has already kind of sorted out the winners, and we are creating more distance among the number of other vendors who are entering in this space. So I feel very strong. Our pipeline remains strong. Our win rate remains strong, and you see our results, they're very, very strong.
+
+Operator
+
+Our next question comes from Brian Essex with JPMorgan.
+
+Brian Essex
+JPMorgan Chase & Co, Research Division
+
+I guess, Kevin, for you, just I understand that you don't want to break out Red Canary, but can you give us a sense for organic net new ARR in the quarter? And then maybe one for Jay.
+
+With the acquisition of Red Canary and what you've done with Avalor and now SPLX, would love to get your sense of -- are you -- do you -- any sense of how you might align with the threat intelligence market and value you might be able to add, given the data visibility, potential for incremental add in terms of the quality of data that you might be ingesting on the platform and ability to provide better visibility for customers on the threat intelligence side?
+
+Kevin Rubin
+Chief Financial Officer
+
+Yes. Thanks for the question. I'll go ahead and start. As I had previously mentioned, organic growth in Q1 was consistent compared to Q4. And again, as I said, we're very pleased that the organic business came in better than our internal expectations.
+
+Jagtar Chaudhry
+Co-Founder, CEO & Chairman of the Board
+
+So on the second part, you talked about two acquisitions we have had. Avalor has become our Data Fabric, which can ingest data from Zscaler platform and some of the third parties to really create what we call entity relationships. And AI is only as good as data. So we're able to do some very powerful threat detection intelligence that couldn't be done otherwise. So that's the foundation of the platform.
+
+The reason for us to get into AI powered SecOps is the strength of our data. Avalor gave that stuff. We have the data, Red Canary gave us agentic AI technology on top of it. So using some of these smart agents, we can do security operation, what security analysts need to do. So the amount of information we are getting, the meaningful intel we're getting is unbelievable.
+
+I was talking to the CISO of a Fortune 100 company recently. He said, I have a sizable security operation team, very sophisticated operations. But your solution, in this case, they're taking advantage of Red Canary working with us, it is finding things, a few things every month that we aren't able to find that's amazing incremental value for them. We think this is only going to get better as our solution evolves.
+
+Your second point was about SPLX, that's accelerating our completion of -- our solution for AI security. The market has so many point product solutions in AI security out there, and customers tell me, one, I don't want to deal with 10 vendors, number one. Number two, I don't want to share my data with a startup that started 10 months ago to share with them. So they're looking for a platform.
+
+We have built a number of AI security platforms internally. For example, Gen AI Security, AI Guard, AI Discovery and then SPLX brought red teaming technology to us. So it has made our portfolio pretty complete. So Zero Trust Everywhere in a very great shape, AI agenetic operations evolving nicely and AI security operations growing very nicely. We feel very comfortable with the portfolio built.
+
+Operator
+
+Our next question comes from Shrenik Kothari with RW Baird.
+
+Shrenik Kothari
+Robert W. Baird & Co. Incorporated, Research Division
+
+So Jay, on the AI security tracking $500 million and you mentioned traction across all the modules, the AI Guard, SPM, red teaming, just can you help us unpack where there is more traction, what's currently driving in terms of use cases? Are most deployments at visibility governance via SPM or are you seeing CISOs truly prioritizing all the run time AI with AI Guard as well? And then I have a quick follow-up.
+
+Jagtar Chaudhry
+Co-Founder, CEO & Chairman of the Board
+
+Yes. This is a very good question. About 2 years ago, 2-plus years ago, when ChatGPT came on the scene, the #1 thing customers wanted to do was visibility into Gen AI solutions or, sorry, applications that users are going to go out to.
+
+Since we are sitting in the traffic path, very quickly we built our first product, Gen AI Security, that's being used by quite a large number of Zscaler customers. Next, we launched AI asset discovery and posture management. Tons of interest because everything starts by understanding AI assets you have.
+
+Third, last summer -- early summer, we launched AI Guardrails. When customers are building their internal AI applications and models, they want to use guardrails to make sure that, that models are protected and only right people with the right kind of prompts can really access them. That's an early stage, but it's growing nicely. The pipeline is growing very well.
+
+And the fourth thing we brought to the market came through SPLX acquisition. That's the core red teaming technology, and as applications are being built, customers want to make sure they don't have vulnerabilities. And we aren't stopping there.
+
+The fifth, extending our platform to agentic exchange, so we can have right agent to agent application communication. All that is proceeding well. So I think we are very well positioned. We will keep on investing in these innovations, but we balance our investments with our operating margins.
+
+Shrenik Kothari
+Robert W. Baird & Co. Incorporated, Research Division
+
+Very helpful, Jay. So Kevin, a quick follow-up on your comment around -- because these models ramping, as Jay was saying, how are you thinking about the investment horizon overall? And as these -- as you're scaling these kind of video-rich products, the AI Guard, and how to think about the margins here?
+
+Jagtar Chaudhry
+Co-Founder, CEO & Chairman of the Board
+
+Yes. Since the models and things they're using are really on a fairly well confined set of data, we haven't seen any massive change in gross margins. If these things change over time, I'm sure we'll let you guys know.
+
+Kevin Rubin
+Chief Financial Officer
+
+Yes. And maybe just to continue on that thread. Look, for Q1, we're pleased with the margin profile. We're comfortable with the Q2 guide. And then as we look into the back half of the year, you will notice that there's margin expansion in the guide in the back half. We are orientated to growth, but you know that we're also very mindful of the financial model and operating margin.
+
+Operator
+
+Our next question comes from Roger Boyd with UBS.
+
+Roger Boyd
+UBS Investment Bank, Research Division
+
+Jay, I just wanted to go back to Zero Trust Gateway. And I wonder if you could talk a little bit more about the demand you're seeing there. Is that product getting pulled along with increasing AI infrastructure? Some of the firewall vendors have talked about growth in software firewalls in this capacity. And how are you thinking about customer buy-in around this approach over kind of that approach of deploying virtual firewalls?
+
+Jagtar Chaudhry
+Co-Founder, CEO & Chairman of the Board
+
+Sure. As you know, customers traditionally used firewalls everywhere. We replaced a lot of them when it comes to user protection and working on branch. And cloud is pretty simple. When traditionally people would go to cloud and build cloud workload, they would do lift and shift.
+
+They have lifted and shifted north-south firewalls to the cloud SPMs, they have lifted and shifted east-west firewalls to the cloud SPM as well. We go in and say, you don't really need a lot of these firewalls everywhere. Zero Trust Cloud is almost like Zero Trust for Internet access, Zero Trust workload to workload communication. All the firewalls go away, customers don't need to work with all these IP addresses and ACLs.
+
+The cloud gateway simply makes it even more easier to deploy our solution. In the past, they had to deploy a piece of software we call Cloud Connector as a traffic cop. Now we have a cloud gateway that's deployed and managed by Zscaler with a simple confug change, they say, point traffic to Zscaler cloud gateway, and we enforce policies and we do everything that needs to be done.
+
+Deployment that would have taken a few hours now can be done in under 10 minutes. That's the kind of innovation we're bringing to make it easier for customers to move away from legacy firewalls and embrace Zero Trust cloud workload communication.
+
+Operator
+
+Our next question comes from Eric Heath with KeyBanc.
+
+Eric Heath
+KeyBanc Capital Markets Inc., Research Division
+
+Jay, maybe to come back to Zero Trust Everywhere, just given how strong and successful it's been thus far. But I'm curious to hear how you're thinking about this going forward? I mean, is the outperformance relative to your expectations because the book of firewall business up for refresh maybe was bigger or earlier than you anticipated? Or do you look at the pipeline and see an even bigger opportunity of displacements looking into calendar '26?
+
+Jagtar Chaudhry
+Co-Founder, CEO & Chairman of the Board
+
+Yes. Overall, our customers are looking for saving money and making it easier for them to operate and deploy these solutions and along with that, making sure they have better cyber protection. Number one reason for our customers' interest in branch, Zero Trust branch is to eliminate the lateral movement which leads to all kind of Ransomware attacks, number one.
+
+Number two, when we go in and say, "By the way, it's also costing a lot more because we can eliminate multiple products in a branch", not just firewall but SD-WAN, often they got these DHCP gateways, they often got east-west firewall, they got NAC and VLANs kind of stuff. All that goes away. So cost goes down, operational stuff goes down, that's a driver.
+
+Now refresh may help, but most of the time, the deals are not waiting for Zscaler to say a refresh is coming. As we present the story to our customers, they kind of say, "Wow, this makes sense." There's a lot of ROI to it, let's get started. So tremendous interest, strong pipeline, and we've only done about 450 customers so far. There are millions of branches left out there for us to pursue.
+
+Operator
+
+Our next question comes from Fatima Boolani with Citi.
+
+Fatima Boolani
+Citigroup Inc., Research Division
+
+Jay, I wanted to go back to a very specific remark in your script earlier in the call. Just with respect to the migration of SAP from on-prem to SAP RISE being an opportunity that would be tantamount to the success and the tailwinds that you saw from Microsoft Exchange going to Microsoft Office 365. And so I wanted to take the opportunity to have you unpack some of that in terms of how will that manifest in your business across the product lines today.
+
+And then specifically, with a portfolio that is significantly larger today than you had when the initial Microsoft platform migration was happening, where do you expect to see sort of -- I'll frame it as option value in some of your newer products that frankly didn't exist in the last sort of precedent example?
+
+Jagtar Chaudhry
+Co-Founder, CEO & Chairman of the Board
+
+Sure. The customers moved to Office 365 several years ago because Office moved to the cloud or Exchange moved to the cloud. But SAP has taken a long time. It's a far more complex application. But now SAP is pushing for deployment of what they call SAP RISE in the cloud and telling customers that you've got to move and they're giving some incentives as well.
+
+So if you do the old way, using the legacy firewall technology and network, you move SAP RISE to the cloud, and you really then deploy all these express routes and direct connects for connectivity, and then you've got firewalls and all the stuff you deploy to access those applications, the VPN type approach.
+
+We go in and say, none of that stuff is needed, no special access roots and direct connect is needed. You can access SAP RISE application with Zscaler directly over the Internet as you access Office 365 applications. It's a clean, simple, elegant architecture.
+
+So it gives us two opportunities for us. Number one, some of the cloud -- Zero Trust cloud technology to make sure we got protection and communication for SAP application, SAP RISE itself; second, for users to access SAP with better and faster experience. Those are the two areas of growth for us, and it helps the customer deploy and get the application running faster and reduces cost and gives great user experience.
+
+Operator
+
+Our next question comes from Gray Powell with BTIG.
+
+Gray Powell
+BTIG, LLC, Research Division
+
+So yes, it's really interesting this quarter. I mean I look at the numbers, and overall, everything looks good. I do think there's some confusion on just organic ARR. So I guess here's my question. You highlighted $175 million in Z-Flex bookings this quarter compares to RPO bookings at about $940 million. So basically, Z-Flex is now 20% of the mix and almost doubled versus last quarter.
+
+Where do you see that going longer term? And then as Z-Flex becomes a bigger component of bookings, does that give you a higher visibility on future period ARR because there's just inherently an installed ramp in those contracts as customers grow out?
+
+Kevin Rubin
+Chief Financial Officer
+
+Yes. Great. So I'll start, and Jay can add anything that he may want to share. Look, I appreciate you raising Z-Flex. It is a program that has gotten a lot of interest and traction from our customer base. To your point, we did see bookings grow over 70% sequentially. And it effectively allows customers to commit to spend.
+
+We typically see that as a more significant commitment than they would have made on an a la carte basis. It allows them to easily deploy additional modules without having to go through the friction of a negotiation procurement process.
+
+And then it provides them with the flexibility to swap in and out of modules as business dynamics for those customers change. And so it gives them confidence that they can make more meaningful commitments to us and generally over longer periods of time. It doesn't have necessarily a different impact to ARR than any other type of transaction.
+
+But to your point, it does give us greater visibility over the long term because they are longer contracts. We do understand the nature of those commitments and how they play out in the future. And I would say it's frankly a win-win for both the customer and the flexibility it offers and us in terms of the visibility going forward. So it is a very powerful tool that has gotten pretty significant interest from customers.
+
+Jagtar Chaudhry
+Co-Founder, CEO & Chairman of the Board
+
+Yes, I would say our business has performed very well on all metrics, ARR, cash flow, all areas. So we're very pleased with it.
+
+Operator
+
+Our next question comes from Joshua Tilton with Wolf Research.
+
+Joshua Tilton
+Wolfe Research, LLC
+
+Congrats to Ashwin. Just one for me, and I apologize if this was addressed already. Bouncing back and forth between a few calls. But did your assumption for what Red Canary would contribute to the full year ARR change at all? And if not, is it fair to assume that you raised ARR by for the full year is how much you outperformed organically in the first quarter?
+
+Kevin Rubin
+Chief Financial Officer
+
+Yes, thank you for the call. I did make a comment earlier. We are seeing Red Canary trends slightly better than our previous guidance. But as a reminder, we don't believe that Red Canary's contributions to our overall business are material. So we're going -- we're not going to be making color commentary with respect to Red Canary going forward. With respect to the outperformance, I mean, we did pass that through the full year guide.
+
+Jagtar Chaudhry
+Co-Founder, CEO & Chairman of the Board
+
+But I think to further clarify, we said that before, organic growth in Q1 for us was consistent as compared to Q4. Very pleased with it. It beat our internal expectations.
+
+Operator
+
+Our next question comes from Jonathan Ruykhaver with Cantor.
+
+Jonathan Ruykhaver
+Cantor Fitzgerald & Co., Research Division
+
+Jay, I'm curious to hear your thoughts on the synergies you see between Red Canary and the data security portfolio. It would seem that you have opportunities around remediation, a possible governance layer for DSPM, DLP. Can you just provide an update on that integration strategy? And maybe just a little bit of color on how you see that driving differentiation relative to all the other vendors that are touting data security capabilities related to AI?
+
+Jagtar Chaudhry
+Co-Founder, CEO & Chairman of the Board
+
+Yes. Very good question. I would mention three points there that set us apart from many others. Number one, we have built a full portfolio of data security. There's no such thing as data security for AI only. Data is lost in many ways. So number one, the strongest portfolio is helping us. Number two, AI is helping us doing better data classification which is important because better classification means better detection.
+
+Number three, the other point you made, it was the Red Canary synergy, that is the following. We are able to get all the signals from Zero Trust Exchange to our Data Fabric platform, where we are able to potentially look for any potential threats or breaches or any of the stuff that's happened. And if you're able to do that very quickly, we can do our closed-loop feedback sent to a Zero Trust Exchange if we need to block some kind of data loss that's happening out there.
+
+Today, if data loss happens, signals are found days or weeks later. This closed-loop system between our Agentic operations and in-line function is a clear, clear differentiator for us that should set us apart from many other vendors, whether they're SASE vendors or they are AI security vendors.
+
+Operator
+
+And our last question comes from Matt Hedberg with RBC.
+
+Matthew Hedberg
+RBC Capital Markets, Research Division
+
+Congrats on the results really. I wanted to follow up on, I think it was Gray's question on Z-Flex. It really does show up in checks. And I think Kevin, you mentioned reducing friction, additional consolidation opportunities. And I realize it's difficult, but is there a way to think about what that average Z-Flex upsell looks like? And then maybe just a little bit more color on how do you think about the pipeline of Z-Flex deals for the rest of the fiscal year?
+
+Jagtar Chaudhry
+Co-Founder, CEO & Chairman of the Board
+
+So first of all, Z-Flex was done to give our customers flexibility. It evolved from the traditional ramp deals we have done in the past when we go after large customers, they can't deploy it overnight and if they bought lots of modules, they wanted some ability to say give me sort of ramp because I won't be working on it. We have been doing ramp deals for quite some time, but this creates a formal program around it.
+
+The second thing it has created for us is the ability to swap modules so they don't have to keep on testing various modules a long time and delaying the deal. So we believe that the deal -- ability to close deal has gotten better. And three, the ability to do larger deals has gotten better because now they know that they can swap deals -- modules so they can go for a bigger deal.
+
+All these things are happening. I'm not sure we have quantified exactly how much impact it's having, but we are seeing good results of it. So we are pleased with the performance. Kevin, you want to add anything to it?
+
+Kevin Rubin
+Chief Financial Officer
+
+The only thing I would, again, I guess, express as you see growth in customers moving into Zero Trust Everywhere, when you see adoption of data security everywhere and AI security, a lot of that momentum and the facilitation will come from programs like Z-Flex that will make it easier for customers to adopt these technologies. And so for us, we think it's just a stimulus to allow customers to more easily and friction-free adopt more of our technology.
+
+Operator
+
+I would now like to turn the call back over to Jay Chaudhry for any closing remarks.
+
+Jagtar Chaudhry
+Co-Founder, CEO & Chairman of the Board
+
+Well, thank you for your time. We look forward to seeing you at one of our or some of our investor conferences.
+
+Operator
+
+Thank you. This concludes the conference. Thank you for your participation. You may now disconnect.

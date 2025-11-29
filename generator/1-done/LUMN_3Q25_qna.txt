@@ -1,0 +1,277 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question comes from the line of Mike Rollins with Citi.
+
+Michael Rollins
+Citigroup Inc., Research Division
+
+Two topics, if I could. So first, on the PCF deals. How does this new $1 billion of bookings compare to the last set of deals or tranches where I think previously, you guided to an unlevered free cash flow margin of like 30% to 31%. Just curious if the margins from these are different from that. And if you can give us an update on how much pipeline is still out there for aluminum to pursue for these types of deals?
+
+And then secondly, you mentioned a few times the Grow revenue being above 50% of the NAM business revenue. And the Grow revenue grew over 10% year-over-year in the quarter. So can you unpack a little bit more of what's driving that Grow revenue? And is double-digit growth in this Grow bucket a new sustainable level for Lumen to achieve?
+
+Kathleen Johnson
+President, CEO & Director
+
+Mike, it's Kate. I'll take the first one and let Chris handle the second one. On the PCF deals, the $1 billion plus, it was more than one deal and the composition of that portfolio of bookings is equivalent in margins to the prior tranches. And I think you can see us kind of approach this business with a very disciplined approach, as I referenced in my prepared remarks. We're only going to do the business that's deeply accretive, and we're in a kind of a -- we're going to remain focused on that.
+
+Regarding the pipeline, it's a lot of different hyperscalers and neocloud providers. We're not going to commit to a number anymore. I think we're going to exceed probably our expectations as we said last year, only because this is not going to be an overnight sensation. This is turning out to be a fairly protracted phase of what we see as a 3-phase process hyperscalers and neoclouds connecting their data centers for training and for provisioning of services to their customers. And then the enterprise phase of it, where enterprises start consuming those models through inferencing and they need massive upgrades and to address all the needs of Cloud 2.0.
+
+And then there's that third section, which is referenced in the Cloud 2.0 remarks that I made, which is basically AI corridors emerging, and you've got AI talking to AI. So it's a huge amount of data traffic and requires a massive expansion. We're still figuring out what the demand curve look like across all 3 of those cycles. But I think that gives you a sense for it.
+
+Christopher Stansbury
+Executive VP & CFO
+
+Yes. And in terms of the overall growth rate, PCF has started to triple in but I emphasized in my prepared remarks that it's actually not the majority of that growth. So we still see a strong mid- to high single-digit growth in things like dark fiber, IP waves, connectivities -- traditional type connectivity solutions that ultimately will convert to digital. So in the near term, PCF is certainly contributing, but it's not driving the total growth.
+
+I also want to remind everybody that over time, PCF is actually not a growth engine because those deals are static. And once completed, they don't increase every year. So when we're talking about getting back to growth, we know that eventually, there's a headwind as those builds come to conclusion and level off. So PCF is a great way to monetize the assets that are in the ground and this tremendous network that we have the opportunity to run. But they really aren't something that we believe are a significant part of our long-term growth trajectory.
+
+Operator
+
+Your next question comes from the line of Sebastiano Petti with JPMorgan.
+
+Sebastiano Petti
+JPMorgan Chase & Co, Research Division
+
+Chris, maybe you could just -- given the run rate that you've outlined for not only the PCF but for the digital revenue buckets, against the backdrop of some of the transition and transformation costs that you're kind of wearing for lack of a better term in '25, can you maybe help us think through the piece parts or the puts and takes as we look out to the EBITDA bridge from 2025 through 2026? Obviously, the mass markets, that's kind of well understood. Maybe some of the other core or remaining part of this?
+
+Christopher Stansbury
+Executive VP & CFO
+
+Yes. So a few different things. As it relates to revenue, you will continue to see that, that Grow bucket becomes an increasing portion of our business over time. So business mix continues to improve, which means the rate of decline continues to improve. So that's obviously a tailwind.
+
+The -- but the big driver, I mean, let's be really straight about it. Kate called it out, is the modernization and simplification efforts as we navigate our way through the inflection point of EBITDA. So a lot of modernization and simplification as we close out the year. We've said that we're going to be above what we initially guided for this year and then more to come next year. So those are really the 2 key drivers, reduced rate of decline on enterprise and the modernization and simplification benefits that impact EBITDA.
+
+Sebastiano Petti
+JPMorgan Chase & Co, Research Division
+
+And if I could ask a quick follow-up, Chris, I think you said that the balance sheet is no longer a constraint, but a source of strength. I mean, is Lumen strategically compete as you think about trying to attack some of these growth areas that maybe legacy telcos are not necessarily having their purview?
+
+Christopher Stansbury
+Executive VP & CFO
+
+So I would say, number one, once we close the transaction with AT&T, that will bring us down to the high 3s, but we're not done yet. And there's a playbook to further reduce leverage over time. But the point is that when you look at the maturity chart and the curve that we've shared in the presentation, this is not the old Lumen. And this is a balance sheet and debt profile over time that allows us to do multiple things.
+
+So what I wanted to be really clear about in today's reported remarks and it's exactly what I frankly shared at the Industry Analyst Day is it's time to stop talking about our balance sheet as a headwind because it's simply not true. It's time to start talking about our inflection back to growth.
+
+Operator
+
+Your next question comes from the line of Batya Levi with UBS. Please proceed with your question. And we will go to the next question. Your next question comes from the line of Frank Louthan with Raymond James.
+
+Frank Louthan
+Raymond James & Associates, Inc., Research Division
+
+There were 3 announcements this week, you touched on some of them. There was the announcement with the -- you touch of the 10 million business locations in the Palantir and the QTS network. Can you give us an idea of sort of the revenue impact from those items and the timing and magnitude of when those will start to hit?
+
+Kathleen Johnson
+President, CEO & Director
+
+Yes. I mean, all of them were a part of the connected ecosystem storyline, which if you think about it, has a couple of different tenants. So the first is continued connectivity with the hyperscalers. The second is connecting -- interconnect for all the data centers. That was the QTS deal. And the third being technology partners who are seeing value and integrating networking into the offerings that they bring to customers.
+
+So we're starting the flywheel, Frank. It's really about a go-to-market partnership better together. I think networking has always been purchased separately. So you buy a cloud solution and then you go figure out if you have enough network. What we're doing is designing the network solution to support the specific cloud offerings of these companies and making them available in digital marketplaces to make it easy to buy and improve the velocity to value for the customer. And so you're going to see it over time in improved results of all the same things we're selling today. We're just harnessing the power of other people's sales forces to give network a seat at the table for the first time ever.
+
+Frank Louthan
+Raymond James & Associates, Inc., Research Division
+
+And any color on sort of the magnitude and timing of the revenue from those? Or are these just sort of kind of lumped in with everything else in growth?
+
+Christopher Stansbury
+Executive VP & CFO
+
+Yes, I'll take that. Frank, it really gets back to my closing comments, which is we see multiple pathways to getting to our revenue objectives for digital. And the only thing that we're getting really good certainty around at this very early stage is tremendous NaaS adoption. But as Kate laid out in the PxQ map, it comes down to number of ports, number of services per port and price per service.
+
+And so as we move through that journey, we'll definitely give investors a lot more visibility to that. And we'll certainly share our prevailing point of view at Investor Day. But no matter what we share, I guarantee, it's going to be different by the time we get to the other end. And so we'll constantly update the market, but the thing that gives me enormous confidence is when you got port services and price, you have multiple pathways to get to that outcome, and we feel really good about it.
+
+Kathleen Johnson
+President, CEO & Director
+
+Yes. And just to clarify, Frank, the connected ecosystem is a part of the storyboard of how we have confidence in getting to $500 million to $600 million incremental revenue exiting '28. So that's really -- it's one and the same. It's not a separate revenue stream. It is acceleration of the existing digital capabilities in flight.
+
+Operator
+
+Your next question comes from the line of Greg Williams with TD Cowen.
+
+Gregory Williams
+TD Cowen, Research Division
+
+Chris, the stock has been showing some outsized strength in the last call it, 3 weeks. I know it's been volatile recently. But if it sustains up here at these levels, I mean, does it make sense to equitize some of the company and sell some shares and further bolster the balance sheet? Does it change the capital allocation calculus at all?
+
+And then second question, Kate, you did mention the 3 phases of AI. Are we in a prolonged training phase 1 right now? And what I mean is a couple of the hyperscalers and AI companies are pushing now more towards AGI models, like bigger, larger models here. And I'm curious if that prolongs phase 1 of this journey.
+
+Kathleen Johnson
+President, CEO & Director
+
+I think it's a great question as to whether or not phase 1 is prolonged. I think it's definitely intensifying and the amount of capital being deployed is probably bigger than we even imagined last year.
+
+So how long it takes? This isn't -- we're building critical infrastructure for the biggest technology shift in the history of mankind. So it's a multi-decade journey. I want to be clear that it's not linear. So phase 1 will overlap with phase 2. Phase 2 being as enterprises start to use all of these models, which is happening right now. I think that what -- it's really interesting to see the proliferation of neoclouds coming into the story to sort of offload a bit of the pressure on trying to find GPUs and commit to buying them.
+
+So I think you're seeing the market change. And I don't know that anybody knows the answer or how long this is going to last. But right now, we're just focused on executing. And it's like -- obviously, we're delighted with the commitment of capital that our partners and customers are making to this incredible technology.
+
+Christopher Stansbury
+Executive VP & CFO
+
+Yes. And on the stock price, I mean, look, obviously, tech has had a good run of late, and I want to make sure I say that clearly as a backdrop. But look, if you really dissect what's been going on with Lumen's stock price, there was a significant discount put on our stock price because of a few things.
+
+One, perceived risk on the balance sheet side, I mean, again, look at that debt maturity chart. And two, and quite frankly, some of your peers still hold this view that we could never return to growth because of the legacy backdrop. I think what the market now realizes -- and by the way, the credit markets realized this 6, 9 months ago is that neither of those things are true. The balance sheet is getting healthy really quickly and is no longer something to be discussed as a risk. And our portfolio of business today, before we really start to pull in the digital upside associated with transforming enterprise telecom is half of that portfolio is growing.
+
+So when you look at the stock price today and normalize the balance sheet post close, which we said today and AT&T said on their call, we expect an early first quarter, you actually get to a multiple that's pretty reasonable and comparable to better performing peers in our space. So I think we're now finally at the point where we're being recognized for what we've done. And we're now more fairly valued than we have been for the last period of time. From here, we've got a lot of work to do, but we feel really good about the upside as we drive digital adoption.
+
+On the equity rate side, look, we'll continue to look at everything. And I would never say no, but I also want to be really clear. Our equity holders have stuck with us. We've done a lot on the debt side. Our creditors are obviously very pleased with what the return has been on their investments as we see bond trading values come up. And now it's time to focus on our equity holders, and that's why we're so pleased to see what's happening in the market.
+
+Operator
+
+Your next question comes from the line of Eric Luebchow with Wells Fargo.
+
+Eric Luebchow
+Wells Fargo Securities, LLC, Research Division
+
+Appreciate the kind of revenue color on the digital and NaaS ecosystems, $500 million, $600 million. Just curious if you could talk about some of the incremental work you have to do internally, investments you have to make to kind of be able to achieve that outcome, whether it's upgrading data centers, additional cross-connects, additional on or off-net locations. And whether that could show up in the OpEx or CapEx line to be able to reach that goal in a few years.
+
+And then my second question would just be around disconnects of legacy services. It seems like those have been coming in a little better than expected. Just wanted to check if there's any kind of timing-related things to call out there that we should expect to roll off in the next few quarters? Or maybe you're just performing better than you previously anticipated?
+
+Kathleen Johnson
+President, CEO & Director
+
+Yes, I'll take the first part, and I'll leave the disconnect timing question to Chris. So the investments required to build the digital platform are definitely significant. They're already contemplated in all of our plans. They're in the operating plan, and we've got a very strong pipeline of innovation. It's just beginning with IoD off-net. We've got Berkeley coming to market in the first quarter and more enhancements to the platform after that.
+
+I think it's important to remember that we talk about cloudifying telecom, which really means driving cloud economics for us and our customers. That's about scaled revenue growth with reducing marginal cost of hardware required to deliver these services and -- which is very, very exciting. Additionally, the old way for Lumen to grow was really sort of fixed to a level of capital intensity that I think is changing over time. That capital intensity required to deliver the digital portfolio over time, reduces. And I think that's an important part of our story over the next couple of years.
+
+Chris, do you want to take?
+
+Christopher Stansbury
+Executive VP & CFO
+
+Yes, on disconnects. It's really -- last quarter was an anomaly as we said around the public sector side and things that I would say, just returned to normal as we move into the fourth quarter. I think the bigger impact in the fourth quarter is what I mentioned in my remarks, which is, remember, we had a big onetime revenue enablement item and grow last year surrounding the state of California. So that's really the biggest thing that's out there.
+
+Operator
+
+Next question comes from the line of Nick Del Deo with MoffettNathanson.
+
+Nicholas Del Deo
+MoffettNathanson LLC
+
+The first one, Kate, you touched on this in your prepared remarks, but I was hoping you could dig in a little bit more. Can you talk some about the specifics of how you're promoting NaaS to customers and educating out the product and how you're incenting the sales force to sell it versus other services? And kind of related to that, if the off-net opportunity is 100x larger than the on-net opportunity, how are you prioritizing each? How are you resourcing each?
+
+Kathleen Johnson
+President, CEO & Director
+
+It's a great question and a hot topic for Lumen right now because we're going to relentlessly pursue our digital future. And that means allocating resources accordingly. And when NaaS was a bit nascent, we had to kind of do it as a hobby and now that it's becoming core and showing a very promising adoption curve, which will translate into a very promising revenue growth curve, we've got to dedicate more resource to it.
+
+And for any company in transformation, Nick, you have to be ambidextrous. You have to take care of the old and you have to build the new at the same time. The trick is when do you move thing, resources from the old to the new, and we're right in the process of doing that. And there are many examples that I could go through. But at the highest level, we are -- where there's a NaaS capability being offered to customers, we will demote the old-school analog version of that service and prioritize it in terms of engineering resources, marketing resource, sales resource and operations resource. And so you'll see the sales team being more and more incented to go after it and the rest of the company in support of that sales force.
+
+I think your other question about the availability of 10 million buildings, we still need to target. We still need to get aggressive in terms of aligning our sales efforts with the massive metro upgrades that we're doing. So our customers can take advantage of everything we're doing at the same time, the on-ramps network as a service, the capital improvements, the rapid routes, all of that stuff as we improve the capacity and bandwidth and performance market by market.
+
+And so -- it's also important to note that if you think about most large enterprises, they have a mix of buildings in any geography that are on and off-net. And so we have to be very cautious about how to present this to customers. Now we can ask our entire sales force to talk to every customer about purchasing NaaS and about what the benefits are over agile, digital native experience digitally is going to be fundamentally different and provide a better customer experience to these customers. It wasn't available in totality in the past. Now that it is, it will actually be easier for our sales force to approach customers because they don't have to pick and choose on-net and off-net. They can just do a total network refresh.
+
+Nicholas Del Deo
+MoffettNathanson LLC
+
+Can I ask one clarification on the PCF front as well? A few minutes ago, you said that the margin on the PCF deals that you signed in this quarter was equivalent to what you previously outlined, the prior deals you signed rather. Last quarter, I thought you were suggesting that the funnel that you had, had some different attributes to it since they skewed more towards new builds rather than leveraging existing assets. Maybe could you just touch on that a little bit?
+
+Kathleen Johnson
+President, CEO & Director
+
+Yes. I mean, basically, new build construction projects much more complex, and there's pressure for lower margin over those projects as opposed to overpull or lighting up existing dark fiber. And the composition of the portfolio is incredibly important to us. We're not going to do bad deals. And there's an enormous amount of pressure from some of our partners to go back to the old telco ways of 0 margin for the promise of traffic of the future, and we're not really doing that. We're looking for much more creative partnerships with these builds to say, if it's a new build, we will share costs if there's existing traffic there.
+
+Chris, do you want to add anything to that?
+
+Christopher Stansbury
+Executive VP & CFO
+
+Yes. And so the $1 billion looks like the deals that we've signed so far because it's primarily existing conduit where we're doing over pulls. So it's a similar economic profile.
+
+Operator
+
+Your next question comes from the line of Mike Funk with Bank of America.
+
+Michael Funk
+BofA Securities, Research Division
+
+So I'm going to butt in your comment during the prepared remarks, I think you said that it does not fit the models of traditional telecom. So can you expand on that for me, if you could, please? Traditionally, telecom kind of being very commoditized from buying the same equipment, same service capabilities. So I guess how do you veer from that more traditional model? And what should you mean by the earlier statement?
+
+Christopher Stansbury
+Executive VP & CFO
+
+Yes. So first of all, let's start with the fact that nobody is doing what we're doing. What I would clarify though is when Kate talked about our digital future, there were key words in there, which is one port, many services. So traditional telecom was a battlefield of every single services requiring its own infrastructure layer, its own set of ports. And so you have multiple players in the ecosystem go chase VPN or Ethernet or whatever it was, and you'd end up with massive amounts of hardware in the system and then everybody says, the only tool we have to compete against each other with is price. That's not what we're doing.
+
+What we're doing is we're monetizing what is the most modern, the most high capacity, the fastest network by adding a digital layer in an ecosystem layer, and those are services to, Kate's point, whether they come from us or they come from third parties that allow us on and off-net. Off-net is not a disadvantage anymore because of what we're bringing to market where we can actually, for the first time in enterprise telecom bring scale.
+
+So you'll see declining capital intensity because every service will not require its own infrastructure layer. You'll see increasing margins because those services increasingly will be delivered digitally. The whole model is changing. It's the PxQ math that Kate went through. So Lumen is not your mama's telecom anymore. We will not look like and are proud to not look like our competitors in this space.
+
+Kathleen Johnson
+President, CEO & Director
+
+And Michael, I would strongly encourage you to look at some of the slides that we prepared for today's presentation, specifically the essential Cloud 2.0 networking requirements. I challenge you to come up with another company that is doing the 5 things that we outlined on the page. We are massively expanding, bandwidth and reducing latency with our upgrades of rapid routes and data center interconnect and metro updates. We are connecting to everywhere that matters, especially with the data centers, which means we're bringing that higher level bandwidth and lower latency to all of those locations. We're expanding into AI corridors. We've connected with all of the hyperscalers for these on-ramps and we're delivering everything with a vision that is got to be programmable and it's got to be interconnectable through APIs.
+
+This is a complete modernization of old telco. What's remarkable is that new architecture that we're building, not only gives better performance, more secure, higher bandwidth, higher performing, lower latency, all those things, intelligence. It also reduces cost because it takes the intermediaries out. And that's incredibly important when we're starting to talk about commoditization. Things get commoditized because there was a utility mindset and there is no innovation. This company is completely innovating and delivering a fundamental reset in networking in support of AI and making massive capital investments in support of that, and we're already seeing the uptake. So it's very, very different.
+
+Christopher Stansbury
+Executive VP & CFO
+
+The only add that I would make is that when you look at PCF, that physical layer, the reason we're at $10 billion of business, and you're not hearing much from others isn't because they want to walk past $10 billion. It's because they can't do it. So if you were to normalize the underlying physical layer, it would be years and billions and billions of dollars until a competitor could close that gap. That's before we talk about the digital and ecosystems layer where we're making this consumable on demand by the customer. And so that's the differentiation. And that's why you continue to see our profile looks so different to our competitors.
+
+Michael Funk
+BofA Securities, Research Division
+
+And one more if I could, really quickly. I appreciate all that insight, and I'll definitely review the decks again for those facts. So you've given us some landmarks for the revenue and revenue growth, and I apologize if I missed it from the analyst, event you hosted or today. But what is the cash EBITDA CAGR look like over that same time period? You referenced in the call that the market is not giving you credit for growth rate relative to peers. It'd be helpful to have a thought on that to be able to better frame the valuation on cash EBITDA growth.
+
+Christopher Stansbury
+Executive VP & CFO
+
+Yes. So I'll say 2 things. First, we're going to give you all of that at Investor Day. Second, in preparation for Investor Day, as we look at, again, only the PCF deals that are signed to date, nothing new, and there is more there. And we look at the capital investment to do the things that we're talking about. We have ample cash flow -- free cash flow over the next 5 years to the point where even post the AT&T close, we will continue to delever. So this is a business that will continue to generate free cash flow because capital intensity falls because margins go up and because ultimately, revenue inflects. So we'll give you more at Investor Day.
+
+Operator
+
+Your next question comes from the line of Jonathan Atkin with RBC Capital Markets.
+
+Jonathan Atkin
+RBC Capital Markets, Research Division
+
+Wondered if you could comment a little bit about off-net NaaS capabilities and any -- maybe just repeat or go to more detail on kind of what lies ahead around that capability and demand for off-net NaaS. Yes, that would be my question.
+
+Kathleen Johnson
+President, CEO & Director
+
+Yes, sure. So the exciting part about off-net NaaS is -- we feel off-net today in existing capabilities, right? It depends on who owns the endpoint. So if one of the other carriers had the endpoint into a building, but the customer wants to do a network with Lumen, we would have a wholesale relationship for that endpoint. The really cool thing about IoD off-net is that we now can offer on-demand Internet services to customers no matter who has the endpoint of the building. So if Verizon or AT&T or anybody else has fiber into the building, that customer can still run Lumen NaaS, and that's a great thing.
+
+But what's more, and this is something that we reviewed at Analyst Day in September, we're going to bring a lot more detail when we launch Project Berkeley is we have a fabric port that allows us to make any pipe smart. We turn anybody's pipe into an intelligent and secure Internet connection. And what it does is, it really accelerates our commercial expansion capabilities.
+
+What's more is that fabric port, Berkeley specifically, has a Swiss Army knife. So it's a cross-carrier mesh, if you will, that enables fixed wireless, satellite, fiber copper, 5G, whatever service you have can all go into that port, which is really cool because it's kind of like a control point for the Internet. And what that means is not only can we expand, but we can provide more services to our customers over time as they want to manage cross carrier.
+
+Finally, the connected ecosystem, part of our story is exciting because our partners want to provide services on our network out of the gate. So just imagine the vision, and this is vision, we still have to get all the pieces together. But imagine that customer says, I want to have a Lumen network, we drop ship a Berkeley device, if you can plug it in Ethernet cable, you can make that device work. It shows a digital twin back in Lumen Connect, the mother ship, the cloud, so that we can remotely provision, we can remotely manage and service it under a single pane of glass.
+
+But what's really neat -- and this is what I tried to tease out on the prepared remarks, is that customer can say, okay, I have a new building, I'm going to buy a Berkeley device and to put it in place, and I'm going to get some Internet on demand. I'm going to throw some voice on there. Maybe some Lumen Defender. I want to connect to 2 of the cloud directly without going through carrier-neutral facilities. And I want some of the security service from my favorite security provider. Click, click, click, and they can build that service remotely. It's a very forward-leaning vision, and we're bringing it to market in 2026.
+
+Jonathan Atkin
+RBC Capital Markets, Research Division
+
+Is there any external investment, tuck-in M&A or whatnot that makes sense either in regard to this direction? Or is there anything else around the broader business?
+
+Kathleen Johnson
+President, CEO & Director
+
+I'm sorry. Did you ask if there are any tuck-in?
+
+Jonathan Atkin
+RBC Capital Markets, Research Division
+
+Does [indiscernible] accelerate, does it make sense to do M&A to maybe accelerate capacity that you have going?
+
+Kathleen Johnson
+President, CEO & Director
+
+I really love questions about M&A. It really shows how different things are. Thank you so much for the question. Of course, we look at everything, constantly, the best use of capital. Is it to invest something new, is it to pay down debt, is it buyback equity, or is it to go buy something to tuck in? We're looking at all of it, and we'll bring it to you as soon as we have any changes in our current trajectory.
+
+Operator
+
+At this time, there are no further questions. I will turn the call back over to your host, Kate, for closing remarks.
+
+Kathleen Johnson
+President, CEO & Director
+
+Thanks so much, operator, and thanks to everybody for the remarkable time and attention that you spent and the great questions. We're so excited to share our progress and our journey ahead, and we couldn't be happier with what's going on at Lumen. A special shout out to the thousands of Lumenaries working so hard every day to make this progress reality. I'm so proud of you. And love working with all of you. See you in the field. All right. Thanks, guys.
+
+Operator
+
+That does conclude the conference call for today. We thank you for your participation and ask that you please disconnect your line. Have a great day, everyone.

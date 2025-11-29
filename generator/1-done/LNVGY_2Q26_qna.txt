@@ -1,0 +1,280 @@
+Question-and-Answer Session
+
+Lixi Yuan
+Director of Investor Relations
+
+Thank you, Winston. Now we will open the floor for questions, and this session will be English only. [Operator Instructions] While we are waiting for the questions, allow me to introduce the management team again.
+
+Other than our Chairman, Yuanqing Yang; and CFO, Winston Cheng, we also have the following business leaders with us today for Q&A.
+
+Luca Rossi, President of Intelligent Devices Group; Ashley Gorakhpurwalla, President of our Infrastructure Solutions Group -- of our Solutions and Services Group; and Sergio Buniac, Senior VP of Mobile Business Group and President of Motorola.
+
+Our first question is from Albert Hung from JPMorgan.
+
+How big will the memory price impact on margin? What is our strategy to go through the memory cost hikes? And when do you expect to see the impact from inflated memory price? And what will be the memory impacts on our business segments? For these questions, I'd like to invite our Chairman and CEO, Yuanqing, to give some remarks. Thanks. Yuanqing, please.
+
+Yang Yuanqing
+Chairman & CEO
+
+Thank you, Albert, for the question. So if you look at the industry and the market, so 2 key -- 2 key dynamics are top of mind. First is top of AI bubble. And the second is concerns about the supply shortages and the rising component prices.
+
+And I believe these 2 topics are related to each other. So let me give you my opinion. First, on the so-called AI bubble, my opinion is as with any major innovation, there will be intense investment and competition at the beginning, particularly in certain areas such as large language models.
+
+But overall, we do not see a bubble. The substantial investments in AI infrastructure are laying the groundwork for the next major technology wave, much like the early Internet [ field ] explosive growth in PCs, particularly actually triggered the smartphones first for sure, more PC and mobile applications as well.
+
+What's happening now is the next wave of AI democratization, spreading across both personal and enterprise use, which is perfectly aligned with Lenovo's strategy. So we are addressing Personal Hybrid AI as well as Enterprise Hybrid AI.
+
+So because this AI adoption accelerates, the supply shortages and high component costs are natural consequences of rising demand. Addressing this issue, so first, this is not new for our industry, supply shortage or supply cost up and down the normal situation for the industry.
+
+But I believe Lenovo is better positioned and more flexible and resilient than our peers to manage it effectively. So this is not just because of our scale. So indeed, we are probably one of the largest buyers in our industry, combining PC, smartphone, server storage business together.
+
+But also, we have the best supply chain in our industry. So we are very proud of that. So actually, we are ranked #8 as again global supply chain -- top supply chain is [indiscernible].
+
+And we have a much stronger and better relationship with the suppliers. And typically, we signed a long-term contract with some top upstream suppliers. So that we are very confident we can manage this situation better than our competition to ensure not only we have enough supply, not just for short term, but for entire year, next year.
+
+But for sure, hopefully, the demand will not grow too fast than we forecasted. But also we believe we can get the most competitive cost so that we can remain competitive in the market while protecting our profit and margin.
+
+More specifically, for the next 2 quarters, we are very confident we can continue to drive double-digit growth in both our PC business as well as our server and infrastructure solution business.
+
+Meanwhile, we are confident that our margin and profitability will not be impacted during this period. Last but not least, from a longer-term point of view, so we have the mechanism in place to adjust the price and continue delivering on our commitment to ensure the market competitiveness while maintaining our margin and profitability. Thank you.
+
+Lixi Yuan
+Director of Investor Relations
+
+Thank you, Yuanqing. The second question is on PCs, and we also have a few questions on PCs as well. So we've got Anthony Leng from JPMorgan and Leping Huang from Huatai, asking about the PC outlook for the next year.
+
+And from Leping, he mentioned congrats on the industry-leading 7.3% OP margin in IDG and looking ahead, how do you assess the headwind from the rising storage memory component prices? Are you confident in maintaining this margin profile via pass-through? Luca, can I invite you to answer the questions.
+
+Luca Rossi
+Executive VP & President of Intelligent Devices Group
+
+Thank you, and thanks, Anthony. Thank you, Leping. So maybe I'll start with the demand side. And here, I will say that we are definitely more optimistic than what we are seeing from some of the industry analyst reports.
+
+So with the visibility, order visibility we have, as of now, I think we are confident to continue that we will continue to grow at double digit, at least for the next 2 quarters and also for the remainder of calendar 2026, on top of that, Lenovo will continue to grow at a premium to market, so faster than the market while maintaining industry-leading profitability, which brings me to the second point and our Chairman and CEO already mentioned it.
+
+So regarding the memory SSD commodity cost up trend, first of all, I want to remind to all that this is something we have been able to manage several times in the past, in the previous many years, generally speaking, always successfully expanding our market share without impacting our profitability trajectory.
+
+And that is coming with the combination of our strong procurement power, strategic inventory preparation that you can bet we made and definitely also the ability to understand each single market globally so that we know how to price correctly.
+
+So I think the combination of all these things bring me to say that we will price in the right way to expand the market share, to continue to gain market share, like we did in the past. Now it's 9 consecutive quarters that we are gaining market share and maintaining our industry-leading margin and our industry-leading profitability. Thank you.
+
+Lixi Yuan
+Director of Investor Relations
+
+Thank you, Luca. The next question is from Cherry Ma from Macquarie. So this is on smartphone. She's asking the smartphone outlook for 2026 and what is our strategy for new product launches and the pricing given the component price increases?
+
+And what's the market to focus on given emerging market demand would tend to be weak when phone prices go up? So can I invite Sergio to address this question? Sergio, please?
+
+Sergio Buniac
+Senior VP of Mobile Business Group & President of Motorola
+
+Yes. So thanks for the question. I think, I mean, no different than what Luca mentioned. I think, number one, we expect the market next year to go single digit, a little faster in value for the price adjustments.
+
+We are not changing our strategy. So we have been 9 quarters premium to market. I think in the last few years, it's not the first time we see component pressures. We have navigated those cycles very efficiently given Lenovo supply chain position.
+
+Our strategy continues the same. I mean we are going to double down in double-digit market, share markets, continued expansion in B2B that is growing double digit, and we will continue to accelerate premium.
+
+We believe the premium devices will be a little less affected by the component costs rising. Our Edge and Razr franchises are growing 28% year-over-year. We continue to see much faster growth in that segment. And we are now further investing in the [ $400 to the $700 segment ] and above [ $700 ], you'll see some announcements.
+
+We also will continue to double down on ecosystem. It's a fast-growing segment for us, and not less important to continue to invest in monetization. Now market-wise, we are more diversified now. So we believe our footprint is not -- we're not going to change.
+
+We are seeing strong growth in markets like India, Japan, Italy, Middle East, Latin America, North America. So I think the footprint is appropriate for what we see ahead of us in the next 18 months. But our expectation is to continue to grow premium to market in the next quarters.
+
+Lixi Yuan
+Director of Investor Relations
+
+Thanks, Sergio. We've also got another question on SSG. So how do you capture opportunities in hybrid AI infrastructure, both in and outside of China? And what medium-term targets do you have for managed AI compute under TruScale? Yes. Ken, would you like to address this question?
+
+Kin Hang Wong
+Executive VP and President of Lenovo Solutions & Services Group
+
+Yes. Thank you. Thanks for the question, Jim. Well, so when we look at the deployment of AI, and there's a lot of customer feedback in terms of key consideration, right? I mean those key considerations are cost, latency, sovereignty, privacy.
+
+And that's why I think our hybrid AI strategy resonate a lot with our customers. And also, as you can see, it's proven in our performance. So that's number one.
+
+Number two, that is why we introduced the hybrid AI advantage, which is basically 3 important components. One is about the AI factory. Second is for the AI factory to power the solution, the AI solution for our customer.
+
+And lastly is to put together by all these things by our AI services in order to help our customers to accelerate their AI journey and help them to achieve the fastest time to token, right?
+
+I think this is so important in AI deployment and also getting ROI out of it. The other thing that we focus on is that there's a lot of requirement on agility and flexibility.
+
+And that is why when we put the TruScale as a service on top of our AI factory, I think that is even more resonate with our customers. So with that, if you look at the market and especially on our performance, I think this part of the business is actually growing much faster than the overall market.
+
+If you look at the overall IT services market, it's growing at about low single digit, but this part of the business is actually growing at double digit, and we are for sure much faster than the market. So thank you for your question, Jim.
+
+Lixi Yuan
+Director of Investor Relations
+
+Thanks, Ken. So previously, we've also got a question from Randy from UBS asking, can we sustain the strong growth and margins on SSG? And moving forward, are we considering separating the warrant business? Would you like to take this question, Ken?
+
+Kin Hang Wong
+Executive VP and President of Lenovo Solutions & Services Group
+
+Well, thank you for the question. If you look at our business, I think there are 3 parts of our business. One is definitely the attached business, right? The attached services is basically to make sure to elevate and enhance our hardware experience from pocket to the edge to the cloud.
+
+The other part of our business is an extension of the attached business, right, into managing all the hardware and software and services in the workplace, which is digital workplace solution.
+
+Second is based on our compute leadership, right? We help our customers to build hybrid cloud. And lastly is the sustainability business. I think this is one of the most sought after all over the world, right?
+
+And the last part is our AI services, which is, as I answered earlier on, this is what is every customer is asking for. But when I look at all these businesses, they're actually interrelated, right?
+
+If you look at AI services, I think it's AI are all powered by hardware, powered by compute, right? So you need to make sure you have the world-class hardware as well as the world-class experience in order to deliver AI ROI, right? So my point of view is it has to be integrated and each part of our business plays an important part of the overall AI solution.
+
+Lixi Yuan
+Director of Investor Relations
+
+Thank you, Ken. The next question also comes from Leping Huang from Huatai Securities. It's on our Alat strategic partnership. So could you share a timeline for the MEA manufacturing hub coming online? And when can we expect material financial contribution? Can I invite Winston, our CFO, to answer this question? Winston, please?
+
+Shao-Min Cheng
+Group Chief Financial Officer
+
+Sure, thank you, Lixi. Thank you Leping for the question. I think in February, our Chairman, YY actually went to do the opening ground ceremony. And last month, he also visited the Saudi and saw now a group over a very well developed plant. So I think I personally was there as well, very much amazed by the progress.
+
+I think this is even fast for China standards. So amazing progress in the foreign land. The plant is one of the most complete for us in the international market.
+
+We will have desktop PC, mobile and server. So one of the most complete plants that we have in our supply chain. In terms of the timing, we'll start testing next month with volume production really by the middle of next year.
+
+I think we are doing quite well in the business, particularly in the PC space, where we have a #2 position there and really continue to gain.
+
+And so I think from that basis, we're looking to expand our business there by way of server and also mobile, where we will now have a more focused opportunity.
+
+So a lot of dialogue, a lot of excitement for our plants, which have been recognized locally there as the most complete end-to-end manufacturing, not just simple assembly. So I think we expect to have quite a bit of traction and market expansion opportunity with the made in Saudi products coming out. Thank you.
+
+Lixi Yuan
+Director of Investor Relations
+
+Thanks, Winston. We've got more questions on ISG. So can you update us on the ESMB initiatives on ISG to drive profitability improvement? And how much should we factor offsets from the component cost? This question is from Randy Abrams from UBS. Can I invite Ashley to answer this question? Ashley, please?
+
+Ashley Gorakhpurwalla
+Executive VP & President of the Infrastructure Solutions Group
+
+Sure. Thank you for the question. Maybe I'll also address the general server market as well as part of that. Today, we're experiencing strong momentum in the ISG business. That's mainly driven by accelerating demand for AI infrastructure, various new customer engagements and also definitely our unique dual CSP and ESMB strategy.
+
+And we think this momentum will provide a strong foundation for our commitment to long-term sustained profitability in our ISG business. If I elaborate in CSP, we're seeing our industry-leading scale and our unique Lenovo R&D deliver strong growth across the customer base of hyperscale to now emerging neo cloud AI providers.
+
+And in ESMB, we saw a solid 30% year-over-year revenue growth, reflecting much stronger than market momentum. This is driven by our focus on new transactional models, commercial AI growth and Lenovo's high-performance infrastructure portfolio.
+
+We saw Lenovo's AI server growth at high double-digit year-over-year. And we are really proud of the growth in our Neptune direct liquid-cooling solution, which grew well over market at 150-plus percent year-over-year.
+
+So for all the reasons that YY mentioned earlier, we believe the server and data center infrastructure market will expand over the next year by high double digits in year-over-year revenue in the CSP segment and by high single-digit percentage year-over-year in the ESMB segment. We remain very optimistic that the compelling value of our AI portfolio and services continue to drive our ISG growth momentum and improving profitability. Thank you.
+
+Lixi Yuan
+Director of Investor Relations
+
+Thank you, Ashley. We've also got some follow-up questions on the general server demand in calendar year 2025. And how do you think the general server demand will trend into the next calendar year? This is from Howard Kao from Morgan Stanley. Perhaps if you can give a little bit more color on the general server demand side. Ashley, please.
+
+Ashley Gorakhpurwalla
+Executive VP & President of the Infrastructure Solutions Group
+
+Sure. Thank you for the question. As I said earlier, I think if we segment the server market through our lens of CSP and ESMB, we believe we'll see continued high double-digit growth in the CSP segment and high single-digit growth in the ESMB segment, which would include for us general server marketplace.
+
+What we believe that as YY mentioned, AI democratization is a very compelling transformation and productivity enhancement for our customers, along with our capability to deploy in a very quick manner with our services capability. And we think this market remains impacted by AI going forward. And so we remain optimistic that the general server growth in the marketplace that we see this year will continue in the next calendar year.
+
+Lixi Yuan
+Director of Investor Relations
+
+Thanks Ashley, great answers. For AI PC, we've seen some interest from analysts and investor communities. So Lenovo appears ahead in AI PC penetration versus our peers. So what is the strategy driving this competitive edge? And how durable are these competitive edge to us? This is from Jim Au from DBS. Can I please invite Luca to answer this question? Luca?
+
+Luca Rossi
+Executive VP & President of Intelligent Devices Group
+
+Thank you. Thanks, Jim. So I will say we definitely have been working hard to build our AI PC franchise. And currently, as you probably know, we are the #1 in Windows AI PC with over 30% of share.
+
+I would say that the current results come from our innovation capability, combined with time-to-market, combined with the best-in-class cost structure and then our operational excellence and our unique, what we call Global/Local business model.
+
+So I think all these advantages that I mentioned, they are structural and they will continue to serve us in the future. But additionally, we are also not standing by, and we look forward to what will be the new AI native device era. And here, we will leverage our unique position for the breadth of our offering, PC, tablet, smartphone, IoT devices, all part of a single ecosystem driven by our vision of One AI, Multiple Devices.
+
+So on this front, you will see us doubling down with new innovations, a lot of new innovation coming at the Tech World at the Sphere in Las Vegas coming soon in January 2026 during CES. So I believe that this innovation -- new innovation will also serve us to help us to solidify our competitive advantage. So to be frank, our ambition is to continue to expand our market share above and beyond where we are today while expanding profitability at the same time. Thank you.
+
+Lixi Yuan
+Director of Investor Relations
+
+Thank you, Luca. So back to ISG. We don't really break down the CSP and ESMB, but what is Lenovo's expectation on the growth rate in these 2 segments in the coming 2 years?
+
+So this is from Robert Cheng from Bank of America. So actually, we've also got additional question from Jim Au from DBS and asking how do we capture the ISG opportunity through our Neptune liquid cooling service. Perhaps you can help address these 2 questions, Ashley.
+
+Ashley Gorakhpurwalla
+Executive VP & President of the Infrastructure Solutions Group
+
+Thanks for the question. As I said earlier, I think we remain pretty optimistic that the democratization of AI through both personal use and use by enterprise customers is a very compelling reason for our customers and what they tell us to drive enhancements in their infrastructure.
+
+And so we don't break out, as we said, our segmentation revenue. But we see double-digit and high double-digit growth in the CSP market that we serve in that segmentation and high single digit in general or the ESMB space as well, mainly driven, of course, by many workloads with AI really becoming one of the most important workloads that our customers are deploying.
+
+We believe that one of the factors in AI deployment for all customers, enterprise, small and medium business, global hyperscale Tier 2, it doesn't matter. It's really making sure that power consumption and the efficiency of power usage and cooling remains a factor within how they deploy, how they use, what they can afford.
+
+And so this is where a multi-decade development of industry-leading direct liquid-cooling and water-cooling system, Neptune, which we're now on our sixth generation of development of has become a very important engagement with our customers through services and capability.
+
+We believe that we've helped the most customers in the industry convert data centers over from air cooled to liquid cool, and that's reflected in our very, very high growth rates going forward.
+
+We continue to invest in the business and in the R&D and technology on behalf of our customers. And so over the next 2 years, we believe this will become one of the dominant factors in choosing Lenovo AI infrastructure going forward.
+
+Lixi Yuan
+Director of Investor Relations
+
+Great. Thanks a lot, Ashley. Next question is on our smartphone. So what is our smartphone AI strategy in leveraging Lenovo's strong PC installment? What is the current monetization road map for Moto AI? Sergio, can I invite you to answer this question, please. Thank you.
+
+Sergio Buniac
+Senior VP of Mobile Business Group & President of Motorola
+
+Thanks for the question. Well, our strategy, One AI, Multiple Devices, so full leverage across Lenovo AI capabilities. Our mobile monetization strategy is anchored in providing our customers a differentiated and integrated experience, which will drive growth for the business.
+
+So our approach links devices for multiple partners, Microsoft, Google, Perplexity, many others. And these efforts are fully integrated into the group AI strategy. So we believe the cross-device experience is going to be the key differentiator for our solutions in the future.
+
+Now in terms of monetization, we are looking to the device value uplift. So AI features drive premium attach rates, AURs and volume increase, preloads and ads and of course, very strategic AI partnerships with shared revenue.
+
+So a lot happening, and a lot of leverage from the broader group, and our vision is fully integrated with One AI, Multiple Devices.
+
+Lixi Yuan
+Director of Investor Relations
+
+Thank you, Sergio. We've got one more question on ISG. So in AI servers, you talked about the AI inferencing being a significant market opportunities. What is Lenovo's strategy to capture the potential growth upside? Ashley, would you like to answer this question, please?
+
+Ashley Gorakhpurwalla
+Executive VP & President of the Infrastructure Solutions Group
+
+Thanks for the question. In addition, as you mentioned, with the inference being a significant market opportunity, we think we're only in the beginning of that market opportunity.
+
+We see through our -- especially through our CSP business, we're able to work with customers on foundational frontier model training, and we're beginning to see the move into production AI models, agents and capabilities into the enterprise, which requires a focus on inferencing services capability and infrastructure.
+
+As an example, today, our recent addition to the portfolio of the NVIDIA RTX 6000 Pro family across, for instance, today, we're delivering on our ThinkSystem, SR675 V3 and the SR658, V4 has already become a significant portion of our AI server demand and delivery.
+
+And so we expect as we continue to build out the world's best inferencing capability, as Ken said, really delivering time to token that this becomes a very important part of our business and of into our customers.
+
+Lixi Yuan
+Director of Investor Relations
+
+Thank you. We've got one more question. So on the overall outlook, it's from Randy Abrams from UBS. How are our business tracking into the year-end? And what is the initial view for first quarter versus our normal seasonality? I think with this question, I would like to invite our Group CFO, Winston, to answer it. Winston, please?
+
+Shao-Min Cheng
+Group Chief Financial Officer
+
+Sorry, the question is -- can you just repeat?
+
+Lixi Yuan
+Director of Investor Relations
+
+The overall group outlook into the year-end.
+
+Shao-Min Cheng
+Group Chief Financial Officer
+
+As stated earlier, and I think we reaffirmed today by our business leaders, I think we are reaffirming what we have in the Street estimates even prior to the recent changes by some of the analysts, in particular due to the DRAM cycle. So we continue to see strength in the order, particularly for PCs, as Luca mentioned earlier.
+
+So we are confident of the estimates out there. I think they may be slightly lower, but haven't tracked in the past few days given some revisions in the target price, but maybe not the estimate. I don't -- this part of me I have not changed the check. But I think overall, we are reaffirming what we had outlook a couple a month ago or even before. So I think consistent with the [indiscernible].
+
+Lixi Yuan
+Director of Investor Relations
+
+Thank you very much. I think for the next question, we would like to invite Luca to answer. This is from Goldman Sachs, Verena Jeng, and she was asking if there's any plan for AI or AR glasses or new devices outside of our existing portfolio. Luca, would you like to give a few comments on this?
+
+Luca Rossi
+Executive VP & President of Intelligent Devices Group
+
+Sure. So as I alluded before, we are not standing by. And obviously, with this AI revolution that is in front of us, we are getting ready for that. That includes more AI native devices, more AI sensing devices.
+
+But of course, today, I will not launch or announce anything, but I will invite all the analysts to follow us at Tech World in the Sphere in Las Vegas, in January. We -- that will be the beginning of a journey where AI ecosystem -- One AI, Multiple devices, will be at the epicenter. Thank you.
+
+Lixi Yuan
+Director of Investor Relations
+
+Thank you very much, Luca. It's an exciting journey ahead, and we're very looking forward to our Tech World next year. So this is the end of our earnings announcement and webcast, and thank you, everyone, for joining this webcast. Thank you. Goodbye.

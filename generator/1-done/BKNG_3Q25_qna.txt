@@ -1,0 +1,192 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] And our first question comes from the line of Kevin Kopelman with TD Cowen.
+
+Kevin Kopelman
+TD Cowen, Research Division
+
+I was hoping to dig in on your U.S. acceleration in Q3. Could you talk about your B2B initiatives in the U.S. that you mentioned and maybe globally? And then it sounds like B2C also accelerated in the U.S. so any additional color on what you saw as the key drivers there would be great.
+
+Glenn Fogel
+President, CEO & Director
+
+Kevin, so obviously, we were very pleased about our U.S. acceleration. I hadn't looked at the numbers. So I guess this is 3 quarters in a row that we have some acceleration which is always good to see. And it is both B2B and B2C. And we are pleased about what we're doing in the B2B region. We haven't talked about it a lot in the past. We're not there, beating our breasts about how great our B2B is, but it's pretty darn good. And we've been winning some contracts. We don't make big announcements about them, but they are good and we're continuing to advance. So we're very pleased with where we are. There's nothing really specific to talk about right now. We have talked a little bit about bringing together become more efficient.
+
+We have many different B2B units around the world because we have the different brands, have different B2B units. We're going to create things that are more efficient, really bring the best of all breeds together. So we really have something that's even better for our partners and our travelers. In regard to the B2C area, also good numbers there. We're really pleased to see what we're doing, but this has been a very long-term process that we've been talking about for many, many years about how improving the product will improve the results. And that's what we've been doing. There's nothing that's miracle, there's no magic bullet happening, et cetera.
+
+It's bringing the brand together, it's doing the product better. I mean, just to give some example, I hope people watching the baseball have seen some of our branding there. I certainly have gotten some calls from people. And that's the thing, make people aware that we have a great product and then execute and do what's necessary. If anything goes wrong, provide that great customer service that really brings people back because they love using it. I don't know, you got anything more to add to that.
+
+Ewout Steenbergen
+Executive VP & CFO
+
+Yes, let me add a few other data points there, Glenn. Kevin, clearly, we saw healthy growth domestically in terms of travel as well as outbound saw some healthy growth. So both were doing well from a U.S. perspective. Another important thing that I would like to point out, and I think we're really positive and really excited about this, this is the growth of our direct channel in the U.S. So what we are seeing is clearly a payoff of our brand awareness that is getting stronger in the U.S., more familiarity and therefore more customers coming now direct to us in the U.S. So that is really something that has seen quite a step-up in the third quarter, and we see that as a really positive trend. And ultimately that is all the result of all the investments we have been making over the last number of quarters and years. Investments in product, investments in supply, in marketing and in brand. So overall, indeed, thank you for pointing it out, we're very happy where the U.S. is this quarter.
+
+Operator
+
+And our next question comes from the line of Doug Anmuth with JPMorgan.
+
+Douglas Anmuth
+JPMorgan Chase & Co, Research Division
+
+I know you were early in the test program with OpenAI as well, but can you talk about your thought process heading into the app integration and what you're seeing in the early days? And just how should we think about economic impact if bookings were to shift from direct traffic or from Google?
+
+Glenn Fogel
+President, CEO & Director
+
+Doug, well, it's a question that I would have expected. Of course, you sort of -- you gave the answer there about how early it is. So it's a little difficult to talk about anything besides and say, it's early. We're very happy to be in the first wave of apps with OpenAI. I think that says something about us and the value we bring to partners, that they would do it with us to get it going. It's one of those areas that obviously we want to explore. Every area where a traveler may want to begin their discovery, their inspiration, et cetera, and then be able to provide that traveler with what they need in terms of actually executing what they want to accomplish in their travel needs.
+
+Your question is really, what will the future be if more and more people started OpenAI? That obviously is the old -- I think it used to be called the $64,000 question. I think it's much bigger nowadays. It's something that a lot of people don't know, but what I am very confident of is that even though people may change over time how they want to start their travel inspiration, discovery, I believe that we will always be there in the area to provide what is really necessary, which is going beyond that and executing and doing the actual transaction fulfillment. They're working to make sure they're getting the best value, the area making sure you're doing the right types of payments. They're making sure you're following all the regulations, very complex. It's one of those things where people sometimes are a little naive about how incredibly complex this travel business is. And it's not so easy.
+
+You just throw something, oh, it's easy, you just put up a name and somebody's going to be able to book across and disintermediate someone. That's not the way the world works. And if it did work that way, we would disappear in a long time ago, Google would have taken this thing over a long time ago. Look, we're very proud of where we are right now, but we're even more proud of how we are building out even more value. And that goes into things like the Connected Trip. Being able to bring together all the different verticals in a way that the traveler really sees the reason they want to come to us because they really are getting more benefit from using us.
+
+And of course, the other side, being able to use our Connected Trip in a way that the partner is able to get more incremental demand. And it's using science, it's using data, it's using our proprietary knowledge that we have that we don't share with people. Those are some of the things that we have that we believe are key to keep us at the forefront of the travel industry. And I don't know, you've got anything you want to add?
+
+Ewout Steenbergen
+Executive VP & CFO
+
+Yes, maybe a couple of points, Doug, just you also asked about the economics and some of the data. So first of all, what we are seeing in terms of traditional search that we still see volume growth. So travel clicks that are coming to us from traditional search are still going up year-over-year. That, of course, might change over time, but I think that is an important data point.
+
+The other is the number of leads that we are receiving from large language models. Relatively small, but it is growing. And probably over time, these 2 worlds might become more hybrid because we are seeing, of course, more AI being built into browsers at this point in time. What are we measuring in terms of impact? Ultimately, faster search, better conversion, lower cancellation rates and higher customer satisfaction, very early signals we're having around it. But overall, very encouraged we are with what we are seeing at this moment.
+
+Operator
+
+And our next question comes from the line of Lee Horowitz with Deutsche Bank.
+
+Lee Horowitz
+Deutsche Bank AG, Research Division
+
+Maybe sticking with the AI topic, there's obviously a lot of noise in the market around some of your hotel partners looking to partner directly with some of the generative search players in order to perhaps increasingly bypass platforms like yourselves. I guess how do you contextualize this particular risk? And what tools do you think you have at your disposal to maybe mitigate this kind of disruption?
+
+Glenn Fogel
+President, CEO & Director
+
+So for a very long time, Lee, as you know, hotels have found a way that they can be shown for, let's say, Google and some people will go to Google and will go directly to a hotel. That happens. We would love for people to come to us first and we continue to try and create something that is a better reason for them to come to us or they just want to go directly to one of our hotel partners. That will probably happen in an LLM world, too. Some people will do that, too. I wouldn't be surprised. But this idea that, that is going to cause this giant shift, I just think that that's not the way the world's going to work. And again, proof is that it hasn't happened in the old day of Google. And so far, we're seeing that. I don't think it's going to happen in an LLM model.
+
+One of the things, again, comes into what do we bring to the table? Why the customers still continue to come to us, and they come to us direct? That's a point Ewout made about that mid-60% number of people into us direct in the B2C area and it continues to grow. It continues to increase. Why is that happening? It's happening because we do a lot of things for the customer that they feel is the best way for them to execute their travel needs. And really a lot of it comes down to trust, is giving more value, is making sure that they get the best way to do it. And of course, having our Genius program, which Ewout also talked about and think about that. More than 30% of our active customers in Genius Levels 2 and 3, mid-50% of the room nights at Booking.com, this is a program that really gives incredible value, which is why somebody, instead of going direct, they come to us.
+
+And as we continue to build that out and are able to provide the exact perfect, perfect offer to that traveler, working with the partner to make sure it's going to be incremental to them. That's a win, win, win. Win for the traveler, win for the partner, win for us. Now think about trying to do that in OpenAI or any of the large language models, that isn't happening. So I obviously, I don't disagree. Some people are going to go to a large language model. They'll see a hotel, they'll go directly there. Sure. But I think that is an overblown threat at this time.
+
+Operator
+
+And our next question comes from the line of Mark Mahaney with Evercore ISI.
+
+Mark Stephen Mahaney
+Evercore ISI Institutional Equities, Research Division
+
+I wanted to ask 2 topics, please. First is social media. I think you mentioned kind of leaning into social media marketing. I think you've been talking about this for a year, maybe 2. Could you spend a little bit more time on that? Is that now become a material, let's say, a double-digit percent of your performance marketing coming from there? And do you find that the returns have been continually improving? And then Asia, you riffed on Asia in the opening comments, so could you peel that back a little bit? Are there particular parts within Asia that have really started to perform better for you? You've been -- I know that the region as a whole has got the world's highest travel growth rates, but do you feel like with the Agoda and Booking that you've been particularly able to penetrate certain markets better than others?
+
+Ewout Steenbergen
+Executive VP & CFO
+
+Mark, this is Ewout. First, on the social media, we continue to experiment and invest with the social media channels whilst we also continue to stay very disciplined with respect to ROIs, which is really important because these channels, the ROIs can really fluctuate a lot. So we are very much focused on really being able to measure incremental ROIs in a very clear way. We see different stages of where the social media channels are. Some are more leaning in than others, so changes will happen there over time with all the different channels. I prefer not to go too much in detail which ones are really better working for us than others because obviously I don't want to make others smarter than they are at this point in time.
+
+But what we like is really diversifying our multiple social media platforms because expanding our performance marketing channels overall is a positive. In terms of spend, you should think about that it is a couple of hundreds of millions, which is meaningful, of course, a total number. But if you look at the total marketing spend for us, it's, of course, still a smaller percentage of the overall spend.
+
+In terms of Asia, very clearly, we are very happy with the growth we're seeing in Asia. We have 2 strong brands, 2 different strategies. Agoda is very much focused on localization, and they really present themselves as a Korean company in Korea and a Japanese company in Japan. Booking has far more the global reach, the global model, the global optimization that they bring to the region. We're making a lot of investments in terms of our product, in terms of our marketing, in terms of our supply. And overall, we are happy with the growth we are seeing, and we're really -- despite, of course, always healthy competition we're having in Asia, we're really holding up very well in that overall environment.
+
+Asia is, of course, from a medium- and long-term perspective, the most important market. That is where we will see over the next few decades, the largest growth in the world because the GDP growth is going to be the highest there. There will be very large parts of the population that will start to travel and travel more in the future. So the fact that we are already the market leader outside of Mainland China and being able to be focused to hold that position is going to be positioning us very well for the next couple of years.
+
+Operator
+
+And our next question comes from the line of Ronald Josey with Citi.
+
+Ronald Josey
+Citigroup Inc., Research Division
+
+I have 2, please. Glenn, the entry points to the web and booking evolve here given just newer tools and OpenAI being one of them. Just talk to us how maybe this evolves or changes your strategy to attract a call at 30%, 35% or so traffic, that's not direct. So question about how the front end is changing and sort of thoughts there. And then on the product side, look, seeing tons of innovation with AI Trip Planner, Penny, hotel search, AI Mode, concierge. I think you talked about the homepage is unique now per user. Talk to us about the impact this might be having on either cancellation rates, conversion rates, things along those lines.
+
+Glenn Fogel
+President, CEO & Director
+
+Ronald, I'll let Ewout talk your second question. Your first question, you want to hear -- and make sure I understand your question right, you want to hear more about how are we going to deal with trying to get that last 35% to come direct. Is that kind of the question? Will you give me a little more sense of what you're asking?
+
+Ronald Josey
+Citigroup Inc., Research Division
+
+That's exactly right. I guess I'm wondering how much -- how more important brands are going forward as OpenAI goes to the app strategy and as users front end of the web evolves.
+
+Glenn Fogel
+President, CEO & Director
+
+Yes. So that's -- that is a good question. And of course, as we all know, you don't want to go to 100% direct because you may be missing out on a lot of customers who may come from a different channel. There is a -- there's some sort of optimization that we should be doing. But obviously, right now, we still enjoy getting a higher direct coming to us. And how do you do that? Again, it goes back to the simple things as all people who deal with retail type services should. It's giving more value to that customer and it's not just having better travel service, it's as I said earlier is you got to make people aware of it.
+
+And I know I just got some interesting advertising brand data recently. And in certain areas of the world, U.S., for example, our brand awareness is still not where I'd want it to be. And as I've talked many times in the past on these calls about how certainly in the homes area in the U.S. we are not where I'd like to be in terms of brand awareness. So it's not only improving the product, it's also making people aware of it. That is something that is not something that is impossible. It's actually very possible. It just requires us to continue to do what we've been doing, which is why we've been grinding it out and increasing, albeit not as fast as I'd like, but it hasn't happened. That's increasing the service and putting more brand power behind this.
+
+There's nothing really secret about it, there's nothing unique about this. It's just continue to do the work, so to speak. And that, we've been doing it for -- I've been here now 25 years, and that's how we've gone from a nothing company to now many, many hundreds of millions of satisfied customers. That's basically all we can really say without giving away. Here's what we're going to do next quarter, and that's another thing. I don't want to tell my competitors what that's going to be, but we're going to keep on doing it, and I am pleased with the progress we've made. Ewout, you want to give on his second question?
+
+Ewout Steenbergen
+Executive VP & CFO
+
+Sure. Ron, we're seeing a couple of things. First, conversion definitely with all the new tools that we're having, we're seeing that people have an opportunity to find easier what they are looking for, can be more targeted, have a faster path, ultimately get to a booking and that is helping conversion levels. Then also what we are seeing at the same time is that cancellation rates are a bit lower. Every period, if you look at it, it's slightly lower than in the comparable period 1 year ago. And that's also a positive. And we believe that this is not a coincidence. This is also because people can find exactly what they are looking for. So they don't need to continue to search and ultimately cancel one booking and book somewhere else or book something else with us. So they are satisfied with what they have booked, so cancellation rates slowly coming down also clearly a huge economic effect.
+
+And then if something goes wrong, what we're also seeing is that customer service is seeing a huge benefit in what we can deliver, reduced contact rates, faster handling time and higher customer satisfaction. I think it's actually remarkable. If you look at our results this quarter, our customer service costs are down year-over-year, are down year-over-year in absolute terms despite volume growth of close to 10%. So the average cost per booking is coming down very rapidly and the satisfaction scores are going up. So all of these things are interrelated. It's interrelated with all the elements that Glenn said, people come more direct to us, are booking more often with us, are booking more across multiple verticals, are canceling less, are having higher satisfaction and like to come back and book more direct. So all of these things are interrelated and really strengthening each other.
+
+Operator
+
+And our next question comes from the line of Justin Post with Bank of America.
+
+Justin Post
+BofA Securities, Research Division
+
+Great. A couple. First, I'd like to dive into the U.S. It really seems like the OTA industry is maybe taking some share here. Just wondering if it's the loyalty program, leisure growing faster than business, what's helping the industry take share and you specifically take some share? And then on the algorithm just wondering, there's a lot of stuff going on with Connected Trip. Obviously, payments and more air. Just could you help us think about how both bookings could grow relative to nights and also how you're thinking about revenue take rates over the next couple years?
+
+Glenn Fogel
+President, CEO & Director
+
+Sure, Justin. I'll talk about the first one. I'll let Ewout talk what kind of specifics he wants to give about the numbers regarding Connected Trip and et cetera, the questions you asked. So on the U.S., we talked a little bit about this already, how pleased we are with those numbers. And I did mention brand is obviously important, improving the service and product, that's important. You asked about consumer versus business, obviously we get both, but we do tilt much more to consumer. So clearly, we are doing well in that area. Now as you know, there's a lot of debate about what's going on in the U.S. economy right now. People -- some people say, well, we have a 2-speed economy where the higher ends of the economic strata are doing very well and they're spending a lot of money and areas at the bottom part of the economic strata are suffering a little bit more, not being able to purchase as many services as perhaps they wanted to, et cetera.
+
+It's interesting because we play the entire gamut of the economy. We are able to sell at the top, we sell more economy products and services, too. So clearly, for us, we are able to benefit whether it's a strong economy or not a strong economy, we're doing well. Look, I can't say anything that is more specific than the fact that we continue to execute well. Making sure the service is good, making sure all the things that we talked about are working well, making sure we're getting that brand in front of people, making sure if anything goes wrong, we fix it. That's how we do a good job. And it adds on itself and Ewout used that word flywheel. More people become aware of it, they've had a good experience, they come back. Yes, the awareness is not where I'd like it to be, but it is improving. This is the way we do it. And we talk -- I've been talking about this with you. Justin, we talked about this for many, many years.
+
+I said I want to be bigger in the U.S. and that we grow it and here's how we're going to do it, and we're doing it. It's blocking and tackling, day by day, improving it. No, as I said already once, I said there are no silver bullets in this business. It's just continue to execute day after day after day. Ewout, can you talk about numbers you'd like on the Connected Trip stuff?
+
+Ewout Steenbergen
+Executive VP & CFO
+
+Justin, when we speak about Connected Trip, I would like to make a distinction between what we're seeing now and then really where we are heading to in the future. So what are we seeing now? We're seeing a lot of our other verticals growing in a very healthy way, flights 32%, attraction 90%. We see our payment-related bookings going up in the mid-20%. We see our Connected Trip transaction, so where someone books more than one vertical for the same trip going up mid-20s. Of course, the direct element is a part of that. So all of these metrics look really in the direction that customers like to really bring those elements together because it's peace of mind, it's all-in-one platform and we deliver a lot of value for them as a consequence.
+
+But if you think about generative AI, this is really the opportunity for us. We can make the real Connected Trip come to life over the next couple of years. And what I mean with that is building an intelligence layer that all these elements of the trip naturally fit together are interrelated, all personalized, based on what we know and what you like to do and how you like to travel and where you like to dine. If something happens, everything can automatically be updated. It means that people will be more frequently using our app. We can become more proactive in what we offer to you and more and more value can be created as a consequence. So actually that is our big opportunity around generative AI. And I think the value we can generate in that way is really going to be even more than what we are seeing today. So that's where I am personally really excited about.
+
+Justin Post
+BofA Securities, Research Division
+
+Maybe one quick follow-up. Do you think the gap between bookings growth and room night growth can grow?
+
+Ewout Steenbergen
+Executive VP & CFO
+
+Yes. There's, of course, always a few things that go in the mix, take FX aside, what are ADRs doing? That is, of course, one element there. It's the growth in other verticals that is going in there. But generally, we would say, yes, because if we take room nights plus ADRs, plus other verticals, we would like to, of course, to see that total gross bookings will grow faster than room nights on average over time.
+
+Operator
+
+And our next question comes from the line of Trevor Young with Barclays.
+
+Trevor Young
+Barclays Bank PLC, Research Division
+
+Glenn, maybe a bigger picture one for you. From a competitive standpoint, do you foresee competitive intensity picking up over the next 2 to 3 years? It seems as though a major Asia player has aspirations in Europe, while an accommodation competitor is making a big push into traditional hotels and adjacencies. Meanwhile, consumers will have a new channel via AI tools to make travel all that much more accessible. And if you do see competitive intensity picking up, how are you evolving your strategy to better position Booking for that environment?
+
+Glenn Fogel
+President, CEO & Director
+
+Yes. It's a good question, Trevor, but I have to say that this business, this industry, and I take to the regulators all the time in Europe, has always been one of the most competitive of any industry that I've ever experienced. And sure, there are new things to look at now and there are old competitors in the past and they're no longer there. I remember once upon a time, every time I go, what about TripAdvisor? Well, where is TripAdvisor now? No offense to them, but they're not the threat they were at one point. Or what's going to happen with Meta? And I can go through over different things where we have had to face incredible competition time after time after time. So sure, there's a lot of competition right now.
+
+And I know you're alluding to Trip.com, Ctrip in China. Yes, a very good competitor. And sure, now we have AI as a competitive threat, but also in that one, a little different. That gives us incredible benefits, too. Incredible power because of the incredible scale we have and the incredible engineering talent, et cetera, in AI, there's actually a competitive advantage, I would say, a net-net situation. But in the long run, I believe it's the same way it's always been. We just have to keep on grinding out better things for our services. Look, there's a time there was no such thing as mobile. Mobile comes in. We had to immediately create a great mobile site for our customers, which we did. Well, now we have AI and lots of great things working there. It's going to make it even better.
+
+One of the really good things about being the scale that we are and the data we have, that proprietary data that we have, and the incredible number of customers and partners, and all these new things we've already begun to do in all the different verticals. And in addition, things that we don't talk about a lot, things like insurance, for example, we don't talk about that a lot or things we're doing in terms of providing advertising opportunities for our partners, we don't talk about that one, too. There are so many things that we are just beginning to really put together and putting it all together using, as I said before, the data, the science, being able to build these things in a way that's much better, that smaller players cannot possibly do, that's an advantage we have.
+
+So I see, actually, yes, it's extremely competitive, but I said this, I don't know which quarter recently I said about, I find this the most exciting time for us ever. I actually see us in a much better position than we were years ago, decades ago. I see this as an opportunity for us to create, as Ewout was just talking about, bringing it all together in a way that we could really accelerate the growth factor here if we do it right over and you pointed out a 5-year type horizon. That's what we want to do. And I believe we can do it, and it's up to us to make sure it does happen.
+
+Operator
+
+And ladies and gentlemen, that concludes our question-and-answer session. I will now turn the conference back over to Mr. Glenn Fogel for closing remarks.
+
+Glenn Fogel
+President, CEO & Director
+
+Thank you. I'm glad to end it on that exciting thing of the future. It's so great. So I want to express my gratitude to our partners, our customers, our dedicated employees and our stockholders. We truly appreciate your support as we continue advancing our long-term vision. Thank you, and good night.
+
+Operator
+
+And ladies and gentlemen, this concludes today's call, and we thank you for your participation. You may now disconnect.

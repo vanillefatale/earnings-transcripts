@@ -1,0 +1,260 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from David Saxon with Needham.
+
+David Saxon
+Needham & Company, LLC, Research Division
+
+Congrats on the quarter. So maybe I'll start with guidance. So 3% to 5% growth. I guess, what do you think the market is growing at, at this point? And then the decline in fiscal first quarter, down 1% to 2%, what's driving that across businesses, or even product categories?
+
+And then I think you'll lap the NIH funding dynamics in the fiscal first half. So would love to hear what's baked into guidance in terms of that impact. And then I'll have a follow-up.
+
+John P. Marotta
+President, CEO & Director
+
+Sure. You bet, David, good to be with you, and thank you for the questions. Let's talk about the macro and then I'll hand it over to Lawrence to get into the numbers.
+
+But a lot of what we're seeing is the slowdown on capital expenditures. That's continued to impact our stores in Cryo. And we're seeing some green shoots around that, particularly in the EU, and seeing less traction in the U.S. right now. There's some booking softness of course. The government shutdown from last month is really weighing on some of the guidance. The way to think about it is that midpoints for -- and that contemplates some deterioration in the macro on the low end. On the upper side, it's just a slow gradual improvement over the year.
+
+Regarding what we think the market is doing. We think the market is 1% to 2%. We're still an outgrowth story and that's kind of how our view of this is shaping up for '26. One thing to note is we're not focused on the first quarter, the first half. We're focused on delivering the year like we were this year, and that's really what the teams are laser focused on.
+
+Lawrence Lin
+Executive VP & CFO
+
+Yes, David, this is Lawrence. So let me give you a little color on 1Q. And really, John has touched on it a little bit, but a couple of things to inform our view, right? So the macro slowdown in the CapEx really will continue to impact our Automated Storage business in Cryo, right? As John mentioned, we are seeing some green shoots in Europe, but right now, not seeing much traction in the U.S. currently.
+
+The second is really the government shutdown, right? Overall, we were down about 45 days. John and I have heard from our customers that new grant reviews and approvals were paused during that time. And so it's going to take a bit of time to work through that through the system. So we don't expect this to impact the full year, obviously, but some of these bookings will push out to future quarters.
+
+As far as the proportion of the impact on the negative growth, I would say the macro slowdown on CapEx was about 2/3, and about 1/3 is related to government funding.
+
+David Saxon
+Needham & Company, LLC, Research Division
+
+Okay. That's super helpful. And then the follow-up, I guess, is just on SMS growth for the year. So mid-single digits, you just talked about some weakness in stores in Cryo. So I guess, last quarter, you talked about the C&I backlog was like 2.5x annual sales. So maybe if you could -- can we get an update there? Like how much of that is driving your confidence in the mid-single-digit growth? And then how are you thinking about SRS for the year?
+
+Lawrence Lin
+Executive VP & CFO
+
+Yes. Look, I think we've -- for C&I, we feel really good about kind of where we are. Some of the things that you'll see that inform why our SMS is mid-single digit is -- and John and I talked a bit about really reinvesting in commercial in fiscal 2025, we did that in GENEWIZ. What you're seeing in fiscal '26 is we've put in a commercial engine, new leadership. And right now, they're putting investments to work on feet on the street. That's one. So that's going to read through across all our SMS business lines.
+
+Now to talk a little bit about SRS. We expect robust growth in SRS, really through two things, right? You'll see that our commercial engine really starts to move. We just put a new leader in place. Additionally, there is -- and we talked a bit about this. We have an initiative in SRS, particularly to optimize our price. And that's going to read through starting in -- at the end of fiscal -- sorry, at the end of the first quarter. So those are two major components.
+
+And why we feel really good about SRS is really -- we've seen actually, recently, our commercial leaders close two meaningful big deals in the areas of manufactured and bulk compounds.
+
+Operator
+
+Your next question comes from Mac Etoch with Stephens.
+
+John P. Marotta
+President, CEO & Director
+
+Mac? We may be having an issue with Mac right now. Let's go to -- Mac, are you -- there we go. Yes Mac?
+
+Steven Etoch
+Stephens Inc., Research Division
+
+Apologies. Sorry about that. You think I'd be able to find the mute button by now. As you highlighted, the macroeconomic backdrop is still a little bit challenged, specifically around capital equipment. But I'd love to just get an update on what you're seeing across your various customer bases at this point?
+
+John P. Marotta
+President, CEO & Director
+
+Sure. We're seeing pharma. Of course, we're tapping into the profit pools of pharma and biotech right now. We're seeing strength in pharma. So there's spending going on there. There's some repositioning around projects in pharma right now with some of the restructuring that was going on, some of the projects were put on hold. We're seeing some of that get on stock at this point in time. So there's clarity around that. That means there's clarity with our Multiomics business in terms of what we're supporting from a testing perspective, from a synthesis perspective.
+
+We're seeing some investments and some clarity around optimization in biotech. Biotech is holding tight right now in terms of CapEx more so than pharma. And then we're seeing -- we were seeing a little bit more clarity in the academic and the government side, but that really -- that really started to slow down with this government shutdown. But all in all, it's more of a pharma story at this point in time.
+
+Steven Etoch
+Stephens Inc., Research Division
+
+I appreciate the color there. And then in terms of Multiomics, the low single-digit guide. I think that's -- I think, roughly in line with what people were expecting. But can you just parse out the various aspects that are contributing to that expectation for the year?
+
+John P. Marotta
+President, CEO & Director
+
+Sure, you bet. More around the macro side, and I'll hand it over to Lawrence on the numbers. But on the macro, it's really this normalization on NGS. So past the technology curve, price normalization, volume normalization, those sorts of things. That's really what we're looking at from a Multiomics perspective.
+
+Why don't you give some color on the numbers?
+
+Lawrence Lin
+Executive VP & CFO
+
+Yes. Look, Mac, first off, we are really pleased with our fourth quarter results for Multiomics. The team did a great job. Let's talk specifically a bit about Multiomics. A couple of things to note. And John alluded to this is, what you're going to see around Multiomics, in particular, NGS, is a bit of this normalization. So we expect NGS through the year to be roughly mid-single digits.
+
+As you may recall, we've kind of lapsed this price challenge in the prior year. We saw a lot of volume pick up. So seeing the double-digit number in fiscal 2025, you'll see that really kind of normalize back to mid-single-digit growth. Again, we feel really good about what the team has been doing particularly around the NGS space.
+
+Operator
+
+Your next question comes from Andrew Cooper with Raymond James.
+
+Andrew Cooper
+Raymond James & Associates, Inc., Research Division
+
+Maybe first, a similar one to one that was just asked. But on the SMS side of the house in terms of that 3% to 5% growth, and maybe calling back -- or sorry, mid-single-digit growth, and then maybe calling back to the comment on optimizing price for fiscal '26. Can you give a little bit of a framework for how you think about each of the segments? And then how much is price contributing when we think about that mid-single-digit goal versus volume on an apples-to-apples basis?
+
+John P. Marotta
+President, CEO & Director
+
+So just in terms of the portfolio durability with SRS specifically, I mean you're looking at contracts of 7 to 25 years, extremely stable, reoccurring revenue is in the 90% range in that part of our portfolio. And so we do have contractual obligations around price in particular. So a lot of strength in that. We really have not taken advantage of that in the past, and we're starting to do that now going forward in terms of sharing the value with our customers in terms of what we deliver.
+
+Lawrence, do you want to talk about the -- can you give some of the color on this?
+
+Lawrence Lin
+Executive VP & CFO
+
+Yes, absolutely. Let's start with SMS. Look, we've talked a bit about the slower start for the first quarter and first half on capital expenditures on stores in Cryo. We expect this to pick up in the second half of the year. When you look at C&I, the team continues to do well. As you probably know, we're specced into the workflows, right? There's a bit of the speed bump around the government shutdown, but overall, we expect to see this continue to be a very good business for us.
+
+Around SRS, again, John talked about a lot of the long-term contracts. We've got a new leader in place that's done a spectacular job. Like I mentioned earlier, we've won two pretty big deals in manufactured and compounds, and feel pretty good about kind of what we're seeing early on in fiscal '26.
+
+Now let's talk a little bit more on Multiomics. We touched on NGS. Gene Synthesis, we had -- we've seen some favorability coming out of the fourth quarter. We think this area is stabilizing nicely. And then on Sanger, look, this is still slow. We are seeing that Plasmid-EZ is offsetting that loss there. And I think that's going to be a trend that continues.
+
+I think you asked -- the other question was around price. Look, we've talked a bit -- a little bit about this kind of price optimization. Where we're seeing our ability to optimize on price is two areas. C&I, and then in SRS. And let me kind of double-click into SRS.
+
+One of the examples we're seeing historically in this business is we were constrained by our systems to deploy contracted, meaning it's built into our customers' contracts. We were not able to really deploy this effectively annually. The team has already done a good job and through the business system, streamline that process. Really, those are really the key areas that I referred to around price optimization.
+
+Andrew Cooper
+Raymond James & Associates, Inc., Research Division
+
+Okay. Helpful. And then maybe one, John, you mentioned some of these moves to enable some of the different components of the business to make decisions closer to the customer. I guess maybe frame that relative to a history where I think there was some siloed aspects of operations that really needed to come together and get integrated a little bit more.
+
+So how do we balance those two sort of ideas and comments, and would love the framing of how they fit together in context of that 300 basis points of margin that I think is encouraging in a 3% to 5% top line environment?
+
+John P. Marotta
+President, CEO & Director
+
+Of course, sure, sure. Happy to. So I think this is really important in terms of our go-to-market and how we're aligning the organization from a product line P&L perspective, and really having general managers and product managers aligned around these specific segments. We optimize and get synergies where it makes sense. And so we're moving from this very functionally aligned, central -- centrally aligned organization to a decentralized model. And you have that specifically built around, as I stated, around these product lines and these product managers. And so we've got general managers specifically in place now in all of the businesses. So that's kind of the first step in this. And there's clarity around that in the organization. And more importantly, it's putting R&D back into the businesses. Product management into the businesses. Sales and marketing back into the businesses.
+
+And then you have this regional go-to-market model where SRS, we've got a leader in SRS, but we also have specific leaders around better storage management. And we've got a clear expert that's leading that right now. We've got clarity around our go-to-market and who's leading that. All of those individuals are new in their roles.
+
+In C&I, and in stores in Cryo, very similar where we have a regional go-to-market model. The team is doing a great job by our European leader who is there now, and we just hired a new U.S. -- or North American leader as well, doing a great job. So out with customers all the time. The decision-making is at the point of impact regionally now. And so that's really -- it's really given the organization a lot of clarity.
+
+Similar to GENEWIZ and our Multiomics business, we moved to a regional go-to-market model. And it's working, and we're seeing a lot of green shoots around that specifically. So the point is, is there's more credibility, the closer you are to the customer, and we've really structured the organization around that. The synergies are around the systems, reporting systems, management information systems. We've really streamlined that. That makes a lot of sense to do that. But from an operating structure, we always talk about people structure process. Our structure is extremely nimble right now because it's very aligned around these product categories, where you've got clarity around your R&D road maps and those sorts of things, and then there's regional go-to-market model. So I appreciate the question. Thank you for that.
+
+Operator
+
+Your next question comes from Vijay Kumar with Evercore ISI.
+
+Vijay Kumar
+Evercore ISI Institutional Equities, Research Division
+
+Congrats on a nice print here. Maybe, John, on the macro comment that you're making on CapEx and the shutdown impact. We haven't heard that from some of your other life science tools peers. So curious on the trends that you're seeing, maybe just elaborate on that? And what are you assuming for the segments here in Q1 to get to the minus 1% to minus 2%?
+
+John P. Marotta
+President, CEO & Director
+
+Sure. So we're seeing strength in the outsourcing trends, of course, because they want to outsource and partner with experts. And that's continuing. But where the pause in the softness was specifically around some projects with NIH and those sorts of entities that we do business with. People were just hitting the pause button right now through the government shutdown. We're starting to see kind of that being lapped, but this was an impact in the last 45 days. So a real impact to the organization. Mostly weaker in Multiomics.
+
+Lawrence, do you want to give some color on it?
+
+Lawrence Lin
+Executive VP & CFO
+
+Yes. Look, I think on the first quarter, kind of the CapEx and then around the government shutdown. You'll see on the CapEx, obviously, that's weaker from a negative growth perspective in SMS, right? And then around the government shutdown, it's lean, to John's point, more on the Multiomics segment. There's a little bit in our C&I. But again, really, we still see that the full year, we are super bullish about kind of where we're going to land.
+
+Normally, Vijay, we really don't guide quarterly. Our teams, John and I, are really focused on hitting the year. But -- and then we still kind of commit to that.
+
+John P. Marotta
+President, CEO & Director
+
+Vijay, one other comment I would note. We went out -- recall when -- the beginning of the year, there was a lot of headwinds around government funding, NIH, in particular, some of the tariffs. We went out to over 100 customers and had a lot over 100 data points directly from them on what they were seeing. That gave us a lot of confidence around guiding in terms of this 1% headwind we were seeing in our business. And a lot of our peers at the time we're calling 20% issues around these headwinds, we were calling 1%. There was a little bit of a disbelief in that, but we felt confident because we had the data.
+
+We have the data right now around this, in particular, around VOC. I mean we are out with our customers. This regional go-to-market model allows us to get real-time data from our customers on what they're seeing in region, around specific programs in which we were supporting, and/or are supporting. So that gives us the clarity there regarding our point of view on it.
+
+Vijay Kumar
+Evercore ISI Institutional Equities, Research Division
+
+That's helpful, John. And maybe one related on, I guess Larry, on the phasing. Looks like back half needs to be 6% or 6%-plus. I guess that confidence in the back half acceleration, Larry, how are you thinking about EPS for the year? I know you gave the EBITDA margin expansion. How should we think about any below the line items, and what should EPS be?
+
+Lawrence Lin
+Executive VP & CFO
+
+Yes. Look, I think if you look at how we're less than 50% of our full year revenue falls in the first half of the year. So generally, you're right. We feel really good about the second half of the year, Vijay. And why is that, right?
+
+We -- as we mentioned, we've really invested in feet on the street, particularly in SMS in starting this year. We put in almost 20 commercial heads and GENEWIZ earlier -- in mid fiscal 2025. On top of the price we talked about, that's all going to read through in the second half of the year. So we've got pretty good line of sight around that.
+
+In terms of EPS. Look, our EPS is going to be better, right? And so it's roughly -- it's roughly about $0.50 and [ 16 to 18 ] of other income similar to 2025.
+
+Vijay Kumar
+Evercore ISI Institutional Equities, Research Division
+
+Sorry, if I may, one more, Larry. If margins are up 300 basis points, right? Is there some below-the-line impact? Like why is EPS flattish year-on-year?
+
+Lawrence Lin
+Executive VP & CFO
+
+Yes. So EPS is going to be greater than $0.50. So -- we -- I guess maybe clarify that. Really sure your question, Vijay.
+
+John P. Marotta
+President, CEO & Director
+
+Vijay, the way to think about -- the way to think about how we look at value here is if you pull back and take a look at the way we're looking at value right now, we're trading at 10x EBITDA, and we think we're undervalued right now. $12 of our stock is cash. And so we're focused around driving that margin expansion on the EBITDA line right now, and that's pretty important to us in terms of how we look at economic value. We do not typically guide on the EPS line, right?
+
+Lawrence Lin
+Executive VP & CFO
+
+Yes. And so -- I mean, we expect it to be better than $0.50.
+
+Operator
+
+Your next question comes from Brendan Smith with TD Cowen.
+
+Jacqueline Kisa
+TD Cowen, Research Division
+
+This is Jacqueline on for Brendan. Congrats on the quarter. Maybe just doubling down on some of your expectations on timing for the potential M&A deals or tuck-ins over the year. What areas are you kind of looking to pursue in the near term? And how has the macro environment shifted your expectations on both when and where to acquire?
+
+John P. Marotta
+President, CEO & Director
+
+Sure. Our focus around M&A has been pretty consistent, and that is on -- in regards specifically to tuck-ins and how we look at it. So just to reiterate on how we look at capital allocation.
+
+First is around growth opportunities in capital allocation. So what are we doing to support our growth initiatives from an R&D perspective, sales and marketing perspective, gross margin and productivity improvements. Third is around tuck-ins, in M&A. And fourth is around specifically share buyback.
+
+So parking on the M&A side, it's really expanding our core business. So the criteria around that is going to be specifically around SRS, expanding our scale in that space. We're really bullish about our targets there and what our M&A funnel looks like.
+
+Second is around our automated solutions and driving some M&A around C&I and stores specifically. And then third, around synthesis and how we're investing around synthesis. So I would think about those 3 areas in which we're looking at M&A. I would think about '26 as being our year of executing on that, specifically. '25 was really this reset, building a stable foundation to be able to absorb those type of acquisitions right now. So that's the focus in those areas specifically.
+
+Jacqueline Kisa
+TD Cowen, Research Division
+
+That's very helpful. And then maybe just one more. Double clicking on the Automated Stores, which seems to be on the upswing. How should we think about the near- and long-term expectations for both the performance and customer spend of that line? And how contributive do you expect it to be in the future for rev growth in that SMS segment?
+
+John P. Marotta
+President, CEO & Director
+
+Sure. Consistent with the past. I mean, when the macro starts to come back, I think you're going to see more strength in that segment. But we're also investing a lot in R&D in that segment in particular. And so that, we won't see that read through until '27, '28. We'll talk more about this in our long term -- in our long-range plan in Indianapolis in December, on our Investor Day. We'll get into the particulars of this, and we'll give you some more detail on it.
+
+But listen, we're investing behind this. We are not in the freezer business. We're in automated solutions business. And what that means is you have highly, highly complex electronics in a cold environment in some applications for our customers. That's Cryogenic. There's a lot of tailwinds around cryogenic cold storage because of cell and gene therapy and the moves being made there. I mean 50% of the therapeutics coming out, that are coming through FDA right now need ultra cold or cold. And so we feel like we're well positioned, and we're going to continue to position our product portfolio to enjoy those tailwinds. We'll get into that, of course, in Indianapolis.
+
+Operator
+
+Your next question comes from Paul Knight with KeyBanc.
+
+Paul Knight
+KeyBanc Capital Markets Inc., Research Division
+
+Congratulations on the quarter. And I'm kind of hopping on to that same topic of stores. So what do you think that market growth rate is? And I guess you're saying, too, that that's you're, probably, biggest area for rolling up that part of the marketplace. So what do you think market growth is, and relative to what are 10% biologic sales? Is that any kind of a proxy? And then again, is this the key M&A spot?
+
+John P. Marotta
+President, CEO & Director
+
+Always an insightful question. So you basically kind of link the two, which is what -- the way we like to think about it from an automated solutions perspective. Stores in Cryo, we think, are low single digit right now. We're not in some of the veterinarian space that some of our peers are in Cryogenic. So we don't enjoy some of the vaccine tailwinds that are going on right now.
+
+What matters is, is when you've got an installed base that we have right now of hundreds of the Biological Stores, plus the attachment rate of our consumables which is increasing. I mean that business is really performing for us very nicely. And so you've got this attachment rate that's driving this data. The data output right now and the tools revolution is driving data. In our space, in our business, that is physical specimens, okay? And so we see that read through with the attachment rate of our consumables and sample tubes. And that's pretty important here. We've got a 100% attachment rate on the service side. And you've got -- we're driving more attachment rate on the C&I side.
+
+So to summarize, stores in Cryo, low single in our segment of the market, and we're still an outgrowth story based on us capturing market share, and then you've got these attachment rates on C&I. I will tell you -- I mean I'm so proud of our team and what they were able to deliver last year in a really tough macro. And we saw that across all of the segments of our business. And in some of the areas that were challenged, the team needed to pull back and work on some things operationally and we were able to do that. But we're also executing nicely on a lot of our attachment rates and installed base.
+
+C&I specifically, we have tens of thousands of instruments out there. And so our attachment rates, we're working on that specifically and you're seeing that read through as well. But it's a mixed story in terms of how we look at it. I hope that helps, Paul.
+
+Operator
+
+There are no further questions at this time. I will now turn the call over to John for closing remarks.
+
+John P. Marotta
+President, CEO & Director
+
+Excellent. Well, in summary, we entered '26 as a stronger company operationally and commercially and culturally. I want to thank again, our employees and our customers and our shareholders. We're excited about the road ahead, and we will certainly see you at Investor Day in December. Thank you again.
+
+Operator
+
+Ladies and gentlemen, this concludes your conference call for today. We thank you for participating and ask that you please disconnect your lines.

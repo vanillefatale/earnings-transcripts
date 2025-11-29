@@ -1,0 +1,340 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from the line of Kristine Liwag with Morgan Stanley.
+
+Kristine Liwag
+Morgan Stanley, Research Division
+
+Kathy, Ken, for the F/A-XX and the B-21 acceleration, can you provide more color on what that could mean for your 2026 outlook and what's included?
+
+Kathy Warden
+Chair, CEO & President
+
+So Kristine, as I noted in my comments, we, at this point, have not included either in our 2026 outlook. F/A-XX clearly would come with increased revenue from what we have provided in that outlook. We expect that it would be somewhat dilutive to overall company earnings just because it would be development revenue, which tends to be lower margin than our overall, but it is a cost-plus program. So we expect a reasonable return, if we were to win that program. And it would require some investment. So the CapEx we would determine based on our profile to build out and prepare for execution. Over the long run, we expect, if we were to win that program that it would be accretive to the company, and we very much look forward to the opportunity.
+
+On B-21 ramp, similar circumstances. We have not included that in our outlook. It would be upside to revenue. It would increase our amount of sales, which in the early days, as you know, on production are at the 0 margin, and we would expect to need to invest in that ramp through CapEx. But again, over the long term, as we've said before, we would expect to have increased returns to offset the cost of that additional investment. And so we would update our guidance if and when we have clarity on either of those opportunities.
+
+Kristine Liwag
+Morgan Stanley, Research Division
+
+Great. Super helpful. And for a follow-up, can I ask something about the supply chain? Rare Earth continued to be a watch item for the industry. Can you talk a little bit more about your sorting strategy, how to mitigate supply chain risks? And if there are any watch items that could potentially affect your 2026 outlook?
+
+Kathy Warden
+Chair, CEO & President
+
+Yes. Fortunately, our team has the 2 foundries in the United States where we design, produce and package microelectronics. So our dependency there on Rare Earth has been mitigated by looking through our supply chain and getting well ahead of our sources of supply to ensure that we can produce those electronics. We are very pleased that the U.S. government is actively working to set up additional sources of supply, including in the U.S. and working in partnerships with our allies for them to also invest in these capabilities in their country. This will just create more sources for us to draw upon and make the U.S. more competitive in being able to provide these microelectronics for national security purposes into the future.
+
+Operator
+
+Your next question comes from the line of Ron Epstein with Bank of America Merrill Lynch.
+
+Ronald Epstein
+BofA Securities, Research Division
+
+Kathy, can you maybe pull back the curtain a little bit more on B-21. I mean, how is it going with a potential increase in the build rate on that aircraft and so on and so forth? Because if that were to play out, it is material for you guys.
+
+Kathy Warden
+Chair, CEO & President
+
+Yes. So we are in active discussions with the customer that would enable that acceleration of production rate. And as I noted in our Q2 call that the dollars to support the acceleration are included in the reconciliation bill. So the actual production rates, the timing and ultimately the outcome of those negotiations with the Air Force would define what that financial profile looks like. It's too early for me to speculate on that. We are in the midst of those discussions. They've been held up a bit because of the government shutdown and the availability of resources to continue those discussions during this time, but we expect those to resume. And we still expect that in the coming months, we would have more clarity on what that acceleration might look like.
+
+Ronald Epstein
+BofA Securities, Research Division
+
+Got you. And then maybe as a quick follow-on. In your prepared remarks, you talked about some program award delays. What's driving that? Because the administration has been pushing hard for speed on acquisitions. So, just curious where that's coming from.
+
+Kathy Warden
+Chair, CEO & President
+
+Yes. I think with any new administration, it takes time to come in and make determinations of where to allocate resources and then to do the appropriate reviews and governance to make those decisions. We are certainly seeing in recent weeks, the government shutdown having some impact on the government's ability to move quickly to make decisions and have the right resources available. So we're all hopeful that the shutdown can come to a quick resolution and that we can resume work on some of these important decisions that would open up the spend plans and ultimate awards that will come from the government as they seek to move forward quickly.
+
+Operator
+
+Your next question comes from the line of Seth Seifman man with JPMorgan.
+
+Seth Seifman
+JPMorgan Chase & Co, Research Division
+
+Kathy, I wonder if you could talk a little bit about the opportunity in Golden Dome and missile defense in space. And you've been doing some work with the SDA, but if you could talk about the sort of the state of maturity and state of technology on missile readiness satellite or missile-warning satellites. And if you see the current kind of tracking layer, SDA or HPPSS being kind of the nucleus of what's ultimately going to drive missile warning for Golden Dome? Or is it going to come from elsewhere?
+
+Kathy Warden
+Chair, CEO & President
+
+Well, let me start, Seth, by saying that we're very pleased to see the urgency the administration is placing on protecting the homeland and the set of opportunities that, that creates. It's a very broad-based set of opportunities, the architecture and spend plan for Golden Dome are not public, so I won't comment on those specifically, but we do understand the challenges of creating a missile defense, both warning layer and set of interceptors that would defend the homeland. And we are providing some high fidelity operational analysis that can help the customer understand those requirements as well as ourselves as we define what our offerings might look like.
+
+We see this being a number of components to an architecture that range from existing programs, where there may be additional opportunity to new programs. And I think you'll see more clarity coming from the department as they share more information on that architecture and spend plan in the coming months.
+
+Seth Seifman
+JPMorgan Chase & Co, Research Division
+
+Okay. Great. And then just as a quicker follow-up, maybe, I think you mentioned earlier, if the government shutdown ends relatively soon that we shouldn't see much impact, but we're -- sometimes it seems like we're in unusual times. At what point does the duration of the shutdown become more of a concern in terms of something that -- where we might see an impact?
+
+Kathy Warden
+Chair, CEO & President
+
+Yes. As I mentioned, the guidance that we updated for 2025 includes what we can foresee, including some of the delays that we talked about on program awards and timing. But at the same time, we are assuming that this only goes a few more weeks, say, around mid-November. If it goes beyond that, we may start to see some additional delays in getting funding on contracts, or even delays in receiving payment before year-end that could impact our cash flows for the year. We don't anticipate that at this time. But it's certainly something we're watching. And so we're very hopeful, as I said, that the government will agree to reopen soon even if under a continuing resolution.
+
+Operator
+
+Your next question comes from the line of Sheila Kahyaoglu with Jefferies.
+
+Sheila Kahyaoglu
+Jefferies LLC, Research Division
+
+Kathy, maybe, if we could talk about the Aero outlook for '25. It seems down slightly, but B-21 award timing seems unchanged. So what was the shift there? And what was delayed in terms of certain awards? And how do we think about that recapture in '26? And just on B-21, how do we think about the free cash flow impact as it relates to CapEx in '26?
+
+Kenneth Crews
+Corporate Vice President & CFO
+
+Sheila, this is Ken. I'll take that one. In terms of AS and the drivers across the 2025 sales profile, it was really -- it was timing of production activity. So don't view it as lost sales, but just timing of sales. The other aspect is on B-21, as we made the adjustment, the top line implications regarding percentage of completion method, that created some additional top line headwinds for both the quarter and the year.
+
+As we think about 2026, we continue to see the strength in B-21 continuing to be a grower -- a contributor to AS' growth. In terms of the free cash flow with B-21, again, we're holding our overall guidance for 2026. When we think about the future and cash flow is, we'll provide more clarity, because as Kathy mentioned, we are in the midst of multiple discussions that will ultimately determine the cash flow of the program, and that will be driven by, as we come to conclusions and understanding, if we do on the ramp and rate discussions.
+
+Operator
+
+Your next question comes from the line of Ken Herbert with RBC.
+
+Kenneth Herbert
+RBC Capital Markets, Research Division
+
+Kathy and Ken, I wanted to ask on IBCS. Kathy, you continue to call out success with that program. Obviously, it sounds like it's ramping in Poland. You've got some installations ramping here. How do you think about that program and the growth in the '26, in particular? But then also, we're hearing that, that program, in particular, is very well suited, perhaps for some of the Golden Dome applications. Can you just comment on those discussions and how you view IBCS in particular with that opportunity?
+
+Kathy Warden
+Chair, CEO & President
+
+Yes. We are very bullish on IBCS growth opportunities, both domestically. As you pointed out, it is a system that is able to integrate Barrett sensors and kinetic effectors to enable visibility of the battlefield and then to provide us a fire control system that has application for protecting our homeland just as it has application for our international partners in that same vein.
+
+So we've talked previously about having over a dozen countries now that have expressed varying levels of interest in the program, particularly as we look at the success that we've now demonstrated in Poland, as I spoke about in our comments today, that is a live fire example of how IBCS can be used in a homeland protection scenario. And of course, the U.S. has forward deployed the system, and I talked about the operational test that it has performed for forward deployment in both INDOPACOM and the European theater.
+
+Kenneth Herbert
+RBC Capital Markets, Research Division
+
+Can you talk about when we could expect other incremental orders internationally in particular, as you talk to those 12 countries?
+
+Kathy Warden
+Chair, CEO & President
+
+Yes. We expect those to phase in over a multiyear period, but starting in 2026, and we do expect IBCS to be a significant double-digit growth driver for us in next year's outlook.
+
+Operator
+
+Your next question comes from the line of Scott Deuschle with Deutsche Bank.
+
+Scott Deuschle
+Deutsche Bank AG, Research Division
+
+Ken, can you give any quantitative detail on the 2 B-21 financial items in the quarter between the higher EMD flight test costs and the contract restructure? It sounds like it was close to 0 on the net amount, but just curious how large the gross numbers were for each of those two items?
+
+Kenneth Crews
+Corporate Vice President & CFO
+
+Yes, Scott, you're correct. In terms of the cost growth that we baked in from lessons learned on the B-21 LRIPs offset by the restructure activity. It is from a materiality perspective, very low number. So it essentially washes themselves.
+
+Scott Deuschle
+Deutsche Bank AG, Research Division
+
+Okay. And then, Kathy, sorry if I missed this, but can you give us any sense for how international book-to-bill has trended on a year-to-date basis?
+
+Kathy Warden
+Chair, CEO & President
+
+Yes. International book-to-bill remains very solid, as I noted. We have 20% sales growth year-to-date. And our international book-to-bill coming into the year was 1.4%, and this year, Todd?
+
+Todd Ernst
+Vice President, Investor Relations
+
+So this year, we started off at about 1.45%, Scott. And when you look at quarter 2 and quarter 3, it is timing dependent. So overall, we're roughly slightly lower than 1%, but we built a strong backlog last year that's leading to the growth this year. As Kathy mentioned, we had 20% year-over-year growth or year-to-date growth. And then on top of that, we had about 30% growth within the quarter alone.
+
+Operator
+
+Your next question comes from the line of Rich Safran with Seaport.
+
+Richard Safran
+Seaport Research Partners
+
+So I think it was last month, Secretary of Defense made some comments about requesting industry make significant capacity increases in missile production. I think this is going well beyond just Golden Dome. I was kind of curious what this means for Northrop Grumman. Do you have any plans to undertake further capacity increases that might require incremental CapEx? And is there any time line associated with planned increases?
+
+Kathy Warden
+Chair, CEO & President
+
+Yes, Rich, thanks for the question. As I've outlined in a few of our calls over the last 6 quarters or so, we have already invested in expanding capacity that includes for our tactical missile solid rocket motors where we've more than doubled capacity, and we are already breaking ground on another facility that would bring more capacity online in about 2 years.
+
+Right now, we have more capacity than we have orders. And so we are in the process of being qualified on additional missile systems, as I talked about in today's call, we have been awarded people, and we are in the process of qualification for a handful more. And those would utilize that capacity we've already brought online, but we foresee continued demand growth, which is why we've broken ground on yet another facility.
+
+In addition, we are building out our capacity for larger solid rocket motors. We've talked about that for multiple purposes, including U.S. national security applications, but also commercial applications in Space launch, as I spoke about today with our GEM 63XL rocket motors that are fueling the ULA launches for the Kuiper satellites. And so we are already through a significant amount of Northrop Grumman funded investments in that capacity, but we do have some that you will see committed in our CapEx numbers, '26 and '27 as well.
+
+Richard Safran
+Seaport Research Partners
+
+Okay. And then quickly here, I saw you made a bit of an announcement on Lumberjack, and I'm wondering if you could discuss what the opportunity set for this program is, what's the domestic international potential? And when this program might have an impact on the P&L?
+
+Kathy Warden
+Chair, CEO & President
+
+Yes. Lumberjack is an exciting new offering. We are developing that out of our Mission Systems segment. And it is a ground launch opportunity for counter-UAS. It is -- it has communication sensors. It is targetable. And we see this as an advancement of our small microelectronic processing capabilities and communication put on to an innovative platform that we've worked with partners for -- to keep the cost very low and keep it competitive for what we see as the attritable market. We have introduced this capability. It's about a TRL 6 now, and we are working to find our first customers for it, but we also see there to be international opportunity. We clearly need to go through export for the product line, but those are all steps ahead that we look to continue through 2025 into 2026.
+
+Operator
+
+Your next question comes from the line of Gavin Parsons with UBS.
+
+Gavin Parsons
+UBS Investment Bank, Research Division
+
+Kathy, you pointed out that you guys spend more on CapEx than most of your peers in the industry, but does that enable more than maybe mid-single-digit growth over the long term?
+
+Kathy Warden
+Chair, CEO & President
+
+We believe that it can. We certainly have invested with the intention of driving significant growth. And that has started to come to fruition. In some of our segments, you saw DS in particular, with a very solid growth rate last year Ansys, and it is reflective of that investment.
+
+I was just talking about, not only in the capacity for munition and tactical missiles, but also the research and development that we're doing on new and innovative solutions for addition to solutions we already have like IBCS, the investments we're making in modernizing that. So I think it's a good case study of where we have put that investment in and been able to generate those higher levels of growth. And of course, we're working to do that across all of our segments.
+
+Operator
+
+Your next question comes from the line of Rob Stallard with Vertical Research.
+
+Robert Stallard
+Vertical Research Partners, LLC
+
+Kathy, I just wanted to follow up on your initial comments. One of the members of the administration had said recently that they thought that U.S. defense companies should do a little more research and a little fewer stock buybacks. I was wondering if this is essentially a trial balloon or whether there are active discussions with the customer about this.
+
+Kathy Warden
+Chair, CEO & President
+
+We certainly have discussions with the customer where they have shared their desire for industry to see the growth opportunities that would lead us to invest and that those would be profitable growth opportunities, and we share in that sentiment. And as I have shared with you today, I've also shared with the leaders in the Department of War that we have been doing that, that those higher levels of investment above industry average or because we saw that same vision that if we invested, we would have greater opportunity for growth and returns.
+
+And so I've articulated that we have a number of discussions underway, B-21 acceleration and other new areas that, that is the core of the conversation that we believe my industry peers are having with the department.
+
+Robert Stallard
+Vertical Research Partners, LLC
+
+Okay. And then a quick follow-up to that, though, I may be wrong, but it would appear fairly new, though, that they would be perhaps putting some restrictions around returns to shareholders. How would you feel about that?
+
+Kathy Warden
+Chair, CEO & President
+
+We have not had any discussions with members of the administration that would suggest that, that is their intent. I think that we all are aligned meaning my company and our customers that the best mechanism is to incentivize that investment through the opportunities for a clear demand signal that reflects in sales growth and increased returns and that if those conditions exist, it is in our best interest, and we will continue to do what we have done, which is invest in that future.
+
+Operator
+
+Your next question comes from the line of Scott Mikus with Melius Research.
+
+Scott Mikus
+Melius Research LLC
+
+Kathy and Ken, just a quick question on B-21. You kind of referenced that the reconciliation funding, I think there's $4.5 billion there is for the acceleration of the production rate. So just to be clear, would actually increasing the program of record to 150 or 200 units be a completely separate negotiation potentially with additional financial benefits for the firm?
+
+Kathy Warden
+Chair, CEO & President
+
+Yes. And that would be a separate discussion. That decision has not yet been made by the department and if it were to be made, then it would factor into an additional look at with the long-term opportunity is on the program.
+
+Operator
+
+Your next question comes from the line of Myles Walton with Wolfe Research.
+
+Myles Walton
+Wolfe Research, LLC
+
+In terms of the fourth quarter implied sequential revenue growth, it looks like aero is carrying most of that load. Are there extra working days in the fourth quarter that maybe help the overall double-digit sequential revenue growth and/or within Aeronautics, is there something that you think releases here in the fourth quarter that may be wasn't releasing in the third quarter?
+
+Kenneth Crews
+Corporate Vice President & CFO
+
+So to answer your question around additional working days, there is 1 additional working day in Q4. However, that's not the primary driver. As we discussed in my prepared remarks and even last quarter, the real growth that is driving the ramp for AS is driven really by 3 factors. The first one is, with the awards that we discussed in our prepared remarks, there will be inventory liquidations that drive that increased revenue. At the same time, just natural progression of new program wins and production like TACAMO, and then the last factor is going to be on their mature production programs, just real timing associated with supplier performance and material deliveries. And so yes, while there is an extra working day, it's really driven by the 3 factors that I mentioned.
+
+Myles Walton
+Wolfe Research, LLC
+
+Okay. And no impact from the Boeing strike or anything like that on F-18?
+
+Kenneth Crews
+Corporate Vice President & CFO
+
+No, no impact.
+
+Operator
+
+Your next question comes from the line of Peter Arment with Baird.
+
+Peter Arment
+Robert W. Baird & Co. Incorporated, Research Division
+
+Kathy, could you give us an update on just kind of the long-term production ramp plans in solid rocket motors? I know you've kind of looking -- investing quite a bit there, but there's also a lot of defense sort of tech upstarts or Space tech upstarts. And just how those kind of -- those upstarts are factoring into kind of your plans or whether they're just on different levels in terms of the solid rocket motor output?
+
+Kathy Warden
+Chair, CEO & President
+
+Yes. Peter, I would say that we are focused on qualifying ourselves to be a provider on weapons where we have not historically been a provider. And that capacity investment that I mentioned earlier in the call is enabling us to be ready now as those decisions are made to bring our production online. For many of the other companies that are looking to enter this space, it's going to take them time to build the capacity to get qualified on these weapons and to enter the space. So our focus has been to continue to be ahead in being able to provide optionality to the Department of War as well as our primes who are looking for additional sources of supply.
+
+Peter Arment
+Robert W. Baird & Co. Incorporated, Research Division
+
+Appreciate it. And just a quick follow-up. On B-21, just to be clear, is Lot 3 in your 2026 guidance, we know it's not in '25, correct?
+
+Kathy Warden
+Chair, CEO & President
+
+So the Lot 3 award and the Lot 5 advanced procurement is anticipated to be received in the fourth quarter of 2025. The vast majority of the expenditures, so sales recognition would not start until 2026.
+
+Operator
+
+Your next question comes from the line of Michael Ciarmoli with Truist Securities.
+
+Michael Ciarmoli
+Truist Securities, Inc., Research Division
+
+Maybe just one question, two items. I guess, Kathy, on Beacon, it looks like the testing is ramping up there. You've got 6 partners now. So just trying to think about how that impacts future financial performance, contributions to growth. And then maybe in the same vein on the microelectronics, it looks like you're opening up some of your capacity for industry. Does that give a little bit more of a boost to MS margins going forward, if you kind of soak up some of that excess overhead?
+
+Kathy Warden
+Chair, CEO & President
+
+Well, let me start with Beacon. We are very excited about this capability. It is opening up opportunities for us to partner and have demonstrated capability, not only leveraging the platform work that we have been doing to demonstrate acceleration of our ability to build autonomous systems, but also the integration of the capabilities inside the platform that gives us its mission capability. And that's what Beacon is helping us to do to look at innovations in autonomy, weapons integration, mission systems integration, all of which then support a mission-capable platform.
+
+And those investments that we are making are in alignment and in conjunction with partners, as you mentioned, and large numbers partners. We are not at this stage picking winners. We're simply understanding the marketplace and the capabilities that we can bring to bear, because we expect a number of new competitions in this space, including U.S. services, the Air Force, the Navy and now the Army, but also international partners that are looking to build upon their combat collaborative aircraft fleet.
+
+With regard to your second question, around microelectronics, we have opened up our foundries to additional customers as more and more U.S. companies are looking to have domestic sources, our 2 foundries produced some of the most advanced microelectronics in the world, and we are happy to offer that capacity more broadly. Since we have done that, we've had significant interest. And so we are in the process of working through that pipeline. We already do about $1 billion a year for sales to ourselves and existing customers largely in the national security space. So we'd be building on that foundation as we move forward with additional customers, including commercial customers.
+
+Operator
+
+Your next question comes from the line of Doug Harned with Bernstein.
+
+Douglas Harned
+Sanford C. Bernstein & Co., LLC., Research Division
+
+So can you give us an update on Sentinel? It's going through this whole restructuring process. You've talked about it before. And basically trying to understand as the timing for IOC has moved back, how does that affect your thinking, and when you would be going into production mode? And then also, are there any aspects of the restructuring or the issues they've had that tied in any Northrop Grumman performance? And then on the other side, does this open up potentially some opportunities for expanded work scope for you?
+
+Kathy Warden
+Chair, CEO & President
+
+There's a lot to unpack there. Let me start by saying that we are partnering with the Air Force on an execution framework to complete the restructure of the program. In the meantime, we are working on executing the program. And there have been a number of key decisions that the Air Force has announced recently like creating new silos rather than refurbishing Minuteman III silos or the resumption of work on the design of those silos. Those all have a positive impact on our ability to move cost and schedule more aggressively.
+
+We also, in the program restructure, are looking to establish a new program baseline, which will define the timing of events, including completion of the development program, but when we would start production. And that's subject to future communications because it is in work as part of that restructure. The important thing is that we continue to make good progress on the program. So we had announced in this last quarter that we completed the full scale qualification test of the Stage 2 solid rocket motor that's part of the missile.
+
+We also, just yesterday, announced that we completed the critical design review for the Sentinel launch support system and that paves the way for all of our system build, test and qualification that underpins the Sentinel program. So we're really encouraged with how things are progressing, both in alignment with the U.S. government on how do we accelerate the program from not McCurdy baseline, but also executing on the milestones that are right in front of us.
+
+Douglas Harned
+Sanford C. Bernstein & Co., LLC., Research Division
+
+Because also, there's some substantial new money coming in, in the '26 budget. And is that funding that you expect would go more to Air Force, I'm probably using the wrong language here, but logistics building out what the silo profile could look like? Or do you expect some of that money to be coming to Northrop Grumman and perhaps add to growth?
+
+Kathy Warden
+Chair, CEO & President
+
+On this program, we see likely both to need funding. The U.S. government contribution stands well beyond the U.S. Air Force in terms of support from the Army Corps of Engineers, for example, and other government entities. And so they likely would need portions of that funding to support their work scope on the program, but we do expect the industry team also to support them in executing those funds that have been provided in reconciliation.
+
+Todd Ernst
+Vice President, Investor Relations
+
+All right. We're going to have to leave it there. I'll turn it over to Kathy here for closing comments.
+
+Kathy Warden
+Chair, CEO & President
+
+Great. Well, thank you all for joining our call today. I'm pleased with the momentum we have, rounding out 2025. Our focus will be on having a strong finish to the year, and we really look forward to updating you again in the new year and providing some clear 2026 guidance in our call in January. So until then, be safe.
+
+Operator
+
+Ladies and gentlemen, thank you all for joining, and you may now disconnect. Everyone, have a great day.

@@ -1,0 +1,312 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] And our first question comes from the line of Simeon Gutman with Morgan Stanley.
+
+Simeon Gutman
+Morgan Stanley, Research Division
+
+Congratulations, Doug and John. So I have 1 question and there might be a part A to it. The question is, do you think agentic will supercharge Walmart's e-com growth? And in that answer, talk about the advantages that can uniquely help Walmart. And the Part A, I know, John, you just mentioned that you feel strong heading into the -- or a good start or I think strong heading into the fourth quarter. Do you have enough read from Q3 and Q4 to date to predict how the consumer may perform over the holiday?
+
+Doug McMillon
+President, CEO & Director
+
+Thanks for the question, Simeon. I'll kick off this agentic discussion, but I invite my colleagues to chime in with me. I'm really excited about what's possible. We're always trying to find ways to serve customers better. And I think the advantages that we have include our breadth of assortment being so close to people, which will help us with delivery speed and, of course, everyday low prices, but I wouldn't underestimate the physical aspects that kind of underpin the advantages that we have.
+
+But at the same time, we've gotten so much better with technology that we have the ability to execute a vision that will be multimodal, more personalized, understand context, and it will help people save time and have more fun shopping. And I think when we put all those things together, it will be a very important growth aspect or channel for us. It won't be the only one. We say omnichannel these days, and I think people frequently think of just stores and e-comm, but social commerce and all kinds of forms of shopping are happening today. And I think we're well set up to be able to participate in all those channels going forward.
+
+John Furner
+Executive VP, CEO & President of Walmart US and Director
+
+Simeon, this is John. And Doug, that's really well said. And we're really excited about some of the capabilities that our customers are engaging in with what we call Sparky today, our digital agent that's live in the app. We continue to hit new milestones. I'm also really excited about some of the new capabilities coming over the next few months as Sparky can take more action on behalf of our customers. And when you put that on top of this platform that Doug described with physical assets with 4 deployed inventory all around the country, increasing the speed of delivery, we're using agentic AI to help people think about the things that they may want to reorder or in other words, give them nudges about staying in stock. There are so many ways that we can serve customers, which is very different than where we were 5 to 10 years ago. We can serve people in minutes. We can keep you in stock at home. We have a really broad assortment and having a digital agent that is there working for you, we think, is going to be really powerful.
+
+And then there are a couple of things behind the scenes that agentic AI and other types of technology are helping with things like maintaining the accuracy of our catalog, helping us know where there are gaps in our assortment so that we can serve people however they want to be served for whatever is going on in their lives. I'm really excited about how this is all coming together. I think it's going to be a really strong enabler. And I think it will take a lot of time and friction out of the customers' lives as they shop with us.
+
+Kathryn McLay
+Executive VP, President & CEO of Walmart International
+
+I would just add to that, too. We have all of the data from our customers who shop with us in-store every day. And all of that transactional data is really helpful for us to be able to predict baskets for our customers. One of the things that's useful about having an international segment is that we have markets where we can trial new capabilities. And we've been trialing something called [ Carrito Listo ] down in Chile, where we actually create customers' orders for them, send them a WhatsApp prompt to ask them if they're interested in buying that basket. They go into the app, and they can see we've created a basket for them that actually has all the brands that they normally buy in the kind of intervals that they like to buy it. And they have full agency over whether they want to accept that basket, whether they want to add to the basket, whether they want to take from the basket. And what we're seeing is that it's really attractive, and it's become up to about 20% of our e-comm business in Chile already.
+
+And so we're excited about that capability. We're bringing it to other markets. But I think we know our customers, we know what they want and we can anticipate that and make their lives easier.
+
+Christopher Nicholas
+Executive VP, President & CEO of Sam's Club U.S.
+
+Yes. And for Sam's Club, I think there's probably just 2 quick points to make. The first is it looks like a really smart decision that we leverage the Walmart enterprise capabilities so that Sam's Club gets access to everything you just heard about. And the way you should think about Sam's Club is that the member data that we have is richer than any other form of data we have across the enterprise because we have complete understanding of what the member wants and that allows us to personalize at an even deeper level.
+
+John Rainey
+Executive VP & CFO
+
+Simeon, this is John David, on the second part of your question regarding the read on the consumer in Q4. We'd say that overall, the environment feels pretty consistent. There's certainly some pockets of moderation that we're keeping an eye on. But if you look at our guidance for 4Q, it would indicate that we have an expectation that it's going to look pretty similar to the other quarters this year.
+
+Holiday is off to a pretty good start. Back-to-school tends to be an early indicator for how that goes, Halloween, likewise for Thanksgiving and everything that we've seen so far makes us optimistic and encouraged about customers and members leaning into the seasonal events and holiday shopping period.
+
+There is one thing to note as it pertains to our business. The maximum fair pricing legislation that was enacted and goes into effect in January will affect our health and wellness business, specifically our pharmacy business. That will influence the comp in January a little bit, but all in, if you look at our revenue guidance, it's very much in line with the first part of the year.
+
+Operator
+
+Our next question is from the line of Greg Melich with Evercore ISI.
+
+Gregory Melich
+Evercore ISI Institutional Equities, Research Division
+
+First, Doug, I just want to thank you for all your leadership, not just to Walmart in the last decade, but I would say society. It's been a wild time and you've been great to have there. So thank you. And John, congrats, you'll get sick of us soon enough. So I'll launch into my question that way. If we -- I just want to unpack Walmart+ membership, it's that nice growth. It seems like an acceleration. I guess what are the constraints to getting that to grow even faster? Is it logistical? Is it -- what do we have to do to see that really take off?
+
+John Furner
+Executive VP, CEO & President of Walmart US and Director
+
+Greg, it's John. Thanks for the question. We're excited about the momentum in Walmart+, and you heard in the comments earlier, John David noted, that this is the best quarter we've had in terms of net addition since we launched the program. There are really a couple of things that are driving that and I want to congratulate the team for. The first is delivery and delivery speed. You heard this morning also that about 35% of our deliveries that are coming from our stores are sub 3 hours and our fastest growth channel is sub an hour, and that's holding up and it's growing at a fast pace. So providing this flexibility to our members is really important.
+
+The second thing is our NPS levels on total delivery and shipping are the highest we've seen. That's highly correlated to speed and accuracy. These investments we've made over the last few years that we're excited about in terms of supply chain and inventory accuracy, the digital agents that are helping us understand how our assortments can improve, all of that is working to help people be able to find the things that they're looking for, the things that they need and they can have those delivered whenever they want, whether that's keeping in stock or it's really quick.
+
+The second, we're really proud of the launch of the OnePay credit card that's featured prominently on our homepage even this morning, where members can earn 5% back on all their purchases. We've had really good uptake with the program. So I think it's an exciting time when there are customers who are, of course, always looking for value. We're proud of our price position with 7,400 rollbacks. So that's another way to reinforce that there are great values at Walmart.
+
+And then the third is we did add a streaming option for customers to be able to choose. We think that's important as well. But I'd really pull it back to the work and the progress that we've made with delivery, with speed, accuracy and then the launch of the credit card.
+
+Operator
+
+Our next question comes from the line of Kate McShane with Goldman Sachs.
+
+Katharine McShane
+Goldman Sachs Group, Inc., Research Division
+
+Doug, I just wanted to thank you for some really great years here. It's been a lot of fun covering Walmart under your leadership. And John, just wanted to wish you a really big congratulations as well. With regards to our question, you mentioned the level of inflation across the store was about 1.3%. Can you talk about how you've managed higher cost through price increases and what elasticity impacts you've seen? And how should we think about where prices should go in Q4 and early 2026?
+
+John Furner
+Executive VP, CEO & President of Walmart US and Director
+
+Kate, it's John. First, we are seeing inflation in the low 1% range. That's pretty consistent across the business, including food and slightly higher in general merchandise. I would first point to, I think the team has done a really nice job managing inventory, and that's been a consistent trend for a few years. Inventory closed the quarter up 2.6%. So roughly half the rate of what we're growing sales and we feel good about where the inventory is positioned in categories like fashion, where we've seen higher growth rates in the quarter. We're really proud of our fashion business. Our inventory is in good shape. So what that does is it allows flexibility and takes pressure off any end-of-season markdowns. We've been disciplined over the last few quarters of ensuring that at the end of each season, whether it's back-to-school or back-to-college, Halloween that we end clean and we move on to the next season.
+
+The third thing, I think the last thing I would say is the team has also done a nice job of managing mix throughout the last couple of quarters. We've been thoughtful about how we adjust our buys in terms of what we think people will buy in seasons. So where things that are for kids, obviously, have run strong, people tend to prioritize their families in times where there could be cost pressure. So all those put together have put us in a good shape to where we can keep our inventory in line, we can maintain margins with low markdowns on the backside.
+
+Operator
+
+Our next question is from the line of Seth Sigman with Barclays.
+
+Seth Sigman
+Barclays Bank PLC, Research Division
+
+Doug, John, congrats to both of you guys. So I wanted to talk about operating leverage and how you're thinking about the fourth quarter. It does imply an improvement in the operating leverage here. Can you just bridge that -- how much of that is the shift in Big Billion Days versus other drivers? And then related, you guys have done a really good job of managing tariffs. How are tariffs starting to show up in the model? And should we assume that the tariff impact continues to increase, but you are able to offset that. Maybe walk us through how you're doing that?
+
+John Rainey
+Executive VP & CFO
+
+Sure. This is John David. I'll take the first part of that question, and maybe a couple of us will address the second part of it. We are really pleased to be able to demonstrate that we had leverage in the business this quarter. I believe that's the first time in 2 years given some of the mix changes that have been happening with our shift of e-commerce to -- shift from in-store to e-commerce. There's a number of areas where the team is really performing well. And I talked about the use of AI and technology. But an example I would give you, I'd point to our supply chain. Roughly 50%, in fact, more than 50% of our volume from fulfillment centers is coming from automation. And that translates into lower shipping costs. Our shipping costs have been down consistently for many quarters in the 30% range. This was another quarter where we saw double-digit improvements. And that really helps our e-commerce economics, but also helps the overall SG&A of the company.
+
+I think there's sometimes a bit of a sense of there needs to be a trade-off between value and convenience. And I think that's a false choice at Walmart. We've demonstrated for years that we can provide value through everyday low prices in the items that we sell. We're doing the same thing now with convenience by continuing to lower our cost of delivery, that helps customers have the ability to have the value that they want with the convenience that they expect. And what we're seeing is that customers are willing to give their business to those companies that, one, provide value; two, give the convenience they expect; and three, are executing consistently well.
+
+And so we feel good about going into the fourth quarter. Costs are always going to be an issue that we're trying to be more efficient and bring them down. But I think we're in a better place right now than we have been at some point.
+
+John Furner
+Executive VP, CEO & President of Walmart US and Director
+
+Yes, John David, I think those are really important points. The point you made on value convenience and execution. Hopefully, it's just building trust, the trust that customers can depend on us for whatever it is they're looking for in their lives. In terms of the impact of tariffs, certainly, I think we have seen less impact than what we thought we would have expected early in the year. There has been some relief on some key food categories, which certainly is helping. You also heard earlier the 7,400 rollbacks, about half of those are in food. Really, the only price pressure that we're seeing in food generally right now is in the beef category, which is largely a reflection of the commodity and the cyclical nature of the herd sizes in the U.S.
+
+So commodities do what they tend to do, but the team has done a nice job all across the business at creating great value on particular items like the price of turkeys for Thanksgiving. We have the ability to sell customers up to 10 people, $4 a person for their meal. We have a VIZIO television that's 50-inch for $128. So really proud of the value that exists all throughout the assortment. And I think we can become and continue to be a great place for customers to find what they need for the holiday season.
+
+Doug McMillon
+President, CEO & Director
+
+I'm really impressed with how the team has managed through tariffs this year. If you look at it holistically, the job they've done to manage inventory, to manage price gaps, to improve our mix with categories like fashion being so strong. That combined with the business mix shifts in the company have enabled us to get through this year and become even stronger as we've done it. And then I would just also add our appreciation on the relief we're seeing on things not grown in the United States. That's really appreciated. I think our customers will appreciate that, too.
+
+Kathryn McLay
+Executive VP, President & CEO of Walmart International
+
+Can I take a little tangent on that, too, because you did mention BBD. And I think it's worth noting that BBD is housed within our Q3 result this year, and our operating income was up 16.9%. So it's quite a change in kind of what we've seen with the impact of BBD in a quarter. We also saw a lot lower losses from e-commerce in International, and probably the best BBD that we've experienced in the history of the company. I was reflecting the other day that we did over $1 billion of sales in the first day. And I think we did something like 700 orders per second during the first hour of the event. So, it's an extraordinary event. And yet despite that, we had lower e-commerce losses, and we had an [indiscernible] for growth for International adjusted at 16.9%.
+
+Doug McMillon
+President, CEO & Director
+
+It took Walmart a lot longer to get to $1 billion in a day than it took Flipkart.
+
+Christopher Nicholas
+Executive VP, President & CEO of Sam's Club U.S.
+
+This is also relevant to Sam's Club too. I do need to take this opportunity to thank our associates, though, for a really strong quarter. And maybe just touch on something John David talked about, which is the headline comp for Sam's Club may look a little off, but we're lapping a lot from last year. We talked about it, 2 storms and the port strike that impacted us disproportionately. So what I'd ask you to do is look through that. Our 2-year stack is consistent with Q1 and Q2 around 11%. So it's consistent good momentum.
+
+I think just to push in, Seth, into your question, we're working really hard to -- every single day to take cost out through using AI, using leverage, taking the benefits we're getting from ads, and we are going on the offense on things like price and on experience. We've seen really incredible growth in e-commerce, too. And the innovations that the team are landing every single day. So leveraging the Walmart app has increased conversion materially. We've changed the value proposition again because we are restless on behalf of the member. We reduced basket minimums for our club members for Curbside Pickup, and we saw a 20% plus pickup, which is just great.
+
+And the fourth quarter now of -- from a delivery point of view, is the fourth quarter in a row that we've seen triple-digit growth. And I think some of that is how easy it is and how sharp we are on price, but some of it is just great items, too. I would just touch on -- we've got some great GM items coming through Pokemon, LEGO Game Boy, Disney Princess Parade and the Mahjong set, which I don't know if you will know, but Mahjong is the new pickleball, so please go out and invest in that item, too.
+
+John Rainey
+Executive VP & CFO
+
+Yes. Just one thing to add to what Chris said because I think it's important to note. I think it's fair to say, and the team could disagree with me here if they feel differently. But I think we're better leveraging the assets of the various segments than at any time in history. Whether you look from a technology perspective, a supply chain perspective, even a people perspective. We -- there are synergies with what we're doing in leveraging some of these platforms and technologies, and that's really starting to translate into improved financial results.
+
+Operator
+
+Our next question is from the line of Kelly Bania with BMO Capital Markets.
+
+Kelly Bania
+BMO Capital Markets Equity Research
+
+Doug and John, I just want to echo the comments from my colleagues and add my congratulations to both of you. I think we've all learned a lot from your leadership, Doug. My question and more observation, I guess, is just how incredibly consistent so many of the key metrics are really across the board. And I think it's just particularly notable at a time when there are more complaints about the U.S. consumer, signs of pockets of weakness. And so I was wondering if you could just maybe talk a little bit about how much month-to-month volatility you're seeing, if there's any signs of trade down or changes of behavior underneath the hood?
+
+And if you can add to that, how much flexibility are in your plans to be more aggressive with pricing or other elements of your model if there is by chance any delayed consumer reaction to either the tariffs or the cost of living dynamics, not only in the fourth quarter but into next year?
+
+John Rainey
+Executive VP & CFO
+
+Kelly, this is John David. I'll hit on that and maybe start with the last point. I think the team here feels really good about where our relative price gaps are right now and the value that we're providing to our customers and members. We have over 7,000 rollbacks in place in Walmart U.S. John talked about the value of a basket of items for Thanksgiving dinner and how that compares to prior years. It's -- I think we're feeling really good about this. And we're seeing that customers are moving their business to companies that provide that value with that convenience.
+
+In terms of the month-to-month volatility in the business, the quarter was actually quite consistent. When we look across the entire business, there wasn't necessarily 1 month that was an outlier. There are pockets of moderation when we look by income cohort. And I don't want to sound alarmist in any way here because, again, overall, the business is very consistent, and that's our outlook into the fourth quarter. But when we look by low-income cohort versus middle versus higher income, we have seen some moderation in spending in the low-income cohort, and that's consistent with things you've seen from a macro perspective.
+
+In October, wage growth -- the disparity in wage growth between those cohorts was as large as it's been in almost a decade. And so we're seeing the same things that others are, and we're keeping a watchful eye on it. But again, I think Walmart is better insulated than just about anybody given the value proposition that we have. If pocketbooks are being stretched and consumers are being choiceful and value seeking, it stands to reason if there's more pressure on the consumer, they're only going to become more so. And so we like the value proposition that we're offering for our customers, and you see that's why we're gaining share.
+
+John Furner
+Executive VP, CEO & President of Walmart US and Director
+
+And John David, something you said earlier is important that more than one thing can be true at a time. The flexibility that we are offering the breadth of assortment helps us have an appeal to a lot of customers all around the country. And while everything you said is true, it's also true as we saw accelerated games with higher income customers throughout the quarter. And I think you can see that in the categories with categories like apparel that grew over 5% every month of the quarter continues to be one of our best categories. Other categories like home hardlines are in that mix. So we're seeing a lot of growth in general merchandise that has a wide appeal to a lot of income levels.
+
+It is interesting that all income levels are participating in delivery and faster delivery choices. And I think it's just great to see that whatever it is the customer is looking for, we built capabilities over the last few years that can help them experience our great assortment and great value however they choose to.
+
+John Rainey
+Executive VP & CFO
+
+One of the things with our marketplace business, it's really allowing us to provide a much broader assortment than we have historically. And if you look on a category-by-category basis, there are places in our marketplace business like automotive, toys, electronics, apparel, that are all growing north of 40% year-on-year. And so it really shows that customers are coming to us with this broader assortment, and it's allowing us to cater to a broader set of customers than we have historically.
+
+Christopher Nicholas
+Executive VP, President & CEO of Sam's Club U.S.
+
+I think it's really worth pointing out that this is the moment for a business like ours. So Sam's Club, we are trusted for great value. And when we give people and of great value, but with incredible assortment and incredible experiences, people really value that. And when they do have to make choices where the place they're coming to, really great items that where you drop the price, you do see a response. So I'll give you an example. We reduced our incredible very big box of croissant, they are fresh baked in club, by a $1 from $5.98 to $4.98 and the volume doubled, it's incredible. We had to remove the shelf that we put them on because the volume that we were selling was so -- was so huge. I think people really respond to great items at great prices.
+
+Operator
+
+The next question is from the line of Michael Lasser with UBS.
+
+Michael Lasser
+UBS Investment Bank, Research Division
+
+Best wishes to everyone. How do you respond to those who say the timing of this leadership succession is a signal of an inflection point where Walmart will usher in another phase of investments that will pressure the company's profitability either because of the need to support the top line growth or be prepared for the next phase of retail, which is agentic commerce? And if this is anywhere near the case, could it delay the potential acceleration in operating income growth over the next few years as alternative revenues gain scale and make up a growing portion of the company's overall profitability?
+
+John Furner
+Executive VP, CEO & President of Walmart US and Director
+
+Michael, it's John. I want to say a couple of things. First, I'm really excited to be a 32-year Walmart associate. I'm proud of that. I'm proud of the work that our associates have done for so many years around the country. We have a strong purpose, and I love our core values. As far as the strategy, I've been here at this table with this team for a long time. I'm in my seventh year in the role of Walmart U.S. CEO. I've been a part of developing our strategy on capital for automation, the transformation from having a store business and an e-commerce business to becoming omni. We have a lot of momentum, and I think that strategy is solid. We're looking forward to make improvements to the strategy as we go.
+
+And just specifically on capital, we take a really disciplined approach to capital. Over the last few years, we've been really transparent about the things that we're developing. A lot of those investments are going to remodels and stores. We're on about a 7-year cycle. I think that's about right, and we want to maintain that.
+
+And then second, the capital investments we've made in our supply chain, we're even more optimistic about the returns that those can create, which leads to the final point. When it comes to capital investments and operational investments in the business, we'll take a disciplined measured approach to those investments and we'll ensure that they provide the right returns for our shareholders.
+
+John Rainey
+Executive VP & CFO
+
+I'd like to add one thing. Just my perspective as a CFO. I've been in finance for 3 decades and in a role like this for about half of that. I've never worked on a management team that has more alignment around the financial metrics on how to run the business, focusing on the top line, making sure that those sales are profitable and also focusing on ROI. And so we're going to continue to do that. We recognize that we've spent more capital than we have historically, but there is a universal alignment on -- with this management team that we need to make sure that those investments pay off for investors.
+
+And so the goal that we have or the metrics that we hold ourselves to is we need to make sure that ROI is going up every year. And you've seen that performance been demonstrated here after some of the important investments that we made a decade ago, those were starting to pay dividends. And so I hope I can allay any concerns that there's going to be some dramatic shift in our posture on this.
+
+Operator
+
+The next question is from the line of Christopher Horvers with JPMorgan.
+
+Christopher Horvers
+JPMorgan Chase & Co, Research Division
+
+Congratulations to Doug and best wishes in the next part of your journey and John as well as you take over the reins. A bit of a multipart U.S. grocery question. The low single-digit performance in Walmart U.S. in the quarter, to what extent did the port strike and SNAP impact the trend? Would you expect this to revert back to mid-single-digit range? Or does disinflation on eggs and perhaps tariff changes inhibit that? And on a related question, it's clear that you've been investing in price, grocery inflation of around 1% versus what's being reported externally, you're driving price gaps. Is that because you felt they were narrowing or you were intentionally widening the gaps in anticipation of some disinflation?
+
+John Furner
+Executive VP, CEO & President of Walmart US and Director
+
+Chris, let me take part of the question -- or the first part of the question on grocery. In terms of where we are pricing, we're always looking for ways that we can keep prices as low as we can and invest in price. Walmart has provided an everyday low price value for many, many years and that certainly is relevant now for food pricing. For the holiday season, we're proud of the offer that we have. You can feed 10 people for just under $4. I think that's really exciting. Items like turkeys, Butterball turkeys will be $0.97 a pound. That's the lowest price we've had in turkey since 2019. So our strategy has always been -- the philosophy has always been to keep prices as low as we can on a basket of goods over time, and we will continue to do that.
+
+And then as far as how the mix is coming together, our merchants, they start every week talking about unit growth. And we focus heavily on how we're growing units. We think about unit share in food, particularly in fresh food, where there are commodity prices that do what commodity prices do over time, we want to ensure that we have a value, but we look at unit share. So our unit share growth has been strong. It was stronger in the quarter than our dollar share. And so over the long term, we'll take the units, and we'll focus on that and then the dollars will tend to work their way out.
+
+The last thing I'll say, there likely is some egg deflation right ahead of us. That is in our forecast, and we're thinking about that. And then we do have some inflation in the beef category that we think will take a bit longer to work out.
+
+Operator
+
+Our next question is from the line of Robby Ohmes of Bank of America.
+
+Robert Ohmes
+BofA Securities, Research Division
+
+Doug, congrats, you will be missed. I will miss you personally. And John, congrats. I mean, I honestly can't imagine anyone better to follow, Doug. So just congrats to both of you. My question is on merchandise category mix, you guys mentioned that you expected merchandise category mix to still be a headwind in -- to gross margin in the fourth quarter. You've got really good commentary on early holiday spending. You've got good performance in apparel and home doing better. I mean just what will it take for merchandise category mix to not be a headwind to gross margin? Like what's the secret sauce?
+
+John Furner
+Executive VP, CEO & President of Walmart US and Director
+
+Robby, I think the comment is reflective of the fact that health and wellness has been stronger and our pharmacy business has been stronger, and we think that will continue into the fourth quarter. You did hear John David mentioned some impact we may see in January related to the top line in health and wellness. So the comment is really reflective of that overall category mix. We are very encouraged by the fashion business. The fact it grew over 5% in the quarter, and we see more and more customers choosing Walmart for their source of fashion and the unit growth across basics for kids, men's, women's, the growth was really consistent across the categories, I think, is encouraging.
+
+And then in an overall business mix, it is also encouraging that e-commerce has shifted from loss to profitability. And so over time, we think the mix -- we will definitely see improvements amongst the -- between the channels.
+
+John Rainey
+Executive VP & CFO
+
+Robby, if you were to go back and pinpoint when we started seeing merchandise -- or the merchandise category mix pressure, it really goes back to a couple of years ago when we were seeing inflation in the high single digits. And so I think it's reflective of the macro environment, much more so than anything that's happening at Walmart. As pocketbooks have been stretched, you're seeing more consumer dollars go to necessities versus discretionary items.
+
+I think, fortunately, for us, we've done a great job of improving our assortment. And the example I gave earlier with some of the categories that we're selling in our marketplace, you're seeing that we're doing a great job there of growing some of these categories where there has been pressure. John noted, if you just take apparel, apparel grew over 5% each of the 3 months of the quarter on a unit basis. So that's -- if you go back a year ago, that was an area that we were really pressured with.
+
+So Walmart is doing the things that it can to influence this. But I think what's happening here from a merchandise category mix is really more of a macro phenomenon than anything.
+
+Operator
+
+The next question is from the line of Paul Lejuez with Citigroup.
+
+Paul Lejuez
+Citigroup Inc., Research Division
+
+Doug and John, big congrats. Would love to hear a little bit about elasticity. Any early signs based on price increases that you've taken, which categories you might be seeing greater elasticity or lower elasticity than you might have thought? And then just a quick one, if you could give an update on marketplace, number of SKUs that you're at right now, where do you expect that to go next year? And how important will marketplace be this holiday season compared to the first 3 quarters of the year?
+
+John Rainey
+Executive VP & CFO
+
+Well, I was just going to address elasticities. It really differs by category, but maybe one category that is a little more pronounced for us is electronics, toys and seasonal, where we've seen some higher AURs. And I think of that being in the high single digits and units are kind of in the flattish range. So that's been one where I think you've seen higher price increases overall, where on other parts of the basket, we've done -- we've not had the same pressure from tariffs, and we've been able to mix out the baskets in a way that have minimized the impact on consumers.
+
+John Furner
+Executive VP, CEO & President of Walmart US and Director
+
+And on marketplace specifically, it is important that we -- as we've noted, that customers can find a really broad assortment at Walmart, whatever you're looking for. And we've been focused on ensuring that customers can trust us for a broad assortment. So we're still in that $500 million or north of range. It fluctuates month-to-month, quarter-to-quarter. But we're really focused on ensuring that now that we use things like AI to determine where there are gaps in the assortment to ensure that customers can get their entire basket from us. And that could include whether it's an item for a specific event or part of a basket or regimen, we want to make sure that the assortments are complete. So over the next few quarters, we'll really be focused on ensuring that it's the right number of items and the right quality of SKUs that are listed in the assortment.
+
+Christopher Nicholas
+Executive VP, President & CEO of Sam's Club U.S.
+
+I think great innovation is so important along with price. And where we see growth in general merchandise, for example, and higher AUR items, it's where we see great innovation too. And I think we just need to keep our foot down on the gas on driving really great innovations with really great items.
+
+Operator
+
+The next question is from the line of Rupesh Parikh with Oppenheimer.
+
+Rupesh Parikh
+Oppenheimer & Co. Inc., Research Division
+
+Congrats to Doug and John. So I guess for me, the international side of your business continued significant strength. It's trending above, I think, the algorithm that you guys laid out earlier this year. Just how do you feel about the sustainability of the top line momentum you're seeing in your key markets there?
+
+Kathryn McLay
+Executive VP, President & CEO of Walmart International
+
+Thanks for the question. So I think we've just seen really consistent results in International from a top and a bottom line -- or sorry, from a top line perspective. We took a moment in the first half of this year to invest into convenience and speed and into price, and we're seeing that kind of come back in this back half. So we continue to feel really strong about the top line trajectory that we have in International. And it's a mix of being in high-growth markets, like India and China, as well as really truly kind of maturing our omni playbook in other markets like Mexico and Canada and Chile. So really good things to say in International.
+
+Operator
+
+Our final question is coming from the line of Chuck Grom with Gordon Haskett.
+
+Charles Grom
+Gordon Haskett Research Advisors
+
+Congrats, Doug. Great career. And John, had a hunch when you ran Sam's Club, this would happen. So congrats to you as well. With greater visibility here on tariffs than a few months ago, have you made any changes to assortments for the holidays? And then one follow-up for John David. On the maximum fair pricing change in January, any idea how much that could potentially cap health and wellness sales, not necessarily for 4Q, but also into 2026?
+
+John Furner
+Executive VP, CEO & President of Walmart US and Director
+
+Chuck, it's John. Thanks for the question. No big changes on assortment for the holiday. I think many customers will follow through traditions. I think many customers are looking forward to a great holiday. Throughout the summer, we did make some adjustments on the quantities that we decided to purchase and prioritize things like gifts or backpacks, back-to-school things for kids. We, in some cases, even increased those. So it's really more of a shift in the quantities that we bought, but no big change in assortment plans.
+
+John Rainey
+Executive VP & CFO
+
+And on maximum fair pricing, I believe that there's still information coming in on this in terms of which drugs they're applied to. So probably a little premature to give you a number on the impact. But overall, the health and wellness business is still going to continue to grow. It's been the part of our business that has seen the most growth over the last couple of years, and we still expect that.
+
+Operator
+
+At this time, this concludes our question-and-answer session. I'd like to turn the floor back to Doug McMillon for closing comments.
+
+Doug McMillon
+President, CEO & Director
+
+Thanks, everybody. I really appreciate the relationships that we developed over the years. I appreciate how closely you follow the company, the pressure -- healthy pressure you put on us, the critical thinking test you've given us and I think the company is better off because of your engagement. And I just want to say thank you. I'll miss you guys.
+
+As it relates to the company, what a great business this is. In any environment, you've seen times when the customer has more money and how Walmart is well positioned and times when people are pressured, they come to us. And now the business is stronger in terms of our ability to make it more convenient to shop with us. I think that's been a big development. We're not just known for price, we're known for more than that now. And the runway looks like a long one to me. I have a high degree of confidence in the potential and what this company will deliver with John's leadership and with this leadership team, and I'll be cheering them on and helping in any way that I can. Thank you all.
+
+Operator
+
+Thank you. Ladies and gentlemen, this concludes today's conference. You may disconnect your lines at this time, and have a wonderful day.

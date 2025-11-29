@@ -1,0 +1,164 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from Yingbo Xu at CITIC.
+
+Yingbo Xu
+Citic Securities Co., Ltd., Research Division
+
+[Foreign Language] So, I have two questions. The first question is about -- we are very glad to hear the company's return to entrepreneurship and next decade plan. But any R&D and development needs time. So my first question is that if we just say next year 2026, what kind of technology or product progress can we expect? And also from the investors' perspective, how long can we really see a technology or product jump in future? How long?
+
+And the second question related to BEV. The company's transition from EREV to BEV, it's challenges. So can we please give us more information or confidence in the BEV part, how we prepare for the effective technology reserve and supply chain preparation?
+
+Xiang Li
+Founder, Executive Chairman & CEO
+
+[Interpreted] On your first question about 2026, next year, we'll be launching our AI system based on our internally developed M100 chips. And once this system gets in the car, that's where we will start to see real value and change of user experience.
+
+As I mentioned earlier, our products would go from a passive -- a machine that passively takes orders to a more automated machine and even a proactive machine that can provide services for the users. So, unlike large language models, which can conduct deep research or video generation, this embodies AI products and really benefit our users in their everyday use at a very high frequency.
+
+And on the second part about the next 10 years, unlike programming or traditional rule-based programming, we do not have a feature list or a list of functions. Instead, AI really -- for a complex AI system, if we can solve key issues in some important areas and improve performances in some bottleneck points, then we will start to see a series of changes that are unimagined before. And that's our late understanding of embodied AI and AI system. And this is really the room for imagination for the next 10 years.
+
+On the key in-house BEV-related technologies, we focus on three areas: electric drive, battery systems, and electronic control.
+
+First of all, on the electric drive system, our focus is on efficiency and user experience. We have an in-house developed and outsourced our manufacturing of silicon carbide power chips and in-house developed and in-house manufacturing of power modules and motor controllers, but also establish our own dedicated drive motor factory. We have built a full chain in-house development capability stemming from silicon carbide power chips, power modules to electric motor assemblies. Our electric drive technology covers all BEV and EREV models, ensuring quiet and smooth driving experience while also optimizing for energy consumption and vehicle driving range.
+
+And secondly, on the battery system, our focus is on ultrafast charging and safety. We have built a full stack in-house capability around 5C ultrafast charging batteries with full control over self-chemistry, BMS control modules and algorithms as well as battery pack layouts and structural design and achieving three core advantages across ultrafast charging, long driving range, and long service life.
+
+On the supply front, we also have a combined strategy of external procurement and in-house development. Li Auto's own 5C batteries will enter mass production next year. This industrialization of in-house developed technology will further strengthen our battery safety and also improve user experience.
+
+And thirdly, on the electronic control system, our goal is to provide the best driving experience also through in-house developed hardware and software. On the software side, we have full stack in-house development capability of powertrain control, power management and engine calibration. On the hardware side, our core domain controller PCB layout are all developed in now as well as the underlying software.
+
+Together with our in-house chassis technology, and we were able to enhance driving smoothness and comfort and make the drive experience easy and intuitive to our users. So, through a combination of three electrical technology, including battery electric control and electric drive, we provide our users with a special fast charging long-range and smooth and safe driving experience.
+
+Operator
+
+Your next question comes from Tim Hsiao from Morgan Stanley.
+
+Tim Hsiao
+Morgan Stanley, Research Division
+
+[Foreign Language] So, I have two quick questions focusing on the near-term operation. So, the first one about the product, Li i Series. Could the management team share the latest update on orders and deliveries of Li i8 and i6? And in the meantime, how and when could you start the current supply bottleneck of the Li i6 and i8? And how should we think about the normalized sales volume of the two i Series models in the following months?
+
+Second question is about cash flow. Li Auto actually registered increasing operating cash outflow of about RMB 7.4 billion or free cash outflow of RMB 8.9 billion during this quarter. So, this caused quite a significant drop in company's cash reserve drained away. Why is that? And how should we think about the cash flow in the following quarters? That's my second question.
+
+Xiang Li
+Founder, Executive Chairman & CEO
+
+[Interpreted] This year, we established our BEV portfolio with i8 and i6 models. And respectively, they cover the mainstream and premium segments for the family BEV market. These new cars create a solid foundation for the long-term stable growth of our BEV business.
+
+We also deployed our products to support the dual energy strategy, namely EREV and BEV, which effectively complement each other and to meet the diverse needs of our users. A key highlight that's worth mentioning is that we have made breakthroughs in key regional markets. The i-Series has successfully entered core BEV markets such as Beijing, Shanghai, Jiangsu and Zhejiang, with orders in these areas starting to increase significantly from September.
+
+Li i8 and i6 are steadily going through the path of production ramp-up, delivery acceleration and market penetration. And starting in November to address production ramp-up challenges, we will officially start to begin a dual supplier strategy for our batteries on Li i6. We will ensure consistent performance and quality standards between these two suppliers. We will expect monthly Li i6 production capacity to steadily increase to about 20,000 units starting from early next year.
+
+We sincerely apologize to customers who placed orders on i6 and still waiting for the cars to be delivered. Due to constraints in the supply chain planning of key components and the pace of production ramp-up, your vehicle is still -- the delivery schedule has been affected. We deeply appreciate your trust and choice in Li Auto, and we kindly ask for your continued understanding and patience. Our team is working around the clock to accelerate production and expedite the delivery process.
+
+Tie Li
+CFO & Executive Director
+
+And for the second question, Tim, this is Johnny. I think for the operating cash flow, it's about two reasons. First, as we guided in the last earnings release, the third quarter, we faced great pressure on the deliveries and the delivery decrease will make the revenue decrease, which will finally impact the operating cash flow and also the impact of shortening of the payment cycle to suppliers. And this is, as you may know, it's due to the government's authority starting from good in the national wide.
+
+Actually, we value our partnership with our supply chain partners and actively respond to their requirements. Currently, the settlement period for all our accounts payable is 60 days and the payment is either through bank transfer or bank notes without any business notes or some kind of certificates from the OEM, just the normal bank notes.
+
+Operator
+
+Your next question comes from Ming-Hsun Lee from BofA.
+
+Ming-Hsun Lee
+BofA Securities, Research Division
+
+[Foreign Language] So, my first question is that because next year, the trade-in subsidy policy will change and also the EV purchase tax will increase from 0% to 5%. If the subsidy decline next year, what will be your sales strategy for 2026?
+
+[Foreign Language] So, my next -- second question is that in 2026, your Li i and Li L series will have a new generation. So what can we expect the most -- the new features, specs and what will be the new advantages for your new models?
+
+Xiang Li
+Founder, Executive Chairman & CEO
+
+[Interpreted] We believe this change marks the auto industry's transformation from policy-driven adoption to organic market-driven adoption. And it is precisely during this phase that the value of stronger players can really stand out. As the purchase tax policy phases out, there will be fluctuations in the first short term, we believe. We expect to see a pull-forward effect, namely as customers rush to lock in their incentives at the end of 2025, that will naturally lead to a substantial dip in deliveries in Q1 2026.
+
+Looking into the longer term, we are optimistic about the penetration rate of NEVs. In 2026, the NEV penetration rate in the domestic Chinese market will probably reach between 55% to 60% with the rate in the premium segment exceeding 60%.
+
+At the Auto, our response strategy is to guarantee user benefits and adapt to new standards with our new vehicles rolling out during the transition period. And for the transition period, we have a peace of mind purchase program covering the purchase tax difference for i6 customers who locked in their orders in 2025, but take deliveries in 2026. All of our 2026 models meet the new standards for gas and energy consumption, so they will qualify for 2026 incentives.
+
+In the longer term, we will continue to be dedicated to user value and offset policy impacts through technology advancements. For example, we will be fully adopting 800-volt high-voltage platform and 5C ultrafast batteries to enhance efficiency and reduce energy consumption in 2026. We aim to operate about 4,800 supercharging stations by 2026, with 35% of which will be on highway service stations.
+
+We'll continue to deepen our supply chain localization and leverage economies of scale to stabilize pricing, while accelerate product iteration to keep all 2026 models at the forefront of product competitiveness. As the product strength, we must accelerate model innovation and accelerate further.
+
+In summary, this policy phase out marks a watershed moment for the industry's shift from -- towards high-quality development. Li Auto is poised to achieve a historic breakthrough in deliveries in 2026, and we will navigate this cycle through superior product strength and user value, thereby consolidating our leadership in the premium market.
+
+Usually, on product release dates and more details, we need to choose an appropriate time to release publicly. But today, I still want to take the opportunity to give a glimpse on our product rollout for next year.
+
+The next year for L Series is going to be a major generational upgrade. And the changes are based on deep research of users and their feedback as well as our accumulation of technology over the years, and we want to build a very strong product that's also fundamentally different from the current generation. And all this is to support our goal of reclaiming leadership in the EREV market in 2026.
+
+In terms of model configuration, we'll be going back to the simplified SKU approach, which balances market coverage as well as supply chain efficiency. So, even the base model will not compromise in terms of user experience and will have all features as standards.
+
+And in terms of design upgrades, while retaining our iconic design DNA, we will be upgrading the premium deal and craftsmanship. We'll strike a balance between strong brand identity and fresh user appeal and to refine our products to better serve the needs of family users.
+
+On the core technology front, 5C standard supercharging will be standard on all models and seamlessly integrating with our existing charging network to efficiently address range anxiety. And at the same time, we will reinforce our position as the EREV leader, building on our first-mover advantage and deep expertise in EREVs.
+
+The 2026 L Series refresh is about responding to market uncertainty with certainties on technological upgrades, delivery cadence and user value. We will announce the specific launch timing and further details at the appropriate time. Please stay tuned.
+
+Operator
+
+Your next question comes from Paul Gong at UBS.
+
+Paul Gong
+UBS Investment Bank, Research Division
+
+[Foreign Language] So let me translate. I have two questions. The first one is regarding the recall of the MEGA. I noticed this was announced in Q4. Why are you booking it in Q3? And how did you determine the amount and the sharing between yourself and the supply chain? What's the impact for the Q4 GP margin? And if possible, please also update us about the latest situation of the callback of the recall as well as the latest order of MEGA.
+
+My second question is regarding the AI. Can you please update us the latest development of VLA, large model and the user feedback. If possible, please also give more color for the future targets and upgrades process.
+
+Tie Li
+CFO & Executive Director
+
+Paul, this is Johnny. I think, I will shortly and we will respond to your question very shortly. First, we recognized this in Q3 is just we regard this event as a subsequent event. So it will be accrued in the most recent quarter, we can recall. So, it's a bit accounting standard.
+
+And for the recall, I think we have announcement. I don't want to repeat most of the details covered. And currently, we just make all the battery pack to fulfill the recall requirement, the demand and which means we lower the delivery of our 2025 MEGA delivery. So, which means all the battery pack, we shipped most of them to replace the 2024 recall. I think that best serve the customers' benefit. And that's the company's value proposition.
+
+Xiang Li
+Founder, Executive Chairman & CEO
+
+[Interpreted] We rolled out our VLA Driver to all of our AD Max vehicles in September. And with the strong migration capability of our model across all releases, all of our AD Max users have access to this new model, including the new i Series users as well as the Li L9 users who bought the car back in 2012, and they're able to experience its core capabilities across the board.
+
+User feedback and data analysis have very clearly showed the effectiveness and the level of experience improvement. We can see that Li L Series and i Series owners have a strong -- Vi i Series owners have a stronger willingness to use VLA Driver with both DAU and MPI showing improvements.
+
+In the meantime, users generally report the VLA to be smoother, especially in longitudinal control and more proactive and decisive in detours and more accurate in route selection at complex intersections. And with ongoing iterations, the functions of VLA will continue to achieve further breakthroughs.
+
+For OTA 8.0, which is our first full-scale rollout, the priority is mostly focused on safety. And in early December, we will release the OTA 8.1, which further enhances VLA perception capabilities for more precise and responsive behavior. And by year-end, we will deploy an architecture upgrade to strengthen language behavior interaction and streamline the decision-making process, which will be compatible with our upcoming in-house developed M100 chip.
+
+Beyond core system improvements, we're rolling out a series of innovations, including the industry's first defensive driving AES feature to enhance safety capability and any point to any point full scenario automated parking and a smart finder to find charging stations and park automatically. And all this completes the smart mobility ecosystem.
+
+Operator
+
+Your next question comes from Tina Hou from GS.
+
+Tina Hou
+Goldman Sachs Group, Inc., Research Division
+
+[Foreign Language] Thanks management for taking my questions. So, I just have one question. What is the progress in terms of our in-house developed SoC as well as the operating system and then the progress in terms of open source and future development?
+
+Tie Li
+CFO & Executive Director
+
+Let me answer your question. We believe that AI inference system is a core foundation for intelligent vehicles. To achieve this efficiency, the system must be designed as integrated architecture, not as separate parts. Our in-house design controller hardware and operating system have enabled us to reduce development time from industry average of 15 months to 9 months, while lowering cost by 20%. Many modules in the inference stack still come from suppliers.
+
+To innovate faster together, we open source to Halo OS, enabling collaborative development with our partners and ecosystem. In September, we established the Halo OS Technical Steering Committee, and assisting companies across intelligent vehicle value chain signed the community charter, including OEMs, chip makers, software and hardware service providers and component suppliers.
+
+At the same time, we are undergoing our own vehicle foundation model for physical AI. Our focus is to improve perception, understanding and response, so the model can see further, understand better and react faster.
+
+The AI inference chip is the computing engine of this system. Our controller built with our in-house design chip M100 is now undergoing large-scale system testing. We expected commercial development to take place in the next year. Co-designed with our foundation model, compiler and software system, we expect that the M100 within our next-generation VLA-based autonomous driving system to achieve at least 3x the performance to cost ratio of today's high-end chips. On the basis of highly efficient AI inference and execution systems, our next priority will be faster iteration, continuous performance improvement and lower cost. Development of our next-generation platform and chip has already begun. Thank you.
+
+Operator
+
+Thank you. As we are now reaching the end of our conference call today, I would like to turn the call back over to the company for closing remarks.
+
+Ms. Janet Chang, please go ahead.
+
+Janet Chang
+Director of Investor Relations
+
+Thank you once again for joining us today. If you have further questions, please feel free to contact Li Auto's Investor Relations team. That's all for today. Thank you.
+
+[Portions of this transcript that are marked [Interpreted] were spoken by an interpreter present on the live call.]

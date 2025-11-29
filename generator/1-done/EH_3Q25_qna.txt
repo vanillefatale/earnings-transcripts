@@ -1,0 +1,98 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from Tim Hsiao with Morgan Stanley.
+
+Unknown Analyst
+
+[Foreign Language]
+
+[Interpreted] I am Joey from Morgan Stanley. I would like the management to share more color on the Sandbox initiative. Could you share more from the capital markets perspective in terms of the exact or rough time line that we are currently looking at, particularly on specific crucial stages like OC application, transition from trial operations to official commercial operations. And I've heard that you are currently expanding this Sandbox initiative to 4 regions. And so collectively, what kind of scale are we looking at from this perspective?
+
+And additional separate question is that you are planning to replicate the Sandbox initiative to other Southeast Asian countries. I was wondering, could management share any progress on that front? Are there any engagements that we are having with various countries in that region because we know that eVTOL is a good fit for many of these island countries. So could management share more color on that?
+
+Unknown Executive
+
+[Foreign Language]
+
+[Interpreted] Thank you for your question. So let me answer this question. Actually, in mid-October, the regulators from Thailand, the civil aviation regulators from Thailand has actually approved that we are -- we conducted AUM, Sandbox initiative in Bangkok. This is from point A to point B Sandbox initiative. So the goal for us is to officially commence eVTOL commercial operations in the next 3 months. So currently, we are still conducting daily tests, and we are submitting these test data to the civil aviation regulator in Thailand.
+
+Actually, just for Monday, the Director General of Thailand's Civil Aviation Authority just took a ride of our eVTOL flying across the city center of Bangkok. This marks the very first of its kind for a Director General of Civil Aviation Regulator to ride on eVTOL. And actually, there is an important industry conference called [indiscernible] that's going to be held in Q4 in 2026. So given this important meeting, the goal for the Director General of the Thailand Civil Aviation regulator is to officially launch commercial operation of eVTOL before the conference took place.
+
+Actually, we just released an interview, which is posted on YouTube and other social media platforms. It's available out there. So it's an interview between the founder of our Thailand operator -- between the founder of Aerial company, which is our Thailand operator. So in the interview, they officially mentioned -- they proposed that they are going to have 20 Sandbox initiatives in -- by the end of 2026. So by then, it's going to be commercial operations where it's going to generate the revenue. So judging by this goal, we are looking at delivery of 100 EH216 units in 2026.
+
+And looking at the overall market, given the islands and also the transportation requirements or needs out there, we are looking at a potential over 1,000 units of EH216, I mean, to be delivered to this market. But of course, we understand that there has been some misunderstanding from some industry analysts recently on our commercialization path. However, I want to assure you that with the preparations we have put in place over the years, we are preparing and we are going to see a breakthrough in EHang's commercial operations, both domestic and overseas.
+
+And with the engagement with other regulators in the Southeast Asian countries. I'm going to tell you that they are progressing well. We are maintaining close communication with them. We are currently engaging the authorities in Cambodia, Malaysia and Singapore. Just to give you an information, so the Director General of the Singapore Civil Aviation also visited and saw the 216 as a demo flight. I personally offered the explanation. So it's a new industry, and it's with new, say, demo projects that we are going to enter into our commercial operation in Thailand, it's going to set up a good role model for the rest of the countries -- surrounding countries in Southeast Asia. So hopefully, that answers your question.
+
+Operator
+
+Your next question comes from James [indiscernible] from UBS.
+
+Unknown Analyst
+
+[Foreign Language]
+
+[Interpreted] I was wondering why we're expanding into unmanned product portfolios, for instance, firefighting drones or eVTOL as well as the formation performance drones. What's their contribution to our revenue and also profit. So could management share more on that?
+
+Zhao Wang
+Chief Operating Officer
+
+[Foreign Language]
+
+[Interpreted] This is Wang Zhao. Let me take your question. Actually, the low-altitude economy encompass or consists of both manned business and unmanned business. They are both critical components of this economy. With EHang's decade R&D investments, we first set up to pick manned operation as our goal because this is the most challenging sector because it involves flying men from the ground up to the sky. So it poses significant challenges. And over the years, we have accumulated a lot of technologies and patents. So with our capabilities covering various travel distance, various size of the eVTOLs, we are able to tackle all of these problems.
+
+Unknown Executive
+
+[Foreign Language]
+
+[Interpreted] Actually, for our 216, it's actually a serious product. We have the 216-S, which is for manned transportation, and we have 216-L, which is dedicated for logistics, 216-F dedicated for firefighting and 216-LF dedicated for forest fire extinguishing. And additionally, we just launched VT35 in October. It also has a model dedicated for logistics services and with other application scenarios available. So what we are trying to do is to maximize the technology that we have.
+
+We are going to introduce more models. We are going to expand our product portfolio so as to increase the revenue and try to -- that's our strategy and how we are going about it in the low-altitude economy. Maybe in the past, analysts are not following our unmanned products very closely. So in order to achieve sustainable, healthy development, we need to extend our product portfolio so as to gain more market share. The reason why everyone is focused on the manned eVTOL, that's because it's the most challenging part, and that's the one that we're choosing to focus on first. So hopefully, that's the first bit.
+
+Unknown Executive
+
+[Foreign Language]
+
+[Interpreted] As our manned eVTOL hub is gradually entering commercial operation, we have been expanding the teams, recruit more personnel and try to extend our unmanned business. What we're trying to do is to build a comprehensive product portfolio, which can generate positive cash flow for the company. As we mentioned at the end of last year as well as earlier this year, what we are trying to do is to adjust the product mix and trying to have a more diversified portfolio. So nevertheless, they all fall under the low-altitude economy umbrella. So they are all going to be the major business for our company. So going forward, you're going to see a much more diversified product mix, which all going to contribute to the company's bottom line.
+
+Operator
+
+Your next question comes from [ Chen Yu ] from Guosen Securities.
+
+Unknown Analyst
+
+[Foreign Language]
+
+[Interpreted] I got 2 questions. One is on our VT35. Following the October announcement, we noticed that there is a 1 unit delivery of the VT35 in Q3. I was wondering what the plan is for the airworthiness application as well as type certificate application. And the second question, perhaps I joined the call a little bit late. I'm not sure whether you have touched on that or not. We noticed that the gross profit margin for Q3 declined slightly. I'm not sure whether the gross profit margin will stabilize at around 60%? And what's the cause of the decline for Q3 in gross profit margin?
+
+Zhao Wang
+Chief Operating Officer
+
+[Foreign Language]
+
+[Interpreted] This is Wang Zhao. I'll take your first question. Actually, you're right, we debuted the VT35 model on October 13. Actually, we submitted the TC application as early as March this year. And the airworthiness application or review progress is progressing steadily. Maybe you have noticed that we released the VT35 route flight demo at the October press conference. It actually has successfully completed multiple key tests, including the wind tunnel tests, ground load tests, multi-rotor test flights and many other tests.
+
+Unknown Executive
+
+[Foreign Language]
+
+[Interpreted] And additionally, the design of VT35 incorporates both the multi-propeller as well as fixed wing. It's -- we have accumulated a rich experience in our EH216-S airworthiness review process, and we're going to leverage those learnings. And together with the R&D team as well as the airworthiness application team that we have, it's going to accelerate the IC process. We're pretty confident in that.
+
+Chia-Hung Yang
+CFO & Director
+
+[Foreign Language]
+
+[Interpreted] This is Conor. On the gross profit margin, yes, you're right. There is decline slightly. So the causes behind that, for one, there is repeat purchases from some of our existing major customers. That's a good thing. And also, we have made sales to some of the distributors where we offered some discounts. So these 2 are the causes of the decline in the gross profit margin. And with regard to the VT35, we delivered 1 unit this quarter. However, you should know that this model is still in the trial production phase and not be mass produced, that's why the unit cost of this model is relatively high. But we still have a lot of -- we have received secure -- we have secured orders for VT35.
+
+[Foreign Language]
+
+[Interpreted] And over the long term, we are going to expect our gross margin to remain stable at around 60%. But you're going to see the gross profit margin fluctuate slightly as we introduce more products to enrich our product mix, for instance, the unmanned business, such as the drone formation performance, firefighting and the logistic aircraft and et cetera. As that increases, so it's going to make -- fluctuate to the gross revenue margin. But over the long run, 60% of gross profit margin.
+
+Operator
+
+Your next question comes from Jason Sun with BDS Bank. Jason, you may ask your question. [Operator Instructions] We'll now pause a moment to allow for any final questions. That is all the time we have for questions this evening. Thank you for participating. You may now disconnect.
+
+[Portions of this transcript that are marked [Interpreted] were spoken by an interpreter present on the live call.]

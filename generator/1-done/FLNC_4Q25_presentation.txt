@@ -1,0 +1,128 @@
+Fluence Energy, Inc. (FLNC) Q4 2025 Earnings Call November 25, 2025 8:30 AM EST
+
+Company Participants
+
+John Shelton
+Julian Jose Marquez - President, CEO & Director
+Ahmed Pasha - Senior VP & CFO
+
+Conference Call Participants
+
+George Gianarikas - Canaccord Genuity Corp., Research Division
+Brian Lee - Goldman Sachs Group, Inc., Research Division
+Dylan Nassano - Wolfe Research, LLC
+Ameet Thakkar - BMO Capital Markets Equity Research
+Julien Dumoulin-Smith - Jefferies LLC, Research Division
+David Arcaro - Morgan Stanley, Research Division
+Mark W. Strouse - JPMorgan Chase & Co, Research Division
+Christine Cho - Barclays Bank PLC, Research Division
+Justin Clare - ROTH Capital Partners, LLC, Research Division
+
+Presentation
+
+Operator
+
+Good day, and thank you for standing by. Welcome to Fluence Energy's Fourth Quarter 2025 Earnings Conference Call. [Operator Instructions]
+
+Please note that today's conference is being recorded. I will now hand the conference over to your speaker host, Chris Shelton, VP of Investor Relations and Sustainability. Please go ahead.
+
+John Shelton
+
+Good morning, and welcome to Fluence Energy's Fourth Quarter and Full Year 2025 Earnings Conference Call. Before we begin, I want to share my excitement as our new Investor Relations Officer. I look forward to engaging with our analysts and investor community. I would also like to recognize Lexington May, who has recently taken on a new role at Fluence. Lex has been instrumental in leading our Investor Relations program since our initial public offering and its contributions have greatly benefited our company and its shareholders.
+
+Joining me on this morning's call are Julian Nebreda, our President and Chief Executive Officer; and Ahmed Pasha, our Chief Financial Officer. A copy of our earnings presentation, press release and supplementary metric sheet covering financial results, along with supporting statements and schedules, including reconciliations and disclosures regarding our non-GAAP financial measures are posted on the Investor Relations section of our website at fluenceenergy.com.
+
+During the course of this call, Fluence management may make certain forward-looking statements regarding various matters related to our business and companies that are not historical facts. Such statements are based upon current expectations and certain assumptions that are, therefore, subject to certain risks and uncertainties. Many factors could cause actual results to differ materially.
+
+Please refer to our SEC filings for our forward-looking statements and more information regarding certain risks and uncertainties that could impact our future results. You are cautioned not to place undue reliance on these forward-looking statements, which speak only as of today. Also, please note that the company undertakes no duty to update or revise forward-looking statements for new information.
+
+This call will also reference non-GAAP financial measures that we view as important in assessing the performance of our business. A reconciliation of these non-GAAP measures to the most comparable GAAP measures is available in our earnings materials on the company's Investor Relations website.
+
+Following our prepared comments, we will conduct a question-and-answer session with our team. During this time, to give more participants an opportunity to speak on this call, please limit yourself to one initial question and one follow-up.
+
+Thank you very much. I'll now turn the call over to Julian.
+
+Julian Jose Marquez
+President, CEO & Director
+
+Thank you, Chris. I would like to send a warm welcome to our investors, analysts and employees who are participating in today's call. This morning, I will review the highlights of our fiscal '25 results, the accelerating demand for energy storage and how Fluence is positioned to lead in this growing market.
+
+I will also provide an update on our product road map, our domestic content strategy and progress towards all BBBA compliance. Ahmed will then cover our financial results and '26 outlook.
+
+Turning to Slide 4 and our financial performance. First, I am pleased to report that during the fourth quarter, we signed more than $1.4 billion of orders, which represents a record level. This brings our current backlog to $5.3 billion, setting us up for renewed growth in '26 and beyond.
+
+Second, full year revenue came in at approximately $2.3 billion, about $300 million below our expectations, mostly due to delays by our contract manufacturer in ramping up our newly commissioned Arizona enclosure manufacturing facility. We have implemented corrective actions. Production is improving, and we are confident in meeting delivery commitments and capturing the shortfall during fiscal '26. I will discuss these details further in a moment.
+
+Third, despite this revenue impact, we delivered a record of approximately 13.7% adjusted gross margin for the year and approximately $19.5 million of adjusted EBITDA, which was at the top end of our guidance range. These results were the product of good execution on projects and cost efficiencies.
+
+Fourth, in terms of annual recurring revenue or ARR, we ended fiscal '26 with $148 million, slightly above our original guidance of $145 million. And fifth and finally, we ended the quarter with approximately $1.3 billion in liquidity which puts us in a strong financial position to fund our plans for growth.
+
+Please turn to Slide 5 for details on our order intake and pipeline. Our record $1.4 billion of order intake during the fourth quarter included contributions across all our core markets. Approximately half were for projects located in Australia. For fiscal '26, we currently expect the U.S. market will be the largest contributor of order intake as reflected by our pipeline as of year-end.
+
+Looking ahead, demand for energy storage solution is accelerating worldwide, driven by both the rapid decline in capital cost of storage and surging demand for electricity for intermittent renewables, data centers and industrial complexes. We have seen a significant increase in larger deals in our pipeline that as of September 30, includes 38 deals of at least 1 gigawatt hour, more than double the number from last year and nearly 5x what we saw 2 years ago.
+
+Please turn to Slide 6. Earlier this month, we announced a landmark 4 gigawatt hour project with LEAG, representing the largest battery project in European history. These projects will use our new Smartstack product and play a key role in Germany's energy transformation. We are very pleased to welcome LEAG as a customer and look forward to supporting additional energy transformation projects across European markets.
+
+Please turn to Slide 7 for other emerging drivers supporting our pipeline growth. We have seen significant pickup in demand from data center customers. We are currently in discussions with data center projects representing over 30 gigawatt hours. 80% of these engagements have originated since the end of the quarter. Fluence is ready to lead in this emerging market segment with Smartstack industry-leading density, reliability and safety in addition to its lower cost of ownership.
+
+Another set of emerging opportunities is long-duration storage, which is driven by the need for 6- to 8-hour duration batteries in markets with significant renewable penetration, such as Europe and California. Specifically, in Europe, regulatory schemes are in place to procure this capacity. Today, we have line of sight into 60 gigawatt hours of long-duration storage tenders. Smartstack is well suited to compete in this segment due to its flexible architecture and a scalable design.
+
+Please turn to Slide 8 for an update on our team. To capture the opportunities I have just described, we have sharpened our focus on sales and flawless project execution. To that end, we are excited to welcome Jeff Monday as our new Chief Growth Officer. Jeff leads our global sales and marketing teams. He brings deep experience from Qualcomm, where he built their global enterprise and channel sales teams.
+
+Prior to that, Jeff spent 18 years leading sales teams at Apple. His expertise will help us expand the reach of Fluence's brand to new customers and industries, such as the tech sector. In addition, we have also expanded John Zahurancik's role as Chief Customer Success Officer. As one of our company's founders and an industry pioneer, John will leverage our record of successful execution to further differentiate Fluence from our competition. He will also maximize the value of our solutions for our customers with our digital and services offerings. We believe that these internal changes will streamline our customer experience and position us to win a larger portion of our pipeline.
+
+Please turn to Slide 9 as I discuss our new Smartstack product. We are pleased with the market reception of Smartstack. In addition to its role in winning our LEAG deal, this month, we are deploying the first Smartstack units in a project site in Taiwan. We designed Smartstack with the objective of reducing total cost of ownership for our customers. This means in addition to a lower sales price, Smartstack offers lower cost to install and maintain the system over its useful life with top-of-the-line operational metrics.
+
+Smartstack is the only product available today that offers battery density of 7.5 megawatt hour per unit, letting customers see over 500 megawatt hours of storage per acre. That means bigger projects, optimized sites and better economics, all else equal. Additionally, Smartstack maintains all elements of fire safety and cybersecurity that have been historically a salient element of our offering.
+
+Finally, Smartstack is developed with a flexible system architecture that can adapt to customers' specifications. We expect this will be a key selling point for data centers as technology to reduce system latency evolves and Smartstack kits can be upgraded with new equipment quickly on site. We are engaged with many customers interested in Smartstack and expect it will represent a majority of our orders for this fiscal year.
+
+Please turn to Slide 10 for an update on our domestic content strategy. Our domestic supply chain is a critical advantage for our business, particularly given that we see the majority of our growth coming from the U.S. market. We have contracted with 3 key production facilities located in Tennessee, Utah and Arizona. The Tennessee and Utah facilities produce our battery cells and modules, respectively, and they have successfully met production metrics in line with our expectations at the time of our last earnings call.
+
+The Arizona facility, which manufactures enclosures, has not met its production targets during this period. Without those enclosures, we were unable to deliver our completed products and recognize the corresponding revenue during the fourth quarter. The primary cause of the manufacturing delay has been the slower ramp in staffing the facility, especially for weekend shift. We have been working with our contract manufacturer to execute a plan to improve staffing levels and further optimize the workflow.
+
+As of today, the production rate has improved and staffing levels have in great measure been met, which give us confidence that the manufacturer will meet our desired target rate by the end of this calendar year. We expect to fulfill all of our customer delivery commitments over the course of '26 and book the associated '26 mix revenue. We will continue to work with our U.S. manufacturers to scale production and maintain our leadership position. We are committed to serving our U.S. customers with a competitive domestically manufactured solution.
+
+Please turn to Slide 11 for an update on our prohibited foreign entity or PFE compliance strategy. A quick refresh. The One Big Beautiful Bill or OBBBA included regulations designed to restrict tax credit availability for products manufactured in the U.S. but supported by companies deemed to be PFEs. To that end, our strategy aims to meet our growing volume demand for domestic content from a diverse set of qualified suppliers. I am pleased to report significant progress. More specifically, this month, we have secured a second supplier for domestic battery cells. This manufacturer is compliant with all OBBBA regulations and further derisk our future growth.
+
+Turning to our Tennessee facility. We continue to work actively with AESC to find a comprehensive solution to comply with PFE regulations. The 3 key pieces to achieve non-PFE status include transfer of ownership, IP and material assistance. Significant progress has been made in addressing all these 3 items. The option of Fluence purchasing the facility from AESC remains under consideration as a possible solution. We continue to view the incremental financing need of a potential transaction as being manageable within our available liquidity. Both parties are motivated, and we continue to expect a constructive resolution in advance of the effective dates specified by the law.
+
+I will now turn the call over to Ahmed to discuss our financial results and fiscal '26 guidance.
+
+Ahmed Pasha
+Senior VP & CFO
+
+Thank you, Julian, and good morning, everyone. Today, I will review full year 2025 financial results and our liquidity position, followed by a discussion of our fiscal year 2026 guidance.
+
+Starting with Slide 13, covering fiscal year 2025 performance. Over the course of the year, we generated revenue of around $2.3 billion. As Julian mentioned, this figure falls short of our expectations by $300 million, largely due to a slower-than-anticipated ramp-up at one of our contract manufacturing facilities in Arizona. While this shortfall was a challenge, I want to highlight that our disciplined execution and operational focus enabled us to deliver on our profitability and bottom line objectives.
+
+Regarding production, most of our U.S.-based contract manufacturing facilities have been operating at their targeted capacities, including both cell and module manufacturing. However, the newly commissioned enclosure facility in Arizona faced some challenges, primarily due to the longer lead time to attract and train the workforce necessary to drive productivity. This was the primary factor behind the lower-than-expected revenue in the quarter.
+
+Working in collaboration with our contractor, we have seen significant production improvement since September. The majority of personnel required to execute our plan have now been hired, and we are on track to achieve our targeted production levels. Our adjusted EBITDA for the year was $19.5 million, which came at the top end of our guidance range even as revenue fell short of expectations. This outcome underscores our operational excellence and strong execution.
+
+Turning to Slide 14. We achieved a record level of 13.7% adjusted gross margin for the year, above the top end of our expectations. In addition, our rolling 12-month adjusted gross margin is consistently at or above 13%. This reflects our strong focus on productivity and successfully leveraging our supply chain.
+
+Turning to Slide 15. We also finished the year with a record of approximately $1.3 billion in liquidity, up $300 million compared to the end of fiscal 2024. This includes more than $700 million in cash with the rest available through our credit facilities. This strong position gives us confidence to make investments that will grow our business and strengthens Fluence's reputation as a reliable partner.
+
+Looking ahead to fiscal 2026, we intend to invest about $200 million in our business. This includes approximately $100 million in our domestic supply chain and the rest in working capital to support 50% revenue growth.
+
+Turning to Slide 16. Today, we are introducing our guidance for fiscal year 2026. We expect revenue in the range of $3.2 billion to $3.6 billion. We began this year with 85% of our guidance midpoint already in our backlog. This strong coverage materially derisks our FY '26 revenue compared to the historical level of around 60%. We anticipate realizing 1/3 of this revenue in the first half of the year and the rest in the second half.
+
+We expect our adjusted gross margin to be between 11% and 13%. This range reflects a period of higher costs associated with the rollout of our Gridstack Pro product, which will make up 70% of our 2026 revenue. We anticipate margin will improve over time as we continue to leverage our disciplined execution and our growing scale. We expect operating expenses to grow at less than half of the pace of revenue, consistent with our guidance in prior years. This includes increased spending on sales, marketing and R&D to support future revenue growth. For adjusted EBITDA, our guidance of $40 million to $60 million reflects expected revenue, adjusted gross margin and higher operating costs from planned investments in sales and product initiatives.
+
+With respect to ARR, we are initiating guidance of approximately $180 million by the end of fiscal '26, representing over 20% year-over-year increase. In summary, with our strong liquidity, focused execution and robust order book, we are well positioned to deliver on our plan.
+
+With that, I would like to turn the call back to Julian for his closing remarks.
+
+Julian Jose Marquez
+President, CEO & Director
+
+Thanks, Ahmed. Before we take your questions, I would like to conclude with the following 5 takeaways. Market leadership. Demand for energy storage is accelerating globally. Fluence is capitalizing on this environment with notable wins such as the 4 gigawatt hour LEAG project in Europe and a rapidly growing pipeline of data center customers and other large-scale deals.
+
+Product leadership. Smartstack is a key differentiator versus the competition. With increased density and a very competitive total cost of ownership, we expect Smartstack to drive a majority of future orders.
+
+Operational execution. We have made significant progress to strengthen our domestic supply chain advantage. We have addressed production issues at the Arizona facility, and all our domestic manufacturers are now on track to meet our expectations.
+
+Compliance and readiness. We have strengthened our ability to deliver PFE compliant products to customers with the addition of a second domestic battery cell supplier. We continue to make progress towards OBBA compliance with our Tennessee manufacturer and expect resolution ahead of regulatory deadlines.
+
+Looking forward, these achievements position us to maximize stakeholder value by consistently meeting our commitments to customers and shareholders, reinforcing our reputation as a trusted industry leader.
