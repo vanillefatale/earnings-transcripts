@@ -1,0 +1,77 @@
+Symbotic Inc. (SYM) Q4 2025 Earnings Call November 24, 2025 5:00 PM EST
+
+Company Participants
+
+Charles Anderson - Vice President of Investor Relations & Corporate Development
+Richard Cohen - Chairman of the Board, President & CEO
+Izilda Martins - Chief Financial Officer
+
+Conference Call Participants
+
+Nicole DeBlase - Deutsche Bank AG, Research Division
+Joseph Giordano - TD Cowen, Research Division
+Andrew Kaplowitz - Citigroup Inc., Research Division
+Mark Delaney - Goldman Sachs Group, Inc., Research Division
+Colin Rusch - Oppenheimer & Co. Inc., Research Division
+Guy Drummond Hardwick - Barclays Bank PLC, Research Division
+Derek Soderberg - Cantor Fitzgerald & Co., Research Division
+James Ricchiuti - Needham & Company, LLC, Research Division
+Kenneth Newman - KeyBanc Capital Markets Inc., Research Division
+Mike Latimore - Northland Capital Markets, Research Division
+Greg Palm - Craig-Hallum Capital Group LLC, Research Division
+Keith Housum - Northcoast Research Partners, LLC
+
+Presentation
+
+Operator
+
+Good day, and thank you for standing by. Welcome to the Symbotic Fourth Quarter 2025 Financial Results Conference Call. [Operator Instructions] Please be advised that today's conference is being recorded. I would now like to turn the conference over to your speaker for today, Charlie Anderson. Please go ahead.
+
+Charles Anderson
+Vice President of Investor Relations & Corporate Development
+
+Hello. Welcome to Symbotic's Fourth Quarter and Fiscal Year 2025 Financial Results Webcast. I'm Charlie Anderson, Symbotic's Vice President of Investor Relations. Some of the statements that we make today regarding our business operations and financial performance may be considered forward-looking. Such statements are based on current expectations and assumptions that are subject to a number of risks and uncertainties. Actual results could differ materially. Please refer to our Form 10-K, including the risk factors. We undertake no obligation to update any forward-looking statements.
+
+In addition, during this call, we will present both GAAP and non-GAAP financial measures. Reconciliation of GAAP to non-GAAP financial measures is included in today's earnings press release, which is distributed and available to the public through our Investor Relations website located at ir.symbotic.com.
+
+On today's call, we're joined by Rick Cohen, Symbotic's Founder, Chairman and Chief Executive Officer; and Izzy Martins, Symbotic's Chief Financial Officer. These executives will discuss our fourth quarter and fiscal year 2025 results and our outlook, followed by Q&A.
+
+With that, I'll turn it over to Rick to begin. Rick?
+
+Richard Cohen
+Chairman of the Board, President & CEO
+
+Thank you, Charlie. Good afternoon, and thank you for joining us to review our most recent results. We made strong progress in fiscal year 2025 and finished the year with good momentum. For the full year, we increased revenue by 26% year-over-year, while delivering significant margin expansion and free cash flow generation. The cash on our balance sheet now exceeds $1.2 billion. During the fiscal year, we also expanded and upgraded our product portfolio. We added micro fulfillment as a new category to address e-commerce and upgraded our storage structure to a proprietary next-generation design that offers leading density and rapid installation.
+
+When we marry up our innovative bot technology that can handle goods of many sizes, this new highly dense storage structure and our proprietary software, we believe we can unlock more opportunities than ever before. This includes everything from smaller buildings to e-commerce facilities to perishable facilities where square footage is at a premium. We are seeing this play out with a growing sales pipeline as our solutions deliver space savings and installation efficiencies that result in higher value. Customers are already taking advantage of this breakthrough in installation efficiency. Notably, our largest customers opted to utilize our next-gen storage to combine what previously took 2 separate deployments or phases into one single phase for new sites.
+
+That means a Phase 1 system deployment when we enter a distribution center for the first time, we'll be able to do twice as much work versus when we began deployments for this customer previously. And the overall time to install and achieve acceptance for the same amount of case output in this example will be cut by more than half, generating significant savings, reducing disruption and generating a larger and faster return on investment for customers. Customers are also taking advantage of the modular build qualities of our next-gen storage with a handful of deployments that began in the fiscal fourth quarter, connecting next-gen storage to prior gen storage at the same site.
+
+And GreenBox is moving forward with next-gen storage, signing up to utilize it at new sites near Dallas and Chicago, both of which were signed in the fiscal fourth quarter. Notably, with these sites, GreenBox coverage will extend from California to the Midwest to the Southeast. We also finished the fiscal year by signing a new customer, Medline, the largest provider of medical surgical products and supply chain solutions serving all points of care. This marks our first customer in the health care vertical, where we believe the case for automation is very strong given the importance of accuracy, speed and cost. This is also one of the largest potential new verticals available to us. It is worth noting that there are over 500 health care distribution centers in the U.S. alone with a combined 76 million square feet of warehouse space according to the Health Industry Distributors Association.
+
+With our scale, rapidly improving project execution and growing set of capabilities across the supply chain, we are in a better place than ever to bring our new customers covering multiple verticals, geographies and use cases. Our focus in this has never been greater. In summary, we delivered on the commitment we made at the start of the year to achieve strong top line growth and a significant rise in operational systems, thanks to improvements in our deployment process.
+
+This also enabled us to deliver strong margin expansion. Looking ahead, our key objectives for fiscal year 2026 are; number one, harness our growing product portfolio and capabilities to broaden our opportunities with customers, particularly in e-commerce with our micro fulfillment solution; two, unlock higher margins by driving additional value for our customers along with operational improvements; three, continue to invest in our innovation engine to expand our capabilities and support future growth. I just want to end by thanking our team for their efforts along with our customers and investors for their support.
+
+I'll now turn it over to Izzy, who will discuss our financial results and outlook. Izzy?
+
+Izilda Martins
+Chief Financial Officer
+
+Thanks, Rick. Fiscal fourth quarter revenue grew 10% year-over-year to $618 million, exceeding our expectations. Year-over-year revenue growth in the quarter was driven by the expansion of the number of systems in operation, fueling higher recurring revenue, along with continued progress on our paid development program. Due to higher stock-based compensation, reflecting our commitment to attracting and retaining top talent and restructuring expenses primarily associated with acquisition integration activities, our net loss for the fiscal fourth quarter was $19 million versus net income of $16 million in the fourth quarter of fiscal year 2024. Adjusted EBITDA in the fiscal fourth quarter of $49 million was at the high end of our forecast due to revenue and gross margin upside and up from $42 million in the fourth quarter of fiscal year 2024.
+
+Our backlog of $22.5 billion remained in a strong position. The increase from $22.4 billion last quarter was due to final pricing on projects started and the addition of backlog associated with Medline offsetting revenue recognized in the quarter. In our fiscal fourth quarter, we began 10 new system deployments. As Rick highlighted, this included 2 deployments for GreenBox and 1 for Medline. We also had 6 systems go operational in the quarter, bringing our total to 48 operational systems or nearly double the level at the end of fiscal year 2024.
+
+Importantly, for the systems that went operational for our largest customer in the fiscal fourth quarter, we observed nearly 3 months of improvement in the time between start of installation and customer acceptance compared with our historical average with this same customer. This period of deployment is a portion that is most within our control, and it is also when we recognize the highest level of revenue and profit. With the continued growth in operational systems, we saw our software revenue grow 57% year-over-year to $9.3 million in the fiscal fourth quarter, and operations services revenue grew 21% year-over-year to $26.9 million.
+
+Turning to margins in the fiscal fourth quarter. System gross margin continued its trend of significant year-over-year improvement, driven by disciplined cost management, solid project execution and strong supply chain partnership as we roll out our next-gen structure and deliver increasing value to our customers. We expect to see additional expansion in systems gross margin. Software maintenance and support also saw substantial year-over-year gross margin gains, benefiting from continued scale and exceeding 70% for the full year.
+
+In Operations Services, we posted a loss as we increased investment in additional resources to support certain sites and ensure their long-term success. Operating expenses on a GAAP basis in the fiscal fourth quarter were $149 million. Adjusted operating expenses in the quarter were $87 million, up sequentially primarily due to strategic R&D investments in supporting our expanding product portfolio and cloud-based software tools. These investments are in areas where we see the greatest potential to increase value and long-term impact. We finished the quarter with cash and cash equivalents of $1.2 billion, up from $778 million in the fiscal third quarter due to the timing of cash receipts tied to project milestones and the signing of new projects.
+
+Now turning to the forecast. As I settled into the CFO role, I want to share some context for how I think about guidance. We will continue to guide 1 quarter ahead with a focus on transparency and consistency. My approach will be to set a guidance range reflecting where we expect to land based on our best view of the deployment schedules and a balanced assessment of both risks and opportunities. With that in mind, for the first quarter of fiscal 2026, we expect revenue between $610 million to $630 million, representing year-over-year growth between 25% and 29% and adjusted EBITDA between $49 million and $53 million.
+
+I want to reiterate what we highlighted during last quarter's earnings call. That is the introduction of our proprietary next-gen storage structure has resulted in a realignment of deployment schedules. While this has no impact on our $22.5 billion of backlog, it does have an impact on how our revenue is phased throughout the fiscal year, with the quarters in the first half of fiscal 2026 showing less pronounced sequential growth.
+
+We believe this new technology advancement, combined with the unique capability of our proprietary bots and software is resonating with customers as they recognize our competitive differentiation and the significant value our solution creates. It also unlocks new opportunities across the supply chain as well as the opportunity for more efficient deployments, which we expect will contribute to higher margins over time for Symbotic.
+
+With that, we now welcome your questions. Operator, please begin the Q&A.

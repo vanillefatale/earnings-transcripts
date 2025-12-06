@@ -1,0 +1,134 @@
+UiPath Inc. (PATH) Q3 2026 Earnings Call December 3, 2025 5:00 PM EST
+
+Company Participants
+
+Allise Furlani - Senior Director of Investor Relations
+Daniel Dines - Co-Founder, CEO, & Executive Chairman of the Board
+Ashim Gupta - CFO & COO
+
+Conference Call Participants
+
+Bryan Bergin - TD Cowen, Research Division
+Jacob Roberge - William Blair & Company L.L.C., Research Division
+Austin Williams - Wells Fargo Securities, LLC, Research Division
+Michael Steven Richards - RBC Capital Markets, Research Division
+Scott Berg - Needham & Company, LLC, Research Division
+Arsenije Matovic - Wolfe Research, LLC
+William Kingsley Crane - Canaccord Genuity Corp., Research Division
+Chirag Ved - Evercore ISI Institutional Equities, Research Division
+Dominique Manansala - Truist Securities, Inc., Research Division
+
+Presentation
+
+Operator
+
+Greetings, and welcome to the UiPath Third Quarter 2026 Earnings Conference Call. [Operator Instructions] Please note that this call is being recorded.
+
+I will now turn the conference over to your host, Allise Furlani, Vice President of Investor Relations. Thank you. You may begin.
+
+Allise Furlani
+Senior Director of Investor Relations
+
+Good afternoon, and thank you for joining us today to review UiPath's third quarter fiscal 2026 financial results which we announced in our earnings press release issued after the close of the market today. On the call with me are Daniel Dines, Founder and Chief Executive Officer; and Ashim Gupta, Chief Operating and Financial Officer, to deliver our prepared comments and answer questions.
+
+Our earnings press release and financial supplemental materials are posted on the UiPath's Investor Relations website. These materials include GAAP to non-GAAP reconciliations. We will be discussing non-GAAP metrics on today's call. This afternoon's call includes forward-looking statements regarding our financial guidance for the fourth quarter fiscal year 2026 and our ability to drive and accelerate future growth and operational efficiency and grow our platform product offerings and market opportunity. Actual results may differ materially from those expressed in the forward-looking statements due to many factors, and therefore, investors should not place undue reliance on these statements.
+
+For a discussion of the material risks and uncertainties that could affect our actual results, please refer to our annual report on Form 10-K for the year ended January 31, 2025, and our subsequent reports filed with the SEC. Forward-looking statements made on this call reflect our views as of today. We undertake no obligation to update them.
+
+I would like to highlight that this webcast is being accompanied by slides. We will post the slides and a copy of our prepared comments to our Investor Relations website immediately following the conclusion of this call. In addition, please note that all comparisons are year-over-year, unless otherwise indicated.
+
+Now I would like to hand the call over to Daniel.
+
+Daniel Dines
+Co-Founder, CEO, & Executive Chairman of the Board
+
+Thank you, Allise. Good afternoon, everyone. Thanks for joining us. We are pleased with our performance in the quarter, which was driven by team's focus, consistent execution and progress across our strategic priorities. Our automation strategy combining the reliability of deterministic automation with the intelligence and adaptability of agentic AI continues to align with what customers want most: trusted enterprise-grade automation that delivers tangible ROI fast.
+
+We've always believed that our approach to automation, agents and orchestration creates a durable competitive edge. This quarter's results reinforce the value of our platform and the improved execution from our teams. We beat the high end of our guidance across all metrics levering third quarter ARR of $1.782 billion, up 11%. Further reinforcing my conviction that our business is stabilizing and being driven by $59 million in net new ARR. Revenue was $411 million, an increase of 16%.
+
+Our disciplined approach to operational efficiency continues to strengthen profitability, resulting in our first GAAP profitable third quarter while increasing non-GAAP operating income to $88 million or a 21% margin, and we are on track to be GAAP profitable for the full year 2026 for the first time.
+
+The momentum we are seeing in the market isn't just in our results. It's in how customers and partners are engaging with UiPath. You could see that momentum in action at FUSION where thousands of customers, partners and developers joined us in Las Vegas to see how agentic AI is delivering measurable ROI today. We showcased advancements across the UiPath platform, including new integrations with partners like OpenAI, Microsoft, NVIDIA, Google and Snowflake and real customer storage where we had leading enterprises across key verticals, sharing how they are transforming mission-critical processes with Agentic Automation.
+
+Customers tell us they get the most impact from a unified platform, bringing together deterministic automation, agentic intelligence and Process Orchestration. And we are seeing that play out that enterprises move quickly from pilots to production. Over 950 companies are developing agents, and there have been more than 365,000 processes orchestrated with Maestro across our platform.
+
+A powerful example is one of the world's largest investment management firms which shows UiPath for Maestro's vendor-agnostic architecture and ability to connect systems. They've already demonstrated measurable impact through multiple agentic POCs integrating with ServiceNow, Confluence and specialized LLMs to orchestrate end-to-end workflows and delivering a 95% reduction in time to value and tens of millions in projected savings.
+
+With more than [ 260 ] automations, they expanded this quarter to increase their adoption of Agentic Automation. And together with Ashling, has identified over 40 high-value use cases expected to generate more than $200 million in savings over the next 3 years.
+
+These stories demonstrate how our innovation is meeting customers where they are and helping them scale. And it's that customer energy that inspire many of the new capabilities we announced at FUSION. One of the most exciting is UiPath ScreenPlay, where we are combining traditional RPA with the power of LLMs build more reliable automation. ScreenPlay, understands intent, build multistep plans and execute them autonomously, giving developers and business users a faster way to automate complex UI tasks.
+
+Our ScreenPlay technology is one of the best position in the computer use benchmark World OS (sic) [ OSWorld ]. We are also helping customers move from pilot to production faster through continued enhancement to Agent Builder, including a new visual canvas for debugging and optimization and reusable templates that make automation easier to scale, that focus on usability is driving real customer success.
+
+A great example is USI Insurance Services which selected UiPath because of our multi-agent orchestration capabilities. Working with Lydonia, they are automating a complex workflow where UiPath agents and robots process incoming requests and generate output, all orchestrated by Maestro. USI expects over $32 million in savings over the next 3 years.
+
+As more customers scale their Agentic Automation programs, we're expanding that what agents can do, especially in document-heavy processes. This quarter, we introduced agentic capabilities to our Intelligent Extraction and Processing, our IXP product which delivers specialized extraction and validation agents that handle complex nondeterministic scenarios and reduce manual review. And with UiPath's autopilot for IXP, customers can automatically generate document template saving hours of setup time per project.
+
+A great example is Corewell Health, which plans to leverage IXP to automate the processing of referral information into Epic, in addition to improving efficiency and accuracy, they are on track to redirect $1.5 million of labor savings this year and expect over $3 million next year.
+
+Something like this show how our innovation is helping customers turn manual document-heavy work into intelligent automating processes. And these strong results continue to earn us third-party recognition. We were named a leader in the inaugural Gartner Magic Quadrant for intelligent document processing which we believe highlights our capabilities for data and information extraction to help enterprises unlock value from their documents in the age of AI and Agentic Automation.
+
+We are also recently recognized as a leader in the Gartner Magic Quadrant for AI augmented software testing tools, which, in our view, validates our vision for Agentic Testing and the results our customers achieved with UiPath Test cloud. One example is [ Energie Energy ], which adopted UiPath test cloud to address testing challenges across SAP and its digital apps. With Agentic Testing and autonomous self-healing, they expect 30% better coverage, 1.5x faster cycles and almost $2.9 million in savings over 3 years.
+
+And lastly, we are proud to be recognized by Everest Group as both a leader and star performer in the 2025 Intelligent Process Automation Platform and full suite IPAP peak metrics assessment, this recognition underscores the strength of our end-to-end platform, our innovation in Agentic Automation and AI integration and the tangible business impact we are delivering for customers.
+
+These recognitions highlight the strength of our unified platform, which connects every layer of automation from discovery to orchestration within a single governed system. They also reinforce what we hear directly from customers. The power of our platform comes from how it works together.
+
+And at the center of that platform is Maestro, our orchestration engine. Maestro builds beyond managing automation it serves as the control plane for how work is orchestrated across the enterprise, powering through end-to-end automation at scale. A powerful example is the leading U.S. managed care provider that is leveraging UiPath agents, robots and Maestro to tackle a backlog of more than 140,000 provided appeals. They automated the entire workflow using agents to classify forms, robots to handle processing and Maestro to orchestrate the process. The result is a streamlined operation targeting 80% autonomy in year 1.
+
+As Maestro becomes more deeply embedded in customer operations, we are continuing to enhance its capabilities with new features like case management and process apps, Case management helps customers model and manage now-running processes, while process apps enable customers to build tailored end user experiences with real-time visibility and actionable insights to drive proactive operational improvement.
+
+In order to realize the value of agentic, customers need a strong foundation in deterministic. And this quarter, we announced the general availability of API workflows, which delivers API-centric automations that complement RPA and agents. We believe this strengthens our position as one of the industry's most comprehensive automation platform. We are continuing to expand our cloud footprint in important markets like Switzerland.
+
+And at GITEX, we announced the launch of Automation Cloud in the UAE. This expansion gives customers the ability to run automation, AI agents and orchestration in a secure, locally hosted environment that meets regional data residency and governance requirement. The power of our platform really comes to life when it's applied to industry-specific challenges. We are focused on building vertical solutions that help customers accelerate our constant ROI.
+
+The capabilities we gained through our Peak acquisition earlier this year, are extending these vertical capabilities. By combining their industry-leading pricing and inventory optimization technology with Maestro and our broader platform capabilities with creating an agentic merchandising, pricing and inventory solution with Debenhams Group. We are taking this joint agentic solution to market with other leading retailers and manufacturers expanding the reach of our platform across key verticals.
+
+These industry solutions are just one way we're helping customers realize faster value. We're also enabling them through deep collaborations with global technology leaders. At FUSION, this collaboration came to life through new integrations, including with Microsoft Azure AI Foundry, enabling UiPath agents to work seamlessly with Azure agents and models. Using model context protocol, UiPath, expands integrations with Microsoft Copilot and empowers organizations with the trust and governance needed to run agents at scale. We announced a collaboration with OpenAI to deliver a ChatGPT connector bringing OpenAI's Frontier Model directly into enterprise workflows, simplifying AI agent development and accelerating time to value.
+
+We also launched a new conversational agent with Google's Gemini models enabling natural voice-driven automation without complex coding. Additionally, we introduced a new integration with NVIDIA, allowing organizations to enhance high trust workflows like fraud detection and health care with AI models deployed through NVIDIA NIM Microservices. And finally, we partner with Snowflake to combine Agentic Automation with Snowflake Cortex AI, helping businesses to data insights into fast autonomous action.
+
+While our technology partnerships expand what's possible with our platform, our go-to-market partners make that innovation real for customers. During the quarter, we expanded our collaboration with Deloitte to help organizations accelerate how they build, test and release software. By combining the genetic testing capabilities of UiPath Test Cloud with Deloitte Ascend, we are transforming the testing life cycle with Agentic AI to automate repetitive tasks, we take changes and execute tests autonomously. And with autopilot for testers and Agent Builder embedded in Ascend, Deloitte teams can leverage over 1,500 prebuilt testing bots and AI agent.
+
+Lastly, we are encouraged by our federal sector performance this quarter, where efficiency mandates are creating a long-term tailwind for automation. Highlights this quarter include expansions with the U.S. Coast Guard to modernize core systems and improve mission readiness through automation and AI. The Department of Veterans Affairs which is automating disability claims and enhancing contact center service for veterans and the social security administration which is migrated to the cloud to expand to our IDP solutions to help accelerate benefits processing.
+
+Our unified platform and innovation continue to strengthen these partnerships and underscore the significant opportunity ahead in the public sector, even as the federal purchasing environment remains dynamic with pockets of strength.
+
+Looking ahead, our continued innovation is expanding what's possible for customers and delivering measurable results for the power of deterministic and Agentic Automation. What continues to set UiPath apart is our unified end-to-end platform architecture, delivering one connected experience from discovery to deployment with Maestro orchestrating work across systems and our built-in governance capabilities, ensuring control, compliance and trust, I am pleased with the progress we are making in improving the execution of our teams and the pace of innovation across product organization is delivering for customers. We feel well positioned as we close out the year and continue executing on our vision for the future.
+
+With that, I'll turn the call over to Ashim.
+
+Ashim Gupta
+CFO & COO
+
+Thank you, Daniel, and good afternoon, everyone. Before turning to the financials, I'd like to provide a quick operational update. This quarter reflects the meaningful progress we've made in sharpening execution across the strategic priorities Daniel outlined earlier this year, including strengthening customer relationships, accelerating innovation and driving operational rigor across the organization.
+
+Through these areas of strategic focus, we have improved performance of our sales team. Deepened areas of strategic focus, we have improved performance of our sales team, deepen engagement and strengthened alignment with our customers' priorities. We're partnering earlier co-developing solutions and scaling automation faster. Our broad installed base gives us unique visibility into enterprise workflows helping customers connect people, robots and AI agents to deliver measurable outcomes at scale.
+
+Our pace of innovation continues to accelerate, supported by deeper ecosystems, integrations and advancements in our Agentic Automation platform. Combined with disciplined execution, these efforts contributed to another solid -- another quarter of solid top line and bottom line performance, including our first GAAP profitable third quarter and putting us on track for our first GAAP profitable year.
+
+And we're seeing customers lean in a great proof point of our end-to-end platform is a leading cybersecurity company that expanded to our agentic products. With support from our Forward Deployed Engineers, they are leveraging UiPath agents, robots, IXP and Maestro to create seamless end-to-end workflow. IXP extracts data from purchase orders across 700 vendors, robots retrieve quote details from SAP, and agent supply confidence scores before passing the data to sales order creation. Maestro orchestrates the process, ensuring speed, accuracy and control which is expected to help them improve their accuracy rate from 50% to 90%.
+
+Turning to the quarter. Unless otherwise indicated, I will be discussing results on a non-GAAP basis, and all growth rates are year-over-year. I also want to note that since we price and sell in local currency, fluctuations in FX rates impact results. Rates have remained largely stable since the time of our last earnings call through the end of the quarter. And as a result, there is no incremental FX impact to our third quarter results.
+
+Third quarter revenue grew to $411 million, an increase of 16%. Normalizing for the year-over-year FX tailwind of approximately $5 million, revenue grew 14%. ARR totaled $1.782 billion, an increase of 11%. This included a $6 million year-over-year FX tailwind. Net new ARR was $59 million.
+
+We ended the quarter with approximately 10,860 customers. We continue to be successful in signing new enterprise logos that align with our strategy of targeting long-term customers with a propensity to invest, including new logos like Nuffield Health, Resurs Holding and an Australian brick manufacturer, which selected UiPath due to the breadth of our Agentic Automation platform, and they will be leveraging UiPath robots, agents, IXP, Maestro and process mining to automate sales order processing.
+
+As with prior quarters, the vast majority of customer attrition continues to be on the lower end. Customers with $100,000 or more in ARR increased to 2,506 and continue to have a strong dollar-based net retention rates. While customers with $1 million or more in ARR increased to 333. Dollar-based gross retention remained best-in-class at 98%, and our dollar-based net retention rate was 107%, underscoring the durability of our customer base as they embrace our Agentic Automation solutions. Adjusting for FX, dollar-based net retention rate was 107%.
+
+Remaining performance obligations increased to $1.265 billion, up 12%. Normalizing for the FX tailwind, which was approximately $20 million, RPO grew 10%. Current RPO increased to $840 million, up 17%.
+
+Turning to expenses. We delivered third quarter overall gross margin of 85%, and software gross margin was 91%. Third quarter operating expenses were $261 million. We delivered our first GAAP profitable third quarter, with GAAP operating income of $13 million, up from the prior year GAAP operating loss of $43 million.
+
+GAAP operating income included $71 million of stock-based compensation expense. Third quarter non-GAAP operating income was $88 million, representing a 21% margin, up more than 700 basis points year-over-year and driven by our continued focus on operational efficiency.
+
+Third quarter non-GAAP net income was $85 million, which excludes a nonrecurring noncash tax benefit of $184 million from the release of a valuation allowance on certain deferred tax assets. Third quarter non-GAAP adjusted free cash flow was $28 million. We ended the quarter with a healthy balance sheet of $1.5 billion in cash, cash equivalents and marketable securities and no debt. Now turning to guidance.
+
+We are pleased with the team's execution in what continues to be a variable macroeconomic environment. We continue to maintain a prudent outlook and guide to what we see in front of us. As Daniel mentioned, we are pleased with the progress of our public sector team. As a reminder, while we are encouraged by early traction with our agentic capabilities, adoption is still in its early phases, and we don't expect a material top line contribution in fiscal 2026. Lastly, since the end of the quarter, the Japanese yen has depreciated against the U.S. dollar, creating a headwind to fourth quarter guidance.
+
+Turning to the specifics of our guide. Despite the incremental FX headwind from the yen, we are raising guidance for the progress we've made on our operating priorities and the strength we are seeing in the business. For the fourth fiscal quarter 2026, we expect revenue in the range of $462 million to $467 million. This range reflects an approximately $3 million headwind driven by FX rate movements since we provided guidance on our second quarter earnings call. ARR in the range of $1.844 billion to $1.849 billion. This range reflects an approximately $3 million headwind driven by FX rate movements since we provided guidance on our second quarter earnings call.
+
+Non-GAAP operating income of approximately $140 million. And we expect fourth quarter basic share count to be approximately 536 million shares. And finally, we continue to expect fiscal year 2026 non-GAAP adjusted free cash flow of approximately $370 million and non-GAAP gross margin of approximately 85%. Thank you for joining us today, and we look forward to speaking with many of you during the quarter.
+
+With that, I will now turn the call over to the operator. Operator, please poll for questions.

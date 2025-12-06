@@ -9,8 +9,8 @@ echo =====================================
 echo.
 
 :: list.txt 파일이 없으면 자동 생성 안내
-if not exist list.txt (
-    echo list.txt 파일을 찾을 수 없습니다.
+if not exist 0-list.txt (
+    echo 0-list.txt 파일을 찾을 수 없습니다.
     echo 예시 형식:
     echo XOM_3Q25
     echo ABBV_3Q25
@@ -21,7 +21,7 @@ if not exist list.txt (
 )
 
 :: list.txt 읽어서 파일 생성
-for /f "usebackq tokens=*" %%A in ("list.txt") do (
+for /f "usebackq tokens=*" %%A in ("0-list.txt") do (
     set NAME=%%A
     if not exist %%A_presentation.txt (
         echo %%A_presentation.txt 생성 중...

@@ -1,0 +1,221 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question comes from the line of Matt Bullock of Bank of America.
+
+Matthew Bullock
+BofA Securities, Research Division
+
+First, I wanted to ask about AI Studio, specifically the self-serve launch. Anything you can share in terms of early learnings from that launch? Any feedback in terms of ARR contribution from the self-serve launch? And then separately, I would love to hear more color on the influence AI Studio is having on the renewals this year, given that it's the first renewal cycle you guys have had being a multiproduct company.
+
+Anne Raimondi
+COO & Head of Business
+
+Hi Matt, it's Anne. I'm happy to answer that. In terms of AI Studio Self-serve, we just launched that last quarter. And so we are -- what we're pleased with is just the wide adoption and customers really trying it out, customers of all sizes, including those that regularly buy self-serve from us. So that's the good news is it just really democratizes access to AI studio and people get to try it and actually get value out of it. So we're continuing to watch that and watch consumption on that. It also gives a signal and the sales team signal on where to call into the self-serve signals in corporate and enterprise. So excited about that and continue to watch that.
+
+You asked a good question about renewals. I think AI Studio has been a real help in renewal conversations. One, it's strategic. There's just more for us to sell to customers, and we're really helping to advise them on their AI strategy overall. So we're pleased with how that's been helping renewals. And then for customers that have bought AI Studio, what we're really paying attention to is adoption and consumption. And so getting as many use cases implemented as possible, having them see real value. So those are how we're monitoring everything around AI Studio.
+
+Operator
+
+Our next question comes from the line of Steven Enders of Citi.
+
+Steven Enders
+Citigroup Inc., Research Division
+
+Okay. And great to work with you and best of luck on your next adventure there. I guess just to start, I want to ask on, I guess, within the tech vertical specifically, and I think there's been some, I guess, further high-profile layoffs in that space. I guess what is it that you're seeing that's maybe giving you confidence that we're, I guess, near a trough there, things are going to improve. And just how are you kind of viewing the impact of that into Q4 and maybe into next year?
+
+Daniel Rogers
+CEO & Director
+
+Yes. First, to kind of answer your question on we do see tech vertical stabilizing. It does remain an overall headwind to us. But there are a few important dynamics worth calling out. First is we don't see a follow-on downgrade path with those tech customers. Once they're downgraded once, they tend not to downgrade again. And that's a meaningful shift. So in fact, several of our largest tech customers this quarter actually expanded as they renewed and logo churn continued to improve. We also saw and certainly will touch on this later, I'm sure, a 12-month high in gross retention amongst our monthly customers.
+
+And then we do see this nice and just kind of rounding out the piece here on AI Studio, a nice move for multiproduct, moving us off of seat-based products. AI studio and AI Teammates open up new budgets for us, new use cases, and they do create a strong lever to mitigate those seat downgrades. They also introduced a new consumption-based revenue stream where our foundational service plans, and those drive deeper adoption and much higher utilization in our customers and making them even stickier. And then as customers stick with us to do cross-functional workflows, even more deepened by studios, that helps us expand new budgets and makes us a lot less dependent on employee count of those tech companies.
+
+Steven Enders
+Citigroup Inc., Research Division
+
+Okay. That's helpful. And maybe just to follow up, just to get a little bit more clarity on the 4Q guide. It looks like a pretty healthy race here. And just kind of wondering maybe what's changed in your assumptions for Q4 versus how you were thinking about it last quarter when you provided the guide there?
+
+Anne Raimondi
+COO & Head of Business
+
+Yes, sure. Thanks for the question. So 4 things I'd really call out that I'm seeing, which are giving me confidence this quarter to raise that full year guide. So the beat in Q3 was driven by consistent execution across most of our core pillars. So first thing to call out is enterprise strength. We saw a 15% year-over-year increase in customers spending $100,000 or more. And we're seeing stable demand trends in this segment and improvement in pipe conversion that is leading to productivity gains.
+
+So the other thing I would just mention there is that whilst we don't typically break out our $50,000 to $100,000 customer cohort, we saw exceptional strength there this quarter. On the international side, that remains a strength for our business, so especially EMEA and Japan. So continued strength there. International revenues grew 12% year-over-year, outpacing our overall corporate growth rate. Improvement in NRR, and I think this is really key. And you'll have noted like my commentary around this changed. So we successfully renewed with several of the large tech companies that I called out last quarter that were looming. This was one of the key factors that impacted our NRR improvement quarter-over-quarter.
+
+Retention within our monthly customer base, as Dan said, is at a 12-month high, and that reflects a lot of the work and investments we've made to strengthen customer satisfaction and the in-product experience, which you've heard Anne talk about over the last several quarters. And then finally, AI momentum. So we saw continued momentum with AI Studio. We saw sequential strong quarter-over-quarter growth. That's helping drive conversations with customers at renewal, which Anne just touched upon.
+
+So AI Studio and FSP are leading to larger initial lands, expansion and mitigation of downgrade. So just a reminder of what I said in my prepared remarks is that I'm really encouraged by the Q3 trends in NRR, and that was part of what gave me the confidence on raising the guide overall.
+
+Operator
+
+Our next question comes from the line of John (sic) [ Josh ] Baer of Morgan Stanley.
+
+Josh Baer
+Morgan Stanley, Research Division
+
+Questions for Dan. Just as AI agents become embedded across probably most productivity tools, how should we think about Asana's competitive position there? I mean are you expecting Asana to be one of many agents that knowledge workers engage with? Or is it important for Asana to really become that orchestration layer that coordinates all agentic workflows across the enterprise. And if so, what really differentiates you, gives you the advantage to win that opportunity?
+
+Daniel Rogers
+CEO & Director
+
+Thanks, Josh. I appreciate the insightful question. Yes. Look, here's how I would frame it. This is not going to be a winner takes all opportunity for agents. In fact, we will sit alongside many of the other agentic players. But to turn to your question of differentiation, the way I think about it is, today, broadly speaking, the alternatives fit into three different buckets: bucket number one, single player copilots and personal assistance. Now they're great for personal productivity. They're very easy to pilot. They're great at doing lightweight individual tasks, but they don't scale across an organization.
+
+Each person is kind of building their own version, and that is leading to agent sprawl. The context often siloed knowledge doesn't compound. Quality and costs vary by individual. There's no shared governance model. Second approach we see or bucket 2 for agents we see is point solutions. And these are from some of the systems like CRM or ITSM solutions. Those are deeply integrated into tools that they're already being used, and so they're really good for structured workflows within their domain. But as you can imagine, they're limited in that narrow ecosystem. They don't address a lot of the cross-functional work or the unstructional work between the spaces and between the departments.
+
+The third bucket is DIY solutions that people are really hacking and building directly on top of LLM providers. They're super flexible for experimentation, attractive for quick prototypes or bespoke workflows. But again, these seem to run into issues with governance, duplication, scaling costs, cross-team coordination and maintaining those prompts and controlling access and ensuring consistency all requires ongoing admin. So at Asana, we take a completely different approach. Our AI platform has context, controls and checkpoints built in. So if you look at AI teammates, these address many of those gaps because they operate as true members of the team, not just individual copilots.
+
+So if you think about all of the context that Asana has in our work graph, who's doing what by when, how and why, those are the key ingredients that's missing in those other approaches. Intelligence alone isn't enough, AI needs this rich context and rich workflows to be effective. But Asana also provides the checkpoints, review steps, permissions and governance models to prevent that sprawl and maintain quality and cost control at scale.
+
+And because AI Studio and AI Teammates work together in one system, customers get reliable automations that are repeatable for work as well as flexible agents for more nuanced judgment-based work. So this is all about that overhead that we talked about on those DIY agent solutions or without the limitations of some of those functional silos of CRM and ITSM native tools. The result is an AI layer that actually scales across teams and not just within them.
+
+Operator
+
+The next question comes from the line of Rob Oliver of Baird.
+
+Robert Oliver
+Robert W. Baird & Co. Incorporated, Research Division
+
+And I also wanted to extend my best wishes to you, and it's been nice working with you. Dan, my question is for you just around the channel ecosystem and some of the momentum that you guys called out there, partner attach growth being strong again. Can you give us some sense for where you see kind of the partner ecosystem currently as someone who has a background with a lot of companies that have pretty advanced partner ecosystems. Where is it today? Kind of what inning are we in? Where does it need to be? And where in particular, are you guys seeing that traction today? And then I had a quick follow-up as well for Sonalee.
+
+Daniel Rogers
+CEO & Director
+
+Yes. And Anne mentioned we're hot on the heels of our London and New York with Summit, and we had the opportunity to do partner breakouts of both of those, and I couldn't be more excited about our channel ecosystem. Our product and our category lends itself very well to the channel. And so I see nothing but opportunity for us in building out that channel ecosystem. As I talk to many of our partners today, they just want to do more. They want us to be more consistent in how we help them to be successful. And so I do see it as a true ecosystem and partnership where we help ensure their success and not just a transactional channel for us. So yes, very excited about the partner opportunity and think we're at the early innings of it.
+
+Robert Oliver
+Robert W. Baird & Co. Incorporated, Research Division
+
+Great. Very helpful. Appreciate that. And then, Sonalee, just for you. Obviously, a lot of work has been done by you and the team on the cost optimization side, infrastructure, cloud. And just was curious, I know you've been reallocating kind of stuff around the organization to try to drive higher ROI. But when it comes to those costs, how much more runway do we have on that? Have they been optimized? Is there more to go? If you can give us a flavor for what might be left, that would be great.
+
+Sonalee Parekh
+CFO and Head of Finance
+
+Yes. So the work is definitely not done. Thank you. I appreciate your support, but there is more margin upside to go for as we think about the remainder of this year, fiscal '27 and beyond. So growing profitably continues to be a key focus of this team with continued emphasis on geo mix benefits in terms of where our headcount sits, vendor rationalization, there's more to do there. productivity improvements in sales and marketing, which Dan has been very focused on, and that will allow us to continue expanding margins sequentially and for multiple years to come.
+
+That being said, we are balancing margin expansion with reinvestments in our AI platform to sustain our product leadership and to accelerate growth. Both are priorities, but we are investing alongside expanding margins to support that revenue acceleration goal. So if you think about fiscal '27, we will build off our exit margin in Q4, which you see how I guided today. The only thing I would just caution is don't expect the same rate of margin expansion in fiscal '27 as you saw in '26. But I think that's well captured by consensus today. But by no means is the work done.
+
+And the other thing I would just say is we are reallocating spend and what we're doing is reallocating to areas where we see higher ROI. So that should have an overall benefit to operating margin. And then the final point I would make is just our gross margins continue to be in the 89% to 90% range. So just the operating leverage that we get as we continue to grow and scale will continue to play through and have a positive impact on margins.
+
+Operator
+
+Our next comes from the line of Jackson Ader of KeyBanc Capital Markets.
+
+Jackson Ader
+KeyBanc Capital Markets Inc., Research Division
+
+The first question, it's really nice to see the retention rates picking up, and it sounds like that was due to lower gross churn. But if I think about revenue growth slowing just a little bit, should we read into this to mean that maybe the expansions or the upsell of existing customers was more muted than it has been in the prior quarters?
+
+Anne Raimondi
+COO & Head of Business
+
+Hey Jackson, it's Anne. I'll take that. Yes, I do think what we're pleased with is the improvements we saw in downgrade. And then as Dan mentioned, seeing some good expansions in some of our large tech renewals. And we really are investing in the multi-strategy -- multiproduct strategy approach. So in some cases, what we're seeing is that because we've got FSP and we've got AI Studio, what we're able to do is drive a flat or slightly uptick in renewal, but both of those are great for future retention and expansion.
+
+And so that's really where we've been making the investments as well as on the monthly side. So a large portion of our base is still monthly customers, and that retention has been at a 12-month high. And so that's a lot of the work that we're doing both in customer support and in-product experience. So both of those levers in terms of what we can sell to larger customers as well as continue to make sure the monthly base is healthy, I think will ultimately lead to healthier retention.
+
+Jackson Ader
+KeyBanc Capital Markets Inc., Research Division
+
+Okay. All right. Got it. And then a quick follow-up. Sonalee, it was this time a year ago, your first call with the company. And you said the goal -- I can't remember exactly, that Asana could do both, right? You could both reaccelerate revenue and also expand operating cash flow margins. I think on the margin side, like pretty clear what you were just talking about with Rob, absolutely delivered. But if we think about revenue acceleration coupled with that margin expansion, is that still doable? Is that still the goal, the expectation as we kind of head into 2027 or even beyond?
+
+Sonalee Parekh
+CFO and Head of Finance
+
+Yes. So without guiding to fiscal '27 because I always do that in March, what I will say is that we are early innings on our new product strategy, our multiproduct strategy. And I believe that AI Studio and AI teammates are going to be the key unlock in terms of driving that growth reacceleration. We, by no means, have given up on that, and it is absolutely this team's strategy to continue to do both. And I am strongly encouraged by what I saw on the NRR side. And if you think about NRR, if we can even drive it a couple of points, you're looking at a very, very different growth profile, a very, very different financial profile.
+
+And I didn't -- when I put the comment in the prepared remarks about being at or near a bottom, I didn't put that in lightly. What's giving me confidence is the data that I'm seeing underlying the Q3 trends. So second consecutive quarter of in-quarter improvement. I don't know if you remember, but when I saw the first quarter improve, I said 1 quarter does not make a trend. Well, 2 quarters certainly gives me a lot more confidence.
+
+Secondly, a couple of us have called out on improvements in gross retention, that is across the board that we're seeing. And then the multiproduct, it's early days. And I talked about the impact of AI Studio being small for this year. But as we look ahead, and when I think about the contributors to our net bookings for fiscal '27, AI Studio and AI teammates will play a much stronger role there. So you can count on us to be delivering both for you. I'm going to hand over to Dan because I think he wouldn't have taken the job if he didn't feel like he could do both.
+
+Daniel Rogers
+CEO & Director
+
+Thanks, Sona. Yes, maybe I'll just add a little color. And the color really is around, look, number one, collaborative work management, our category is about to have its moment in the sun because of AI. CWM becomes the system of record for work, which means we've got the who, the what, the when, the where and the why and the how of the work. And that context is just great to make AI effective. And that's exactly why we launched AI studio and why we followed up this quarter with the beta launch of AI teammates.
+
+Secondly, the PLG opportunity for us remains massive. Today, it's about 40% of our business. And in an AI search and LLM-driven world, we can double down on those high-performing channels with AI search and really target our marketing dollars towards higher propensity customers. So we're optimizing that trial experience, and we continue to help customers to reach value faster. CWM itself, this is #3, is a large and growing TAM, and we have a recognized leadership position. But our work here isn't done. There's a huge runway for us to innovate and expand the surface where work gets done and deliver even more value to our customers.
+
+And fourth, and as Sona touched on, whilst we've made some progress in our go-to-market motion and efficiency, there's a lot more work to do. So I'll be focusing on everything from persona-based selling, tightening our execution and customer success, improving productivity through high propensity leads and routing across all of our segments to unlock the potential in our go-to-market motions.
+
+And finally, for me, personally, my style is really about injecting tempo, which is about creating velocity for the organization, which is around faster decision-making, faster learning cycles, getting to beta faster and strengthening the operating rhythm of the company. So all of these will lead to an improvement in innovation and execution velocity.
+
+Operator
+
+The question comes from the line of Patrick Walravens of Citizens Bank.
+
+Patrick Walravens
+Citizens JMP Securities, LLC, Research Division
+
+Great. I'm going to change my question, Dan, because what you just said was super interesting. So I love the idea of increasing the velocity. How do you actually do it? Like how do you get everyone to run faster and we have all the code red stuff going on with OpenAI and Google right now and so many people are commenting that just telling everyone to run faster doesn't mean it's going to work. And sometimes, in fact, it backfires. So how do you do it? How do you increase the velocity?
+
+Daniel Rogers
+CEO & Director
+
+Yes. And I'd say my -- fortunately, my prior experiences really were a training ground for velocity, high-tempo organizations executing at scale. And so it's how I drive myself but also the organizations. The first piece is around decision-making and ensuring that you have a tight way to make decisions quickly with the right people involved and the right information that you need. The second is really a mindset or an operating principle around getting things to beta, and that is about launching new products, launching new capabilities in the knowledge that you're going to quickly iterate on them afterwards. And so it reduces the fear of kind of launching because you know that afterwards, you're going to rapidly iterate.
+
+If you think about our AI studio self-service experience, this gives us a massive set of data points to continue to improve that product and get it right to the middle of the bell curve. And then having the right operating rhythm so that everybody understands exactly what needs to be done by when and really kind of pushing the pace in the expectations around that with all of our leaders. Those are some of the things that we can kind of inculcate into the culture.
+
+Patrick Walravens
+Citizens JMP Securities, LLC, Research Division
+
+Great. And Sonalee, if I can just ask a follow-up. I mean, not with the time frame on it, but when you talk about multiyear margin expansion and this company is going to come up on $1 billion pretty quick, where can the margins be? I mean, can they be in the 20s? Where can they be?
+
+Sonalee Parekh
+CFO and Head of Finance
+
+Yes. So when I think about the margin expansion that we've been driving thus far, it all starts with that 90% gross margin or 89% to 90% gross margin and the inherent operating leverage there. So think about it, if we continue growing even if -- like I'm not going to guide, but just even if you use consensus, just if we kept expenses fairly flattish in many areas, you would still get consistent several percentage points of margin improvement every single quarter on a sequential basis.
+
+So there is no reason in my mind that we can't eventually aspire to be among the best-in-class in terms of enterprise SaaS software companies on margin. I always think we're the envy of many software companies with the gross margins that we have today. And even if AI studio and AI teammates take off the way we hope they do, and there's a little bit of pressure on the gross margin, there is still a ton of runway. So something with a 2 in front of it is certainly within the realm of possibilities.
+
+Operator
+
+Our next question comes from Arsenije Matovic of Wolfe Research. you hear me? Apologies Arsenije, your line is now open.
+
+Arsenije Matovic
+Wolfe Research, LLC
+
+So sorry, could you hear me?
+
+Operator
+
+Yes, sir.
+
+Arsenije Matovic
+Wolfe Research, LLC
+
+So just thank you for the question. How did the large tech renewals in 3Q trend versus your expectations given that heavier renewal volume in 4Q? Are you more confident in expansion and retention in 4Q than you were heading into 3Q? And is that also now reflected in the updated guidance? Just a follow-up.
+
+Anne Raimondi
+COO & Head of Business
+
+Yes, I'll take the Q3 renewals and what we're seeing in Q4. So they did perform better than we expected, and we were very pleased by that. I think that's a combination of operational rigor on that as well as more products to sell. I think we're bringing that same approach into Q4. In Q4, while we have a higher volume of tech renewals, they're more midsized compared to the larger ones that we had in Q3. So continuing to make sure we bring that operational discipline as well as now with the launch of teammates, even more to sell and more conversations to have.
+
+Sonalee Parekh
+CFO and Head of Finance
+
+Yes. And I'll just add to that. Just on the guidance side of things, when we look into Q4, even though we do have a large renewal base in Q4 as is typical, I would say I am more confident going into Q4 versus where I was when I guided on Q3.
+
+Arsenije Matovic
+Wolfe Research, LLC
+
+Got it. And just to follow up on that, you did mention the 4 factors supporting that confidence as well, but still embedding conservatism on new business. So I guess we just kind of unpack what specifically supporting confidence in passing through, I think, double the beat in 3Q, even with that slightly lighter FX tailwind than you expected entering last quarter?
+
+Sonalee Parekh
+CFO and Head of Finance
+
+Yes. So net retention is a big factor there. So again, it's 2 consecutive quarters now of in-quarter net retention improvement and then the gross retention improvement across all cohorts. And importantly, the 100,000-plus cohort saw the largest improvement among them. So that was even with the headwind from that large customer downgrade that we called out in Q1, but actually impacted from Q2 and will continue to impact for the next couple of quarters. So the fact that in Q3, we managed to improve in spite of that, that added to my confidence levels. And then the multiproduct strategy and specifically AI Studio and the foundational service plans or FSPs, those are actively driving expansion and helping to mitigate downgrades and certainly have been extremely helpful in renewal conversations.
+
+And then there are the other items that I called out earlier, but we're seeing strength in other areas of our business, including new business. So the enterprise strength and that mid-market cohort, that 50,000 to 100,000, we don't break it out, but what I can tell you is what I saw this quarter was a lot of strength there. International, I continue to expect to -- it's been strong for the last 2 quarters, expect continued strength. And then even in the enterprise side of the house, we saw 15% year-over-year increase in customers spending $100,000 or more. And if you couple that with stable demand trends and improvement in conversion, which leads to productivity gains, you end up with a -- or I ended up with a more confident picture as I look towards Q4 and the full year.
+
+Operator
+
+Thank you. I would now like to turn the conference back to Eva Leung for closing remarks. Madam?
+
+Eva Leung
+Head of Investor Relations
+
+Thank you, everyone, for joining the call. We'll be on the road attending the UBS and Barclays conference this and next week. Looking forward to seeing all of you. As always, if you have any questions, please reach out to me at ir@asana.com. Thank you very much.
+
+Operator
+
+And this concludes today's conference call. Thank you for participating. You may now disconnect.

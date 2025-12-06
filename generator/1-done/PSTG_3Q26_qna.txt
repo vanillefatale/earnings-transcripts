@@ -1,0 +1,319 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question comes from Amit Daryanani from Evercore ISI.
+
+Amit Daryanani
+Evercore ISI Institutional Equities, Research Division
+
+I guess there's been a lot of focus on memory price inflation across both NAND and DRAM and certainly your product gross margins at near 73% don't suggest this is an issue in October.
+
+But can you just talk about how should we think broadly both on the direct impact on your P&L from a margin and revenue perspective from this commodity inflation? And then also maybe just touch on the indirect impact you could see from competitors' pricing changes as you go forward.
+
+Charles Giancarlo
+Chairman & CEO
+
+You bet. Thanks, Amit. Well, I think many of the analysts who have followed us for many years have come to understand is that in our market, which has a very dynamic pricing environment, prices are set at the time of purchase, and we compete with other vendors, many of whom are cost-plus vendors. And as such, the pricing of our systems tends to float more with commodity pricing. What that means is that it tends -- the commodity pricing tends to be a lesser effect on our gross margins and frankly, a greater effect on the overall market, that is, when prices are higher, to the extent that customers require the same amount of capacity, they'll be paying higher prices on average.
+
+So this is something that customers understand. Sometimes customers will buy ahead. But what we expect is that higher prices would generally translate to a rising tide, if you will, in the storage market overall, of which we'd be a beneficiary.
+
+So yes, 73% is a bit high, as you're pointing out. Generally, our long-term trend, we believe, is in the 65% to 70% range. And that's the way we'll continue to guide for the foreseeable future.
+
+Operator
+
+Our next question comes from Aaron Rakers from Wells Fargo.
+
+Aaron Rakers
+Wells Fargo Securities, LLC, Research Division
+
+I guess maybe building on Amit's question a little bit. I think that the one number that stands out to me in this print is like you had a 76% sequential increase in inventory.
+
+I'm curious if that is reflective of any kind of strategic purchases, appreciating any color you can give us on how much maybe purchase obligation stands coming out of this quarter or does that not necessarily relate to the component pricing environment? Is it more of a reflection of your procurement for your hyperscale customer? Any color there would be helpful.
+
+Charles Giancarlo
+Chairman & CEO
+
+Well, let me start and then I'll pass it over to Tarek. We -- as you may know, Aaron, we don't crow about making -- about our purchase decisions being ahead or on the spot market on a quarter-by-quarter basis.
+
+We do believe we've got one of the best supply chain and purchasing organizations, frankly, in our industry. But we're always taking advantage of what -- of our own internal forecast of what the market will be like.
+
+I'll have Tarek comment on the specific numbers.
+
+Tarek Robbiati
+Chief Financial Officer
+
+Yes, Aaron. Thank you for the question. Look, we track and manage inventory levels closely, and there are a couple of drivers in the increase you referred to. First, we had tariff mitigation purchases at the beginning of the year and also the hardware components market is tightening all over the world and we've taken a couple of positions in some key parts to avoid disruption in our supply chain, which is why you could see that increase.
+
+But overall, I would say that our inventory levels at about $46 million in Q3 are low compared to the overall size of our business. And we think that it could stay about the same level moving forward.
+
+Operator
+
+Our next question comes from Howard Ma from Guggenheim Securities.
+
+Howard Ma
+Guggenheim Securities, LLC, Research Division
+
+If we make an estimate for hyperscaler shipments in the quarter, the implied product gross margin, I believe, was still quite strong and perhaps a notable sequential uptick. So my question is, was there a continued mix shift to higher-end products in the quarter? And what is your ability to maintain this level of product gross margin in coming quarters, especially when considering potential sales to neocloud, sovereign cloud that I believe probably will carry lower gross margin.
+
+Tarek Robbiati
+Chief Financial Officer
+
+Yes, Howard, thank you for the question. It's Tarek here. There are 3 vectors that drive the overall product revenue gross margin.
+
+Number one, the product mix in itself. And we did see higher and greater configs being bought by customers in Q3, and this is usually good news for product revenue gross margins.
+
+The second element that drives the product gross margin is, to a large degree, purchases of Portworx licenses that are purchased on a terms basis. Sometimes customers choose term licenses instead of subscriptions, and we did recognize some Portworx revenue in product revenue this quarter in Q3.
+
+Thirdly, obviously, there is a contribution from hyperscalers revenue, which we recognized in Q3. As we mentioned earlier on, we exceeded the prior goal of 1 to 2 exabyte shipments for fiscal year '26, Q3 year-to-date, we already attained that goal, and we can see some additional growth in Q4 and beyond that point.
+
+Operator
+
+Our next question comes from Mike Cikos from Needham & Company.
+
+Matthew Calitri
+Needham & Company, LLC, Research Division
+
+This is Matt Calitri on for Mike Cikos over at Needham. I'm wondering how early feedback has been on the Enterprise Data Cloud with Pure Storage Cloud and how this expanded offering is impacting the way that customers are approaching their storage architectures?
+
+Charles Giancarlo
+Chairman & CEO
+
+Yes. It's still early days. We're in the first year. And -- but the response has been extraordinarily positive. We are seeing a lot of demand for placement or for the feature to be placed on the systems that already exist. That they have to go through a software upgrade to do that. And since the release of what we call our long-lived or enterprise release, which, of course, some of the larger companies will wait for -- since that time, it's been expanding very rapidly. So -- and now that we've released the Pure Storage Cloud, which is effectively, if you remember, our Cloud Block Store. It's effectively Cloud Block Store but completely cloud native in Azure and managed by us. So it is, in fact, a cloud service. And it's part of the Enterprise Data Cloud.
+
+So now customers can very easily manage their global estate, including what's in Azure now on Pure Storage Cloud under the EDC umbrella. So this is -- we believe this is part of what's driving customers in our direction. You saw our growth this quarter, well above the industry as a whole. And we think that the vision and the capabilities that we're bringing with Enterprise Data Cloud is a significant portion of that.
+
+Robert Lee
+VP & CTO
+
+Yes. And Matt, this is Rob. Just to add on to what Charlie said. I think one of the things that's been quite notable in terms of early customer feedback with Fusion -- Pure Fusion and Enterprise Data Cloud is both not only how positively it's being received, but how it's being received by multiple persona sets within our customer base.
+
+As we've discussed in prior calls, we have historically interacted with subject matter experts, storage administrators and the like within our customer estates. That group of customers really is gravitating towards storage automation, the ease of performing operational tasks that used to be quite manual in nature.
+
+But as we further articulate the Enterprise Data Cloud vision, we're now having very meaningful conversations with Chief Information Security Officer, CIOs, folks that are really recognizing the benefits of governance data security, data provenance that we can go and deliver.
+
+So as Charlie has mentioned before, one of the things that Enterprise Data Cloud is allowing us to do is now have much more strategic interactions with our largest and most valuable customers.
+
+Operator
+
+Our next question comes from Samik Chatterjee from JPMorgan Chase.
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research Division
+
+I know you're not guiding quantitatively to the hyperscaler sort of outlook here for next year. But wanted to see if you can give us a sort of update on what the engagements with the hyperscalers beyond the first customer that you have are progressing?
+
+And when you talk about further investments to capitalize on those revenue opportunities, if you could flesh that out a bit in terms of are these investments in sort of more product SKUs? Or what are the nature of these investments that you're looking to ramp into next year?
+
+Robert Lee
+VP & CTO
+
+Yes. Samik, this is Rob. I'll take that one. Look, as we continue to progress with our existing hyperscaler customer and work with additional ones, those activities are progressing well. We continue to be engaged with the majority of, let's say, the top 10 hyperscalers in one way or another with multiple proofs of concept that are being undertaken and are underway.
+
+As we look at -- I think the second part of your question, correct me if I'm wrong, was areas of investment that we'll be looking at across the board. So certainly, we have continued investments that we've discussed around our DirectFlash road map, driving greater densities that continue to allow us to penetrate wider swath of price performance tiers.
+
+But then as we look at the enterprise portfolio as well, when we look at delivering on the Enterprise Data Cloud vision, if we look at AI, what we're doing with FlashBlade//EXA, there's a number of areas where we'll be directing that continued investment to drive growth in not just the hyperscaler segment of the market, our enterprise market, but also AI and neoclouds.
+
+Operator
+
+Our next question comes from James Fish from Piper Sandler.
+
+James Fish
+Piper Sandler & Co., Research Division
+
+Could the increase in memory costs actually lead to a change on the demand dynamics between essentially your OpEx and your CapEx model in your view?
+
+And can you just remind us or walk us through for every 1% or 10% increase in commodity costs, especially on the flash side, what that leads to in terms of that revenue versus gross margin delta that you guys are saying, like, hey, it doesn't impact us much. I get why, just trying to understand the magnitude here.
+
+Charles Giancarlo
+Chairman & CEO
+
+Yes. So let me take a stab at part of the question. Generally, we do -- when economics in the market change, whether that's interest rates or changes in expectations on the pricing side, you're going to see shifts between Evergreen//One and the -- and our -- the traditional product purchase. So I would expect it -- now we've been fooled before, to be honest, but I would expect it to -- that are increasing prices to drive more -- relatively more customers towards the Evergreen//One model.
+
+The other part, though, I would say is that because we have longer depreciation cycles on the Evergreen//One model, it really insulates us quite a bit from spot pricing in the commodity market.
+
+So I think, again, that's another place where we're also able, as you may recall, to use existing and returned equipment that has been renovated in the Evergreen//One model. So there's always a mix of new and existing and renovated product that goes into the Evergreen//One environment. Again, that isolates us, if you will, from spot pricing.
+
+Operator
+
+Our next question comes from Simon Leopold from Raymond James.
+
+W. Chiu
+Raymond James & Associates, Inc., Research Division
+
+This is Victor Chiu in for Simon Leopold. You noted in your prepared remarks that scaling the hyperscale business could change the gross margin dynamics. Can you expand on this a bit?
+
+I'm presuming that you're expecting a structural expansion shift in gross margin as you scale that business out. Can you help us understand kind of the leverage around that and what your expectations would be based on what you're expecting for the next year?
+
+Tarek Robbiati
+Chief Financial Officer
+
+All right. So first of all, I would say you have to look at product gross margins, excluding hyperscalers. We guided in the past that our typical product gross margin range is between 65% and 70%. If you think about the nature of what we sell to hyperscalers, right now, we recognize only software licensing revenue, which is very high gross margins. As we said on prior occasions, this is a 90-plus percent gross margin revenue stream. And therefore, obviously, as you combine the two, traditional product revenue and software licensing revenue, this has a very positive impact on gross margins moving forward.
+
+Having said that, I also said in my prepared remarks that we are exploring new and different revenue models with hyperscalers. In addition to recognizing the net revenue, we may think -- we're thinking right now that in the future, we will be recognizing different type of revenue streams than licenses, and this would have an impact on the gross margin economics of the revenue stream moving forward in fiscal year '27. I will update you about this in our Q4 call. So for the moment, no change.
+
+Operator
+
+Our next question comes from Wamsi Mohan from Bank of America.
+
+Wamsi Mohan
+BofA Securities, Research Division
+
+I was wondering, when you look at sort of your overall results, you obviously exceeded your forecast of 1 to 2 exabytes at hyperscalers, which should be coming in at very high margins. But you have the lowest magnitude of earnings beat in a while.
+
+And so as we think about that, probably it's coming from the higher investments that Tarek alluded to. And so as we think about this sustaining into fiscal '27, does it really mean that we're going to see a year where potentially operating margins could be down year-on-year. Just wanted to understand, Tarek, you really seem to emphasize that point and just want to make sure that we walk away with the right conclusion around trajectory of margin.
+
+Charles Giancarlo
+Chairman & CEO
+
+Well, Wamsi, let me start, and then I'll hand it over to Tarek. You may recall that as we entered this year, we actually guided to a flat operating margin business for the year in anticipation of higher investments in the hyperscale business that was without a full understanding of what the revenue would look like in that from the hyperscale business.
+
+As we are here sitting today, it is a substantial increase over our original guide. So we're coming -- we'll be coming in -- our expectation is higher than our original guide, which is a positive -- which is very positive. And we stay committed to continuing to increase operating margin on a year-over-year basis. So that shouldn't be under -- there shouldn't be any question of that at all. Tarek, do you want to...
+
+Tarek Robbiati
+Chief Financial Officer
+
+Yes. Thank you, Charlie. Wamsi, I'd say the following to you. First of all, with respect to fiscal year '26, the new guide implies a pretty substantial growth in operating profit. I mean if you really look at it on a year-over-year basis in Q4, at the midpoint, the operating profit growth implied is 47%.
+
+When I joined Pure almost 6 months ago, we observed that there were several opportunities in the enterprise space that we wanted to capture. And we can see substantial growth there, and we intend to continue to deliver the levels of growth that you're seeing in Q3, in Q4 with the guidance that we implied, but also extending that into fiscal year '27.
+
+But to go after that growth, we have to make some investments in sales and marketing, in R&D and also in back-office systems to accelerate the velocities of our deal constructs and delivery. And it is for this reason that during the Q2 earnings call, we changed our guidance philosophy to guide on operating profit growth with a range as opposed to a single operating profit margin figure. However, as Charlie mentioned, we continue to expect operating profit to grow beyond fiscal year '26. And yes, you can expect a degree of operating profit margin expansion in fiscal years beyond fiscal year '26.
+
+Operator
+
+Our next question comes from Erik Woodring from Morgan Stanley.
+
+Erik Woodring
+Morgan Stanley, Research Division
+
+I'm going to go back to the kind of memory questions that a lot of us are asking. And Charlie, I would just love to get opinion on why or if demand elasticity in your markets could be different this time versus 2017 or 2021?
+
+I'm just trying to think of looking back at memory cycles, it's clear that you were able to kind of pass this pricing through. Could that be an inhibitor to market demand this time around? And if so, why or why not?
+
+Charles Giancarlo
+Chairman & CEO
+
+Yes. It's actually a great question, Erik, because obviously, the 2 factors go together, right, which is to say that just because prices go up doesn't mean that customers have an unlimited ability to pay. And so demand may go down.
+
+What we've seen overall though, in the years -- and you're right, 2017, roughly 2021 was that commodity pricing tended to have a much greater effect on the top line or you might think of it as the overall market size or growth in the flash storage industry than it did at least on our gross margins overall.
+
+We're able to manage the gross margins actually quite well. And part of that is because we do compete with competitors that largely sell on a cost-plus basis. And that tends to then float pricing along with commodity prices.
+
+There's not much more than that. You're right, it could constrain demand a little bit from an overall terabyte standpoint, but the dollar -- generally, the dollars continue to scale along with commodity pricing. I think the main thing, of course, is with AI, we are seeing more demand for data just in general. And data has become and data architectures have become more top of mind for our customers. So I don't see -- I think that will continue, even though, as you point out, budgets are not necessarily unlimited.
+
+Operator
+
+Our next question comes from Krish Sankar from TD Cowen.
+
+Sreekrishnan Sankarnarayanan
+TD Cowen, Research Division
+
+Tarek, I understand you're going to give us more color on the next earnings call regarding the hyperscaler business model shift. I'm just curious from the economics of this opportunity standpoint, is the rising land prices one of the catalysts for the shift where the hyperscalers don't want to deal with the volatility? Or in other words, if 2 years from now, if NAND prices do crash, will the business model again shift?
+
+Charles Giancarlo
+Chairman & CEO
+
+I would say -- let me jump in. I would say that at the moment, that doesn't seem to be a big factor in this. I would say that we're just seeing different hyperscalers have different points of view as to how they'd like to purchase. And given that there's going to be a different mix of options that carry different COGS associated with it. And that's going to be a large part of us having a somewhat more mixed and nuanced model in the hyperscale business. It is certainly true that the hyperscalers in some ways, would rather be more insulated from commodity prices, but there's only so much that -- we could do some of that, but we can only do so much of that.
+
+Operator
+
+Our next question comes from Asiya Merchant from Citi.
+
+Asiya Merchant
+Citigroup Inc., Research Division
+
+Charlie at the Accelerate event in New York, I think I asked about the neocloud opportunity. And I think the response there was, it's a little bit more nuanced and relative to the size of the hyperscaler opportunity, of course.
+
+Can you just double click a little bit about how you're thinking? Has that thinking changed about how you're looking at the neocloud opportunity ahead? And does it relate to any of your product offerings lately?
+
+Charles Giancarlo
+Chairman & CEO
+
+Thank you, Asiya. We try to be very structured in terms of how we qualify hyperscale opportunity and how we qualify, for example, neocloud and AI opportunity. And let me just repeat that and then I'll go directly to your answer.
+
+So when we sell into the hyperscale into their traditional structured storage environment, much of which is used for AI, but it's not specialized for AI, we discuss that as being the hyperscale opportunity.
+
+When we sell specialized product that's designed specifically for AI, which comes under our FlashBlade product traditionally and typically the FlashBlade//S, but now the FlashBlade//EXA. And that is what's typically sold into the neoclouds, sovereign clouds and other AI environments. We discussed that as being the AI -- our AI market.
+
+So just to put those two in -- make that clear because a lot of the products we will be selling into a hyperscale, despite the fact that it's going into their standard storage environment, will be used for their AI systems. In fact, they tend not to buy a specialized product for -- in the storage space for AI. So in that sense, it's not nuanced.
+
+Obviously, we're a little bit further along, if you will, on having really scaled sales into the AI environment. We've been selling FlashBlade//S now for 5 years. We have hundreds of customers using it directly tied to GPUs for AI. With FlashBlade//EXA now, they can scale to even larger sizes. And we're seeing a good interest right now in FlashBlade//EXA in the neocloud environment. So does that answer your question, Asiya?
+
+Paul Ziots
+Vice President of Investor Relations
+
+We'll take that as a yes.
+
+Operator
+
+Our next question comes from Eric Martinuzzi from Lake Street Capital.
+
+Eric Martinuzzi
+Lake Street Capital Markets, LLC, Research Division
+
+Yes. I wanted to -- based on the investment comments that you had, Tarek, around the R&D and sales and marketing, just -- for those of us modeling at home, that mix, the skewing of the investment, just curious to know if there's an expectation that next year would be significantly different than this year.
+
+In other words, based on my math, I've got about 34% of your non-GAAP operating profits in the first half of FY '26 and 66% in the back half of FY '26. Is the expectation that, that would skew abnormally in FY '27, such that it would be more back-half loaded?
+
+Tarek Robbiati
+Chief Financial Officer
+
+Look, it's -- we're still in the middle of our planning cycle and we have yet to give guidance for fiscal year '27, and we'll do so in Q4.
+
+But I think the point to take away here is that we would like to continue to grow to the levels that we're witnessing right now in fiscal year '26 into fiscal year '27 and beyond. And therefore, this growth comes at a cost, and this is in R&D, in sales and marketing, and in back-office system operations.
+
+But if you are looking at the various OpEx lines as a percentage of revenues, there won't be a material disruption to the levels that you're seeing today in R&D, sales and marketing as a percentage of revenues. But the dollars overall will increase.
+
+Paul Ziots
+Vice President of Investor Relations
+
+We have one -- this will be the last question coming up next.
+
+Operator
+
+Our last question comes from Mehdi Hosseini from Susquehanna.
+
+Mehdi Hosseini
+Susquehanna Financial Group, LLLP, Research Division
+
+Yes. Charlie, I want to go back to that -- to exabyte shipments. When I look at the overall size of the enterprise SSD market, we're tracking close to about 400 exabyte.
+
+And my question to you is what would need to happen for you to scale and actually account for 1% or 2% of the exabyte shipment, especially given the fact that hyperscalers are driving the growth for enterprise SSD demand. And let me know if my question is not clear.
+
+Charles Giancarlo
+Chairman & CEO
+
+Well, I think I understand what you're asking, which is what would it take for us to continue to grow in the hyperscale business to become a much more substantial portion of their overall storage purchases, which today is hard disk and SSD.
+
+Our view is that we provide a superior solution in both environments, that is hard disk and SSD. And now, of course, the design cycle within the hyperscalers is quite long. You have to, first of all, meet the beginning of their design cycle and then their design cycle is about 2 years.
+
+And so -- and we are a different -- to be clear, we don't operate in the same way as an SSD or a hard disk. And therefore, it requires a change in their technology and operating process.
+
+That being said, as Rob mentioned earlier, we're in a lot of POCs. We're in a lot of engineering meetings with the majority of the top 10 hyperscalers. The value that we provide in the area of power and space reduction, in the area of performance increase and in consistency. Consistency because whether it is the lower performance, low price range or the high performance and therefore, higher price range, we provide them a single solution from a software perspective that doesn't require them to modify their operating systems.
+
+These are all very powerful incentives for them to make that investment and make that change. So our belief is that over time, obviously, we're going through right now a supply chain crunch that is that the hyperscalers are seeing that supply chain crunch. And every form of memory and every form of storage now is basically on back order.
+
+And when we see that, it does give us an opportunity to get in, but we think that when that -- when supply chains come back to normal, which always occurs, there's always a reversion to the mean, it will have us be in place with superior economics and performance. So we do believe that we can continue to take share and become a significant portion of hyperscaler storage environments.
+
+Robert Lee
+VP & CTO
+
+Yes, Mehdi, I would just net it out to 3 things. One is making our existing customers successful in the environment and tier that we've been designed into. Two is expanding our offering and value to multiple tiers of price performance. And three is expanding the reach of our technology into other firms, right? And so Charlie talked about a lot of the process and steps along that path. We're pursuing it afoot. And -- but that's how I think about what are the unlocks and what are the drivers to get there?
+
+Paul Ziots
+Vice President of Investor Relations
+
+Charlie has some concluding remarks.
+
+Charles Giancarlo
+Chairman & CEO
+
+Yes, I want to thank you and thank everyone for joining us today. Data is now becoming, we believe, the primary engine that's going to drive economic growth in the decades ahead. And it needs to be elevated to be useful and available for a wide range of uses.
+
+And the Enterprise Data Cloud makes that possible. It gives customers a unified and virtualized way to control their global data estate with the reliability and the simplicity that we, Pure, are known for.
+
+So once again, as always, I wish to thank our customers, partners, our suppliers, our employees and our investors. Your consistent support drives our success. Thank you.
+
+Operator
+
+That concludes the Pure Storage Third Quarter Fiscal 2026 Financial Results Conference Call. Thank you for your participation. You may now disconnect your lines.

@@ -1,0 +1,144 @@
+Semtech Corporation (SMTC) Q3 2026 Earnings Call November 24, 2025 4:30 PM EST
+
+Company Participants
+
+Mitchell Haws - Senior Vice President of Investor Relations
+Hong Hou - President, CEO & Director
+Mark Lin - Executive VP & CFO
+
+Conference Call Participants
+
+Richard Schafer - Oppenheimer & Co. Inc., Research Division
+Sean O'Loughlin - TD Cowen, Research Division
+Harsh Kumar - Piper Sandler & Co., Research Division
+Christopher Rolland - Susquehanna Financial Group, LLLP, Research Division
+Timothy Arcuri - UBS Investment Bank, Research Division
+Tore Svanberg - Stifel, Nicolaus & Company, Incorporated, Research Division
+Quinn Bolton - Needham & Company, LLC, Research Division
+Cody Grant Acree - The Benchmark Company, LLC, Research Division
+
+Presentation
+
+Operator
+
+Good day, and thank you for standing by. Welcome to Semtech Corporation's Third Quarter Fiscal Year 2026 Earnings Conference Call. [Operator Instructions] Please be advised that today's conference call is being recorded.
+
+I would now like to hand the call over to Mitch Haws, Senior Vice President of Investor Relations for Semtech. Thank you. Please go ahead.
+
+Mitchell Haws
+Senior Vice President of Investor Relations
+
+Thank you, and welcome to Semtech's Third Quarter 2026 Financial Results Conference Call. Participants on today's call are Hong Hou, our President and Chief Executive Officer; and Mark Lin, our Executive Vice President and Chief Financial Officer.
+
+But before we begin, I would like to highlight upcoming investor events, including the UBS Technology Conference on December 2 and 3; the Consumer Electronics Show on January 6 through 9; and the Needham Growth Conference on January 13 through the 14.
+
+Today after market close, we released our unaudited results for the third quarter of fiscal year 2026, which are posted along with an earnings call presentation to our Investor Relations website at investors.semtech.com.
+
+Today's call will include various remarks about future expectations, plans and prospects, which comprise forward-looking statements. Please refer to today's press release and see Slide 2 of the earnings presentation as well as the Risk Factors section of our most recent annual report on Form 10-K for a number of risk factors that could cause our actual results and events to differ materially from those anticipated or projected on today's call. You should consider these risk factors in conjunction with our forward-looking statements.
+
+We will refer primarily to non-GAAP financial measures during today's call. Please see today's press release and Slide 3 of the earnings presentation for important information regarding notes on our non-GAAP financial presentation. The press release and earnings presentation also include reconciliations of our GAAP and non-GAAP financial measures.
+
+With that, I will turn the call over to Hong.
+
+Hong Hou
+President, CEO & Director
+
+Thank you, Mitch. Good afternoon to all of you joining the call today. The Semtech team made solid progress again this quarter, driving strong sequential and year-over-year revenue and earnings growth, aligning our data center road map to capture major growth and design win opportunities ahead, further strengthening our financial profile, all while executing on the R&D road map and portfolio expansions that we believe establish a foundation for growth.
+
+Looking at the Q3, net sales were $267 million, up 4% sequentially and up 13% year-over-year, driven by the momentum of our data center and the LoRa portfolio. Adjusted operating margins grew 180 basis points sequentially and 230 basis points year-over-year. Adjusted diluted earnings per share were $0.48, up 17% sequentially and 85% year-over-year.
+
+Again, this quarter, the core assets we have delineated, namely data center, LoRa and PerSe together strongly contributed to our revenue growth. We continue leveraging our R&D resources to expand our portfolio, including in LoRa with multiple protocol integration showcasing Wi-SUN and LoRaWAN synergy for smart infrastructure and the new TIA and driver building blocks that establish a new performance standards for 1.6T multimode optical transceivers in AI data centers.
+
+In addition to our strong financial performance, we further optimized our capital structure with a successful convertible offering. The collective actions taken over the past few quarters have provided Semtech significant balance sheet flexibility, resulting in nominal interest expenses and a much-improved cash flow generation. This improved financial position allows us to accelerate investments in our core technologies.
+
+Finally, portfolio optimization remains a key focus. At the beginning of our fourth quarter, we completed the acquisition of the force sensing business, including its technology, products and key employees from Qorvo. By leveraging Semtech's customer penetration, global sales and support network and our existing capacitive sensing product portfolio, we expect to accelerate the proliferation of the advanced force sensing Human Machine Interface solutions and MEMS sensors by targeting leading computing, smartphone, wearable and automotive applications.
+
+In addition, we are making solid progress on the divestiture of non-core assets. With our new financial adviser, we have engaged in diligent conversations with a number of interested parties, which has generated multiple indications of interest. We believe this assets represent a very compelling synergistic value to this potential acquirers.
+
+Now, let me move the discussion to our end markets. For Q3, Infrastructure net sales were $77.9 million, up 6% sequentially and up 18% year-over-year, strongly supported by our data center business. Net sales for data center were a record $56.2 million, up 8% sequentially and up 30% year-over-year, benefiting from strong demand for our broad portfolio, including our market-leading FiberEdge TIAs whose net sales set another record.
+
+Moving into Q4 and the next fiscal year, we expect an acceleration of sequential and year-over-year growth for our data center business. This conviction is supported by our expectation of continued increases in AI CapEx, expanding customer engagement and a strong demand pipeline for our high-performance low-power solutions, including the incremental contributions from Linear Pluggable Optics, our LPO and CopperEdge linear equalizers.
+
+We believe our low-power analog solutions are a core enabler for making next-generation data center infrastructure scalable at 800 gig and 1.6T. With the hyperscale and AI data centers' capacity measured on electric consumption, every incremental watt saved in networking connectivity multiplied by tens of millions of ports will enable a meaningful increase in compute capacity.
+
+By delivering best-in-class efficiency and signal integrity at the fiscal layer, analog solutions give cloud and AI operators the flexibility to adopt new 1.6T-based topologies, whether that is the higher density switches, new optics architectures or more disaggregated racks while staying in within strict power, thermal and transmission latency envelopes.
+
+To support data center build-outs, we are seeing broad-based demand acceleration, supported by customer forecast for 800-gig TIAs through 2026. Beyond 800-gig, we are actively supporting a wide range of customers on their 1.6T transceiver designs and deployment with both TIAs and drivers, and we expect 1.6T volume ramps to begin early in calendar year 2026 and concurrent with the deployment of 1.6T switches.
+
+Regarding LPO, we have secured design wins with several leading U.S. hyperscalers with our TIAs and drivers in 800-gig transceivers and AOCs. And we continue expanding our customer pipeline through engagement with our optical module customers. We expect a meaningful revenue contribution from TIAs for LPOs starting in Q4 and the momentum to build into calendar 2026. In parallel, we are accelerating our R&D road map and targeting initial sampling of 1.6T LPO drivers and TIAs before year-end.
+
+Regarding active copper cables, customers benchmarking ACCs against the competing technologies are seeing clear advantages, excellent signal integrity, lower latency, and more importantly, power consumption up to 90% lower than DSP-based AEC solutions. We expect to ramp ACCs with a major hyperscaler during calendar year 2026. With this deployment transitioning incorporating ACCs in place of AEC or DACs, we anticipate broader market penetration as this hyperscaler demonstrates ACC's benefit versus incumbent technologies.
+
+Our engagements with additional ACC customers are intensive and broad-based, and we anticipate more design wins over coming quarters. In addition, a number of customers, including our android customer, are evaluating the integration of our CopperEdge linear equalizers on their PCB boards and connectors to improve signal integrity of high-speed links. We anticipate design win of onboard CopperEdge use cases over the coming quarters.
+
+Moving forward, we believe our broad portfolio of FiberEdge TIAs and our rapidly emerging CopperEdge and LPO solutions position us for accelerating data center revenue growth throughout 2026.
+
+Now moving to our High-End Consumer end market. Net sales for Q3 were $41.9 million, up 2% sequentially and up 5% year-over-year. Year-to-date net sales were $118.5 million, up 6% compared to the same period last year. Growth from our High-End Consumer's portfolio is outpacing market metrics such as worldwide handset unit volume growth by a considerable margin, demonstrating market share gains, customer adoptions of our differentiated solutions and the strong supply chain execution.
+
+In addition, our PerSe sensing technology continues to be designed in a growing range of applications, including smart glasses and smartphone platforms supporting both existing designs and new launches over the coming quarters. As I referenced earlier, we completed the acquisition of leading force-sensing portfolio from Qorvo at the beginning of Q4.
+
+The integration is well underway with our first product shipped starting last week, and we look forward to this combination expanding our sensor portfolio with a proven IP and paired with our global go-to-market engine, unlocking cross-selling opportunities across a diverse array of leading customers. The combination of this unique capabilities provides a robust set of touch and gesture detection capabilities.
+
+Moving to our Industrial end market. Q3 Industrial net sales were $147.2 million, up 3% sequentially and up 12% year-over-year, driven by another quarter of strong LoRa performance. LoRa-enabled solutions net sales were $40 million, up 10% sequentially and up 40% year-over-year, supported by the continued expansion across several end markets and multiple applications in verticals such as smart utilities, smart building, smart city and asset management.
+
+Looking ahead, we believe we are well positioned to drive LoRa adoption with additional capabilities and features. Our recently launched Gen 4 LoRa Plus transceivers offer integrated multiprotocol connectivities in addition to the LoRaWAN capabilities in a single chip across both sub-gigahertz and 2.4 gigahertz frequency bands. This simplified hardware design lowers BOM cost and enables customers to create unified design, supporting multiple protocols, thus enabling deployments for customers rolling out solutions across different geographies and regions.
+
+The LoRa Plus transceivers now deliver data rates of up to 2.6 megabits per second on both sub-gigahertz and 2.6 gigahertz band. This capability enables faster transfer of video, images and a richer sensor data while maintaining ultra-low power consumption and enables applications that were not practical before.
+
+We're also continuing to see good traction in commercial drones. LoRa enables long-range communication, up to 10 kilometers for applications like agriculture monitoring, livestock tracking and infrastructure inspection. With Gen 4's higher data rate, drones can now transmit images and sensor data in real time while covering larger areas efficiently.
+
+Our IoT systems and connectivity business recorded Q3 net sales of $88.3 million, down 1% sequentially and up 7% year-over-year. We see strong design win momentum as IoT transitions from 4G to 5G, leveraging our market leadership. As of this quarter, we have completed all the necessary certifications for our 5G RedCap modules, and the products are now commercially available.
+
+The business pipeline continues to be strong, thanks to the broader market recovery and the favorable geopolitical environment for this business. Networking solutions with routers, gateways and Airlink services in the portfolio had a strong execution quarter, advancing strategic initiatives across carrier partnerships, software platform innovation and the market positioning. We expanded our 5G stand-alone capabilities with support for network slicing, enabling dedicated first responder network slices on T-Mobile's key priority and Verizon's frontline networks.
+
+We believe this positions Airlink as a differentiated solution for mission-critical public safety communications where quality of service and network's prioritization are essential. We launched AI-powered support tools, delivered our next-generation management platform supporting both cloud and on-prem customer requirements and announced a strategic partnership with [ GTEC ], extending our reach by embedding Airlink connectivity into their rugged computing ecosystem.
+
+The mission-critical cellular router market continues growing in double digits with accelerating 5G refresh cycles, and we believe we are well positioned to capture share through our carrier relationships, ecosystem partnerships and differentiated ruggedized solutions. We also launched the industrial first single vendor offering with Skylo, providing access to terrestrial and satellite networks through a single SIM and delivering the industry first complete device-to-cloud terrestrial and satellite IoT solution from a single partner.
+
+Our strong results this quarter reflected the impact of our focus on growth of our core assets, disciplined R&D investments and the deep and expanding partnerships we are building with our customers. As power constraints intensify for our customers across all our end markets, we believe Semtech is uniquely positioned to lead with ultra-power efficient solutions spanning high-bandwidth data center networking, LoRa connectivity for rapidly expanding IoT use cases and sensing technologies that enable the functionality of next-generation AI interfaces. We see significant opportunities ahead and are focused on executing against them while continuing to create long-term value for all of our stakeholders.
+
+Now, let me lay out my priorities for the next few months. First, capture growth opportunities in our core assets. Through selective strategic investments, we plan to fill key capability gaps. Leveraging our operational excellence, we will also focus on ensuring capacity availability, particularly against the backdrop of tight supply and geopolitical uncertainties.
+
+Second, focus on the divestiture of non-core assets. This will help address margin disparities and enable us to focus fully on our core business priorities. Third, strengthen our winning culture and elevating our company mindset to work [ great ] is the new normal.
+
+In the year of Semtech Rising, we fixed the balance sheet, aligned our core portfolio with market growth drivers and built a strong foundation of winning culture. Building on the momentum of these successes, we are now embarking on the journey of Semtech Transforming, paving the way towards Semtech excellent and solidify our position as a global leader in enabling next-generation data center, LoRa-based IoT and our expanded sensing portfolio.
+
+With that, I will now turn the call over to Mark for additional details on our financial results and our outlook for the fourth quarter of FY '26.
+
+Mark Lin
+Executive VP & CFO
+
+Thank you, Hong. For Q3, we recorded our seventh consecutive quarter of net sales growth with record net sales of $267 million, above the midpoint of our outlook and up 13% year-over-year. Net sales trends by end market, reportable segment and geographic region are included in the accompanying earnings presentation.
+
+Adjusted gross margin was 53.0%, at the midpoint of our outlook. Total semiconductor products gross margin was 61.3%, up sequentially from 60.7% and up year-over-year from 59.9%. Total semiconductor products gross margin reflects meaningful sequential and year-over-year net sales gains in data center and LoRa. IoT Systems and Connectivity gross margin was reflective of mix related to net sales growth in cellular modules with Q3 at 36.6% compared to 39.5% in Q2 and 41% in the prior year period.
+
+Adjusted net operating expenses were $86.5 million, below the midpoint of our guidance range, benefiting from prudent cost control and a relatively stronger U.S. dollar. Adjusted operating income was $54.9 million, up 13% sequentially and up 26% year-over-year, resulting in an adjusted operating margin of 20.6%, up 180 basis points sequentially and up 230 basis points year-over-year.
+
+Adjusted EBITDA was $62.7 million, up 11% sequentially and up 23% year-over-year. Adjusted EBITDA margin was 23.5%, up 160 basis points sequentially and up 190 basis points year-over-year. Adjusted net interest expense was $2.5 million, down 86% year-over-year.
+
+The capital structure changes completed in October were in effect for only 2 weeks of the quarter, so the bulk of the benefit will be realized starting in Q4. To summarize these changes, we issued a $402.5 million convertible note, inclusive of the Greenshoe due November 2030 with a coupon of 0% and a conversion premium of 42.5%.
+
+Along with the offering, we entered into capped calls, which increased the conversion premium to 100%. As such, until we reach an effective conversion stock price of $141.82, the 2030 note will not factor into non-GAAP dilution. And of course, no cash interest is due on the note. Net proceeds from the 2030 note, along with the issuance of 5.3 million shares and $3.5 million in balance sheet cash were used to fully retire our 2028 notes with a coupon of 4% and about $219 million of the 2027 notes with a coupon of 1.625%.
+
+We also fully repaid our term loan for which we were incurring cash interest at about 5.8%. Our debt currently consists of $402.5 million of the 2030 notes and $100.5 million of the 2027 notes. Currently, annualized interest expense is under $3 million compared to $75 million for the third quarter of last year. Our significantly reduced cash burden from interest allows us to continue our acceleration of investments in strategic high-growth areas of our business while driving earnings growth and positive cash flow.
+
+We were well positioned for the forward-sensing portfolio acquisition, which closed at the beginning of Q4 and which we expect will integrate very well into our sensing portfolio. Other net non-operating expenses were $0.4 million, primarily from foreign exchange revaluation losses. We recorded adjusted diluted earnings per share of $0.48, up 17% sequentially from $0.41 and up 85% from $0.26 recorded a year ago.
+
+Our income statement results have translated to strengthening cash flow. Operating cash flow for Q3 was $47.5 million, sequentially up 7% from $44.4 million and up 60% from $29.6 million a year ago. Free cash flow for Q3 was $44.6 million, sequentially up 8% from $41.5 million and up 53% from $29.1 million a year ago. We ended Q3 with a cash and cash equivalents balance of $164.7 million. At the end of Q3, net debt sequentially decreased $20.8 million to $338.3 million.
+
+Along with debt reduction, strong business performance contributed to an adjusted net leverage ratio of 1.5 as of the close of Q3, down sequentially from 1.6 and down year-over-year from 7.2.
+
+Now, turning to our fourth quarter outlook. We currently expect net sales of $273 million, plus or minus $5 million, up 9% year-over-year at the midpoint. We expect net sales from our Infrastructure end market to increase sequentially, supported by projected sequential data center growth of approximately 10%. We expect net sales from our High-End Consumer end market to decrease about 3% sequentially. Typical seasonality in this end market is expected to be partially offset primarily by market share gains, but also from projected contributions from the newly acquired force-sensing portfolio.
+
+We expect net sales from our Industrial end market to be about flat with lower decreases offset by growth in IoT systems and connectivity. Based on expected product mix and net sales levels, we expect adjusted gross margin to be 51.2%, plus or minus 50 basis points. Our consolidated adjusted gross margin outlook reflects sequential mix changes in the Industrial end market. We project strong net sales growth from cellular modules, which are part of our IoT systems and connectivity business with gross margins that are considerably below the corporate average.
+
+Lower net sales with gross margins considerably above the corporate average are expected at about the midpoint of the $30 million to $40 million range we provided during last quarter's call. That said, our gross margin outlook for our total semiconductor products is expected to be 60.5%, plus or minus 50 basis points; up 220 basis points year-over-year at the midpoint and incorporates our projections of data center net sales growth.
+
+Adjusted net operating expenses are expected to be $91.2 million, plus or minus $1 million, resulting in adjusted operating margin at the midpoint of 17.8%. Included in the higher fourth quarter adjusted operating expense outlook are R&D costs associated with the addition of the force-sensing business, along with increased investment in support of our growing data center portfolio. We have demonstrated strong returns on our R&D investment and expect incremental returns from our future investments.
+
+Adjusted EBITDA is expected to be $56 million, plus or minus $3 million, resulting in adjusted EBITDA margin at the midpoint of 20.5%. We expect adjusted interest and other expense net to be approximately $0.5 million. We expect an adjusted normalized income tax rate of 15%, consistent with Q3. These amounts are expected to result in adjusted diluted earnings per share of $0.43, plus or minus $0.03 based on a weighted average share count of 95.7 million shares.
+
+Mitchell Haws
+Senior Vice President of Investor Relations
+
+Thank you, Mark. We can now turn the call back over to the operator for the question-and-answer session.

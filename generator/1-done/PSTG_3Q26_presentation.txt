@@ -1,0 +1,180 @@
+Pure Storage, Inc. (PSTG) Q3 2026 Earnings Call December 2, 2025 5:00 PM EST
+
+Company Participants
+
+Paul Ziots - Vice President of Investor Relations
+Charles Giancarlo - Chairman & CEO
+Tarek Robbiati - Chief Financial Officer
+Robert Lee - VP & CTO
+
+Conference Call Participants
+
+Amit Daryanani - Evercore ISI Institutional Equities, Research Division
+Aaron Rakers - Wells Fargo Securities, LLC, Research Division
+Howard Ma - Guggenheim Securities, LLC, Research Division
+Matthew Calitri - Needham & Company, LLC, Research Division
+Samik Chatterjee - JPMorgan Chase & Co, Research Division
+James Fish - Piper Sandler & Co., Research Division
+W. Chiu - Raymond James & Associates, Inc., Research Division
+Wamsi Mohan - BofA Securities, Research Division
+Erik Woodring - Morgan Stanley, Research Division
+Sreekrishnan Sankarnarayanan - TD Cowen, Research Division
+Asiya Merchant - Citigroup Inc., Research Division
+Eric Martinuzzi - Lake Street Capital Markets, LLC, Research Division
+Mehdi Hosseini - Susquehanna Financial Group, LLLP, Research Division
+
+Presentation
+
+Operator
+
+Good day, and welcome to the Pure Storage Third Quarter Fiscal 2026 Financial Results Conference Call. Today's conference is being recorded. [Operator Instructions] At this time, I'd like to turn the call over to Paul Ziots, Vice President of Investor Relations. Please go ahead.
+
+Paul Ziots
+Vice President of Investor Relations
+
+Thank you. Good afternoon, everyone, and welcome to Pure's Third Quarter Fiscal Year 2026 Earnings Conference Call.
+
+On the call, we have Charlie Giancarlo, Chief Executive Officer; Tarek Robbiati, Chief Financial Officer; and Rob Lee, Chief Technology Officer. Following Charlie's and Tarek's prepared remarks, we will take questions.
+
+Our press release was issued after close of market and is posted on our website where this call is being simultaneously webcast. The slides that accompany this webcast can be downloaded at investor.purestorage.com.
+
+On this call today, we will make forward-looking statements, which are subject to various risks and uncertainties. These include statements regarding our financial outlook and operations, our strategy, technology and its advantages, our current and new product offerings, and competitive industry and economic trends.
+
+Any forward-looking statements that we make are based on facts and assumptions as of today, and we undertake no obligation to update them.
+
+Our actual results may differ materially from the results forecasted, and reported results should not be considered as an indication of future performance.
+
+A discussion of some of the risks and uncertainties related to our business is contained in our filings with the SEC, and we refer you to these public filings.
+
+During this call, all financial metrics and associated growth rates are non-GAAP measures other than revenue, remaining performance obligations, or RPO, and cash and investments. Reconciliations to the most directly comparable GAAP measures are provided in our earnings press release and slides.
+
+This call is being broadcast live on the Pure Storage Investor Relations website and is being recorded for playback purposes. An archive of the webcast will be available on the IR website and is the property of Pure Storage.
+
+Our fourth quarter fiscal 2026 quiet period begins at the close of business, Friday, January 16, 2026.
+
+With that, I'll turn it over to Charlie.
+
+Charles Giancarlo
+Chairman & CEO
+
+Thank you, Paul. Good afternoon, everyone, and welcome to our Q3 FY '26 earnings call. Thank you for joining us.
+
+Pure Storage delivered a strong Q3, continuing to expand revenue growth as customers increasingly look to Pure to solve their most pressing data management requirements.
+
+Our results were underpinned by continued strength in enterprise and sustained momentum in our Evergreen//One and modern virtualization solutions, which includes CBS and Portworx.
+
+During the quarter, we also exceeded our full annual forecast of 2 exabytes of hyperscale shipments and expect to ship more in Q4.
+
+Our strong Q3 performance translates to an increased outlook for Q4 and improved guidance for FY '26, which Tarek will discuss in his prepared remarks.
+
+Our enterprise momentum continues to be driven by the power of the Pure Storage platform, built on our Purity operating system, now enhanced with Fusion. Purity delivers the reliability, simplicity and long-term value that customers depend on to manage their data with confidence. It also powers our Evergreen subscription model, the industry's only continuously modern nondisruptive storage experience.
+
+With Evergreen//One and Fusion, customers can build their own modern enterprise data cloud, automating storage, simplifying management and achieving faster, more efficient, lower-cost operations with zero downtime.
+
+Since the beginning of the year, the number of customers deploying Fusion has more than tripled to the mid-hundreds, proof of the platform's momentum and market demand.
+
+Data is now increasingly vital because of the promise of AI and requires that customers elevate its role in their technology architectures. While software may have been eating the world in the last decade, it appears that data will be eating the world and potentially even eat software in the next.
+
+Since the beginning of modern computing, data has been structured below the applications that create it. It's been locked beneath databases, file systems and backup systems, each designed for a specific purpose, but ultimately isolating their data in silos confined to those services.
+
+This application-centric model limits data visibility and mobility. It slows efficiency and innovation and prevents companies from realizing the full potential of their information. Consequently, data is repeatedly copied and transformed to be useful for other applications such as analytics and AI. Each copy is created and maintained by different individuals by manual processes.
+
+With the massive proliferation of data and copies of data in enterprises managed by manual processes, data is poorly governed, often overproduced and highly fragmented. We believe the era of data being subservient to applications in data center architecture is ending.
+
+Data, the lifeblood of modern organizations, must now take center stage in data center architecture. In a world where artificial intelligence, automation and analytics are redefining competitive advantage, enterprises can no longer afford to treat data as captive to specific applications.
+
+Data must be architected to stand on its own, self-describing, stateless, and managed globally by policy set in software. The Enterprise Data Cloud makes this possible. It gives organizations the ability to access and leverage all their data securely, seamlessly and in real time, regardless of where it originates.
+
+With the right authorizations, any application will be able to access integrated pools of data, enabling faster insight, more intelligent decision-making and greater operational velocity in business.
+
+By freeing data from legacy silos, the Enterprise Data Cloud lets companies operate with the same flexibility, scalability and efficiency as the cloud itself.
+
+Customers who use our Pure Fusion capability embedded in Purity can now manage their data sets globally with policies embedded in software, rather than by fingers on keyboards, enabling storage and data management that is truly defined by software.
+
+At our Accelerate roadshow in New York and around the world, we extended the Enterprise Data Cloud into Azure with our Pure Storage Cloud, which enables customers to unify their data landscape across public and private environments. This Azure-native service for AVS enables seamless migration from on-prem VMware environments with enterprise-grade resiliency and efficiency.
+
+In New York, we continued rolling out powerful innovations across all 3 pillars of the Enterprise Data Cloud. First, we expanded our unified data platform with new systems like the XL 190, and we improved data reduction efficiency on all our platforms, giving customers more capacity and performance on their existing systems.
+
+Second, we enhanced our intelligent control plane with an AI Copilot, which simplifies management and automates complex tasks, making storage operations faster, smarter and more reliable.
+
+Third, we expanded our partner ecosystem to deliver greater value through integrated cybersecurity and data protection. As the pace of our technology advancement accelerates with scale, we expect to continue to gain market share in more and more segments of the data storage and management space. In the quarter, we were recognized in the two most important Gartner Magic Quadrants for our industry. In the Enterprise Storage Platforms Magic Quadrant, Pure was positioned highest for execution and furthest for vision. We were also recognized as a leader in the first-ever Infrastructure Platform Consumption Services Magic Quadrant.
+
+Additionally, Pure was recognized as a leader in the IDC MarketScape on support services globally, reflecting our strengths in reliability, proactive connective support and our customer-first mindset.
+
+Portworx continues to lead the industry in defining storage in the cloud-native, Kubernetes and container world. Customers want more flexibility, lower cost and modern architectures that support cloud flexibility. It's why companies like NVIDIA, SiriusXM and a major global bank have chosen Portworx. In Q3, one of the world's largest enterprise software companies selected Portworx to overcome multi-cloud fragmentation. They accelerated the deployment of their cloud services across AWS, Azure, Google Cloud and Alibaba Cloud, ensuring a consistent operational experience, enterprise-grade data protection and high availability.
+
+Modern virtualization is a subject in great demand with our customers. Across the industry, 3 trends are driving this shift. The search for alternatives to expensive legacy virtualization models, the rise of containers and KubeVirt, and the significant increase of AI and machine learning built on Kubernetes.
+
+Portworx and our solutions in partnership with Nutanix, Microsoft, Red Hat and others are leading this transition away from traditional virtualization solutions. Portworx is now becoming practically mandatory for any scaled Kubernetes virtualization deployment. As Kubernetes extends beyond virtualization to power modern applications and AI workloads, Portworx's role continues to grow. Portworx lets customers run any application anywhere, securely, efficiently and up to 2 or 3x lower cost, so they can modernize faster and operate with greater speed and flexibility.
+
+Neoclouds represent another fast-growing market for specialized storage technology. This new generation of specialized high-performance cloud platforms built for AI, machine learning and other compute-intensive workloads represent a new segment of cloud infrastructure, driving new benchmarks for performance and scale. Recently, we published our latest benchmarks for FlashBlade at Supercompute, a leading conference on high-performance computing and AI.
+
+FlashBlade//EXA delivered data to thousands of GPUs twice as fast as competing systems in less than half a rack. FlashBlade//EXA extends the power of our Purity architecture to these next-generation clouds, pushing the limits of performance for AI and high-performance computing with superior sustainable throughput and scalability.
+
+As we have discussed over the past year, Pure provides a compelling alternative to hyperscalers who face mounting hard disk and SSD cost and power constraints. As I stated earlier, we have already exceeded our annual plan for shipments by the end of Q3. But consistent with our statements at our September Financial Analyst Conference, we will not be providing specific information on shipments to hyperscale customers going forward. We will share more information next quarter about the outlook for FY '27 and the economics of our hyperscale business as it impacts our financials.
+
+Turning to the macro environment, we foresee increased commodity pricing and excess demand putting pressure on global supply chains. As in the supply chain crisis of 2021 and 2022, we anticipate both extended component lead times and higher component pricing across the technology industry in the quarters ahead. Pure is well prepared for this challenge with a resilient supply chain, a broad global supplier base, manufacturing sites on 3 continents and strong business continuity plans.
+
+As we've noted a number of times before, given our industry's dynamic pricing environment, the effect of commodity pricing tends to affect our top line more than gross margin. Thus, we would expect higher commodity pricing to positively affect revenue growth.
+
+Finally, I am pleased to welcome Pat Finn to Pure as our next Chief Revenue Officer. Pat brings extensive experience in scaling sales and go-to-market organizations within high-tech infrastructure companies, along with a proven record of building lasting customer relationships with leading global enterprises.
+
+I also want to extend my gratitude to Dan FitzSimons for his dedication and contributions to Pure over the last decade and for his continuing engagement with Pure to maximize our opportunity. His leadership was and is instrumental in expanding our operations, advancing our enterprise and commercial strategies and helping advance Pure from its early days to the global enterprise it is today.
+
+With that, I will hand it over to Tarek.
+
+Tarek Robbiati
+Chief Financial Officer
+
+Thank you, Charlie. In Q3, we delivered strong revenue and operating profit results, both exceeding the high end of our guidance range.
+
+Revenue of $964 million grew 16% year-over-year and operating profit grew 17% year-over-year to $196 million which is a record for the company and resulted in an operating margin of 20.3%.
+
+Our Q3 results demonstrate sustained demand for our differentiated data storage and management offerings. Sales across our portfolio remained robust, led by ongoing strength in the enterprise and our hyperscaler business. We also continue to see strong traction of our Evergreen//One and modern virtualization solutions, which includes Cloud Block Store.
+
+Our success this quarter continued to be driven by the strength of the Pure platform value proposition across multiple customer segments. Our single operating system, Purity delivers simplicity and reliability across just 2 hardware offerings, blades and arrays. We provide the industry's only truly nondisruptive upgrades and the only genuine storage as a service offering through Evergreen//One.
+
+In terms of data management, no competitor can match the capabilities we are delivering with Fusion and the Enterprise Data Cloud. And with our differentiated DirectFlash technology, we are able to expand into a large, newly addressable hyperscale market, where traditional storage system vendors cannot compete.
+
+Underscoring this competitive advantage, hyperscaler shipments as of Q3 year-to-date exceeded our original forecast for fiscal year '26 of 1 to 2 exabytes. We expect momentum in our hyperscaler business to continue in Q4 and obviously for fiscal year '27. We will not be providing any additional quantitative guidance on our hyperscaler business this fiscal year, but we do expect to provide additional color for our next fiscal year at the end of Q4.
+
+Product revenue of $534 million grew 18% year-over-year. As a reminder, our product revenue category now includes royalties that we receive from hyperscale shipments as well as a portion of Portworx software revenue when sold as term licenses. Q3 TCV sales for our storage-as-a-service offerings grew 25% year-over-year to $120 million. This consistent growth reflects Evergreen//One and subscription-based offerings, strong resonance with our customers by delivering a consistent, nondisruptive operating and management environment.
+
+Subscription services revenue in Q3 reached $430 million, up 14% year-over-year, accounting for 45% of total revenue. ARR grew 17% to $1.8 billion, while total remaining performance obligations, or RPO, grew 24% to $2.9 billion. RPO encompassing our storage-as-a-service offerings and Evergreen subscriptions across our installed base grew 22% exiting Q3.
+
+With respect to our geographic mix of revenues, U.S. revenue was $683 million, growing 22%, and international revenue was $281 million, growing 4% year-over-year. Overall, we added 258 new customers and our penetration of the Fortune 500 is now 63%.
+
+Turning to margins and profitability. Total gross margin increased to 74.1%. Subscription services gross margin was 75.5%, and product gross margin increased to 72.9%.
+
+Growth in product gross margins reflects a stronger mix of higher performance flash arrays, a slightly larger proportion of Portworx software sold as term licenses as well as hyperscaler shipments. On a full year basis, we expect that product gross margins will sit closer to 70% with some variability in magnitude quarter-to-quarter.
+
+Operating profit of $196 million and operating margins of 20.3% in Q3 were both positively impacted by revenue strength and robust gross margins.
+
+Our head count increased sequentially by 104 employees to approximately 6,200 employees.
+
+Our balance sheet remains strong with $1.5 billion in cash and investments. Q3 operating cash flow was $116 million and our capital investments of $63 million included test and infrastructure equipment to support data center expansion and funding of Evergreen//One subscription growth.
+
+In Q3, our free cash flow performance was strong as we generated $53 million of free cash flow for free cash flow margin on revenue of 5.5%.
+
+We returned $53 million to shareholders through the repurchase of 600,000 shares and offset roughly 1 million shares in employee's award withholding taxes, and we currently have $56 million of our buyback authorization remaining. We intend to update you on a new share repurchase authorization at the end of our fiscal year '26.
+
+Now turning to our guidance for fiscal year '26. Strong Q3 results and higher expectations for Q4 contributed to an increase in full year revenue and operating profit guidance for fiscal year '26.
+
+For Q4, we anticipate revenue to be in the range of $1.02 billion to $1.04 billion, representing approximately 17.1% year-over-year increase at the midpoint. We also expect operating profit to be in the range of $220 million to $230 million, representing approximately a 47% year-over-year increase at the midpoint.
+
+As a result of our Q4 guidance, for fiscal year '26, we anticipate revenue to be in the range of $3.63 billion to $3.64 billion, representing 14.7% year-over-year growth at the midpoint. This is a 70 basis points increase from our previously provided revenue guidance of 14% year-over-year growth.
+
+We expect operating profit to be in the range of $629 million to $639 million, representing approximately a 13.3% year-over-year increase at the midpoint. This is over a 330 basis points increase from our previously provided operating profit guidance.
+
+The projected increase in operating income for fiscal year '26 reflects the strength of our business and the impact of hyperscaler revenues on gross and operating margins. Most importantly, I would like to emphasize and reiterate that beyond fiscal year '26, we are planning to capitalize on the financial benefits from hyperscaler revenues to continue making significant incremental investments in R&D and sales and marketing in order to sustain our momentum and capture additional profitable growth opportunities in the enterprise aligned with our long-term strategy.
+
+As we close fiscal year '26, we will provide guidance for fiscal year '27 that will factor in these increased investments.
+
+In addition, and as foreshadowed by Charlie, we plan to grow our hyperscaler business. In doing so, we will be evaluating additional business model options that may result in changes in gross margin economics for the hyperscaler business in fiscal year '27 relative to fiscal year '26. We will also provide an update to the market as we finish fiscal year '26 and provide guidance for fiscal year '27.
+
+With that, I'll now turn the call back to Paul for Q&A.
+
+Paul Ziots
+Vice President of Investor Relations
+
+Thanks, Tarek. [Operator Instructions] Operator, let's get started.

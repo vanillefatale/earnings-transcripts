@@ -1,0 +1,139 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] And our first question comes from the line of Dylan Carden with William Blair.
+
+Unknown Analyst
+
+This is Marcus Bellinger on for Dylan Carden. I was just curious, could you provide a little bit more color on new customer behavior and just your general view under stickiness. What metrics are you tracking that inform this view outside of the 30-day LTV that you mentioned?
+
+Matt Baer
+CEO & Director
+
+Marcus, I appreciate the question. I'll share some insights, and David, feel free to add anything additional. When we look at the client behavior that we're seeing across the board, we're extremely enthusiastic in terms of what we've been seeing. We shared in the prepared remarks that we've seen 9 consecutive quarters of improving LTV for new client acquisition. New clients have also been -- were also up last quarter for both year-over-year and quarter-over-quarter, which gives us a lot of confidence that we're going to continue to see more health in our overall client base moving forward.
+
+We're also seeing strength within our reengagement with our reengaged clients or formerly dormant clients. They continue as they rejoin the service to stay longer and spend more, which again is really encouraging to continue to improve the overall health of our client base. And then finally, when we're looking at our clients that might otherwise go dormant, we just completed a quarter in which we had the lowest number of dormant clients in 5 years. Some additional signals that show the strength overall in our client base, as we shared in our prepared remarks, is that our men's business has returned to sequential increases in our overall active clients.
+
+And that is one of many things that give us further confidence that we will return to overall sequential active client growth in Q3. So those clients that we have, they're staying longer, they're spending more. The new features that we've launched are driving incremental engagement. And we're also seeing -- and then those new clients that have joined, we're also seeing them stay longer and spend more. So we're really proud of the overall widespread and holistic impact with everything that we've done.
+
+Operator
+
+Our next question comes from the line of Aneesha Sherman with Bernstein.
+
+Aneesha Sherman
+Sanford C. Bernstein & Co., LLC., Research Division
+
+Congratulations on the quarter. Matt, you talked about gaining share and you cited some pretty strong numbers about share gains versus the total apparel, accessories and footwear sector. Can you talk about where do you think that market share is coming from? I mean, is it from other multi-brand retailers? Is it from trade down? I mean what are you hearing from the brands that you talk to about where those share gains are coming from? And then on gifting, I was surprised to hear you say that gifting was so strong. It's typically not a very strong use case for you. Do you think that's changing? And especially as you move more into freestyle, is gifting becoming -- gifting or maybe even holiday use becoming more of an occasion for you?
+
+And if I could throw in one more quick follow-up for David around advertising. 9% to 10%, it sounds like the sales numbers are working, the client numbers are working. How do you think about maybe leaning in on that more to drive more of the top line, if needed?
+
+Matt Baer
+CEO & Director
+
+Yes. Aneesha, it's Matt. I'll answer the first 2 on market share and holiday performance. And as you noted, David can chime in on the advertising and any additional commentary. First, appreciation for the recognition, the team deserves it. They're doing a phenomenal job in order to deliver these incredibly impressive results and market share gains. Speaking of those market share gains, it's a great question. And the work that the team has done to improve the client experience is clearly resonating.
+
+The work that we've done to continue to improve the trends overall in our active client growth rates continue to demonstrate that as well. And with regards to who we're taking market share from, what we're doing is we're focused on delivering the most client-centric and personalized shopping experience. And in doing so, we're picking up share from where other retailers aren't delivering. And we're taking that share from a wide range of retailers who don't and cannot offer the personalization consumers want and expect, which is so core to our business.
+
+And as you noted, we're hearing loud and clear from the brands that we work with, that we are delivering outsized growth relative to others that they might be working with. In terms of our holiday performance, as I noted in the prepared remarks, we really entered this holiday season with the most seasonally relevant assortment, competitive pricing, really compelling promotions and a lot of new ways for our consumers to engage with us and to shop.
+
+For example, themed fixes or fixes built around the freestyle item. Also a significant improvement in terms of some of the engagement experiences like Stitch Fix Vision and Stylist Connect. Specifically in terms of gifting, the more recent launch of family accounts has delivered results that have exceeded our expectations. With family accounts, we heard loud and clear from our clients that they were looking to bring the Stitch Fix experience to their entire family. They love the service that we provided and they wanted to make sure that they were able to use it for spouse partners, children and any other loved ones as well.
+
+In fact, 92% of our women's clients shop on behalf of a spouse partner. So when we created the ability to launch family accounts. We saw phenomenal engagement right out of the gate, and that was really the entry way for us in order to start to deliver a gifting business over the holiday season. In addition to the gifting though, as you well know, a lot of the purchases that happened over this time period are just gifts for others, they are gifts for self. And that's where we have really led the way, and that's what helped us deliver record-breaking sales over the Black Friday to Cyber Monday time period.
+
+David Aufderhaar
+Chief Financial Officer
+
+And then Aneesha, on the advertising, this quarter, we did lean in a little bit on advertising. We ended up at the high end of that 9% to 10% range at 9.9%. And I think it goes back to what we've talked about in the past about that methodical approach to advertising and really holding ourselves accountable to those CAC to LTV ratios. And because of that, we tend to see some seasonality in our marketing spend. And so we leaned in, in Q1. Q1 and Q3 tend to be our stronger quarters.
+
+So you'll probably see us spending more at the lower end of that range in Q2. And all of that is just to make sure that we are really focused on not just adding clients to add clients but really making sure to Matt's point that we're bringing in really healthy clients and sort of what he highlighted earlier, that new client LTV is something that we really keep an eye on. And this last quarter, it was up almost 17% year-over-year.
+
+And that's really just a very clear indication that the marketing efforts are working and we're bringing in clients that truly engage with the service and see value in the service. And we'll continue with that methodical approach and where we do find opportunity like we're very comfortable leaning in.
+
+Operator
+
+Next question comes from the line of David Bellinger with Mizuho.
+
+David Bellinger
+Mizuho Securities USA LLC, Research Division
+
+I want to ask about the consumer facing AI and visualization tools. Any read on the early adoption there? Any numbers you could share with us? Or in what ways are consumers using and engaging these tools early on?
+
+Matt Baer
+CEO & Director
+
+Yes. Great question. And we're really excited about this truly innovative feature that we've created at Stitch Fix Vision, where clients can upload a couple of pictures on themselves and see a generative AI image visualization of themselves of their likeness dressed head to toe in Stitch Fix apparel. That experience is completely shoppable and fully shareable across all social media platforms. And we're seeing engagement from our clients that far exceeded our expectations when we rolled out the beta just a couple of months ago. And we're seeing clients use it in many different ways. We're seeing clients that are using their Stitch Fix Vision images and sharing it back with their stylists to help inform what they're looking for in their next fix.
+
+We're seeing clients purchase directly from the Stitch Fix Vision image itself. And we're also seeing a lot of what we call Stitch Fix Vision in the Wild, where clients are actually sharing it across their social platforms. They're sharing it with friends and family, and it's creating a bit of a virality and organic growth for us from a client acquisition standpoint as well. So we're really encouraged by the early adoption that we're seeing across the board, and we're even more excited about how we'll lean into it into the future with additional applications.
+
+David Bellinger
+Mizuho Securities USA LLC, Research Division
+
+If I can just get one other one in. So question on the gross margin performance for David. I know it was down 180 basis points versus last year, still within your full year range or so. But could you just help us bridge that decline? And anything we should expect for the Q2 period?
+
+David Aufderhaar
+Chief Financial Officer
+
+Yes, David, I can give you more color on that. I think we might have highlighted this a little bit on the last earnings call, but the decline from a year-over-year perspective is 3 factors. First is transportation expenses. Our transportation teams have done a great job over the last 3 or 4 years of really driving leverage in our transportation costs through carrier diversification, negotiations, even last mile carriers. And in FY '25, it was probably the lowest percent of revenue we've seen in a very, very long time. And this year, it's more around those general rate increases that you're seeing. USPS is a big part of that and seeing those general rate increases. And so that's part of the gross margin decline.
+
+And then the second part is really investing in different categories from a merchandising perspective, which we really consider a great investment and a great ROI really leaning into some of those categories that we feel like we have market share opportunity like footwear is a great example where they just have lower margins. But we're able to outfit a client entirely, and I think that will really drive a higher LTV from a full client perspective. And so we're really happy with that investment as well. And then the third and honestly, the smallest of the 3 is tariffs.
+
+There was a small impact to tariffs, but again, our teams have done a very good job negotiating and really minimizing that impact from tariffs. So I'd say that was probably the smallest of the 3. And the other thing I'd highlight is it's another reason why we've been calling out contribution margins over the past few quarters is we've done a lot of work in making sure that we're driving efficiency within our warehouse and stylist teams. And because of that, having contribution margins that are still well over 30%, they were 32.5% this last quarter. we feel really confident that we can continue to drive leverage in the business.
+
+And for Q2, I would expect margins to be in a similar place than they were this quarter, pretty much right in the middle of where our guidance -- our full year guidance range is.
+
+Operator
+
+Next question comes from the line of Jay Sole with UBS.
+
+Jay Sole
+UBS Investment Bank, Research Division
+
+I have a couple of questions. Matt, can you just, first of all, break down just for us the opportunity with different brands? Because you mentioned you're bringing in some great brands, you're having success. Is it -- what is it that's attracting brands? Or is it really you just going on reaching for more brands now that you can sell them? Just explain to us how the quality of the third-party brand profile is improving. Could you talk about how the private label is improving? And then just on net revenue per active client, I think it was up 5% year-over-year. I think that's the seventh quarter in a row you've had growth. Can you just kind of break down the drivers of it? And then just on active clients, you did touch on this. I think it was down 5%, but it continues to improve. I guess what are the drivers there? Can you just give us any color on some of the demographics and some of the newer customers that you bring in, what the demographics of those newer customers are?
+
+Matt Baer
+CEO & Director
+
+Yes, absolutely. Happy to answer that. I'll start with the brand question. David, if you want to start with [indiscernible] and then active clients, and I'll add some additional insight probably after that as well. The Stitch Fix service is an incredibly attractive value proposition for third-party brands to work with. We create a phenomenal experience for our clients. And in turn, that creates a really positive experience for the brands themselves. As a closed ecosystem, brands that work with us, they don't have to worry about seeing their product on deep discounts fully visible to the entire market and all consumers. They don't have to worry about the adjacency of seeing their product hanging on racks or on digital shelves next to products of inferior quality.
+
+Everything that we do is personalized to the individual. So when their product shows up either on our site or delivered to their home in Fix, it's with other brands that they'd be proud to see from an adjacency standpoint, and we treat the brands with respect throughout the process. We also do a phenomenal job in terms of based on everything that we know about our clients to ensure that we're getting price, style and budget right. So when we deliver product to a client, it's a product that they're going to have a high level of resonance with. It's product that they're going to be excited to get and that they're going to keep at a really high rate.
+
+And that experience that we provide for brands becomes really attractive and is part of the reason why they're so eager to work with us. And then when they do, why they have such an exceptional experience as a partner of ours. It's also why so many coveted brands, we are the largest or one of the largest retail partners that they have and also why some of the brands, we are their exclusive retail partner other than their direct-to-consumer platform. As we continue to expand that brand portfolio, our clients are absolutely recognizing it, and it's part of the reason that they continue to engage more, and it's part of what's continued to drive up our average order values as well as our overall client LTVs. So it's just a really great experience we provide and a really good partnership that we offer each of them.
+
+David Aufderhaar
+Chief Financial Officer
+
+And then, Jay, on the RPAC side, really definitely encouraged with what we're seeing there. It was up 5% year-over-year this last quarter, and I think we highlighted that it was the seventh quarter in a row that we improved from a year-over-year perspective. A big part of that is what we are calling out with those new client LTVs that when you see that, it's really a big part of what you're seeing because as those new clients become a larger share of the base, that's really starting to impact RPAC.
+
+And I think the other thing that highlights that really well is average order value is average order value was up almost 10% year-over-year, and it was the ninth consecutive quarter that it's been up. So definitely something that is driving a lot of strength. And within average order value, there are probably 2 things I'd call out. One of those is just a higher average number of items sent in fixes where that larger fix offering is really resonating with our clients, and we're seeing a lot of adoption there.
+
+And then we're also seeing some upside in AUR as well. That was up 3% year-over-year. And that was really more about that mix shift into some of these newer categories that we've been leaning into. And so definitely seeing encouraging signs across all of those metrics that are coming through in that revenue per active clients.
+
+On the active client side, we were really encouraged with what we saw this last quarter. We ended at the high end of our expectations, really just slightly down for the quarter. And what we are seeing, I think, Matt highlighted a little bit of this earlier, but really across all 3 of the views of active clients, where new client acquisition was up year-over-year, and we continue to see strength there. Reengaged clients is an area where we've really seen some great strength. Reengaged clients were up 8% year-over-year this last quarter.
+
+And so definitely an area that we're leaning into and really bringing some of those clients back into a really new experience and experience with a very different level of assortment. And so seeing strength there. And then dormancy, our client retention continues to get better. And so just playing forward those 3 lines is really how we have the confidence in being able to continue to say that in Q3, we expect a quarter-over-quarter inflection. And there is definitely seasonality to our active clients. There's also seasonality to our marketing spend as well.
+
+And so in Q2, it tends to be a seasonally slower quarter for us from a client acquisition perspective. And so we'll probably expect active clients to be slightly down from a quarter-over-quarter perspective. But then still very confident that in Q3, we expect a quarter-over-quarter increase.
+
+Matt Baer
+CEO & Director
+
+A couple of other points that I think are relevant. I'll call out here that impact both are relevant for both RPAC and active clients overall. First, we're just incredibly encouraged that we are seeing strength across all income segments from our client base and that gives us a lot of additional confidence in terms of that increased guide within both Q2 and our full year as the service that we offer is one that serves well clients no matter what the macroeconomic environment is because of the deep and enduring relationship that clients have with their stylists and the ability for us to tailor each of those experiences to their budget at any given time.
+
+And then the second is that the growth that we have, that's being driven by both increased client engagement as well as increased unit sales. It's not being driven by inflation. So the growth that we're delivering is that healthy growth that's going to lead to sustainable and profitable overall enterprise growth.
+
+Operator
+
+[Operator Instructions] There are no further questions at this time. I would like to turn the call back over to our CEO, Matt Baer. Thanks.
+
+Matt Baer
+CEO & Director
+
+To close, I'd like to recognize the entire Stitch Fix team for their exceptional execution this quarter. I'm proud of how we're increasingly establishing Stitch Fix as our clients' retailer of choice for more of their apparel and accessories needs and that's evidenced by the revenue growth in the quarter and the considerable market share gains we captured, which we discussed. Our results this quarter, they are a testament to the superior retail experience we provide. We believe we offer a higher level of convenience personalization, service, inspiration and innovation than anyone else in the market.
+
+I appreciate your interest in our business and we believe the continued execution of our strategy will further fuel the momentum we have in our business and drive long-term sustainable profitable growth, and I look forward to sharing our continued progress.
+
+Operator
+
+Ladies and gentlemen, that concludes today's call. Thank you all for joining, and you may now disconnect.
+

@@ -1,0 +1,137 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from the line of Colin Rusch with Oppenheimer.
+
+Colin Rusch
+Oppenheimer & Co. Inc., Research Division
+
+Congrats on the capital optimization here. I'm curious about the product evolution and the confidence that you're projecting around calendar year next year. Can you talk a little bit about any demand that you're seeing from virtual power plants, some of the geographies that are potentially in kind of tight supply situations from an electricity standpoint and products that you're seeing that are starting to emerge outside of NEVI that could actually help inflect demand in a meaningful way as you go through the calendar year next year?
+
+Richard Wilmer
+President, CEO & Director
+
+Yes. Thanks, Colin. I think on 2 fronts, 2 things we've announced that both tie into the DPP play are, one, the new Flex product line that we announced since fully V2G and V2H enabled that is particularly cost-effective and powerful when paired with the Eaton smart breaker and smart panel technology. This is something we showed at the RE+ show earlier this year, and that will be -- that will start rolling out in 2026.
+
+And then on the other end of the spectrum, on the DC fast charging product that we've announced our new Express line, there is a configuration of that product that can integrate directly with the DC grid and the amount of capital savings that is enjoyed by doing so due to the elimination of a lot of power conversion and being able to integrate directly with solar and battery, for example, along with improved electrical efficiency provides not only full bidirectional charging but very significant economic benefits in terms of CapEx and OpEx.
+
+Colin Rusch
+Oppenheimer & Co. Inc., Research Division
+
+And I guess if I can have a follow-up, I'm just curious about the potential for inventory reduction throughout the course of this year as you work through some of the remaining items that you have on the balance sheet and go through some of this product transition.
+
+Mansi Khetani
+CFO & Chief Accounting Officer
+
+So we've made some strategic decisions to wind down certain commitments with some of our contract manufacturers. And as a part of that wind-down process sometimes involves having to take some remaining components, which add to inventory. But I think we will see a small decline in Q4, most likely in the inventory balance but we expect a more material decrease throughout next fiscal year as we sell through the existing inventory and manage our supply.
+
+Operator
+
+Your next question comes from the line of Mark Delaney with Goldman Sachs.
+
+Mark Delaney
+Goldman Sachs Group, Inc., Research Division
+
+I also had one on inventory but more with respect to the gross margin potential. And I think in the past, the company had thought that as it works through some of the older inventory and shift these new products, there is an opportunity for that to expand margins. With what you're seeing in the business today and some momentum you've spoken about with these newer products, can you speak a bit more around whether or not you still expect those new products to drive gross margins to the upside as they start to become a bigger contribution to the mix. And just anything you can share in terms of the timing as to when you may start seeing a bigger mix of those as you think about the inventory dynamic.
+
+Mansi Khetani
+CFO & Chief Accounting Officer
+
+Yes. Mark, so I think improvements in hardware margin in the near term will be entirely driven by product mix due to the fact that we've got inventory already produced and ready to ship. We anticipate hardware margins to remain around the current levels until we start selling through that existing inventory. Now in the current hardware margin that you see today, we are seeing some benefit of Asia manufacturing but we expect to see a larger improvement from Asia manufacturing as we sell through our existing inventory. And as we start releasing new products, we'll expect margin improvement. But that should come in towards the latter half of next year. But overall, hardware margin always depends on the final mix.
+
+Operator
+
+Your next question comes from the line of Chris Pierce with Needham.
+
+Christopher Pierce
+Needham & Company, LLC, Research Division
+
+Can you hear me?
+
+Richard Wilmer
+President, CEO & Director
+
+Yes, Chris, go ahead.
+
+Christopher Pierce
+Needham & Company, LLC, Research Division
+
+Okay. Perfect. You've spoken kind of constantly to the second half of calendar next year and projects in Europe. Can you just remind us like lead times, are these projects that you're sort of already negotiating and feel confident that you've won? Or is this just confidence in the new product suite that you're rolling out?
+
+Richard Wilmer
+President, CEO & Director
+
+It's probably more the former. I was in Europe recently personally meeting with many customers talking about these new products. And as I mentioned in the prepared remarks, the response was overwhelmingly positive. There's a lot of people excited about our new DC architecture that I referenced a moment ago and the questions. And I'm quite confident that we'll win a number of fairly significant deals in Europe as we bring that product to market in the second half of next year.
+
+Christopher Pierce
+Needham & Company, LLC, Research Division
+
+Okay. And then just lastly, are these consumer-like passenger car products? Or are these -- are you starting to see fleet wins? Or are there not enough fleet vehicles out there? I just kind of want to get a sense of where you're seeing the momentum.
+
+Richard Wilmer
+President, CEO & Director
+
+It's a combination of both. The new DC architecture is really well suited for passenger vehicle DC fast charge, but it also is really an ideal architecture for megawatt charging for large trucks. And we've talked to our customers in both of those areas, specifically in Europe.
+
+Operator
+
+Your next question comes from the line of Bill Peterson with JPMorgan.
+
+William Peterson
+JPMorgan Chase & Co, Research Division
+
+I guess sort of housekeeping relative to your expectations on the last quarter call, you came in nicely ahead of expectations. Can you provide some color of what came in better than expected? And then anything notable within the network hardware in terms of mix?
+
+And then just adding the second question on here to get back in the queue. Within your expectations for the second half of next year, your growth expectations, would this, in your view, be enough to push you to profitability?
+
+Mansi Khetani
+CFO & Chief Accounting Officer
+
+Yes. So in terms of the first part of the question, Bill, the significant beat was mostly due to a boost in residential billings due to the expiration of the federal EV credits that we saw. We saw a huge boost in sales of our home product. The commercial did well also compared to the prior quarter but the significant beat was mostly due to this boost in the residential billings.
+
+In terms of growth in the second half in EBITDA, we're not guiding to a time frame, but EBITDA as Rick mentioned before, will come with growth in revenue which we are significantly focused on. And as we've mentioned before, with the new products and the increased demand in Europe and the Eaton partnership we think the second half should be pretty strong.
+
+Operator
+
+Your next question comes from the line of Chris Dendrinos with RBC Capital Markets.
+
+Christopher Dendrinos
+RBC Capital Markets, Research Division
+
+Yes. I wanted to follow up a bit more on the Eaton partnership and hopefully, just asking you to provide a bit more information about where you're at with that relationship? How that partnership is going? And I guess just any broadly, any extra information you can provide?
+
+Richard Wilmer
+President, CEO & Director
+
+Yes, I would characterize that as exceeding expectations. The amount of innovation we've been able to unlock compared to what I expected when we began the relationship has increased again to exceed expectations. I gave a couple of examples earlier on our home -- via home solution that is really differentiated from the market as a result of our partnership and innovation and collaboration with Eaton and likewise on the DC fast charge, the DC only version of that on a DC grid built by Eaton is a very differentiated product.
+
+So expectations exceeded. Operationally, we're working very well with Eaton, shipping a lot of co-branded product this past quarter that we just closed and expect that to continue to grow.
+
+Operator
+
+[Operator Instructions] Your next question comes from the line of Craig Irwin with ROTH Capital Partners.
+
+Craig Irwin
+ROTH Capital Partners, LLC, Research Division
+
+So Rick, the part of your prepared comments that was a big surprise is the NEVI funding. The fact that this is driving installations today. Can you maybe talk about the runway here as far as the financing? And whether or not you're seeing some of the financing from the states come through in a more material way now that some of the uncertainty out of DC is behind us?
+
+Richard Wilmer
+President, CEO & Director
+
+Yes. With respect to NEVI, we are seeing projects move forward. As we mentioned in the prepared remarks, 40 states now are active in NEVI and awarding contracts, and we're active in many of those.
+
+Craig Irwin
+ROTH Capital Partners, LLC, Research Division
+
+And are you seeing similar levels of support similar levels of financial support and sort of subsidy for new stations? Or are these basically flat, improving? How would you characterize any change there?
+
+Richard Wilmer
+President, CEO & Director
+
+Kind of returned to where it was before it was passed. I think it's a good way to characterize it.
+
+Operator
+
+And with no further questions in queue, that will conclude today's conference call. You may now disconnect.

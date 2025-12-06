@@ -1,0 +1,123 @@
+MongoDB, Inc. (MDB) Q3 2026 Earnings Call December 1, 2025 5:00 PM EST
+
+Company Participants
+
+Jess Lubert - Vice President of Investor Relations
+Chirantan Desai - President & CEO
+Michael Berry - Chief Financial Officer
+Dev Ittycheria
+
+Conference Call Participants
+
+Sanjit Singh - Morgan Stanley, Research Division
+Matthew Martino - Goldman Sachs Group, Inc., Research Division
+Karl Keirstead - UBS Investment Bank, Research Division
+Raimo Lenschow - Barclays Bank PLC, Research Division
+Brad Reback - Stifel, Nicolaus & Company, Incorporated, Research Division
+Aleksandr Zukin - Wolfe Research, LLC
+Ryan MacWilliams - Wells Fargo Securities, LLC, Research Division
+
+Conversation
+
+Operator
+
+Good day, and thank you for standing by. Welcome to the MongoDB's Third Quarter Fiscal Year 2026 Earnings Conference Call. [Operator Instructions] Please be advised that today's conference is being recorded.
+
+I would now like to turn the conference over to your speaker for today, Jess Lubert, VP of Investor Relations. Please go ahead.
+
+Jess Lubert
+Vice President of Investor Relations
+
+Thank you, operator. Good afternoon, and thank you for joining us today to review MongoDB's third quarter fiscal 2026 Financial Results, which we announced in our press release issued after the close of market today. Joining me on the call today are CJ Desai, President and CEO of MongoDB; and Mike Berry, CFO of MongoDB. Following our prepared remarks, Dev Ittycheria, MongoDB's former President and CEO and current member of the Board will join us for Q&A.
+
+During this call, we will make forward-looking statements, including statements related to our market and future growth opportunities. Our opportunity to win new business, our expectations regarding Atlas consumption growth, the impact of non-Atlas business and multiyear license revenue, the long-term opportunity of AI, our financial guidance, and underlying assumptions and our investments and growth opportunities in AI.
+
+These statements are subject to a variety of risks and uncertainties, including the results of operations and financial conditions that could cause actual results to differ materially from our expectations. For a discussion of material risks and uncertainties that could affect our actual results, please refer to the risks described in our quarterly report on Form 10-Q for the quarter ended July 31, 2025, filed with the SEC on August 27, 2025.
+
+Any forward-looking statements made on this call reflect our views only as of today, and we undertake no obligation to update them except as required by law. Additionally, we will discuss non-GAAP financial measures on this conference call. Please refer to the tables in our earnings release on the Investor Relations portion of our website for a reconciliation of these measures to the most directly comparable GAAP financial measures.
+
+With that, I'd like to turn the call over to CJ.
+
+Chirantan Desai
+President & CEO
+
+Thank you, Jess, and thank you to everyone for joining. I'm honored and genuinely excited to speak with you as the CEO of MongoDB. This is an incredible company and stepping into this role is a privilege. I want to start by thanking our customers, partners and employees for everything you have done to build MongoDB into what it is today. I especially want to acknowledge Dev whose leadership and vision created a phenomenal company, which has strong momentum and a tremendous market opportunity ahead. Many have asked why I chose MongoDB, I had multiple opportunities to lead other technology companies but MongoDB stood apart. We are at a true inflection point driven by major shifts across cloud, data and AI.
+
+MongoDB has the potential to become the generational modern data platform of this evolving era, an opportunity that comes once in a lifetime. I am a truly customer-obsessed leader. So during my diligence, I spoke with multiple customers. Across these conversations, the message was clear. MongoDB already powers core, mission-critical workloads were enterprises that are modernizing their technology stack. At the same time, MongoDB is uniquely positioned at the center of the AI platform shift. Few technology companies have that combination of durable core strength and emerging platform relevance.
+
+Throughout my career, I have driven product to platform transformation at some of the most respected technology companies. Looking at MongoDB today, I see all the ingredients needed to build an iconic modern data platform company. World-class technology, a strong innovation engine, deep developer and customer pool and exceptional talent. We have everything required to become the generational data platform of choice in the AI era. Now onto this quarter's results.
+
+Atlas performance was strong, accelerating to 30% year-over-year growth, up from 29% in Q2 and 26% in Q1. We generated total revenue of $628 million (sic) [ $628.3 million ] , up 19% year-over-year and above the high end of our guidance, driven by strength in Atlas. We delivered non-GAAP operating income of $123 million (sic) [ $123.1 million ] or a 20% non-GAAP operating margin. We ended the quarter with over 62,500 customers adding 2,600 in the quarter and 8,000 year-to-date, reflecting 65% growth in customer additions on a year-to-date basis driven by the strong performance of our self-serve motion. Q3 was an exceptional quarter that was driven by our continued go-to-market execution and the broad-based demand we are seeing across business.
+
+At the same time, we significantly outperformed on operating margin, demonstrating that we can drive durable revenue growth while simultaneously expanding profitability. Now let me explain why I see such a large opportunity ahead for both core operational data and emerging AI workloads. Our core business is strong across self-served and enterprise customers even before any AI tailwinds. In my first 3 weeks, I've met with over 30-plus customers from AI-native companies to C-suite technology leaders at Fortune 500 companies.
+
+Those conversations have only strengthened my conviction in MongoDB's opportunity. Customers already depend on us for mission-critical workloads today, and they are leaning in even further, betting on MongoDB to power the AI applications that will shape their future. The expansion opportunity in front of us is immense. We already serve more than 70% of the Fortune 100 and many of the world's largest banks, health care organizations and manufacturers run their mission-critical workloads on MongoDB.
+
+Even with this foundation, there is still significant room to broaden our footprint within the enterprise. A strong example of this expansion opportunity is a major global insurance provider that has adopted MongoDB broadly across its enterprise. The company selected MongoDB Atlas to modernize several mission-critical systems, including its next-generation policy administration platform, analytics rating engine, unstructured data repositories and hundreds of supporting services.
+
+Since moving its policy platform to Atlas, the insurer has expanded from just a small set of regions to nationwide and significantly accelerated the rollout of new products and distribution channels. Standardizing on Atlas has given the organization the scalability and reliability to improve customer experience, support more advanced data and AI capabilities and increased development velocity, all central to its transformation and growth ambitions. All of this momentum in the core business is happening before the AI wave has meaningfully impacted our results.
+
+We are still early, but the signs are encouraging from AI-native start-ups building intelligent applications on MongoDB to large enterprises developing AI agents that will reshape how they operate. AI applications must connect what LLMs know with what companies know, which is their proprietary data, systems and real-time context. This is fundamentally an information retrieval problem, and it requires a very different architecture than the last generation of software.
+
+Rapidly evolving AI models uncover new complex properties about entities and rigid tabular stores cannot deliver the real-time high accuracy performance that AI systems require. At the same time, AI is dramatically increasing the speed at which applications are built and iterated and fixed database schemas simply cannot keep pace. This is where MongoDB has a structural advantage. Our document model, natively, JSON is built for diverse class changing and interdependent data. Our integrated search, vector search and Voyage embeddings removed the need for brittle bolt-ons, and we are seeing industry-leading results.
+
+Number one, on the Hugging Face retrieval embedding benchmark with Voyage MongoDB models and the #1 vector database on DB engines. Advances in our embedding and reranking models drive meaningful accuracy gains. Enabling AI applications to deliver more grounded responses with fewer LLM hallucinations, while lowering storage cost and query cost through smaller, more efficient embeddings. Because all of this is delivered in a unified platform that runs anywhere, customers can keep operational and AI workloads together, simplify their architecture and innovate faster.
+
+As AI adoption accelerates, MongoDB's positioned not just to participate in the wave, but to help define it. we are already beginning to see this play out with AI-native customers like Mercor, which is redefining hiring with its fully automated platform that uses AI to assess and match talent with the opportunities they are best suited for. Mercor uses MongoDB Atlas to store the AI data behind its platform that directly connects professionals to AI model training and evaluation roles. Originally, a self-serve customer, the company is also utilizing Voyage embeddings and Atlas Vector Search. Atlas has scale to support Mercor's 50% month-over-month growth, allowing the company to keep its software engineering team lean and agile as it expands to over $10 billion in value. This is just one example of how customers are building AI-native applications and companies on MongoDB.
+
+We are also seeing meaningful traction among large enterprises that are starting to build AI applications that have a material impact on their business. For example, a highly influential global media company aim to increase engagement via enhanced content recommendation for its vast repository of multimodal assets across its 70-plus websites. That existing stack powered by Elasticsearch hit a performance wall struggling with the complexity of new embedding models. Recognizing that [ rigid ] systems stifle innovation, the engineering team re-architected on MongoDB Atlas and MongoDB Atlas Vector search. Working with MongoDB experts to deliver a proof of concept in just weeks, they integrated Voyage AI models directly alongside their data. The solution scale effortlessly, cutting latency by 90% and reducing operational spend by 65% and driving a 35% increase in click-through rates, ultimately providing millions of global readers with a seamless, deeply personalized discovery journey.
+
+The bottom line is that the business is performing exceptionally well. Existing customers are expanding with us and net new customer additions continue to show strength. Companies in nearly every industry and across every geography are choosing MongoDB because we deliver the features, performance, cost effectiveness, and AI readiness they need in single data platform. Given the continued robust performance of Atlas, along with the healthy underlying fundamentals we are seeing in the business, we are raising our financial guidance for the fourth quarter and the full fiscal year 2026 and reiterating our commitment to the long-term financial model outlined at our recent Investor Day.
+
+Over the next few months, my focus is straightforward. Deepening customer relationships, advancing our innovation agenda as we build the generational modern data platform for the multi-cloud and AI era, scaling our go-to-market efforts and supporting our people so they can do their best work. I believe MongoDB is a company that has only begun to realize its vast potential and I look forward to unlocking this potential in the years to come.
+
+With that, I'll now hand the call over to Mike to discuss the financial results and outlook in greater detail. Mike?
+
+Michael Berry
+Chief Financial Officer
+
+Thank you, CJ. I want to extend a big welcome to you from all of the employees at MongoDB. We are excited to have you join the team. I look forward to working with you to continue to execute on our business plans and drive meaningful shareholder value. I also want to thank Dev for the partnership and our time working together. I believe we accomplished a lot in a short period of time and appreciate all of your guidance and leadership. Best of luck in the next stage of your life journey.
+
+Okay. Now let's move on to the financial results. I will begin with a detailed review of our third quarter results and then finish with our outlook for the fourth quarter and fiscal '26. I will be discussing our results on a non-GAAP basis unless otherwise noted. As CJ mentioned, we had another strong quarter as we exceeded all of our guidance ranges and are increasing our full year outlook across the board.
+
+In the third quarter, total revenue was $628.3 million, up 19% year-over-year and above the high end of our guidance. Shifting to our product mix. Atlas revenue outperformed our expectations as year-over-year growth accelerated to 30% in the third quarter and now represents 75% of total revenue. This compares to 68% of total revenue in the third quarter of fiscal '25 and 74% last quarter.
+
+In the third quarter, Atlas consumption growth was relatively consistent with last year's growth rates which drove the acceleration in revenue as well as growth in absolute revenue dollars for the third straight quarter. Atlas growth was driven by continued strength with our largest customers in the U.S. and broad-based strength in EMEA. This strength is being driven both by new workloads and growth of existing workloads. We believe these dynamics reflect our growing strategic importance to many customers and our ability to win more critical workloads due to the strength of Atlas. You can see that progress in our total company net ARR expansion rate, which increased to 120% in the third quarter, up from 119% last quarter.
+
+Turning to non-Atlas. Revenue came in ahead of our expectations in the quarter as we continue to have success expanding within our existing non-Atlas customer base. Non-Atlas ARR, which reflects the underlying revenue growth of this product without the impact of changes in duration grew 8% year-over-year. We continue to see consistent trends in non-Atlas in the third quarter, which reflects the desire of some of our largest customers to build with MongoDB long term for their most mission-critical applications. We also benefited from higher-than-expected multiyear revenue in the third quarter as approximately 2/3 of the non-Atlas revenue outperformance versus the high end of guidance was attributable to multiyear outperformance.
+
+We had another strong quarter for customer adds as we grew our customer base by approximately 2,600 sequentially, bringing the total customer count to over 62,500, which is up from over 52,600 in the year ago period. The growth in our total customer count is being driven primarily by Atlas which had over 60,800 customers at the end of the third quarter compared to over 51,100 in the year ago period. We ended the quarter with 2,694 customers with at least $100,000 in ARR, representing 16% growth versus the year ago period.
+
+Moving down the income statement. Gross profit for the third quarter was $466 million, representing a gross margin of 74%, which is down from 77% in the year ago period. Our year-over-year gross margin decline is primarily driven by Atlas growing as a percent of the overall business. Although Atlas gross margins are slightly below the total company gross margins they continue to improve year-over-year.
+
+Our income from operations was $123 million for a 20% operating margin compared to 19% in the year-ago period. We are very pleased with our stronger-than-expected operating margin results, which benefited from both our revenue outperformance and lower-than-expected operating expenses. Net income in the third quarter was $115 million or $1.32 per share based on 86.9 million diluted shares outstanding. This compares to net income of $98 million or $1.16 per share on 84.2 million diluted shares outstanding in the year ago period.
+
+Turning to the balance sheet and cash flow. We ended the third quarter with $2.3 billion in cash, cash equivalents, short-term investments and restricted cash. During the quarter, we spent $145 million to repurchase approximately 514,000 shares which was executed under our previously announced $1 billion total share repurchase authorization. Operating cash flow was well above our expectations at $144 million, and free cash flow was $140 million, which compares to $37 million and $35 million, respectively, in the year ago period. Our cash flow results were driven primarily by strong operating profit and improving working capital dynamics, particularly related to higher cash collections.
+
+We remain confident in our ability to drive higher and more consistent free cash flow going forward. Before we go into our guidance for the rest of fiscal '26, let me recap some of the enhancements we have made to our approach to guidance since I joined MongoDB. Importantly, we are providing more visibility into our expectations for Atlas growth as well as non-Atlas ARR growth each quarter. That being said, we will continue to be prudent in our forecasting of multiyear deals and only include those deals where we have very clear visibility. Our goal is to give you a more transparent view into our expectations for the business and our approach to guiding the non-Atlas business.
+
+Now let me share some of the assumptions driving our outlook for the rest of fiscal '26. Number one, we are continuing to see strong momentum in Atlas, which has experienced relatively consistent consumption growth through the first 3 quarters of the year. And comparable seasonal patterns as compared to fiscal '25.
+
+We are seeing strength with existing customers, along with momentum in new accounts as customers large and small increasingly recognize the strategic value of Atlas. As a result, we now expect Atlas to see approximately 27% revenue growth in the fourth quarter of fiscal '26, which is higher than our previous expectations of growth in the mid-20% range. This outlook reflects our continued confidence in Atlas while taking into account the historical seasonal variability and consumption patterns during the holiday period.
+
+Number two, we continue to experience steady ARR growth in our non-Atlas business and have good line of sight to several large multiyear deals we either already have or expect to close in the fourth quarter of the year. Based on these dynamics, we now expect our non-Atlas business to grow in the upper single-digit percent range year-over-year in the fourth quarter.
+
+Number three, we continue to make strategic investments in engineering, marketing and direct sales capacity to drive continued growth. Some of these planned investments have taken longer to implement than expected and have shifted into the fourth quarter of fiscal '26 and fiscal '27, which has benefited our operating margin during fiscal '26.
+
+Fourth, we continue to make progress on free cash flow conversion, which is now expected to exceed 100% for fiscal '26.
+
+Finally, we will continue to execute our share buyback program to help offset dilution from employee equity awards. In addition to our buyback, this past quarter, we began settling the taxes due on the vesting of employee RSUs with cash instead of issuing new shares. We also expect to receive over 1 million shares of stock for the cap calls associated with our 2026 notes that mature in January 2026. All of these actions will help us manage share count for the long term and illustrates our commitment to being good stewards of your capital.
+
+Now let's shift to guidance in the fourth quarter and fiscal '26. For the fourth quarter, we now expect revenue of $665 million to $670 million, which equates to 21% to 22% year-over-year growth. We expect non-GAAP income from operations to be in the range of $139 million to $143 million for an operating margin of approximately 21%. We expect non-GAAP net income per share to be in the range of $1.44 to $1.48 based on 86.5 million diluted shares outstanding.
+
+For fiscal '26, we now expect revenue to be in the range of $2.434 billion to $2.439 billion, an increase of $79 million from the high end of our prior guide and representing full year revenue growth of 21% to 22%. We are raising our non-GAAP income from operation expectations by $109 million at the high end and are now targeting a range of $436.4 million to $440.4 million for an operating margin of approximately 18%.
+
+We expect non-GAAP net income per share to be in the range of $4.76 and to $4.80 based on 86.7 million diluted shares outstanding. Note that the non-GAAP net income per share guidance for the fourth quarter and fiscal '26 assumes a non-GAAP tax provision of 20%. While we will provide detailed guidance for fiscal '27 on our fourth quarter call, I would like to comment on how we are thinking about a few metrics as we sit here today.
+
+First, we remain committed to the long-term model presented at our Investor Day in September and continue to make great progress against all of the objectives highlighted at the event. We have seen strong margin expansion and free cash flow performance in fiscal '26. And both of these metrics are tracking well above the long-term targets we discussed in September. As we look ahead to fiscal '27, we will continue to make strategic investments to focus on driving growth going forward. With these planned investments and the timing of head count adds, we continue to target 100 to 200 basis points of margin expansion on average and 80% to 100% for free cash flow conversion outlined in our long-term model.
+
+Second, our non-Atlas business is on track to exceed our prior expectations for fiscal '26 due to the stronger performance, including greater-than-expected large multiyear deals. Given this outperformance and our current bottoms-up forecast for fiscal '27, we currently do not expect non-Atlas multiyear transactions to provide either a meaningful headwind or tailwind to revenue in fiscal '27.
+
+To summarize, we had another very strong quarter. We are pleased with our ability to drive both revenue growth across the business while increasing our operating profit expectations and driving meaningful free cash flow. We remain incredibly excited about the opportunity ahead, and we will continue to invest responsibly to drive long-term shareholder value.
+
+With that, Lisa, we would now like to open the call up for questions.

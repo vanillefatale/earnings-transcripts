@@ -1,0 +1,309 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from the line of David Arcaro from Morgan Stanley.
+
+David Arcaro
+Morgan Stanley, Research Division
+
+I was wondering if -- very helpful commentary, too. I was wondering if you could talk about the pace of commercial activity that you're seeing. You've had success now with multiple agreements in a short period of time. How do you see this playing out as we look forward to the next agreements in the pipeline just in the context of the market demand that you're seeing?
+
+K. Sridhar
+Co-Founder, CEO & Chairman
+
+David, thanks for that call. Look, I think we've been saying in the last 3 earnings calls that the commercial momentum is robust.
+
+And all that I can tell you, if I looked at it this week and last week, and if I walk over to the commercial section of our offices is that momentum is clearly accelerating and it's palpable, okay? So forget questions of, is it static or is it slowing down? It's accelerating. That's all we see. And we see that across the board. And by the way, it's accelerating not just in AI, our traditional, commercial, industrial segments are doing the same. So it's across the board.
+
+And the larger the deals get, the more the actors that get involved, as I explained in the entire AI value chain. These are complex deals. And each one goes to a different phase, different momentum. Some close extremely fast because of the need. Some take a little bit longer. But make no mistake, the commercial momentum is absolutely accelerating.
+
+David Arcaro
+Morgan Stanley, Research Division
+
+Okay. Excellent. And I was wondering, we've seen other technologies emerging in recent data center deals, small-scale gas turbines, gas engines. I'm wondering if you could describe what you're seeing with the competitive environment, how your product compares to some of the other solutions? And just is the competition heating up? Or how do you see it playing out?
+
+K. Sridhar
+Co-Founder, CEO & Chairman
+
+Look, I think the supply-demand mismatch is so large that everybody who has a solution that's viable today has a market out there for them to address. So you're going to see data center developers, hyperscalers wanting any and every solution that they can find. But there are very clearly, you're asking for distinction between us and other technologies. These were purpose-built for the data centers.
+
+The additional benefit and value we bring to them is enormous compared to band-aided solution of something that was created for the mechanical age, trying to solve this very sophisticated digital AI problem. We stand to benefit every single time that we stand to benefit our end customer using our technology. And so you asked me to compare, let me compare other technologies that generate on-site create air pollution, we don't.
+
+Other technologies that now using mechanical combustion moving parts, cannot load follow and require lots of batteries to be able to maintain a on-site power because these are not connected to the grid, whereas our solid-state power does not require batteries and we are able to provide that power.
+
+Today, we are able to provide our power faster than most of the others who have supply chain constraints. We can expand our capacities a lot faster than anybody else. We are future-proofing our customers for future technology advances, whether it is in the field of DC power, whether it is in the field of carbon capture and zero carbon or a green molecule, we offer all those optionalities that others don't have.
+
+You put all those together from -- and then if you take the same amount of gas that is available, we can produce a lot more power and allow the hyperscaler to put out a lot more tokens. At the end of the day, it is converting those watts to tokens is where the game is. With the same amount of gas that's available, same amount of space that's available, we can produce a lot more tokens for the hyperscaler than any other technology can today, end-to-end. And so the value for a hyperscaler is not about the cost of power. It's about that cost of the entire value chain across the board. So price-performance ratio, we can compete with anybody. So that's the answer, David. Thank you.
+
+Operator
+
+Your next question comes from the line of Chris Dendrinos from RBC Capital Markets.
+
+Christopher Dendrinos
+RBC Capital Markets, Research Division
+
+Congratulations on the strong quarter. I wanted to follow up on the Brookfield partnership here. And I'm hoping you could just expand a little bit on the relationship and provide some more details around the potential development time line? And then just how should we think about this partnership financially and how that benefits you?
+
+K. Sridhar
+Co-Founder, CEO & Chairman
+
+Chris, thank you so much. Brookfield, look, they're an incredible partner to Bloom, right? I mean they are at the heart of the AI value chain. And I think I mentioned this in the script, they've already invested over $50 billion in AI and want to triple that very quickly in the next 2 to 3 years.
+
+But put that in a broader context. They're one of the world's largest infrastructure owners with over $1 trillion in assets that comprise of 140 data centers operating and using approximately 1 gigawatt of critical load capacity and wanting to accelerate and grow that enormously in AI.
+
+On top of that, they have a portfolio of factories. They have a portfolio of commercial offices and real estate that are all going to be beneficiaries of AI. And as they automate, as they bring robots in, those factories are going to need more power.
+
+So Brookfield is using their balance sheet and using their relationship with us as the power provider and making us the preferred choice that they would recommend to all their portfolio companies, including their data centers.
+
+On top of that, Brookfield believes that they themselves are going to be a large AI infrastructure developer. And there, they're going to use us. On top of that, if there are Bloom-sourced deals that require financing, so we can offer a customer a PPA, they are willing to step in and be the financier for that. This is all not -- and they have made it very clear that this $5 billion investment is an inaugural investment.
+
+Now what Brookfield -- with Brookfield, we have already done some deals together. And they have said that they will announce a European AI inference data center before the end of the year using Bloom as the power source, so stay tuned for that. So it's a very big relationship. I cannot understate how important it is to us.
+
+Christopher Dendrinos
+RBC Capital Markets, Research Division
+
+Got it. And I guess maybe just as a follow-up, sticking with the European opportunity here, can you maybe just expand on the global opportunity? And are you seeing the same kind of power limitations globally as you are in the U.S.? And does that present a strong opportunity for more international growth?
+
+K. Sridhar
+Co-Founder, CEO & Chairman
+
+Yes. Chris, that's a great question. Look, I have been to these capitals, whether it is Frankfurt, whether it's Munich, whether it's Dublin, whether it's Taipei, okay? They all have a power shortage problem. And they all clearly recognize that their central power plants along with transmission and distribution cannot keep up with AI speed. That's across the board. This is true in Delhi. This is true in Mumbai, okay?
+
+So now what is happening in Europe, Asia, if you take as an example, I was just recently in Tokyo. And what I heard there is finally the sentiment of natural gas not just being a short-term bridge, but a long-term solution. And the agreements the U.S. is reaching with our friendly countries, our friendly allies to say, we will supply you long-term LNG, is now making them take a very different look at natural gas.
+
+And once that policy unlock happens of saying natural gas projects can move forward, we think there will be a tremendous acceleration in those places, and we are extremely well positioned to be able to play and the interest in Europe for our carbon capture solutions where you can go to almost net zero using natural gas as a fuel, tremendous interest there. No other technology, the turbines and the engines cannot do that. We can. So tremendous interest there.
+
+Operator
+
+Your next question comes from the line of Manav Gupta from UBS.
+
+Manav Gupta
+UBS Investment Bank, Research Division
+
+Generally, when you tell a customer, I can deliver the order in 90 days, the customer is happy to get the order in 360 days. So incredible feat delivering it in 55 days.
+
+My first question, sir, here is last week, Energy Secretary sent a draft proposal to FERC that would limit the regulatory review period for data center connections to power grid to just 60 days, expediting a process that can currently extend up to years. Help us understand how this could help Bloom Energy.
+
+K. Sridhar
+Co-Founder, CEO & Chairman
+
+Manav, thank you for those kind remarks. A shout out to our team for doing that. So look, the first thing I want to say about that or people who are not familiar with that is, again, the Energy Secretary asked FERC to start a hearing process and a rule-making change to allow large loads like data centers and AI factories and other factories to get rapid interconnection with the grid, which has been an issue. And first and foremost, we applaud the policymakers and regulators for doing that. I think it's the right thing for us as a country to do.
+
+The second thing I want to say is, if you read that announcement, it's very obvious, even when you get that interconnection, they state very clearly, you're entering the age of BYOP, bring your own power, okay?
+
+You get curtailed even if you have an interconnection, if you don't bring your own power. And large AI data centers are not going to operate in a place where the utility is going to curtail them and not curtail them depending on what their load and peaks are, right? So that becomes extremely important.
+
+So obviously, time to power is the reason this is being done. We are able to provide our servers very quickly to a utility who wants to interconnect and offer the power to either a data center or a factory. And it's not unlike what AEP is trying to do. We think it's just going to accelerate other utilities wanting to do the same thing. So that's how we think it's going to help our business.
+
+And for people from the utility listening to that, right, it's very simple. You don't make your nuclear power plants, you don't make your gas turbines, you don't make your fuel cell. You can now buy our fuel cells very quickly and install it in front of the meter and offer it to your customer. But when you do that, here are the additional benefits you get.
+
+Ancillary support for the grid. Let me explain this. It's not a easy concept to understand. Engines and turbines can offer reactive power. It is something that you can provide as a byproduct in addition to supplying power to your load almost for free into the grid, and the grid benefits from that in stabilizing the local grid.
+
+Now engines and turbines can -- or any other kind of combustion device that has rotation or movement can only do that in a very narrow range. Bloom has an amazing range in terms of that power factor, and that benefit will be enormous in places like PJM, where you have grid congestion and grid instability or places like California, where the amount of renewables you have completely destabilize the grid. We are a stabilizing factor.
+
+In addition, we can easily provide a lot more power into the grid in short notice to make up peaks and non-peaks if they want to net meter it as a utility because we are constantly standing in hot standby and when the grid -- when the data center is not using it, you can export that power.
+
+However, if you're going to use a bunch of turbines to be able to do it, you don't keep the turbines on hot standby, it' not economically possible. So you have to start it up and bring it up, which means you need 5, 6 minutes, and that may be the time you need to peak.
+
+So we are a tremendous asset to benefit, first, the data centers being built fast. Second, for the utilities to be able to provide that and win with that. Third, for the utilities to use our ancillary services and benefit from that. And fourth, because we don't pollute the air, we are a benefit to the communities where they are installed. So this is a win-win-win. We love this proposition.
+
+Manav Gupta
+UBS Investment Bank, Research Division
+
+My second question, and I apologize in advance, I am an electronics engineer, but it's been two decades since I graduated. So in case it's an invalid question, please just ignore it.
+
+Sir, I recently read somewhere that some chip makers are looking to move from 400-volt AC to 800-volt DC by 2027. I think it was NVIDIA. I'm just trying to understand, if that does happen, would it make your fuel cell even more efficient? Would DC/DC power be even more efficient than a DC/AC power because of transmission losses? If you could just talk about that.
+
+K. Sridhar
+Co-Founder, CEO & Chairman
+
+Don't undersell your technical knowledge, it is spot on. So I think given how you phrased it, let me -- this is such an important question, and we didn't address it. It is probably a miss on my part to have not addressed it in the script. So let me take a few minutes to explain this so everybody understands. It's so important.
+
+Here's the important part, and I want you to understand this. This moving from converting that 400-volt AC to 48-volt DC, which is how server racks, which are the size of a refrigerator roughly sitting in a data center. These are the machines that manufacture the intelligence, okay? They -- today, the standard has been ever since we had data centers, low voltage, like 48-volt DC. So it gets converted.
+
+So think of this, the power going -- so I'm thinking of an analog as you ask me this question. It may not be perfect, but I think it will answer the question. So think of power coming in into the rack as a hungry human being drinking water, okay? They can only drink through a straw. And that straw was sufficient. That is the 48-volt DC because the small wire through which a small amount of water comes into the straw, that water was sufficient to satiate the thirst. That was when CPU racks were 13 kilowatts. We have put a lot of Band-Aids on it to make sure Blackwell chips that come somewhere near the 130 kilowatts can handle it through the straw.
+
+Guess what? Rubin chips and going forward are going to be 5x that to 10x that. There is no way you can pump that much of fluid for the body to keep up if that's the amount of water you need, that's the amount of power you need through that little straw. But in the rack, there is no more space than the straw. What does that mean? You have to increase the pressure of the water that you're shoving to that straw. That's the only way you're going to get more water through. And that pressure equivalent in the water is voltage in power.
+
+So it is -- the laws of physics dictate that you have to go to an 800-volt DC architecture if you want AI chips that have more power density, which is the only way you can improve upon AI in the next generation. This is not an if, this is not a nice-to-have. This is a must-have.
+
+Now go to the other side. All our wonderful legacy power generation systems that helped us propel into the mechanical age was built for the mechanical age. They are like Niagara Falls dropping water and you cannot make it to the voltage that you need. You need to make it very, very high voltage. Otherwise, you can't bring all that water in a pipe of reasonable size to where you want to bring it. Even an on-site 50-megawatt turbine cannot produce directly at 800 volts or the amount of copper you need becomes too bulky, too big. It's not just physically viable.
+
+Guess what we did at Bloom? We saw this coming one day. We didn't know what day in 2000 when we initially created architecture. We built an architecture where we can feed these straws appropriately right at that 800 volts, and we decided every unit we have shipped for the last 15 years has that. But after that, we have one other box that takes that DC and makes it into AC and provides it because we were making color TV images, the world was only consuming black and white. So we are converting our color TV images to black and white. But the other guys create black and white, and now you have to colorize them all and provide low definition when we already have high-definition color image. That's the analog.
+
+So we are super excited about this. As I see it, it's self-evident to me that this has to become the standard and Bloom will set the standard for the digital age, digital power.
+
+Operator
+
+Your next question comes from the line of Nick Amicucci from Evercore ISI.
+
+Nicholas Amicucci
+Evercore ISI Institutional Equities, Research Division
+
+I just wanted to build upon on kind of the doubling of capacity by the end of 2026 and kind of the commentary that would support 4x the fiscal '25 revenue.
+
+How should we think about kind of the utilization on that capacity as we kind of enter into -- again, as we enter into 2027 and we have that -- the 2 gigawatts kind of up and running. I mean because if we're exploring opportunities to go beyond that 2 gigawatts, it seems like 4x full year '25 revenue, that seems like a big number that we could get there relatively quickly. So I just wanted to parse that out a little bit.
+
+K. Sridhar
+Co-Founder, CEO & Chairman
+
+Yes. So here is a simple way to think about it, right? We didn't get to where we are today to deliver what I just explained, this purpose-built factory based on just meeting a market demand as we see it right now, we just prepared ourselves. What is the beauty of Bloom being able to expand its capacity and offer what we do? Is the return on investment like invested capital? So we are fiscally very disciplined, and we only make decisions based on that added cost and its absorption, will it have a great rate of return.
+
+So we have a very disciplined process on this. And on top of that, we have a very clear understanding right now given time to power shortages and the importance of this as a nation-state issue for AI.
+
+We are committing to strive and work as hard as we need to and stay ahead such that we will never be the constraint to our customer on growing their data center. That's what we are positioned for. And we will increase capacity. We will increase it in whatever steps necessary as we see fit. But as you saw, this 2-gigawatt capacity, all systems go based on that.
+
+Would we use it for peak capacity? When we use it, will we use it for steady capacity? All that, you'll hear from us as we talk about our backlog and other things next year. But we are now using our OpEx wisely to invest in capability and talent to think about how do we expand beyond 2 gigawatts. That's all I can say right now. Thanks for that question.
+
+Nicholas Amicucci
+Evercore ISI Institutional Equities, Research Division
+
+Got it. That makes sense. And so as we see kind of the here and now, obviously, the power demand is here and obviously, you guys are ready, willing and able to address it. But as we kind of think out and I bring this up because you had mentioned an inference data center in Europe.
+
+I guess just the -- can you just kind of convey the additive value when we think of kind of the inference and when latency becomes an issue when we get to inference and reasoning within the AI complex, how kind of Bloom's partaken that?
+
+K. Sridhar
+Co-Founder, CEO & Chairman
+
+So thanks for asking that question. It's very important, right? Here is the beauty. Our exact same architecture with fewer LEGO blocks, okay? Think of each of our Bloom power systems as a LEGO block. With fewer LEGO blocks is an inference data center, multiply that many times over, it can power a training data center. No difference. No other technology can do that. That's how we built it. That's the power of our modular, fault-tolerant architecture, number one.
+
+Number two, inference data centers are going to be close to your bedroom window and your office window. You don't want that to be polluting, you don't want that to be noisy. We are -- we should be for those inference data centers, the power producer of choice.
+
+Operator
+
+Your next question comes from the line of Ben Kallo from Baird.
+
+Ben Kallo
+Robert W. Baird & Co. Incorporated, Research Division
+
+K.R., maybe could you just talk about, I think, the biggest project you guys have announced is 80 megawatts with SK. Could you just talk about how you view -- because there's been permits out there, huge numbers on them on doing bigger projects, how your customers have gotten comfortable with your technology over time? And maybe the time to power, how you think about the size of projects you can do and where we think you guys fit in, if it's 100 megawatts or 900 megawatts.
+
+K. Sridhar
+Co-Founder, CEO & Chairman
+
+Ben, that's a very good question. And look, again, our architecture was purpose-built. Our factories do copy exact modules. And the boxes don't know whether they are sitting along with 5 other boxes or 5,000 other boxes. Nothing in our scaling has scaling risk, right?
+
+So yes, we are talking to customers with lot bigger stamps right now and working with them on ideas and projects and various stages of negotiations of much larger sizes. We can do that, and we can do your neighborhood retail store, and we are talking to customers about that, too.
+
+So that is the flexibility of our architecture. You're adding no additional risk. In fact, think about it because these are hot swappable LEGO blocks, the more LEGO blocks you have, the more reliable our system gets. So large block power becomes a lot more reliable than small block power. Thank you.
+
+Ben Kallo
+Robert W. Baird & Co. Incorporated, Research Division
+
+Maybe a follow-up. Just as we think about capacity, I think other people asked about this, but we see these big numbers out there. What's go/no-go decision from going 2 gigawatts more? And how fast can you do that?
+
+K. Sridhar
+Co-Founder, CEO & Chairman
+
+Look, we get accused of you're building capacity too fast. We get accused of we don't think you can build too fast. Let me be very clear. We are going to strive to make sure we are able to provide power for our customers before they are ready for it. We will not be the bottleneck. And we designed our factories, we built it with that in mind. Thank you.
+
+Operator
+
+[Operator Instructions] Your next question comes from the line of Mark Strouse from JPMorgan.
+
+Mark W. Strouse
+JPMorgan Chase & Co, Research Division
+
+So K.R., things obviously are changing very rapidly here. It's been a bit there since you've provided kind of long-term margin targets. So kind of to the earlier point about your capacity expanding, but also as the utilization of that capacity increases, how we should think about kind of gross or operating margins under that scenario?
+
+K. Sridhar
+Co-Founder, CEO & Chairman
+
+Thank you. So look, here's how I'd answer it. Wait till 90 days from now to hear our annual guidance for next year. But in the meantime, if you want to think about it, here's how you can think about it. For over a decade, every single year, we have a cost down in double digits, number one.
+
+Number two, when we transact on electricity as we grow our volume, the pricing pressure on electricity is going to be based on the macros and there's a shortage of electricity. So you go figure out what that pricing pressure would be. And we have tremendous operating discipline within the company that you have seen us exercise these last 3, 4 quarters, and that's how we'll continue going forward.
+
+Our factories are not capital intensive. We have made that statement very clear. You know what those numbers are. Where is it that we will spend? Investment. We'll invest in our people. We'll continue to invest in our technology. We will invest in the talent necessary for scaling our operations. We'll invest in the skills needed, in our commercial team to go capture opportunity. And we will continue to invest in technology to further enhance our leadership position on on-site power. So those are the things to take away. Thank you.
+
+Operator
+
+Your next question comes from the line of Michael Blum from Wells Fargo.
+
+Michael Blum
+Wells Fargo Securities, LLC, Research Division
+
+You've given us some good information on how to think about the Brookfield partnership and the scope of that. But can you give something similar with Oracle? Can you give us a sense of the size of that opportunity set? And how exactly Bloom will play a role in that partnership because they also obviously have pretty big ambitions as well?
+
+K. Sridhar
+Co-Founder, CEO & Chairman
+
+Michael, I can't speak to any one customer. You should be asking them about that question. But I think what I can refer you to there would be their statement when we had the press release saying that what we did for them earlier was the first of many, right?
+
+So we think they are going to play an extremely big role in this space, and they are going to be growing in many, many geographies. And they are not only looking at how we have executed on the first year, but they're intimately familiar with what's in our technology road map and all the value we can bring to them. So we just obsess on pleasing the customer, then the customer will do the right thing. So that's what we do. Thank you.
+
+Operator
+
+Your next question comes from the line of Ameet Thakkar from BMO Capital Markets.
+
+Ameet Thakkar
+BMO Capital Markets Equity Research
+
+I've just got a quick kind of housekeeping question. Your 10-Q kind of refers to $288 million of related power -- related party revenues during the quarter. I was just wondering, is that related to Brookfield? Or is that related to SK?
+
+Maciej Kurzymski
+Chief Accounting Officer & Interim CFO
+
+Yes. This is Maciej. As part of the contracts with Brookfield, we've made equity investments into this vehicle. And because of those equity investments, those JVs became a related party to Bloom, and that's what created the disclosure around the related party revenue.
+
+And again, it's important to note that the equity investments are fairly small. The way the contract is being set up is that we put a little bit of ceiling on those investments to be very significant. That said, there's a criteria to go through. And if you meet the criteria of equity investment, you get into the related party disclosure.
+
+Operator
+
+Your next question comes from the line of Colin Rusch from Piper Sandler (sic) [ Oppenheimer ].
+
+Colin Rusch
+Oppenheimer & Co. Inc., Research Division
+
+No, it's Colin Rusch, but I am from Oppenheimer. So just in terms of the balance of 2025 and looking into '26, can you talk a little bit about the mix shifts from direct product sales into some of these financing options with partners or related parties? And then also if we could get a quick update on the CFO search and that coming to conclusion?
+
+K. Sridhar
+Co-Founder, CEO & Chairman
+
+Yes. I'll take the CFO search. Look, it's a very important position for us. We take it very seriously. And so we have a process in place, and that search is going on. We have a sense of urgency, but no sense of rush. So we will let you know when we hire one. Thank you.
+
+Maciej Kurzymski
+Chief Accounting Officer & Interim CFO
+
+Yes. As far as the financing goes, if you go back and we talk about this in pretty good detail in our 10-Ks, where there are 3 ways of going to market. There is a direct sale, which we refer to as CapEx, which is effectively a customer showing up and writes a big check, which effectively is like prepaying for electricity for a number of years. There's a PPA financing structure in place and the managed services, which is the sale-leaseback transaction. We haven't done managed service transactions in quite some time. We don't expect to do those going forward. And I would say, majority of the transactions we get into are actually through the PPA structures, although there are some CapEx deals every quarter from time to time where the customer is wanting to finance the deal themselves.
+
+Operator
+
+Your next question comes from the line of Maheep Mandloi from Mizuho.
+
+Maheep Mandloi
+Mizuho Securities USA LLC, Research Division
+
+Most of the high-levels are answered, but just like housekeeping on the guidance for Q4. Could you just talk about like the reason to not disclose that? Is it just timing of these lumpy installations you have in December or January or something else over there?
+
+K. Sridhar
+Co-Founder, CEO & Chairman
+
+Yes. I think you just answered your question, Maheep. We have said that at the beginning of the year, why do we give a range? Because project-based installations, many of them being greenfield for changes in variations. Lots of things could happen on the customer end. We have no difficulty supplying our boxes on time, ahead of time, as you saw. But the customer has to be ready to take the power, which is when we ship.
+
+So a project can fall a few days in front of or on the other side of December 31, which is just a deadline, and it has no impact on that project or that revenue other than a pure timing issue. And yes, with 365 days in the year, we would give you one guidance. Now 300 of those are gone, and we have 65 days left. So we're giving you a slightly better guidance, but we can't pinpoint it. That's exactly right. Thank you.
+
+Operator
+
+Your next question comes from the line of Sherif Elmaghrabi from BTIG.
+
+Sherif Elmaghrabi
+BTIG, LLC, Research Division
+
+For the Brookfield partnership, you mentioned they're bringing a substantial balance sheet to the equation. But any capital commitments for Bloom under those joint ventures or other costs related to that, obviously, besides the Fremont CapEx that you're already investing?
+
+Maciej Kurzymski
+Chief Accounting Officer & Interim CFO
+
+Yes. Other than the equity investments that were -- that we agreed to make for the respective projects, very small equity investment, there is none.
+
+K. Sridhar
+Co-Founder, CEO & Chairman
+
+Okay. With that, I just want to bring this to a close as we are getting to the top of the hour. Thank you all. We are delighted with our results in Q3. Our commercial activity is robust and the momentum is accelerating across the board.
+
+This year has been a big transition year for Bloom. I want to thank our team inside for stepping up and contributing to our success in such a great way. We appreciate the trust of our long-term shareholders, and we welcome our newest shareholders. And thanks to all of you for placing trust in us. And I think we have an exciting journey ahead of us together as we go forward to become the standard for on-site power. Thank you, and have a great day.
+
+Operator
+
+This concludes today's conference call. You may now disconnect.

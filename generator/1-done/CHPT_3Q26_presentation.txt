@@ -1,0 +1,103 @@
+ChargePoint Holdings, Inc. (CHPT) Q3 2026 Earnings Call December 4, 2025 4:30 PM EST
+
+Company Participants
+
+John Canton - Vice President of Communications
+Richard Wilmer - President, CEO & Director
+Mansi Khetani - CFO & Chief Accounting Officer
+
+Conference Call Participants
+
+Colin Rusch - Oppenheimer & Co. Inc., Research Division
+Mark Delaney - Goldman Sachs Group, Inc., Research Division
+Christopher Pierce - Needham & Company, LLC, Research Division
+William Peterson - JPMorgan Chase & Co, Research Division
+Christopher Dendrinos - RBC Capital Markets, Research Division
+Craig Irwin - ROTH Capital Partners, LLC, Research Division
+
+Presentation
+
+Operator
+
+Good afternoon, and thank you for standing by, and welcome to ChargePoint Third Quarter Fiscal Year 2026 Financial Results Conference Call. Please be advised today's call is being recorded, and a replay will be available on ChargePoint's Investor Relations website.
+
+I'd now like to hand the conference over to John Paolo Canton, Vice President, Communications. Please go ahead.
+
+John Canton
+Vice President of Communications
+
+Good afternoon, and thank you for joining us on today's conference call to discuss ChargePoint's Third Quarter Fiscal 2026 earnings results. This call is being webcast and can be accessed on the Investors section of our website at investors.chargepoint.com.
+
+With me on today's call are Rick Wilmer, our Chief Executive Officer; and Mansi Khetani, our Chief Financial Officer. This afternoon, we issued our press release announcing results for the quarter ended October 31, 2025, which can be found on our website. We'd like to remind you that during the conference call, management will be making forward-looking statements, including our outlook for our fourth quarter of fiscal 2026.
+
+These forward-looking statements involve risks and uncertainties, many of which are beyond our control and could cause actual results to differ materially from our expectations. These forward-looking statements apply as of today, and we undertake no obligation to update these statements after the call. For a more detailed description of certain factors that could cause actual results to differ, please refer to our Form 10-Q filed with the SEC on September 8, 2025 and our earnings release posted today on our website and filed with the SEC on Form 8-K.
+
+Also, please note that we use certain non-GAAP financial measures on this call, which we reconcile to GAAP in our earnings release and for certain historical periods in the investor presentation posted on the Investors section of our website. And finally, we'll be posting a transcript of this call to our Investor Relations website under the Quarterly Results section.
+
+Thank you. I will now turn the call over to our CEO, Rick Wilmer.
+
+Richard Wilmer
+President, CEO & Director
+
+Good afternoon, and thank you for joining us. Today, we will provide a comprehensive review of our quarterly performance, share our perspective on current market conditions, discuss the progress we have made towards our 3-year strategic plan and highlight how our ongoing innovation is shaping the future of e-mobility.
+
+Financial performance this quarter exceeded expectations. Revenue surpassed the top end of our guidance, reaching $106 million, which marks a return to growth. This is a trend we anticipate to continue, especially as we move into the second half of calendar 2026 with many of our new products ramping, our Eaton partnership accelerating and numerous opportunities in Europe that we can now access with our new products.
+
+Our non-GAAP gross margin remained at a record high of 33%. We maintained strict cash discipline with cash utilization better than planned at $14 million. As growth returns, we continue on our path towards positive adjusted EBITDA. Additionally, we successfully completed a debt exchange securing nearly $110 million of deal discounts that benefits shareholders, reducing outstanding debt by $172 million and extending maturity to 2030.
+
+This transaction is a pivotal step in strengthening our financial foundation. By deleveraging at a significant discount, we are shifting enterprise value to shareholders and reinforcing our balance sheet. These strong results confirm the effectiveness of our strategy, and the rigor of our operating model. Our CFO, Mansi will provide further details on this transaction later in the call.
+
+North America continues to see steady sales demand despite headlines to the contrary, as evidenced by key customer wins we will discuss shortly. In Europe, demand is not only robust but accelerating with significant opportunities emerging across key markets. As we move into calendar year 2026, especially the second half, Europe stands out as a potential growth engine fueled by favorable regulatory support, rapid EV adoption and substantial infrastructure investments. This creates an ideal environment for ChargePoint to lead with our innovative new offerings.
+
+At the same time, the competitive landscape in both regions is consolidating, creating opportunities for ChargePoint to expand our market presence and reinforce our role as a reliable partner in EV charging. Supported by these favorable conditions, we are well positioned to pursue steady growth provide strong value to customers and continue advancing the industry.
+
+In terms of customer highlights from the third quarter, we strengthened our partnership with the City of New York by extending our agreement to support its expanding EV infrastructure needs. This ongoing collaboration reinforces our shared commitment to sustainability and positions ChargePoint as a trusted partner in advancing clean transportation. We also launched an exciting program with BMW North America to transform select premium locations into destination charging stations for EV drivers nationwide. Recruitment of site host is now underway.
+
+And finally, NEVI momentum is building again with more than 40 states announcing new plants. We continue to deliver NEVI funded projects, including a recent installation in Landhope, Pennsylvania, where ChargePoint supplied all charging hardware during Q3. ChargePoint now manages approximately 375,000 ports including more than 39,000 DC fast chargers and more than 127,000 ports located in Europe. Globally, ChargePoint drivers have access to approximately 1.35 million public and private charging ports.
+
+We launched our 3-year strategic plan nearly 2 years ago, built on 4 key pillars: efficient and capital-light hardware innovation, software innovation, world-class driver experiences and operational excellence. We are delivering on these promises. Our operational excellence is evident throughout the company with continuous improvement in our gross margins, network reliability and customer satisfaction.
+
+We have made significant strides in utilizing AI for internal productivity which we expect to further accelerate improvements in operational execution. AI is a feature piece of our new software offerings which we believe will provide tangible benefits to our customers.
+
+The second year of our 3-year plan focuses on delivering innovation and driving growth. Our financial results demonstrate that growth has returned which we expect to accelerate because of new products and services contrived in the first year of our plan that are now beginning to enter the market. We believe our new offerings will drive market share gains and margin improvements.
+
+Our innovation engine is performing strongly, further expanded and accelerated by our partnership with Eaton and close collaboration with vehicle OEMs. Our approach to innovation is anchored by our belief that electric vehicles, EV charging infrastructure and the power grid should not operate as independent silos where industry standards dictate sole means of interoperability.
+
+Our new DC product line ChargePoint Express powered by Eaton is a bidirectional capable solution that we believe can be deployed with up to 30% lower capital expenditure, occupies a 30% smaller footprint and reduces ongoing operational costs by up to 30% compared to other solutions. Our new AC product line, integrated with Eaton's AbleEdge smart breaker and smart panel technology is the most cost-effective offering for enabling vehicle to home and vehicle to grid and eliminating expensive panel upgrades and accelerating deployment.
+
+Our hardware innovation is complemented by significant software advancements. We have released a new generation of the ChargePoint platform, a flexible software solution that redefines EV charging management. Completely reengineered and optimized by AI, the platform empowers operators to optimize charging infrastructure on any scale. Soon, we will release a major upgrade to our mobile app, also powered by AI and designed to deliver smarter, more personalized charging experiences.
+
+Customer reaction to these innovations have been overwhelmingly positive. Our solutions do more than meet expectations they are redefining them. We believe the transition to EVs is inevitable and ChargePoint is uniquely positioned to lead. Our road map is clear: deliver innovation, drive growth, capture market share, and improve margins. We are building a business driven by innovation, operational efficiency and a relentless focus on customer needs.
+
+Thank you to our employees, partners and shareholders for your continued support. We are excited about the journey ahead and look forward to sharing more milestones in the next quarter.
+
+I will now turn the call over to our Chief Financial Officer, Mansi Khetani.
+
+Mansi Khetani
+CFO & Chief Accounting Officer
+
+Thank you, Rick. As a reminder, please see our earnings press release where we reconcile our non-GAAP results to GAAP. Our principal exclusions are stock-based compensation, amortization of intangible assets and certain costs related to restructuring, settlements and nonrecurring legal expenses.
+
+I will first go through the results of the quarter and then talk a bit about our recently announced debt reduction. I'm happy to announce that revenue for the third quarter exceeded our expectations coming in at $106 million, significantly above the high end of our guidance range of $90 million to $100 million up 7% sequentially and up 6% year-on-year. Network charging systems at $56 million accounted for 53% of third quarter revenue up 12% sequentially and up 7% year-on-year, marking a return to growth. Subscription revenue at $42 million was 40% of total revenue up 5% sequentially and up 15% year-on-year as our total installed base continues to grow. Other revenue at $7 million was 7% of total revenue.
+
+In terms of geographies, North America made up 85% of revenue and Europe was 15%, consistent with recent quarters. Non-GAAP gross margin remained at a record high of 33%, flat sequentially and up 7 percentage points year-on-year. Hardware gross margin was flat sequentially. Subscription margin continued its upward trajectory, achieving a new record of 63% on a GAAP basis and was even higher on a non-GAAP basis driven by economies of scale and ongoing efficiencies and support costs.
+
+Non-GAAP operating expenses were $57 million, representing a 2% reduction, both sequentially and year-on-year. We remain committed to prudent expense management, maintaining a disciplined approach that balances current constraints with selective investments intended to support long-term growth and margin expansion.
+
+Non-GAAP adjusted EBITDA loss was $19 million. This compares with the loss of $22 million in the prior quarter and a loss of $29 million in the third quarter of last year. Stock-based compensation was $15 million, down from $18 million last quarter and $21 million in the third quarter of last year. Our inventory balance was stable relative to the prior quarter at $212 million. We continue to manage existing commitments with our contract manufacturing partners and anticipate a gradual reduction in this balance over the coming periods. We ended the quarter with $181 million in cash compared to $195 million in the prior quarter reflecting cash usage of $14 million. This compares to $24 million of net cash usage in Q3 of last year.
+
+While quarterly cash usage may vary, we have made meaningful progress in reducing cash burn, and we expect the continued sell-through of existing inventory will further support cash generation going forward.
+
+Next, I would like to address our recently announced debt exchange transaction, which closed following the end of Q3. We believe this transaction strengthens ChargePoint's financial position and represents a meaningful step forward in delivering significant shareholder value. Last month, we completed a privately negotiated debt exchange with existing holders that will ultimately reduce our total debt by $172 million, more than half of the previous balance. The consideration paid included a combination of new senior debt, cash and warrants and reflected a discount of 33%. We believe this deleveraging actions captured at a significant discount, shift enterprise value to shareholders and strengthen our balance sheet.
+
+Key benefits of the exchange include: number one, reduction of total debt by $172 million, more than 50%. Number two, elimination of the 125% change of control premium on the prior notes of approximately $82 million; number three, reduction in annual interest expense by approximately $10 million; and number four, extension of debt maturity from 2028 to 2030.
+
+The exchange utilized a portion of our existing cash made possible by the significant improvement in cash usage over the past year. Over the last 4 quarters, our net cash usage was less than $39 million. This compares to a net cash usage of $178 million over the 4 quarters prior to that. The progress we have achieved in managing cash usage provided the confidence to pursue this transaction which meaningfully reduced our debt burden at a substantial discount. We believe this represents a prudent decision for the company and our shareholders.
+
+We view this transaction as a transformative step forward for ChargePoint, one that strengthens our financial position and reflects our continued focus on disciplined capital management and commitment to creating long-term value for our shareholders.
+
+Finally, moving on to guidance. For the fourth quarter of fiscal 2026, we expect revenue to be $100 million to $110 million representing a 3% year-on-year growth at the midpoint. While we remain cautious in light of the broader macroeconomic environment, we are confident that revenue growth will continue as we execute on our strategic priorities.
+
+In summary, this quarter, we delivered sequential and year-over-year revenue growth, achieved another record quarter for subscription gross margin and continue to make progress towards profitability. The operational improvements we have implemented over recent quarters position us well to capture future growth opportunities. In addition, the significant debt reduction announced strengthens our financial foundation and enhances our ability to execute on our long-term strategy.
+
+We will now open the call for questions.

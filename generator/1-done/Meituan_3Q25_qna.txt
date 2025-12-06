@@ -1,0 +1,158 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions]
+
+Your first question comes from Ronald Keung from Goldman Sachs.
+
+Ronald Keung
+Goldman Sachs Group, Inc., Research Division
+
+So I want to ask, can management comment on any notable changes in the competitive landscape of the food delivery sector, particularly as we head into the fourth quarter. Have we seen any industry subsidies that is starting to scale back? And we've noticed your competition has stepped up investments in membership programs like 88VIPs and these membership programs. So how is the engagement and retention trending for your core customers? And sorry for a long question. But from a financial standpoint, I want to also ask how should we expect fourth quarter performance for the food delivery has there been any change in the long-term outlook for growth and profitability of the business?
+
+Xing Wang
+Co-Founder, Chairman & CEO
+
+Well, Ron, thank you for your questions. Before I get into the question, let me restate what we have said very clearly over the last 2 quarters. First, I think the food delivery price war is an example of evolution nature and low price, and low quality and essentially a race to the bottom. We are firmly against it. And the last 6 months have proved the one thing, and it doesn't create any real value for the industry, and it cannot be sustainable. And second, we are doubling down on curious rise and protections and on supporting for small and mid-sized merchants. That's the only way to keep the industry healthy in the long run.
+
+And the third, we will focus on doing the right things, that's serving consumers, merchants and couriers as well. And we are fully confident in defending our leadership in on-demand delivery in creating real long-term value. In October and November in the industry, the subsidy level temporarily went down versus the summer peak season and especially after the Double 11 promotion period. And we are still closely monitoring the market dynamics and we'll adjust our strategy accordingly.
+
+And recently, we have seen a rebound in our market share in order volume. We maintained a consistent leading addition in GTV market share for mid- to high AOV orders. For example, I think it's very important to focus on higher AOV sector. Our GTV market share for orders with a net AOV above RMB 15, it's more than 2/3, while our GTV market share for orders with a net AOV above RMB 30 is above 70%. I think those are more valuable sectors we want to focus on.
+
+Our net AOV per order remained much higher than other platforms. And our core users continue to show high retention rate. with their consumption frequency, stickiness still growing steadily, I think this clearly reflects the strong user mind share we have built in the food delivery sectors and as well as our competitive edge in serving our core users.
+
+It's common for consumers to have a multiple local service app installed on their phone. However, Meituan remains the go-to platform of food services for hundreds of millions of consumers. This is especially true among our core users. Their consumption frequency has been several times higher than that of the average consumers. Even in such a highly competitive market, they show strong brand recognition and deeper consumer loyalty. This is because high frequency or higher AOV consumers value the delivery experience and the supply quality, service reliability far more than just a lower price. Our faster and more reliable delivery provides greater certainty, particularly during extreme weather and holiday periods.
+
+Our diverse and valuable money offerings across all price ranges allow us to precisely match consumers' needs. Through our Meituan membership program, we offer more attractive deals and exclusive service upgrades to our core users, and we are confident in our ability to deliver higher quality and more comprehensive services to our core users. This will help us further strengthen their stickiness and engagement in the long run.
+
+In addition, continued investment by industry peers in the premium user segment will expand the overall addressable market benefiting us as well. We will leverage our strength in service quality and brand to further strengthen our position among a broader base of premium users.
+
+In terms of financial data, and although I believe food delivery losses has peaked in Q3, and our food delivery business will still incur a substantial loss in Q4, we will make necessary investment to maintain our leadership. But we are not interested in engaging price war. So we would adjust our investment dynamically based on the competitive landscape. And we will continue to strengthen our advantage in service experience and operational efficiency.
+
+In the medium to long term, the competitive landscape will remain dynamic; however, the business or industry revolution typically follows a clear trajectory from capital-driven to efficiency-driven, and ultimately to innovation-driven. China's food service has now entered a stage where supply-side innovation and service upgrades and technological solutions are critical for sustainable growth and traffic gain and scale expansion purely driven by very aggressive subsidy will not be sustainable.
+
+And we believe the current irrational competition in food delivery will inevitably transit to a more rational and mature phase. Ultimately, the platform with deeper industrial insights and proven operational excellence and ability to sustain high-quality growth will be the industry leader.
+
+Therefore, as I mentioned last quarter, Meituan will stay focused on doing the right things to expand high-quality selections to ensure a fast and reliable delivery and offer consistently affordable prices. We will defend our market position while continuing to create greater value for the whole industry. Food delivery has become a high society lifestyle for more and more consumers with clear long-term growth prospects. Our long-term target of reaching 100 million high-quality daily order remains unchanged. We remain confident in maintaining industry-leading unit economics with proven operational efficiency advantages. Long term, even with higher subsidy in a dynamic market, we expect food delivery profit to return to a reasonable level. Thank you.
+
+Operator
+
+Your next question comes from Gary Yu from Morgan Stanley.
+
+Gary Yu
+Morgan Stanley, Research Division
+
+I have a question regarding Instashopping. The other e-commerce platforms are doubling down on Quick Commerce and bringing more traditional e-commerce brands to this space. How does management view our competitive edge? And after our own Double 11 event, could you share Meituan Instashopping strategy going forward? Will you scale up investment in the fourth quarter?
+
+Shaohui Chen
+CFO & Senior VP
+
+Thank you, Gary, for your question. First of all, I would like to highlight that we have a particularly strong competitive advantage in our quick commerce native supply. That is even stronger than that of our food delivery business in which we are already a leader. From our perspective, quick commerce operates on a fundamentally different logic than traditional e-commerce as well as half-day delivery or next-day delivery.
+
+Quick commerce means no stockpiling. You get what you see right way. Platform needs to identify real consumer needs and get the right supply in place. Leveraging years of understanding of the market demand and merchants pain points, we have digitized offline supply and deploy our InstaMarts to better address the quick commerce demand.
+
+Simply shifting traditional e-commerce supply to the quick commerce channels creates no incremental value for either merchants or consumers. To better serve the lifestyle shaped by quick commerce, we are also driving industry-wide upgrades in infrastructure and the service experience. For example, we extended 207 Meituan InstaMarts and pharmacies, roll out chilling facility for alcohol and beverages and introduced quality guarantee services for fruit cart such as Bright Kitchen [ míng chú liàng zào ] and damage guarantee Huabei pay.
+
+More importantly, our food delivery business has already cultivated a group of users who highly rely on 30-minute certainty. Our platform is the best fit for quick commerce. We delivered the highest conversion rates and incremental sales for merchants. As such, we managed to solidify mindshare among our core user group and defend our leadership across categories despite intensified competition.
+
+Under the new competitive landscape, we are deepening omnichannel partnerships with brands beyond physical stores and Meituan InstaMart. We also launched branded flagship InstaMart Pingbai Guanqi Shandian Chang, which operates 24 plus 7 operations for 30-minute delivery of diversified and quality brand products through the native quick commerce channel.
+
+We provide brands with 4 quick commerce infrastructure, warehousing, delivery and digital systems. Hundreds of brands have already joined during Double 11. We also stepped up user education for this initiatives. On the first day of the Double 11 event,[ Hangzhou's ] brand saw 300% sales growth in their branded flagship InstaMart. We hope to help brands move beyond the evolution in traditional e-commerce and tap into new growth opportunities in quick commerce.
+
+Our branded flagship InstaMart enables lower operating costs, faster turnover, stronger brand awareness and more sustainable repurchase for brands. We are also enhancing our brand service tools. For instance, we offer smart distribution tool and AI-powered decision hub for our FMCG partners. We will keep working to remain the go-to platform for brands to unlock growth in quick commerce.
+
+In Q4, we will keep investing in supply side operations while ensuring best-in-class user experience. We also stepped up our investment in user education around Double 11 and other campaigns. Operating loss for Meituan Instashopping in Q4 may slightly widen versus Q3. That said, our competitive moat across supply, user base and fulfillment will allow us to sustain leadership with higher subsidy and operational efficiency. We are confident in restoring profitability and achieving a reasonable and sustainable margin in the mid- to long term. Thank you.
+
+Operator
+
+Your next question comes from Kenneth Fong with UBS.
+
+Kenneth Fong
+UBS Investment Bank, Research Division
+
+Recently, AMAP has introduced a 3 Star initiative. Taobao also launched the group buy deals. So how do management view the impact of this move on the competitive landscape to our in-store business? And under this new competitive environment, what specific measures will the company implement to address these challenges?
+
+Xing Wang
+Co-Founder, Chairman & CEO
+
+Thank you, Kenneth, for the question about our in-store business. Our in-store business model and operational strategy differ from roles of competitors across category mix, merchant scale and type of marketing of ROI. By building authentic, accurate and easily accessible POI data over time, we have established a dominant consumer mindshare as the go-to platform for local services. Consumers complete most of their local service transactions on our platform.
+
+On the other hand, AMAP has a very clear consumer image as a navigation tool. It's a navigation tool that make it difficult to cultivate consumer mindset for searching for local services. We have built a comprehensive user review ecosystem based on our operation in the past decade, accumulating over 25 billion of [indiscernible] reviews. This constitute one of the key reasons why consumers trust and consistently choose Meituan as their go-to platform for local services.
+
+We also have the broadest category coverage and selections in the local service space. We offer consumers one-stop service and seamless experience, including table reservation, diverse group buy deals coupons, in-store ordering, payment and membership benefits. Moreover, we maintain industry-leading merchant coverage, leveraging our experienced offline business development team and deep industry insights, we deliver best-in-class service to merchants. These are all the core competence that we believe other people cannot be quickly replicated in response to the evolving and dynamic competition.
+
+We continually iterate our product and operational capabilities to provide more diversified and personalized services to more quality merchants and consumers. First, we continue to cultivate an ecosystem conductive to quality merchants by expanding the coverage of our Must Eat list, Must Visit list, Black Pearl Guide and by introducing more specialized leads, we are able to provide merchants with more targeted traffic promotion and better transaction conversion.
+
+Second, we have also refined our rating criteria to encourage merchants to focus on product and service quality rather than just the number of consumer reviews. We utilize big data to intelligently identify and help merchants automatically drop abnormal reviews, significantly optimizing both merchant and user experience.
+
+We believe with the AI technology further penetrate into our business, we will be able to further improve the system. Additionally, we roll out more consumer-friendly products such as VR merchant tool for reservation, preorder while querying and smart in-store ordering. This digital solutions further enhance consumer experience and improve merchant operational efficiency. The above are just a few examples.
+
+In the future, we will continue to focus on 3 key directions: ecosystems optimization, service innovation and operation upgrade. We will drive to provide consumers with a seamless merchant fuller life cycle empowerment across customer acquisition, conversion and retention.
+
+We will continue to foster sustainable industry growth through digital transformation. Competition may temporarily impact margins for our in-store business, but we expect long-term competitive landscape for in-store business remain unchanged. With full confidence, we believe we can maintain our leading market position and continue to lead the evolution of the industry ecosystem. Thank you.
+
+Operator
+
+Your next question comes from Thomas Chong with Jefferies.
+
+Thomas Chong
+Jefferies LLC, Research Division
+
+Company has rolled out AI agent Xiaomei for testing. What's the current progress and future plan for Xiaomei? Additionally, will Meituan app integrate in that AI agent directly in the future. Could management share more about our future plans and investment strategy in AI? Thank you.
+
+Xing Wang
+Co-Founder, Chairman & CEO
+
+Thank you, Thomas. In this quarter, we continue to iterate our AI capability across 3 core dimensions. The first is training our in-house LLM. The second is AI in products and the third is AI at the work. So we have rolled out multiple open source LongCat-Flash series model. So we trained that LongCat and large language model in-house. So these models continue to get quite favorable feedback from the broader developer communities. So I think that's the beauty of open source model.
+
+And our LLM are deeply integrated with our core application use cases. It drives effective innovation based on our real-world needs to support our long-term strategic growth and the online to offline convergence. For AI applications, we have upgraded a bunch of AI tools for local services and offering smarter and more tailored services to our merchants. For example, our Kangaroo Advisors Diashu [Foreign Language] can help restaurant merchants with product selections and location planning. And another application, our smart operator, [Foreign Language] integrates multifunctional capabilities such as an AI reception, AI operational analysis and AI review responses, enabling intelligent and efficient store operations for merchants.
+
+And we also launched our Smart Life assistant Xiaomei app for users, which is now in quite a large-scale testing period. We also introduced our AI agent [Foreign Language] in our Meituan app. So that answers your question. We are testing both stand-alone AI agent app. But at the same time, we are going to integrate AI agent function in our main Meituan app. And these 2 agents now cover various aspects of local services, including dining, accommodation and transportation, travel, entertainment and shopping. And they can complete the process from searching to price comparison and to order placement, which can provide the users with a more intelligent and more personalized service.
+
+We will also continue to develop tools like AI coding and we have an application that's no code to help employees improve their work efficiency. And looking further forward, we will further enhance our competitiveness in our in-house foundational model and explore more AI agent applications in local services. We will also iterate our AI agent strategy based on operational insights and user feedback and driving deeper AI-enabled empowerment in our ecosystem.
+
+Operator
+
+Your next question comes from Ya Jiang from Citic.
+
+Ya Jiang
+Citic Securities Co., Ltd., Research Division
+
+And my question is about the new initiatives and related businesses and for your Keeta in Hong Kong, is it on track to reach breakeven thing? And additionally for the Middle East following our Q3 expansion into several new GCC countries. How is performance shaping up in this market?
+
+And also with recent reports about Keeta entering Brazil, even when there are strong existing payers like iFood and BD what will Keeta do differently in Brazil to take [indiscernible] even shares there? And lastly, given the particularly intense competition in domestic market, what strategic rationale supports accelerating over and base expansion at this juncture? And how does this align with our overall capital allocation framework? How should we project losses for new initiatives segment next year? Lots of questions. Thanks.
+
+Xing Wang
+Co-Founder, Chairman & CEO
+
+Thank you, Jiang. And thank you for your interest in our new initiatives. In this October, Keeta in Hong Kong has turned profitable. So I think that's a major milestone for us. Remember that we launched Keeta in May 2023, and it become profitable in October 2025. So it took us 29 months to get to that milestone. So it's actually ahead of our original 3 years plan.
+
+So I think that proves what really works in this industry is a customer-centric approach, and it proves our deep operational know-how and strong technology capability can bring to better unit economics in and we are going to keep improving on that basis. It will bring more meaningful quarter-over-quarter improvement. So -- and also, we expect to follow the similar path in other markets, for example, in Saudi Arabia and other GCC markets. Regarding the GCC region, building on our foundation in Saudi Arabia, we launched in several additional markets in GCC. For example, right now, they are still in very early stage. It's important to point out, we launched in Qatar in August and launched in Kuwait and UAE in September. Again, still in very early stage. So I think it's premature to share more details. But given the common market structure and user behavior across the Gulf region, I think it's reasonable to believe it remains one of the most attractive markets for food delivery.
+
+And also compared to Saudi Arabia, consumers in some other GCC countries not only have more mature food delivery habits, the penetration there is already higher, but they also benefit from more diverse and more richer restaurant supply. So that suggests there's a lot of untapped penetration potential in this market.
+
+Regarding our latest market, Brazil, I have already shared some thoughts in previous earnings calls. Brazil ranks among the top 5 food delivery markets in terms of GMV globally, and it's still growing at over 20% annually. But when we did the market research in Brazil, we noticed that the transaction fulfilled through more traditional channels such as through WhatsApp or very older way, phone calls or websites, they are still a very big portion, maybe even exceeding the online food delivery platforms. This indicates immense potential for online penetration over the next few years. And I think it provides an opportunity for Keeta to enter this market in spite of already -- there are already some incumbents.
+
+So in the past, our food delivery operation in China have established the world's most efficient tech platforms, including algorithms and the whole tech system. So that system can support over 150 million peak daily orders for very organized and very fast on-demand delivery. And furthermore, Keeta's early success growth in Hong Kong and Saudi Arabia over the past 2 years, that further proves our capability to localize our operation for different markets.
+
+So I think we are confident in bringing a better experience service to those markets, because I believe in this industry, it's always important to go back to the basics because there are different stakeholders in the industry. What do consumers want? Maybe they have different preference for different cuisines. But I think in any market, the consumers always want a big selection, a good selection and they want affordable prices, and they want to have reliable and faster deliveries. I think that's the common need across different markets, no matter it's in China -- Mainland China or Hong Kong or Saudi Arabia or other GCC countries or Brazil or in other markets. That's what consumers want.
+
+And for merchants, they want to have more businesses and they want to have a reasonable commission rate and they want to have a good delivery experience. And also, we need to think about what regulators want or the general society want. So there, I think they are interested in more job creation. Regulators want to see happy consumers, want to see happy merchants. They want to see more job creation and want to see more talent development. I think we are going to do all that in those markets where we do business.
+
+And regarding capital allocation, we should emphasize that Keeta is a part of our new initiatives. Our other new initiatives also includes grocery retail, which is another long-term strategy for us. We scaled back the Meituan Select by the end of Q2, but we will expand our Xiaoshan supermarket that's doing very well. And we will try other offline retail format like [ Happy Monkey Kuai Lu ] in 2026 to further improve our supply quality in grocery.
+
+So Keeta and grocery retail, I think these 2 represent a high conviction long-term opportunity for us, given this proven model and our transferable expertise from China to some other markets. But near term, our expansion into GCC markets and Brazil requires a substantial upfront investment in Q4. But given our early success in Keeta in Hong Kong, I think we are confident that we can see a quite good trajectory in those markets, including Saudi Arabia and other GCC markets. There, we already see a rapid improving unit economics and I think those markets are big enough to have multiple players. And yes, overall, we expect Keeta in GCC countries and Brazil to follow a similar unit economic improvement trajectory as we have seen in Hong Kong. And overall, we don't expect to see a bigger loss in -- for new initiative segment in next year compared to 2025. Thank you.
+
+Operator
+
+Thank you. There are no further questions at this time. I'll now hand back to Scarlett Xu for closing remarks.
+
+Scarlett Xu
+VP, Head of Capital Markets & Joint Company Secretary
+
+Okay. Thank you for joining our call. We look forward to speaking with everyone next quarter. Thank you so much for your support.
+
+Operator
+
+Thank you. That does conclude our conference for today. Thank you for participating. You may now disconnect.

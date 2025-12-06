@@ -1,0 +1,272 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from Bryan Bergin with TD Cowen.
+
+Bryan Bergin
+TD Cowen, Research Division
+
+Maybe just starting off here on some of the agentic solution traction. Daniel, I heard you mentioned, I think, 950-plus clients. Just first, is that comparable to the, I think, the 450 or so last quarter using Agent Builder? Or is that a broader kind of view across your agentic solutions? Just trying to get a sense of kind of that quantitative traction, if you could share that. And for the cases where you are seeing scaling past the proof of concepts, is it more about the underlying clients and their capabilities or more so about the specific types of use cases that they're pursuing?
+
+Daniel Dines
+Co-Founder, CEO, & Executive Chairman of the Board
+
+Thanks, Bryan. Yes, we are seeing really good momentum across our agentic offering. And this creates a pull-through across the entirety of our platform. One -- we are seeing some kind of consistent buying patterns emerging from POC to pilots and to some use cases into production. I would say that it's more the highest ROI use cases are very customer specific. I don't see necessarily a single one across multiple industries or different departments. But overall, it's pretty encouraging to see the movement from -- again, from pilots into production for some of them.
+
+Bryan Bergin
+TD Cowen, Research Division
+
+Okay. And then my follow-up is on the federal business. So you had positive commentary here, probably a surprise for some given the shutdown. Just curious, was there any shutdown impact just worth calling out here in October and into November?
+
+Ashim Gupta
+CFO & COO
+
+No, there is no direct impact from the shutdown. You got to remember, Bryan, a lot of our projects are just funded through the bills. So -- and many of them are considered -- are in critical operations like in areas like the Department of Defense, et cetera. So we had no major impact from the shutdown.
+
+Operator
+
+Your next question comes from Jake Roberge with William Blair.
+
+Jacob Roberge
+William Blair & Company L.L.C., Research Division
+
+Nice quarter. Congrats on the results. I know there's some FX impact but your Q4 guide implies that net new ARR could start growing again on a constant currency basis. Can you talk about the driver of that return to growth and just how we should think about the sustainability of net new ARR growth moving forward?
+
+Daniel Dines
+Co-Founder, CEO, & Executive Chairman of the Board
+
+Yes. Look, I think the entire business is positive. We are really pleased with how our team executes. We see consistent execution across the board. I would like to nominate especially our teams in Americas, where we are really seeing signs of great traction, especially in the agentic. And yes, I would say it's overall, it's -- things are improving and stabilizing.
+
+Ashim Gupta
+CFO & COO
+
+Yes. I would just echo what Daniel said as well. I think there is no magic to it. We talked about the improved execution. The focus -- the launch of the new products, we think, is going to continue to help us both, definitely indirectly in pulling through our platform and increasing stickiness and getting us deeper in customer conversations. But then as we go through time more directly. And we look at it kind of just as the business stabilizes, there's a lot of good news, both the consistency of the leadership, the talent that has been brought in as well. So those are factors that contributed. There's not one single magic button or one silver bullet that we're counting on for that.
+
+Jacob Roberge
+William Blair & Company L.L.C., Research Division
+
+Okay. That's helpful. And then I know you're not expecting a material contribution from AI solutions this year. But for customers like that cybersecurity company that you called out in the script that are starting to put these agents and Maestro processes into production. Can you help us understand what type of pricing uplift or monetization that you're seeing once we actually get these go-lives in production?
+
+Ashim Gupta
+CFO & COO
+
+Yes. It's not about the pricing uplift. I think the first thing to note is we talked about the cybersecurity, Jake, is it's pulling through the entire platform. IXP, additional robots, Process Orchestration. So I think that is an important part of this. It's not agentic in isolation. It is agentic paired with the rest of our platform that really is driving value for our customers. So I see this kind of the monetization, not as a pricing uplift, but increasing stickiness, giving more conviction to deepen our platform into the architecture of our customers, as customers really like the road map and are starting to experiment with agentic and find tangible ROIs through the full breadth of our platform.
+
+Operator
+
+Your next question comes from Mike Turrin with Wells Fargo.
+
+Austin Williams
+Wells Fargo Securities, LLC, Research Division
+
+This is Austin Williams on for Michael Turrin. I just wanted to go back to U.S. Federal. I'm curious how results in 3Q came in versus your expectations at the beginning of the year related to DOGE? And then maybe just as a follow-up. Anything you can add on the OpenAI collaboration, what exactly that could drive for UiPath?
+
+Daniel Dines
+Co-Founder, CEO, & Executive Chairman of the Board
+
+I would say that the federal business continues to be a dynamic environment for us with pockets of strength. We are really encouraged by the progress in 3Q, I think it's returning to a new normal. The deals that we mentioned in the scripts are really solid, team is executing well with focus on efficiency positioning as well. The projects are long term and strategic, not short term. We continue to be prudent in our guidance estimations about the sector.
+
+On the OpenAI, yes, we use GPT5 across the board in our platform. We highlighted especially the use in one of the most innovative parts of our platform, the product that I mentioned in the script called ScreenPlay, which is basically our own version of computer use or operator. But the key thing here is that we can combine the reliability of UI Automation with the power of adaptability of LLM driven computer use. And I think to my knowledge, we are the only company that can succeed delivering autonomous UiPath using LLMs, using this approach.
+
+Operator
+
+And your next question comes from Matthew Hedberg with RBC Capital Markets.
+
+Michael Steven Richards
+RBC Capital Markets, Research Division
+
+This is Mike Richards on for Matt. Kind of building on that last question, there is a ton of excitement around all the partnerships you guys announced, and I think it validates your positioning and orchestration. So I was wondering, even beyond OpenAI, if you could just give some more details around the partnership just in terms of, is there a joint go-to-market element to any of them? I know it's early, but have you seen any pipeline build as a result of these partnerships? Just any more details so a lot of excitement around it.
+
+Daniel Dines
+Co-Founder, CEO, & Executive Chairman of the Board
+
+I would say that at this point, our -- the partnership that we announced at FUSION are clearly into the technology-enabling partnerships. And they were driven largely by our customer needs. We always -- we praise ourselves for having an open platform that can really be flexible and customizable to customer needs. So we believe so, if we look at kind of our partnership, we believe that the foundation of delivering reliable in enterprise have different layers. So it has the data layer, ontology layer, so we -- this is where our partnership with Snowflake is shining.
+
+We offer ourselves the automation, the RPA and API and agentic layer. But of course, with Open AI and Google we use the Frontier LLMs in order to power the agentic. We use NVIDIA for security and governance in regulated industry. So I think our goal is to create a set of partnership that offer a very solid foundation to deliver reliable AI into a secure and governed manner.
+
+Michael Steven Richards
+RBC Capital Markets, Research Division
+
+Super helpful. And then if I could just do a follow-up. I think before we talked about in the early days of the orchestration opportunity for you guys, it's been mostly agents created on UiPath. I was just wondering, have you seen more of a shift to third-party agents yet? Or is it still -- you guys are mostly orchestrating agents built within UiPath?
+
+Daniel Dines
+Co-Founder, CEO, & Executive Chairman of the Board
+
+We are seeing many customers interested in building coded agents where we have partnered with companies like LangChain, CrewAI and LlamaIndex. And we are seeing right now a mix of agents that are hosted and managed by our platform that are both low code and coded agents. I think at this point, it's kind of too early to see us managing external agents that are built completely outside of our platform.
+
+Operator
+
+Your next question comes from Sanjit Singh with Morgan Stanley.
+
+Unknown Analyst
+
+This is [ Ryan Lance ] on for Sanjit. Just with regards to the channel, you mentioned the expansion of your partnership with Deloitte. So can you just provide some additional details around how much incremental pipeline is now partner sourced relative to a year ago? And maybe just how these partnerships can help drive additional kind of AI-related product deployments next year?
+
+Ashim Gupta
+CFO & COO
+
+Yes. One is, I think the quantum has definitely increased, but more than the quantity, it's the quality. So when you look at the S/4HANA migrations that are happening and partners like Deloitte and their presence within many of these customers, we're now involved in those conversations. And I think that, that is helping pull us through and being in the conversation about larger scale transformation processes. I think that is -- Deloitte has obviously done a really exceptional job and that partnership has been meaningful for us. But I think that's a motion that we're also seeing across our teams with various partners that are there. So the quality for me is much higher quality pipeline than just a superficial quantum or a quantity number that I would tell you about.
+
+Unknown Analyst
+
+Okay. Great. And then just one follow-up. You guys have driven some pretty meaningful OpEx leverage throughout this year. And I'm just curious if you could provide any additional details around how you're thinking about OpEx investment next year to kind of support this AI product rollout and just broader monetization path.
+
+Ashim Gupta
+CFO & COO
+
+Yes. Of course, I'm not going to provide anything specific regarding next year at this time. But I think putting this year in context, we'll give you a sense of the strategy that Daniel and the leadership team here are employing. So I think the first thing is we've got an OpEx leverage by not austerity but by discipline and really being super focused on where we're prioritizing. So we are actually hiring in our engineering segments. We are expanding sales capacity. As we talked about earlier this year, and last year, really, our focus has been continuing to drive efficiency across our processes, being selective about overlay functions in terms of where we're investing.
+
+And I think that area allows us to get operating leverage while still being able to invest in key areas. So as we're looking at our platform, whether it's Forwards Deployed Engineers, whether it is more hands and legs at our customer sites or just core engineering capabilities. Those are areas that are in our investment zone. When you look at our line item, we're getting leverage across every area because we're really going to all of the cost structures that exist outside of those 3 and really seeing what are the areas of efficiency and prioritization. And that has not just given us OpEx leverage, it's also enhanced our focus and has contributed to us being better in our execution cadence as well.
+
+Operator
+
+And your next question comes from Scott Berg with Needham & Company.
+
+Scott Berg
+Needham & Company, LLC, Research Division
+
+Nice quarter. When I was at the conference a couple of months ago, some of the partners I spoke with really talked about a high level of pilots and proof of concepts that your customers are going through right now with the different types of AI functionality? And I know it's not a big part of the expectations around bookings for this year but I guess, as you've seen some of them convert to actual sales or production, are there any key drivers or levers that you've learned through some of these that you can help maybe use some of these other deal cycles you're currently going through?
+
+Daniel Dines
+Co-Founder, CEO, & Executive Chairman of the Board
+
+Yes. We see these patterns emerging. It's -- I would say that the landscape is extremely scattered right now. We have deployed our teams in various use cases across various industries. We see some particular partners emerging in health care like, for instance, in revenue cycle management, prior authorization, claims management, in financial services, financial crimes, it's -- but again, I think it's a bit too early to mention one particular use case where we see like great replicable potential.
+
+Scott Berg
+Needham & Company, LLC, Research Division
+
+Understood. And then, Ashim, as you look at the fourth quarter guidance, someone else had already mentioned that the implied ARR number suggests that your net new ARR is up again on a year-over-year basis, help us kind of think through maybe the construction of that. Is that just purely a result of the improved execution that you all have been working on this year? Or is there some aspect of maybe deals that were maybe slipped from Q2 and Q3 that kind of moved in to the expectation? And I know that AI, some of the functionality there is not a big driver this year. But are there some expectations around maybe some bookings improvements in that category that's helping kind of drive what your initial guidance here is?
+
+Ashim Gupta
+CFO & COO
+
+Yes. So let me be super clear on it. There's nothing in terms of like slip deals from third quarter or anything that is timing oriented, Scott, in any material or significant way. There's always normal course deals that move back and forth, right, deals that we're in your fourth quarter pipeline that closed early in deals that closely. That's just normal course and nothing out of the usual that I would talk about.
+
+When you look at the year-over-year growth implied within our guidance, I think there's 3 main factors for me. The first is execution. We are seeing improved execution across the board from our sales team. We -- it is supported by good customer activity, maybe not 1 or 2 deals, but really broad-based activities of POCs and pilots and renewals that are coming in with more conviction about our long-term place in the architecture that leads to natural upsells, et cetera. There is macroeconomic environment, as I talked about in the second quarter earnings call around foreign exchange, that will play a role in that year-over-year impact that is there.
+
+And then the third one is I just think momentum. I think that we've had a good stable base now in terms of if you look at our sales stability 6 months, 9 months after kind of the restructuring that we had completed at the beginning of the year, as well as just a little bit of the normalization around areas like the public sector, which we've said is kind of back to a new normal. No catch up, but at least at this time, a new normal.
+
+We feel like we're still prudent on our overall assumptions on the macroeconomic environment. But it's a confluence of things that to me are at the opposite end of when net new ARR was declining, poor execution, foreign exchange having a headwind and frankly, just losing -- having too much inconsistency in our strategy as well as our organizational structure. So I'd say all 3 are contributing to that, to the stabilization of net new ARR you're seeing.
+
+Operator
+
+Your next question comes from Alex Zukin with Wolfe Research.
+
+Arsenije Matovic
+Wolfe Research, LLC
+
+This is Arsenije on for Alex Zukin. And I guess congrats on the results and also just kind of wanted to expand on what the downtick in NRR was? Was it just weakness at the low end? Or was there anything else? And then you kind of unpack what's driving that stronger new business, but is there anything that you can kind of give us in terms of Q4 applications on that new business strength given the 3 factors you just talked about?
+
+Ashim Gupta
+CFO & COO
+
+Yes. So look, I think there is -- I think when you look at it, definitely at the lower end of the segment. We've talked about that. It has a little bit of pressure on the net new ARR. To give you a supplemental metric, our net dollar expansion rate for customers between $100,000 and $1 million was 113%. So that can quantifiably show kind of the lower cohort having more pressure. And I think you get a little bit of the law of large numbers as well. But as we stabilize net new ARR, obviously, the rest of the metrics begin to stabilize as well. And you can see that pattern starting both with our third quarter results and, of course, kind of the guidance that we've provided here.
+
+Arsenije Matovic
+Wolfe Research, LLC
+
+Got it. And then just to kind of follow up on kind of the same thing. You doubled the number of customers developing agents quarter-over-quarter and Maestro process instances. What's the uplift you've seen in those customers? And is it kind of fair to assume that into next year as that revenue ramps, it can help sustain that NRR and offset some of that low-end weakness that we've seen?
+
+Ashim Gupta
+CFO & COO
+
+Yes. We will continue to contend, but we're in the early innings of agentic. I think what the momentum around customer activity, it has both the direct and indirect. I think the indirect definitely has started to help us and will continue to help us. customer pulling through other parts of our platform, investing in us as a longer-term part of their enterprise architecture.
+
+In terms of direct scalable, direct monetization place from agentic. We're -- at this we'll update everybody as we kind of get into next year around assumptions there. But for the immediate short term, there's nothing material as we cited in the script.
+
+Operator
+
+Your next question comes from Kingsley Crane with Canaccord Genuity.
+
+William Kingsley Crane
+Canaccord Genuity Corp., Research Division
+
+I think it's interesting if we think about the Code Red moments over the past couple of weeks, it's clear that competition among model providers is healthy, of course, that makes integration, orchestration even more valuable. Have you seen a shift in perception in the past quarter? And then from an integration activity perspective, how is heterogeneity trending?
+
+Daniel Dines
+Co-Founder, CEO, & Executive Chairman of the Board
+
+I don't think we necessarily see yet a shift. I think you aim what -- Google Gemini release. We were using Gemini in our IXP business for quite a few quarters somehow. I think we -- as a platform, we continue to assess all the frontier LLMs, and we use, frankly, a mixture of them. And for instance, in our IXP business, we use GPT5 to understand the better the structure and intent documents, while we can use Gemini for specific extraction like multiple tables, indicated tables. This is just an example. But across the platform, we always monitor and use the best of breed LLMs.
+
+William Kingsley Crane
+Canaccord Genuity Corp., Research Division
+
+Great. And then just a quick follow-up, Ashim, you mentioned in your prepared remarks that you're partnering earlier, your co-developing solutions earlier. That's been a big focus for this year. Just to what extent did this directly translate into improved results in Q3? And then do you think that this could be more of a future predictor of success next year?
+
+Ashim Gupta
+CFO & COO
+
+I think a leading indicator, yes. I think any time you're closer to customers, you are innovating with them, you're solving problems. I think it helps. And I would say what our conviction is, is that ROI is going to be where choices are made. And so as we're co-innovating, as we're teaming up with partners around bigger problems, I think we have a chance to have meaningful impact around ROIs, which we feel we'll continue to do that.
+
+I think it also shows the relevance of UiPath. If I can -- like in terms of the validation of the agentic framework, it's not marchitecture, it's real product that has real impact that both partners and customers can innovate around. And I think that is super important and a really great validation point for our product team, our sales team and all of our customer teams combined.
+
+To answer your question around third quarter, as we've cited in the script as well in the prepared remarks, there's no meaningful impact from agentic in our near-term results. We feel like this is continued disciplined execution. What agentic continues to do is the closer you are to customers the more you are a part of their long-term road map and architecture, the more that they're willing to invest and pull through the existing parts of your platform today, and have higher level impacts within their org and that indirect impact we're definitely feeling the momentum and we're excited about it.
+
+Operator
+
+Your next question comes from Kirk Materne with Evercore.
+
+Chirag Ved
+Evercore ISI Institutional Equities, Research Division
+
+This is Chirag on for Kirk. Congratulations on the strong quarter in traction. Daniel, you've talked briefly about prebuilt Agent solutions, highlighted strong modernization use cases within certain categories in the past, which verticals do you see adopting these prebuilt agentic solutions the fastest? And are you moving more aggressively into industry-specific packaged automation at all?
+
+Daniel Dines
+Co-Founder, CEO, & Executive Chairman of the Board
+
+Yes. Our verticalized approach is getting a lot of traction within UiPath. We put a lot of focus and effort. We actually did recently rework of our product and engineering teams to better address the creation of vertical solutions. In terms of the industries, we focus on health care, financial -- and financial services primarily with again, with an accent on revenue cycle management in health care and in financial services, I would say, financial crimes, can be one of the -- know your customers, anti-money laundering type of risk cases we are seeing the most interest from our customers.
+
+Chirag Ved
+Evercore ISI Institutional Equities, Research Division
+
+Okay. Maybe just one more. What are your thoughts on the balance between deterministic automation and agentic or LLM-based automation? And do you see this balance shifting materially at any point over the next few years or few quarters?
+
+Daniel Dines
+Co-Founder, CEO, & Executive Chairman of the Board
+
+Look, our thesis is that they are very complementary, and they address different steps in the business process. And in many processes as long as task or workflow is well defined. People would use a deterministic automation. There is zero need to use an LLM-based. You use an LLM in order to create a deterministic automation was or to maintain it to make it -- to improve it over time, but you don't use an LLM to drive it. But of course, there are so many areas where you cannot have -- rules are either too complicated or process is too complex, you sift through tons of documents where or it involves conversational aspect of the process.
+
+So in all these areas, LLMs are an amazing complement to the deterministic automation. And I also want to mention that the orchestration piece that combined the AI-based and deterministic with humans in the loop is an essential piece that is required in order to deliver a solution that is secure, governed for the enterprise. We continue -- we have continued saying that orchestration is the key. We announced our effort a year ago. And I'm pleased to see that across the industry, people are talking right now and realize that orchestration is a key technology in order to deliver a reliable AI.
+
+Chirag Ved
+Evercore ISI Institutional Equities, Research Division
+
+Congrats on this quarter.
+
+Operator
+
+Your next question comes from Terry Tillman with Truist Securities.
+
+Dominique Manansala
+Truist Securities, Inc., Research Division
+
+This is Dominique on for Terry. So it was mentioned previously that one of the biggest customer hurdles with agentic consumption pricing is spend predictability. So have early deployments given you enough usage patterns to help customers forecast more reliably. And also just curious as to what else you all are doing to help customers get over that hurdle?
+
+Daniel Dines
+Co-Founder, CEO, & Executive Chairman of the Board
+
+Look, we are constantly evaluating how our customers are adopting AI. And we aim to have a pricing model that really reflects the adoption of -- consumption of AI. We constantly monitor industry trends. And I would say the entire industry is dynamic at this point and is trying to figure out what's the best pricing. We are pretty flexible in our approach. We can price by components. We also are pretty flexible on understanding an outcome-based pricing can be for our customers. But again, I think we are in the early innings of really understanding consumption patterns across agentic AI at scale, I mean.
+
+Dominique Manansala
+Truist Securities, Inc., Research Division
+
+Got it. And then just as a follow-up, has the typical cycle time frame from an agentic PLC to a production deployment shortened versus earlier in the year? If so, could you just highlight what specific efforts are driving that compression? Or what do you all plan to do to accelerate it?
+
+Daniel Dines
+Co-Founder, CEO, & Executive Chairman of the Board
+
+Yes. I think we, as a company, understand a bit better how various use cases. We are building internally solutions accelerators that can help us replicate experience across industries and verticals. And my estimation is this trend will continue to accelerate within next year. I strongly believe that the key to unlock huge scale AI consumption in enterprise is the prepackaged solutions where will -- we can meaningfully accelerate the time to value. This is why, as I mentioned before, we put a lot of emphasis in building these solutions.
+
+Operator
+
+Thank you. And there are no further questions at this time. So I'll now hand it back to management for closing remarks.
+
+Daniel Dines
+Co-Founder, CEO, & Executive Chairman of the Board
+
+Thank you so much for all the questions. I would like to wish you happy holidays. And as usual, we like to hear from as many as you throughout the quarter. Thank you.
+
+Operator
+
+Thanks. This concludes today's call. All parties may disconnect.

@@ -1,0 +1,130 @@
+Bank of Montreal (BMO:CA) Q4 2025 Earnings Call December 4, 2025 8:30 AM EST
+
+Company Participants
+
+Christine Viau - Head of Investor Relations
+Darryl White - CEO & Director
+Tayfun Tuzun - Chief Financial Officer
+Piyush Agrawal - Chief Risk Officer
+Aron Levine - Group Head & President of BMO U.S.
+Sharon Haward-Laird - Group Head, Canadian Comm. Banking & NA Shared Services, Co-Head, Canadian Personal & Comm. Banking
+Mathew Mehrotra - Group Head, Canadian Personal & Business Banking and Co-Head of Canadian Personal & Comm. Banking
+
+Conference Call Participants
+
+Paul Holden - CIBC Capital Markets, Research Division
+John Aiken - Jefferies LLC, Research Division
+Ebrahim Poonawala - BofA Securities, Research Division
+Gabriel Dechaine - National Bank Financial, Inc., Research Division
+Mario Mendonca - TD Cowen, Research Division
+Darko Mihelic - RBC Capital Markets, Research Division
+
+Presentation
+
+Operator
+
+Good morning, and welcome to the BMO Financial Group's Q4 2025 Earnings Release and Conference Call for December 4, 2025. Your host for today is Christine Viau. Please go ahead.
+
+Christine Viau
+Head of Investor Relations
+
+Thank you, and good morning. We will begin the call today with remarks from Darryl White, BMO's CEO; followed by Tayfun Tuzun, our Chief Financial Officer; and Piyush Agrawal, our Chief Risk Officer. Also present to answer questions are our group heads: Matt Mehrotra from Canadian Personal and Business Banking; Sharon Haward-Laird, Canadian Commercial Banking; Aron Levine, U.S. Banking; Alan Tannenbaum, BMO Capital Markets; Deland Kamanga, BMO Wealth Management; and Darrel Hackett, BMO U.S. CEO.
+
+[Operator Instructions] As noted on Slide 2, forward-looking statements may be made during this call, which involve assumptions that have inherent risks and uncertainties. Actual results could differ materially from these statements. I would also remind listeners that the bank uses non-GAAP financial measures to arrive at adjusted results, management measures performance on a reported and adjusted basis and considers both to be useful in assessing underlying business performance. Darryl and Tayfun will be referring to adjusted results in their remarks unless otherwise noted as reported.
+
+I will now turn the call over to Darryl.
+
+Darryl White
+CEO & Director
+
+Thank you, Christine, and good morning, everyone. This morning, we reported adjusted EPS of $3.28 for the fourth quarter and $12.16 for the year. Fiscal 2025 was a strong year for BMO. We made meaningful progress against our financial and strategic commitments, strengthening profitability, delivering for our clients and supporting the communities we serve. At this time last year, we laid out specific financial commitments and a clear path. And through 2025, we delivered against each of those commitments with disciplined execution.
+
+Here are some highlights. Our top imperative is rebuilding our ROE together with profitable earnings growth. These priorities are not mutually exclusive, but mutually reinforcing as we demonstrated in 2025. We increased full year ROE by 150 basis points from 9.8% to 11.3%, and we exited Q4 with momentum at 11.8%. At the same time, we delivered EPS growth of 26% and record net income of $9.2 billion. We made progress across each of our 4 strategic levers. The most important driver was strong operating performance in each of our businesses with PPPT up 18% for the year to $15.8 billion. We met our long-standing commitment to positive operating leverage, achieving 4% for the year. Operating leverage was positive in each segment, driven by disciplined expense management and solid revenue performance. Our efficiency ratio improved by 230 basis points to 56.3%.
+
+Strength in risk management remains a core differentiator for BMO. As expected, impaired provisions moderated from the peak in Q4 '24 to 44 basis points this quarter. We built allowances during the first half of the year to account for a slower economy and trade uncertainty, and we are well reserved for potential risks in the environment. Finally, we're actively optimizing our capital position. Over the course of 2025, we returned over $8 billion in capital to our shareholders through buybacks and dividends. And today, we announced a dividend increase of $0.04 to $1.67 per share, up 5% over last year. Our CET1 ratio of 13.3% remains above our target, and we're maintaining steady execution of our share buyback program.
+
+Our strategy is clear and consistent and team BMO is executing with pace and momentum. Our digital-first AI-powered strategy is reshaping how we operate to serve our clients while putting AI in the hands of everyone. To support this, we recently introduced a leading Gen AI productivity tool to all BMO employees and award-winning learning modules to help them unlock the power of artificial intelligence with over 80% active users. We're creating value through strategic partnerships and investments we've made in data, risk governance and talent that are accelerating our AI capabilities to realize even greater efficiencies and business growth. We've executed and captured benefits from Gen AI tools like Lumi and Rover, digital assistants that support our frontline employees, enabling faster customer advice and insights. We're the first Canadian bank to access the IBM Quantum network and are actively using machine and reinforcement learning models in credit and capital markets and across the bank.
+
+Turning to highlights in each of our businesses. Starting with Wealth Management, our highest ROE business, which had a very strong year with record revenues and net income driven by continued growth in client assets and constructive markets. Clients are rewarding us with more business as we continue to deliver competitive investment returns and innovative solutions to meet their needs. This quarter, BMO Global Asset Management received 12 Lipper Fund Awards recognizing continued excellence in delivering strong risk-adjusted returns for clients across a diverse range of investment solutions. And with Burgundy Asset Management joining BMO on November 1, we're positioned to further expand private wealth solutions for the benefit of our clients.
+
+Capital Markets is a key contributor to BMO's diversified earnings. PPPT growth for the full year was strong with each quarter above our expectations. We strengthened our platform and enhanced client coverage to achieve and advance our position as a leader across priority markets and products, including in our globally leading metals and mining business, while expanding our equity derivatives and U.S. rate businesses. In Canadian Investment Banking, this year, we ranked #1 in M&A deals and #2 in ECM league tables.
+
+Our flagship Canadian P&C business delivered record revenue this year and strong PPPT growth of 8% as we're acquiring high-quality accounts and deepening client relationships through market-leading digital sales, engagement and experience. We continue to offer innovative solutions to clients -- to help clients make real financial progress. And this quarter, we launched joint programs with Instacart and Walmart to deliver convenience and savings to Canadians.
+
+In Canadian Commercial Banking, steady client growth supported by increased referrals between commercial, wealth and capital markets and continued momentum in digital engagement led to good loan growth of 7% and deposit growth of 5% despite a complex environment. A key driver of client and deposit growth is through our leading North American Treasury and Payment Solutions platform, which offers clients a comprehensive product suite, including real-time payments, virtual account management and payment APIs that connect directly to their enterprise resource planning and treasury systems.
+
+Turning to U.S. banking. This is the first quarter reporting under the unified structure with teams integrated to deliver the full power of BMO to our clients and momentum is building. We've made strong progress this year on improving the ROE in our U.S. banking towards our 12% medium-term target, executing against deliberate action plans to support this priority. Through a disciplined focus on stronger connectivity across our businesses, funding optimization and redeployment of resources to higher returning relationships, profitability has strengthened across key metrics.
+
+Execution of pricing optimization led to increased deposit spreads and margin expansion of 15 basis points from Q4 of last year. To date, we've completed optimization actions for approximately 80% of the loans we identified as nonstrategic and below our return targets and reduced RWA by USD 4.6 billion. We continue to expect these activities to be largely completed by the second quarter.
+
+At the same time, we successfully grown recurring fee revenues, up 10% this year. Commercial TPS fees grew 23% year-over-year and strong growth in net new assets and AUM drove a 12% increase in private wealth fees. Momentum continues to build in retail banking with 60% higher growth in net new checking accounts year-over-year. The results are evident in our fiscal 2025 performance. PPPT growth accelerated to 7% with positive operating leverage of 3% and meaningful improvement in PCL, all leading to ROE improvement of 170 basis points to 8.1% for the full year.
+
+We recently announced the sale of 138 branches in certain markets where we did not have local scale to compete and are strategically reinvesting to strengthen our network and densify our presence in key markets where we can achieve local scale and have the greatest opportunity for long-term growth. We plan to add 150 new branches over the next 5 years with a focus on further densifying in California, where we recently opened a newly integrated financial center in Manhattan Beach.
+
+We've also invested in key talent positions, adding and promoting over 100 frontline commercial and private bankers in the U.S., building significant capacity to further accelerate performance. Overall, 2025 was a productive year, realigning our U.S. banking structure and optimizing the portfolio. We're now advancing to the next phase of our strategy, positioning the business for growth, leveraging the strength and scale of all 3 businesses to drive greater synergies and continued ROE improvement.
+
+As we look ahead to 2026 with the -- while the economic environment has remained resilient, GDP growth has been modest and is expected to grow 1.8% in the U.S. and 1.4% in Canada. The Canadian unemployment rate is likely to remain above 7% through the middle of next year, presenting some challenges, particularly to consumer credit. While trade uncertainty persists pending the review of the USMCA agreement, at the same time, I'm encouraged that initiatives to invest in Canada and diversify trade relationships to strengthen the Canadian economy over the medium term are beginning to move forward. We're well positioned to benefit from a renewed CapEx cycle given our advantaged position in commercial banking and in capital markets.
+
+At BMO, we've set the foundation for continued momentum in 2026 and are moving forward with pace. I'm pleased to announce that we plan to host an All Bank Investor Day on March 26, where we will share with you more details on our strategy and our progress. In summary, we're delivering world-class client experiences grounded in one client leadership and fostering a high-performing, winning culture to drive progress for our clients and our performance.
+
+We continue to invest and leverage our digital-first AI power strategy, reshaping how we operate and serve our clients. Our consistent focus on superior risk management is foundational and through continued discipline and improving credit market conditions, we expect PCL to continue to normalize over time. Our #1 imperative continues to be our ROE rebuild, and I'm confident in the momentum we've built this year and that it will continue to deliver profitable growth and long-term shareholder value.
+
+With that, I'll turn it over to Tayfun.
+
+Tayfun Tuzun
+Chief Financial Officer
+
+Thank you, Darryl. Good morning, and thank you for joining us. My comments will start on Slide 9. On a reported basis, fourth quarter EPS was $2.97 and net income was $2.3 billion. Adjusting items are shown on Slide 46 and included a goodwill write-down related to the announced sale of certain U.S. branches. The remainder of my comments will focus on adjusted results.
+
+Adjusted EPS of $3.28 was up significantly from $1.90 last year with net income of $2.5 billion, driven by strong PPPT growth of 16% and lower PCLs. Return on equity of 11.8% improved 440 basis points and return on tangible common equity of 15.4% improved 570 basis points. Revenue increased 12%, with broad-based growth across all businesses, including continued strong fee growth in wealth and capital markets and NIM expansion. Expenses grew 9% or 5% excluding higher performance-based compensation and the impact of stronger U.S. dollar, and we delivered positive operating leverage of 3%. Total PCL decreased $768 million from the prior year with lower impaired and performing provisions. Piyush will speak to this in his remarks.
+
+Moving to Slide 10. Average loans grew 1% year-over-year, driven by higher residential mortgages and commercial loans in Canada, offset by lower U.S. commercial balances, including the impact of optimization actions. Customer deposits were up 1% from last year with good growth in Canadian everyday banking and commercial operating balances, offset by lower term deposits in both countries.
+
+Turning to Slide 11. On an ex-trading basis, net interest income was up 10% from the prior year with good growth in all operating segments supported by continued margin expansion and balanced growth in Canadian P&C and Wealth as well as higher net interest income in Corporate Services. Net interest margin ex trading was 206 basis points, up 7 basis points sequentially, reflecting improved deposit margins and contribution from corporate services, including the benefit of higher reinvestment rates.
+
+In Canadian P&C, NIM was stable with higher deposit margins, offset by changes in product mix. U.S. banking NIM was up 5 basis points, with higher deposit margins, partially offset by the impact of lower deposit balances. Year-over-year all bank NIM widened by 15 basis points and we expect it to remain relatively stable through next year based on the current rate expectations and continued benefit from latter investments.
+
+Turning to Slide 12. Noninterest revenue was up 9% from the prior year and up 17% excluding trading, driven by strong wealth management fees and underwriting fees in capital markets, as well as continued growth in deposit fees reflecting strength in our TPS business.
+
+Moving to Slide 13. Underlying expense growth was up 5% driven by higher employee-related costs, including investments in talent as well as higher technology investments. For the full year, underlying expense growth of 4% was in line with our mid-single-digit growth guidance given at the beginning of the year and achieved positive operating leverage of 4.3%. We have a long track record of disciplined expense management through continuous assessment of our expense base, balanced against strategic investments for future growth.
+
+We believe that we still have room to improve our structural expense base and have identified further efficiencies, mainly in the form of workforce optimization that will require an upfront charge. We are in the process of finalizing the details and currently expect to record a charge of approximately $225 million in the first quarter, which we expect will deliver annualized savings of $250 million when fully executed. We expect to realize about half of the savings in 2026. We expect core expense growth to be in the mid-single-digit range in 2026, including the upfront charge and our growing investments in talent, technology and automation with a particular focus on our U.S. banking and wealth businesses.
+
+We expect to still achieve positive operating leverage for the year, including the impact of the first quarter charge. A reminder that similar to previous years, Q1 will include seasonally higher benefits and impact of stock-based compensation for employees eligible to retire, which we project to be in the range of $250 million to $270 million.
+
+Turning to Slide 14. Our CET1 ratio is strong at 13.3% and remains above management targets. The ratio declined 20 basis points from last quarter with continued good internal capital generation more than offset by share repurchases and moderate growth in source currency RWA. We completed 8 million share repurchases during the quarter and 22.2 million shares in total during fiscal 2025. In 2026, we expect to continue buying back our shares while supporting business growth opportunities and maintaining a strong capital position. Our CET1 management target remains 12.5%.
+
+Moving to the operating segments and starting on Slide 15. Canadian P&C net income was up 5% year-over-year as good PPPT growth of 7% was partly offset by an increase in impaired and performing PCLs. Revenue of $3.1 billion was up 7%, driven by higher net interest income, reflecting both balanced growth and higher margins. Higher noninterest revenue reflected good growth in mutual fund fees, deposit fees and net investment gains in our commercial business. Expense growth of 6% reflected higher technology and employee-related costs. Canadian P&C, again delivered positive operating leverage for the full year with the efficiency ratio improving to 43.1%.
+
+Moving to U.S. Banking on Slide 16. My comments here will speak to the U.S. dollar performance and reflect the change to our organizational structure, combining the U.S. wealth business with our U.S. personal and commercial businesses. Net income was $627 million, up from $262 million a year ago, reflecting good PPPT growth of 8%, positive operating leverage of 3.6% and lower PCLs. Revenue growth was driven by higher deposit margins more than offsetting lower deposit and loan balances and improving noninterest revenue driven by strong TPS fees and net asset growth in wealth. Expenses were flat compared with the prior year as lower technology and other operating expenses were offset by higher employee-related costs.
+
+Moving to Slide 17. Wealth Management net income was up 28% from last year, driven by strong revenue performance in Wealth and Asset Management, up 14%, reflecting higher markets and continued growth in net sales, strong balance sheet growth and higher brokerage transactions. Insurance revenue increased due to underlying business growth and favorable market movements. Expense growth of 11% was driven by employee-related expenses, including higher revenue-based costs. In Q1, our first quarter results will include a full quarter of results from Burgundy Asset Management.
+
+Moving to Slide 18. Capital Markets net income was $532 million compared with $270 million last year, reflecting strong PPPT performance of $712 million, up 32% and lower PCL. Revenue was up 14%, reflecting 10% growth in Global Markets driven by higher debt and equity insurances and higher equities trading revenue partially offset by lower interest rate trading. Investment and corporate banking revenue increased 18% driven by higher debt and equity underwriting fees as we saw strong client activity during the quarter. Expenses were up 4%, mainly driven by higher performance-based compensation.
+
+Turning now to Slide 19. Corporate Services net loss was $73 million, reflecting above trend revenue in the quarter. We expect Corporate Services net loss in 2026 to average a similar range as the current year with the first quarter net loss expected to be the high point, including seasonal items.
+
+In summary, in 2025, we delivered strong performance with record revenue, PPPT and net income and met our commitments on positive operating leverage while investing in the business. We've made strong progress in ROE improvements at both the total bank and U.S. banking levels with strategies in place to drive further improvement. As we look ahead towards 2026, in Canada, we expect low single-digit loan growth as challenges in the macroeconomic environment continues to impact personal and commercial demand. Despite the muted environment, we are well positioned to generate continued market share gains in our businesses and anticipate improving conditions during the year from fiscal initiatives in addition to further policy rate easing and lower borrowing costs.
+
+In the U.S., we expect to benefit from the improved economic backdrop and focus on allocating resources to areas of competitive strength and higher returns. We expect to largely complete our balance sheet optimization in the early part of the year and expect year-over-year loan growth to strengthen and reach mid-single digits by the end of the year. Assuming markets remain constructive, we expect Capital Markets and Wealth Management to maintain their strong performance in 2026. And lastly, we expect an effective tax rate in the range of 25% to 26%. Overall, we are focused on building on our current earnings momentum and deliver continued progress towards our medium-term ROE targets. Across all of our businesses, resource deployment decisions today are predominantly driven by this ambition, and we are confident that the strength of our franchise on both sides of the border will help accelerate our performance.
+
+I will now turn it over to Piyush.
+
+Piyush Agrawal
+Chief Risk Officer
+
+Thank you, Tayfun, and good morning, everyone. My remarks start on Slide 21. Our credit performance this year was in line with our expectations. Impaired provision for credit losses was 46 basis points for the fiscal year at the lower end of the guidance of high 40s. Through fiscal 2025, performance improved in U.S. banking. At the same time, softness in the Canadian economy, including rising unemployment and trade uncertainty, resulted in higher losses in our Canadian Personal and Commercial business.
+
+Now turning to the fourth quarter. Total provision for credit losses was $755 million or 44 basis points with impaired provision of $750 million, down $23 million or one basis point from prior quarter, primarily due to lower losses in U.S. banking with relatively stable losses in Canadian Personal and Commercial banking and capital markets, which increased $7 million and $4 million, respectively.
+
+Turning to Slide 22. The performing provision for the quarter was $5 million with a build in Canadian Personal and Commercial, largely offset by a release in U.S. banking, consistent with the risks in the economy and credit trends in our portfolios. Overall, the provision this quarter reflected an improvement in the macroeconomic scenarios and lower balances in certain portfolios, which were offset by the uncertainty in credit conditions. The performing allowance of $4.7 billion provides a robust coverage of 70 basis points over performing loans, and we remain well reserved.
+
+Turning to Slide 23. Impaired formations were stable at $1.8 billion this quarter. The increase in the consumer segment came largely from mortgages, which are well secured with low LTVs and we do not expect to see significant losses. Wholesale formations have come down since last year and have been relatively stable over the last 3 quarters. Gross impaired loans increased to $7.1 billion or 104 basis points, up 2 basis points from last quarter. While it takes time to work through impaired files, we have seen a steady decline in new watch list formations and expect that this will lead to lower impaired balances over time.
+
+This quarter, we included in the appendix additional details on the nonbank financial institutions, or NBFI portfolio. This portfolio is well diversified across products, clients and collateral pools. It is well structured, generally secured and managed through specialized teams and differentiated underwriting criteria. 50% of this portfolio relates to equity subscription loans which has a very strong risk profile with no losses over a 30-year history of this business.
+
+In closing, while downside risks remain the impaired PCL ratio has improved 22 basis points since the end of last year. As we look to 2026, we anticipate a softer economic environment in Canada during the first half with trade uncertainty and subdued consumer sentiment continuing to weigh on the economy. At the same time, expansionary fiscal policies and growth initiatives as well as support from monetary policy should lead to stronger growth as we go through the year. Assuming the consensus macroeconomic outlook plays out, we expect impaired provision to remain in the mid-40 basis points range with quarterly variability.
+
+In conclusion, our performance continues to be supported by the diversification of our portfolio and risk management capabilities underscored by a strong risk culture. The robust allowance coverage, strong capital and liquidity not only equip us to navigate any challenges in the environment, they position the bank to capture opportunities as market conditions evolve.
+
+I will now turn the call back to the operator for the Q&A portion of this call.

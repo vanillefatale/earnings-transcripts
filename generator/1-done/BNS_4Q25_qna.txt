@@ -1,0 +1,358 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] And your first question comes from the line of Ebrahim Poonawala with Bank of America.
+
+Ebrahim Poonawala
+BofA Securities, Research Division
+
+I guess maybe, Raj, I think you mentioned double-digit EPS growth in the Canadian Banking segment. If you don't mind unpacking that for us in terms of how much of that is like PCL normalization relative to the impaired guidance you just put out? And then what should we expect in terms of the PTPP growth? Is it loan growth that's going to be driving it? Is it margin expansion? If you could just dig into that a little.
+
+Rajagopal Viswanathan
+Group Head & CFO
+
+Yes. Sure, Ebrahim. I think the growth will come from what I would call mid-single-digit PTPP growth. And there's going to be a combination, just from loan growth, Ebrahim. To be very clear, you've seen the deposit growth that we've been showing quarter after quarter in the Canadian Bank, and more importantly, the right deposit growth. So that's contributing to margin expansion, which even this quarter was 1 basis point up quarter-over-quarter. So it's going to come from margin expansion driven both by the repricing of the loans. There's a lot of fixed rate mortgages that are coming up for repricing in 2026.
+
+Improvement in our deposit margin as we continue to build out through primacy some of our very valuable deposits and take down some of the term deposits, which naturally also move towards the Wealth segment as we know. So it's a combination of that. And of course, expense management is going to be more disciplined, including the benefits of some of the restructuring charge that they're expected to get. Not all of the restructuring charge benefits are likely to fall to the bottom line because we are going to invest in our product capabilities and our frontline people so that we can continue to grow the business. So that's kind of the composition of the PTPP growth.
+
+You're absolutely right. PCL is expected to normalize, is probably the way I would call it. Like this quarter was 43 basis points. We think that will be somewhere in the high 30s next quarter. I mean you just heard next year. You just heard Phil talk a little bit about his outlook, slightly elevated impaired perhaps in the first couple of quarters and then normalize down is our expectation at this time. So PCL will be a meaningful contributor to the bottom line growth. I think -- Aris might have a couple of more comments.
+
+Aris Bogdaneris
+Group Head of Canadian Banking
+
+Ebrahim, Aris here. I just wanted to add one thing to what Raj said. I think it's important also on the fee line. We're going to see very good fee growth, almost double-digit next year across insurance, mutual fund fees as we grow and also card fees. And so this is something we've been investing in and working on very hard, and we'll start to see that impact in F '26, which will also help us drive positive operating leverage.
+
+Ebrahim Poonawala
+BofA Securities, Research Division
+
+Got it. And I guess maybe one, Scott, for you. You made significant progress over the last 2 years. As we think about the ROE journey from here, 2 questions. One, structurally, like a lot of your peers are targeting a 15%, 16% ROE. Structurally, are there any reasons why Scotia cannot attain a 16% ROE, number one?
+
+And second, in terms of capital deployment, talk to us in terms of priorities, could M&A, you've talked about U.S. being obviously the second most important market. Is there any tactical M&A that you would look to do over the course of the next year?
+
+L. Thomson
+President, CEO & Director
+
+Right. So as we said when we rolled out the Investor Day 2 years ago, we said 14% plus, and we thought 14% was a conservative estimate. And we are tracking ahead of that plan to date, seeing good ROE expansion in our international bank, good ROE expansion in our GBM bank, continued growth in Wealth, which we know is ROE accretive. And next year, you're going to see significant earnings growth in our Canadian bank and significant ROE expansion in our Canadian bank.
+
+And so as we sit here next year at this time, I'm confident you're going to see another step in that ROE journey, which is going to get us a lot closer to that 14%, probably a year earlier than we thought. And so is 14% plus conservative? I continue to believe it's conservative. But part of this journey is continuing to deliver day in and day out for our shareholders on a consistent basis and do what we say we're going to do. And we're 8 quarters now into doing that. So we're going to continue on that journey.
+
+In terms of your question on capital allocation, the focus is on organic. We've got so many opportunities with organic deployment. You saw what GBM is doing in terms of new product capabilities and opportunity there. You see this new economic trajectory in Canada, where I do think there's going to be a demand for capital. We have a pivot to growth. In IB, which will start to come in the back half of this year. And then our Canadian commercial business as well, I think in the back half of this year, we will start to attract some capital in segments that we haven't historically been in. So that would be priority one. Priority 2, given the relative valuation and given our confidence in our plan, we will continue to be repurchasing shares. And you've seen us do that in the last year. You'll continue to see us do that in 2026.
+
+And then lastly, if there's some product capabilities or some capabilities that we can fill via tuck-ins in the U.S., I'm thinking Wealth here, as we've talked about that, relatively small tuck-ins that help Jacqui broker business or help Travis close a couple of gaps, and we'll think about that, but that would be sort of on the priority list. And there's nothing in the hopper right now for us to be thinking about in that regard.
+
+Operator
+
+Your next question comes from the line of John Aiken with Jefferies.
+
+John Aiken
+Jefferies LLC, Research Division
+
+Phil, I get the messaging on the outlook for credit next year. But just when we take a look at the domestic retail formations as well as the 90-day plus impact on the quarter, is this -- I guess as a messaging, is this more seasonality than underlying weakness that we're seeing that might be a continued trend?
+
+Philip Thomas
+Group Head & Chief Risk Officer
+
+John, thanks for the question. As I said in my prepared remarks, mostly what we're seeing on the GILs in Canada related to mortgages and particularly mortgages in the GTA. And so we're -- if I look broadly across the Canadian retail portfolio, I'm quite confident that what we're seeing is not systemic. We're seeing -- still seeing strong FICOs around 790 in the portfolio.
+
+And even if I look at where we have 90-plus on the LTV -- or sorry, 90-plus delinquencies, the LTVs are still in the low 60s, so showing that these mortgages are fairly well collateralized. So I'm comfortable overall with the trends in the Canadian portfolio. There are some weaknesses, as I've mentioned in my prepared remarks. But I'm confident that as we look forward into 2026, we'll start to see GILs normalize in the latter half of the year, similar to PCLs.
+
+John Aiken
+Jefferies LLC, Research Division
+
+And then just as a follow-on, you did mention that the commercial performance in the quarter domestically was very strong. Again, can I take this as a potential positive indicator that we may actually see a bit of a rebound in that segment?
+
+Philip Thomas
+Group Head & Chief Risk Officer
+
+Yes. I was very happy to see that commercial GILs and PCLs normalized this quarter. I think that's a lot due to the resilience and the lending quality standards that we have in the Canadian bank and frankly, the good management that I'm seeing both from the business and from the risk team. As you know, these portfolios can be a bit lumpy, and you may have 1 or 2 files that jump up every now and again, but I'm confident in the outlook for next year and particularly in the Canadian bank that will probably be sort of flat to where we are today in the commercial space.
+
+Operator
+
+Your next question comes from the line of Gabriel Dechaine with National Bank.
+
+Gabriel Dechaine
+National Bank Financial, Inc., Research Division
+
+I was wondering, Scott, Raj, if you can just walk me through or maybe confirm some of my high-level conclusions here on your double-digit EPS growth outlook for next year. So on a segment basis, double digits in Canada, probably the same for Wealth, mid-singles for Capital Markets and International from the sounds of it. Corporate, I mean at least the back half will be flat probably, but who knows. So overall, high single digits plus the buybacks to get you into the double digits. Is that how you're thinking about it?
+
+Rajagopal Viswanathan
+Group Head & CFO
+
+Yes, Gabe, it's Raj. I think you got it mostly right. I'll just make one correction on Wealth. I think it might be high single digit. That's probably the one I would say. And for IB and GBM, I'd call it modest growth is the term we use, and that I would equate to like a low single-digit growth rather than mid. Now obviously, right, markets play a role because we do have a GBM business in IBM and GBM is always subject to markets.
+
+And of course, the other segment, like you point out, the whole year loss is $347 million. The most recent quarter is $30-odd million. So that's got to give us back roughly about $200 million. And of course, repurchase, right? But we don't need to have repurchases to get to double digit. I think it's a contributor. I think the businesses themselves will get to double digit.
+
+Gabriel Dechaine
+National Bank Financial, Inc., Research Division
+
+Just a finer point on Capital Markets, the implication there is that your earnings in that business are going to be above the run rate? Which the guidance run rate is $425 million to $450 million of earnings per quarter, and that may be stale at this point? Is that...
+
+Rajagopal Viswanathan
+Group Head & CFO
+
+Yes. I mean you heard Scott talk a lot about the investments we have done both in product capabilities and people, particularly in the U.S. I think this quarter, $519 million, I'd probably say $475 million to $500 million is probably the business contributing and some part of it is markets for sure that's helping. Markets remain constructive. This business is ready to capitalize on it.
+
+Gabriel Dechaine
+National Bank Financial, Inc., Research Division
+
+Okay. Great. And then we talk a lot about buybacks these days for obvious reasons. But what happens, Scott, if you own 15% of KeyCorp, and they decide to participate in the M&A consolidation trend in U.S. regional banking. Would you -- I mean the details, of course, if you like the deal or not, let's say you do like it. Do you want to be diluted? Or do you want to maintain your position? What's your thought process?
+
+L. Thomson
+President, CEO & Director
+
+Yes. I mean I think we're really happy with the KeyCorp stake. Jacqui is sitting on the Board now. I think we're getting a lot of good insights into the kind of the overall environment. It's contributing now from a dividend perspective on a very attractive basis given it's in the significant investments bucket. There's not a plan here to increase beyond our current 15%. And I think we'll just have to see what KeyCorp does from a strategic perspective and then deal with it at that time. But I think we're pretty comfortable with the stake we have, and I'll leave it at that.
+
+Operator
+
+Your next question comes from the line of Doug Young with Desjardins Capital Markets.
+
+Doug Young
+Desjardins Securities Inc., Research Division
+
+Just something on capital, Raj, organic capital generation of CET1 generation 9 basis points. Is this around what we should expect for Scotia net of dividends? And can you maybe talk a bit about the puts and takes that maybe take you higher over the next few years, if that's something that you think?
+
+And then, Scott, can you remind us what the minimum CET1 ratio target is for the bank and what you're comfortable going down to?
+
+Rajagopal Viswanathan
+Group Head & CFO
+
+Sure, Doug. I think fee income will always contribute to higher capital generation, and we're starting to see improvements in the fee income, as we talked about earlier. So that should help. 9 basis points, I would say, is at the lower end, frankly, Doug. I think this should progressively improve each quarter. I think 10 to 15 basis points by the time we get to the end of 2026. For the quarterly contribution after dividends is likely the run rate we're looking for. Obviously, if businesses like Wealth and GBM, if they perform well, they just contribute directly to capital generation. So we'll see how the year goes in '26.
+
+But fee income is a big component. And as far as the capital levels go, I think we'll be around 13%. We'll be north of 13% first couple of quarters. We'll see how the loan growth evolves. And the X factor, Phil talked a little bit about from a PCL perspective, as you know, capital also gets impacted when we see migration. Like even this quarter, you see this $2 billion of RWA on migration, which equates to roughly 5 to 6 basis points of capital.
+
+So we'll see how that evolves. That could be the only drag I can think of, which potentially is very hard to estimate, but could be small. But capital ratio is 13% plus. Funding all the organic requirements as we see in the profit plan, I think, is a good position to be in to capitalize on other opportunities that may come along.
+
+L. Thomson
+President, CEO & Director
+
+The only thing I'll add is tying it into Ebrahim's question around ROE. I mean the strategic journey we're on is business mix, right? And that's around increasing fee income, increasing capital velocity. It's really encouraging to see what Aris' plans are next year in terms of insurance, cards, et cetera, driving fees. You see outsized growth from our Wealth business. You see outsized growth from a fee perspective from Travis' business. So I think this 9 basis points is kind of the floor. And from here, we will grow, which will contribute to the ROE contribution of the overall bank.
+
+Doug Young
+Desjardins Securities Inc., Research Division
+
+Okay. And then just second, just back to the guidance, Phil, the PCL, I just want to confirm this, a little slow this morning. But PCL guidance that you gave, I assume that's for total. And if that's the case, can you break it out between impaired and performing or any sense or -- and then on the International Banking, modest earnings growth, I assume that's off the base, excluding Colombia for fiscal '25. Just wanted to confirm those 2 items.
+
+Philip Thomas
+Group Head & Chief Risk Officer
+
+Yes, I'll start on PCL. The guidance I gave is on impaired PCL.
+
+Rajagopal Viswanathan
+Group Head & CFO
+
+And as far as your IB assumptions, you're right. I think we have disclosed on Slide 25 and 26, the foregone income relating to the divested operations as it relates to lines because the bottom line is not big, but there's a lot of changes that happens on revenue, expenses, PCL. So you have all the numbers by quarter and the growth rate of modest growth is after excluding the foregone income in 2025.
+
+Operator
+
+Your next question comes from the line of Matthew Lee with Canaccord Genuity.
+
+Matthew Lee
+Canaccord Genuity Corp., Research Division
+
+Maybe a bigger picture question. You've highlighted in the past the importance of U.S. presence or an expanding U.S. presence for the North American corridor strategy. But now you've sort of mentioned that M&A is not a priority for this year. Does that imply that you can run the corridor strategy with a larger U.S. footprint? Maybe through partnerships or maybe through Key? Or is the U.S. acquisition still on the wish list, but down the road?
+
+L. Thomson
+President, CEO & Director
+
+Yes. So let me start, and then Travis, maybe talk to you about what you're building in GBM. But as we've always said, the corridor strategy is primarily focused on Wealth and our GBM business. And we do need to, as I talked about, potential capability enhancement, we do have to have a U.S. offshore booking point for our Latin American wealth clients and our Canadian wealth clients. So that's something that we'll continue to look for.
+
+But in terms of what Travis is building, it's been an organic build over time, and you're starting to see the results from that. And so maybe Travis give a sense of what you're trying to add from a product capability.
+
+Travis MacHen
+CEO and Group Head of Global Banking & Markets Business
+
+Yes, absolutely. Everything we're doing is very intentional. We're trying to build an Americas connected bank, really starts on the GTB side, on the cash management and then follows through, through our corporate investment banking business and our markets business and trying to help our clients navigate both North and South America.
+
+And so some of the capabilities that we're building and that Francisco is leading on the GTB side are going to be very, very important to providing that client connectivity and that durable franchise is the word we use a lot. And so we're quite excited. We think we can do organically. We have a lot of talent that wants to join the bank. And we've been building organically and been very successful at it.
+
+L. Thomson
+President, CEO & Director
+
+And Francisco, GTB, I mean we had our pilots this quarter for the first time. And this is essentially connecting Canada, U.S., Mexico. Maybe just give the group an overview of where we are in GTB.
+
+Francisco Alberto Aristeguieta Silva
+Group Head of International & Global Transaction Banking
+
+Absolutely. Thank you, Scott. I think the important element to understand is what makes us different and how can we gain wallet share in the journey. And geographically, North America is the core. The tool is connectivity, like Travis just said. And I think the tool of connecting clients through cash management is essential. So we're very focused on it.
+
+Super excited that in October, we rolled out for the very first time, our basic cash management capabilities. We have a very clear rollout schedule throughout '26 to continuously enhance that proposition on a connected basis. So we now have a global transaction banking organization for the very first time, and we have a consolidated sales effort that allows us to manage centrally our pipeline and onboarding and roll out of new capabilities, allowing us to prioritize investment and keep track with that investment.
+
+So it is really about how effectively do we cover global clients. And I think Travis has done an amazing job in bringing leaders that understand how you connect global clients and using the right tools in terms of bringing a differentiated value proposition. And as we see in the core countries in which we operate, other global banks leaving that footprint, we now stand in a very important position to capture share as we connect the countries on behalf of our clients.
+
+Matthew Lee
+Canaccord Genuity Corp., Research Division
+
+That's helpful. So what I'm hearing is that you don't necessarily need a traditional P&C or commercial bank to kind of do your strategy?
+
+L. Thomson
+President, CEO & Director
+
+I think right now, we have so many organic opportunities in front of us but that's going to be the focus area.
+
+Operator
+
+Your next question comes from the line of Paul Holden with CIBC.
+
+Paul Holden
+CIBC Capital Markets, Research Division
+
+First question is for Francisco. So just going back to the 2026 growth guidance of low single digits or modest growth. I think that's probably a little bit lower than what was originally in the plan, which would have been, I think, high single digits for this year. So maybe talk about some of the factors that are contributing to it. I'm assuming it's macro, but maybe we can understand better just the intended pivot to balance sheet growth. I know that was an important part of the plan for '26 and if that's still part of the plan.
+
+Francisco Alberto Aristeguieta Silva
+Group Head of International & Global Transaction Banking
+
+Thank you. I think what's important to understand is where are we today. And where we are today is in a position of strength. We have now completed the full regionalization of all the business lines and support functions, and that is allowing us to centrally drive the right investment and the right returns at scale. I can't stress enough the importance of the [ WA ] in the transaction. It is allowing us to simplify our operating model and operate at scale in all the countries in which we operate in today. And that is a massive advantage for us going forward. I think the element to understand is that as we pivot to growth, what you're going to see is that GBM, for example, that has been in a very deliberate effort to deselect low-returning loans and clients. We have completed that exercise in 2025.
+
+So you're going to see loan growth in GBM on the double-digit side of things for the first time in the last couple of years. We're now returning -- ROR was north of 2% in GBM for the first time in a long time. And this is all in alignment with Travis' organization in a highly connected deliberate effort to drive multi-country clients penetration and GTV. And that's going to perform strongly in 2026. We just onboarded a new leader, for example, for capital markets, and that's bringing new capabilities that we didn't have, again, accretive to capturing wallet share with clients that we didn't participate in most of those activities before.
+
+When you look at commercial banking, we now have regionalized the commercial bank and changed the strategy to a cash-first strategy, meaning if we don't have cash management, we will not give you a loan, as simple as that. And that's a massive change in our strategy because it's going to drive higher returns, better penetration across the wallet of those clients and drive consistent performance going forward. And on retail, as Scott mentioned in his opening remarks, we're tremendously excited because for the first time, we now have rolled out multi-country a common value proposition for our most important clients, being affluent and emerging affluent under the singular common brand. And that's a major, major step in delivering the strategy that we set out to achieve in 2023.
+
+So when you put all that together, you're going to have mid-single-digit PTPP growth in 2026, trying to offset, still increasing PCLs, like Phil mentioned, and higher taxes. So 2026 is a strong year from the performance point of view, but we have some offsets to do. And this is also in the midst of a geographic GDP growth, which is still very modest. I mean you're seeing Mexico barely breaking the one -- the positive growth GDP for 2026. And still Chile, Peru and Colombia not benefiting from political change resulting from elections that we will see in '26. So it's a strong year within very much the strategy and time line that we set out to achieve in 2023.
+
+Paul Holden
+CIBC Capital Markets, Research Division
+
+Got it. Okay. That's helpful. And then a question for Travis. I guess it's almost kind of along similar vein because we've talked about a number of drivers, I think, for your business, Travis. Maybe you could highlight sort of -- I don't know if it's top 3 or whatever the right number is, what would you say are the top drivers that are going to contribute to that revenue and earnings growth in 2026? In other words, what should we be tracking for success in '26?
+
+Travis MacHen
+CEO and Group Head of Global Banking & Markets Business
+
+Sure. Listen, excellent question. I'm pretty proud. If you look at what we did in 2025 and some of the drivers, which I think will continue, we clearly had significant net interest margin expansion, and it's just absolute relentless focus on our balance sheet, thinking about our capital velocity, understanding how we price our deposits, driving more core operating deposits and looking at our loans. We haven't changed the risk profile of our lending book, but I think we've been highly selective on our loan portfolio. You've seen our loans were actually down and our ROE is up significantly, and we've still been able to maintain the fee growth and the net interest margin expansion despite the loans coming down. So I think that just highlights a little bit about the discipline that we're having on our balance sheet.
+
+And I think from a strategic standpoint, there's a lot of low-hanging fruit. I mean when we just think about the -- exactly what Francisco said, the global connectivity of this franchise is incredibly powerful, unlike any bank I've ever seen. The ability to connect clients from Canada to the U.S. to Latin America, there's no other bank that can replicate what we're trying to do. And we see tremendous opportunities. We see relatively low penetration rates of some of our clients, and we see a lot of cross-border activity. So I think as we continue to build that connectivity and continue to build the capabilities on the products and on the services and on the advisory side, I think you'll see our fee income and our noninterest income continue to grow.
+
+On the market side, I think we remain incredibly disciplined. We clearly have some beta and alpha in this quarter. You've seen highly constructive markets. You're seeing spreads at all-time tight. You're seeing the capital markets incredibly constructive. You're seeing a lot of our clients access the capital markets, and we're playing a leading role. And I think as we upscale our coverage and our advisory capabilities, I think you'll see more growth in those line items, too. And so I look around and we've been pushing on every single driver in the GBM business. And I think that this beat is reflective of every single one of those things hitting well, and we're going to hopefully continue that momentum. And our pipelines remain healthy right now.
+
+Operator
+
+Your next question comes from the line of Mario Mendonca with TD Securities.
+
+Mario Mendonca
+TD Cowen, Research Division
+
+Can we start on the deposit strategy first? Maybe just in Canada specifically, speak to the sort of runoff of these commercial deposits that we saw this quarter -- not commercial, I'm sorry, term deposits that we saw this quarter and the growth in retail. Maybe just describe what you experienced in the quarter and what your outlook is on the domestic deposit front.
+
+Aris Bogdaneris
+Group Head of Canadian Banking
+
+Sure. Thank you for the question. Before I dig into that question, just to remind everyone on the strategy in the Canadian bank. And it's threefold. It's driving the primacy of our clients' debt. That's the first, and that's continues. The second one is the business mix, changing the business mix and changing the operating model, improving them both, and that feeds into the deposit question. And third is a very intentional deployment of capital and marginal costs in our business, and that's what we continue to do.
+
+Now getting back to the deposit question. Since Investor Day, we've added $22 billion in deposits and $15 billion in mutual funds. So we've become a money in bank. This is very different from the way this bank operated in the past. More importantly, as rates have come down and people have gotten out of term, we've been managing to capture that in our day-to-day savings and investment fund business. And we've had a record amount of sales in mutual funds in the quarter in the Canadian bank.
+
+And this idea of getting primacy is driving across the whole value chain, whether it's scorecard improvements in the branches, focus on payroll and focus on very deliberate pricing and personalization strategies to drive more deposits from our existing base, but also what we call competitive steel. That is up 13% quarter-on-quarter as we get more clients from outside into the bank. So all this is driving what you saw in the fourth quarter, improved NIM in our deposit book.
+
+And this continued focus on deposits is what we count on doing quarter after quarter. We're seeing it every quarter and also linking it to the day-to-day savings growth you saw in the quarter. I think we're up in the retail side, 7% on day-to-day and 17 -- or sorry, 14% on the savings. So it's materializing. We're seeing it in the numbers. This will continue quarter-on-quarter. But I think it's also important to talk about how we're getting longer-term relationships to our investment fund sales in the branches, something that we were historically not very strong at, but now we're seeing record levels.
+
+And I would pass it on to Jacqui, who is working very closely wealth in the Canadian bank in creating this connection and getting the right banker in front of the client to ensure we get the wealth of the client. So Jacqui?
+
+Jacqueline Allard
+Group Head of Global Wealth Management
+
+Yes. Thanks, Aris. I actually think that's the best marker of our strategy execution of the net sales growth momentum that we have built together between Wealth and Canadian Banking. Obviously, markets have been really constructive for us, both in the quarter and the full year. But together, we saw $4.8 billion in net sales in the quarter between retail and wealth that to put it in perspective, that was a 16-quarter high for us. It's also a record quarter 4. And I'd say also, this isn't a quarter 4 story alone. This has been a consistent trend for us for the whole year. Our whole year net sales, I think, Scott, as you said, is up $11.5 billion versus the prior year, while $7 billion of that improvement came in Canadian retail channels alone.
+
+Just to pile on to Aris' point, since Investor Day, we've seen an 850 basis point improvement in our retail client base for investments, which is quite remarkable. The rest of the growth is coming from our Wealth businesses. Full year net sales in Canadian Wealth Management is up 54%. International Wealth is up 76% from the prior year. And I said that we would expect this momentum to carry into F '26.
+
+Mario Mendonca
+TD Cowen, Research Division
+
+All right. If we could move over to mortgages, again, domestic. Could you help me understand that the origination dynamics this quarter, like 30% up in the GTA, it was down sort of meaningfully last quarter. So obviously, something changed in mortgage originations in the GTA. And then also help me understand that the extent to which mortgage growth is emerging in the broker channel versus, say, Scotia Advisors or the branch channel. Those are the 2 mortgage questions I have.
+
+Aris Bogdaneris
+Group Head of Canadian Banking
+
+So just a bit of background on the mortgages in the quarter. So we saw a bit of softening in the GTA and the GVA, especially in the condo market. But that said, mortgage applications quarter-on-quarter are up 13% as lower home prices in Toronto and Vancouver are bringing buyers back as well as lower rates. So we're seeing a little bit of a pickup in demand, and we should see that more continuing into 2026 as affordability improves. And there's a very active refi switching market going on, given the big increase in maturities that we will see next year as we saw this year.
+
+Now our growth is being boosted, of course, by the work we've done on renewals. We've been very strong. Our portfolio renewal rate in the fourth quarter was over 90%. We've invested a lot in virtual advisers who are driving renewal volume. So that's been very strong. We're also seeing good front book margins in our mortgage business in the fourth quarter. And of course, Mortgage+, which we've talked about today in our broker channel, 99% of all originations are coming with a mortgage bundle.
+
+In terms of the originations, your question, we're getting roughly 60% in our broker channel. We're getting 35% in our HFA channel and the rest through our branches. Total originations in the quarter, in Toronto, in the Toronto region have grown, I think what's the percentage? I don't know, off the top of my head. But have gone from $3.5 billion to $4.5 billion year-on-year. So it's -- as I said, as the lower home prices are kicking in and affordability, they're starting to see a pickup there in terms of originations in the GTA.
+
+Operator
+
+Your next question comes from the line of Darko Mihelic with RBC Capital Markets.
+
+Darko Mihelic
+RBC Capital Markets, Research Division
+
+My question is also for Aris. And I'm just trying to pin down a better understanding of your comment that fee revenue will also be stronger in 2026. And what I'm specifically after is I'm trying to understand private equity and how that's helped you. This is the second quarter this year where you mentioned that private equity gains have somehow benefited the Canadian business.
+
+So I'm wondering if you can maybe just size that, like annually, how much are you getting from private equity gains, where it's coming from? I'm -- a little bit unclear to me. And what your expectation is for 2026 on that front?
+
+Rajagopal Viswanathan
+Group Head & CFO
+
+Darko, I'll start on private equity and then pass it on to Aris on the fee. I'll be quick. Private equity earlier this year in Q1 was over $30 million. I think it was $33 million, if I remember right. And this quarter, it is like a little over $10 million. So it is a reason when you look at year-over-year, which is the comment I made on private equity gains helping us with the noninterest revenue.
+
+And private equity is something that's hard to forecast, Darko. It comes down to our folks who manage that. It's a small portfolio. It's not very big. It's primarily through the Roynat business that is part of the Canadian Banking portfolio. And there from time to time, if they believe that the investments that they made and sometimes many years back, when they realize the full potential value or they end up going public, we realize gains.
+
+So it's not something that we look forward to forecasting, but it does create some noise when you look at noninterest revenue when you look at it quarter-over-quarter or year-over-year. So would it be another $50 million a year? Unlikely, I would say, in 2026. But then it's also very hard to predict if the valuations are there, they will make the decision to take the gains.
+
+L. Thomson
+President, CEO & Director
+
+Aris, do you want to talk about fees?
+
+Aris Bogdaneris
+Group Head of Canadian Banking
+
+Sure. On fees, as I mentioned earlier, there's 4 important fee components in the Canadian bank that we'll see acceleration in F '26. Mutual fund fees as we continue to drive mutual fund sales in the branches, we're starting to really build up momentum there. You see it quarter-on-quarter. I think card fees will also increase as we now reposition the card portfolio to more premium cards, we're seeing the spend per account go up and the actual value of our card business increase as the premium clients take up a greater proportion.
+
+Third is insurance. Of course, insurance is an important part of our business linked not only to our lending business, but also stand-alone. We've invested and continue to invest in our insurance business, we'll start to see some pickup there. And then finally, cash management in commercial and small business. That's another growing component where we're investing a lot of money and effort and sales people in the field to drive transaction banking in Canada to strengthen primacy. So between these 4 drivers, we're going to see close to double digit, if not double-digit fee growth in the Canadian Bank year.
+
+Darko Mihelic
+RBC Capital Markets, Research Division
+
+That's very helpful, Aris. I appreciate that. And for the purposes of this call, I'm going to try and keep my last question very, very simple and straightforward. I think it's aimed at Travis, but maybe, Phil, you can also speak to this as well. I'm getting a lot of questions on private credit. And essentially, what we're looking for is we really want to be able to measure Scotia's sort of exposure to private credit relative to others that actually have a call report.
+
+So I wonder if, Travis, maybe you can speak -- I'm assuming most of this is coming from the capital markets business. I wonder if you can tell us sort of the on-balance sheet exposure to private credit and maybe even off-balance sheet or like noncommitted lines. And then, Phil, the pertinent question might be what do losses look like for this kind of business in a stress test?
+
+Travis MacHen
+CEO and Group Head of Global Banking & Markets Business
+
+And Darko, this is Travis. Listen, excellent question. I -- totally -- there's some broader market questions around private credit, and they're very understandable. If you sort of step back and think about it, there's been a massive growth in nonbank financials, a lot of estimates in the U.S. that that's nearly 2/3 of all assets. This is really a result of Dodd-Frank, and you've seen the move. And so it's sort of hard to be a bank and not have some sort of connectivity to the nonbank financial market.
+
+But if you step back and just sort of think about what we do in the nonbank financials, we have roughly $31 billion of loans outstanding. If you just unpack that a little bit, Darko, around half of that is subscription finance and then the other half would be in the private credit -- I'm sorry, about half of that is in the private credit market. And then if you break that half down, half of that would be subscription finance and the other half would be in the CLO business.
+
+But if you look at what we do in those businesses, those are highly rated, where our effective average rating is between A and A+ or AA. So we're not really -- we are not participating, I can tell you, in the equity or the lower quality tranches, if you will. And so we feel like we're participating in a very high-end A+ rated part of the capital structure within this portfolio, and we're quite comfortable with it. We've hired some real experts, both on the risk side and on the banking side. So I'm happy to take any more questions you have on that topic.
+
+And Phil, we do we do frequent stress test as we can talk about. I'm happy to go through that or Phil can on the stress testing side.
+
+Philip Thomas
+Group Head & Chief Risk Officer
+
+And maybe I'll just jump in quickly, Darko. We've been along for the ride with Travis and his team on this journey. And we've been -- obviously, we've been staffing up the risk team as well. And just in terms of stress testing, we do run rigorous stress tests. And I can tell you, even in extreme cases where all exposures are downgraded to noninvestment grade, projected losses in this book would remain a fraction of the net revenue that this business generates, which really underscores the strength of our structures and the underwriting that we have underway.
+
+Darko Mihelic
+RBC Capital Markets, Research Division
+
+That's very helpful. Travis, just a quick question. If $31 billion, if half of that is private credit, what's the other half?
+
+Travis MacHen
+CEO and Group Head of Global Banking & Markets Business
+
+The other half would be just traditional insurance companies, pension funds and some other holding companies. Again, all highly rated.
+
+Operator
+
+Your next question comes from the line of Jill Shea with UBS.
+
+Jill Glaser Shea
+UBS Investment Bank, Research Division
+
+Perhaps just piggybacking on Mario's earlier question on deposits. You already addressed some of the nice progress you're seeing on your deposit strategies. But perhaps just tying that to your net interest margin outlook, like when we look at the year-over-year margin that's improved with lower funding costs. I'm just curious if there's any more room to go with funding costs continuing to come down or a favorable mix shift away from term?
+
+Rajagopal Viswanathan
+Group Head & CFO
+
+Sure. I can start this at the all-bank level, Jill. Absolutely, deposits are a big component of where we see the net interest margin expansion coming from, apart from the repricing that we have, it's going to happen in the fixed rate mortgages that I mentioned and we've disclosed it in the 2026 year. So both are going to contribute. 240 basis points NIM this quarter expanded 4 basis points. We see that continuously expanding each quarter at more modest levels to be completely clear. So it's not going to come from the funding cost benefit that we saw in 2025, which is our wholesale funding costs coming down because we're not forecasting any more rate cuts in Canada. Obviously, if it happens, it's going to help us.
+
+But it's primarily going to come from the Canadian bank. It's going to come from our GTB operations. Like this quarter, we have started disclosing GBM's NIM for purpose because GTB has contributed to GBM's NIM expanding 14 basis points in 1 quarter. It's worth a little over 2 basis points for the all-bank. And that's going to continue. We talked a lot on this call about the investments we're making on the GTB front. So it's going to come from good quality deposit growth in the Canadian bank, margin expansion on the mortgage book and from the GTB deposits. You should see this happening incrementally each quarter. Like I said, modestly, not 4 basis points each quarter, to be totally candid with you, Jill, but I think you should see expansion happen throughout 2026.
+
+Operator
+
+And there are no further questions on the line. I would now like to turn the meeting over to Raj Viswanathan.
+
+Rajagopal Viswanathan
+Group Head & CFO
+
+On behalf of the entire management team, I want to thank everyone for participating in our call today. We look forward to speaking to you again at our Q1 call in February. This concludes our fourth quarter results call. Have a great holiday season and a great day.

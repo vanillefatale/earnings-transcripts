@@ -10,12 +10,17 @@ from renderer import render_html_document
 from updater import update_index_html
 from git_utils import git_commit_and_push
 
+# 🔽 GPT 요약 모듈 임포트
+from summary_presentation_gpt import run_presentation_summary
+from summary_qna_gpt import run_qna_summary
+
+
 def main(output_name):
     #해당 아래 디렉토리에 저장하게 됩니다!
     quarter_dir = "3Q25"
 
-    pres_filename = f"{output_name}_presentation.txt"
-    qna_filename = f"{output_name}_qna.txt"
+    pres_filename = f"./0-ready/{output_name}_presentation.txt"
+    qna_filename = f"./0-ready/{output_name}_qna.txt"
 
     pres_text = read_file(pres_filename)
     qna_text = read_file(qna_filename)
@@ -50,6 +55,17 @@ def main(output_name):
 
     update_index_html(output_file, quarter_dir)
     git_commit_and_push(output_file)
+
+    # 20251206-GPT 기반 Presentation 요약 + 텔레그램
+    print("[🤖] GPT Presentation 요약 + 텔레그램 전송 시작...")
+    run_presentation_summary(output_name)
+
+    # 20251206-GPT 기반 Q&A 요약 + 텔레그램
+    print("[🤖] GPT Q&A 요약 + 텔레그램 전송 시작...")
+    run_qna_summary(output_name)
+
+    print("[✅] 전체 파이프라인 완료!")
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
