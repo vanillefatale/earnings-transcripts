@@ -1,0 +1,376 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question comes from the line of Jonathan Chang of Leerink Partners.
+
+Jonathan Chang
+Leerink Partners LLC, Research Division
+
+How are you thinking about the impact of receiving the Commissioner's National Priority Voucher on daraxonrasib time lines and your plans?
+
+Mark Goldsmith
+CEO, President & Chairman
+
+Jonathan, thanks for your question. Well, obviously, we're very proud to have receive one of the first 9 vouchers. Actually, it's the only oncology product that's featured in that particular set. The stated goal of that voucher program, the pilot program is to accelerate the review time lines by some significant amount and potentially making the review time line as short as 1 to 2 months, and we'll do everything we can to support that.
+
+But we've been aggressively preparing for the data readout and then an expected submission of an NDA and to be ready at the earliest possible time for launching a product. I don't think at this point in time, we anticipate that we would have any difficulty meeting whatever time line might be delivered under the CMDB process.
+
+Operator
+
+Our next question comes from the line of Charles Zhu of LifeSci Capital.
+
+Yue-Wen Zhu
+LifeSci Capital, LLC, Research Division
+
+Congrats on the progress. I've got a couple regarding RASolute 304, the adjuvant daraxonrasib trial. This might be a little naive, but can you help us understand and perhaps educate us on the decision to randomize against observation in the post perioperative chemotherapy setting? And is there, I guess, clinical value in maybe at some point, evaluating whether or not one could displace chemotherapy in this particular disease setting as well. Can you also talk about -- help us understand and talk about the requirement for at least 4 months of perioperative chemotherapy as an eligibility criteria prior to randomizing against the 2 arms?
+
+Mark Goldsmith
+CEO, President & Chairman
+
+Thanks a lot, Charles, for your question. I think Dr. Sandler would be happy to comment on the rest of the RASolute 304 trial.
+
+Alan Bart Sandler
+Chief Development Officer
+
+Great. Yes. Thanks. It sounds like it was a 3-part question, and hopefully, I'll remember all 3 parts. So the aspect of the -- I'll start with the 4 months of therapy, that's considered to be the standard of care that's been established previously. And so we wanted to add to that. So we're requiring that patients receive standard of care therapy for that, and that's at least 4 months of therapy. So that's number one.
+
+Then the idea is to randomize patients to no further treatment or 2 years of additional adjuvant therapy with daraxonrasib. And the idea then is to build upon the success that has been seen. It's modest, but success that has been seen with chemotherapy in this setting. And so this, I think, offers the best approach to patients with resectable pancreatic cancer. Your last question, I think, was to potentially replace chemotherapy. And I think based on what we see from the adjuvant study, we'll reassess a plan accordingly. But I think we've -- we're very excited about this particular opportunity already and are looking forward to initiating the trial.
+
+Yue-Wen Zhu
+LifeSci Capital, LLC, Research Division
+
+Congrats on all the progress.
+
+Operator
+
+Our next question comes from the line of Michael Schmidt of Guggenheim.
+
+Michael Schmidt
+Guggenheim Securities, LLC, Research Division
+
+And congrats on all the progress. A couple of questions on PDAC. So as we think about RASolute 302, how would you expect results from the Phase II study to translate to the large global Phase III study? Are there any anticipated differences, for example, in patient characteristics when you go from a smaller Phase II to a large global study? And secondly, I guess, in anticipation of positive data next year, how are you tracking towards commercial readiness in terms of CMC manufacturing capacity and then ramping up commercial infrastructure?
+
+Mark Goldsmith
+CEO, President & Chairman
+
+Thanks, Michael. Appreciate the questions. Maybe Dr. Lin can first comment on the Phase III versus Phase I/II question.
+
+Wei Lin
+Chief Medical Officer
+
+Yes, happy to do that. Thanks a lot for the question. So it's certainly an important question that we thought very deeply before initiating Phase III. So we looked extensively at the patients who enrolled in the Phase I cohort compared to the Phase III randomized studies that we reported historically. I think our patient populations are actually fairly similar in looking at all the baseline characteristics that are prognostic or predictive of response to either chemotherapy or our own therapy.
+
+There's a -- almost all the metrics are either comparable or in some measures, the historical Phase IIIs were actually a little worse. So I think we do have a patient population in the Phase I setting that's fairly representative of what we expect to enroll on the Phase III. And furthermore, the RASolute 302 study, while it's a global study, the predominant enrollment will occur in the U.S. with representative enrollment in Europe and in Japan.
+
+And therefore, another reason why we feel that the population on the Phase I will translate to the Phase III. So -- and then finally, look at historically, the trial after trial, there's a degree of consistency over a period of a decade or 2 of all the Phase III trial delivering very, very similar performances with the chemotherapy. Again, I think we expect the performance certainly on the control arm will perform historically similar. So all these give us a large measure of reassurance that we can replicate to a large measure because the patient population as well as the performance of the treatment historically are pretty representative.
+
+Mark Goldsmith
+CEO, President & Chairman
+
+And then the question regarding commercial readiness, maybe I'll answer -- comment on part of it and then Anthony Mancini can comment on the other part. With regard to manufacturing, we have a very strong organization and supply chain that's really been prepared over the last number of years. We're already scaling at the proper level to be able to support whatever level of uptake there might be should we be able to launch a product. So I think we're in a very strong position there and don't anticipate anything that could pose a significant problem for us.
+
+With regard to commercialization readiness beyond that, maybe Anthony can comment.
+
+Anthony Mancini
+
+Yes. Thanks, Mark, and thanks, Michael, for the question. We're really pleased with how our launch readiness plans are advancing. We've as was outlined earlier, we now have experienced and talented executives leading our commercialization team, including now building into the region, so across multiple functions, including medical affairs, market access, marketing and sales. And we're deeply engaged in market-shaping activities and planning and KOL and advocacy organization engagement and building broader organizational capabilities around launch readiness.
+
+We continue to add highly experienced and talented team members as we advance our organizational launch readiness, including U.S. field-based teams, and we're making great progress there. And we're confident in our ability to continue to attract the right talent with the right experience and capabilities, which is a key success factor for a successful launch, and we're confident that we can do that.
+
+Operator
+
+Our next question comes from the line of Andrea Newkirk of Goldman Sachs.
+
+Morgan Lamberti
+Goldman Sachs Group, Inc., Research Division
+
+This is Morgan on for Andrea. Based on the initial frontline metastatic PDAC data, how do you think about the efficacy of combination treatment relative to monotherapy, whether greater time on treatment could increase the delta on ORR and DCR? And then with regard to updated daraxonrasib monotherapy and combination data in the first half of next year in frontline metastatic PDAC, how should we be thinking about durability?
+
+Mark Goldsmith
+CEO, President & Chairman
+
+Thanks for the question, Morgan. We would you like to comment on those? The first question being the difference -- what level of difference is there between monotherapy versus combination? And will that clarify over time?
+
+Wei Lin
+Chief Medical Officer
+
+Yes. So the monotherapy versus combination in frontline, I think as we discussed previously, really test 2 very distinct hypotheses. I think one is really the sequential treatment by introducing additional line of therapy because currently standard of care, only 2 lines of therapy are exist for patients, a gem-based and a 5FU based. And by using daraxonrasib monotherapy, we introduced the third line of therapy. And could that introduction of third-line therapy with very promising data in the second-line setting translate to prolongation of overall survival.
+
+And then the other chemo combination arm really test very distinct hypothesis, which is a potential synergy by combining the 2. Those patients still get 2 lines of therapy, but then the first-line therapy is actually a combination regimen of [indiscernible] standard of care chemotherapy potentially extending the progression survival and can also translate to longer overall survival. So I think these hopefully will translate into surviving benefit as well as different options for patients who can tolerate a more potent regimen versus who are seeking better quality of life and that provides by monotherapy.
+
+Mark Goldsmith
+CEO, President & Chairman
+
+And just to add that, of course, there's really no way to answer the question about how those 2 regimens compare except to test them both. And they're both very credible on the meritorious scientific hypothesis. The second question, I think, had to do with what sort of update can be expected next year with regard to the durability of the effects that we have already reported. We will -- we do intend to provide an update in the first half of 2026.
+
+Operator
+
+Our next question comes from the line of Brian Cheng of JPMorgan.
+
+Lut Ming Cheng
+JPMorgan Chase & Co, Research Division
+
+Just first on your Voucher. What additional pieces of information have you learned on the use of it since you received it mid-October? Specifically, do we know which line of setting the Voucher is for since the language on the press release seems to be more broadly applicable to PDAC. And then we have a follow-up.
+
+Mark Goldsmith
+CEO, President & Chairman
+
+Yes. Thanks for your question, Brian. We don't really have any additional information to share with you today. We are certainly in ongoing dialogue with the FDA and learning more about how this voucher system will work and what impact it might have on how we approach preparing an NDA, but no other comments available today.
+
+Lut Ming Cheng
+JPMorgan Chase & Co, Research Division
+
+Okay. And then just quickly on zoldon's combo Phase III in frontline PDAC. Now that you have 303 on track to start later this year, I'm just curious if you can talk a little bit about just some consideration that you currently have when it comes to the selection of the doublet versus triplet. And I think also the active comparator piece. How should we think about which active comparator arm you should put in to make it -- make sure that physicians understand how they look at zoldon combo in the future?
+
+Mark Goldsmith
+CEO, President & Chairman
+
+Yes, that's a great question, and it perfectly tees up when we present some information about that, we'll be able to address all of those questions. But I assure you we will comment on all of that. Maybe the big picture right now is just that we are taking multiple approaches to treating this devastating disease.
+
+And we're in the second or third inning of this battle, and we're going to keep investing in it until we've really moved the needle as much as we possibly can. So we're excited to bring that approach forward, and we'll give you more color about it when we are able to lay that out much more explicitly.
+
+Operator
+
+Our next question comes from the line of Marc Frahm from of TD Cowen.
+
+Marc Frahm
+TD Cowen, Research Division
+
+On all the progress. Maybe just start on that zoldonrasib first-line trial. Just the idea of only pursuing combinations, I guess, should we read into that the monotherapy maybe doesn't seem as durable as daraxonrasib as a monotherapy since you were interested in pushing forward the monotherapy in first line in that setting? And then I'll likely have a follow-up.
+
+Mark Goldsmith
+CEO, President & Chairman
+
+Thanks, Marc. I'm not sure about that last comment. I'm not sure that we ever gave any inclination with regard to zoldonrasib in first line and what sort of strategies we might pursue. So I don't think we need to explain something that I don't think we ever committed to. daraxonrasib alone, we're studying in first line as monotherapy. We're going to learn a lot from that study.
+
+And zoldonrasib is an ideal combination agent because of its pretty remarkable safety and tolerability profile. So it is a real opportunity to see how far we can push things. And in terms of further differentiating options for patients, we will certainly continue to be committed to that. So I don't think you should infer anything from that decision and that strategy other than we're looking for the best possible ways to deliver impact for patients that would complement the other options that are coming out of our portfolio.
+
+Marc Frahm
+TD Cowen, Research Division
+
+Okay. That's helpful. And then on 302, now that you're getting pretty close to the end of enrollment, you can maybe speak to kind of how the event rate has been trending maybe relative to kind of how you guys were projecting it when you designed the trial? And then as the interim start to get taken, just what's the latest thoughts on disclosure strategy? Will you inform investors whenever an interim is taken, whatever the result of that was or likely only speak if the interim results in some sort of stoppage of the trial?
+
+Mark Goldsmith
+CEO, President & Chairman
+
+Unfortunately, Mark, I think you're over for 2 of those questions, anything to comment on either of those at this time.
+
+Operator
+
+Our next question comes from the line of Leonid Timashev of RBC.
+
+Leonid Timashev
+RBC Capital Markets, Research Division
+
+Just wanted to ask on sort of the commercial opportunity. I mean, given that you recently hired President of EU strategy, just how you're thinking about the landscape in the European Union with respect to where patients lie in terms of the commercial opportunity, the concentration there, awareness and diagnostic opportunities. Just anything you can speak to how you think the European strategy might take shape.
+
+Mark Goldsmith
+CEO, President & Chairman
+
+Thank you. Appreciate the question. It's a gigantic question. So I'm immediately going to ask Anthony to address that.
+
+Anthony Mancini
+
+Look, it's -- there's been a lot of thought put into how we're thinking about bringing daraxonrasib to patients. Clearly, different from many companies' opportunities with a first launch in a first indication. We think the second-line pancreatic cancer indication is a meaningful one. So you can look at the -- in the key European markets, starting with Germany and the EU4 and beyond, and there are many patients to treat.
+
+We think that we'll bring a compelling value proposition in Europe, and we think it's going to be a meaningful opportunity in Europe, in the U.S. and Japan. And so we're pursuing that. I think there's nothing more to comment on except that those are our priority markets, and we intend to bring -- put our best foot.
+
+Operator
+
+Our next question comes from the line of Clara Dong of Jefferies.
+
+Jenna Li
+Jefferies LLC, Research Division
+
+This is Jenna on for Clara. Could you talk about if there were any rationale behind starting the adjuvant study before the first-line study?
+
+Mark Goldsmith
+CEO, President & Chairman
+
+Jenna, thanks for your question. That's pretty straightforward. There's nothing profound underneath it. It's a simpler study. Obviously, it's a single treatment arm, and we're just able to get that up and running a little bit earlier, but I don't think it will materially differ in terms of the overall conduct of it. Of course, that is going to be a longer study in terms of the readout given the time lines that we talked about. So it doesn't make much difference, and it just happened that we were able to proceed with it.
+
+Operator
+
+Our next question comes from the line of Asthika Goonewardene of Truist Securities.
+
+Asthika Goonewardene
+Truist Securities, Inc., Research Division
+
+So you described what resistance mechanisms emerge with daraxonrasib in PDAC. And you should have a considerable amount of data with daraxonrasib in non-small cell lung cancer, too under hood. So I'm just wondering, do you expect non-small cell lung cancer to also follow a similar path of resistance as PDAC? Or are there any new resistance mechanisms that are emerging that you can tell us about? I'm wondering how this guided your choice of selecting pembro and chemo for the combination versus just a chemo-sparing pembro combo? And then I have a follow-up.
+
+Mark Goldsmith
+CEO, President & Chairman
+
+Thanks for your question. That's sort of a subtle comment at the end of that question. Maybe Dr. Kelsey can discuss resistance, what we know about PDAC expectations across other tumor types and how has that affected our thinking for trials?
+
+Stephen Kelsey
+President of Research & Development
+
+The data that we have on emerging mechanisms of resistance to daraxonrasib in non-small cell lung cancer is probably not sufficiently mature for public disclosure at this stage. There are a number of confounding issues around that. The first is, as you know, we declared our recommended Phase II dose for non-small cell lung cancer after we had declared the recommended Phase II dose in pancreatic cancer. So the information that we have would only really be important at the recommended Phase II dose.
+
+The second is the number of people that actually have progressed and been documented to progress. And the third issue there are the number of patients with progression that actually have detectable circulating, ctDNA in order to make an assessment of whether there's anything to see. The other thing is that traditionally in non-small cell lung cancer, there appear to be -- from the literature that's available, a lot of resistance mechanisms that are possibly not even genomic. And so it's going to take a little bit more time to figure that out.
+
+And I think that all bets are off really mapping mechanisms of resistance in pancreatic cancer to mechanisms of resistance in non-small cell lung cancer. We already know that the biological resistance mechanisms in colorectal cancer, for instance, to G12C inhibitors are different from the biological resistance mechanisms to G12C inhibitors in non-small cell lung cancer.
+
+They are qualitatively similar and overlap, but they're not identical. And I don't think that we can infer anything at this stage. With regards to how that information informs how we move forward with combinations, it really has no bearing on it. The selection of pembrolizumab as a partner for any of our RAS(ON) inhibitors is driven really by 2 things.
+
+One is the almost ubiquitous inclusion of pembrolizumab or an equivalent checkpoint inhibitor into the standard of care for non-small cell lung cancer. And the second is the increasingly compelling body of evidence that suppressing RAS does actually make pembrolizumab more effective because it profoundly changes the immune microenvironment for the -- and allow the immune system much more access to the tumor for a whole load of reasons that we have published and a number of other groups have published. So when we have the data, we will disclose it, and it may influence how we move forward, and it may not. There are really 2 separate issues.
+
+Asthika Goonewardene
+Truist Securities, Inc., Research Division
+
+And then if I can just tag on to Charles' previous question. By requiring in the 304 study, by requiring patients to have 4 months of chemotherapy, does this help select out patients who are deemed to be borderline resectable?
+
+Alan Bart Sandler
+Chief Development Officer
+
+Yes. I'll take that. No, the -- first, we'll talk about the purpose of it was, again, the 4 months of standard of care. The question about your border line and the readily resectable. What we've done is we've allowed those patients to undergo the standard treatment that they would locally and whether they're surgically resectable or not. And then the only way they're able to enter on study is if they are pathologically completely resected, either with totally clear or narrow margins, the R0 or R1 that was shown on the slide.
+
+And then those patients are then randomized to the treatment as such. In a sense, it eliminates those patients who are not able to be resected, but it also allows those patients with the borderline resectable an opportunity to receive adjuvant therapy if their perioperative therapy and surgery was successful. So it broadens the number of patients who have access to this therapy and the study.
+
+Mark Goldsmith
+CEO, President & Chairman
+
+I'd also add one point about the question of why 4 months. There is a variety of different approaches that people take in treating that disease. They all center around using chemotherapy before, after or both before and after and by requiring a standardized duration of treatment, we can make the patient population more uniform and easier to compare the 2 groups to each other and avoid imbalances in their treatment regimen.
+
+Operator
+
+Our next question comes from the line of Alec Stranahan of Bank of America.
+
+Alec Stranahan
+BofA Securities, Research Division
+
+And congrats on the update. Two from us. First on zoldonrasib. Curious how you're thinking about the opportunity for zoldon on top of chemo versus daraxonrasib plus chemo and RASolute 303. Do you plan to enroll similar patients in both studies or maybe try to subset the frontline opportunity? And secondly, how important is the RAS doublet in terms of your ideal commercial strategy longer term, specifically thinking about zoldonrasib to daraxonrasib in the frontline PDAC?
+
+Mark Goldsmith
+CEO, President & Chairman
+
+Okay. Maybe I can just comment on the second one and then maybe Wei can comment -- can address your first question. So with regard to RAS(ON) inhibitor doublets, we still have high conviction about it. We just showed some data on zoldonrasib plus daraxonrasib in preclinical models just last month at the Triple Meeting. And we're -- we feel like it's a compelling option. Just stay tuned as we roll out the various studies that will be coming in the future and I think we have high interest in that.
+
+The first question, I think, had to do with zoldon versus daraxon each in a first-line population. And are we selecting patients differently between those? Obviously, one is all RAS mutations and the other is just KRAS G12D mutations. So there's that difference between them, but are there any other differences, Wei?
+
+Wei Lin
+Chief Medical Officer
+
+Clinically, the eligibility otherwise are no different. And I think in the Phase I setting, when we're doing the combination with the chemotherapy, it's really -- the eligibility are really mainly designed to make adequate organ function allow to deliver chemotherapy. So they're actually also very, very similar.
+
+Operator
+
+Our next question comes from the line of Joe Catanzaro of Mizuho.
+
+Joseph Catanzaro
+Mizuho Securities USA LLC, Research Division
+
+Just maybe one quick one from me. As it relates to CRC, just wondering if there are any sort of key data points you are looking towards before maybe committing to earlier line, later-stage trials and whether we should expect any of those data points in 2026?
+
+Mark Goldsmith
+CEO, President & Chairman
+
+Thanks for your question. Thanks for joining us. Steve, do you want to comment on CRC?
+
+Stephen Kelsey
+President of Research & Development
+
+Yes, I'm happy to do that. I'm not going to comment on timing because we haven't really guided to data disclosure with regards to colorectal cancer. But I think we have previously made it pretty clear that due to the biological complexity of RAS mutant colorectal cancer, we believe that combination therapy is absolutely essential in order to maximize clinical benefit and the studies that are designed to figure out which combinations are most efficacious in that context are currently ongoing.
+
+And so as soon as we figure it out, then we can follow a path forward. We also don't forget that we have the -- there are several dimensions to this issue. I mean you mentioned one of them, which is line of therapy, whether or not we try and go into the first-line metastatic setting or whether we just tackle patients in the third and fourth line who are essentially being salvaged after chemotherapies failed.
+
+There are several different biologically rational combinations, including combinations with our own -- within our own portfolio of RAS(ON) doublets. And so we just need the opportunity to figure that out. It's a very complex -- colorectal cancer is a very complex disease. It's not entirely clear that RAS mutant -- RAS is the only driver, the only oncogenic driver even in situations where it's actually mutated. So we've got -- we're just going to sort it out.
+
+Operator
+
+Our next question comes from the line of Sean McCutcheon of Raymond James.
+
+Unknown Analyst
+
+This is Yang on for Sean. We have 2 quick ones. The first one regarding the first-line NSCLC with daraxonrasib. What kind of a threshold for efficacy by you looking at anticipating that you have the update for the frontline and also commenting on the daraxonrasib and elironrasib combination in the first-line NSCLC?
+
+Mark Goldsmith
+CEO, President & Chairman
+
+Thanks for your questions. Let me make sure I understand. The first question had to do with an update on first-line PDAC with daraxonrasib...
+
+Unknown Analyst
+
+No, no. Sorry. Yes, that's all non-small cell lung cancer, frontline daraxonrasib, what's the threshold efficacy bar you're looking at?
+
+Mark Goldsmith
+CEO, President & Chairman
+
+Okay. So in lung cancer, since we indicated that we'll proceed with a trial, and we'll provide information later. Yes, I mean, obviously, we look at standards of care and what we see in a single-arm trial versus standards of care, even though they're not immediately comparable since it's not randomized data, but we'll look at standard of care and see if we can improve upon that.
+
+We typically wouldn't provide guidance as to what we consider an acceptable improvement. That's something that's a complicated topic, and that's between us and the statistical analysis plan and the FDA and so on. So no pre-guidance that we'll be able to offer you today on that. And your second question?
+
+Unknown Analyst
+
+Yes. The second question is related to the combination potential with your pan-RAS and G12C elironrasib in first-line NSCLC.
+
+Mark Goldsmith
+CEO, President & Chairman
+
+Okay. That's back to the RAS(ON) inhibitor doublet. And in this case, it's the doublet of elironrasib plus daraxonrasib. And that, too, is a very interesting combination. I think I'd just reiterate that we are -- we believe that the combination of a mutant selective inhibitor with the RAS multi-inhibitor provides potentially the benefits of both of those compounds as complementary and delivering the greatest impact.
+
+And we've now shown 2 clinical data sets to support that, one in colorectal cancer and one in lung cancer, both of which were directionally quite similar. As to how we prioritize that relative to other options, that's a very complex matrix of considerations and don't have anything to be able to guide you to specifically today about that.
+
+Operator
+
+Our next question comes from the line of Laura Prendergast of Stifel.
+
+Laura Prendergast
+Stifel, Nicolaus & Company, Incorporated, Research Division
+
+Congrats on the quarter. I was just curious if it's possible any type of accelerated approval pathway could be there for first-line PDAC, whether that's an early cut for the Phase III study or something -- or anything else? Also, how are you factoring daraxonrasib being approved in second line into how you're thinking about the statistics for OS in the first-line study?
+
+Mark Goldsmith
+CEO, President & Chairman
+
+Okay. Laura, thanks for your questions. Maybe I'll comment on the AA question and then maybe Wei can comment on daraxonrasib. No comment. That's basically -- that's always a question for the FDA. That's not so much of a question for us. And I think there's no doubt that the initial data that we showed were quite encouraging. And I'm sure they're viewed that way by many people, what the FDA -- how they view it in a formal sense and what they want to do with it would be the subject of future dialogue and so on.
+
+Really nothing that we can say about that. I would say, just generally speaking, we've had a pretty strong habit of focusing on full approval strategies, which I think has served us well with regard to a PDAC for sure so far. We're not at the end game yet, but it seems to have made sense. And we'll continue to prioritize that. There may be some situations in which an accelerated approval can make sense to get something to patients as early as possible and where we think it makes sense. And the FDA, more importantly, thinks it makes sense, then we could always welcome that opportunity.
+
+Wei Lin
+Chief Medical Officer
+
+Yes. Regarding the design and statistics of the frontline given our second-line efforts and data, I think probably there are several layers to maybe that question. So on the first layer is, we're still designing a fully powered randomized trial to enable registration based on overall survival. And from that regard, it doesn't really impact the fact that we deliver on overall survival. We still intend to deliver overall survival in front line, even after overall survival in second line.
+
+I think the second line data that we have reviewed so far, I think, give us further confidence about the monotherapy benefit and therefore, give us confidence about the arm with monotherapy as well as the combination. Therefore, we're actually fully evaluating and fully powering both arms independent testing them. So that does affect in that sense. That's the second layer.
+
+The third layer is, I think you may be hinting at a question we addressed previously, which is with the second approval in the U.S., there may be impact on crossover and whether that will impact our design. It doesn't really impact our design per se. It only impacts our operational footprint. I think we'll certainly assign the sites more on ex-U.S. to minimize the impact of crossover due to the availability of daraxonrasib for second patients in the U.S.
+
+Operator
+
+Our next question comes from the line of Ami Fadia of Needham.
+
+Ami Fadia
+Needham & Company, LLC, Research Division
+
+And apologies if this has been asked already. I've been juggling some calls here. So my question is regarding the acquired alterations post dara monotherapy that was presented at the Triple Meeting. How do you see that potentially impacting the durability of response in first line? And where you're studying in combination with chemo, would you consider exploring combinations with other mechanisms at this stage?
+
+Mark Goldsmith
+CEO, President & Chairman
+
+Thanks, Ami. I'm trying to get to the gist of that question. Would we consider combining daraxonrasib with other compounds that target other potential drivers that are resistance mechanisms? In order to increase...
+
+Ami Fadia
+Needham & Company, LLC, Research Division
+
+That's right.
+
+Mark Goldsmith
+CEO, President & Chairman
+
+Sure. We're already considering it and we're already actively exploring some of those and are open to and may well expand that. There's obviously many potential targets that could influence the outcome if you were to inhibit them. And we look at these opportunities all the time. We have significant operations studying those, and we have a lot of inbound requests to combine things. And we try to prioritize them based on their -- the scientific data behind them. And for sure, we'll continue to do that.
+
+Operator
+
+This concludes the question-and-answer session. I would now like to turn it back to Mark for closing remarks.
+
+Mark Goldsmith
+CEO, President & Chairman
+
+Thank you, operator. Thank you to everyone for participating today and for your continued support of Revolution Medicines.
+
+Operator
+
+This does conclude the program. You may now disconnect.
