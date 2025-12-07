@@ -3,6 +3,7 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 import argparse
 import os
+import shutil
 #from translator_gpt import read_file, process_section
 from translator_claude import read_file, process_section
 from translator_qna_claude import process_qna_section
@@ -63,6 +64,15 @@ def main(output_name):
     # 20251206-GPT 기반 Q&A 요약 + 텔레그램
     print("[🤖] GPT Q&A 요약 + 텔레그램 전송 시작...")
     run_qna_summary(output_name)
+    
+    # 0-ready -> 1-done 으로 원문 파일 이동
+    for suffix in ["_presentation.txt", "_qna.txt"]:
+        src = f"./0-ready/{output_name}{suffix}"
+        dst = f"./1-done/{output_name}{suffix}"
+        if os.path.exists(src):
+            os.makedirs("./1-done", exist_ok=True)
+            shutil.move(src, dst)
+            print(f"[📂] {src} -> {dst}")
 
     print("[✅] 전체 파이프라인 완료!")
 
