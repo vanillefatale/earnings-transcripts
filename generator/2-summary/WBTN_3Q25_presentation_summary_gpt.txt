@@ -1,0 +1,77 @@
+[ 어닝콜 요약 ]
+
+매출 +8.7% YoY ($378M)
+- Disney와의 협력 확대 및 IP 활용 사업 급성장이 주요 성장 동력
+- 유료 콘텐츠 및 IP 사업 성장, 광고 매출 감소 일부 상쇄
+
+Sales by segment
+1) Korea $[미공개] (YoY +22.2% constant currency)
+   - IP adaptations 매출이 3자리수 성장하며 전체 성장 견인
+   - 광고 및 유료 콘텐츠는 각각 두 자릿수, 한 자릿수 감소
+   - MAU 24.6M (-12.3%), MPU 3.7M (-4.9%), ARPU +4% (constant currency), 결제 비율 14.9% (+116bps)
+
+2) Japan $[미공개] (YoY +2% constant currency)
+   - 유료 콘텐츠 및 광고 매출이 한 자릿수 성장, IP adaptations는 두 자릿수 감소
+   - MAU 25.3M (+12.6%), MPU 2.3M (+0.2%), 결제 비율 9.1% (-112bps)
+   - LINE Manga 앱 매출 3분기 연속 1위
+
+3) Rest of World $[미공개] (YoY -0.7% constant currency)
+   - 광고 매출 두 자릿수 감소, 유료 콘텐츠 및 IP adaptations 각각 한 자릿수, 두 자릿수 성장
+   - MAU 11.6% 감소, MPU +0.8%, 결제 비율 1.6% (+20bps), ARPU $6.80 (+1.4%)
+
+Paid content 매출 +0.8% constant currency YoY
+- 일본 및 기타 지역 성장, 한국은 감소
+- ARPU 3% 증가 (constant currency)
+
+Advertising 매출 -8.9% constant currency YoY
+- 일본은 프리롤 광고 성장, 한국과 기타 지역은 감소
+- 한국 주요 이커머스 광고주 감소 영향
+
+IP adaptations 매출 +171.8% constant currency YoY
+- 한국 및 기타 지역에서 성장, 일본은 감소
+- 한국은 영화 개봉 효과, 일본은 초기 단계
+
+GPM 21.9% (-440 bps)
++ 플랫폼 개선 및 콘텐츠 배포 전략 투자
+- Freepoint 비용 마케팅에서 매출원가로 이동, 인건비 증가
+
+OPM [미공개]
+- 조정 EBITDA $5.1M (전년 $28.9M)
+- G&A 비용 감소, 기타 손실 증가 및 세금 비용 상승으로 순손실 $11.1M (전년 순이익 $20M)
+
+[ 가이던스 요약 ]
+
+Guidance 4Q2025
+- Revenue decline 5.1% to 2.3% (constant currency) vs. 기존 가이던스 없음 [신규 제시]
+- Adjusted EBITDA loss $6.5M to $1.5M, margin -2% to -0.4%
+- 투자 및 마케팅 지속 유지
+- 인프라 업데이트 마무리 중이나 일부는 2026년 초까지 지속 예상
+
+주요 변화
+- IP adaptations 마일스톤 시기 조정에 따른 매출 압박
+- 플랫폼 인프라 개선 작업 영향 및 마케팅 투자 지속 반영
+
+[ Comments 요약 ]
+
+[Disney 협력 및 IP 사업 확대] 코멘트
+① Disney와 비구속적 협력 계약 체결, 35,000개 이상의 디지털 만화 콘텐츠 통합 플랫폼 구축 예정
+② Marvel, Star Wars, Pixar 등 Disney 주요 IP를 활용한 신규 타이틀 10개 이상 런칭 및 추가 예정
+③ IP 활용 영화, 애니메이션 등 다각적 미디어 확장 추진 중이며 Warner Bros 애니메이션과 공동 제작 계획
+④ Disney와의 협력은 글로벌 사업 확장 및 장기적 성장 기반으로 평가
+
+[글로벌 MAU 및 유료 사용자 성장] 코멘트
+① 영어권 WebComic 앱 MAU 12% 증가, 유료 사용자 전환율 상승 관찰
+② 한국 MAU 감소에도 ARPU 및 결제 비율 상승으로 수익성 개선 신호
+③ 일본 MAU 12.6% 증가, LINE Manga 앱 매출 3분기 연속 1위 유지
+④ Wattpad MAU는 정부 규제 영향으로 감소했으나, IP 소스로서 중요성 유지
+
+[신규 제품 및 플랫폼 혁신] 코멘트
+① 영어권 플랫폼에 5분 분량의 동영상 에피소드 도입, 사용자 참여 및 신규 유입 기대
+② 한국에서 2분 내외 단편 애니메이션 'Cuts' 출시 후 1,000명 이상 크리에이터 참여, 일부 영상 100만 뷰 돌파
+③ 플랫폼 및 콘텐츠 경험 혁신을 통한 장기적 사용자 활성화 및 수익화 강화 목표
+
+[수익성 및 비용 구조] 코멘트
+① 매출원가 내 Freepoint 비용 이동과 인력 투자로 GPM 하락
+② 조정 EBITDA는 전년 대비 감소했으나 G&A 비용 절감으로 일부 상쇄
+③ 4분기에도 마케팅 투자 지속하며 장기 성장 기반 마련에 집중
+④ 인프라 업데이트 완료 후 내년부터 수익성 개선 기대
