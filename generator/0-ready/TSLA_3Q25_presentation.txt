@@ -1,0 +1,70 @@
+Tesla, Inc. (TSLA) Q3 2025 Earnings Call October 22, 2025 5:30 PM EDT
+
+Company Participants
+
+Travis Axelrod - Head of Investor Relations
+Elon Musk - Co-Founder, Technoking of Tesla, CEO & Director
+Vaibhav Taneja - Chief Financial Officer
+Ashok Elluswamy - Executive Officer
+Micheal Snyder - Vice President of Energy & Charging
+
+Conference Call Participants
+
+Emmanuel Rosner - Wolfe Research, LLC
+Dan Levy - Barclays Bank PLC, Research Division
+Walter Piecyk - LightShed Partners, LLC
+Colin Rusch - Oppenheimer & Co. Inc., Research Division
+
+Presentation
+
+Travis Axelrod
+Head of Investor Relations
+
+Good afternoon, everyone, and welcome to Tesla's Third Quarter 2025 Q&A Webcast. My name is Travis Axelrod, Head of Investor Relations, and I'm joined today by Elon Musk, Vaibhav Taneja and a number of other executives. Our Q3 results were announced at about 3:00 p.m. Central Time in the update deck we published at the same link as this webcast. During this call, we will discuss our business outlook and make forward-looking statements.
+
+These comments are based on our predictions and expectations as of today. Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC. We urge shareholders to read our definitive proxy statement, which contains important information about the matters to be voted on at the 2025 Annual Meeting. [Operator Instructions] Before we jump into Q&A, Elon has some opening remarks. Elon?
+
+Elon Musk
+Co-Founder, Technoking of Tesla, CEO & Director
+
+Thank you. We're at a critical inflection point for Tesla and our strategy going forward as we bring AI into the real world. I think it's important to emphasize that Tesla really is the leader in real-world AI. No one can do what we can do with real-world AI. I have pretty good insight into AI in general. I think that Tesla has the highest intelligence density of any AI out there in the car, and that is only going to get better. And we're really just at the beginning of scaling at quite massively full self-driving and Robotaxi and fundamentally changing the nature of transport. I think people just don't quite appreciate the degree to which this will take off where it's -- honestly, it's going to be like a shock wave.
+
+So it's because the cars are all out there. There -- we have millions of cars out there that with a software update become full self-driving cars. And we're making a couple of million a year. And in fact, with the advent of -- with what we see now as a clarity on achieving full self-driving, unsupervised full self-driving, I should say, I feel confident in expanding Tesla's production. So that is our intent to expand as quickly as we can our future production. So I was reticent to do that until we had clarity on achieving unsupervised full self-driving. But at this point, I feel like we've got clarity, and it makes sense to expand production as fast as we reasonably can.
+
+We're also making huge -- making impact on the energy sector with battery storage. So with both Powerwall and especially with the Megapack, we are dramatically improving the ability to generate more energy from the grid. Let me sort of talk a little bit about that, which is if you look at total U.S. energy capability, for example, there's roughly a terawatt of continuous power available in the U.S. But the average usage over a 24-hour cycle is only 0.5 terawatt because of the big difference between day and night usage. If you buffer the energy with batteries, you can effectively double the energy output in the United States just with batteries building no incremental power plants.
+
+And it's very difficult to build power plants. So they take a long time. There's a lot of permitting, and it's not an industry that's used to moving fast. So we see the potential there for Tesla battery packs to greatly improve the energy output per year for any given grid, US or otherwise. We're also on the cusp of something really tremendous with Optimus, which I think is likely to be or has potential to be the biggest product of all time. And it's a difficult project. And it's worth noting that it's not like it's just automatic. I'm not aware of any robot program by Ford or GM or any U.S. sort of car companies. People like, I think maybe think of Tesla as a car company, we mostly make cars and battery packs.
+
+But -- so it's not just like an obvious fall of a log thing to make Optimus, but we do have the ingredients of real-world AI and exceptional electrical, mechanical engineering capabilities and the ability to scale production, which I don't think anyone else has all of those ingredients. So yes, with version 14 of self-driving, which people -- you can see the reactions of people online. They're quite amazed. Actually, anyone in the U.S. can get version 14 if they just go and select, I want the advanced software in their car. So if you're listening right now and you'd like to try it out, just go in Settings and say, I want the advanced software, and you will get version 14.
+
+And yes, so on the Megapack front, we unveiled Megablock, Megapack 3. We also have exciting plans for Megapack 4. Megapack 4 will incorporate a lot of the -- a lot of what is normally in a substation and be able to output at probably 35 kilovolts directly. So this greatly improves our ability to deploy Megapack because it's not dependent on building a substation up through 35 kV for Megapack 4. So that will be -- that's the engineering priority for Megapack. And we look forward to unveiling Optimus V3 probably in Q1. I think it will be ready for -- to show off.
+
+And that I think is going to be quite remarkable. If you -- it won't even seem like a robot. It will seem like a person in a robot suit, which is kind of how we started off with Optimus. But it will seem so real that you'll need to like poke it, I think, to believe that it's actually a robot. And obviously, like the real-world intelligence we've developed for the car, most of that transfers to Optimus. So it's a very good starting point.
+
+In conclusion, we're excited about the updated mission of Tesla, which is sustainable abundance. So going beyond sustainable energy to say sustainable abundance is the mission where we believe with Optimus and self-driving that you can actually create a world where there is no poverty, where everyone has access to the finest medical care. Optimus will be an incredible surgeon, for example, I imagine everyone had access to an incredible surgeon. So I think there's -- of course, we make sure Optimus is safe and everything. But I do think we're headed for a world of sustainable abundance, and I'm excited to work with the Tesla team to make that happen.
+
+Travis Axelrod
+Head of Investor Relations
+
+Great. Thank you very much, Elon. Vaibhav also has some opening remarks.
+
+Vaibhav Taneja
+Chief Financial Officer
+
+Thanks, Travis. Q3 was a special quarter at multiple levels. We set new records, not just for deliveries and deployments, but also around a range of financial metrics from total revenues, energy gross profit, energy margins to free cash flow. This was the result of continued confidence of our customers in our products and the relentless efforts by the Tesla team. The strength in deliveries was attributed to strong performance across all regions. Greater China and APAC were up sequentially 33% and 29%, respectively. North America was up 28%, while EMEA was up 25%. The pace in deliveries was the function of continued excitement around the new Model Y.
+
+We had previously talked about 2025 being the year of the Y and have since delivered on that promise with the new Model Y released in Q1, followed by Model Y Long Wheelbase and Performance and more recently, Standard Y in North America and EMEA. We're now operating our Robotaxi in 2 markets, Austin and most Bay Area cities. We've already expanded our coverage area in Austin 3x since the initial launch and are on pace to continue expanding further. Unlike our competitors, our Robotaxi fleet blends in the markets we operate in since they don't have extra sensor sets or peripherals, which make them stick out.
+
+This is an underappreciated aspect of our current vehicle offerings, which are all designed for autonomous driving. We feel that as experience -- as people experience the supervised FSD at scale, the demand for our vehicles, like Elon said, would increase significantly. On the FSD adoption front, we've continued to see decent progress. However, note that total paid FSD customer base is still small, around 12% of our current fleet. We're moving -- we're working with regulators in places like China and EMEA to obtain approvals so that we can get FSD in those regions as well.
+
+Now covering a little bit on the financial side. Automotive revenues increased 29% sequentially, in line with the growth in deliveries. While regulatory credits declined sequentially, we entered into new contracts and continued delivery on previously entered contracts. Our automotive margins, excluding credits, increased marginally from 15% to 15.4%, which was attributed to improvements in material cost and better fixed cost absorption due to higher volumes. The energy storage business continued to deliver with record deployments, gross profit and margins.
+
+As discussed before, this business has a bigger impact from tariffs as measured by a percentage of COGS since currently all sales procured are from China, while we are still working on other alternatives. However, as the ramp of Megafactory Shanghai is happening, this is helping us avoid tariffs because we are using this factory to supply the non-U.S. demand. Like Elon said, grid-scale storage, the only way we can get to electricity fastest is by using storage. The other thing to keep in mind is we are seeing headwinds in this business given the increase in competition and tariffs.
+
+The total tariff impact for Q3 for both businesses was in excess of $400 million, generally split evenly between them. Services and Other demonstrated a marked improvement sequentially. This was a function of improvements primarily in our insurance and service center businesses. Note that while small, our Robotaxi costs are included within Services and Other, along with our other businesses like paid supercharging, used car, parts and merchandise sales, et cetera. Our operating expenses increased sequentially.
+
+The largest increase included in restructuring and other related to certain actions undertaken to reduce cost and improve efficiency to convergence of our AI chip design efforts. Additionally, we incurred legal expenses related to proceedings in certain legal cases as well as incremental costs incurred in preparation for our shareholder meeting. Such costs are recorded within SG&A. Further, our employee-related spend is increasing, especially in R&D as we have recently granted various performance-based equity awards to employees working on AI initiatives, and therefore, such spend will continue to increase going forward.
+
+On other income, our other income decreased sequentially, primarily from mark-to-market adjustments on BTC Holdings, which was a much smaller gain of $80 million in Q3 versus $284 million in Q2, with the rest of the movement attributable to FX movements in the quarter. Our free cash flow for the quarter was approximately $4 billion, which was yet another record. Our total cash and investments at the end of the quarter were over $41 billion.
+
+On the CapEx front, while we are expecting to be around $9 billion for the current year, we're projecting the numbers to increase substantially in 2026 as we prepare the company for the next phase of growth in terms of not just our existing businesses, but our bets around AI initiatives, including Optimus. In conclusion, note that bringing AI into real world is hard, but we have never shied away from doing what is hard. We are extremely excited about the future and are laying down the foundation, the benefits of which will be realized over years to come. I would like to end by thanking the Tesla team, our customers, our investors and supporters for their continued belief in us.

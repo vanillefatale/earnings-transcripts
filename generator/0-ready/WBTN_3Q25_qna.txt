@@ -1,0 +1,113 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from the line of Benjamin Black with Deutsche Bank.
+
+Benjamin Black
+Deutsche Bank AG, Research Division
+
+Maybe first, can you elaborate on the long-term vision of the Disney partnership Beyond the initial slate of titles, how should we be thinking about maybe the revenue potential and the margin profile of the new joint platform compared to some of the core WEBTOON app? And then secondly, you launched video episodes. What early engagement or monetization metrics are you seeing relative to sort of static webcomic.
+
+David Lee
+CFO, COO & Director
+
+Thanks, Benjamin. This is David Lee. Let's start with your first question. I wanted to remind you, as JK mentioned, that there were 2 particular parts to the Disney announcement. In early August, we talked about these wonderful 100 reformatted adaptions that would be on our platform. And then separately, in September, we discussed the opportunity to have access to these 35,000 stories. And I would say, I would remind us just how early we are. We have a great progress with the 5 to 7 titles that we mentioned, and these are great stories, Star Wars, Alien, Avengers, you saw the list. But 7 out of 100 is quite early.
+
+And another opportunity, which we discussed in the last call and you and I discussed, is we love the opportunity to create original stories in collaboration with Disney that can be new but carry on the history and the origin of the franchises that we're talking about. These have yet to come. You'll note we did not provide disclosure that in Q3, there was any material impact from this great collaboration with Disney nor did we highlight it for the Q4 guide. And I think that reflects how early we are. Having said that, as we said before, we are building this collaboration for the long term because we think it's a game changer.
+
+And in terms of your question on economics, as you heard, we believe as a category leader that we can partner with a great company like Disney in a way that doesn't materially change or hurt the fundamental margin structure of the business. That's why we didn't preannounce or disclose any financial impacts other than the wonderful collaboration opportunity and their interest, which is yet to be consummated in a final agreement on a 2% equity stake in the company. At this point, however, it's too early for us to provide any more additional color beyond what we've said.
+
+With regard to the second question, I think it's important that we recognize that we believe our existing WEBTOON webcomic format is working extraordinarily well. And when we talk about video episodes, which we launched the first batch of 14 English originals just last quarter. This is also very, very early and represents a way for us to ensure we maintain our dominant leadership. Remember, in the U.S., a very large portion of our users are Gen Z. We're proud of that. This, for us, represents demographic goal because we know from other markets they can grow hold with us.
+
+So while this is very early, think of video episodes and separately our work in Korea on Cuts as the active experimentation we will persist with to ensure we maintain the leadership role we already have with our webcomic format amongst what we think to be the most interesting demographic, which is this 18- to 25-year-old demographic. And candidly, the 12% webcomic English app MAU growth and now seeing them turn into paid users, which I think is very promising, is a product of everything, this overall product update that Yongsoo and his team has led, but as well, I think the very early steps we've taken on new formats like video episodes. That said, I think that upside is down the road, and it's not one that we would promise. It's too early at this stage.
+
+Operator
+
+Your next question comes from the line of Matthew Cost with Morgan Stanley.
+
+Matthew Cost
+Morgan Stanley, Research Division
+
+Two, if I could. I guess just starting with the new Warner partnership, anything you can share about the timing of when that rolls out and anything that you're able to share in terms of the economic terms of it from a revenue or margin perspective? And then secondarily, just on the user figures. So you provided a very helpful context about kind of Wattpad and the web novel MAU growth versus the webcomic MAU growth. I guess, are you considering in the future kind of breaking those out as part of your regular disclosure? And if not, how should we think about the web novel users going forward? Is that a number that could continue to decline? Is it something that is of any concern or just kind of a natural variation in the business if it does?
+
+David Lee
+CFO, COO & Director
+
+Thanks, Matt. This is David Lee, and I can start. First, all very good questions. Let's start with your first one. With regard to Warner Bros., we're very proud of the announcement we've made with them. We think it suggests 2 things, similar to the work we've announced with other partners that as a category leader, we can be the source of stories in any format. Being able to partner with a high-quality organization for the announced 10 potential projects outside of our platform, but bringing them to life in the form of anime and animation I think it is a major step forward. And you'll see in the press release that there are specific examples, a handful, less than a handful, but that is not necessarily the full slate, as we've mentioned, 10.
+
+At this point, while we want to be very transparent and announce these major partnerships, we again are not really in a position to offer more specifics. But I think that says something. We're not talking about a change to our financial business model. We're talking about a continued catalyst for our growth, particularly in markets globally. At this point, we're not ready to provide any more specifics, but I'm very encouraged by it. I think it's the opportunity to partner with well-established, high-quality companies to be their source of stories in new formats and has the potential, I think, to continue the growth that we have outside of our core legacy markets.
+
+With regards -- you had several questions nested in the web novel ones. So let me back up and start with MAU because it's interrelated into how we think about Wattpad. First, with regard to MAU, you've heard me say this before, while total MAU is an important metric, and we know that it is down 8.5%, the best predictor of our paid content, which remains 80% of our revenue is really the new innovation and products that we are bringing to our app. And webcomics, in particular, is the format that we leverage. So the reason why we keep on talking about the 1.5% global webcomic app MAU growth in the quarter. And I think more importantly, in the largest addressable market, the newest largest addressable market, what we call English webcomic app MAU, we focus on that 12% number, noting that it's turning into higher monthly paid users, PU, is because those are the metrics I would have the Street focus on with regard to the majority of our future revenue growth.
+
+Now I want to be clear, Wattpad itself is the single largest driver of the total MAU declines. And I do think we need to be clear on what drives them so that you can model persistence. Wattpad is an important business. It's a great source of IP. We talked about in my script, Sidelined, the sequel coming out in thanksgiving. We're very excited about the crossover IP, and we're very excited about its advertising potential. We talked about how advertising saw a decline partially related in Rest of World to the MAU declines in Wattpad. Having said that, when we look at Wattpad, we talked about 3 drivers. We talked in the previous quarter about a search engine indexing issue that we described as fully resolving, which is good news. But we also talked about 2 countries, let's call them instead of 3 drivers, let's call them 2.
+
+The second driver is we were banned in a country along with great other companies like Roblox and Discord. And as we lap those 2, we will eventually in 2026, begin to see more of the sequential stabilization that we mentioned in my script. But at this point, it's very hard for us to call the ball on when some of these country issues resolve. What we can control, the search engine issue, we've made progress on. But I think you'll have to hear more in coming quarters for us to provide definitive guidance on the total MAU associated with the company driven by Wattpad.
+
+Operator
+
+Your next question...
+
+David Lee
+CFO, COO & Director
+
+Hold on, one moment, John. Yongsoo, our Chief Strategy Officer and Lead of our global business is going to offer a comment.
+
+Yongsoo Kim
+Chief Strategy Officer & Head of Global
+
+Another important aspect of our partnership with Warner is that it includes not only Korean [original] titles, but also a significant number of English original titles. We believe the impact on the Wattpad brand and English platform will be especially meaningful once these English original titles are developed through a major U.S. animation studio like Warner and reach the market.
+
+Operator
+
+And the next question comes from the line of Doug Anmuth with JPMorgan.
+
+Douglas Anmuth
+JPMorgan Chase & Co, Research Division
+
+David, can you just talk a little bit more about the drivers of the 4Q guide, the slower revenue growth? Just trying to understand -- I know you mentioned IP adaptation, some of the lumpiness there, but also trying to understand how much is tied to the Korea advertiser advertising from the e-com partner that declined in 3Q and what kind of visibility you have there? And then just putting that all together, like how you're positioned into '26.
+
+David Lee
+CFO, COO & Director
+
+Great. Thanks for the question. First, let me start with the last part of your question. We feel very good about the fundamental business health and growth opportunity mid- to long term for this business. In particular, in paid content to see the emerging signals of continued webcomic English app MAU growth and now paid user signs of future monetization, we feel very good. And frankly, the announcements that we've made with great partners like Warner Bros and Disney make me feel even stronger about the future of this company for '26 and beyond. Having said that, Q4 does represent a quandary for us to explain.
+
+Let me try. First, while we do not usually disclose great detail, I wanted to mention that within the 2.3% to 5.1% revenue decline as forecasted, this $330 million to $340 million range with the $335 million midpoint. Within that range at current FX rates, paid content is up, reflecting what we believe to be the strength in paid content. The primary driver, frankly, year-on-year is not a function of paid content. It's a function of the timing of IP adaptations. I want you to remember that IP adaptations play a really important role for us with regard to having some of the lowest cost way to create awareness for our creators and for our own content on our platforms.
+
+And in Korea, where we've talked about a 50% market penetration, that is a great strength. However, when you have that much market penetration, the flow of when crossover IP hits a quarter can really change the optics of the total revenue. Recall in Q4 of 2024, a year ago relative to guidance, we had major breakouts. We had the success of the Stars Borne. We had Trauma Code. We haven't even in North America, the impact of Sidelined: the QB and Me. So when we think about the guide, I would characterize it as primarily on revenue being driven by the timing of crossover IP. And I'll note that despite the fact that we're guiding to a decline in total revenue, we're still guiding to the same adjusted EBITDA, the same definition and the same number of roughly minus $4 million, and that reflects how strong we're managing G&A, and it also reflects the fact that we're managing our mix and our gross profit.
+
+In fact, we added another disclosure, which I think is important on the bottom line, which is within the guide, there is inclusive in it a $16.5 million noncash set of costs that include, amongst other things, the actuarial adjustment for the pension expense for some of our Asian-based employees and the noncash write-down of minimum guarantee held on balance sheet, independent of what we actually pay in terms of liquidity. And the reason why we did so is to really note that we feel that the quarter guide, while appropriate, reflects the strength we think that we are building for the long term. I know that's hard perhaps on the surface to see. Now with regard to your question in advertising, we are so early in the rest of world that you should think of advertising as disclosed as primarily being driven by Korea.
+
+And it goes to the same market penetration point. When you have 50% market penetration, we described a movement in one large e-commerce customer affecting the quarter. You'll note we also disclosed the strength of our relationships with other advertising partners in Korea, inclusive of NAVER. And we did not talk about this issue as being a persistent one in our business model beyond the quarters that we have described. So you have to read into that as you will. But again, we're not talking about a fundamental business health issue anywhere, particularly amongst where we are strong in Korea, including our advertising business in the mid- to long term.
+
+Operator
+
+Next question comes from the line of Andrew Marok with Raymond James.
+
+Andrew Marok
+Raymond James & Associates, Inc., Research Division
+
+Two, if I could. So maybe first, just if you could elaborate a little bit on the engagement that you've seen with some of the Disney content to date. I mean, obviously, you've mentioned that there's a lag between the content coming on to the platform, the monetization because of the free episodes. But just how that engagement curve is progressing relative to expectations? And then maybe one more on advertising. If you could just maybe talk a bit about advertiser appetite for new platforms and new channels to devote spend to and kind of what we're hearing is maybe a little bit of a mixed or an uncertain environment into Q4.
+
+David Lee
+CFO, COO & Director
+
+Sure. On your first question, unfortunately, Andrew, while everything that we've seen is positive, it's too early for me to give you specific quantified metrics. I will tell you that we've talked about in the past how the timing of this engagement with Disney is a great time because the leadership and the team have already rolled out fundamental improvements in product. We call it Global Web 2.0. And we've also talked in the last quarter, previously, we talked about a 9% increase. And things like when we look at engagement from new products, we look at not just the webcomic English app MAU growth or the MPU growth that we mentioned, that's great.
+
+But we look at episodes of red. We look at quality metrics. Too early for me to disclose them quantifiably. But I would tell you, we're very encouraged by the progress we're making. And it's the largest upside market for us because we've only started. So I can't give you more that I can't disclose in the short term on Disney, but I can tell you we're very bullish about our business in Rest of World, particularly in North America.
+
+Andrew Marok
+Raymond James & Associates, Inc., Research Division
+
+Great. And then maybe on the advertising point for advertisers looking to invest through the appetite for incremental platforms or channels.
+
+David Lee
+CFO, COO & Director
+
+There is definitely strong interest. I would point you to in Japan, the continued success of pre-roll video, which we think is a wonderful way to deepen engagement even in paid content, right? This is the opportunity. And I think as we get better and better at targeting, the opportunity for people to see pre-roll video that has better and better affinity to the paid content they're already engaged with. We talked about that being a strength in Japan. We did talk about the dislocation from one customer in Korea. But in terms of rest of world, we are early. And while we're building for the long term, we're not yet realizing, I think, the very large offerings that I believe customers want. So at this point, I can't give you specifics.
+
+I will tell you, it was a wonderful opportunity to engage with advertisers publicly, we were at New York Ad Week. We had a very large presence along with our New York Comic-Con presence. I'm really encouraged personally by the interest in the differentiated products that we can offer. But I also need to be candid that we're still fundamentally building out the infrastructure in places like North America to begin to realize them down the road.
+
+Operator
+
+And it seems that we have no further questions at this time. This concludes the Q&A session and today's conference call. We would like to thank you all for your participation. You may now disconnect your lines. Have a pleasant day, everyone.
