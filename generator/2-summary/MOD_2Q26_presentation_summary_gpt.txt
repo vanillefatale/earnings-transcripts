@@ -1,0 +1,63 @@
+[ 어닝콜 요약 ]
+
+매출 +12% YoY  
+- Climate Solutions의 데이터 센터 제품 수요 급증과 3건의 인수합병(AbsolutAire, L.B. White, Climate by Design International)이 주요 성장 동력  
+- Performance Technologies는 시장 수요 약세에도 비용 절감과 운영 효율화로 수익성 개선  
+
+Sales by segment  
+1) Climate Solutions $[미공개] (YoY +24%)  
+   - 데이터 센터 매출 42% 증가, HVAC Technologies 25% 증가(인수합병 효과 포함)  
+   - 미국 내 Grenada, Franklin, Jefferson City, Grand Prairie 등 다수 생산시설 확장 및 신규 가동  
+   - 인도 Chennai 공장 가동 시작, 영국 내 추가 냉각기 생산능력 확장 계획  
+   - 데이터 센터 사업 전환 과정에서 인력 채용 및 교육 비용 증가로 분기별 마진 일시 하락  
+
+2) Performance Technologies $[미공개] (YoY -4%)  
+   - 중장비 매출은 안정적이나 상용차 및 특수 차량 수요 감소 영향  
+   - 조정 EBITDA 3% 증가, 마진 90bps 개선, 비용 절감 및 운영 효율화 주효  
+   - 관세 및 무역 분쟁 영향 지속, 가격 인상 및 비용 절감으로 대응 중  
+
+GPM 22.3% (-290 bps)  
++ Performance Technologies의 비용 절감 효과  
+- Climate Solutions의 데이터 센터 생산능력 확장 관련 인력 및 간접비 증가, 인수 초기 통합 비용, 제품 믹스 악화  
+
+OPM 14.0% (+[미공개])  
++ Performance Technologies의 비용 절감 및 운영 효율화  
+- Climate Solutions의 신규 생산라인 가동 전 고정비 부담 및 인력 채용 비용 증가  
+
+[ 가이던스 요약 ]
+
+Guidance FY2026 (updated)  
+- Revenue growth 15%~20% vs. 기존 [미공개] [상향]  
+- Climate Solutions 매출 성장 35%~40%, 데이터 센터 매출 60% 이상 성장 예상  
+- Performance Technologies 매출은 전년 대비 0%~-7%로 개선, 기존 -2%~-12% 대비 상향  
+- Adjusted EBITDA $440M~$470M 유지  
+- Free cash flow 2.5%~3% of sales 예상, 하반기 현금흐름 개선 전망  
+
+주요 변화  
+- 데이터 센터 사업의 대규모 생산능력 확장과 인수합병 투자로 매출 가이던스 상향  
+- 단기적으로 생산능력 확장 관련 비용 증가로 마진은 분기별 변동 예상  
+- Performance Technologies는 비용 절감과 가격 인상으로 수익성 방어 중  
+
+[ Comments 요약 ]
+
+[데이터 센터 사업 확장]  
+① 미국 내 4개 생산시설에서 총 16개 냉각기 생산라인 구축 중이며, 일부 라인은 이미 가동 시작  
+② 인도 Chennai 공장 가동으로 APAC 지역 고객 대응력 강화, 영국 내 생산능력도 확대 예정  
+③ 대규모 인력 채용 및 교육으로 인한 비용 증가가 단기 마진 압박 요인이나 Q4부터 개선 기대  
+④ AI 특화 대형 데이터 센터 수요에 맞춰 고도로 맞춤화된 제품을 대량 생산하는 체제로 전환 중  
+
+[인수합병 및 통합 전략]  
+① AbsolutAire, L.B. White, Climate by Design International 인수로 HVAC Technologies 제품군 확장  
+② 80-20 원칙 적용해 마진 개선, 용량 활용도 증대 및 신규 시장 교차 판매 추진  
+③ 초기 통합 단계에서 비용 발생하나 향후 시너지 및 마진 개선 효과 기대  
+
+[Performance Technologies 사업 대응]  
+① 매출은 감소했으나 비용 절감과 운영 효율화로 조정 EBITDA 및 마진 개선  
+② 관세 및 무역 분쟁 영향 지속, 가격 인상 및 비용 절감으로 대응 중  
+③ 조직 재편과 비용 구조 개선으로 SG&A 약 $7M 절감  
+
+[재무 및 현금 흐름 관리]  
+① 2분기 자유현금흐름은 재고 및 설비 투자 확대 영향으로 마이너스  
+② 연말까지 레버리지 비율 1.2에서 추가 개선 예상  
+③ 3분기 미국 연금계획 완전 자금 조달 예정으로 대규모 부채 감소 및 비용 절감 기대  
+④ 내년에는 자유현금흐름 마진이 정상 수준으로 회복될 전망
