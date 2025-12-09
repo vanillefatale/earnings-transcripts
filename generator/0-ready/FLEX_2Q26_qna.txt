@@ -1,0 +1,272 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question today is coming from Ruplu Bhattacharya from Bank of America.
+
+Ruplu Bhattacharya
+BofA Securities, Research Division
+
+Revathi, you took up revenues for the full year by $500 million at the midpoint. You beat 2Q by $150 million. So there is about $350 million upside in the second half. But interestingly, you didn't raise the guide for data center revenues, although the commentary seemed like there's still a lot of strength in cloud and power. So just curious why there was no upside to that part of the business? And I have a follow-up.
+
+Revathi Advaithi
+CEO & Director
+
+Yes, Ruplu, I'll start by saying that we said that we are going to do our -- give a full year guide for data centers. We said that at the beginning of the year and not update that through the quarter. I'll just remind you, data center is not a reporting segment for us. We've given you extra information at the beginning of the year, considering that it's meaningful growth for us.
+
+And so we're just not updating the quarterly guidance, but it is obvious that it's at least 35%. I will remind you that 35% is a very strong number compared to the industry and the end market itself. So we feel very good about that. So your math is directionally correct. So there's at least 35%.
+
+Obviously, we'll be better than that, and we'll update that in our full year guide when we do it at the end of the year. Kevin, anything to add?
+
+Kevin Krumm
+Chief Financial Officer
+
+No, nothing to add on that.
+
+Revathi Advaithi
+CEO & Director
+
+Okay.
+
+Ruplu Bhattacharya
+BofA Securities, Research Division
+
+Okay. That makes sense. Revathi, can I also ask you for the cloud business. Can you comment on the mix as it relates to custom silicon versus merchant silicon? I'm curious because AMD is going to launch a whole set of new GPUs, GPU racks next year, would that be a business that Flex would bid for?
+
+And how do you see this mix of custom versus merchant silicon evolving as things like OpenAI Broadcom, OpenAI AMD, OpenAI NVIDIA, all of these big projects are coming up. So how do you see your data center business benefiting from these large projects?
+
+Revathi Advaithi
+CEO & Director
+
+Yes. So Ruplu, I'll start by saying you, obviously, considering the fact that we're growing at least 35% year-over-year, we are benefiting pretty significantly from not only hyperscale growth, but from kind of the new cloud players, as you have talked about, that is adding to our overall growth rate.
+
+I would say that as we update our forward-looking guidance for cloud that we will do in May during our Investor Day, that should reflect all these new projects that are getting announced that will be built out over the next kind of 2, 3, 5 years. So you should wait for our updated guide. In terms of custom versus merchant silicon, I would say that anywhere there is -- in custom silicon where there is more specialization involved, typically, Flex tends to do really, really well because it requires customization for the requested hyperscaler we're working with and drives more complex products, and we tend to do really better in that in general.
+
+But in terms of custom versus merchant, we obviously participate in both. And I would say that we lean one way more than the other, but we are prevalent in the market in both the spaces. I think the real benefit at the end of the day is if you look at all the announcements that are coming in, if you look at our forward-looking pipeline for cloud, we feel very strongly and very good about kind of participation in this space at the growth rates we're delivering this year, and we're really looking forward to give you guys updated guidance in May that we will see you, and we feel like you'll see very strong growth rate -- continue to see very strong growth rate in our cloud business, driven by all the investments you're hearing from.
+
+Operator
+
+Next question today is coming from Tim Long from Barclays.
+
+Timothy Long
+Barclays Bank PLC, Research Division
+
+Appreciate the questions here. Two for me as well. First one, maybe on the op margin front. It looks like some good increases coming in the second half. Maybe if you could just talk at a high level at what's driving some of the second half over first half op margin improvements?
+
+And then second, back to the cloud data center piece. If you could -- understanding the 35% number, just curious if you can talk a little bit about kind of how you see the economics of that business evolving for you? Are you seeing opportunities, as you mentioned, some more specialization?
+
+Are you seeing that business evolve to where it could be newer programs with -- that are a little bit more margin accretive. So anything on kind of how you view that -- your play in that ecosystem changing from a value standpoint?
+
+Kevin Krumm
+Chief Financial Officer
+
+Tim, this is Kevin. I'll take the first question on margins in the back half of the year. As we said, Q2 was another quarter at or above 6%. So 4 quarters there at or above 6%. We feel good about that. As we move from Q2 to Q3 and Q4 in the back half of the year, we do expect continued margin improvement.
+
+And you see that when you look at the midpoint of our guide for Q3 and obviously, sort of do your own math to get to where we think Q4 is going to be to get to our full year guide. The primary drivers there are going to be mix. We have 2 businesses that continue to grow and grow well as we move through the year, and that's our products and services business. We're expecting both those businesses to perform well from a top line standpoint. And we've talked in the past about the margin performance of those businesses, both those businesses perform above the Flex average.
+
+So really, it's just the continued growth in those businesses, Q2 to Q3, Q4 becoming a bigger piece of revenue and pulling margins up with them as we move forward here.
+
+Revathi Advaithi
+CEO & Director
+
+Yes. I'll say, Tim, on the second part of your question on the economics of the cloud and Power business for us, as you can see from the second half guide on margins, and generally, it's a very accretive business to us. How I see the economics evolve is super positive for us, and that's based on a couple of things.
+
+Just a quick reminder, we're one of the few players who actually integrate compute, power and cooling in this space. And our compute business, which not only does contract manufacturing and assembling of compute products, also does vertical integration in terms of manufacturing racks and all the metal enclosures that goes in terms of compute products.
+
+So very positive in terms of margins for us. In the cooling and in the power play, we have our own products. So we have our own IP and design. And obviously, those are also margin positive for us because it runs more like an OEM play overall.
+
+So I see in terms of evolving as you see the mix shift for us between -- in the cloud power -- in the cloud and data center space between compute and power and power continues to grow, I see that the margin progression for that business being fairly significant.
+
+And we expect that to work and behave like a products business overall, the whole space. So I'll step back and say, feel very good about kind of the 35% growth rate we have talked about, which we said is at least that much for the year.
+
+But I feel even strongly about the updated forward-looking guide, we'll come back and give you in May in terms of growth rate of that business and then the margin improvement of that business driven by the mix of compute and power and cooling within that space.
+
+So feel really good about the economics of the business and how it's evolving.
+
+Operator
+
+Next question is coming from Samik Chatterjee from JPMorgan.
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research Division
+
+Maybe for the first one, if I can sort of go back to the question on guidance and just tackle it more on the end market front. You're raising your guidance for the full year by about $500 million or so. I mean, it seems like from an end market perspective, data center is doing better, but also maybe medical is a bit better.
+
+Can you just parse out if most of the increase in the guide is because of the data center market? Or are there other end markets that are tracking better than you expected at this time? And how much of a headwind is the Ukraine facility shutdown to the sort of raise in the guide that you're issuing today? And I have a follow-up.
+
+Revathi Advaithi
+CEO & Director
+
+Yes. I would say, Samik, is that, obviously, you guys have done the math. You can tell, right? Full year, we have raised the guide by $500 million. We've beat 2Q. And so you can see that second half is going to be strong the way we have raised our guide. It will come from the spaces you have talked about, which is data center and health solutions.
+
+And we have been very clear about both of those spaces being directionally good for us. We also have said that there is stabilizing trends in areas like automotive, which also is a good thing for us. So if you look at the forward-looking guide, while we're not updating our data center growth rates, it's obvious that it's going to be better in the second half, and you will see that reflected in our full year number.
+
+Kevin Krumm
+Chief Financial Officer
+
+Yes. Samik, I'll just add on your question on the Ukraine. When we had the issue in August, we issued a release that identified the business being approximately 1% of Flex revenue. And I think that's how you should think about the impact of that in the back half of the year.
+
+So going from basically where it was to 0%. You can -- it's slightly north of $100 million impact to us from a revenue headwind standpoint in the back half of the year.
+
+Revathi Advaithi
+CEO & Director
+
+Yes. So overall, raising our guide with the impact of that, I think we think is very strong results.
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research Division
+
+And for my follow-up, I wanted to see if you can give us some sense of what to expect from the Amazon partnership that you have now to the extent that you can talk about and you're sort of sounding positive about what you will announce in terms of the cloud data center business.
+
+But is that -- is the Amazon partnership part of that optimism that you have as you think about what you would sort of talk about in the May Investor Day as well?
+
+Revathi Advaithi
+CEO & Director
+
+Yes. Samik, I will just step back and say that I feel very bullish about kind of where things are in the data center cloud space for us. Combination of the partnership that we announced with Amazon, but continued growth in other hyperscalers and colo businesses and Neo clouds that we mentioned earlier in the call.
+
+So I think it's important to reflect on the fact that a lot of these announcements and CapEx announcements that you're seeing from our customers are all going to play out in the next 1, 2, 3, 5-year cycle. So I think that's really important to reflect on that, that these are all kind of long-term plays, whether it's our partnership with Amazon or the growth rate that we're seeing with all our other customers.
+
+You'll see that reflected as we move forward in our CapEx numbers and the investments we continue to make in this space. So as you wait for our updated guide coming out in May and you see our long-term growth rates, you would see the bullishness reflected in that coming from the growth rate in this space.
+
+So I view this as a long-term play, feel very good about kind of what we're delivering this year and the investments we are making for forward-looking growth, and we'll give you an updated kind of long-term guide when we see you in May, and that will reflect these partnerships and other investments we are making.
+
+Operator
+
+[Operator Instructions] Our next question is coming from Steven Fox with Fox Advisors.
+
+Steven Fox
+Fox Advisors LLC
+
+I had a couple of questions as well. First off, looking at the guidance, it's like some people have mentioned, it seems to imply some accelerating growth into the fourth quarter of the fiscal year. Is that something -- without getting into numbers for next year, is that something that we can think about sort of continuing and use that as a base for some new and different growth for the next fiscal year? And if so, what would you sort of say is driving it? And then I had a follow-up.
+
+Kevin Krumm
+Chief Financial Officer
+
+Thanks, Steven, this is Kevin. I'll take the first part of the question. So you are right. As you look at our guide for the full year, we gave you Q3, you can start to back into an accelerating Q4 or Q3 to Q4 environment and expectation from us. The drivers of that are going to be some of the things we've talked about already on the call. Obviously, data center underlying, we've talked about our power business this year with data center being made up of cloud and power.
+
+Our power business, especially in the back half of the year, we expect that to grow above the data center average. So that's driving some of the margin performance we talked about, but also our overall top line expectations. Also seeing good growth in the back half of the year as we exit the year in medical device and some other areas like capital equipment.
+
+So yes, that growth rate in the back half of the year that we're exiting with, we feel good about it, and we expect that momentum to continue into the first half of FY 2027.
+
+Steven Fox
+Fox Advisors LLC
+
+Great. That's super helpful. And then Revathi, it wasn't that long ago where the auto markets were a pretty attractive growth market for you guys. You mentioned some new compute wins and the business and, I guess, production kind of stabilizing. So do you see a path now for like that segment returning to growth?
+
+And if there's any color you can provide on the new compute wins, that would be helpful, too.
+
+Revathi Advaithi
+CEO & Director
+
+Yes. I would say, Steve, is that we're being very thoughtful in terms of giving the right projections for our automotive business. We feel good about kind of stabilizing what we're hearing from our customers on which platforms they're going to grow with.
+
+I have mentioned this before that we're being platform agnostic is helpful for us because even as you shift powertrains within automotive and there's a shift from EV to ICE vehicles, it still helps us because even in ICE vehicles, we are seeing continued investment in terms of power electronics.
+
+So being agnostic to the platform is really important to us. So as I look moving forward, compute wins happen in ICE, hybrid and EV in all platforms. So that is the good part about it is that we continue to win agnostic to the platform, and that is helpful in terms of how we think about growth rates.
+
+All that being said, I would say is that our view on kind of continuing to grow in the automotive space is that it has to show the returns that we expect. And if it shows the returns we expect, then we will continue to invest and grow in that business.
+
+As you can tell, we have enough growth coming from other vectors, and it's a balance in terms of the decision we make. So we look for good growth, healthy growth, long-term commitments. And if that works for us, we'll take that business and grow with it.
+
+Operator
+
+Next question is coming from Steve Barger from KeyBanc Capital Markets.
+
+Jacob Moore
+KeyBanc Capital Markets Inc., Research Division
+
+This is Jacob Moore on for Steve Barger. First, I just wanted to ask about the value add from engineering and services in terms of penetration and margin impact. I think you've emphasized those as margin levers outside of data center and power. Could you share the revenue size of those programs?
+
+And what do you see the broader opportunity size to be? And then maybe could you frame up the margin they contribute compared to the overall portfolio and if there are any barriers to further penetration?
+
+Revathi Advaithi
+CEO & Director
+
+Yes. I'll say, Jacob, is that in the past, we have kind of shared a number that's in the range of kind of $1 billion for this space. We haven't updated that in a while. So my overall take will be that value-added services, which includes kind of vertical integration and all the end markets we play in, is important to us because that does drive margin improvement for us overall.
+
+So it is a very important focus for us and our teams across the businesses. It's even more important in the data center space because we do have products we deploy. And so that is really important. So because you have to be able to service those products.
+
+I would say, overall, we are happy with the growth rates, but I don't have specifics I can give you, Jacob, because those are not numbers that we give out. So -- but we like what we do in value-added services, super important to us, both in data center and outside of data centers, and we feel good about kind of how it's growing and the margin it's providing.
+
+Jacob Moore
+KeyBanc Capital Markets Inc., Research Division
+
+Understood. That's helpful. And then second one for me is on op margin, but maybe a little more specifically on the fiscal fourth quarter. The math suggested a pretty decent sized step-up from Q3 to Q4. Could you just walk us through the puts and takes assumed in that sequential step-up?
+
+And then similar to the question on the growth acceleration in the back half, is the sort of mid- to high 6% margin level sustainable moving forward from 4Q?
+
+Kevin Krumm
+Chief Financial Officer
+
+Jacob, this is Kevin. I'll take that question. So first, we talked about the growth rate in 4Q and our expectation there and what was driving it. And in that, we talked about our products business and our services businesses growing in the back half and accelerating into Q4. That acceleration of those businesses and as we've talked about, they're higher-margin businesses for us, both accrue to the P&L at margins north of the Flex average are what's driving our expectation for margins.
+
+It sounds like your math is directionally correct there. And so as we move into next year, as we said, we expect that growth momentum in those businesses to carry forward into early FY '27 and our margin expectation would be similar.
+
+Revathi Advaithi
+CEO & Director
+
+And then I'd say that I think that it was only a year ago where you guys were pressing me on a 6% sustainable. And when are you going to update that guide because we're a year ahead of the long-term guide we gave you.
+
+So I can see you're already taking it north of that, Jacob. And as long as we continue to change our mix, which we're doing and continuing to have growth rates in the right end markets where we have products and services and margin-accretive business, we feel good about continued growth rates and margin performance of what you'll see moving forward.
+
+Operator
+
+Our final question today is coming from Mark Delaney from Goldman Sachs.
+
+Mark Delaney
+Goldman Sachs Group, Inc., Research Division
+
+I was hoping to better understand where Flex stands with its capacity and ability to support the data center opportunity and if there are any supply constraints that you're starting to encounter in that business given the growth you're seeing?
+
+And as you think about that business over the longer term, do you envision needing to make meaningful increases in your CapEx levels in order to support the growth?
+
+Revathi Advaithi
+CEO & Director
+
+Yes. I would say, Mark, first is I'll parse this out by region, right? I feel very good about our capacity and capability in the EMEA region. We announced a new asset acquisition in Poland, and we feel really strongly about kind of overall capability on compute power and cooling in EMEA.
+
+In North America, which is where you're seeing the largest amount of growth being deployed and CapEx being deployed by our customers, we have incrementally invested pretty significantly in our compute operations in Guadalajara and in U.S. We have continued to invest pretty significantly in cooling and ramping up that manufacturing capability as we got through the acquisition of JetCool.
+
+And then we announced new facilities in Dallas, and we continue to expand our facilities in Fontana, in Colombia in those regions to add to kind of power capability in the U.S. All that being said, I would say that we have a lot more investment to do because you are seeing those big announcements coming from our customers, and you see a meaningful shift within Flex in terms of how we're deploying our CapEx towards those end markets.
+
+So as I look towards the next kind of cycle, 2, 3, 5 years, I would say, yes, you will see meaningful deployment in terms of CapEx and growth and investments required and OpEx, both R&D and support required for those businesses that will shift towards those businesses. I think what's important is that despite all those moves we're making, you're seeing kind of overall cash flow improving and you're seeing our overall operating margin improving.
+
+So obviously, we're making the right choices as we deploy this, Mark.
+
+Mark Delaney
+Goldman Sachs Group, Inc., Research Division
+
+Very helpful context. My other question was around Flex's own operations. You've spoken in the past about utilizing AI and automation to be efficient. Yesterday, you had some news around a pilot with NVIDIA to maybe even try and get better there.
+
+And of course, there's a lot of innovation happening with AI and robotics. So as you think about some of the things you're working on to tie to those areas, including with what you announced yesterday, anything meaningful you could point to and what we could expect for where Flex may take its own operating and logistics in the future?
+
+Revathi Advaithi
+CEO & Director
+
+Yes. Mark, I'll step back and say that the announcement we had with NVIDIA yesterday is a really exciting announcement. It is more around deploying ready-to-use modular infrastructure for data centers, which is inclusive of compute power and cooling like we showed in the OCP.
+
+So if you're ramping up a data center and you need a modular, scalable architecture and solution, then that's the partnership that we showed with NVIDIA yesterday, and we showed in OCP that we'd be deploying in large scale as you see these data center investments come out.
+
+So that is more around data center infrastructure investment from our customers. So super exciting, right? So if you want to take out -- if you want to reduce lead time to deploy these infrastructure, you'll be able to do that with this partnership we've announced. So that's one thing.
+
+I'd say the second internally to our own factories, I'd say there's a significant amount of work to be done within our own factories in terms of deploying AI and robotics. You have seen that in the past, we have really delivered a lot of productivity within our factories.
+
+That being said, I'm super excited about kind of what the future holds because obviously, there's a lot to be done, not just in terms of hardware robotics, but in terms of software capabilities using AI that will really drive productivities in our factory and drive efficiency in everything from our back office to how we operate.
+
+So whether it's projects that are in processes and functions or whether it's projects that is how we do planning or scheduling or any part of that in our factories, AI is going to really accelerate kind of the productivity we deploy and the efficiency we deploy in how we work with our customers.
+
+So a lot to do there, Mark, but really exciting times, I would say, for the manufacturing space and how we use these tools and capabilities.
+
+Operator
+
+We reached the end of our question-and-answer session. I'd like to turn the floor back over to our CEO for the closing remarks.
+
+Revathi Advaithi
+CEO & Director
+
+Thank you. So we look forward to speaking to you again next quarter. On behalf of the entire leadership team, I want to sincerely thank our customers for their trust, our shareholders for your continued support and the Flex team around the world for your dedication and your contributions. Thank you, everyone.
+
+Operator
+
+Thank you. This now concludes today's conference call. Thank you for joining. You may now disconnect.

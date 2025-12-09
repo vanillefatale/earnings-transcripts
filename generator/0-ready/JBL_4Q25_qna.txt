@@ -1,0 +1,243 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question is coming from Ruplu Bhattacharya from Bank of America.
+
+Ruplu Bhattacharya
+BofA Securities, Research Division
+
+I want to start with AI. Can you give us some more details on which of the 3 areas you see more growth? Is it in core rack manufacturing or in optical transceivers or in switching, where do you see Jabil outpacing market growth. And there's some investor concern that Jabil could be losing some share in data center and AI. Can you talk about any share shifts that are happening? And how do you see margins in this segment?
+
+Matt Crowley
+Executive Vice President of Global Business Units
+
+Ruplu. This is Matt. Thanks for the question. So first, I would just start with Mike mentioned in his prepared remarks, that we're growing 25% in our AI revenue year-on-year. So going from $9 billion to $11.2 billion. And when you think about the base that we built up in '25, we're really pleased with that business and where it's going. Now across the 3 sectors, we're growing pretty well in H1.
+
+In capital equipment, we'll maintain our positions with the right customers that we have. We'll also add capabilities to get us closer to the chamber, which will help us defend our positions that we have that exist and also go get new business. In the cloud and data center infrastructure, that's probably where we see the most position to take share.
+
+So if you think about our data center infrastructure business, that will grow triple digits, where we build electrical switch gear, et cetera. and our cloud business will continue to grow. So we feel really good about where that's headed. And while in the networking and com space, our communications business is offsetting the networking growth.
+
+We're going to grow at roughly 25% networking. So across the board, we feel good about the share that we're taking. We actually don't see any share loss. We feel like we're gaining share, especially in the data center infrastructure business. So we feel good across the board about, where our AI revenue trajectory is headed.
+
+Ruplu Bhattacharya
+BofA Securities, Research Division
+
+Okay. Maybe I'll switch to health care. So it looks like from your fiscal '26 guide, you're guiding to the low end of mid-single-digit growth. Can you talk about where you see growth? Is it in devices, equipment or drug delivery? And specifically, is the Croatia facility? It seems like it's getting delayed in terms of getting populated. How do you see the impact to margins of that in fiscal '26? And then how should we think about margins beyond that?
+
+Steven Borges
+Executive Vice President of Global Business Units
+
+Ruplu, Steve here. So to answer your question, first, let me go back to my comments this time last year, and then I'll give you the go-forward perspective. First, I mentioned last year at this time, the overall med device market is growing roughly 3% to 4%.
+
+And on that call, I said my expectation was we would return to growth in fiscal year '26, driven by our past wins in the areas that Mike mentioned in his opening remarks, GLP and biologics growing and getting into production. And that's continued as planned, most especially to answer your question on Croatia. Equation is on track as planned. There has been no changes. There are no delays.
+
+So that's moving forward as we anticipated. In addition, this year, your question about new wins, in addition, I'd say that we have quite a few new ones. They're in the areas of med devices, CGMs and general auto-injector growth. That's driven not just by GLP-1s though, but by biologics. I've mentioned in prior calls, the growth that we're seeing in the Pharma segment as it relates to biologics and the need for injectors to support that.
+
+And as a matter of fact, we recently added a new win for our Dominican Republic site that's going to leverage our new sterilization capability, which we recently invested in. But as we've talked about before, these ramps due to automation, lead times, regulatory validation requirements will take some time to ramp, but those are some really, really good new wins for us.
+
+And I'd say, in addition, we sit today with our largest funnel of B2Bs, which is obviously not forecasted, but could create some opportunities this fiscal year depending on timing.
+
+And then I'd say last but not least, in our video, we mentioned the Pii transaction, and it is on track, and we're excited that the team has already added a new customer, and we have many visits planned now that the integration is complete. So to summarize, a very long answer, sorry, is what I'm trying to say is that with the new wins even from last year and the ones this year that I expect growth rate in health care to be at or above the 5% range going forward.
+
+Michael Meheryar Dastoor
+CEO & Director
+
+Ruplu, if I could just add, I think your question around Croatia in FY '26. Croatia was never meant to be an FY '26 event. It was always in FY '27, almost second half of FY '27 event, and that's completely planned and that is exactly how it's turning out. So absolutely no delays, as Steve mentioned.
+
+Ruplu Bhattacharya
+BofA Securities, Research Division
+
+Okay. I'm going to try and sneak one more in. Mike looks like you met with the Indian Prime Minister Shri Narendra Modi. Can you talk about how the meeting went. And can you give us specifically your thoughts on investing in the U.S. versus in India because there are different tariff rates. How do you prioritize those 2 regions in terms of investment?
+
+Michael Meheryar Dastoor
+CEO & Director
+
+Thank you, Ruplu. Very positive meeting, very pro business. I think the pro investment sort of atmosphere there is very pleasing to see. Of course, my meeting was before the whole tariff situation, so we're monitoring that. But having said that, don't forget, India has the largest middle class population in the world, huge domestic demand.
+
+So it has a manufacturing right by South regardless of tariffs. One of the things we focused on quite a bit here in the U.S. is the manufacturing. We've gone from 14, 15 sites to more than 30 sites in the U.S. Over the last few years, we prioritized our manufacturing to the U.S. And that paying dividends, all our AI growth is coming through these sites in the U.S. as well.
+
+We're opening up a new facility in North Carolina. It will be a state-of-the-art facility. It will probably be our largest site in the U.S. going forward as well. So we're focused on both. I think the U.S. obviously is a priority for us. We're a U.S. domiciled company with -- we've been here for 60 years in the U.S., so definitely prioritizing the U.S.
+
+Operator
+
+Next question is coming from Mark Delaney from Goldman Sachs Asset Management.
+
+Mark Delaney
+Goldman Sachs Group, Inc., Research Division
+
+I wanted to start, if I could please, with the data center business. Can you help us better understand how Jabil is managing its capacity in order to meet the demands in the data center related products both in the first quarter and also this fiscal year? And I ask because you've commented that some of your sites are running 24/7 and have been at peak level. So what are you doing in order to meet that demand? And what does that mean for the shape of growth this year?
+
+Matt Crowley
+Executive Vice President of Global Business Units
+
+Yes. So thanks, Mark, this is Matt. First, I would say we are going to continue to operate sites at 24/7. Additionally, we're going to sites in the U.S. where we had some underutilization and we're going to go and consume that capacity.
+
+So in our data center infrastructure business where we're going to be building chillers, we'll be consuming capacity in our Salt Lake City facility. So we're utilizing the network of capacity across the country. And then in addition to that, we are going right now to start retrofitting the sites that exist to be prepared for liquid cooling.
+
+So as customers transition and as data centers move from air to liquid to liquid to liquid, we have to be ready to manufacture at the same scale and support that liquid and power requirement. So we are in the process right now across the network of factories in the U.S. retrofitting them so that we can build liquid cooled infrastructure. And that will be throughout the year, which is why you see the shape of the year coming together the way it does. But as we get through the year, it positions us perfectly for '27. So we feel good about where we're headed.
+
+Mark Delaney
+Goldman Sachs Group, Inc., Research Division
+
+And I also wanted to better understand the margin dynamics within the Intelligent Infrastructure business. If I heard correctly, the company is expecting margins this year to be in the mid-5% range. That's relatively flattish on very robust top-line growth. So maybe it help us understand some of the puts and takes to that segment for fiscal '26.
+
+And how should investors think about margins in that space over the longer term, there's been a lot of growth. There's also been some investor debates around the degree of competition. So if you can share more around how you're thinking about profitability, it would be helpful.
+
+Mark Mondello
+Executive Chairman
+
+Yes. I mean, look, so we're absolutely across the portfolio. We have business that's going to be accretive. We have business that's going to be in line with the enterprise, and we're managing the portfolio appropriately. I would tell you that where we have invested in specific capabilities like our silicon photonics business, like our data center infrastructure business, we expect margins to be accretive.
+
+But across the portfolio, there is going to be a business that is more in line with the enterprise. So we're trying to manage and invest in the right places. And by the way, this year, we will be investing in more capability to position us well into the future. So we're going to manage the portfolio appropriately to enterprise-level targets.
+
+Operator
+
+Next question is coming from Steven Fox from Fox Advisors.
+
+Steven Fox
+Fox Advisors LLC
+
+I had a couple of questions. I guess, first off, could you guys unpack the gross -- the operating margin guidance for the new fiscal year? It looks like sales are going up about $1.5 billion and margins by 20 basis points. But it seems like I'm just listening to the conversation so far, there's a lot of puts and takes in there, so I was wondering if you could address some of those to figure out how we got to the guidance there. And then I had a follow-up.
+
+Gregory Hebard
+Chief Financial Officer
+
+Steve, it's Greg. Yes, so we do see a 20 basis point pickup in our margins from 26 to 25. It's really -- we're seeing a good mix in the business that's improving margin. We still have some headwinds on unutilized capacity outside of the U.S. So that's still a 20 to 25 basis points of headwind for us. For this fiscal year, but as we look at the shape of the year, it's a little bit more flat versus last year, more of a 50-50 first half, second half, where we do see margins continuing to increase as we go through the balance of the year.
+
+Steven Fox
+Fox Advisors LLC
+
+That's helpful. And maybe can you add color just on the product pruning and also the investments in AI, whether those are like material headwinds that we'll notice within that [ 5.6% ], or something that's sort of flying under the radar more?
+
+Michael Meheryar Dastoor
+CEO & Director
+
+So let me hand over the call to Andy to talk about the product pruning on consumer.
+
+Andy Priestley
+Executive Vice President of Global Business Units
+
+Sure. Steve, it's Andy here. So I think you heard in the prepared remarks from Greg and Mike. We have made a conscious decision over the last 12 to 18 months, and a deliberate shift away from some of the lower margin and commoditized products towards more of an engineering-led and margin-accretive product with some of the most premium brands on the planet. So that's certainly having an effect on the overall revenues but having a positive effect on the overall margins.
+
+Michael Meheryar Dastoor
+CEO & Director
+
+Steve, if I could just add, I think I talked about it in my prepared remarks a little bit. We're still marching strong towards the 6% target, 6% plus target, I should say, that we have for the enterprise. I talked about mix, efficiency and capacity utilization. The mix is actually one of the key factors that were focused on. In health care, you have margins getting better, the growths coming through. We've actually booked a decent pipeline, obviously, but with the long incubation that will take a little bit of time.
+
+In AI data center infrastructure, we see growth, there's absorption of SG&A. So that's going well, capital equipment, liquid cooling, again, higher margin profiles. And then if you look at Digital Commerce & Robotics, that's higher margin as well.
+
+So overall, that AI -- sorry, the mix that we're focused on will help us get to that 6%. Efficiency is another one that I talked about, I think, Fred and Frank talk about on video, automation, AI, just normal efficiencies. I expect contribution of about 10 bps annually from efficiency and then Greg talked about capacity utilization.
+
+Our capacity utilization normally runs at 85%. Today, it's still at 75%. A lot of the growth that we've seen has come in the U.S. There's been a little bit of a mismatch between where our capacity was surplus and where we have to put up new sites and new capacity. The bad thing is, it's hurting our margins right now. Good thing is the surplus capacity is available for new business going forward. So that will be accretive to margins as well. So overall, no change in our 6% profile. I know your question was more on FY '26, but I want to make sure that the investors understand that 6% is very much in play for us.
+
+Steven Fox
+Fox Advisors LLC
+
+And then just one question for Matt. Maybe just -- I know there's a lot of detail here on this question, but maybe from a big picture standpoint, when we think of -- you mentioned chillers and other power management products. I mean on one hand, there's traditional EMS production and programs that you're doing. On the other hand, you guys have obviously increased your capabilities, as you mentioned.
+
+Like how does that all play out in terms of the market especially when we think of a large competitor of yours that is more of an OEM play on power? How does Jabil compare within that sort of range of what you could be doing and what it means for the margins?
+
+Michael Meheryar Dastoor
+CEO & Director
+
+Yes. Thanks, Steve. So I mean, we've really focused on building capability. If you think about the market today and where a ton of volume is being driven, especially in the hyperscale space, products, OEM approach, we don't see that as the future. We see the ability to configure and support scale globally as what these customers want. So that's where we've invested that's the capability we've created. And we feel really good about how that business is growing.
+
+And as I mentioned, it's growing in the triple digits. So we think as we scale out across our first hyperscale customer, our second hyperscale customer, it is probably where we will land our third hyperscale customer. So it's a focus area where we've invested and we think it's going to help us grow.
+
+Operator
+
+Your next question is coming from Melissa Fairbanks from Raymond James.
+
+Melissa Dailey Fairbanks
+Raymond James & Associates, Inc., Research Division
+
+I wanted to start off with a question for Steve. This may not be a fair question because it all just kind of materialized overnight. But I'm curious about any trends that you're seeing with some of your healthcare customers related to the latest section 232 issues.
+
+I know there hasn't been time to digest. And from what I understand, it was kind of unexpected. I'd expect that most of your programs like in Mexico are MCA compliant. But I'm just wondering, if you've seen any changes in customer behavior given the possibility of more tariffs or if this might just be a net neutral impact to your customer plans?
+
+Steven Borges
+Executive Vice President of Global Business Units
+
+Yes. Thanks, Melissa. Yes, it is fresh news for sure. But when we look at it on the surface, there's areas such as the gloves, wheelchairs, et cetera, and commodity stuff that we actually don't play in. But then there are areas like pharma and others that we do. The good news is that, as we've talked about before, our health care business and our auto business for that matter is region for region consumption.
+
+So we're in a good place from a manufacturing standpoint. I actually view the potential impact on the pharmaceutical side of the business is a great opportunity because if that business gets tariffs at a certain rate, then the opportunity for U.S. production would actually be good for us, especially in our Pii operation. So we'll have to see how it plays out, but I view it as a net positive.
+
+Melissa Dailey Fairbanks
+Raymond James & Associates, Inc., Research Division
+
+Okay. Great. That's very helpful. Maybe just one for the team. Well, Steve this might for you too. I'd also like to ask about the overall capacity utilization or the inefficiencies that you've been seeing. Correct me if I'm wrong, but I think a lot of the margin headwinds or inefficiencies outside the U.S. were related to the auto business. If we do finally see an inflection point in that auto transport business, do you have the capacity to address potential upside or is this something that, it's going to take some time to flow through the P&L?
+
+Steven Borges
+Executive Vice President of Global Business Units
+
+Yes. I mean, I guess, I'd say this as it relates to the auto part of the business, we have capacity in place to be able to support upside. Now as you can tell by our numbers, we're not predicting in this fiscal year to see growth. And I can certainly talk to you a little bit about that in terms of the why. But going forward, we do see growth coming back, especially with the advent of software-defined vehicle architecture becoming stronger into the vehicle, which is adding more electronic content. So I do see growth down the road and that will fill that capacity. So we're in a good place as it relates to that for auto.
+
+Melissa Dailey Fairbanks
+Raymond James & Associates, Inc., Research Division
+
+Okay. Great. And maybe just sneak in one more. The new North Carolina liability that's coming on mid next year. I'm wondering what the expectations are to get that facility fully loaded in terms of time line. It kind of seems like it might be more of what you're already doing. So maybe the demand is already there to support it right off.
+
+Maybe for Greg, what should we expect in terms of either the margin profile of that facility, revenue contribution toward late next year into fiscal '27 and even expectation for the depreciation expense?
+
+Matt Crowley
+Executive Vice President of Global Business Units
+
+Melissa. This is Matt. Let me take part of that, and I can hand the depreciation expense back to Greg. So we are expecting -- #1, we do have plenty of demand. So we feel good about getting the site filled. Now -- the site will be ready in the back half of the second half. So we don't expect for it to get to be fully loaded until probably middle of '27 as we ramp and bring on new customers. It's going to be 500 -- it will be a 500 square foot facility. It's going to have 12 megawatts piped in to start. We'll move to '25 over 18 months. And then over the next 3 years, it will get to 80 megawatts. So as we grow and as we fill up the facility, clearly, there will be a different revenue profile of what that facility will generate over time. But we feel really good about it.
+
+There is plenty of demand. And as I mentioned, the fact of the matter is that we are bumping up against capacity. So as soon as that comes on, we feel good about starting to get it filled up. I don't think you're going to see a big impact in '26. It will make a significant contribution in '27.
+
+Gregory Hebard
+Chief Financial Officer
+
+And just on the investment side of that, the North Carolina investment will be mostly in '26 from a CapEx perspective. We see that in the range of $75 million to $100 million, and that will absolutely be in our range of CapEx overall, which is in that 1.5% to 2% of CapEx to revenue.
+
+And as you can see from our numbers we printed in '25, we -- we've been on the low end of CapEx, $1.1 billion in '25. So we still feel really comfortable on the overall investment that Jabil is doing from a CapEx point of view.
+
+Operator
+
+Your next question today is coming from David Vogt from UBS.
+
+Unknown Analyst
+
+This is Brian on for David. Just to start, you guys touched on it, but why are you expecting EV to be down in fiscal year '26, when new programs should be ramping? I know you talked about weakness in Europe and the U.S. as well as strength in China. But just further color there would be helpful. And then I have a follow-up.
+
+Steven Borges
+Executive Vice President of Global Business Units
+
+Sure. This is Steve. Brian, I'll take that one. Yes, I mean, we remain prudent, I'd say, in our thoughts related to the auto and transportation segment. I mean there's still lots of volatility as automakers reset their portfolio strategies between EVs, ICE and hybrid based on the overall environment.
+
+So -- but I'd say inclusive of that, we continue to see a decline in EV market share in the U.S. As you mentioned, yes, Europe is up, but off a very small base of only about 2 million units. China continues to be the growth area, and we're participating there to help offset softness in the U.S. market.
+
+And what I'd say there is we've also been able to add -- we've doubled our business year-on-year with our first Chinese OEM customer. We've added a second Chinese OEM customer to our portfolio, which will ramp starting late '26 into '27, which gives us the opportunity down the road for continued growth of that business.
+
+I'd also say that when I look at our EV strategy, which is agnostic to vehicle types. So think of domain controllers, which control parts of the vehicle, zonal control is the same thing and compute modules, we continue to add those portfolios. But what's happening is that you have a decline that exists, the reset of the portfolios, the cancellation of some programs as a new programs launched and it takes a couple of years to launch those new platforms, and that's kind of where we're at, at this point.
+
+Michael Meheryar Dastoor
+CEO & Director
+
+And Brian, if I could just add. I think, if you look back at our history, we've been very conservative with our forecast. Obviously, there's a lot of moving parts with what's going on in some of the end markets. So we are on the side of conservatism there. I think Steve mentioned prudent, that's a perfect word to describe our philosophy, not just on EVs, but on a number of end markets because we expect we'd rather be right than wrong there. So the conservative approach is something we've worked on over the last few quarters as well.
+
+Unknown Analyst
+
+Got it. That's helpful. And then just to add on, I know you guys touched upon this as well. I just wanted to get your guys' thoughts if there's anything else that you could add regarding a warrant deal between one of your competitors and Amazon, just any implications for the industry or the company itself?
+
+Matt Crowley
+Executive Vice President of Global Business Units
+
+Brian, it's Matt. So first, I would say, we were the first EMS to do warrants with that company. That put us in a really good position. I would also point to the portfolio of warrants that they manage. It is not complementary, it's redundant. So it makes sense that they would go and acquire other similar like companies from a warrant portfolio perspective.
+
+And again, the demand is just so great that having backup agreements make sense. So from our perspective, we were the first to do it in the EMS space. It's going to be a benefit to us. We have very little to no concern over the fact that they would do it with a competitor because we expected them to.
+
+Operator
+
+We reached end of our question-and-answer session. I'd like to turn the floor back over for any further or closing comments.
+
+Adam Berry
+Senior Vice President of Investor Relations & Communications
+
+That concludes our call today. If you have any further questions, please reach out. Thank you.
+
+Operator
+
+Thank you. That does conclude today's teleconference and webcast. You may disconnect your line at this time, and have a wonderful day. We thank you for your participation today.
