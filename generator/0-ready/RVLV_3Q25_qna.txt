@@ -1,0 +1,280 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question comes from the line of Rick Patel with Raymond James.
+
+Rakesh Patel
+Raymond James & Associates, Inc., Research Division
+
+Congrats on strong results. I'd like to double-click on gross margin. So is there any way to size the benefit that you realized from the improved markdown algorithm? I know it was a benefit in the second quarter, and it sounds like the benefit accelerated in Q3. So I'm curious how that happened as you deploy it to more regions, more banners, et cetera? And how do we think about the durability of this improvement, not just in Q4 but beyond?
+
+Jesse Timmermans
+Chief Financial Officer
+
+Yes. Thanks, Rick. We were super happy with the gross margin result this quarter. And to your point, the largest impact was that markdown margin optimization to our optimizing that markdown algorithm. So that was by far and away the biggest driver. And we did see that start in Q2 and that accelerated into Q3. It was across both FWRD and REVOLVE. And then we also had that shift in promotional strategy that we talked about, and that was another key contributor to the gross margin expansion leading to that 11% increase in gross profit dollars. But not to be lost on the fact that also full price mix increased and the margin on those full price sales increased as well.
+
+So really pleased with the core margin result even outside of that markdown and promotional shift. And then finally, a positive impact from the expansion in owned brand mix on the REVOLVE segment. So really pleased with the cadence there. And SRG just launched, so expect to see good things coming out of that in the future. So I think to your point on sustainability, we feel good about where we're at and then also the health of the inventory and more owned brand launches to come.
+
+Rakesh Patel
+Raymond James & Associates, Inc., Research Division
+
+Great. And I just had a follow-up on the quarter-to-date trends. October up mid-single digits. Are the drivers of October consistent with the trends that you saw in the second quarter? A lot of companies are calling out consumers buying closer to need. So I'm just curious if you see the potential for that growth rate to accelerate as you start entering the holiday season.
+
+Jesse Timmermans
+Chief Financial Officer
+
+Yes. Yes, we'll see. October at mid-single digits, I don't know, I won't say we're pleased with that, but we're encouraged that it's at mid-single digits on tougher comps than we faced in the third quarter. And that mid-single digits, it puts October close to a 20% 2-year stack. So call it a double-digit CAGR or close to it. So I think encouraging, but we'll have to see how the quarter plays out. And it's always a little bit volatile in the holiday season. And comps do get a little bit tougher. If you recall last year, we had said that October was up low double digits, and we closed at plus 14%. So we have that to deal with as well.
+
+Operator
+
+Our next question comes from the line of Oliver Chen with TD Cowen.
+
+Oliver Chen
+TD Cowen, Research Division
+
+Mark, Mike and Jesse, great results. Jesse, yes, you had a great last year fourth quarter. That comparison is tougher. What do you think about average order value trends? And also any complexion in terms of like what you're seeing in October with price points or categories? I'm just concerned about the tough compare, but you keep on executing so well. The return rate is also a tough compare as well.
+
+And then as you think more broadly physically, you're an expert at digitally enabling A/B testing, test read and react inventory management and also thinking about the speed at which you innovate. So how might you take these digital capabilities physical? It's a different ball game to a certain extent in terms of speed and scaling that. I was curious about your conceptual thoughts too, as that's clearly a big opportunity.
+
+Jesse Timmermans
+Chief Financial Officer
+
+Yes. Thanks, Oliver. I'll take the first one and then kick it over to Mike. On the composition of October, similar to the third quarter, international outpaced domestic. On AOV, we'd expect to continue to see a slight increase in AOV in part due to the price increases. I think we had mentioned last quarter that we are seeing on the new product price increases of, call it, mid- to high single digits, and that's approaching double-digit range as we head into Q4. Not all that will hit this kind of -- it starts to have an increasing impact as inventory rolls in.
+
+And then, of course, depending on mix between REVOLVE and FWRD and then the category mix as well. We saw, again, that men's, beauty, home at double digit versus apparel at 7% and then dresses at 3%. So there was a slight offset to the AOV increases due to product mix. But again, to answer your question, I expect to see a slight increase in that AOV as we look ahead.
+
+Michael Karanikolas
+Co-Founder, Co-CEO & Chairman of the Board
+
+And with regards to physical, I completely agree that we are experts in e-commerce, but we're early in the game in physical commerce. So we're super excited and hyper focused, investing a lot of time building teams, resources, processes. Literally just yesterday, I met with the team and was -- I encourage them to be very experimental and iterative. We have a vast, vast e-commerce store. But of course, our physical stores will be focused. So there will be a lot of experimentation, a lot of measuring and management and ultimately long-term optimization. We've seen great progress with Aspen, building from the learnings as well as trying new things and our internal numbers are very, very encouraging. And we recognize that it is a long journey ahead for us to be experts, but I think we're culturally built for this.
+
+Operator
+
+Our next question comes from the line of Matt Koranda with ROTH Capital.
+
+Matt Koranda
+ROTH Capital Partners, LLC, Research Division
+
+I guess 2 for me. First one, I guess with the larger luxury players you talked about showing signs of stress, surprised you aren't seeing maybe just a little bit better growth out of FWRD in the third quarter. So maybe could you unpack sort of where you saw benefits and maybe where you're still seeing some headwinds in that business and when we expect the competitive environment to be more of a benefit for you guys going forward there?
+
+Michael Mente
+Co-Founder, Co-CEO & Director
+
+Yes. So we were actually extremely encouraged by the FWRD results. And I focus not on the top line number for FWRD but on the gross profit growth for FWRD, which was absolutely incredible. And so we made a decision to focus on margin and get the margins on FWRD back up to where we want them to be over the mid- to longer term and had huge increases in gross profit. And so I think it was a very favorable environment for us. And going forward, we hope and expect to drive both large gross profit increases as well as more sizable revenue increases.
+
+Matt Koranda
+ROTH Capital Partners, LLC, Research Division
+
+Okay. All right. That makes sense. And then just on the...
+
+Michael Karanikolas
+Co-Founder, Co-CEO & Chairman of the Board
+
+Just to add a little bit to that -- sorry, just one thing to add is that, of course, these very, very weak competitors still have a lot of inventory for previous seasons. But as we go season to season with a lack of new deliveries, we're quite optimistic that we will accelerate and gain share as the lack of refresh in our competitors is quite obvious and more customers coming to us.
+
+Matt Koranda
+ROTH Capital Partners, LLC, Research Division
+
+Okay. All right. That's very helpful. And then maybe for Jesse on the gross margin guidance. I guess just why the step down in the fourth quarter sequentially? It sounds like most of the wins are at your back there with more owned brand launches. You still have the benefit of the markdown algo. Maybe just why the slight step down that you're embedding there?
+
+Jesse Timmermans
+Chief Financial Officer
+
+Yes. I think a little bit of it will be mix. And then I think as that markdown algorithm starts to season itself and then also 3Q had the biggest benefit from those promotional shifts that we talked about. So we'll see how it goes, but still optimistic even with that 4Q step down with the full year being 100 basis points higher than last year.
+
+Operator
+
+Our next question comes from the line of Michael Binetti with Evercore.
+
+Michael Binetti
+Evercore Inc.
+
+I guess just if I look at the marketing, you kind of lowered the -- you came in a little lower than you were thinking for the quarter and you lowered the outlook for the year a little bit. Any reason to cut it back while sales are decelerating a little bit after July and into the ongoing tough compares? And I guess as you look at fourth quarter, how much of it is already -- how much of the marketing budget has already been deployed that we see reflected in the October numbers that you gave us, Jesse, relative to what's still on the come ahead? I could imagine maybe there's some pretty impactful marketing as you guys look to the growth.
+
+And then just one on AOV. I think you said third quarter like-for-likes were up mid or maybe even approaching high single digits and AOV was up 1. So it seems like the category mix down is maybe low to mid-single digits. And then the like-for-likes, you said approach, I think, double digits in the fourth quarter. Is the mix down effect similar on AOV in the fourth quarter? Or any moving parts there that we can think about as we try to triangulate around the AOV?
+
+Jesse Timmermans
+Chief Financial Officer
+
+Yes. I think we need to see -- sorry, I'll start with the last question. I think we need to see how the mix plays out in Q4, but that definitely was the offset to the price increases was that mix shift across categories. And then also a little bit of REVOLVE FWRD mix shift with REVOLVE outpacing the higher price point FWRD.
+
+Michael Karanikolas
+Co-Founder, Co-CEO & Chairman of the Board
+
+Yes. And on the marketing side, I can speak to the budget high level and then Michael can speak maybe to some more specific elements, including to the extent we can reveal anything upcoming. So from a budget standpoint, we actually did find good opportunities and spend a bit more aggressively on the performance marketing side. But there were some shifts on the brand marketing budget due to timing of events and kind of other factors there that led us to come in a little bit under.
+
+So with brand marketing, it's always very timing-driven and opportunity driven in terms of where the spend comes in, in a given quarter. So that's why we saw that spend in Q3. And again, we're very happy with the results, huge margin gains, double-digit gross profit gains. So we felt like we didn't need to press the marketing budget further than was necessary.
+
+Michael Mente
+Co-Founder, Co-CEO & Director
+
+And quickly to note that in Q4, we do have something exciting coming up. So we can't wait to share. I think we're maybe just about a month away. So super excited there. The one thing, though, that we found is that if we choose store locations well, we don't have to market as aggressively. There's -- we're putting our stores where we know our customers already are. So there will be some, of course, activation for store opening, but it won't be on the scale that you'll expect from us on the digital basis on a global scale. But we do have something exciting cooking this quarter as well as a lot in 2026 that we're very excited to share with you guys.
+
+Michael Binetti
+Evercore Inc.
+
+Okay. If I could sneak one more in on the international business. It's getting close to maybe be in 1/4 of the business or so maybe next year, pretty material. I know you've added a lot to the customer experience and some logistics there. Can you speak to where you are today on the contribution margin from a sale in international versus U.S.? Is that gap closing today? And is there much opportunity to improve that?
+
+Jesse Timmermans
+Chief Financial Officer
+
+Yes. Yes. The gap is fairly tight there. Shipping, of course, is much higher internationally, but there's other puts and takes like a lower return rate. So still very healthy contribution margin. But to your point, there's always opportunity. The team does a great job at continuing to optimize last-mile shipping channels and also the customer experience and localizing things even more to get better rates across those variable line items. And then a good example, maybe just a very finite example, but that would be that owned brand collaboration that we did in China where the product is produced there, you don't ship it to the U.S. and then ship it back. So excited to see more of that to come.
+
+Operator
+
+Our next question comes from the line of Janine Stichter with BTIG.
+
+Janine Hoffman Stichter
+BTIG, LLC, Research Division
+
+Congratulations on the good quarter. I wanted to go back to the owned brand improvement a little bit. Can you help us contextualize what the year-over-year increase looks like in Q3 versus Q2? And then maybe just put into context where the owned brand penetration sits now versus historical and how you see that unfolding over the next few quarters as we get the benefits of SRG and it sounds like some other launches in the pipeline.
+
+Jesse Timmermans
+Chief Financial Officer
+
+Yes. Thanks, Janine. We don't get too specific on the quarterly dynamics around owned brand growth or mix. Obviously, it grew faster than the overall business given that increase in the penetration. Last year, we were about 20% of mix, and we've seen good increases in the last couple of quarters. So expect to see an increase there this year, not as much as we would expect to see into next year given that SRG just launched and we have some other exciting things coming up. So we do expect to see a pretty good clip of increased mix there in the coming quarters.
+
+Operator
+
+Our next question comes from the line of Anna Andreeva with Piper Sandler.
+
+Anna Andreeva
+Piper Sandler & Co., Research Division
+
+Great. Congrats. Nice results. We wanted to follow up on higher returns. Could you just elaborate on that a bit more? Was that seen across any specific categories? And what's driving higher returns again in the fourth quarter? Do you guys think there's still an opportunity for improvement as we look into next year?
+
+And then just as a follow-up, so looking at the category performance that you disclosed in the Q, it looks like the handbags, shoes and accessories is what slowed to negative low singles. Can you just elaborate more on that? What's driving that? And do you expect that category to bounce back here in the fourth quarter?
+
+Michael Karanikolas
+Co-Founder, Co-CEO & Chairman of the Board
+
+Yes. So speaking to return rates in Q3 and some of the increases we saw there, I'd say there are a couple of factors. There's a little bit of mix shift, and you mentioned some negative mix shift in what typically are lower return rate categories. We also started to see some of the higher AURs with Q3 new product flow in. And generally, there's a bit of an inverse relationship on return rate and I should say a direct relationship on return rate and price.
+
+And then the last thing is we did see -- some of our marketing channels, we started to see them kind of stand out in terms of unusually high increases in return rates on some of those channels. And so that's something that we're diving into and we hope is an opportunity to kind of correct what's going on with those channels.
+
+Looking into Q4, of course, the comp is even tougher, and there's going to be continued focus on margin and some more price increases going in there. So we think it's going to be a tough compare in Q4. But looking forward beyond Q4, we definitely have things in the pipeline that we're working on that hopefully can continue to drive those longer-term reductions in return rates that we saw over the past year, and we're hopeful we can get some more of them.
+
+Jesse Timmermans
+Chief Financial Officer
+
+Yes. And then on the handbag, shoes, accessories, that mix skews higher on FWRD and REVOLVE, and on FWRD is where we saw more of the impact from that promotional shift in the markdown algorithm. So that is a piece of it, and we would expect that to rebound in the quarters ahead.
+
+Anna Andreeva
+Piper Sandler & Co., Research Division
+
+That makes a lot of sense. Can I just follow up? The markdown optimization tool sounds pretty exciting and early days of that. Can you guys just talk about how that should manifest as we go through next year, it just sounds like there could be some nice upside from that.
+
+Jesse Timmermans
+Chief Financial Officer
+
+Yes. Yes, we're very pleased with the optimization there and a very healthy inventory balance. So that sets us up well as we head into 2026. Now we will face the comps as we enter kind of that midpoint of 2026 when we started to layer in that shift in the markdown or that optimization in the markdown algorithm in 2025. So I wouldn't expect to see such massive year-over-year improvements on that, but a good steady baseline on margin. And great to see FWRD at nearly 45% margin, and our target has been to get that consistently in the 40s. So to be in the mid-40s, really encouraging. And on top of a healthy inventory balance, we feel good about where we're positioned there.
+
+Operator
+
+Our next question comes from the line of Nathan Feather with Morgan Stanley.
+
+Kavya Narayanan
+Morgan Stanley, Research Division
+
+This is Kavya Narayanan on for Nathan Feather. Really impressive EBITDA performance. Given the success in tariff mitigation throughout the third quarter at current rates, are you expecting tariffs to be an incremental headwind into the fourth quarter or 2026?
+
+Jesse Timmermans
+Chief Financial Officer
+
+Yes. No, we're very pleased with the mitigation efforts by the team. They've been working really hard on this. So it's really good to see that margin result come through this quarter. I wouldn't say we're expecting any incremental headwinds with all the mitigation efforts. And then also China has come down to an incremental 30% from what was 145% at some time in Q2. And that has the potential, we'll see if it actually goes through, but to come down from an incremental 30 to an incremental 20 as they cut that APA kind of fentanyl tariff from 20 to 10. So I think if anything, hopefully, and potentially a net benefit from where we stand today. And then we mentioned it on previous calls, some of the mitigation efforts that we've implemented have the potential to actually increase margin over the long term. So we could see some benefit in the out quarters.
+
+Operator
+
+Our next question comes from the line of Jay Sole with UBS.
+
+Jay Sole
+UBS Investment Bank, Research Division
+
+Mike, I think you mentioned in the FWRD business, you've managed it to drive gross margin and maybe somewhat at the expense of sales. Can you just talk about the REVOLVE business, how you manage that? Did you also sort of look to drive more gross margin in the quarter? And if so, sort of can you describe the thinking behind that strategy?
+
+Michael Karanikolas
+Co-Founder, Co-CEO & Chairman of the Board
+
+Yes, 100%. So in both businesses, there was a decision to focus more on driving margin versus sales growth. Obviously, we want to deliver both, and we fell short of where we'd like to be on the sales side. But overall, we're really pleased with the combination of the efforts and again, resulting in double-digit gross margin gains. And on REVOLVE, we saw really nice gross margin gains as well. But again, some of that does come in a little bit of sales expense.
+
+Jay Sole
+UBS Investment Bank, Research Division
+
+And it sounds like you feel like on the FWRD side that when you reset the gross margin higher by adjusting promotions and adjusting price. And it sounds like you feel like that's a sustainable level where once you get to that point, you take a sales impact, but then going forward, you can maintain that level and grow sales on top. Is that how you think about it? Or am I sort of reading into it too much?
+
+Michael Karanikolas
+Co-Founder, Co-CEO & Chairman of the Board
+
+Yes. No, no, that's certainly the hope and the expectation. Now FWRD is always going to be a bit more volatile business than REVOLVE in terms of the quarter-to-quarter gross margin. And so it's not necessarily going to be a straight path, but we feel like this is a great step towards where we want to be, and it's our absolute expectation that we want to stay here and average these levels over the mid- to longer term. And so that's what we're focused on.
+
+Jay Sole
+UBS Investment Bank, Research Division
+
+Got it. And if I could just ask one more about your owned brands. Is there -- is the opportunity that you see based at all on some merchandising angle where maybe some of your partners, your third-party brands aren't sort of creating products in certain categories where you know your consumer wants something where you can fulfill that need with your owned brands. What is it about what you can do with private label that maybe you're not getting from the other brands? If you could elaborate on that a little bit, that would be helpful.
+
+Michael Mente
+Co-Founder, Co-CEO & Director
+
+Yes, it's ranging. Sometimes we find product that we can't find from our third-party brands, and we will create it ourselves. Sometimes we see that certain zones are very, very interesting and our customer loves it, and they want more. So we'll pursue that as well. The other ability on the owned brand side is to combine our design and manufacturing with our incredible brand building and marketing capabilities. So that has been very, very, very fruitful. We've seen incredible short term, near term and LTV numbers from our owned brands as well. So it is a huge, huge and powerful lever that the team has been really focused for quarter in, quarter out for many, many years to deliver the improved results quarter after quarter and very excited about the path ahead. There's a lot cooking right now, exciting new launch in Q4 and a lot to come in 2026.
+
+Operator
+
+Our next question comes from the line of Peter McGoldrick with Stifel.
+
+Peter McGoldrick
+Stifel, Nicolaus & Company, Incorporated, Research Division
+
+I was curious on the state of the consumer. It seems you struck a balance between markdowns despite macro volatility. So I was hoping you could help us think about the health of your core consumer in the U.S. And then if there's anything to add about any of the international markets or new consumer behavior to add to that?
+
+Michael Karanikolas
+Co-Founder, Co-CEO & Chairman of the Board
+
+Yes. So we think the health of the consumer is still generally good from the numbers that we're seeing. We are seeing certainly like some pockets of weakness and strength. So generally, we were a bit stronger with some of the higher income segments this quarter and the lower income, a little bit of weakness, but nothing dramatic. Some regional differences, the government shutdown in the surrounding areas there, D.C., Maryland, Virginia, like a little bit of weakness there. But in general, the consumer still feels still feel strong, but it does feel like we're in an environment where there's risk that, that changes or drops off. But so far, we're continuing to see decent signs from the consumer.
+
+Peter McGoldrick
+Stifel, Nicolaus & Company, Incorporated, Research Division
+
+That's good to hear. Go ahead, Jesse.
+
+Jesse Timmermans
+Chief Financial Officer
+
+Yes, I was going to follow up on your international question. I think we talked about it in the prepared remarks that kind of the standouts were Europe, Middle East, Africa and within Europe, strong results out of Germany, Netherlands, Switzerland, countries like that. So really encouraged by that. And then we mentioned that China as well the Mainland China, up 50% on REVOLVE. So really pleased with the progress on the REVOLVE side of the business in China.
+
+Peter McGoldrick
+Stifel, Nicolaus & Company, Incorporated, Research Division
+
+Appreciate that. And then I did want to follow up on Jay's question and the answer where you pointed to the balance between managing growth and margin. I was curious if there's a permanent shift in the strategy for which you approach the business or if this is sort of a onetime item?
+
+Michael Karanikolas
+Co-Founder, Co-CEO & Chairman of the Board
+
+Yes. No, there's not a permanent shift in the strategy. Quarter-to-quarter, depending on where we see the opportunities, things might shift a bit, and this was certainly a more dramatic move this quarter. But it's still our goal and focus to drive double-digit plus top line gains while improving margins, particularly net EBITDA margins over time and getting those back into the double-digit range. And so the dynamics just play out a bit different in the current quarter where we saw a lot more of the gains on the margin side.
+
+Operator
+
+[Operator Instructions] Our next question comes from the line of Mary Sport with Bank of America.
+
+Mary Sport
+BofA Securities, Research Division
+
+Could you provide an update on how your beauty category is performing and how you're thinking about that opportunity moving forward? And then I guess, how much of that customer do you expect to be new versus an existing customer?
+
+Michael Mente
+Co-Founder, Co-CEO & Director
+
+Yes. Beauty is quite strong. Yes, performing at double-digit growth rates. We try not to disclose too much detail there, but very optimistic there. It is very, very early in our journey there, where our selection is starting to get very exciting, and we're leaning into further developments in the business, most notably the customer experience online as well as beginning to finally aggressively market. So early stages, great progress, a long road map ahead. And long term, we think that this could be a very, very, very significant portion of our business.
+
+Operator
+
+We have no further questions at this time. I will now turn the call back to management for closing remarks.
+
+Michael Mente
+Co-Founder, Co-CEO & Director
+
+Thanks for joining us today. And most importantly, thank you to the team for the excellent execution this quarter. The profitability numbers and cash flow numbers are something we all should be very, very proud of. We always preach that in challenging environment, breaths lots of opportunity, and it's clear that we're ready for this opportunity this quarter and the quarters ahead. Very excited to join you guys in 3 months from now and show you where we're up to.
+
+Operator
+
+Ladies and gentlemen, this concludes today's call, and we thank you for your participation. You may now disconnect.

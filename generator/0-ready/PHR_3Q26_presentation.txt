@@ -1,0 +1,113 @@
+Phreesia, Inc. (PHR) Q3 2026 Earnings Call December 8, 2025 5:00 PM EST
+
+Company Participants
+
+Balaji Gandhi - Chief Financial Officer
+Chaim Indig - Co-Founder, CEO & Director
+
+Conference Call Participants
+
+Sean Dodge - BMO Capital Markets Equity Research
+Scott Schoenhaus - KeyBanc Capital Markets Inc., Research Division
+Jailendra Singh - Truist Securities, Inc., Research Division
+Brian Tanquilut - Jefferies LLC, Research Division
+Ryan Daniels - William Blair & Company L.L.C., Research Division
+Ryan MacDonald - Needham & Company, LLC, Research Division
+Richard Close - Canaccord Genuity Corp., Research Division
+Daniel Grosslight - Citigroup Inc., Research Division
+Jeffrey Garro - Stephens Inc., Research Division
+John Ransom - Raymond James & Associates, Inc., Research Division
+Jessica Tassan - Piper Sandler & Co., Research Division
+Joseph Vruwink - Robert W. Baird & Co. Incorporated, Research Division
+Clark Wright - D.A. Davidson & Co., Research Division
+
+Presentation
+
+Operator
+
+Ladies and gentlemen, thank you for standing by. My name is Abby, and I will be your conference operator today. At this time, I would like to welcome everyone to the Phreesia Third Quarter Fiscal 2026 Earnings Conference Call.
+
+[Operator Instructions] Thank you. And I would now like to turn the conference over to Balaji Gandhi, Chief Financial Officer. You may begin.
+
+Balaji Gandhi
+Chief Financial Officer
+
+Thank you, operator. Good morning, and welcome to Phreesia's earnings conference call for the third quarter of fiscal 2026, which ended on October 31, 2025. Joining me on today's call is Chaim Indig, our Chief Executive Officer.
+
+A more complete discussion of our results can be found in our earnings press release and in our related Form 8-K submission to the SEC, including our quarterly stakeholder letter, both issued after the markets closed today. These documents are available on the Investor Relations section of our website at ir.phreesia.com. As a reminder, today's call is being recorded, and a replay will be available on our Investor Relations website at ir.phreesia.com following the conclusion of the call.
+
+During today's call, we may make forward-looking statements, including statements regarding trends, our anticipated growth, our strategies, predictions about our industry and the anticipated performance of our business, including our outlook regarding future financial results and acquisitions.
+
+Forward-looking statements are subject to various risks and uncertainties and other factors that may cause our actual results, performance or achievements to differ materially from those described in our forward-looking statements. Such risks are described more fully in our earnings press release, our stakeholder letter and our risk factors included in our SEC filings, including in our quarterly report on Form 10-Q that will be filed with the SEC tomorrow.
+
+The forward-looking statements made on this call will be based on our current views and expectations and speak only as of the date on which the statements are made. We undertake no obligation to update and expressly disclaim the obligation to update these forward-looking statements to reflect events or circumstances after the date of this call or to reflect new information or the occurrence of unanticipated events.
+
+We may also refer to certain financial measures not in accordance with generally accepted accounting principles, such as adjusted EBITDA and free cash flows in order to provide additional information to investors. These non-GAAP measures should be considered in addition to and not as a substitute for or in isolation from our GAAP results.
+
+A reconciliation of GAAP to non-GAAP results may be found in our earnings release and stakeholder letter, which were furnished with our Form 8-K filed after the market closed today with the SEC and may also be found on our Investor Relations website at ir.phreesia.com.
+
+I will now turn the call over to our CEO, Chaim Indig.
+
+Chaim Indig
+Co-Founder, CEO & Director
+
+Thank you, Balaji, and good evening, everyone. Thank you for joining our third quarter fiscal 2026 earnings call. I'm very proud and thankful of our team, the work they do for our clients and their contribution to another solid quarter of growth and profitability. Balaji will review some of the highlights of our results and update our outlook. Before I hand it off to Balaji, I'd like to frame our view of Phreesia's next 3 years for all of you.
+
+Today, we have a large network of health care providers, who rely on Phreesia's products and services. We also have new emerging products that extend our reach in ways that is consistent with our mission to make care easier every day. We believe these emerging products will enable us to sustain growth and enhance stakeholder value. I'd like to highlight 2 of the product areas we are excited about.
+
+First, provider financing. It's no secret that patient financial responsibility has been rising in this country, and we expect this trend to continue. People can't afford to pay their bills all at once. Our platform has enabled us to track this trend for years. For health care providers, this means more patient balances go unpaid, payment cycles get longer and providers carry more financial risk. Hospitals and health systems have seen the number of days cash on hand declined by 28% since 2022.
+
+As a result, providers need tools to convert patient receivables into predictable cash flow. Patient balances often take years to resolve, which creates working capital pressure for providers. Our financing solutions improved days cash on hand and decrease days outstanding. Financing or payment plan programs can significantly improve the patient experience and affordability and decreases the need to use credit cards or a home equity line.
+
+Our expansion into the provider financing market through the acquisition of AccessOne helps us solve this large and growing problem with a market-leading solution. We believe we have a new growth lever to complement our existing solutions for providers and are excited about this opportunity.
+
+The second emerging market for us is Health Care Provider or HCP marketing. HCP engagement is a natural extension of the offering that works so well to engage patients. We help providers and life sciences partners engage patients just before key visits, where important health decisions are made, supporting behavioral change in positive measurable outcomes.
+
+Now we're extending that same proven playbook to engage health care providers in addition to patients. This positions Phreesia to participate in a multibillion dollar HCP digital marketing opportunity, while leveraging the trusted relationships and infrastructure we've already built.
+
+Our approach differentiates Phreesia by closing the loop between patient and provider engagement. Because we're embedded in clinical workflows, we help coordinate consumer and HCP messaging, ensuring that both are prepared for upcoming appointments, reaching physicians with relevant evidence based information before they see the right patient, not weeks or months later.
+
+Our ability to align both sides of the care conversation is something we believe no one else in the market can do as comprehensively as Phreesia. Our acquisitions are central to our ability to understand, reach and engage health care providers. MediFind brings deep insights into appointments with active providers in specialty care patterns, helping us identify when specific clinicians need information about specific conditions or treatments based on their upcoming appointments.
+
+ConnectOnCall. Now PhreesiaOnCall, along with our voice AI capabilities, allow us to introduce high-value enrollments directly into the provider workflow. Together, these assets create a premium endemic offering and help us reach a broad set of providers in the natural flow of care, not just when they're off the clock. This new initiative plays into our strength.
+
+We have 2 decades of experience working with thousands of provider organizations in the top 10 pharma companies, earning a reputation for performance, compliance and truly consultative partnerships. By making HCP activation available within that same trusted ecosystem and centered on real care encounters we believe it will deepen our relationship with both providers and life sciences clients while adding a durable, differentiated revenue stream to Phreesia's growth story.
+
+We look forward to updating you on these 2 important initiatives when we speak on 2026. I'll now turn it over to Balaji to walk through the Q3 results, our updated outlook for fiscal 2026 and an initial view into fiscal 2027.
+
+Balaji Gandhi
+Chief Financial Officer
+
+Thank you, Chaim. Let me start with a quick review of our fiscal third quarter. Total revenue was $120.3 million a 13% increase year-over-year. Adjusted EBITDA was $29.1 million, an increase of $19 million year-over-year and $7 million quarter-over-quarter. We achieved another major milestone this quarter with our adjusted EBITDA margin reaching an all-time high of 24%, representing an improvement of 5 percentage points quarter-over-quarter and 15 percentage points year-over-year.
+
+For fiscal third quarter G&A expense line included a onetime G&A tax benefit, which increased adjusted EBITDA by $900,000. Third quarter Average Healthcare Services Clients or AHSCs came in at 4,520, an increase of 53 from the prior quarter. This performance was in line with our expectations and we believe we are on track to reach 4,500 Average Healthcare Services Clients or AHSCs for the full fiscal year.
+
+Meeting this target implies adding approximately 70 clients in the fiscal fourth quarter, excluding the impact from the AccessOne acquisition. Total revenue per AHSC was $26,622, up 6% year-over-year. The steady year-over-year increase in total revenue per AHSC is consistent with our expectations and a key element of our growth strategy that we have been discussing for several quarters.
+
+We are pleased with the continued progress of this metric as it has returned to the levels as seen in the third quarter of fiscal 2022 and reflects our focus on improving returns on investment and attach rates of our collective offerings across our 3 revenue streams. Net income remained positive at $4.3 million this quarter, representing our second consecutive quarter of delivering positive net income.
+
+Our fiscal third quarter results reflect the continued momentum in both our revenue growth and operating leverage. I'm incredibly proud of the team's disciplined execution and focus, which again enabled us to deliver strong financial performance, while staying true to our mission and values. I also want to acknowledge all the Phreesians played a role in successfully closing the AccessOne acquisition, and I joined Chaim in welcoming our new colleagues from AccessOne.
+
+Now turning to the balance sheet and cash flow. We ended the quarter with $106.4 million in cash and cash equivalents. This compares to $98.3 million in the prior quarter. Operating cash flow was $15.5 million, up $9.7 million year-over-year. Free cash flow was $8.8 million, up $7.2 million year-over-year. We have now achieved positive operating cash flow and free cash flow for 5 consecutive quarters. We expect the magnitude of improvement on a quarter-to-quarter basis to vary based on specific timing of invoicing and payments, which you can see in working capital, along with CapEx.
+
+A footnote on the balance sheet. As you look ahead to the fourth quarter, the AccessOne purchase price was funded with approximately $53 million of cash and a $110 million secured bridge loan entered into on the closing date of the acquisition. You can find more information about our bridge loan in our 8-K filing from November 12. We expect to refinance or replace the bridge loan with a long-term credit facility.
+
+Before moving into our updated financial outlook for fiscal 2026 and new outlook for fiscal 2027, let me provide a few highlights on AccessOne. AccessOne provides financing solutions that help health care providers reduce patient accounts receivable and accelerate cash flow. Its technology integrates directly into provider workflows, giving providers the tools to offer flexible payment solutions to their patients.
+
+We expect AccessOne will add approximately 80 AHSC on an annualized basis. AccessOne manages a portfolio of approximately $450 million and providers typically operate under either a funded or an unfunded model. In the funded model, providers receive cash upfront. In the unfunded model, providers are paid as patients make payments.
+
+In both models, the health care provider retains most of the financial risk, not AccessOne. The funded model is offered to clients through AccessOne's relationship with PNC Bank. Across these models, AccessOne generates a blended take rate that averages 4% to 12% on its managed portfolio, depending on the type of provider and the mix between funded and unfunded programs.
+
+Operating costs, including those associated with the PNC Bank relationship, range from 65% to 75% of revenue. Now transitioning to our updated financial outlook. Let's start with fiscal 2026. We are updating our revenue outlook for our fiscal year 2026 to a range of $479 million to $481 million compared to our prior range of $472 million to $482 million.
+
+The updated outlook includes approximately $7.5 million of revenue contribution from AccessOne between the close date and our fiscal year-end date. The update reflects our latest views on AccessOne's performance, since the closing on November 12 and the progress we have made to date in the selling season for network solutions. We are updating our adjusted EBITDA outlook for fiscal year 2026 to a range of $99 million to $101 million, an increase from our prior range of $87 million to $92 million.
+
+This revised outlook includes the expected adjusted EBITDA contribution from AccessOne from the date of closing through the end of our fiscal year. We want to remind you from a modeling perspective, as you think about the quarter-over-quarter progression of adjusted EBITDA -- at the third quarter includes a onetime G&A expense tax benefit of $900,000, and the fiscal fourth quarter is typically burdened by higher payroll taxes as we begin the new calendar year.
+
+We are updating our outlook for AHSCs to approximately 4,515 for the full fiscal year 2026, up from our prior expectation of 4,500. This revised outlook reflects the addition of approximately 15 AHSCs from AccessOne between the close date and our fiscal year-end. Additionally, we continue to expect total revenue per AHSC in fiscal '26 to increase from fiscal 2025.
+
+Moving on to fiscal 2027 consistent with our prior years, we are introducing our early outlook on revenue, adjusted EBITDA, AHSCs and revenue per AHSC for fiscal year 2027. For fiscal year 2027, we expect revenue to be in the range of $545 million to $559 million. We anticipate that AccessOne will contribute approximately 6.5% of our fiscal 2027 total revenue outlook.
+
+We expect adjusted EBITDA for fiscal 2027 to be in the range of $125 million to $135 million. In fiscal 2027, we expect AHSC to grow in the mid-single-digit percentage range and total revenue per AHSC to grow double-digit percent.
+
+Operator, I think we can now open up the lines for the Q&A session.
