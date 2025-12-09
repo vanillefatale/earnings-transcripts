@@ -1,0 +1,154 @@
+Global Business Travel Group, Inc. (GBTG) Q3 2025 Earnings Call November 10, 2025 9:00 AM EST
+
+Company Participants
+
+Jennifer Thorington - Vice President of Investor Relations
+Paul Abbott - CEO & Director
+Karen Williams - Chief Financial Officer
+
+Conference Call Participants
+
+Lee Horowitz - Deutsche Bank AG, Research Division
+Duane Pfennigwerth - Evercore ISI Institutional Equities, Research Division
+James Goodall - Rothschild & Co Redburn, Research Division
+Stephen Ju - UBS Investment Bank, Research Division
+Toni Kaplan - Morgan Stanley, Research Division
+
+Presentation
+
+Operator
+
+Good morning, and welcome to the American Express Global Business Travel Third Quarter 2025 Earnings Conference Call. [Operator Instructions]. Please note today's call is being recorded.
+
+I'll now turn the call over to Vice President of Investor Relations, Jennifer Thorington. Please go ahead.
+
+Jennifer Thorington
+Vice President of Investor Relations
+
+Hello, and good morning, everyone. Thank you for joining us for our third quarter 2025 earnings conference call. This morning, we issued an earnings press release, which is available on sec.gov and our website at investors.amexglobalbusinesstravel.com. A slide presentation, which accompanies today's prepared remarks is also available on the Amex GBT Investor Relations web page.
+
+We would like to advise you that our comments contain certain forward-looking statements that represent our beliefs or expectations about future events, including industry and macroeconomic trends, cost savings and acquisition synergies, among others. All forward-looking statements involve risks and uncertainties that may cause actual results to differ materially from the statements made on today's conference call. More information on these and other risks and uncertainties is contained in our earnings release issued this morning and our other SEC filings.
+
+Throughout today's call, we will also be presenting certain non-GAAP financial measures such as adjusted gross profit, adjusted gross profit margin, EBITDA, adjusted EBITDA, adjusted EBITDA margin, adjusted operating expenses, free cash flow and net debt. All references during today's call to such non-GAAP financial measures have been adjusted to exclude certain items. Definitions of these terms and the most directly comparable GAAP measures and reconciliations for non-GAAP measures are available in the supplemental materials of this presentation and in the earnings release.
+
+Participating with me today are Paul Abbott, our Chief Executive Officer; and Karen Williams, our Chief Financial Officer. Also joining for the Q&A session today is Eric Bock, our Chief Legal Officer and Global Head of M&A.
+
+With that, I will now turn the call over to Paul. Paul?
+
+Paul Abbott
+CEO & Director
+
+Thank you, Jennifer. Welcome to everyone, and thank you for joining our third quarter 2025 earnings call.
+
+In the third quarter, we delivered outstanding results. Here are the highlights. Total transaction value or TTV grew 23%. Revenue growth accelerated to 13%. Adjusted gross profit margin was 60%. Adjusted EBITDA grew 9%. We generated $38 million of free cash flow, and we continued to win share with $3.2 billion in total new wins value over the last 12 months.
+
+Finally, year-to-date through November 6, our strong performance has enabled us to return $54 million to shareholders through share buybacks. These results reflect 2 things. First, continued strong execution within our core business, which performed in line with our expectations and is tracking in line with the midpoint of our previous full year guidance.
+
+Second, incremental growth from the acquisition of CWT, which closed on September 2. This is an important milestone for growth and value creation. As Karen will discuss in more detail, we are raising our full year 2025 guidance. This reflects the acquisition of CWT, and we are reaffirming the midpoint of our previous guidance range for our core business. Importantly, we also have the confidence to provide preliminary expectations for 2026.
+
+Before we get into the quarterly details, I want to explain why this is such an important moment for our business with multiple levers for growth and value creation in place. We continue to demonstrate the strong execution in our core business. Proof points include our very high customer retention rate, significant new wins value, disciplined operating leverage and strong cash generation. We are consistently delivering on our commitments.
+
+We have made bold moves to transform Amex GBT into a software-driven leader in travel and expense. We've now reached an exciting moment with several significant milestones achieved that we expect will accelerate growth and margin expansion.
+
+First, we closed the acquisition of CWT, a global business travel and meeting solutions company. This transaction immediately grows our top line substantially, and we are already executing on the $155 million synergy target to create significant shareholder value.
+
+Second, we recently announced a long-term strategic alliance with SAP Concur to strengthen our value proposition, accelerate growth and develop a larger expense revenue stream.
+
+Third, we expect to launch a next-gen Egencia Travel and Expense solution in Q1 2026, including full integration into SAP Concur Expense and a new AI-powered booking experience.
+
+Fourth, we have an enormous runway in the SME space with even stronger products and distribution to continue to win share.
+
+And finally, we are driving AI to further accelerate the digital transformation of our business. Putting it all together, we have a significant long-term opportunity for consistent double-digit adjusted EBITDA growth and margin expansion, and we look forward to sharing more at our March 2026 Investor Day.
+
+Turning to CWT. We are delighted to welcome CWT customers and employees to Amex GBT. This transaction grows revenues by approximately 30%, grows our SME business by approximately 20% and brings in new industry verticals to Amex GBT. This is a highly accretive transaction.
+
+We expect to deliver approximately $155 million in net cost synergies over the next 3 years, and we have a proven track record of achieving synergy targets. Our experienced integration team has made good progress in the first 60 days, and we expect to achieve $55 million of synergies in 2025 and 2026.
+
+Importantly, this transaction diversifies our shareholder base. CWT shareholders, which are primarily investment funds, now own approximately 10% of the combined company, and our leverage stays within the target range of 1.5x to 2.5x.
+
+Turning to our new long-term strategic alliance with SAP. Let me first describe how significant this alliance is, and then I will share 2 new ways that our customers and suppliers will benefit. SAP is the world's largest provider of enterprise application software. To put some numbers on it, 98 out of the 100 largest companies in the world are SAP customers and approximately 80% of SAP's customers are SMEs.
+
+SAP Concur is the world's largest travel and expense software solution with over 104 million users. By joining forces, we will deliver a step change in our travel and our expense capabilities.
+
+First of all, we are co-developing a new solution called Complete, a new flagship solution for travel and expense that will offer an AI-powered user experience. Complete features include richer content, a booking experience that will feel like shopping on your favorite website, one app for everything end-to-end and a seamless customer support from industry leaders. We launched last week to the first customers, so the impact is already starting now.
+
+Second, we are integrating SAP Concur Expense with Egencia. This is exciting because it will provide our Egencia customers a seamless travel and expense experience. And additionally, the strategic alliance creates the opportunity to accelerate our growth by marketing a new flagship solution to the large SAP customer base.
+
+In Q1 2026, we plan to launch a next-gen Egencia Travel & Expense solution. It will feature SAP Concur expense integration, new Agentic AI search capabilities and a redefined customer experience. Egencia is our all-in-one travel and expense platform that continues to compete very effectively against other software solutions.
+
+Egencia is already operating at scale with approximately $8 billion of TTV in the last 12 months, over 90% online transactions and approximately 7,000 corporate customers, all supported by world-class service from American Express GBT.
+
+Furthermore, it has gross margins that are higher than our average and very importantly, it is profitable and generating cash. We have an unrivaled value proposition for SMEs. savings, control and service. This strong value proposition drives profitable growth in the over $800 billion SME segment and an estimated $625 billion of the global SME opportunity is unmanaged, representing a long runway for future growth.
+
+Over the last 12 months, excluding CWT, our SME new wins totaled $2.2 billion. With the enhancements that we're making to our products and our sales strategy, we think we can further accelerate new wins and capture more share with SME customers. Our overall total new wins value also remained strong at $3.2 billion with an impressive customer retention rate of 95% over the last 12 months, excluding CWT.
+
+Finally, when it comes to AI, we are a clear beneficiary. AI is delivering results, increasing revenue, conversion and productivity. Let me give you some examples. The Egencia AI experience is solving customers' needs faster and delivering savings. Egencia Chat powered by AI is driving a 23% reduction in the need for human intervention in chats.
+
+Our AI-powered hotel dynamic rate cap delivers average savings of approximately $60 per booking for Egencia customers. And AI is increasing hotel attachment rates, which provides increased revenue opportunity with 85% of booked hotels chosen from the top 10 AI-driven display.
+
+We're also driving AI to deliver cost savings and margin expansion. We've previously spoken about the significant opportunity with travel counselor productivity. Excluding CWT, over 40% of our calls are now assisted by AI, driving efficiency gains. And we've seen a 40% quarter-over-quarter increase in daily users of our internal AI productivity tool called AI Assist. This results in a 60% adjusted gross profit margin in the third quarter with significant runway for continued margin expansion. And we continue to increase the share of digital transactions, which now totals 82% with over 60% on our proprietary software platforms.
+
+Now let's turn back to the third quarter and the financial highlights. Last quarter, we talked about green shoots that gave us confidence in an improved corporate travel demand environment, and that is exactly what we saw. TTV, which reflects both volume and price, grew 23% to reach $9.5 billion, driven by CWT and 9% growth in the core business.
+
+The core growth was driven primarily by higher average ticket prices and hotel room rates in addition to transaction growth and a favorable FX impact. Transaction growth was up 19%, driven by the 1-month contribution from CWT post close and 4% growth in the core business. Within the 4%, same-store sales were up 2% and our net new wins drove 2 percentage points of growth.
+
+Revenue was up 13% to reach $674 million. Excluding CWT, revenue growth of 3% was in line with our expectations and largely in line with transaction growth, which drives the majority of our revenue model.
+
+Finally, adjusted EBITDA grew 9% to reach $128 million. Excluding CWT, underlying adjusted EBITDA growth was 5%, which was in line with expectations and outpaced revenue growth as a result of our continued focus on driving margin expansion and operating leverage.
+
+Going forward, Amex GBT and CWT are one business. But we wanted to give you the breakout between our core business and the impact of CWT this quarter to help you understand the underlying performance.
+
+And now I'd like to hand it over to Karen to discuss the financial results and the updated outlook in more detail.
+
+Karen Williams
+Chief Financial Officer
+
+Thank you, Paul, and hello, everyone. Before we get into the specifics for the quarter, I want to reflect on the progress we have made in Q3. I am incredibly pleased with our continued momentum in driving the business forward.
+
+We delivered financial results for the core business that were in line with expectations. We closed on CWT and are already making outstanding progress on the integration. And we executed on our share repurchases to deploy capital in a disciplined, value-accretive manner. We continue to deliver on our commitments.
+
+So let's turn to our financial performance in more detail. Revenue reached $674 million, up 13% year-over-year. Travel revenue increased 10% due to the acquisition of CWT, underlying transaction and TTV growth and favorable foreign exchange impact. Product and professional services revenue increased 23% from the acquisition of CWT as well as strong growth from dedicated client revenues and consulting.
+
+Excluding CWT, transaction growth of 4% was in line with our expectations. TTV growth of 9% had an additional 3 percentage points benefit from higher average ticket prices and 2 percentage point benefit from FX. As a reminder, transactional growth drives 50% of our revenue and TTV drives 30%. The core revenue growth of 3%, was very much in line with our expectations for the quarter.
+
+Now it's important to note that our core business revenue guidance of 5% at the midpoint for the second half, which we're reiterating today, assumed lower growth in Q3 versus Q4 due to phasing. If you look specifically at our revenue yield, it declined 40 basis points year-over-year, driven by the prior year baseline, hence, why I would encourage you to look at H2 rather than the quarter in isolation.
+
+And from a year-to-date perspective, revenue yield is trending in line with our full year guidance, which is down less than 20 basis points, excluding CWT due to the intentional continued shift to digital transactions and the fixed components of our revenue.
+
+So moving to expenses. We continue to drive strong momentum with our focus on driving efficiency and increasing productivity. We are introducing adjusted gross profit margin as a key metric this quarter, which we believe helps measure the success of our automation and AI initiatives and makes us much more comparable to other software-led companies.
+
+Adjusted gross profit margin was 60% in the quarter, down modestly due to the impact of CWT, but up 70 basis points for the core business. Importantly, we believe there is a runway for this to go up significantly over time. Adjusted operating expenses were up 14% year-over-year, largely reflecting incremental costs driven by the acquisition of CWT.
+
+Excluding CWT, adjusted operating expenses were up 3% in the quarter. And on a constant currency basis, adjusted operating expenses grew slower than revenue for the core business, reflecting our continued focus on driving productivity and efficiency gains. And as a reminder, we expect to drive $110 million of cost reductions in 2025, partially offset by the $50 million in investments we are making to drive growth, and I am pleased to say we are on track with both of these.
+
+Putting it together, adjusted EBITDA grew 9% to $128 million. Our adjusted EBITDA margin was 19%, down 70 basis points year-over-year due to the impact of the CWT acquisition. Although the combination with CWT's lower-margin business will temporarily step down our margins on a blended basis, we are confident in the path to return to and then far surpass prior levels, thanks to the significant synergies, additional efficiency potential and scalable revenue growth for the combined businesses.
+
+Excluding CWT, our adjusted EBITDA margin was up 40 basis points. And again, I encourage you to look at core business margin expansion of 120 basis points year-to-date instead of the quarter in isolation due to phasing.
+
+As Paul mentioned, we wanted to provide this financial detail on the core business versus CWT impact to be helpful. However, going forward, we will be operating reporting as one business. We generated $38 million of free cash flow in the quarter, which declined year-over-year, largely due to the impact of CWT. Free cash flow generation for the core business, excluding CWT, was $54 million, down modestly year-over-year due to investing in the business.
+
+Finally, I am incredibly proud of the strength of our balance sheet, our leverage ratio or net debt divided by last 12 months adjusted EBITDA is 1.9x, up slightly from last quarter, given our funding of the cash portion of the CWT acquisition, but still below the midpoint of our target leverage range of 1.5x to 2.5x.
+
+With such a strong balance sheet, we are in a position to continue executing on our capital allocation priorities, including additional opportunistic M&A while returning cash to shareholders through share repurchases. Year-to-date through November 6, we have repurchased $54 million of shares. Our share buyback reflects our confidence in the underlying strength of the business and our commitment to driving long-term shareholder value.
+
+Now taking a closer look at CWT, this is an incredible synergy story. We have a clear path to a bottom line synergy opportunity of $155 million, entirely driven by what we can control, which is costs. We have significant savings by consolidating the cost base of CWT and Amex GBT, including a large opportunity with AI and automation. This is a highly accretive transaction with a 3.5x multiple on synergies alone.
+
+We have previously shared we expect to achieve approximately 35% of our total $155 million synergy target in year 1. While I'm pleased to share we are tracking in line with the expectations we have previously shared. We expect to deliver $55 million in synergies across 2025 and 2026, split between $5 million and $50 million, respectively. These actions primarily include workforce reductions, real estate consolidation and vendor savings. We have a clear and established playbook for M&A.
+
+I will now share 2 examples of that track record of highly accretive acquisitions and significant value creation. With HRG in 2018, we added approximately 24% incremental revenue with approximately $80 million in synergies. And with Egencia, in 2021, we added approximately 24% incremental revenue with approximately $110 million in synergies. This proven track record gives us confidence in our ability to deliver the identified synergies from CWT.
+
+Now moving to guidance. We are very pleased to raise and narrow our full year 2025 guidance to reflect the acquisition of CWT, which closed on September 2, 2025. There are no changes to our expectations for the core business. We are confident in the midpoint of our previous guidance. We are now guiding to full year 2025 revenue of $2.705 billion to $2.725 billion, which reflects approximately 12% year-over-year growth and adjusted EBITDA of $523 million to $533 million. Versus our previous guidance midpoint, this is $227 million increase in revenue with a $5 million increase in adjusted EBITDA, all driven by the CWT overlay.
+
+CWT assumptions for Q4 included an impact on our government business from the current U.S. government shutdown and a continuation of current trends for domestic travel. Please note that CWT is not currently baked into consensus or any sell-side analyst estimates. So this is all extremely exciting top line growth that is not currently reflected in any of the numbers out there and therefore, entirely incremental.
+
+Looking at free cash flow, we now expect to generate free cash flow of $90 million to $110 million. At the midpoint, the $50 million change in free cash flow guidance is driven by the cash impact of CWT. Excluding the cash impact of CWT and approximately $60 million in onetime M&A-related cash costs, we would expect to generate approximately $210 million in underlying free cash flow for the core business.
+
+And so turning to next year, we also want to share our preliminary expectations for full year 2026 to help you set up your models now that we have closed the CWT acquisition.
+
+We have made bold moves to transform Amex GBT into a software-driven leader in travel and expense. We have now reached an exciting moment with several significant milestones achieved that we expect will accelerate growth. We expect to continue to demonstrate strong execution in our business with significant new wins, disciplined operating leverage, delivering on the CWT synergies, introducing our new flagship complete T&E product with SAP, rolling out our industry-leading next-gen Egencia T&E solution and continuing to drive productivity and efficiency across the enterprise whilst investing in the business.
+
+Our guidance philosophy continues to be based on the trends that we have seen. Our preliminary expectations for full year 2026 is 19% to 21% revenue growth and adjusted EBITDA of $615 million to $645 million, which represents growth of 16% to 22% year-over-year. And as usual, our official full year 2026 guidance will be provided on our next earnings call in early March.
+
+I want to end on why we are so excited about our future and the long-term outlook for the company. We have reached a critical moment with the CWT acquisition and the additional levers for long-term growth and value creation. We have a clear path to consistent double-digit adjusted EBITDA growth, margin expansion and free cash flow conversion, which we will use to drive continued shareholder value. We look forward to providing more detail on the opportunity we see ahead at our Investor Day in March.
+
+So we can move into Q&A. Paul and I are joined by Eric Bock, who is our Chief Legal Officer and Global Head of M&A. Operator, please go ahead and open the line.

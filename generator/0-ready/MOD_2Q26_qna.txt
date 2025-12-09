@@ -1,0 +1,312 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] And our first question will come from Matt Summerville with D.A. Davidson.
+
+Matt Summerville
+D.A. Davidson & Co., Research Division
+
+Can you maybe first -- on the Climate side of the business, can you maybe first parse out year-over-year margin contraction on sort of what was data center driven, what was mix driven and what those headwinds were maybe providing a bridge in basis points? And then sort of more of a definitive sort of layout in terms of how you get back to "normal" in fiscal fourth quarter, which I would assume implies 21%-ish at the segment level. And then, Mick, in your prepared remarks, you also added color on a comment that Climate has the potential going forward to punch well above historical profitability. So maybe if you could frame that? And then I have a follow-up.
+
+Michael Lucareli
+Executive VP & CFO
+
+Yes. Neil, do you want me to take it first? Yes. Matt, thanks for the question. So if we start first with your Q2 question, as we break down the margin, if we want to talk about basis points, the biggest portion of the margin in the quarter was on the data center expansion side, about 225 to 250 basis points on the data center side, and that was about $10 million to $12 million of higher costs really split between labor and overhead, a little bit of material in there, and Neil can talk a little bit more about that.
+
+And then on the HTS side, last year, we had some really large heat pump settlements, if everyone would recall after the market downturn, that was about 125 basis points. And then on the HVAC Technologies and kind of other, it was about 100 basis points. HVAC Technologies was mostly a mix issue and some start-up integration costs on the acquisitions. So that's the breakdown of Q2. Neil and I can give you a walk to -- as we get to Q3 and Q4, before I turn it back to Neil, the thing I would -- you asked at the end about beyond.
+
+So when we give you the walk, we are building capacity to not only get to our goal of the $2 billion, but we'll have capacity to produce more than that. That's not running every plant 3 shifts, 7 days a week. Obviously, once we get to normal production levels and you move -- start moving towards full capacity, the incremental margins are quite high. So that's why I said once we get to normalized levels -- production levels, we'll get to more normal EBITDA margins for CS and then beyond very high incremental or variable contribution rates. Neil, maybe I'll turn it back to you on how we're looking at Q3 and Q4.
+
+Neil Brinker
+President, Interim President of Performance Technologies, CEO & Director
+
+Yes. The piece that I'll add to that is that we expected some level of launch costs. I mean that's to be expected. We added over 1,200 people into the organization over the last few months. Those are a little -- it turned out to be a little bit more -- a little higher than what we anticipated, but we have to understand root cause and what that is, and we do understand that. Essentially, we had such high demand and expectations for our customers to pull in dates and ship product early that we had to divide our resources, and we went with multiple launches at once.
+
+So we recognize the impact of that. We recognize the cost of that. And we have now reverted back to the standard launch process, which is more controlled. We have the right amount of specialists on the job in terms of how we do it. We're leveraging 80/20 for scheduling and lead times, and we've got better alignment around our customer expectations and schedules. So we try to do something a little bit different to meet the demand. We try to do something a little bit different to launch faster to help support our customer schedules, and it was costly to do that.
+
+Matt Summerville
+D.A. Davidson & Co., Research Division
+
+Appreciate that color. If I can stay in -- yes.
+
+Michael Lucareli
+Executive VP & CFO
+
+Just quick to -- you asked about the ramp too. The step-up, we talked about some improvement in Q3 and then you had asked -- I want to make sure we address. You asked about getting back to a 20-plus percent type level in Q4. For us, implied guidance, about 90% in the second half, we do see sequential growth. So the growth rate continuing to improve. And for us to get to our Q3 targets, we probably need $40 million to $50 million of incremental capacity coming online.
+
+And that's -- if we have 2-plus chiller lines, we're good there. To get to Q4 another $75 million to $100 million of volume revenue capacity, and that would be roughly a minimum another 5 chiller lines. And we can cover that with you guys online or offline. A lot of you know those plans. We're on track. And that doesn't include sales of any other products, air handlers or on the modular side. But if you're thinking about that ramp up, it's really bringing on fully producing at least 2 lines in Q3 and then another 5 lines, talking chillers only in Q4.
+
+Matt Summerville
+D.A. Davidson & Co., Research Division
+
+Super helpful, I appreciate all that detail. I want to stay inside the data center business for my follow-up, 90 days ago, you mentioned establishing a data center sort of goal approaching $2 billion in fiscal '28. Now you're talking about a number over $2 billion just 90 days later. Did something change with order activity, funnel, customer acquisition? And ultimately, as you get to the tail end of this capacitation journey, both in North America and now in the U.K., where will your capacity actually be? And should we be thinking about maybe something a bit materially higher than $2 billion in '28 based on what I'm describing there?
+
+Neil Brinker
+President, Interim President of Performance Technologies, CEO & Director
+
+Yes. Thanks, Matt. What's changed in the last 90 days is definitely. The order and the funnel rates. And we're seeing more demand. We're seeing our relationships with our customers continue to evolve in a great way and the aperture in terms of the scheduling and the outlook has widened to where we can see more, and it gives us more confidence to continue to deploy CapEx. So that's what has changed.
+
+We've seen it with not only expanding our product lines and what we have today, but also new products that we're going to market with and launching. One example of those would be our modular data centers. So that -- the market looks pretty promising, and we feel that we have the right technology to support it, and we feel we have the right time lines to meet the customer demands, and it's just confidence, giving us more confidence in terms of where we're at.
+
+Operator
+
+And our next question comes from David Tarantino with KeyBanc Capital Markets.
+
+David Tarantino
+KeyBanc Capital Markets Inc., Research Division
+
+So I just want to follow up on the margin commentary. Just what gives you the confidence that margins should normalize going into 4Q beyond just the accelerated capacity just given investments should continue? And I know it's further out, but how should we think about margins as it relates to the longer-term targets that you laid out as you accelerate the rate of production here? Is the 4Q implied run rate a sustainable way to think about kind of the longer-term margins?
+
+Neil Brinker
+President, Interim President of Performance Technologies, CEO & Director
+
+Yes. So thank you, David. A few things, right? We're doing a lot of -- there's a lot of new, new products, new process, new plant, new people. And that's not efficient most of the time in these launches, and we recognize that. But every time we do this for every product that we ship, we learn from it. And when we learn from it, that's going to make us better.
+
+So as we work through the Grenada launch, we work through our Rockbridge launch in data centers, we learned a lot that we know that we can apply those lessons learned as we continue to roll out more chiller lines, for example, or more modular lines in different facilities in different factories. So it's the learning. It's the ability to get more efficient. It's our expertise in terms of design, design for manufacturability, design for quality, all those things that we're getting better at as we launch gives us the confidence that we'll improve the margins as we move out later in the calendar year.
+
+Michael Lucareli
+Executive VP & CFO
+
+Yes, David, the only thing I would add is that margin improvement is twofold, building what Neil said. So if you think about the challenges of starting a new facility or a new line. So one, I'd say our mature data center regions and plants are operating at margins at or above the segment. And we knew as we hold more volume into existing stable facilities, we could get the margin higher. Then as we launch a new greenfield, there's fixed cost absorption issues just to get to a scale to cover the incremental fixed cost.
+
+And then what Neil also covered in some of these cases where we've had extra labor or training, you have inefficiencies. So the message and how the ramp will work is we are -- as the new lines come on, we are now bringing on more volume to leverage our fixed costs. And as we get better at it, the negative on a normal conversion is inefficiency. We're also shipping away it and improving our processes. So it's a volume and a lean initiative, if you want to think about it that way.
+
+David Tarantino
+KeyBanc Capital Markets Inc., Research Division
+
+And I want to follow up on Matt's second question, just given the acceleration in investments here, how are we thinking about this as it relates to the shape of the growth longer term to get to the targeted above $2 billion in sales by fiscal 2028. And I just want to clarify that, that is kind of a slight raise versus prior expectations? And if so, where -- what is the new target in terms of sales capacity in terms of the investments you're making?
+
+Neil Brinker
+President, Interim President of Performance Technologies, CEO & Director
+
+Yes. We -- I mean, we haven't come out with a specific number. We're always going to give ranges. But again, the order profiles, the new product launches, the new product development that we're working on, new regions that we see that are timed perfectly for our execution in terms of how we launch these facilities and factories and deploy the CapEx. So we just have a lot of visibility, and there's a lot of interest and there's a lot of desire for our products because of the technologies.
+
+We've put ourselves in a really good position over the last few years where we've acquired the right technologies. We've developed the right technologies. We've built the relationships with all the major hypers, neocloud providers, colocation providers. They're generally growing at pretty good rates. So we have -- our funnel continues to grow, which gives us the further confidence to deploy capital and to hire people to launch products.
+
+Operator
+
+And moving next to Chris Moore with CJS Securities.
+
+Christopher Moore
+CJS Securities, Inc.
+
+Let's stay with data centers. So when you've talked about data centers in the past in terms of Modine's positioning, expected growth, one of the consistent themes has been you're focused on providing a relatively small subset of the market, exceptional products and services. So when you think about, just for example, $2 billion data center target in fiscal '28, just trying to get a sense as to how you view the total addressable market in calendar '27. I mean is $2 billion, is that 10% of the available HVAC market? Is it a bigger percentage of that? Just trying to understand kind of where that puts Modine in the overall kind of structure of the HVAC market on the data center side.
+
+Neil Brinker
+President, Interim President of Performance Technologies, CEO & Director
+
+Sure. Thank you for that. Around $2 billion -- and remember, the TAM is going to continue to grow as we've seen the amount of CapEx that's being deployed in the data center market across the board. So your TAM is expanding. And are we expanding at a similar rate. We're growing above the market. We're growing faster than the market. So we're gaining share. So we were single digit, low single digit when we started this journey. Last year, we got into double digit, low double digits. And if we get into the $2 billion range with some assumptions that we've made on market size and what that available market is that we can address, it probably puts us anywhere between 15% and 20% at that point, Chris.
+
+Christopher Moore
+CJS Securities, Inc.
+
+And maybe just my follow-up. Recognizing you don't necessarily look at your data center solutions discretely, air cooled versus liquid cooled. When you talk again about the $2 billion target, how do you view the relative contribution of air versus liquid at that level?
+
+Neil Brinker
+President, Interim President of Performance Technologies, CEO & Director
+
+Well, you need both in this space today. It requires both. They complement one another. But where we're seeing a lot of the growth and where we're seeing a lot of the demand with our closest customers is with the deployment of AI. So it's going to require a great chiller product, which we have. It's going to require the air cooling products that we have to help augment it and CDUs as well. So we're seeing the growth, and a lot of the growth is coming from AI expansion.
+
+Michael Lucareli
+Executive VP & CFO
+
+And on the margin, there's a relatively consistent margin profile across the product suite. Obviously, service is at the highest end, and we get a lot of questions on that. That will grow as our installed base grows over time, but the contribution margin is relatively consistent across our product suite.
+
+Operator
+
+Our next question comes from Noah Kaye with Oppenheimer.
+
+Noah Kaye
+Oppenheimer & Co. Inc., Research Division
+
+I mean so much focus today on these margins and the incrementals, certainly for good reason. I may want to ask a different way. Is the right way to think about what's going on here that you've largely front-loaded a lot of the investments associated with the multiyear capacity ramp and that perhaps starting with 4Q, we started to see more normal incrementals in CS and specifically in data center. If that's the case, even though you're opening more plants over the coming years, again, what gives you confidence that we can see that kind of level of normal incrementals based off of the specific products that you're making and the configuration of the lines that you're setting up?
+
+Michael Lucareli
+Executive VP & CFO
+
+Do you want me to take that? Yes. Noah, it's Mick. Well, probably the best example we can give if we look at the last year, where 1.5 years ago or before that, we moved and we launched production of chillers in North America for the first time. And last year on the data center side, we were able to generate margins that were in line with the rest of the segment or the rest of our data center business. And if I recall, we had a quarter or 2 a really high margin on leveraging that volume, and we had a nice improvement last year. It really is about -- and Neil is talking about this, it's a rinse and repeat of products, existing products that we know how to make and doing that in a disciplined manner.
+
+Challenges can become when you're making a new product in a new location. But we're basically -- it's a copy paste of what we've been doing in the U.K. and in North America. So the bigger -- again, the bigger issue, like you said, for the first 6 months, it's literally getting the building, the equipment and then bringing in everyone and training them and bringing in all the materials. And then there's still a practice and an improvement as you launch. That to me is the biggest hurdle. And then once that's done, then we've been doing this for 10 years. We know what the profit margins will be.
+
+Noah Kaye
+Oppenheimer & Co. Inc., Research Division
+
+Yes. So then to put a finer point on it, what should incrementals look like as we get into '27?
+
+Michael Lucareli
+Executive VP & CFO
+
+Early to say in '27, but what I would say on incrementals is typically at a gross profit line, we'd be looking at a 30% type incremental gross profit to each dollar of sales when we're running at existing facilities, and we're adding more volume.
+
+Noah Kaye
+Oppenheimer & Co. Inc., Research Division
+
+And then just to ask one question on PT, bringing Jeremy and getting some traction on margin improvement. Maybe just talk a little bit about current focus areas for the business and any update on the divestiture process?
+
+Neil Brinker
+President, Interim President of Performance Technologies, CEO & Director
+
+Yes. Certainly, it's a great resource to have having Jeremy on board, and he's going to continue to drive the same playbook that we've been driving, continue stabilizing the business, making sure that we are running the business as efficiently as possible, stay close to our customers, continue to build out the order funnel -- the order and the funnel. So when we start to see some market recovery, we're put in a really good position that we can execute on platforms and programs that we've won through our innovation and technology. So it's the same playbook, and he's going to be able to accelerate that and bring some more structure around it.
+
+Noah Kaye
+Oppenheimer & Co. Inc., Research Division
+
+And any update on the divestitures or we save that for another call?
+
+Neil Brinker
+President, Interim President of Performance Technologies, CEO & Director
+
+Business as usual there. I mean we're always looking strategically in terms of what our best options are. I think we've got a pretty good history and a trend that through product line strategies that we can execute on those year-over-year. You've seen that over the last few years, and I'm pleased with where we're at in terms of the progress of that today.
+
+Operator
+
+We'll go next to Brian Drab with William Blair.
+
+Brian Drab
+William Blair & Company L.L.C., Research Division
+
+Just given that we just touched on the Performance Technologies there, what are you seeing, Neil, in those end markets, off-road, on-road, demand for your components in those end markets over the next 12 months?
+
+Neil Brinker
+President, Interim President of Performance Technologies, CEO & Director
+
+Yes. We've been in this cycle for quite some time. I mean it's been 1.5 years. These cycles typically can last anywhere from 1.5 years to 2 years. And really following the trends and the announcements of the large OEMs to position ourselves for when there is a rebound in the market. So we're tracking that closely with our customers, the largest OEMs. We're looking at their inventory levels. We understand what programs we're on and where we can facilitate and turn on manufacturing faster, but it's -- we're reading the end markets through our OEMs at this point.
+
+Brian Drab
+William Blair & Company L.L.C., Research Division
+
+Okay. And my sense there is that it's stabilizing. I mean, would you agree with that? Or do you think there's another way...
+
+Neil Brinker
+President, Interim President of Performance Technologies, CEO & Director
+
+Yes. I think there's some recent reports, as of today that suggest there could be some stabilization and that the inventory levels are right. Those are early indicators. I'd like to see a trend first. But yes, that's fair.
+
+Brian Drab
+William Blair & Company L.L.C., Research Division
+
+Okay. There's -- no surprise, I'm going to ask a question on data center. So there's some massive projects, obviously, happening all around the world. And I'm just wondering, specifically in the U.S., some of these massive projects, I assume you'll be part of. Is there -- are you seeing any -- in some different regions where you don't have manufacturing capacity, maybe close enough to the site or service capability close enough to the site that have come up in the last several months where you're saying, okay, we're going to be -- we won this business, we're probably going to have to set up some new capabilities closer to one of these massive sites kind of like -- I think you're doing in Texas.
+
+Neil Brinker
+President, Interim President of Performance Technologies, CEO & Director
+
+Yes, it's a fair question. And yes, you're correct. There's opportunity to expand globally. Priority one is the United States. I mean that is where our biggest customers are. That is the biggest market, that's half the global market. We've got to make sure that we're executing and we're delivering on the products that are desired in this industry today, which we provide that improve total cost of ownership, improve power use effectiveness, improve water use effectiveness. We need to do that in the U.S. We need to do that well. And that's what we're working on.
+
+We've also launched in India recently. So we did our first pilot build there, and that new India facility will help us with our customers as they grow and not only in India, but in Southeast Asia as well. So that's another area that we have a disparate team that's focused on that, that is going to launch and follow our customers per their request. And then we're also seeing demand in Europe as well. We have our facilities there. We can support Europe. We're adding another chiller line there. We added a facility there last year, another 400,000 square foot facility to help expand and grow in Europe.
+
+And then lastly, we're seeing large opportunities, and we're communicating with potential customers with large -- in large region, particularly in the Middle East. So we have won some orders there. We've been able to service those orders out of our Spanish -- out of our Spain facility. And at some point in time, would we make some investments there, potentially. But with the current capacity that we have, we can serve the Middle East through India as well as Spain, and we're pretty comfortable with that. But definitely, we're global. Definitely, we see the reach. We see expansion, probably the biggest programs and projects outside the United States and Europe, we're seeing is in the Middle East.
+
+Brian Drab
+William Blair & Company L.L.C., Research Division
+
+Okay. And then just one more on that topic. Inside the U.S., when you won this opportunity in Texas, it came -- my impression was that it came kind of suddenly and was just this incredible opportunity that presented itself. Have you had any other situations like that or maybe as a result of that one, where there's -- you've had another giant project come your way over the last -- I guess, since we talked to you last on the 1Q call.
+
+Neil Brinker
+President, Interim President of Performance Technologies, CEO & Director
+
+Yes, yes. I mean we see -- for sure. And we're seeing these things, and it's -- we're on earlier stages. We're in earlier stages, and we have more ability to have influence as well.
+
+Operator
+
+[Operator Instructions] And we'll go next to Jeff Van Sinderen with B. Riley Securities.
+
+Jeff Van Sinderen
+B. Riley Securities, Inc., Research Division
+
+Just since we're on the topic, in the data center area, is there any more color you can provide on maybe how customer concentration is evolving? You mentioned some other new customers you might pick up. I think at one point; you spoke to one -- there was one hyperscaler that you maybe didn't have yet as a customer. Has that converted to a customer? Are there still major new customers pending that could further increase demand? And then also just curious on the modular product demand, how that's progressing?
+
+Neil Brinker
+President, Interim President of Performance Technologies, CEO & Director
+
+Yes. Thanks for that question. We have great relationships with the hyperscalers, and we're building relationships with -- we're building further along with some of our new hyperscalers. We're advancing our products. We're advancing our discussions that gives us confidence that we can grow those. So if we think about the 5 major hypers today, 2 of them are the majority of what we do today. So there's a lot of expanding and expansion that can happen now that we have the networks inside the other 3 and now that we have the technical specs and capabilities that we've been able to prove and meet with them.
+
+So there's a lot of expansion just within the hypers today. And then you can expand outside of that with the neocloud providers. I think we've been very successful with one neocloud provider that gives us the ability to -- it's proven our capabilities that driven genuine interest with the others. And then geographically, we talked about some other areas that there are going to be some large players where we can expand. So certainly, there's the ability to do that. And the only reason why we have that ability is because we have the products and now, we have the relationships with the biggest -- with some of the biggest data center providers in the world.
+
+Jeff Van Sinderen
+B. Riley Securities, Inc., Research Division
+
+And then I think you mentioned in some of your earlier comments about having a wider aperture and generally improving visibility for the data center product demand. How far out can you see in the data center business at this point? And I know sometimes maybe customers pull sooner than you think. I think you spoke to that a little bit. What does demand for the data center solutions look like if you go out a year or 2 years or as far as you can see?
+
+Neil Brinker
+President, Interim President of Performance Technologies, CEO & Director
+
+Well, you're right. So some of these things are pretty urgent and sudden and they can be -- we want to do the best we can to please our customers, especially our largest ones. So those are things that we have a pretty quick reaction and we're very quick to react in terms of being able to produce and get that product out, albeit inefficiently, we can at least drive the revenue growth and satisfy the customers' demand.
+
+But when that's not the case, and you have -- it's more strategic and you're working with customers that are thinking about where they're going to advance and where they want to move and deploy capital. We can see anywhere from 3 to 5 years out. And I would say with the majority of our largest customers, we have that visibility. And that's really helpful in terms of allowing us to make sure that we're strategically deploying capital in the right places and that we're adding the facilities and factories in the right regions.
+
+Jeff Van Sinderen
+B. Riley Securities, Inc., Research Division
+
+And then...
+
+Neil Brinker
+President, Interim President of Performance Technologies, CEO & Director
+
+I mean one example of that is what we did in India, right? I mean that was in place. We talked about that a year ago, and we want -- the major driver to move and have facilities and capacity in India was because our customers ask for it. They specifically said, hey, we're going to be here in a couple of years, and we need your help and support. Are you guys willing to invest in that region? So that's a good example of the outcome of having these conversations years in advance so that we can have the facility up in time.
+
+Jeff Van Sinderen
+B. Riley Securities, Inc., Research Division
+
+Right. So in other words, you're not going someplace with a new facility where there might not be demand, you're really -- you're building to demand.
+
+Neil Brinker
+President, Interim President of Performance Technologies, CEO & Director
+
+Correct. For the -- yes, we're building to demand and the demand is high. There's great demand for our products. There's the technology and the solutions are premium in the marketplace, and we see it. And that's why we're deploying the amount of CapEx that we are.
+
+Jeff Van Sinderen
+B. Riley Securities, Inc., Research Division
+
+Okay. And then if I could just squeeze in one more. Just on the CDU part of your business, I guess, how do you see the liquid cooling business evolving? Maybe does that become a concentration business for you? How much of the business do you think liquid cooling could comprise, I don't know, a couple of years out?
+
+Neil Brinker
+President, Interim President of Performance Technologies, CEO & Director
+
+Yes, that's specific direct-to-chip liquid cooling. All of our products can apply in the liquid cooling space. You need our products for that. The air cooling solutions will apply in the liquid cooling space. If you get direct-to-chip, CDUs are certainly beneficial and helpful. I continue to see that market evolve. I think there's been some new technologies in that space. I think there's some interesting areas that we've helped our customers in terms of providing different ways of doing that. And you can see some of those announcements out there. So we'll have a product.
+
+There will be customers that need it, but not everybody in order to do liquid cooling. And it's just one more -- it's one more product in an ever-evolving suite of products that we have. And we'll always try to do it in a way to differentiate. So it's not a me-too product. So we'll do it a unique custom bespoke CDU for our customers tied to our firmware and software. So it does things that others can't do, and it's differentiated. But again, it's just one more product in a series of products that we have that continue to evolve.
+
+Operator
+
+And we have a follow-up question from David Tarantino with KeyBanc Capital Markets.
+
+David Tarantino
+KeyBanc Capital Markets Inc., Research Division
+
+Could you just give us some color on the range of outcomes you embedded within the ramp implied in the second half? Just kind of what's inside and outside of your control in terms of hitting both the sales and margin targets this year.
+
+Michael Lucareli
+Executive VP & CFO
+
+Yes. We really tried to take it, as we always do, David, down the middle. We've got, as Neil said, one of the challenges we're trying to balance is the demand has increased. Neil has said this before multiple times, but the more we can make, the more we can sell. So we've aligned to internal targets that we're stretching to get to from a manufacturing, and we've pulled those back and both with customers, so we don't disappoint them and with guidance where we've tried to kind of strike down the middle.
+
+On the other side, you always have risk that you have a hiccup with a line or some more inefficiencies. But I would say, as we look at it now, we try to go right down the middle. In addition, we talked a lot about the chiller ramps. The other areas where we're getting equal right opportunities for more [indiscernible] on the air side. And certainly, a lot of customers are interested on the modular side, even though those are early days. And those are things we've tried to balance -- keep to balance out the chiller launch risk as well.
+
+David Tarantino
+KeyBanc Capital Markets Inc., Research Division
+
+And then maybe one more, if I may. Just on HVAC technology and the weakness there. Could you break out kind of the underlying trends between the core business and the recent deals and how we should expect this to progress through the balance of the year on both the top and margin lines?
+
+Neil Brinker
+President, Interim President of Performance Technologies, CEO & Director
+
+Yes. I think generally, the acquisitions are on target. They're doing what we would expect them to do. The indoor air quality business is performing well. It's in line with what we expect at market rate. And what we're entering now is what we call our heat season. This is -- the next couple of quarters for the heat business is going to be big for us. So that's the traditional Modine heaters as well as the L.B. White acquisition. This is the time of year where we start to see our customers and distributors really start to draw on our inventory levels.
+
+Michael Lucareli
+Executive VP & CFO
+
+Yes. And just a quick couple of numbers on that to help you out in, as we look at the total segment for CS in there with the acquisitions, we would assume HVAC Technologies would have growth -- total growth well over 40%, 45%. And organically, that would be mid- to high single-digit organic with the balance being from the acquisition.
+
+Operator
+
+And that does conclude our question-and-answer session. I would now like to turn the conference back to Kathy Powers.
+
+Kathy Powers
+VP of Investor Relations & Tax and Treasurer
+
+Thank you, and thanks to everybody for joining us this morning. The replay will be available through our website in about 2 hours. Thanks.
+
+Operator
+
+Ladies and gentlemen, thank you for your participation. This does conclude today's teleconference. You may disconnect your lines and have a wonderful day.

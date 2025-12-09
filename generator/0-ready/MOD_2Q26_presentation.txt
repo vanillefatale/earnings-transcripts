@@ -1,0 +1,101 @@
+Modine Manufacturing Company (MOD) Q2 2026 Earnings Call October 29, 2025 11:00 AM EDT
+
+Company Participants
+
+Kathy Powers - VP of Investor Relations & Tax and Treasurer
+Neil Brinker - President, Interim President of Performance Technologies, CEO & Director
+Michael Lucareli - Executive VP & CFO
+
+Conference Call Participants
+
+Matt Summerville - D.A. Davidson & Co., Research Division
+David Tarantino - KeyBanc Capital Markets Inc., Research Division
+Christopher Moore - CJS Securities, Inc.
+Noah Kaye - Oppenheimer & Co. Inc., Research Division
+Brian Drab - William Blair & Company L.L.C., Research Division
+Jeff Van Sinderen - B. Riley Securities, Inc., Research Division
+
+Presentation
+
+Operator
+
+Good morning, ladies and gentlemen, and welcome to the Modine Second Quarter Fiscal 2026 Earnings Conference Call. [Operator Instructions] As a reminder, this conference call is being recorded. I would now like to turn the conference over to your host, Ms. Kathy Powers, Vice President, Treasurer and Investor Relations. Please go ahead.
+
+Kathy Powers
+VP of Investor Relations & Tax and Treasurer
+
+Good morning, and welcome to our conference call to discuss Modine's second quarter fiscal 2026 results. I'm joined by Neil Brinker, our President and Chief Executive Officer; and Mick Lucareli, our Executive Vice President and Chief Financial Officer. The slides that we will be using for today's presentation are available on the Investor Relations section of our website, modine.com. On Slide 3 of that deck is our notice regarding forward-looking statements. This call will contain forward-looking statements as outlined in our earnings release as well as in our company's filings with the Securities and Exchange Commission. With that, I'll turn the call over to Neil.
+
+Neil Brinker
+President, Interim President of Performance Technologies, CEO & Director
+
+Thank you, Kathy, and good morning, everyone. Last quarter, we announced plans to significantly expand our U.S. manufacturing capacity for data center products. We are continuing to invest in our fastest-growing businesses and are actively advancing the strategy. In fact, we are accelerating other planned investments to meet the unprecedented demand for our products.
+
+Our Climate Solutions segment continues to deliver, posting a 24% increase in revenue. This includes contributions from our 3 acquisitions earlier this year: AbsolutAire, L.B. White and Climate by Design International. As we integrate these businesses, we are applying 80-20 principles to drive value by improving margins, increasing capacity utilization and unlocking commercial opportunities to cross-sell into new markets. Bringing these respected brands into the Modine portfolio not only broadens our product offerings but also brings scale to HVAC Technologies.
+
+Excluding these acquisitions, organic sales increased 15% from prior year, driven primarily by a 42% increase in data center sales. Over this past quarter, we've made substantial progress on our capacity expansion. I'm pleased to report that we have officially launched chiller production in our Grenada, Mississippi facility. In total, we plan to have 5 chiller lines in Grenada and are currently producing on 2 of these lines. We are working on getting the incremental production lines in place and are on schedule to launch full production by the end of this fiscal year.
+
+We've also made good progress in Franklin, Wisconsin and Jefferson City, Missouri. Franklin is scheduled to launch initial production of data center products this quarter, with volumes ramping through Q4. We will have 4 chiller lines in Jeff City, with the first 2 launching the fourth quarter and the remainder planned for later next fiscal year.
+
+The final site for our expansion has been secured in Grand Prairie, Texas just outside of Dallas. This facility is planned to fully come online early next fiscal year and will have 5 chiller lines. Both the Franklin and the Dallas locations are being designed for flexible manufacturing with the ability to produce multiple products that can be flexed based on demand. Both facilities will be able to produce modular data centers, which we see as a great opportunity.
+
+We've made initial shipments to 1 customer and are currently working through some design modifications. In addition, we are in early stages of discussions with others, including both hyperscaler and neocloud customers. We are excited to be able to support our strategic customers with innovative products that offers rapid deployment and scalability. We are making good progress overall, but current hurdles include the hiring and training of the workforce, which is a heavy lift for the organization.
+
+In total, we've hired 1,200 employees to support data centers so far this year, including temporary and contract workers, and talent we've strategically redeployed from our Performance Technologies segment. This added significant additional cost this quarter, with little incremental revenue, resulting in temporary margin erosion in Climate Solutions. We expect this to continue in Q3 and then improve in Q4 when volumes begin to ramp. We expect a significant jump in revenue between Q3 and Q4 driven by new capacity coming online.
+
+Outside the U.S., we successfully launched production of data center products at our new Chennai, India facility. This strengthens our ability to serve customers in the APAC region with locally manufactured product. Furthermore, we are planning to expand chiller capacity in the U.K. to support demand for both hyperscaler and colocation customers in Europe. This incremental capacity is anticipated to come online early next fiscal year.
+
+I currently see a path to deliver more than 60% revenue growth in data center this year on our way to achieve over $2 billion in revenues in fiscal 2028. This year marks a period of major investment in our data center businesses, driven by strong market demand. This is hard work for our organization, and we are addressing challenges and making adjustments along the way.
+
+In addition, this represents a major transition for the business, evolving from a low-volume, high-mix manufacturing operation to a high-volume producer. This is not a shift in strategy as we remain committed to serving as a premium, highly customizable provider. However, we will now be able to deliver these specialized products at scale to meet the needs of our largest customers.
+
+This is important as large data centers, especially those specializing in AI applications, require our products to be delivered at a much greater rate than we have historically provided. Fortunately, Modine is highly capable of ramping scale production on highly engineered product designs. A competency, we have honed over many years with our Performance Technologies business. This expertise is also why we have been successful in leveraging internal resources to support these critical projects.
+
+We have the right team in place, and we are hyper focused on execution to deliver these innovative products our customers require. I want to stress again, this is a very heavy lift for the data center team, but I remain confident in our ability to execute, meeting our targets and customer commitments. Please turn to Page 5. Our end markets and Performance Technologies segment continues to be challenged, but actions we've taken in response to these conditions are having a positive impact.
+
+Although revenues this quarter were down 4% from the prior year, adjusted EBITDA was up 3%. The segment adjusted EBITDA margins increased by 90 basis points, primarily due to the cost control measures we've taken out over the past few quarters, including actively reallocating resources to the Climate Solutions segment. We are monitoring market conditions closely, and we will continue to make adjustments as necessary. I'm pleased to announce that the segment is now being led by Jeremy Patten, who joined our team as the President of Performance Technologies segment last month.
+
+Jeremy's previous experience with transformational change with an 80/20 mindset makes him uniquely qualified to take on the challenges and opportunities ahead. I'm happy to welcome Jeremy to the team and have confidence that he will continue the momentum created over these past quarters to drive margin improvement as we transform this portfolio. I'm extremely proud of the hard work being done in both segments to drive towards our vision of evolving our portfolio in pursuit of highly engineered mission-critical thermal solutions.
+
+This is creating a great deal of organizational change and a heightened level of complexity. This includes integrating 3 acquisitions, expanding capacity across multiple locations around the globe to support data center growth and exploring strategic divestiture opportunities in Performance Technologies. We are moving people into new roles in support of these plans and are incurring temporary cost increases to support future growth. Although we will encounter obstacles along the way, this team is up for the challenge, giving me further confidence in our ability to reach our long-term targets. With that, I'll turn the call over to Mick.
+
+Michael Lucareli
+Executive VP & CFO
+
+Thanks, Neil, and good morning, everyone. Please turn to Slide 6 to begin reviewing the Q2 segment results. Climate Solutions delivered another quarter of strong revenue growth with a 24% increase in sales. Driving this growth was data centers, which grew $67 million or 42%. HVAC Technologies increased $17 million or 25%, driven by inorganic sales from our recent acquisitions. This was partially offset by lower indoor air quality sales and lighter preseason stocking orders for heating products. Heat Transfer Solutions grew 2% or $3 million due to higher volume with commercial refrigeration and coatings customers.
+
+Climate Solutions second quarter profit margins were lower than normal and adjusted EBITDA declined 4%. I want to review a few temporary factors that contributed to the decline this quarter. The largest impact was due to significant investments relating to the data center capacity expansion, including direct and indirect labor and overhead expenses needed to build out new production lines and facilities. As Neil previously covered, we're expanding production lines at several existing locations while also preparing to launch a few new facilities.
+
+These actions are required to meet the growing customer demand for Modine products and more than double our revenue. While we expect to see sequential revenue growth in Q3, we won't begin to realize significant volumes in the new production facilities until our Q4. We also had a lower margin in HVAC Technologies, which was mostly due to a negative mix impact. This was driven by lower preseason heating sales, combined with the early integration steps for the 3 most recent acquisitions. Heating represents some of our highest margin products and the acquisitions are very early in the integration 80/20 phases.
+
+Within this product group, we anticipate a sequential margin improvement as we enter the heating season and began to implement 80/20 across the acquisitions. And finally, in HTS, the prior year included several million dollars of commercial pricing settlements from heat pump customers. As we implement a major step function change in our data center production capabilities, we anticipated that there would be significant unabsorbed costs as we launch the expansion plans. Looking to the second half of the year, we currently expect sequential margin improvement in Q3, but the margin will remain below normal operating levels until Q4.
+
+Then in Q4, we should begin to see more significant volumes from our new production lines, which will allow us to more fully absorb the fixed incremental costs and exit the year at more normalized profit margins. Before moving on to Performance Technologies, I want to highlight that the demand for Modine data center solutions continues to grow, and we're increasing our revenue outlook for the current fiscal year. In order to support this growth and achieve our $2 billion goal, we need to make significant capacity investments while still delivering on our earnings targets.
+
+And this will set the stage for further revenue growth and margin improvement with the ability to move well above historical profit margins. Please turn to Slide 7. Performance Technologies revenue declined 4% from the prior year. Heavy-duty equipment revenue was relatively flat with stronger sales to construction and mining customers, offset by lower GenSet sales. On-highway applications decreased 3% or $7 million, driven by lower commercial vehicle demand, including specialty vehicle and bus customers. Despite the tough market conditions, adjusted EBITDA improved 3% from the prior year and the adjusted EBITDA margin increased by 90 basis points to 14.7%.
+
+The margin increase was mostly driven by significant cost reductions and improved operating efficiencies. Tariffs remain a significant challenge for all market participants, but our team is working hard to recover these increases through surcharges, along with our normal pass-through mechanisms. In addition, we're reorganizing this business and reducing costs wherever possible, which resulted in a nearly $7 million reduction in SG&A expenses this quarter. The team remains focused on margin improvement despite ongoing challenges with the end market demand.
+
+As we look ahead, Q3 typically represents the lowest volume quarter due to seasonal patterns and holiday shutdowns by our OE customers. As a result, we expect that the Q3 margin will be down sequentially from Q2, but should be above the prior year, then stepping back up sequentially in Q4 as we've done in previous years. Until the markets turn around, we'll stay focused on costs and operating efficiencies, which will allow us to drive higher operating leverage and margins when volumes improve. Now let's review total company results. Please turn to Slide 8. Second quarter sales increased 12%, driven by the revenue growth in Climate Solutions.
+
+The gross margin declined 290 basis points to 22.3%, driven primarily by the factors I covered on the Climate Solutions slide. SG&A expenses declined in the quarter, driven by Performance Technologies cost savings initiatives, partially offset by incremental SG&A and the acquisitions in Climate Solutions. The net result was a 4% improvement in adjusted EBITDA from the prior year with a margin of 14%. With regards to EPS, the adjusted earnings per share was $1.06 or 9% higher than the prior year. I want to again summarize the key items that impacted the Q2 margin and how we currently see our consolidated results for the balance of the year.
+
+For Q2 consolidated results, the adjusted EBITDA margin benefited from the year-over-year improvement in Performance Technologies. This was offset by the lower margin in Climate Solutions, as I reviewed on that segment slide. As we look to Q3, we anticipate the adjusted EBITDA margin will remain below normal levels in this quarter. Then based on the sequential improvements by both segments in Q4, we expect a significant increase in the sequential margin, which should be more in line with the prior year.
+
+Based on this second half outlook, we would exit the fiscal year at the highest quarterly margin rate, and we would fully expect additional margin expansion in the new fiscal year, consistent with our fiscal '27 goals. Now moving on to cash flow metrics. Please turn to Slide 9. Free cash flow was a negative $31 (sic) [ $30 ] million in the second quarter. We anticipated lower cash flow primarily due to higher inventory builds and CapEx in Climate Solutions. We continue building significant data center inventory to support customer demand and delivery schedules in the second half of the year.
+
+And second quarter free cash flow also included $9 million of cash payments, primarily related to restructuring and acquisition-related costs. Net debt of $498 million was $219 million higher than the prior fiscal year-end directly related to the acquisitions of AbsolutAire, L.B. White and Climate by Design. With the investments in acquisitions and capital during the first half of the year and the associated earnings, our balance sheet remains quite strong with a leverage ratio of 1.2. Based on our earnings and cash flow outlook, we expect that the leverage ratio will decline further by fiscal year-end.
+
+Now let's turn to Slide 10 for our fiscal 2026 outlook. As we cross the midpoint of our fiscal year, we're raising our revenue outlook and reaffirming our earnings outlook. For fiscal '26, we now expect total company sales to grow in the range of 15% to 20%. For Climate Solutions, we're raising our outlook for the full year sales to grow 35% to 40% with data center sales now expected to grow in excess of 60% this year. With regards to data center sales growth, we anticipate sequential increases in Q3 and in Q4 with the second half year-over-year sales growth exceeding 90%.
+
+During the next quarter, the team will be further preparing numerous production lines, both in existing and new facilities to support the strong orders. In Q4, we anticipate our first full quarter of significant production volume from these new production lines. For Performance Technologies, we're raising our sales outlook with revenue now anticipated to be flat to down 7%, improving from the prior range of down 2% to 12%. We expect that the end markets will remain depressed with the ongoing trade conflicts and cautious market sentiment having a negative impact on market recoveries.
+
+However, last quarter, I explained that revenue was trending more favorable due to foreign exchange rates and the large amount of material cost recoveries. While the underlying market volumes have not recovered, we expect higher revenue as these trends have continued, and we're adjusting the outlook accordingly. I want to point out that while the large cost recoveries helped to protect our absolute level of earnings, they don't have a positive impact on our profit margins. With regards to our full year earnings, we're balancing the higher revenue outlook with margins running temporarily below normal levels.
+
+Based on this, we're holding our fiscal '26 adjusted EBITDA outlook to be in the range of $440 million to $470 million. For cash flow, we anticipate generating free cash flow in the second half of the year, but lower as a percentage of sales compared to the prior year. For the full year, we expect free cash flow to be in the range of 2.5% to 3% of sales. This is directly related to the significant investment in data center capacity that we're making this year, along with higher working capital to support this rapidly growing business.
+
+This also includes cash required to fully fund our U.S. pension plan prior to our planned annuitization in the third quarter. With the conclusion of this large project, we'll be able to remove a very large liability from the balance sheet along with the time and cost to manage it. And consistent with our previous outlook, we're not including any cash proceeds from potential divestitures this year. Looking ahead to next year, we anticipate that our free cash flow margin will return to previous levels and be in line with our fiscal '27 targets.
+
+To wrap up, we have a lot of moving pieces this quarter, including significant cost reductions in Performance Technologies combined with large investments in Climate Solutions for the 3 acquisitions and the data center expansion. This represents a lot of change, and the team will continue to execute as we've done throughout our transformation. These activities are critical elements of our strategic transformation and capital allocation strategy. We remain confident that these actions are setting the stage for long-term sustainable growth for Modine shareholders.
+
+With that, Neil and I will take your questions.
