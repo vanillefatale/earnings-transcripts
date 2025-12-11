@@ -1,0 +1,136 @@
+Hello Group Inc. (MOMO) Q3 2025 Earnings Call December 10, 2025 7:00 AM EST
+
+Company Participants
+
+Ashley Jing - Head of Investor Relations
+Sichuan Zhang - COO & Director
+Cathy Peng - Chief Financial Officer
+Yan Tang - Executive Chairman & CEO
+
+Conference Call Participants
+
+Thomas Chong - Jefferies LLC, Research Division
+Jiahui Wang - UBS Investment Bank, Research Division
+Leo Chiang - Deutsche Bank AG, Research Division
+Xueqing Zhang - China International Capital Corporation Limited, Research Division
+
+Presentation
+
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to the Third Quarter 2025 Hello Group, Inc. Earnings Conference Call. [Operator Instructions] Please note, this conference is being recorded today.
+
+I would now like to hand the conference over to your first speaker today, Ms. Ashley Jing. Thank you. Please go ahead, ma'am.
+
+Ashley Jing
+Head of Investor Relations
+
+Thank you, operator. Good morning and good evening, everyone. Thank you for joining us today for Hello Group's Third Quarter 2025 Earnings Conference Call.
+
+The company's results were released earlier today and are available on the company's IR website. On the call today are Mr. Tang Yan, CEO of the company; Ms. Zhang Sichuan, COO of the company; and Ms. Peng Hui, CFO of the company. We will discuss the company's business operations and highlights as well as the financials and guidance. We will all be available to answer your questions during the Q&A session that follows.
+
+Before we begin, I would like to remind you that this call may contain forward-looking statements made under the safe harbor provision of the Private Securities Litigation Reform Act of 1995. Such statements are based on management's current expectations and current market and operating conditions and relate to events that involve known or unknown risks, uncertainties and other factors. All of which are difficult to predict and many of which are beyond the company's control, which may cause the company's actual results, performance or achievements to differ materially from those in the forward-looking statements.
+
+Further information regarding this and other risks, uncertainties and factors is included in the company's filings with the U.S. Securities and Exchange Commission. The company does not undertake any obligation to update any forward-looking statements as a result of new information, future events or otherwise, except as required under law.
+
+I will now pass the call over to our COO, Ms. Zhang Sichuan. Ms. Zhang, please?
+
+Sichuan Zhang
+COO & Director
+
+Thank you. Hello, everyone. Thank you for joining our call. In Q3, our business faced some external challenges, but our team was able to respond proactively and achieve good results in both user and financial metrics.
+
+Next, I will give you an update on execution of our strategic goals. Starting with the financial performance. For Q3 2025, total group revenue was RMB 2.65 billion, down 1% year-over-year. Domestic revenue reached RMB 2.12 billion, down 10% year-over-year, while overseas revenue was RMB 535 million, up 69% year-over-year. Adjusted operating income was RMB 404 million, down 11% from Q3 last year, with a margin of 15.2%.
+
+Our key priorities for 2025 include the following: For Momo, our goal is to maintain the productivity of this cash cow business with a healthy social ecosystem. For Tantan, the goal is to improve its core dating experience and build an efficient business model that drives profitable growth. As for the new endeavors, our goal is to deepening our presence in the overseas market, enrich our brand portfolio and build a long-term engine.
+
+And now let me walk you through the details. First, on the Momo app, we believe that a healthy social ecosystem is the foundation of sustained and stabilizing our cash cow business. Therefore, our product efforts are focused on optimizing the chat experience and creating better chat scenarios and tools for users. We fully rolled out in-house developed AI greeting features in the first half of the year. Data shows that the repriced rate of male users has increased as a result. It proves the team's exploration on leveraging AI technologies to upgrade social chatting tools is practicable during the past year.
+
+In Q3, we updated the AI chat assistant model based on earlier tests by leveraging the platform's core price. The model was optimized to better align with users' preferences and chatting styles, thereby encouraging more users to adopt the AI chat assistant content suggestions during the ongoing conversations. We have increased exposure to this feature to improve its penetration rates on the platform, enabling more users to benefit from it.
+
+The optimization of the AI chat assistant model and its in-platform promotion has improved the female users' experience, driving ongoing quarter-over-quarter increase in various user metrics such as number of 2-way chats, the rate of in-depth chats and user retention, et cetera.
+
+On the user acquisition front, we dynamically adjusted the channel budget allocation based on their ROI performance to ensure 100% ROI. Over the past year, although the shift to a profit-oriented channel strategy brought to the turn of large number of ultra-low spending users, it improved the platform's overall profitability by reducing user acquisition expenditure with negative returns.
+
+As of Q3, the impact of reduced channel investment on paying users has bottomed out. The multiple new gifting features we introduced in audio-based scenario led by chat rooms drove a paying ratio increase, driving the number of paying users to increase by 200,000 quarter-over-quarter to 3.7 million in Q3. Although the reduction in user acquisition spending has led to a slight year-over-year decrease in overall user scale, Momo's social fundamental remains robust.
+
+Thanks to the product upgrades and the recommendation algorithm optimization, which has enhanced the user experience. User engagement continue to grow within a healthy social ecosystem.
+
+According to an independent report released by our Kress Mobile 2025, Male Consumer Market Insights in June, Momo as a 40-year-old social brand remained the top Social Choice for Male users aged 30 to 40. This clearly shows that Momo has established strong brand loyalty among high-value users in -- with substantial spending power. We believe this is a valuable asset that company will continue to nurture and benefit from for years to come.
+
+Now on the productivity of Momo cash cow business. In Q3, Momo's value-added service revenue reached RMB 1.79 billion, down 11% year-over-year and 3% quarter-over-quarter. As we indicated last quarter, the new tax requirements came out at the end of June, coupled with the local tax authorities, inspections of agencies since Q3 have really impacted the operation focus of some broadcasters and agencies on our platform, leading to a significant revenue decline in revenue in audio and video-based scenario.
+
+To alleviate supply side pressure, we rolled out a new revenue sharing policy in August, providing appropriate subsidies to broadcasters and agencies that were severely affected by tax changes. The policy has some encouraging effects, but it couldn't fully offset the negative impact from the tax scrutiny in the short term.
+
+Turning to Tantan. As of the end of Q3, Tantan had 0.7 million paying users, broadly in line with last quarter. The pressure on the paying ratio caused by last year's product upgrade was fully released after the complete rollout of the pilot in Q2. In Q3, the team drove a slight recovery in the paying ratio by adjusting the monetization strategy.
+
+Turning to Tantan's financials. Revenue from the onshore business in Q3 was RMB 150 million, down 15% -- 30% year-over-year and 5% quarter-over-quarter. The revenue decrease was due to the decline in number of paying users, but ARPPU significantly increased 25% year-over-year and 6% quarter-over-quarter.
+
+At the product level, we continue to refine our strategy on optimizing the experience for female users, which includes establishing a curated recommendation pool for newly registered female users improve their swipe quality and providing highly attractive female users with a more diverse male recommendation to enrich their matching options and implementing an overheating protection mechanism to prevent excessive matches that may affect of current interactions.
+
+For male users, we optimized back-end recommendation rules by adjusting their exposure concentration. Both enhancement in female user experience and male user recommendation algorithm has driven quarter-over-quarter growth in several key user metrics, such as day 1 retention, average life of -- average number of lives per user and DAU among new users. At the monetization level, we introduced basic products such as unlimited lives privilege pack to fill the gap in low-tier membership offering.
+
+Regarding the algorithm, we slightly adjusted the matching rate for high potential paying users to improve their conversion to paying. In Q3, although our focus on acquiring higher-quality user groups led to a sequential increase in unit acquisition costs, the restructuring of our new membership system combined with the algorithm optimization drove ARPPU growth, pushing Tantan's channel ROI to a record high.
+
+As a result, despite pressure on user scale and revenue, Tantan achieved significantly -- significant year-on-year and quarter-on-quarter profit growth, creating more room for our gaming products to exploration tailored to Asian users.
+
+Lastly, in overseas business, in Q3, revenue reached RMB 535 million, up 69% year-over-year and 21% quarter-over-quarter. Overseas revenue accounted for 20% of the group's revenue compared to 12% in the same period of last year. In Q3, overseas revenue growth mainly came from audio and video social products in the MENA region. Among them, Yaahlan and Amar continue to enhance product features by improving localized operations and strengthening product and partnerships, driving a steady increase in both number of paying users and ARPPU.
+
+On the user acquisition front, during the first half of the year, we observed a rapid rise in user acquisition costs while scaling up channel investments in new products. So we slowed down our marketing efforts and try to find a scalable solution that can also balance ROI. In Q3, our channel experiments shows initial success. So, we moderately increased channel spending and accelerated revenue growth.
+
+Meanwhile, SoulChill, our largest audio-based social product in MENA region, optimized its marketing strategy by increasing investment proportion in high-value countries, driving a substantial growth in both revenue and profit. Except for these three audio-based products, we have recently begun testing the expansion of audio and video-based social entertainment products into other high ARPPU regions, such as the Gulf countries and Japan.
+
+We hope this effort will become our growth drivers for the group in the future. Beyond our audio/video social products in the MENA region, another key segment for our overseas business, the dating product line focused on developed markets also delivered strong performance.
+
+Tantan International returned to sequential growth for the first time in nearly a year, following a full year of product adjustments and rebranding executed by our Singapore team. Additionally, we completed the acquisition of our European dating product, Happn, at the end of Q3.
+
+Happn founded in Paris, France, are primarily leverage location-based services to facilitate online to offline dating experiences for users. With Happn joining our portfolio, the group's product landscape now officially extend to Europe, further enriching the diversity of our overseas dating products. We believe that the high-quality dating brands like Happn, which originated in Western developed world, have significant growth potential in Asia Pacific region.
+
+In the past, these brands were constrained by limited resources and insufficient localization expertise, preventing them from fully realizing their potential in the Asia Pacific region. We hope that the combination of -- Hello Group and this brand will fully unleash that potential. We have enough patience and commitment to create a high-quality dating experience for young people in China and Asia. We are confident that these dating brands will inject new momentum into the group's future.
+
+This concludes my remarks.
+
+Now let me pass the call over to Cathy for the financial review.
+
+Cathy Peng
+Chief Financial Officer
+
+Hello, everyone. Thank you for joining our conference call today. Now let me take you through the financial review.
+
+Total revenue for the third quarter 2025 was RMB 2.65 billion, down 1% year-on-year, but up 1% quarter-on-quarter. Non-GAAP net income attributable to the company was RMB 404.5 million compared to RMB 493.3 million in the same period of 2024 and RMB 461.9 million in the previous quarter, excluding a one-off tax expense item.
+
+Looking into the key revenue items for Q3. Total revenue from value-added services for the third quarter of 2025 was RMB 2.61 billion, down 1% year-on-year, but up 1% quarter-on-quarter. On a user geography basis, PRC Mainland value-added services revenue was RMB 2.08 billion, down 11% year-over-year and 3% quarter-over-quarter.
+
+The decrease was primarily attributable to three factors: number one, tax scrutiny on certain broadcasters and agencies, which distracted their operational focus; number two, softened consumer sentiment driven by macro factors; and number three, a decline in paying users on Tantan.
+
+BaaS overseas revenue came in at RMB 533.1 million, up 69% year-over-year and 21% quarter-over-quarter. The year-over-year and sequential growth was mainly driven by rapid expansion from multiple social entertainment as well as dating brands across our rich portfolio.
+
+Turning to costs and expenses. Non-GAAP cost of revenue for the third quarter of 2025 was RMB 1.65 billion compared to RMB 1.62 billion for the same period last year. Non-GAAP gross margin for the quarter was 37.6%, down 1.7 percentage points from the year ago period.
+
+The decrease was primarily attributable to two factors: number one, a deliberately higher payout ratio for the Momo business to ease supply side pressure amid tax scrutiny; number two, a structural revenue shift towards overseas markets, which payment -- where payment channel costs represent a higher percentage of revenue.
+
+Non-GAAP R&D expenses for the third quarter was RMB 170.6 million compared to RMB 185.4 million for the same period last year, representing an 8% decrease year-over-year. The decrease was attributed to personnel optimization.
+
+Non-GAAP R&D expenses as a percentage of revenue was 6% compared with 7% from the year ago period. We ended the quarter with 1,386 total employees compared to 1,355 from a year ago. The R&D personnel as a percentage of total employees for the group was 57% compared to 61% from Q3 last year.
+
+Non-GAAP sales and marketing expenses for the third quarter was RMB 335.9 million compared to RMB 350.1 million for the same period last year, both representing 13% of total revenue. The year-over-year decrease in sales and marketing expenses was attributable to the ongoing cost control strategy for the PRC businesses, where both Momo and Tantan narrowed their marketing spend. This decrease was partially offset by the increase in channel investment for the overseas apps.
+
+Non-GAAP G&A expenses was RMB 91.0 million for the third quarter compared to RMB 85.2 million for the same quarter last year, both representing 3% of total revenue, respectively.
+
+Non-GAAP operating income was RMB 404.0 million with a margin of 15.2% compared with RMB 454.7 million with a margin of 17% from the same period last year. Non-GAAP OpEx as a percentage of total revenue was 23%, same as Q3 2024.
+
+Now briefly on income tax expenses. Total income tax expenses was RMB 69.0 million for the quarter with an effective tax rate of 14%. In Q3, the company accrued withholding income tax of RMB 24.5 million, which is 10% of undistributed profit generated by our ROFE. Without withholding tax, our estimated non-GAAP effective tax rate was around 9% in the third quarter.
+
+Now turning to balance sheet and cash flow items. As of September 30, 2025, Hello Group's cash, cash equivalents, short-term deposits, long-term deposits, short-term investments and restricted cash totaled RMB 8.86 billion compared to RMB 14.73 billion as of December 31, 2024.
+
+The decrease in cash reserves was primarily attributable to three factors: number one, repayment of RMB 4.41 billion bank loans, including accrued interest; number two, payment of special cash dividends totaling RMB 346 million to our shareholders in Q2; and number three, a one-off withholding tax payment of RMB 356 million in September, which was previously communicated during our last earnings call.
+
+Net cash provided by operating activities in the third quarter 2025 was RMB 143.5 million. The gap between operating cash flow and non-GAAP net income was primarily attributable to the payment of the above-mentioned withholding tax.
+
+Lastly, on business outlook. We estimated our fourth quarter revenue to come in the range from RMB 2.52 billion to RMB 2.62 billion, representing a decrease of 4.4% to 0.6% year-on-year. This is based on the assumption that on a year-over-year basis, revenue from our Mainland China business will decline by mid- to low teens percentage-wise, while overseas revenue is expected to maintain a growth rate similar to that seen in Q3.
+
+Please be mindful that this forecast represents the company's current and preliminary view on the market and operational conditions, which are subject to change.
+
+That concluded our prepared portion of today's discussion.
+
+With that, let me turn the call back to Ashley to start Q&A.

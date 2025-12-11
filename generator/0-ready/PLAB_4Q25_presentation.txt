@@ -1,0 +1,106 @@
+Photronics, Inc. (PLAB) Q4 2025 Earnings Call December 10, 2025 8:30 AM EST
+
+Company Participants
+
+Ted Moreau - Vice President of Investor Relations
+George Macricostas - CEO & Executive Chairman
+Eric Rivera - CFO, VP, Corporate Controller & Principal Accounting Officer
+KangJyh Lee - President of PDMC & Director
+Christopher Progler - Executive VP of Strategic Planning & CTO
+
+Conference Call Participants
+
+Linda Umwali - D.A. Davidson & Co., Research Division
+Christian Schwab - Craig-Hallum Capital Group LLC, Research Division
+Gowshihan Sriharan - Singular Research, LLC
+
+Presentation
+
+Operator
+
+Good day, and thank you for standing by, and welcome to the Photronics Fourth Quarter Fiscal Year 2025 Earnings Conference Call. [Operator Instructions] Please note that today's conference is being recorded. I will now hand the conference over to your speaker host, Ted Moreau, Head of Investor Relations. Please go ahead.
+
+Ted Moreau
+Vice President of Investor Relations
+
+Thank you, operator. Good morning, everyone. Welcome to our review of Photronics Fiscal Fourth Quarter 2025 Financial Results. Joining me this morning are George Macricostas, Chairman and CEO; Eric Rivera, CFO; Frank Lee, Head of our Asia Operations; and Chris Progler, CTO.
+
+The press release we issued earlier this morning, together with the presentation material that accompanies our remarks, are available on the Investor Relations section of our website.
+
+This call will include forward-looking statements that involve risks and uncertainties that could cause Photronics results to differ materially from management's current expectations. We encourage you to review the notice regarding forward-looking statements contained in today's earnings release as well as our most recent SEC filings.
+
+During the quarter, we will be participating in the New York Summit next week and the Needham Growth Conference in January.
+
+I will now turn the call over to George.
+
+George Macricostas
+CEO & Executive Chairman
+
+Thank you, Ted, and good morning, everyone. We delivered strong financial results with sales of $216 million, exceeding expectations and increasing 3% sequentially. The major positive in the quarter was record high-end IC revenue led by the U.S. and Asia. Non-GAAP diluted EPS also surpassed guidance, coming at $0.60 per share.
+
+During the quarter, we recognized a tax allowance reversal, reflecting an improvement in our U.S. execution and outlook, which Eric will elaborate on. As we look to 2026, we will continue to leverage our operational strengths and geographic footprint spanning 11 production facilities to continue to deliver high-quality photomasks.
+
+As previously communicated, we are currently executing strategic geographic expansions at existing facilities, reinforcing our position as a leading merchant provider of photomasks. These initiatives are expected to enhance the revenue contribution from these facilities, broadening and further diversifying our geographic revenue mix.
+
+Our investments are aligned with two industry trends. First, advanced node migration. Progression to more advanced nodes requires more mask layers per IC device and finer resolution mask features, driving increased mask demand and higher mask set ASPs. Our investments will increase our exposure to higher-end nodes in the U.S. and in Korea.
+
+Second, regionalization. Semiconductor manufacturing continues to diversify globally, including meaningful reshoring of production in the U.S. We are a market leader in the U.S. and will pursue numerous higher-end opportunities through our U.S. investment plans.
+
+More specifically, a year ago, we announced our capacity expansion and capability extension at our Allen, Texas facility. We expect to begin tool installation in the coming months with customer qualifications in the spring time frame and initial revenue later in 2026.
+
+In Korea, our cleanroom expansion is underway with equipment installation beginning in 2026. Customer qualifications for 8-nanometer are expected through fiscal 2027, with revenue contribution beginning in 2028. Additional node migrations are expected as market demands develop.
+
+Together, these initiatives will diversify our geographic revenue mix and increase our exposure to leading-edge chip designs.
+
+During the quarter, we achieved several positive technical and commercial developments. To highlight a few, one, we are recognizing more outsourced opportunities from captive mask makers, including leading-edge DRAM and logic nodes. Two, in advanced IC packaging, we saw increased demand for our larger-format masks that support AI-driven chip packaging applications.
+
+Three, we completed shipments of masks fabricated with our newest generation DRAM node mask process co-developed with a key memory customer. Four, demand tied to edge AI applications continues to rise across Asia, highlighting our exposure to this critical segment. And finally, our advanced multi-beam mask writer we installed in the U.S. earlier in 2025 is now in full production, with over 20 customers qualified, including multiple EUV users.
+
+Our technology roadmap continues to advance through joint development with customers, collaborations with consortia such as [ IMEC ] and partnerships with critical suppliers.
+
+I will now review market conditions heading into fiscal 2026 before turning the call over to Eric. The high end of the market remains strong, supported by sustained investment in hyperscale data centers for AI rollouts. This momentum continues to drive demand for the highest-end photomasks.
+
+Many of our high-end customers are providing positive forecasts that reinforce favorable node migration trends and global manufacturing regionalization. While the high end of the market remains robust, the mainstream IC market remains soft, though appears to be stabilized.
+
+Returning to our quarterly results, IC revenue was $157 million. We achieved a quarterly record in high-end IC, representing 42% of IC revenue, thanks to a strong technology portfolio and exceptional execution. Demand in the U.S. has been particularly strong, validating our expansion initiatives designed to bring additional advanced production capacity to the market.
+
+As a reminder, we are the only U.S. headquartered company that can produce trusted masks, and our Boise facility is the only commercial high-end U.S. trusted mask facility.
+
+In flat panel display, revenue of $58 million declined sequentially, reflecting order timing. Demand softened later in the quarter and into the early days of Q1, but has since rebounded. FPD mask demand is expected to remain strong throughout Q1.
+
+Earlier in 2025, we shipped our first 2 G8.6 AMOLED orders and anticipate additional G8.6 demand in fiscal Q1 as adoption of this technology expands in consumer and enterprise high-performance display segments.
+
+I will now turn the call over to Eric to review our fourth quarter results and provide first quarter guidance.
+
+Eric Rivera
+CFO, VP, Corporate Controller & Principal Accounting Officer
+
+Thank you, George. Good morning, everyone. Fourth quarter revenue exceeded expectations at $216 million, increasing 3% sequentially, though declining 3% year-over-year. IC revenue of $157 million declined 4% year-over-year. However, we experienced a meaningful mix shift towards high-end shipments, which reached record levels in both absolute dollars and as a percentage of total IC revenue at 42%.
+
+High-end IC strength reflects strong order patterns globally, including in the U.S., which now represent 20% of total revenue, where reshoring efforts continue to create a favorable demand environment.
+
+Meanwhile, our mainstream IC revenue declined 12% year-over-year due to several factors. The declines are broad-based geographically because of market conditions. However, the mainstream IC decline deepened by recent geopolitical impacts across mainstream customer segments, primarily in China.
+
+Additionally, we strategically redirected mainstream capacity, including capabilities obtained from end-of-life tool replacements towards higher-end opportunities.
+
+Turning to FPD. Fiscal Q4 revenue of $58 million declined 1% year-over-year due to timing of order patterns. As we look to fiscal Q1, the temporary FPD slowdown that emerged later in Q4 persisted through much of November, but has since abated with recovering order levels.
+
+Gross margin improved to 35%, exceeding expectations, driven by a favorable product mix. Operating margin of 24% also exceeded our guidance range. Diluted GAAP EPS attributable to Photronics shareholders was $1.07 per share.
+
+We experienced a favorable $16.8 million benefit related to the reversal of historical U.S. tax loss valuation allowance. We had recorded this tax valuation allowance as the benefit was previously deemed unrealizable. Given the improved performance and outlook of our U.S. business, U.S. GAAP required a reversal of this tax loss allowance, resulting in the positive $16.8 million result to GAAP net income.
+
+Excluding foreign exchange impacts and a deferred tax valuation allowance reversal, non-GAAP diluted EPS was $0.60 per share. Our earnings performance reflects a greater contribution from our U.S. operations. During the quarter, we generated $88 million in operating cash flow, equating to 41% of revenue. CapEx was $68 million, bringing full-year CapEx to $188 million.
+
+As discussed throughout the year, we have entered a period of elevated capital investments to drive future organic growth. Exemplifying this commitment, our initiatives in the U.S. and Korea will further strengthen our ability to capitalize growth trends, including increased captive outsourcing, high-end node migrations and geographic supply chain diversity.
+
+For fiscal 2026, total CapEx include typical annual spending, incremental end-of-life tool upgrades and special project investments in the U.S. and Korea. Notably, end-of-life tool upgrades bring new capabilities, enhance production efficiency and allows us to target higher-value opportunities.
+
+We expect fiscal 2026 CapEx to total approximately $330 million. All investments have been carefully vetted to meet our return thresholds and align with major industry demand drivers.
+
+Total cash and short-term investments increased $12 million sequentially to $588 million, which includes $422 million of cash held in our joint ventures. Our capital allocation strategy includes three priorities: reinvesting for organic growth, pursuing strategic opportunities and returning cash to shareholders. After spending $97 million in fiscal 2025, we will remain opportunistic in repurchasing the remaining $28 million under our stock authorization.
+
+Before providing guidance, I'd like to remind you that demand for our products is inherently variable. Visibility is limited with typical backlog of only 1 to 3 weeks. Additionally, high-end mask sets carry significantly higher ASPs, meaning even a small number of orders can materially influence revenue and earnings. Demand is also affected by IC and display design activity and secondarily by wafer and panel capacity dynamics.
+
+Given current market conditions and the industry outlook George discussed, we expect fiscal Q1 revenue to be in the range of $217 million and $225 million. Based on those revenue expectations and our operating model, we estimate fiscal Q1 operating margin between 23% and 25% and non-GAAP diluted EPS between $0.51 and $0.59 per share.
+
+I will now turn the call over to the operator for your questions.

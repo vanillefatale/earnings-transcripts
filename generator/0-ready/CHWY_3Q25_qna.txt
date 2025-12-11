@@ -1,0 +1,211 @@
+Question-and-Answer Session
+
+
+Operator
+
+[Operator Instructions] our first question today comes from Eric Sheridan with Goldman Sachs.
+
+
+Eric Sheridan
+Goldman Sachs Group, Inc., Research Division
+
+Maybe 2, if I can. Curious as the team continues to scale offerings like Autoship and Chewy Plus, how you continue to evolve your learnings about the lifetime value of customers on the platform? And the second part of the question would be how does those learnings feed back into your strategic initiatives in support of growth given the commentary right there towards the end of the call from Sumit on some of your priorities over the next 12 to 18 months?
+
+
+Sumit Singh
+CEO & Director
+
+Thanks for the question. The way -- first of all, it's a broad question, so I'll try not to ramble and give you some frameworks on how we're thinking about this and why we believe these sort of build on top of each other, like an intersecting Venn diagram, there's strong intersection and strong complementarity between the programs. So I want you to visualize 3 sort of flywheels, the Autoship, Chewy+, CVC. And I want you to then imagine all of these built onto a closed-loop, highly personalized app, mobile app. And so as you envision that, these are separate programs that essentially compound NSPAC curves, increase retention, cohort retention, reduce churn and drive both top line as well as greater efficiency in the way that we deliver profitability.
+
+Autoship is a rinse and repeat product merchandise program that has high reliability and accuracy, both in terms of planning, in terms of delivery and high satisfaction rating. Chewy+ is a program that is designed to accelerate the process of discoverability of multiple offerings at Chewy beyond consumables and health, which are sort of top discoverable categories. And in addition to accelerating discovery, it is meant to accelerate NSPAC consolidation. Chewy+ -- Autoship is applicable to the entire cohort of customers at Chewy. Chewy+ is more propensed in our intention to grow NSPAC for customers that spend somewhere between $300 and $700 with Chewy so that there is tremendous incrementality that we can extract from them.
+
+A proof point of Chewy+ now that we've continued to run the program another 6 or 7 weeks since the last time we spoke to you, penetration in categories like hard goods and specialty is running higher than the average penetration for Chewy+, indicating the power of Chewy+ to consolidate discretionary categories, build AOV and provide larger basket sizes. And then CVC as the -- as we've spoken in the past and as I spoke on the script, is a lever that essentially expands TAM to incremental $40 billion of health services, but also creates an entire health ecosystem where the customer can start the journey online or off-line. And ultimately, the Chewy is better off for it and the customer is better off for it. The mobile app, obviously, is a closed-loop system that pushes more and more direct traffic, much more personalized interactions, repeat purchase rates in apps are stronger.
+
+AOVs are stronger, Autoship subscribe rates. There's a lot of complementarity of Chewy+ and Autoship inside the app, et cetera. So if you think about the way that we're making investments, at the top level, we have multiple top line and margin-driving initiatives. Then comes the automation and the power of scale that we are -- and in future, not too long -- not too far out, the power of AI to compound those gains across our fulfillment, customer care and the rest of the company. And then at the bottom, it is built on a really strong unified data layer and modern architecture built around a world-class fulfillment network. So I'm not sure if I hit kind of exactly what you were looking for, but happy to take a follow-up.
+
+
+Operator
+
+Our next question comes from Doug Anmuth with JPMorgan.
+
+
+Douglas Anmuth
+JPMorgan Chase & Co, Research Division
+
+Sumit, the active customer growth was the strongest it's been in a few quarters. Can you just talk about some of the drivers there and then just how you're thinking about that in 4Q and into '26, along with just health of the industry? And then just to follow up on the investment levels in '26. Is there a way to frame just kind of how you're thinking about that relative to what we've seen in '25?
+
+
+Sumit Singh
+CEO & Director
+
+Doug, thank you for the question. So let's start with the active customers. So yes, so Q3 active customer performance exceeded our expectation and was driven by improvements across the customer funnel. The strength in active customer reflects sort of both gross adds strengthening as well as churn lowering or improvements in retention as we would call it. On the acquisition side or gross add side, we're benefiting from higher direct traffic, increasing engagement in the mobile app and improved conversion across our platforms, both app and web. To give you data points, we lowered first-time to app conversion. We increased daily active usages. We improved SEO performance by double-digit gains on a year-over-year basis.
+
+Our traffic was up mid-single digits on a year-over-year basis. So the combination of SEO plus app and overall increased traffic was then met with better experiences on the platforms that drove higher conversion and as such, new customer conversion was better. So these things added up in Q3 and in our opinion, are durable moving forward. Retention at the same time continues to strengthen as customers deepen their engagement, especially across categories like premium consumables, health care, hard goods once again was strong, I think, 18% year-over-year growth and as customers increasingly consolidate their spend with us, given that they're finding both value and convenience at Chewy.
+
+Now moving to the subpart of the same question. So you're asking about how we're thinking about Q4 and then '26. So '26, we expect durability in net adds filed continuing to increase. Let me hit Q4 more directly. So the implied moderation in Q4, if you calculate the fill in the blank kind of question, you'll end up at the high end of low single digit for Q4. And that perhaps offers some moderation of roughly 150,000 customers from Q3 on a sequential basis, right? So the implied moderation in Q4 is largely comp driven and reflects timing more than anything else.
+
+We're cycling a much stronger Q4 from last year in terms of net adds that naturally creates a tougher comparison. I should also note that when looking at Q4 quarter till date, we like the momentum that we're seeing on net adds, and we're running ahead of our forecast. There's still half the quarter left to go. So for now, it's prudent to hold kind of the conservatism that we're bringing forward here. What else -- okay. Now moving to the second part of -- your second question, which was investment levels. Wait, one second. Let me just read this. Frame up for -- what? Doug, can you repeat the second question?
+
+
+Douglas Anmuth
+JPMorgan Chase & Co, Research Division
+
+Just -- yes, just really just trying to understand your comments towards the end there just on investment levels in '26 relative to what we've seen in '25.
+
+
+Sumit Singh
+CEO & Director
+
+Yes. Okay. So first of all, I would like to perhaps just say that we've seen 2025 being characterized as an investment year. And the reality is, I mean, we're driving both strong top line growth and meaningful margin expansion. We're growing at more than 2x the market. We've narrowed our margin guidance, delivering 90 basis points of expansion at midpoint. And we're doing this simultaneously growth and margin kind of moving together. '26 is going to be better, right? So we expect to take share. And at the same time, investment levels are more structural and durable investment levels moving forward while we continue to self-fund a bunch of the temporary investments that you've seen us take in kind of Q1 or Q2 of this year.
+
+So overall, we're going to be thinking about investments in a much more strategic manner and fund structural investments while pulling back on temporary investments because we feel we can self-fund them. The business is continuing to perform better and better each quarter as we move from '25 into '26, especially as our fulfillment center scale, our customer service scales and our marketing drives greater efficiency into '26.
+
+
+Operator
+
+Our next question comes from Steven Zaccone with Citigroup.
+
+
+Steven Zaccone
+Citigroup Inc., Research Division
+
+I want to follow up on Doug's question there. When you think about '26, can you share a little bit more on your preliminary outlook for demand? You talked about net adds, but how do you think about the overall backdrop for the industry? And obviously, '25 has been an improvement versus '24. So how do you think about '26? And then in that context, pricing, we haven't really seen it in the industry. Do you see that being more of a tailwind as we get into next year?
+
+
+Sumit Singh
+CEO & Director
+
+Yes, sure. So as of this point, we're looking at '26 more or less like 2025. When we entered '25, we were expecting stronger industry normalization by the time we exited 2025 as defined in terms of net household formation, in terms of pricing returning back into the industry and strong democratic growth across the category. As we exit 2025, we -- our current read is to view '26 more or less like '25. So industry growing at low single digit, perhaps the low end of mid-single digit, net household formation kind of remaining flattish. We are -- if you look at the shelf and adoption numbers, we're running at about 100,000, 150,000 surplus between adoption and returns. We would like to see this number probably 5, 6x higher to be able to call it a normalized industry. Pricing, if you look at pricing growth in the industry, typically, you'd see a 1.5 -- 1% to 2% pricing improvements on a year-over-year basis, and we'll wait for 2026 to kind of the signals to become a little more clear.
+
+I'll address your pricing question here in 1 second. But for the most part, we're viewing '26 much like '25. Underneath of it, as you've heard us comment, we plan to bring forward a plan that is very clearly share taking in '26. I'll stay away from guidance, and we will come talk to you more in March when we report Q4 and discuss 2026. In terms of latest perspective on pricing, so pricing has remained rational and stable with no material benefit or detriment from inflation or deflation in recent quarters, right? And as I alluded, we're maintaining healthy and regular dialogue with our supplier partners and so far, we're watching this very closely. For the most part, we believe '26 is going to be a structural unit volume growth year. Perhaps the pricing benefit is going to be slightly larger than what we've seen in '25, which was nearly muted or 0. So more to come when we talk 2026.
+
+
+Operator
+
+Our next question comes from Nathan Feather with Morgan Stanley.
+
+
+Nathaniel Feather
+Morgan Stanley, Research Division
+
+Congrats on a strong quarter. Two on my end, first, we talked about the strong net adds. And with that marketing still showing really nice leverage year-on-year. So what's working in the customer acquisition funnel to help you be more efficient in acquiring cohorts? Should that persist? And then on the margin side, the full year '25 margin guidance does imply 4Q EBITDA margins take a step down on a sequential basis. Can you just help us think through the margin puts and takes as we head into 4Q?
+
+
+Sumit Singh
+CEO & Director
+
+So on marketing, I think you have to go back 2 years and build from there. And I'm sorry to take you back 2 years. But really, this is the compounding effect of the journey that I have been very transparent in articulating over the last 2 years. If you recall, we started with connecting the funnel all the way from lower, middle and upper funnel. And that takes time to sort of build and mature because you have to essentially rev up your creative engine, you have to rev up your concepting and go-to-market. And so that takes a little bit of time. Underneath of that, we were pushing for -- I came to this call 2 years ago, and I said we're going to be mobile-first and mobile is going to be a priority. And so we have continued to see the mobile app become stronger in terms of the percentage of traffic going through it, percentage of orders going through it and overall metrics of retention of the customer file that we essentially extract through our mobile ecosystem.
+
+Number three, we -- last year, you heard me come to the call and talk about rebuilding our CRM engines, rebuilding bidding protocols, improving models and connecting these together. And so essentially, if you step back from the details, 2 things have happened, right? The output of these efforts have been, a, there's increased traffic that we are pulling, which is a result of net new assortment, programs like Autoship strengthening, much more offerings, Chewy+ program. So we've continued to innovate and bring new offerings to customers. We've continued to improve the way that we go to market. These 2 results -- we have continued to improve these 2 results in higher traffic. Then we've -- underneath of it, there is the power of SEO and the power of app that actually converts a bunch of the third party into 1P traffic.
+
+Then when traffic hits the website, you're working on improvement in experiences and our app fundamentally looks different from how it looked 18 months ago. Next year, it is going to look even better than what it looks right now. So we expect continued improved conversion. And so it's basically a calls and clicks and conversion-driven sort of phenomenon underneath of it is a lot of activity and built around a lot of innovation that we are bringing to the market in leading as a single category captain. And then -- so yes, so as we do this, marketing is getting more efficient. We've talked about it now for a couple of quarters. This one, this quarter was more definitive than the previous ones. Signals are more clear to us. We expect to take these signals into 2026 and come talk to you more in greater detail in March. Was there a follow-up?
+
+
+William Billings
+Interim Principal Financial Officer & Chief Accounting Officer
+
+Margins...
+
+
+Sumit Singh
+CEO & Director
+
+Yes. So on margin, look, it's not atypical for us to view Q4 as an investment quarter, right? Multiple things are going on. A, promo levels are higher, pricing is generally not a helpful -- not your friend in Q4. On top of that, structurally, you're essentially pushing a lot more units through your fulfillment center. So leverage that you expect in other quarters, you don't get the same type of leverage in Q4 and then marketing intensity and media rates are elevated in Q4. So it's kind of hard to evaluate Q4 on a sequential basis. We feel very good about the momentum that we have right now and the quality of execution that the team is delivering through. On a year-over-year basis, we're delivering at midpoint 90 basis points. And that equates to roughly 25% profit increase year-over-year on growth that is roughly -- that is at 8% levels. So 3x incremental profit than growth on a rate basis. We're quite pleased with that.
+
+
+Operator
+
+Our next question comes from Shweta Khajuria with Wolfe Research.
+
+
+Shweta Khajuria
+Wolfe Research, LLC
+
+Can I please try 2? First, Sumit, on gross margins, can you please talk about the trends in gross margins and how we should be thinking about it going forward, especially as we think of 2026? And just the puts and takes, how much of 2025 will actually apply for to 2026 when we think about gross margin trends? And second is when you think about the customer adds for '26 and the durability of customer adds, how should we be thinking about how much of retention is a driver versus gross adds? Where do you feel more confident? And which of the 2 factors do you think will be a bigger contributor?
+
+
+Sumit Singh
+CEO & Director
+
+Shweta, so on the first one, gross margin. So again, I'll stay away from specifics on '26, but let's look at the view the forest rather than the trees on this particular call, and we'll come talk to you on the trees in 2026. So the view of the forest is the following, right? We -- so at exit of this year, we have less than 450 basis points to go to hit the 10% long-term EBITDA margin. We expect roughly half of that will come from gross margin. The other half will come from OpEx. And so what that tells you is, first of all, there are expansion opportunities, growth opportunities in gross margin that we will continue to bank upon. Now what are they? Now there are several gross margin expanding levers, and these expand gross margin on a structural basis. There is ads that is continuing to grow steadily.
+
+There are premium category mixes that we are very well known for and continue to capitalize and consolidate share in. Private label is strengthening with the launch of Fresh. We will have more exciting news on private label to share with you on our March/April call. the health ecosystem is continuing to strengthen. Chewy+, there were concerns coming into last quarter about margin headwinds. We've kind of clearly articulated our position on it. So there's not a drag from that point of view moving forward. We expect incrementality perhaps. Yes. And so when we look at our scale, continued growth of Autoship, there are so many different vectors that are on different arcs. Now there will be a few years where these vectors will compound and you will see amplified gross margins for that particular year.
+
+On other years, we might essentially choose to -- on other years, you'll see more singularly focused returns coming from a handful of these vectors versus the cumulative effect. But when you take the long view, when you take a multiyear view, these are compounding vectors that give us confidence on the trajectory of gross margin as we've continued to educate and earn trust relative to the fact when we came to market in 2018, '19 when gross margins were at 20% levels. So that's how I would characterize gross margin. In terms of customer adds, as I mentioned, we expect customer adds to be durable. On the backdrop of a market that is going to look very much like '25, we're in the middle of forecasting 2026.
+
+And so I'll stay away from guidance, but we do expect the performance that we've shown this year alongside some of the improvements that I've talked about the marketing and the Engine and the innovation to be durable as we move into '26. In terms of gross adds versus retention, look, this is actually -- it's not which one is more important. The purpose of a business is to both acquire and to retain customers. So it's an and, it's not an oral in our opinion, but it's a mathematical equation. If you look at the overall market, there is 90 million U.S. households on a normal year when normalizations kicked in, you're seeing 10 million to 15 million new pets incrementally in each sort of household.
+
+On top of that, we believe we have roughly 50 more million people that we should be touching out there, of which 15 million of these are highly propensed to online. And the last 5 million, 7 million, 10 million are perhaps not the right type of Chewy customer. So the point is that we have a very large set of households that we can still touch. The refresh rate is not a static refresh rate. So when normalization kicks in, you should only expect tailwind on top of the results that we're delivering. And then our internal engines like Chewy Plus, like Autoship, like A, CVC, the health ecosystem, et cetera, just helps us continue to improve retention. So it's an and equation to us, and we are squarely focused on both, not just one.
+
+
+Operator
+
+Our next question comes from Anna Andreeva with Piper Sandler.
+
+
+Anna Andreeva
+Piper Sandler & Co., Research Division
+
+Great. Let me add my congrats. Nice quarter. Curious on Chewy+, can you talk about if you've seen any changes in retention when you raised the fee to $79 from $49 previously? And great to hear about expectations that the program is no longer dilutive. How should we think about that penetration into next year? And then we had a follow-up.
+
+
+Sumit Singh
+CEO & Director
+
+Okay. So Anna, in terms of the elasticity, the conversion that we saw once we raised price, conversion has remained quite strong and has exceeded our internal expectation from an elasticity point of view. So the percentage of price increase and the loss of demand conversion is essentially the ratio that I'm talking about. That is better than what we forecasted. So we like that. Number two, yes, on the margins, like, look, I mentioned that our paid Chewy+ members are already delivering gross margins that are in line with the enterprise and the higher pricing only strengthens the profile. So from an economic standpoint, we feel good about where the program is today and how it scales. It is early. Another data point that I'll give you is, at this point, 80% of our member mix is now paid, right? So you can kind of see that as the program scales, right, it will continue to become more efficient, right?
+
+So the initial investments get recouped very quickly, even quicker with the increased pricing and then the conversion is holding better than expected. Obviously, it's slightly lower than what it was at 49%, but nothing that we're too concerned about at this point. Let me see. How should we think about penetration next year? So I'll stay away from comments on next year. In terms of what we've said about last quarter, our expectations for the program haven't changed since we've spoken last quarter. Another data point that I shared on this call today was we're seeing strong member penetration in categories like hard goods and specialty that aid basket building and drive NPA consolidation. So we kind of like all the signals that we're getting. It's acting as a complementary program driving discovery across platform. especially across some of the discretionary categories.
+
+
+Anna Andreeva
+Piper Sandler & Co., Research Division
+
+That's really great. And just as a follow-up, on the 4Q guide, you mentioned net adds are running ahead of plan. Just anything else you can share? What are you seeing in the business quarter-to-date? Just maybe any learnings from the Black Friday and Cyber Week. I think you had mentioned previously that Chewy might lean into promotions in the fourth quarter. So far, I don't think we've seen that. So any update on that?
+
+
+Sumit Singh
+CEO & Director
+
+Yes. So we were pleased with the performance during this important peak period, the Black Friday, Cyber Monday week. The week came in, in line -- very much in line with our expectations. The team performed really well. Execution was strong. Supply chain backlogs were healthy. In-stock levels were maintained at really healthy levels. So overall, we were very pleased with it. The discipline around promotional spend and marketing efficiency we talked about in the call continued through this important holiday event. So your observation is spot on.
+
+Net sales and engaged sessions were up year-over-year, while total event spend and customer acquisition costs were down year-over-year, right? Overall, we've built this. As I answered Doug's question, we are running ahead of plan currently. So I don't want to get into revised guidance given that we just gave guidance. But yes, quarter-to-date, we like the momentum that we're -- that we've headed into December with. Still sort of a lot of the quarter left to go. So we'll come talk to you about this in April. And all of our scenarios are built into the guidance that we've just provided for a few minutes ago.
+
+
+Operator
+
+We have time for one final question. And our last question today comes from Dylan Carden with William Blair.
+
+
+Dylan Carden
+William Blair & Company L.L.C., Research Division
+
+Appreciate that. I'm curious, the interaction between plus and Autoship. Is the idea that the number of Autoship customers could equate to the number of plus customers and it's just expanding the basket, reaching into more discretionary categories. And to the extent the scalability of that, you've provided numbers on box productivity, which given your current scale, doesn't move the needle much. But can you provide -- you kind of mentioned some of the broader ecosystem implications, kind of where are you seeing the benefits and maybe some of the markets where you have those open?
+
+
+Sumit Singh
+CEO & Director
+
+So the interaction of Chewy+ and Autoship, so I think I was trying to articulate this at the beginning of the call with Eric's question. Let me take a crack at it again. So these 2 are complementary programs. Autoship to us is a merchandise product level membership program. It's free in nature, and it delivers -- it works like a quasi subscription, very much predictable and highly reliable. It's sort of a rinse and repeat, fill it, shut it, forget it kind of a model. What we like about Autoship is it's not a dormant program. So we see continued activity on customers -- from customers that participate in core seasonal events and attach rates. At the same time, Chewy+, right, the purpose of launching Chewy+ were -- is multifold. A, it is a discoverability driver given that Chewy has so much more to offer than just consumables and health. So it is a discoverability offering.
+
+Number two, it accelerates NSPAC consolidation. And number three, it -- we're early, so the data is still sort of building for us. But hopefully, next year, we're going to come and talk to you about this when the cohorts are large enough, it should aid in a very healthy way in improving our retention from already strong levels that we are seeing currently. So those are the 3 sort of net purposes. As you can see, the purposes kind of align back and forth between Chewy+ and Autoship. The differences lie where Chewy+ is targeted and propel to members that are spending $300 to $600, $700 with us so that there is incrementality of spend. Number two, it's driving consolidation of baskets. So faster discoverability of hard goods, the toy that you have to add, you don't have to think about kind of reaching shipping thresholds. So it's improving order frequency.
+
+The repeat sort of traffic that we've seen on the website is multifold increase from customers, et cetera, et cetera. So those are the 2 -- and they layer on because if you combine the 2, the value and convenience essentially increases multifold. And so underneath of it, we'll make sure that the program retains economic sensibility. But from a customer in point of view, these are very good programs to go to market with. On CVC wet, you said box productivity is not overly material. Can you expand on the ecosystem benefits? So I mean recall -- I mean at the end of the year, we will come forward with a detailed review/memo on how CVC is performing and our expectations for the future. So we are going to open up a look under the hood in the next few months.
+
+For now, I'll stick to the commentary that we've provided. We're seeing customer incrementality. 4 out of 10 customers that are walking into CVC are net new to Chewy. In a very short time, we see 50% of customers in CVC reach out and expand their connection to chewy.com by adding many more categories. Our retention rates are running high. Our CSAT has continued to run at 4.8%, and these are not internal metrics. These are Google ratings that I'm quoting Overall, the product is resonating really well. Vet recruiting and retention has remained really well for us, and we continue to expand. At the end of this year, we expect to be in the 16% to 18% range that we have originally forecasted.
+
+
+Dylan Carden
+William Blair & Company L.L.C., Research Division
+
+Great. I'll wait for that. I guess the question on Autoship versus plus. I mean, is it simple math to think that all Autoship customers are available to become plus members and therefore, expanding, you mentioned sort of NSPAC consolidation.
+
+
+Sumit Singh
+CEO & Director
+
+Yes, yes. But remember, the comments that I'm making are Chewy+ affords us the ability to be targeted and segmented. And that's the power of running programs on digital platforms. We can consume unified data signals in a much more accurate and precise way and target and segment the program to customers who we believe will benefit from the programs or who will find the program attractive, but also Chewy will benefit equally well from those type of sign-ups. So while Autoship is applicable to 100% of customers, Chewy+ may or may not be. And the overlap, you have to sort of combine my 2 statements in terms of NSPAC thresholds and the penetration in X categories, being nonconsumable and health categories to be able to find the intersection layers.
+
+
+Operator
+
+Thank you. Those are all the questions we have time for today. And so this concludes our call. Thank you all for your participation. You may now disconnect your lines.

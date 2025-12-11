@@ -1,0 +1,330 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from the line of Mike Halloran from Baird.
+
+Michael Halloran
+Robert W. Baird & Co. Incorporated, Research Division
+
+So first question is on the ATS segment, specifically the semi side. In the past, the higher growth areas have been driving the strength in that piece. Are you seeing any broadening out across the semiconductor applications yet or is it still concentrated in some of the areas, data center, wherever, AI, where you've seen strength traditionally? In other words, have you seen that broaden out to some of the more traditional electronic applications, auto, wherever else you want to talk to?
+
+Sundaram Nagarajan
+President, CEO & Director
+
+Yes. I would say the strength continues and remains in the semiconductor space for the AI applications, cloud computing and such. But automotive is certainly starting to stabilize for us and general electronics has been pretty decent through all of it, just lower growth, Mike, when compared to the semiconductor growth rates. Just for color, 50% of the revenues come from the semiconductor space, about 15% or so in the automotive and the rest is in electronics, so.
+
+Michael Halloran
+Robert W. Baird & Co. Incorporated, Research Division
+
+Okay. And then on the margin side of things, maybe just some help on trajectory into this year. Very robust margins, particularly MFS this quarter. Is this the right zone to think about sequentially as we work through the year, next year? Or are there any one-offs? In other words, are these the right margin levels to build off of -- are these the representative margins to build off of adjusting for revenue levels as we work through '26?
+
+Daniel Hopgood
+Executive VP & CFO
+
+Yes, it's a good question, Mike. I would say, as I look at IPS and ATS, I think certainly the right jump-off point and in line with historical performance. On the medical side, we had a really strong quarter. I don't know that 40% plus is the right way to think about it. I think we're very comfortable maintaining the upper 30s in our medical business. They had a really strong performance this quarter. Certainly, I wouldn't expect a lot of degradation, but there were some strong benefits associated with the portfolio changes that we made, as well as some operational tailwinds that we had. And so I think the upper 30s in the medical is certainly sustainable. 40% is a bit of a notable achievement this quarter.
+
+Sundaram Nagarajan
+President, CEO & Director
+
+One thing I would add, Mike, is that think of a 100 basis point improvement for the segment margins with the action of the divestiture, is maybe the way to think about it.
+
+Operator
+
+Your next question comes from the line of Jeff Hammond with KeyBanc.
+
+Daniel Hopgood
+Executive VP & CFO
+
+Jeff, we can't hear you if you're there. I think we might have a technical difficulty. Jeff's not coming through.
+
+Mitchell Moore
+KeyBanc Capital Markets Inc., Research Division
+
+Yes. Can you hear me?
+
+Daniel Hopgood
+Executive VP & CFO
+
+Yes, we can.
+
+Sundaram Nagarajan
+President, CEO & Director
+
+We can.
+
+Mitchell Moore
+KeyBanc Capital Markets Inc., Research Division
+
+Sorry about that. This is Mitch Moore on for Jeff. Just within IPS, it seems like polymer processing weakness has been masking some of the more stable growth in other parts of that business. Just as we look to 2026, what are you expecting from the polymer processing versus kind of the rest of the business? And if you could talk about order intake there and how much that's contributing to backlog and expectations for the year.
+
+Sundaram Nagarajan
+President, CEO & Director
+
+Yes. For polymer processing, what I would tell you is what we have seen in order entry and backlog buildup, we're at the bottom and our expectation is, going into the year, that things improve from where we are, certainly not getting any more difficult than being a drag on IPS.
+
+Mitchell Moore
+KeyBanc Capital Markets Inc., Research Division
+
+That's helpful. And then just on 1Q and ATS, looks like there's some pretty healthy growth implied in 1Q. Just if you could help us walk through how much of that is comps, how much of that is underlying markets getting better or timing of shipments? Just if you could help us -- help me walk through that.
+
+Daniel Hopgood
+Executive VP & CFO
+
+Yes. No, happy to add some color. I would say, from a demand standpoint, we see good underlying stable demand and growth, as Naga mentioned, particularly in the semi space, but also a good, stable ongoing growth in the electronics, automotive and general electronics space. As you think about first quarter, as you'll recall, we did have a slow start to the year in ATS last year. And so there are some favorable comps year-over-year, and that's driving part of the performance in Q1. As we sit here today, entering the year, we're in a much stronger position from a backlog standpoint from where we started the year last year. So we're off to a good start, I would say, certainly for the first quarter. Some of that is the prior year comp. But really, it's really driven by ongoing demand and a stronger backlog entering the year is really the big driver.
+
+Operator
+
+Your next question comes from the line of Matt Summerville with D.A. Davidson.
+
+Matt Summerville
+D.A. Davidson & Co., Research Division
+
+Can you guys hear me okay?
+
+Sundaram Nagarajan
+President, CEO & Director
+
+Yes.
+
+Daniel Hopgood
+Executive VP & CFO
+
+Yes, we can.
+
+Matt Summerville
+D.A. Davidson & Co., Research Division
+
+Okay, perfect. So can you put a little bit of a finer point on what you're seeing with respect to X-ray Inspection in the sense that I would imagine if a lot of the semi-driven growth is being steered by AI, cloud, kind of the more technologically rich chip architectures, I would think the pull-through in almost more of a real-time pull-through on x-ray would be more pronounced maybe than what you're seeing. So can you kind of talk about why the two pieces of the business may be decoupled, whether you think that's sort of temporary? Just kind of walk me through that again, specifically focused on x-ray. And then I have a follow-up.
+
+Sundaram Nagarajan
+President, CEO & Director
+
+Sure. On the x-ray side, think about x-ray, it has great exposure to our semiconductor, but it also has a pretty solid exposure to automotive. So some of these differences you're seeing in x-ray when compared to ATS, you also can attribute to some of the automotive exposures we have in that business. We certainly like the trends that we are seeing in the business right now. We've got a number of new products that are launching and so we are pretty excited about going into this year. I think x-ray begins to contribute to ATS's growth.
+
+The one other point that I would make for you on x-ray is that if you think about these composite structures that people are building, where you have both logic as well as memory on that, there are parts of that structure cannot be inspected with x-ray, right? There are parts that need to be inspected with x-ray and there are parts that cannot be. And for Nordson's position, we have both those technologies. So you typically use acoustic for memory and you use more x-ray for -- you use x-ray for logic chips, right?
+
+So if you think about those two, we certainly benefit from them. But there is a transition in technology that is happening in testing as we speak and we have some new technologies that we are testing right now which certainly will have an impact, but probably not in '26, probably in '27. So overall, the x-ray business is in a good spot, certainly did not contribute last year. Some of that is automotive exposure. But we feel like our x-ray business is in a good spot going into this year and will contribute to growth in the ATS segment.
+
+Matt Summerville
+D.A. Davidson & Co., Research Division
+
+And then just as a follow-up, with Atrion seemingly in a good spot, maybe just talk in a little bit more detail about M&A actionability from here on out at 2.1x net leverage and whether or not at 250-ish, wherever your stock is going to trade today, are you still a buyer in the open market?
+
+Sundaram Nagarajan
+President, CEO & Director
+
+Yes. I'll wait for that -- I'll pass that part of that question to Dan. But first, let me take the M&A piece of it, right? Just as a reminder, Matt, you know this about us. Our goal with M&A remains the same as what we shared during our Investor Day, which is really adding highly differentiated businesses that are additive to the growth of the portfolio, right? That's while remaining strategically and financially disciplined. So that is the strategy. Nothing really has changed.
+
+We have a pretty healthy pipeline. We continue to be in part of processes. Obviously, in some cases, we are not successful because we choose to exit the process or in some cases, we just -- that the project ideas did not meet our financial criteria or strategic criteria, right? So we continue to have a robust pipeline. We continue to work the pipeline. You did not see any actionability in '25, primarily because we didn't have projects that met both those things. And clearly, stock price was very favorable for us to be supportive of our stock by buying back share. So Dan, let me have you address the last part of Matt's question.
+
+Daniel Hopgood
+Executive VP & CFO
+
+Yes, yes. And just to add maybe some color on the capital allocation thinking, our goal and frankly, one of the strengths of the company with our strong cash flow is the ability to be balanced. And so you're going to continue to see us not just do one or the other, but continue to do both, meaning returning cash to shareholders and continuing to identify and bring in high-quality assets to the portfolio.
+
+So let's say, I like your thinking, let's say that we're in a 250 range today. We think there's still upside to our stock. We've just authorized late last year an increase in our authorization that gives us coverage in the near term. And I would say we're going to continue to be balanced in deploying the strong cash that we generate, both continuing to work our acquisition pipeline and balancing that with shareholder returns.
+
+Operator
+
+[Operator Instructions] Your next question comes from the line of Andrew Buscaglia from BNP.
+
+Andrew Buscaglia
+BNP Paribas, Research Division
+
+So maybe a high-level question on your guidance to start out. You -- Dan, you kind of mentioned these tougher markets seem to have troughed. So that's an interesting comment. Yet the low end of your guidance really doesn't assume much growth this year, and it seems unreasonable if some of these tougher markets, you're past the worst. So what's giving you the hesitation to guide at the low end, such a low range? And can you walk through maybe where you see some risk and you don't want to stick your neck out just yet?
+
+Daniel Hopgood
+Executive VP & CFO
+
+Yes. No, it's a good question, Andrew. And again, I would say, put the guidance in perspective, it's a range of potential outcomes, right? And we think it's important as a company to plan for both the upside and the downside. I think at this point in time, obviously with our first quarter guide, we're going to have -- we're expecting to have a strong start to the year. We think it's prudent to plan for kind of our midpoint guidance. And on the downside, I would say that contemplates something happens this year.
+
+Now certainly, sitting here today, I would tell you, we don't see a lot of indicators of any downside, but we still think it's prudent to plan for any potential outcome. And as the year plays out, we'll continue to update our guidance based on what we're seeing. But sitting here today, we feel very good, but we think it's still important to make sure that we're -- as we've learned, if nothing else this year, a lot can happen in a year and being prepared for any potential outcome in the marketplace is important. That said, where we sit today, we feel quite good. We're going to have a strong start to the first quarter, which is implied in our guidance, and we'll see how the rest of the year plays out. Does that make sense?
+
+Andrew Buscaglia
+BNP Paribas, Research Division
+
+Yes. No, it's fair. Yes, that's fair. Yes. And maybe focusing on your IPS market for a second, there's some enthusiasm amongst investors around improving industrial production, PMI factors this year, especially if we don't have another tariff situation. But I would think that -- can you talk about your IPS segment as it pertains to that? I mean it's weak and it's been tracking that -- somewhat tracking that comment for of weak and kind of weak industrial factors, but also you have that ARAG weakness that's masking it or exacerbating it. So yes, can you talk about how you perceive that business in terms of sensitivity to the industrial economy and your outlook there?
+
+Sundaram Nagarajan
+President, CEO & Director
+
+Yes. So if you think about -- maybe just for a brief moment, talk about 2025, then talk about 2026. If you think about 2025, the IPS segment was weighed down, the performance that is published in the print is weighed down by plastic processing and automotive, right? That's -- and that kind of takes -- took away most of the progress that the team has been delivering in our core IPS businesses. And precision ag grew double digit in the year, right? So that is 2025.
+
+As we look into 2026, we continue to see investments in packaging and product assembly, our hot melt adhesives businesses. We feel very good about the order entry and the backlog in our precision ag businesses. Now remember, precision ag for us is a European business. It's not a North American business. We are a market leader in Europe and in South America. So we see -- we feel good about that. And if you think about our aftermarket parts, which is upwards of 55%, 56% of this business revenue comes from aftermarket parts. So we feel really good about stable demand there, right? And then polymer processing has troughed, automotive has troughed. And so any nominal recovery there is all upside to this business. So as we sit here today, this business getting back to GDP plus kind of growth is what we are planning for.
+
+Operator
+
+Your next question comes from the line of Chris Glynn with Oppenheimer.
+
+Daniel Hopgood
+Executive VP & CFO
+
+Chris, if you're there, we can't hear you.
+
+Christopher Glynn
+Oppenheimer & Co. Inc., Research Division
+
+Okay. I was showing unmuted and then it prompted me to unmute again and again. Can you hear me?
+
+Daniel Hopgood
+Executive VP & CFO
+
+We can.
+
+Sundaram Nagarajan
+President, CEO & Director
+
+We can.
+
+Christopher Glynn
+Oppenheimer & Co. Inc., Research Division
+
+Okay, great. Just want to drill back down into a little bit at the lower end. It sounded like what that contemplates is more the hypothetical versus anything you're seeing. But wanted to understand how the dynamic of lumpiness of electronic processing systems orders might play into it. Does the idea of lumpiness get negated on a 12-year basis and fiscal '26 should fully participate in what you've often characterized as the beginning of a multiyear run for ATS?
+
+Daniel Hopgood
+Executive VP & CFO
+
+So I think that's the right way to think about it. I mean, a, your initial comments, look, we were planning for a range of scenarios and certainly part of that range is a downside scenario, right? But sitting here today, I would say that's more of a hypothetical. I think that's a good way to think about it.
+
+With regards to ATS, that's kind of exactly how we think about it. And I'll maybe point to 2025 as an example. We had a couple of quarters of 15% growth. That's not necessarily a run rate on a 12-month basis. If you look at our full year, we grew our ATS segment about 4%. And so looking at -- we expect good mid-single-digit growth over, I think, to your point, maybe a 12-month period is a good way to think about it. That said, you're going to see some peaks and valleys, right, over that period based on delivery timing. Does that make sense?
+
+Christopher Glynn
+Oppenheimer & Co. Inc., Research Division
+
+Yes, makes sense. And then just last one on polymer processing, obviously you had an excellent fiscal '24 and a pretty steep downturn in fiscal '25. You've said that is categorically behind you. Is -- are there rumblings customer activity in polymer processing? And is that a factor that could push you nicely to the upside of the guidance range? I think last quarter on the call it was referenced a couple times about customer discussions in polymer processing having turned decidedly.
+
+Sundaram Nagarajan
+President, CEO & Director
+
+Yes. Look, I think the best way to think about it is we have hit the bottom. When we look at activity in the marketplace, on the system side of the business, we still seem to be in a good place. Order entry is starting to look good, starting to look at backlog building. But there is also a dies business in there which is not growing at the same clip as our systems business there. So it's one of those cases where we believe that we have bottomed out. Even in the dies business, it has bottomed, it is not going any further down. The recovery seems to be different in these two businesses.
+
+So now we're getting a little bit more detail, more detail than we normally talk about, Chris, but we're providing this just to help you understand. So the best way to think about polymer processing is, we're at the trough. We're expecting some nominal growth is what we are expecting in our guide. Should there have something bigger and better than what we have planned, then that definitely puts us on the upside for that segment.
+
+Daniel Hopgood
+Executive VP & CFO
+
+And I would just add to that similar comments with regards to our automotive businesses. Automotive, we're not -- we see that, that's troughed, it's stabilized, we're expecting nominal growth, but we're not expecting any big recovery in our automotive markets.
+
+Sundaram Nagarajan
+President, CEO & Director
+
+Sorry, Chris. And this is why we give a range, particularly this early in the year, so.
+
+Operator
+
+Your next question comes from the line of Brad Hewitt with Wolfe Research.
+
+Bradley Hewitt
+Wolfe Research, LLC
+
+So you mentioned backlog is up 5% year-over-year, but could you quantify how backlog trended sequentially? And then any additional comments on the sequential backlog trends by business would be helpful.
+
+Daniel Hopgood
+Executive VP & CFO
+
+Yes. So backlog is up 5% versus where we started last year. Backlog is down sequentially, but that's actually normal, Brad, because Q1 is always seasonally our lowest quarter given holiday and other schedules. And so that kind of sequential reduction in backlog is a normal trend, is the way that I would think about it. What's more important is I think the comparison year-over-year starting point standpoint. I think that's the right way to think about it.
+
+Bradley Hewitt
+Wolfe Research, LLC
+
+Okay. Great. And then as we think about seasonality throughout the year, in terms of the revenue and EBITDA split, is it fair to assume roughly normal seasonality for 2026? And then in terms of organic growth, do you think that should be similar in first half versus second half?
+
+Daniel Hopgood
+Executive VP & CFO
+
+Yes. I would say we're planning for a normal year from a seasonality standpoint. Typically, what you see is Q1 is always our lowest start given the timing of the year, the holidays as well as kind of the year-end timing of shipments and customer activity. And then you see that sequentially improve throughout the year. I would say we would expect a normal kind of seasonal trend at least sitting here today across our business.
+
+Sundaram Nagarajan
+President, CEO & Director
+
+I mean there is some Chinese New Year that moves from quarter-to-quarter, but there's a nominal impact. This year, Chinese New Year would be in the second quarter, so.
+
+Operator
+
+Your next question comes from the line of Walter Liptak with Seaport Research.
+
+Walter Liptak
+Seaport Research Partners
+
+Naga, congratulations on the 5 years of NBS Next. And so I wanted to ask, as you look back, what do you think went best for you guys and what was the toughest? And if I'm recalling, there was a little bit more of like a growth focus on your NBS Next. How do you feel about that now? And what should we be thinking about over the next 5 years?
+
+Sundaram Nagarajan
+President, CEO & Director
+
+Yes. No, thank you, Walt. If you think about NBS Next and if I were just to sort of go back to where we started. Where we started was the company's greatest opportunity was growth. And so really we structured NBS Next around how do we deliver on that great growth opportunity for Nordson. And it all started with strategic discipline. So if you think about how the company thinks about strategic discipline across all of our divisions that is well potted down, this is how our teams think about how do I resource a new growth opportunity? How do I build a new product line? How do I innovate around a new product opportunity? How do I operationally be positioned for that growth?
+
+So I'm really happy where we are as a company in terms of using segmentation in our strategic discipline. So strategic discipline really is segmentation. And so using segmentation, our teams identify the best growth. We're able -- we are now beginning to holistically implement. I would say in terms of leadership level performance, this is sort of the process metrics we use within the company to say where we are at in the effectiveness. I would tell you we are halfway there is probably the best way to think about it. So we still have plenty of room left in terms of continuing to deliver growth with this framework.
+
+If you take the 5 years -- take the first 2 years as the years when we built this framework, deployed it, trained, getting really good at it, and the next 3 years is really starting to deliver results. If you think about EBITDA margins, we went from 27% to 30% in that first period. And then if you think about the next period where we're beginning to deliver growth results, the expansion from 30% to 32%, right?
+
+So what you really see is the company using the framework to drive growth. Where we are today and where we have the greatest opportunity is, over this period of time, the company's operational excellence have gotten really great, innovation has gotten stronger, and commercial excellence is sort of where we are spending most of our time today. And so I'm super excited. The team is really working incredibly hard in sort of how we play in the markets we have chosen to play in. And so all of the work in the next couple of years is around commercial excellence, connecting the dots between segmentation, innovation, operational excellence and commercial excellence.
+
+Walter Liptak
+Seaport Research Partners
+
+Okay. Great. And on the profitability side, as you pointed out, the profits were good. Are we -- what inning are we at now, do you think with that, that operational EBITDA part of NBS Next?
+
+Daniel Hopgood
+Executive VP & CFO
+
+Yes. So I guess what I would say, I'll go back to Naga's comments, growth is our best opportunity as a company. And I think I would say that's where the margin enhancement comes from going forward is continuing to effectively grow the organization and basically throwing off normal incrementals that will lead to natural margin accretion over time. That's our primary focus and I think our best opportunity. That doesn't mean that there aren't things that we can -- yes, you can always improve your operations, you can always get better. But I would say our best opportunity is continuing to grow the organization and growing it more aggressively and allowing that to be basically your margin accretion.
+
+Sundaram Nagarajan
+President, CEO & Director
+
+One thing I would add to that is just over the long term, Walt, don't hold us to some short periods of time here. If you think about an average 35% incremental for the company blended between acquisitions and organic growth, a 35% incremental implies over the longer term our margins start to converge on that number, right? And we're running at 32% today. But that is primarily through growth. And I think that is the key, hopefully you take away is we are solely focused on growth, which is a big part of who we are and -- but growth in a very profitable way. As you have seen the team demonstrate year in, year out, operationally, pretty darn good incrementals. So if you sort of take that incrementals and sort of project out to the longer term, that's what you would end up. Hopefully, that helps you.
+
+Walter Liptak
+Seaport Research Partners
+
+Okay. It does.
+
+Operator
+
+Your next question comes from the line of Robert Jamieson with Vertical Research Partners.
+
+Robert Jamieson
+Vertical Research Partners, LLC
+
+Can you all hear me?
+
+Daniel Hopgood
+Executive VP & CFO
+
+Yes. We hear you fine.
+
+Robert Jamieson
+Vertical Research Partners, LLC
+
+Perfect. Perfect. Well, congrats on the quarter and all the colors have been very helpful this morning. Just wanted to touch on full year EPS guidance. And with the midpoint at 9% growth in your long-term target range of like 10% to 12%, what bridges you from the midpoint to achieving the upper end of that target range? Would you expect that to be primarily operational execution, maybe some help from share repurchases? Or are there potential upside scenarios in your end markets? And where do you think that might come from if we did see that -- the top end of the range being achieved?
+
+Daniel Hopgood
+Executive VP & CFO
+
+Yes. Well, relative to 2026, I mean, certainly that 9% is a midpoint and also based on a midpoint growth. So stronger growth in our base business would be certainly one item to bridge that. The other thing I would point out is the 10% to 12% growth was a combination of organic and inorganic. And we're not factoring in any acquisitions this year. That doesn't mean that we're not working on -- actively working on opportunities, and that would be additive to the organization as well.
+
+So I think a combination of those two, continuing to grow our base business with our NBS Next formula that will deliver upside. 3.5%, I think it was a good midpoint aiming target, and that's what we kind of factored into our long-term thinking. Delivering better than that in certain years will deliver higher earnings growth as well as continuing to add attractive assets to the portfolio.
+
+Robert Jamieson
+Vertical Research Partners, LLC
+
+Okay. Great. And then just nice free cash flow conversion last couple quarters, can you talk a little bit about the working capital improvements and sustainability there? Have there been structural improvements there that would be able to -- for you all to sustain conversion above your long-term average rate?
+
+Daniel Hopgood
+Executive VP & CFO
+
+Yes. No, it's been -- our teams have done some nice initial work. It's been really a targeted focus area for us, simply because we see it as an opportunity to continue to enhance our working capital utilization. I would tell you, not only is it sustainable, we think there's more opportunity ahead of us. And so we are certainly focused on that. And I would expect us to continue to generate strong cash flow performance going forward.
+
+Operator
+
+There are no further questions at this time. I will now turn the call back to Naga for closing remarks.
+
+Sundaram Nagarajan
+President, CEO & Director
+
+Thank you for your time and attention on today's call. We're making great progress on the Ascend Strategy, and we are positioned well to deliver solid growth in fiscal 2026. We wish you a happy holiday season.
+
+Operator
+
+This concludes today's call. Thank you for attending. You may now disconnect.

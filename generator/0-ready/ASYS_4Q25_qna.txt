@@ -1,0 +1,161 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions]
+
+And the first question will come from Craig Irwin with ROTH Capital Partners.
+
+Craig Irwin
+ROTH Capital Partners, LLC, Research Division
+
+Yes, I was on mute. I apologize for that. So Bob, can you maybe talk a little bit about your visibility with AI customers? I don't know if you can maybe just give us general color on backlog and backlog trends or orders and order indications and maybe even just the direct investment you're seeing in the different facilities that you're selling into there as far as the customer commitments.
+
+Robert Daigle
+President, Chairman & CEO
+
+Yes. Yes. Let me walk through that, Craig. Yes. So again, broadly speaking, we're seeing very strong demand. I would characterize my sense right now is most of the equipment in the pipeline has been really being put into existing facilities, but what we're hearing is there are new facilities being built as well. So I think there's plans that go out there quite a while. In terms of our visibility and backlog, it's one of these -- and I think we've talked about this before. We have a very efficient, effective manufacturing organization for this back-end equipment. We can basically, for the most part, book and ship in the same quarter. Our lead times will run 6 weeks or so for this equipment out of our Shanghai factory.
+
+So typically, we're getting orders and in most cases, shipping within the same quarter. Having said that, there is an increased level of business where we're -- in some cases, they're telling us we're still finishing up a factory, and it's going to be in, for example, the March quarter or in some cases, the June quarter before they want to take delivery. So I'd say we're getting a little bit more visibility out there because of other critical constraints in installing equipment. But for the most part, our volume has been driven by book and ship in current quarters.
+
+Craig Irwin
+ROTH Capital Partners, LLC, Research Division
+
+Understood. Understood. You've explained the nature of the business in the past, and it makes sense that it's not necessarily changing, just moving very well. So that makes sense. One area that you guys have really impressed me over the last couple of years is on the execution, bringing down OpEx, right, the $13 million in savings. Can you maybe frame out for us what the sublet savings could be from the underutilized facilities? And I don't know if you can get more specific about which facilities and whether or not these are sales or things where you're already leased, and you can -- you're subleased or if there's assets that can be sold.
+
+Robert Daigle
+President, Chairman & CEO
+
+Yes. No, these are leases of underutilized facilities and both -- in both segments. I'd say combined, we're probably looking at once we sublet both facilities, let's say, $700,000 to $1 million in annualized savings associated with those.
+
+Craig Irwin
+ROTH Capital Partners, LLC, Research Division
+
+Okay. Excellent. Excellent. Then to change subjects again, there's quite a lot of interest out there about new applications for silicon carbide. Some of these AI chip producers are apparently looking at different substrates for future generations of chips. I know you guys get involved very early on with different customer groups as far as development necessary for new processes. Are you seeing some new customers maybe come in or new opportunities come in that might broaden your participation away from TPS into substrates for some of the AI momentum we're seeing in the market?
+
+Robert Daigle
+President, Chairman & CEO
+
+Yes. If it migrates to silicon carbide for processing, it would be more on the consumable side of things, Craig, that we would participate. Actually, I thought what you were going to reference is there's a lot of literature and discussion around the fact that the data centers themselves are going to likely distribute instead of having low-voltage power across the facility, go to high voltage and step it down at the rack. And that allows them to significantly reduce the amount of copper needed for busing across these AI data centers.
+
+So I'm hearing more about that where basically it's another -- with EV pretty depressed right now across the industry, it's a potential growth driver for silicon carbide where it's the power electronics for these data centers. I've heard a little bit about silicon carbide as substrates. And again, I think for us, it would be more -- it could translate into consumables if that materializes.
+
+Craig Irwin
+ROTH Capital Partners, LLC, Research Division
+
+Yes. I can clarify that for you. I'm sure you know, but you're probably limited as far as what you can say. So I'll say it publicly. I know that the silicon carbide produced by Wolfspeed is used by EPC Power a private company based in California for the EPC power blocks sold by Vertiv and those use 3.3 kV MOSFETs, which are much higher power than the MOSFETs using EVs. And that is the primary product going in on the leading-edge data centers today. So I do know that DC is adopting silicon carbide for power.
+
+What I was curious about and really where things can get insanely interesting is if it's a substrate for the actual -- for the AI chips themselves and not just the power.
+
+Robert Daigle
+President, Chairman & CEO
+
+Yes. And my sense would be that's a ways out if that develops, it's -- I think I haven't heard anything imminent on that front, I guess, I would say, Craig.
+
+Operator
+
+The next question will come from Michael Legg with Ladenburg.
+
+Michael Legg
+Ladenburg Thalmann & Co. Inc., Research Division
+
+Bob, now that you've done a great job cleaning up the balance sheet and getting costs in line and your comment on overserving the underserved, can you talk a little bit about the opportunity in the service area?
+
+Robert Daigle
+President, Chairman & CEO
+
+Yes. So what we're focused on is really high-value niche opportunities or areas of the market where -- let me characterize it this way. If you're a large semiconductor application area, you tend to get pretty high service levels and product availability is always there and you get development support for new products, new applications. And what we're finding are opportunities, and they tend to be a little bit more nichey in the medical area and the defense area where for a large player, the volumes may not be all that meaningful. But for us, it creates a nice opportunity for this reoccurring revenue stream. So we're leveraging our foundry service where we do contract development.
+
+We do -- we can help qualify products with some of these OEMs basically to get our products into some of these applications as an alternative to some of the large incumbents. And again, it's just going to take time to develop because it requires qualification, but it is very sticky business. It has a nice margin profile. And I think it helps develop some very strong connection with some key customers because we're there to support them where in many cases, others aren't.
+
+Michael Legg
+Ladenburg Thalmann & Co. Inc., Research Division
+
+Okay. Great. And then just a follow-up. On the CFO search, can you give us any update on your progress there?
+
+Robert Daigle
+President, Chairman & CEO
+
+Yes. So we -- it's -- we just started, and we'll keep everybody informed as things develop. But we're still early in the search.
+
+Operator
+
+The next question will come from Mark Miller with The Benchmark Company.
+
+Mark Miller
+The Benchmark Company, LLC, Research Division
+
+Just wanted to clarify, you indicated that the spread between equipment and reoccurring revenues was 60-40. Was that for both the Thermal Processing and the Semi Fab sales? Or was it some differences there?
+
+Robert Daigle
+President, Chairman & CEO
+
+Yes. It's overall, I'd say the majority of the Semi Fabrication Solutions are the consumables parts service. And probably of the TPS segment, I'll give you a rough number, let's say, 80% equipment, 20% on the reoccurring side.
+
+Mark Miller
+The Benchmark Company, LLC, Research Division
+
+In terms of your backlog, is it -- you said you've been focusing on higher-margin products. What does it look like in terms of the margin profile of your existing backlog? Is it better than what you've been reporting recently?
+
+Robert Daigle
+President, Chairman & CEO
+
+Yes, we basically cleaned that up for the most part, Mark. If you -- when we talked a year or 1.5 years ago, we had a lot of things in our backlog had -- I would characterize as substandard margins and pretty much moved beyond that now. So what's sitting there is of high quality for the majority of it.
+
+Mark Miller
+The Benchmark Company, LLC, Research Division
+
+You indicated that auto remains soft for you, but I was a little surprised by that because it's my understanding, at least for EVs that auto sales in China are better this year than last year.
+
+Robert Daigle
+President, Chairman & CEO
+
+Yes. I think -- yes, most of the most of our exposure in the auto industry is with the Western OEMs. So let's say, U.S., European players, less so in Mainland China. So my comments, frankly, referred to the semiconductor industry that serves the Western world.
+
+Operator
+
+The next question will come from George Marema with Pareto Ventures.
+
+George Marema
+
+A couple of questions. Do you guys expect any effect from the ramp-up of Blackwell versus Hopper and also kind of the ramp-up of these custom ASICs like TPUs, et cetera?
+
+Robert Daigle
+President, Chairman & CEO
+
+They -- from our perspective, they're basically using our understanding very similar processes and equipment capabilities. So I think to the extent they ramp and it's more volume that's beneficial. But in terms of significant technology differences at this stage, I wouldn't say there isn't much impact on us if the mix shifts.
+
+George Marema
+
+Okay. And then as you look out to '26 in terms of your focused R&D on innovative investments and new products, any update on any new products for '26 and new initiatives?
+
+Robert Daigle
+President, Chairman & CEO
+
+Yes. So let's talk about the initiatives. And again, there's really 2 areas of focus for our investments. On the Thermal Process Solutions side of things, it really is around enabling continuous processing for higher density, higher -- tighter pitch devices. where we think it could potentially open opportunities to participate in more of the processes that are used for these GPUs, TPUs and frankly, even the electronic assembly of dense boards for the AI data servers. So I think that's our emphasis for TPS is really around how do we participate in more of the process. And by the way, that equipment has a high level of complexity and the requirements are more stringent. So we think the ASP would also be meaningfully higher.
+
+Then on the SFS side of things, our investment is really on driving our growth in our consumables, particularly -- specifically our chemicals business where we have some very strong capabilities on the application development that leverage -- basically leveraging our foundry. We have very strong technology folks in our R&D labs, our formulators. So -- and we think there's -- based on the engagement level, we think there are customers that can significantly benefit from our capabilities and support. So that's where we're investing. Very much line of sight, though. I've said this before, we're a small company. We work on -- these aren't grand initiatives, if we build it, they'll come kind of things that we're working on things that are very much involve customer engagement so that the goal here is to convert R&D efforts into meaningful revenue as quickly as possible.
+
+George Marema
+
+Okay. And then one last one. Has there been any change in the competitive landscape in thermal area?
+
+Robert Daigle
+President, Chairman & CEO
+
+Nothing that I'm aware of visible to, George. I think it's pretty much very similar situation in that space.
+
+Operator
+
+Ladies and gentlemen, at this time, we've reached the end of the question-and-answer session. I'd like to turn the floor back over to management for any closing remarks.
+
+Robert Daigle
+President, Chairman & CEO
+
+All right. Thank you. Well, first of all, in closing, I'd like to thank Wade for his service to Amtech over the past 16 months and his assistance as we transition the responsibilities to a new CFO. Our back-office processes and systems have greatly improved as a result of Wade's efforts, and I wish him the best in his role in his new company.
+
+And in closing, I also want to thank everybody on the call today or those who will participate in the recast for their interest in Amtech and for joining our conference call today. And we look forward to updating you on our progress in the months to come. Have a good evening, everyone.
+
+Operator
+
+The conference has now concluded. Thank you for attending today's presentation. You may now disconnect.

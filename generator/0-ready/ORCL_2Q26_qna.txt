@@ -1,0 +1,142 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from the line of Brad Zelnick with Deutsche Bank.
+
+Brad Zelnick
+Deutsche Bank AG, Research Division
+
+Congratulations and a particular shout out to Mahesh and the team for standing up a massive amount of capacity in this quarter. My question is for Clay, or maybe Doug. Oracle is clearly the destination of choice for the most sophisticated AI customers, but this is a far more capital-intensive proposition, unlike any business Oracle has ever been in before. Very specifically, how much money does Oracle need to raise to fund its AI growth plans ahead?
+
+Clay Magouyrk
+Chief Executive Officer & Director
+
+Thanks for the question, Brad. This is Clay. So look, I'll answer that question in 2 parts. First, let me give you kind of the reason why it's hard to answer that question exactly. So -- the thing I think that a lot of people don't understand is that we actually have a lot of different options for how we go about delivering this capacity to customers. There's obviously the way that people think about it, which is we buy all the hardware upfront. And as we -- as I talked about it at my financial analyst meeting, we don't actually incur any expenses for these large data centers until they're actually operational.
+
+So then it goes on to, well, how do you pay and what's the kind of cash flows look like for the stuff that goes into the data center? Well, we have some other interesting models that we've been working on. One of them is that customers can actually bring their own chips. And in those models, Oracle obviously doesn't have to incur any capital expenditures upfront for that model.
+
+Similarly, we have different models that we're working on with different vendors where some vendors are actually very interested in the model where they rent their capacity rather than selling their capacity. And as you can imagine, that comes with different cash flow impacts that are favorable and reduce the overall borrowing needs and capital required for Oracle.
+
+So as you can imagine, as we look at all of these kind of commitments, we will use a range and a variety of those such that we minimize the overall cost of capital as well as, in certain cases, we'll be raising our own funds. As part of that, I think, it's important that everyone understand that we're committed to maintaining our investment-grade debt rating.
+
+So now to give you some more specifics, what I would say is we've been reading a lot of analyst reports, and we've read quite a few that show an expectation of upwards of $100 billion for Oracle to go out and kind of complete these buildouts. And based on what we see right now, we expect we will need less, if not substantially less money raised than that amount to go and fund this buildout. So hopefully, that helps answer your question, Brad.
+
+Operator
+
+Your next question comes from the line of Ben Reitzes with Melius Research.
+
+Benjamin Reitzes
+Melius Research LLC
+
+Appreciate it. Good to speak with you. In light of the answer to that question, the path for OCI margins seems very important to improving the EBITDA and cash flow. So at the Analyst Meeting you said margins for AI workloads, for OCI would be in the 30% to 40% range over the life of a customer contract. I guess my question is how long will it take your AI margins across all your OCI data centers to ramp to that level? And what needs to happen to get there?
+
+Clay Magouyrk
+Chief Executive Officer & Director
+
+Yes. Thanks for the question, Ben. Look, the answer is it really depends. So the good thing is that as I mentioned earlier, we don't actually incur any expenses for the data centers until they're actually built up and running. And then we've highly optimized a process by which we actually put capacity in and then are able to hand that over to customers, which means that the period of time where we're incurring expenses without that kind of revenue and the gross margin profile that we talked about is really on the order of a couple of months.
+
+So in that scenario, that time period is not material. So a couple of months is not a long time. The -- what actually matters much more is the overall mix of the data centers that we have online, right, and how they're growing compared to the total amount that we're scaling across the world. And so I think as we go through this buildout phase, right now, we're in a phase of very rapid buildout without the majority of the capacity online, obviously, the aggregate mix is going to be lower. But as we actually get the majority of this capacity online, and that's really our focus, the best way to improve margins quickly is to actually go out and deliver capacity faster. That ends up very rapidly ensuring that we get to that 30% to 40% gross margin profile for all of the AI data centers.
+
+Operator
+
+Your next question comes from the line of Tyler Radke with Citi.
+
+Tyler Radke
+Citigroup Inc., Research Division
+
+And this question's for Larry or Clay. So Oracle has clearly established itself as a leading provider for AI infrastructure to AI labs and in some cases enterprise clients. How are you thinking about the opportunity to sell additional platform services such as database, middleware, other pieces of the portfolio, similar to how we saw cloud providers add that on at the early days of the public cloud space? And what might be some of the similarities or differences that you see with the emerging AI platform as a service market versus the traditional cloud platform as a service market?
+
+Lawrence Ellison
+Co-Founder, Chairman & CTO
+
+Well, let me start with traditional cloud and traditional Oracle database. So I think the biggest change we've made there was to make our database available in everyone's cloud. So you can buy the Oracle database at Google or Amazon, it's available at Microsoft Azure as well as OCI. So that was the most -- maybe that was the first move we made. We call it Multicloud, and we actually embed OCI data centers within the other clouds, so they get the latest, greatest version of the Oracle database.
+
+Second thing we did is we actually converted the Oracle database or added capabilities to the Oracle database to allow you to vectorize all of your data. So it's a vector database. Some people call that an AI database. So it's designed to make data available to models. You can then -- once you vectorize your data, you can place AI models on top of that and the AI models can understand what's in the database and reason with the data that's in the database.
+
+So we think that combination of making our -- the data available in our database also accessible by AI models dramatically increases the value of the data. We think that's very -- so far, none of the other large-scale databases have been able to do that. We can do that -- not only we can do that and keep your data secure. That's one of the bigger issues. We have to scale it, keep everything reliable, keep it secure, and we actually have to add all of those capabilities and features to the Oracle database. So that was step 2.
+
+First, Multicloud. Second, vectorize all the data and make it accessible by all of the popular AI models. Third step. Well, it's great that we're making the Oracle data, Oracle database data available to these AI models, but companies actually have data that's not stored in an Oracle database, it's not stored in an Oracle application. So we built an AI lakehouse we call the AI data platform that actually points to and vectorizes all of your data, whether it's in an object store in different clouds, whether it's a bespoke application, whether it's in another database. It really will take the universe of your data, catalog that data, vectorize it and allow an LLM to do multistep reasoning on all of that data.
+
+Now the thing that's really remarkable about that is think about asking one query, asking one question, and the model looks at all of your data. Normally, when you ask a question, you have to direct it to this database or this application. You can't say, look, I'd just like to know who's next customer I should be selling to. I'm a salesperson in territory. I'm looking -- I want to look at all the accounts in my territory and I want to see who's the best prospect in my territory. Well, that means looking at contractual data, means looking at publicly available data. That means looking at our sales system, at our support system, all of these separate systems.
+
+Well, suddenly, all of that data is unified. We take all of your data and unify it so you can ask a single question, and the AI models can find the answer to that question regardless of what data store it's in. That's really a unique proposition, and we think that thing is going to turbocharge the use of our database and the use of our cloud dramatically.
+
+Operator
+
+Your next question comes from the line of Brent Thill with Jefferies & Company.
+
+Brent Thill
+Jefferies LLC, Research Division
+
+Question for Larry and Clay, on the fungibility of your infrastructure. What would you have to do to convert a data center from one customer to another, such as if one of the larger customers was unable to pay?
+
+Clay Magouyrk
+Chief Executive Officer & Director
+
+Yes. Thanks, Brent. So I think the first thing to understand is that what we deliver for our AI infrastructure is exactly the same cloud that we deliver for all of our customers. We made specific choices at the beginning of OCI around bare metal virtualization and the way in which we do things like secure wipe of hardware, et cetera. But the reason I bring that up is that take as an example, anyone right now with a credit card can show up and sign up for any one of those hundreds of regions that I talked about earlier, and you can spin up a bare metal computer as quickly as a few minutes.
+
+And at the end of that you can turn it off, and I will recycle that, and I can hand it to another customer in less than an hour. And so when you ask the question of, well, how long does it take to transfer capacity from one customer to another? It's on the order of hours. And what actually, I think, is kind of a corollary to that question is, well then, how long does it take customers to adopt it? And thankfully, we have a lot of experience getting more than 700 AI customers on our platform, including the vast majority of the large model providers already run on OCI. And when we give them capacity, they typically spend that capacity up in the order of 2 to 3 days.
+
+And so when I think about how long does it take for me to take capacity handed to the customer, it is not a laborious process, it is not a unique process. And something else I would say that I think a lot of people don't realize about our cloud is this is actually happening all the time. So we have lots of customers that might sign up for a few thousand of one type of GPU and then they'll come back and say, well, actually, I'd like to get even more capacity somewhere else. Will you take this back? And we do that all day, every day, and we're constantly moving customers around and adding aggregate net capacity.
+
+So we have the technology, we have a secure base from which to do that, and we also have a customer base of a lot of demand, such that whenever we find ourselves with capacity that's not being used, it very quickly gets allocated and provisioned.
+
+Operator
+
+Your next question comes from the line of Mark Moerdler with Sanford Bernstein.
+
+Mark Moerdler
+Sanford C. Bernstein & Co., LLC., Research Division
+
+Congrats on the quarter. Doug, you gave some color earlier tonight that I'd like to dig in on. Clay presented a slide at the Financial Analyst Meeting where he showed the revenue and expenses for a single data center. Doug and Clay, can you talk about the cash flow for that same data center, starting with the commitment for the data center and then the hardware and how that flows into becoming cash flow positive? And then how that rolls up across multiple data centers? Any color would be really appreciated.
+
+Clay Magouyrk
+Chief Executive Officer & Director
+
+Sure. Happy to answer, Mark. So as we talked about earlier in this call, it starts with the actual data center itself and the power capacity along with it. And the way in which we structure that is that we incur no cash expenses until that's fully delivered and provisioned and fit for purpose. So then it really comes down to what does the cash flow look like for the capacity that's going inside the data center. And as I talked about earlier, that really depends on kind of the business model and the financial model that we've used procuring that.
+
+In some cases, customers actually want to bring their own hardware. In which case, we don't have any capital expense, and it's really around the data center itself, possibly some networking gear as well as human labor costs. We have other models where vendors want to rent that capacity, in which case those rent payments start when the capacity is provisioned for the customer. And so customer cash flow comes in, we're then taking that cash flow and pushing that out to all of the different suppliers.
+
+And then obviously you've got the model where Oracle takes its own cash, pays upfront for the hardware, and then puts the capacity in. That's obviously the most cash-intensive upfront and then there's depreciation schedule over the next several years. So it really depends on the exact business and financial model used for each of the data centers.
+
+And then you ask, well, how do they layer together? Well, thankfully, they're not -- we don't need calculus for this one. Basic arithmetic is enough because they actually just layer on top of each other. So if you have a time schedule for one data center and a time schedule for a second data center, the cash flows add together. And obviously, if the data center comes in sooner, you'll have the expenses as well as revenue coming in sooner. If the data center moves out, then the expenses and the revenue also move out.
+
+Operator
+
+Your final question comes from Don DiFucci with Guggenheim Securities.
+
+John DiFucci
+Guggenheim Securities, LLC, Research Division
+
+Okay, I won't make you kiss my ring. It's actually John DiFucci. Anyway -- I'm sorry, listen, a lot of my questions on infrastructure have already been asked and they're really important questions because that's a big part -- that's your big part of your growth. But I have a question on the applications business. Mike, you said applications are going to accelerate this year. Why the confidence in this business when all your large SaaS peers are seeing just the opposite, where growth is decelerating?
+
+Especially because we saw something similar about Oracle's application business last year, we didn't really start to see it until the fourth quarter. We've heard some things in the field around 1 Oracle, your go-to-market motion where apps and infrastructure are more combined versus separate, and you also talked about combining vertical and horizontal apps teams here. Is that it? Is it mostly go-to-market? Is there something more about the products or something else that we should be thinking about?
+
+Mike Sicilia
+Chief Executive Officer & Director
+
+Well, yes, thanks for the question, John. First, I think it's a combination of things but let me just start with what I think is happening in the industry. All of our competitors are largely in the best-of-breed business because they're not in the applications business in totality. They're not in the back-office business. They're not in the industry business and they're not in everything in between. They're not in the front of the house, the back of the house and the middle of the house. We are the only applications company in the world that's selling complete application suites. Then you add in baked in AI, the AI halo baked in AI right into our applications. So we're over 400 AI features live in Fusion already.
+
+I mentioned 274 customers live on our clinical AI agent, the go-lives for these clinical AI agents, which are a new breed of SaaS applications for us, are measured in a matter of weeks. And you're looking at an industry like health care where it would take months or years to get anything done of that magnitude. Weeks -- and by the way, John, the customers are implementing these things all by themselves. They don't need us to help them. You just roll them out and they work. So we're in the applications industry suite business. We're building AI into our back-office applications, our front office applications and we are building applications that are also AI agents themselves are, in fact, AI agents. That's why you see the growth rates in our industry applications of 21% in the quarter. Our Fusion ERP is up 17%, SCM up 18%, HCM up 14%, CX up 12%. Again, all on a bigger base.
+
+Then I think the next piece of this is you add in the AI data platform. So if you'd like an industry suite of applications, then you'd like to create your own AI agents, you like to create and unlock your own enterprise data on top of it all. We are the only -- all of those ingredients for a customer. And I think as you look at customers tiring of spend on best of breed because the integration costs are so high, and it's hard to bolt AI onto all that because you're actually not retiring anything in the process. We're in a very unique position and I think we're starting to see it in the numbers too, John, with the deferred revenue for apps growing at 14% now, faster than the in-quarter revenue growth of 11%. For all those reasons, I'm optimistic on our apps business going forward. It's a continued growth engine for Oracle.
+
+John DiFucci
+Guggenheim Securities, LLC, Research Division
+
+As you were talking, I sort of clarified in my mind, when I think of 1 Oracle, I used to think of -- I thought of it when I started to hear about it as a go-to-market motion, but it's more than that. It's actually -- it's a product thing, too. It's everything.
+
+Mike Sicilia
+Chief Executive Officer & Director
+
+Thank you, John.
+
+Ken Bond
+Senior Vice President of Investor Relations
+
+A telephonic replay of this conference call will be available for 24 hours on our Investor Relations website. Thank you for joining us today. And with that, I'll now turn the call back to Tiffany for closing.
+
+Operator
+
+Ladies and gentlemen, this concludes today's call. Thank you all for joining. You may now disconnect.
