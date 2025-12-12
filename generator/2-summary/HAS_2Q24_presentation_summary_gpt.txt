@@ -1,0 +1,66 @@
+[ 어닝콜 요약 ]
+
+매출 -18% YoY ($995M)
+- 디지털 라이선싱과 게임 부문 성장 견인, 소비재 부문 매출 감소 영향
+- eOne 사업 매각 영향 제외 시 매출 감소폭 6%로 완화
+
+Sales by segment
+1) Wizards of the Coast $N/A (YoY +20%)
+   - 디지털 라이선싱 강세, Monopoly Go!와 Baldur's Gate 3 기여
+   - MAGIC: THE GATHERING Modern Horizons 3 세트 성공적 출시, Bloomboro 세트 기대
+   - 운영 마진 54.7%로 전년 대비 17포인트 상승, 디지털 믹스 확대 및 공급망 효율화 영향
+
+2) Consumer Products $N/A (YoY -20%)
+   - 브랜드 종료 및 재고 정리 영향으로 매출 감소
+   - My Little Pony, Kayou 트레이딩 카드, FURBY, PLAY-DOH 등 일부 브랜드 선전
+   - 운영 마진 약 0%로 전년 대비 3.5포인트 하락, 제품 믹스 및 물량 감소 영향
+
+3) Entertainment $N/A (YoY -90%)
+   - eOne 필름 및 TV 사업 매각 영향으로 대폭 감소
+   - 매각 영향 제외 시 30% 감소, 타이밍 요인 존재
+
+GPM 및 OPM 수치는 별도 명시 없음
++ 운영 마진 개선은 디지털 믹스 확대, 공급망 생산성 향상, 로열티 비용 감소, eOne 매각 효과 등
+- 소비재 부문 매출 감소 및 제품 믹스 악화로 일부 마진 압박
+
+[ 가이던스 요약 ]
+
+Guidance FY2024 (updated)
+- Revenue growth Wizards of the Coast down 1% to 3% vs. 기존 down 3% to 5% [상향]
+- Revenue growth Consumer Products down 7% to 11% vs. 기존 down 7% to 12% [상향]
+- Operating margin Wizards of the Coast ~42% vs. 기존 38% to 40% [상향]
+- Operating margin Consumer Products 4% to 6% vs. 기존 4% to 6% [유지]
+- Adjusted EBITDA $975M to $1.025B vs. 기존 $925M to $1B [상향]
+- Entertainment revenue down 약 $15M vs. 기존 유지 [유지]
+- 2024년 현금 잔고 2023년 수준 유지 예상
+
+주요 변화
+- 디지털 라이선싱과 게임 부문 실적 호조로 Wizards 가이던스 상향
+- 소비재 부문은 혁신 제품에 대한 초기 수요 신호와 소매업체 지원으로 매출 감소폭 축소
+- eOne 매각에 따른 비용 절감 및 수익성 개선 지속
+
+[ Comments 요약 ]
+
+[디지털 라이선싱 및 게임 성장]
+① Monopoly Go!가 $3B 이상 매출을 기록하며 디지털 라이선싱 성장 견인
+② Baldur's Gate 3 및 MAGIC 세트 출시로 디지털 및 테이블탑 게임 매출 확대
+③ 디지털 매출이 Wizards 매출의 절반 이상 차지하며 운영 마진 대폭 개선
+④ John Hight 전 Blizzard Warcraft GM 영입으로 디지털 게임 역량 강화
+
+[소비재 부문 혁신 및 재고 관리]
+① Beyblade 글로벌 출시 및 PLAY-DOH, Nerf 등 핵심 브랜드 혁신 진행 중
+② 재고 수준을 역사적 최저치로 낮추고 공급망 효율성 강화
+③ 소매업체와의 강한 협력으로 하반기 신제품에 대한 수요 기대
+④ 비용 절감과 제품 믹스 개선 노력에도 불구하고 매출 감소 영향 존재
+
+[운영 효율화 및 조직 강화]
+① 공급망 및 운영 프로세스 개선으로 비용 절감 및 의사결정 속도 향상
+② Stephanie Beal 신임 Supply Chain Officer 임명, 운영 혁신 주도
+③ Dan Shull 신임 Chief Digital Information Officer 영입, 디지털 및 IT 전략 강화
+④ eOne 매각으로 비용 구조 개선 및 수익성 향상
+
+[브랜드 및 라이선싱 전략]
+① My Little Pony, Kayou 트레이딩 카드 등 라이선싱 사업 성장 지속
+② 파트너십을 통한 글로벌 브랜드 확장 및 신규 게임 출시 활발
+③ TRANSFORMERS 1 영화 개봉에 맞춘 제품 혁신 및 마케팅 강화
+④ 팬 기반 13세 이상 소비자 중심 전략으로 장기 성장 모색
