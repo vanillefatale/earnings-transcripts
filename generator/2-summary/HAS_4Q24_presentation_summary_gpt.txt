@@ -1,0 +1,73 @@
+[ 어닝콜 요약 ]
+
+매출 -7% YoY ($4.1B, eOne 제외 기준)
+- Wizards of the Coast 및 Digital Games 부문이 4% 성장하며 전체 실적 견인
+- Consumer Products 부문은 브랜드 정리 및 재고 축소 영향으로 12% 감소
+- 라이선싱 사업 강세와 비용 절감으로 수익성 대폭 개선
+
+Sales by segment
+1) Wizards of the Coast and Digital Games $[미공개] (YoY +4%)
+   - MAGIC: THE GATHERING와 Monopoly Go!가 성장 견인, 디지털 라이선싱 사업 호조
+   - Baldur’s Gate 3가 기대치 대비 두 배 가까운 매출 기록
+   - MAGIC 생태계 활성화, MagicCon 참석자 증가 및 인기 세트 판매 호조
+   - D&D 5판 첫 대규모 업데이트 및 베스트셀러 도서 기록
+
+2) Consumer Products $[미공개] (YoY -12%)
+   - 라이선싱 사업 성장에도 불구하고 NERF, Star Wars 등 주요 브랜드 부진과 브랜드 정리 영향
+   - Beyblade, Furby, My Little Pony 등 일부 브랜드는 성장세 유지
+   - 할인율 축소 및 재고 정리로 수익성 개선, 조정 영업이익률 6%로 6.7%p 상승
+
+3) Entertainment (eOne 포함) $[미공개] (YoY -88%)
+   - eOne 매각 영향으로 대폭 감소, 제외 시 4% 감소
+
+GPM 41.8% (Wizards, +약 600 bps)
++ 수익성 높은 매출 믹스, 비용 절감, 재고 손실 감소
+- MAGIC Universes Beyond 세트 관련 로열티 비용 증가 예상
+
+OPM 20% 이상 (회사 역사상 최고치)
++ 비반복 비용 감소, 사업 믹스 개선, 공급망 효율성 향상
+- 일부 브랜드 구조조정 비용 및 투자 지속
+
+[ 가이던스 요약 ]
+
+Guidance FY2025 (updated)
+- Revenue growth 소폭 증가 (전년 대비 약 +0% 내외) [유지]
+- Wizards revenue +5~7% (기존 대비 유지)
+- Wizards operating margin 39~40% (전년 대비 하향, 로열티 비용 증가 영향)
+- Consumer Products revenue -0~-4% (기존 대비 유지)
+- Consumer Products operating margin 8~10% (상향, 비용 절감 효과)
+- Entertainment revenue 및 margin 각각 플랫 및 약 50% 유지 [유지]
+- Adjusted EBITDA $1.1B~$1.15B (상향, 소비재 부문 수익성 개선 반영)
+- CAPEX 약 $250M, 절반은 비디오 게임 개발 투자
+
+주요 변화
+- MAGIC Universes Beyond 세트 출시로 Wizards 성장 기대
+- NERF 및 Star Wars 구조적 부진과 라이트한 엔터테인먼트 스케줄이 소비재 매출에 부담
+- 미국 관세 및 무역 환경 변화 대응 위해 공급망 다변화 및 가격 전략 실행
+- 비용 절감 목표를 2027년까지 $1B로 상향 조정, 50%는 순이익 개선에 반영 예정
+
+[ Comments 요약 ]
+
+[Wizards of the Coast 및 디지털 게임 성장]
+① MAGIC: THE GATHERING와 Monopoly Go!가 강력한 1-2 펀치 역할을 하며 14년 중 13회 성장 기록
+② Baldur’s Gate 3가 예상보다 두 배 가까운 매출 달성, 디지털 게임 포트폴리오 강화
+③ MAGIC 생태계 활성화 및 콘텐츠 확장(Netflix 애니메이션, 영화, 라이브 액션)으로 팬층 확대
+④ D&D 5판 첫 대규모 업데이트와 베스트셀러 도서 기록으로 커뮤니티 성장 지속
+
+[Consumer Products 수익성 개선 및 브랜드 재정비]
+① 브랜드 정리 및 재고 축소로 매출은 감소했으나 할인율 축소와 비용 절감으로 수익성 대폭 개선
+② Beyblade, Furby, My Little Pony 등 일부 브랜드는 성장세 유지하며 포트폴리오 내 균형 유지
+③ NERF와 Star Wars는 구조적 부진 지속, 사업 모델 혁신 필요성 언급
+④ 비용 절감 목표를 2027년까지 $1B로 상향하며 운영 효율성 강화에 집중
+
+[Playing to Win 전략 및 파트너십 강화]
+① ‘Play’와 ‘Partners’에 집중하는 전략으로 비핵심 사업 정리 및 콘텐츠 예산 95% 축소
+② Mattel과 Play-Doh Barbie 협업, Sabre Interactive와 AAA급 신작 비디오 게임 개발 등 신규 파트너십 발표
+③ 라이선싱 사업 3년간 60% 성장, 1000개 이상 파트너와 4000개 협업 프로젝트 진행 중
+④ 향후 3년간 파트너 주도 투자 $40억 이상 예상, 엔터테인먼트, 테마파크, 비디오 게임 등 다각적 확장
+
+[재무 건전성 및 비용 구조 혁신]
+① 2024년 $370M 총 비용 절감, $227M 순 비용 절감 달성하며 가이던스 초과 달성
+② 부채 $83M 감축, 레버리지 비율 개선, 배당금 $390M 지급으로 주주환원 지속
+③ IT 및 백오피스 현대화, 디자인 프로세스 민첩성 강화, 공급망 비용 생산성 향상 추진
+④ 2025년 CAPEX $250M 계획, 절반은 비디오 게임 개발에 투자하여 미래 성장 동력 확보
