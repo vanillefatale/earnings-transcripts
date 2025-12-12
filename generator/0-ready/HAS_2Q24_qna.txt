@@ -1,0 +1,243 @@
+Question-and-Answer Session
+
+Operator
+
+Thank you. [Operator Instructions]. Our first question comes from the line of Eric Handler with ROTH Capital. Please proceed with your question.
+
+Eric Handler
+
+Good morning. Thanks for the question. Chris, what if you could talk a little bit big picture for Wizards, your recent hiring of John Hight to take over from Cynthia. Obviously, a huge ridges background for him at Blizzard. You now have 4 people on your board with video games background. Can you talk about how you're thinking about internal development of video games and what you're willing to commit to capital for that business?
+
+Chris Cocks
+
+Sure thing. Good morning, Eric. Thanks for the question. Yes, John, I think, is a luminary hire. He's had a major hand in a bunch of my favorite gaming franchises, whether it's Warcraft, Hearthstone, God of War and even going way back to Command & Conquer. He's worked on some great stuff, which I think is perfectly on point with what Wizards of the Coast is all about and what our digital gaming strategy is all about which is extending a bunch of great mid-core and hard-core brands and an expertise in designing for those kinds of audiences and helping us digitize what those brands can do. I think between our Board moves and between talent that we brought on Board, most recently with John, but even before that, studio leaders we have like Ames Kirshen, who was in charge of Batman Arkham series of Warner Bros, James Ohlen, who was the Head of Creative Design at BioWare, responsible for the first Baldur's Gate, Neverwinter Nights, Mass Effect. We're going all in on becoming a digital play company.
+
+I think Gina has talked a lot about the kind of the capital that we've invested. I think our -- roughly our capital envelope is about $250 million a year. About half of that is going into digital games. We think that's roughly around a steady state for us. Our goal is to be shipping 1 to 2 new games per year starting as early as late 2025, potentially early 2026. And I think we have a balanced approach to that. When you look at our game, when you look at our portfolio of investments in games, whether they're partnerships or JVs that we're doing or just fully internal investments. And then you look at our whole line up of licensed games, we have 150 projects that are either active in the market or in development. I think it's important for us to have a hand as a publisher to guide our franchises and to work on the areas and the audiences that we think are hyper important. But I also think it's important for us to work with the best partners in the business and extend those franchises in areas where either we don't have the expertise or we don't have the platform. And I think we've been doing a good job of it. It's no accident why I think we're the number one licensor in the space. And I think we're going to be a top publisher eventually in the space, and we're going to take our time and do it right.
+
+Gina Goetter
+
+Hi, Eric. This is Gina. Eric, I just have one point of clarification just so that folks grab it as we talk about the capital, so that $250 million number that Chris quoted is for the entire company. And as you said, about half of that is going against these games that is probably the right run rate as we take it forward here. So just -- I don't want people to go online to the $250 million. That's representative of the whole company.
+
+Eric Handler
+
+Okay. That's helpful. And then as a follow-up, 3Q in your consumer products business in toys tends to be a very strong quarter for direct imports. Can you talk about what's happening there and how the supply chain is working for shipping?
+
+Gina Goetter
+
+Yes. Great question. I would say, as we move through Q2 we saw very smooth shipments with our DI [ph]. We didn't really see any sort of volatility or funds in kind of movement of goods with DI. We're not anticipating a significant impact as we move through Q3 and Q4. Obviously, we're watching the tightening that we're seeing in some of the spot markets. But again, we're contracted out. We feel really good about our ability to access inventory and we're feeling confident of our ability to get it on shelf in times of the holidays.
+
+Eric Handler
+
+Thank you.
+
+Gina Goetter
+
+You're welcome.
+
+Chris Cocks
+
+Thanks, Eric.
+
+Operator
+
+Thank you. Our next question comes from the line of Megan Alexander with Morgan Stanley. Please proceed with your question.
+
+Megan Alexander
+
+Hi, good morning. Thank so much. I wanted to just dig into the guidance raise, if I could. So maybe a couple part question and happy to repeat anything if it doesn't make sense. But you raised, I think, by, call it, 35 million at the midpoint, give or take. I think that's also what you said you exceeded from the Monopoly Go! minimum guarantee relative to your expectations. So I guess just to clarify, as the guidance raised just for the fact that Monopoly Go! came in better in 2Q and then the second part is it does seem related to that, like MAGIC is perhaps doing better than you expected. You did call out some benefit from an international publishing deal in the second quarter. So if there's any way to quantify that and how that flows through to the guidance, that would be helpful as well? Thank you.
+
+Gina Goetter
+
+Sure. Absolutely. Morning Megan. So as we think about the overall guide, I think you've got the simple way in terms of the upside from Monopoly Go! really just translating all the way down to our EBITDA update. That's the primary driver of the raise. I mean, obviously, the margin is richer. We're feeling a little bit more bullish on the consumer product side, but that's the main headline. In terms of MAGIC performance, specifically within the quarter, yes, it is doing better than we had expected, really that Modern Horizons 3 has proven to be a fair comp against Lord of the Rings within the quarter. That was a positive. In terms of the contract, it's roughly $20 million of benefit that came in. We're calling it out because it was $20 million.
+
+It's a normal course of business. We have those in kind of puts and takes, just let Chris talk about all of the number of deals and partnerships that we have in the works. So over the course of the year, it will prove to be immaterial for this quarter, it was a big revenue gain.
+
+Megan Alexander
+
+Got it. Okay. That's helpful. And then maybe if I could just stay down Monopoly Go! a bit. Again, it seems like minimum guarantee, you got 35 million. I think if I'm doing my math right, there's maybe 65 million implied in the back half. So a little bit of step down on a quarterly basis, but I think it's in line with the way you were thinking about it to start the year. So would be helpful if you could just talk about kind of what you're seeing -- what you saw over the quarter from a revenue perspective and Scopely it’s marketing investment and how you're thinking about the second half and whether that's changed at all?
+
+Gina Goetter
+
+Yes. Good question. Yes, let's level straight on the map. For the first half of the year we had $45 million of revenue book into our P&L. So 5 million was just the minimum guarantee that came into Q1. And then we had $40 million in Q2. So 35 million was that over delivery and then 5 was the minimum guarantee. What's modelled in our back half then is $60 million and see your point it is a step down from what we saw play through in Q2. So as we thought about our modelling in the back half we're thinking of the decay rate that monthly decay rate of call it 3% to 5% and consistent marketing is what I think I said in my prepared remarks, that consistent marketing can range anywhere from call it 25% up to 35%. And to your point of what we've seen Scopely do as we move through the first half is kind of within that range. Obviously, those two pieces the decay rate and the marketing are variables that we don't control. I mean we kind of understand where Scopely is headed with marketing, but ultimately it is their decisions in terms of how much they spend and at what end of that range. But for us we thought about the modelling, we know that Monopoly Go! is going to be a material contributor to our P&L this year and for many years to come. So as we thought about it, we just didn't really want to get out over our skis in terms of the forecast. I mean all of you are looking at the same data that we are almost at the same time. And so if you -- what we're watching the sensor tower data played through in the last couple of months, it was a little bit bumpy when it came to the decay rate. So we absolutely kind of took that into consideration as we were modelling at the back half of the year. So as we go, I mean, the thing that we'll remain committed on is being super transparent about the assumptions both around decay rate and marketing so that we can all stay in the same page of what we're expecting for this year and as we head into 2025.
+
+Chris Cocks
+
+Yes. I think the only thing I'd add Megan is the seasonality, we don't quite understand yet on the game. So if we're airing on the side of caution a little bit, it's because we don't quite get the seasonality yet. However, where I do think we have some bullishness is on the mid and long term for the game. When you look at games that reach this hyperscale like Monopoly Go! has and you look at just like the sensor tower data for North America and Europe, 10 of the 20 best performing games have been out for 5 or more years. So this is a game that's going to be a really strong and positive annuity for us for a long time to come. We're still learning a little bit quarter-to-quarter what the contribution will be.
+
+Megan Alexander
+
+That’s really helpful. Thanks so much.
+
+Gina Goetter
+
+Thank you.
+
+Operator
+
+Our next question comes from the line of Arpine Kocharyan with UBS. Please proceed with your question.
+
+Arpine Kocharyan
+
+Hi, thank you for taking my question. Has anything changed in your outlook and thank you for the answers to the initial question that answered some of my questions? So I was just wondering, has anything changed in your outlook for MAGIC: THE GATHERING underlying business if we were to exclude, obviously, the digital aspect of puts and takes for the back half. In terms of today's guidance revision is there any change in the underlying outlook either towards better or slightly worse as it relates to the analog part of the business and then I have a follow-up.
+
+Chris Cocks
+
+No. I mean the analog part of the business is doing better than I think we would have expected. It was up around 5% for Wizards in the first half of the year. When you look at the toy category as a whole, it's really a MAGIC and LEGO that I think are outperforming and really kind of driving the over performance in the category Trading Card Games and Building Sets. And we don't see a reason for that to abate in the second half of the year. I think when we think about MAGIC, we think a little bit about what the release cadence looks like. It's going to be lighter this year than it was last year. And we look at the quality of the sets and we think those are very strong. If you just look at like pre-orders for Bloomboro on Amazon.com and look at like the new release charge the top performers, it's one of the best performing sets we've seen for MAGIC in several years. So we're pretty bullish on that. I think the second half is going to be lighter this year than it was last year just because of the release cadence, but I think you're going to see a nice uptick in 2025 with a really stacked line up that we have starting relatively early in the year with Final Fantasy and I think having a nice coda to that with our first Marvel release.
+
+Arpine Kocharyan
+
+That's very helpful. Thank you. And then Chris I had a bit of a bigger picture or rather a very long-term question related to the Nuance shift to kind of Hasbro being a games company that's making choice from toys and games company before. If you think about the success of Monopoly Go! and upside from that franchise that was primarily sort of due to lower customer acquisition costs to do the strength of that franchise that really essentially stand from a traditional toy. How does longer term kind of departure from traditional toys physician Hasbro to continue to win in digital? I'm not sure if my question makes sense, but it's a very sort of long-term big picture question?
+
+Chris. Cocks
+
+No, I think I get the crux of where you're going and Gina might want to open as well. When I talk about games, IT and toys being the core of Hasbro. What I really mean is that's what I think a healthy great modern toy company is ultimately going to become. So it's about skating to where the Puck is going as opposed to where the Puck has been. I think physical products kids will always be important, but when you look at what the megatrends are inside of the business of play, play is aging up. Play is going more international. It's going more digital, it's going more direct and partners are becoming more and more important to be able to extend brands into additional aisles whether that's the toy category or outside of the toy category and additional experiences. And I think our strategy is all in across each of those. We still have a bit of turnaround work to do in our core toy business. We've been losing some volume on that the last couple of several quarters, but I feel good about how we're getting our arms wrapped around that, particularly the cost side. I think you're going to see that core toy business start to get to growth in the later stages of the Q3 and more decisively in Q4 in 2025. But when I look at the cards that Hasbro have and look at where the megatrends are in terms of the business at play, I feel really good about how we're positioned and what the long-term prospects of the company is.
+
+Arpine Kocharyan
+
+Yes. Great. Thank you.
+
+Gina Goetter
+
+Just to build because I think that was an excellent setup. We all owe you a broader conversation about where we're headed and to come in the new year. We'll be an Investor Day, we'll sit down and talk through all of this because our strategy is shifting as you heard and it's following the growth trends, which follow the profit and the business models, too. So I mean you can see it play through in our results where we're headed is a much more profitable place as we're leaning into games and IP. And then all of the efforts that we're making on the toy turnaround. Our focus there is really on getting back to profitability and getting back to growing share in the categories with where we're competing as a I think we're -- our IP, our business and our brands are set up very well for where we're headed.
+
+Arpine Kocharyan
+
+Thank you both. Very helpful.
+
+Operator
+
+Our next question comes from the line of Christopher Horvers with JPMorgan Chase & Company. Please proceed with your question.
+
+Christopher Horvers
+
+Thanks and good morning. So my first question is, can you talk about the headwind that the Transformers movie lab presented here in the second quarter and also the exited business headwind as we try to tease out what the underlying business trends in the consumer products business and then bridge that to your assumption for the inflection ahead in the third and fourth quarter and perhaps reconcile that back to what you're seeing on the POS side?
+
+Chris Cocks
+
+Sure, Chris. I'll give the English major answer and then you'll get the Kern answer from Gina following. Good morning, by the way. So second half -- second quarter of last year, we had quite a number of releases, both from our partners at Disney as well as the Transformers movie, Transformers POS was up something like 90% in Q2 of 2023. It's down a bit this year. It's down like 5% or 6% through the first of the year, which is remarkable because we haven't had a lot of content since that movie. So we see a surge in Transformers POS likely starting in the August, September time frame going into Q4 around the release of Transformers One every indication we have from early screenings and tracking is that, that movie is going to be a real sand favorite with some nice legs into families. We think it will sell a lot of toys as Transformers movies tend to have done. And then we like also the back half of the year in terms of new content that we have for a Beyblade, Deadpool & Wolverine is shaping up to be a nice big movie yet. I don't think we're going to be selling a lot of preschool product for that. But certainly, there's a nice collectors business associated with it. So when we think about Q3 and we think about growth, we see that entertainment window popping up in the September time frame and extending into Q4. And then a lot of the new resets that we did in Q2 for things like NERF and for things like Beyblade, you'll really start to see the impact of those in August and September as the Fed start to roll out past like some initial quantities in 100 or a couple of hundred stores to several thousand stores.
+
+Gina Goetter
+
+Got it. And now for the math answer, not the English one. Good answer. Good morning. So as we think specifically about what is happening within our shipments in the quarter, besides TRANSFORMERS, which absolutely was an impact, closeouts were down materially again. So we talked about closeouts in Q1, we were down about 50%. Q2, we were down 57%. So hurt shipments health margins, so that we're okay with that trade-off. And then the second piece that you asked about was the exited businesses. So that in the quarter represented about three to four points of the decline and that's going to carry with us into the back half of the year. So in aggregate, a whole year, I think about three to four points still coming from those divested businesses or exited businesses.
+
+Christopher Horvers
+
+So my good segue. So I'm trying to think about the underlying gross margin rate as the business as it currently looks today obviously, mix going forward in MAGIC and Digital Games could be added to this. But if we just simply back out the effect of the do step up, the $35 million, it looks like you're running a 73-ish kind of underlying gross margin rate and obviously, there's more cost savings to come. So can you maybe share any thoughts about where that is now and how that -- is that right and how that grows over time?
+
+Gina Goetter
+
+Yes. I think that's generally right. And as we continue to see that mix shift towards digital, that's going to be a big driver of the continued growth. As we think about the back half of the year and what's going to carry with us, we still have a fair amount of cost saves within our purchase expenses and our people cost savings. So all of the actions that we put in place at the end of last year that will continue to increase in terms of magnitude as we move through the back half of the year. And then as we move to '25 and '26, we're going to have all of the benefit of a refined mix plus a much, much healthier below-the-line cost structure.
+
+Christopher Horvers
+
+Got it. Thank you very much.
+
+Gina Goetter
+
+You’re welcome.
+
+Operator
+
+Thank you. Our next question comes from the line of Drew Crum with Stifel. Please proceed with your question.
+
+Drew Crum
+
+Okay, thanks. Hey, guys, good morning. Maybe just sticking with margins. Can you remind us what the major margin headwinds are for the Wizards business in the second half? It looks like the implied margin is in the mid-30s range versus 48% for the first half. And I guess, more broadly speaking, why would you not be able to reach a 20% EBIT margin before 2027? What are the impediments to achieving that stated target earlier?
+
+Gina Goetter
+
+We were wondering who was going to ask that question. So Drew, you win the gold star. Okay. So for your question on the year to go on Wizards, it all comes down to Baldur's Gate. That's really the single biggest driver of what we're lapping. Just think about the revenue contribution last year, it was very, very centralized in Q3 -- and while Monopoly Go! is going to be a good contributor for us in the back half, it's not going to completely offset the impact from Baldur's Gate as modeled as within our guidance today. So that's what causes the drag on margin in the back half for Wizards.
+
+Chris Cocks
+
+And the latter MAGIC schedule.
+
+Gina Goetter
+
+Yes, yes. But the really big one is going to be that Baldur's Gate. In terms of what getting to the 20%, I mean, we have been striking distance of getting there this year. I know that you can all do the math and see that. There's really two things as we think about crossing that threshold. One is Monopoly Go! So if that does contribute more than that $105 million, that will take us over. The other thing is CP. So we still have a range in margin on the CP and the range on the revenue.
+
+We are able to finish on the better end of both of those ranges, that will also help to get us there. But we are making really good progress. At this point, I'm not going to commit to any more cost savings. I feel like we've got the right cost savings number, net cost savings number for the year, that 200 million to 250 million but if Monopoly Go! continues to be better than what we are modeling is in our guidance now and CP performs a bit better, yes, we could absolutely get there before 2027.
+
+Drew Crum
+
+Got it. Okay. Very helpful. And then maybe, Chris, a competitor earlier this week suggested toy sales outperformed during the first half and raised their market forecast for the year. Do you share that view? And if so, where do you see toy sales shaking out for the industry in '24?
+
+Chris Cocks
+
+Sure. Good morning. Two things. So yes, toy sales are doing better in the first half of the year. That's really driven by Building Sets and Trading Card Games. So I give a lot of credit to LEGO and MAGIC: THE GATHERING, frankly, for really understanding their consumers and driving upside with what I think is the fastest-growing segment inside of the business of play, which is consumers 13 plus and really 18 plus when you think about MAGIC and what LEGO's been doing. When you look at the balance of the industry, it's roughly performing what I think us and a lot of the industry prognosticators and our peers in the industry thought. And we see that roughly carrying into the back half. So when we think about our guidance for toys, call it, down high single digits when you kind of take the median of what we're seeing. We're factoring in both the exited businesses what we think will be a toy industry, which will be down kind of in that mid-single digit range, but starting to hopefully improve a bit in the back half and the category tailwinds we saw in building blocks and TPG, potentially growing a bit for more categories. A lot of our guidance, though isn't really based on the industry. It's based on our execution and the retailer support we have.
+
+Drew Crum
+
+Got it. Thanks, guys.
+
+Operator
+
+Thank you. Our next question comes from the line of Alex Perry with Bank of America. Please proceed with your question.
+
+Alex Perry
+
+Hi, thanks for taking my questions and Congrats on a great quarter here. I wanted to drill down a little bit more on the MAGIC business. Can you just talk about the performance of Modern Horizons 3 and how big of a contribution that could be versus Lord of the Rings given you said that it's the fastest selling set of all times so far, which would imply that it's sort of off to a quicker start than Lord of the Rings. And then maybe just remind us of the contribution of Lord of the Rings and sort of how you think Modern Horizons 3 could stack up against that?
+
+Chris Cocks
+
+Yes, sure. So Modern Horizon did get off the gates really fast, a lot of collector heavy sets like formats like Modern Horizons appeals to do and we think it will have a very, very long tail. When you look at Modern Horizons 2, we were continuing to sell cards for that 30 months into its run. So we expect Modern Horizons 3 to, if not be our best-selling set of all time, which is currently held by Lord of the Rings to certainly be a contender for it. I think the difference with it is going to be the timeline. Lord of the Rings had a major set release in June and then kind of a minor photo to it in December, which allowed it to hit 200 million really fast. Modern Horizons 3 has a big set release and then a bunch of reprints, which will span out over a couple of years. So I don't think we're going to get the same bump that we did from Lord of the Rings in Q4 from Modern Horizons like we did last year. But I think we'll have a nice fatter tail going into 2025 and potentially 2026 from a product like that.
+
+Gina Goetter
+
+Yes. Alex, my only add, as you look at the quarter, specifically within the quarter, Modern Horizons 3 actually outperformed Lord of the Rings. But to Chris' point, as you look over the full year because we won't have that holiday set, that's where kind of the overall lodge will be a little bit short.
+
+Alex Perry
+
+Incredibly helpful. Thanks for your clarity there. And then just digging in on consumer products, I just wanted to ask sort of what signs of green shoots are most encouraging in consumer products? I guess, what toys and properties are you most excited for in the back half? And can you give us any early reads on Beyblade specifically sort of any channel commentary you're getting there?
+
+Chris Cocks
+
+Well, I think you're still my top green shoot with just mentioning Beyblade. Beyblade is performing well in some early out in select markets. It's probably the best performing Beyblade release we've ever had in the U.K. It usually does really well in France. And again, it's doing well in France. And in the select spots that it's available in the U.S. It's selling out very quickly. Our belief is Beyblade will be one of the top new toys or refresh toys of 2024 and could actually clean the top spot very similar to what we did with Furby last year. Furby continues to do well. We like how Furblets are really driving the right price point and extending that franchise. We've seen a lot of nice momentum with Peppa Pig. I think after a couple of years of owning that franchise, not only are we hitting the right notes on the entertainment, but we're starting to hit the right notes on the toys, particularly the price points and kind of the wow moments that we have Transformers, I think, is shaping up to be a really nice Q3 in Q4 with Transformers One. And then D&D, I also really like -- I think you just asked maybe about consumer products, but I'm going to talk about the whole portfolio. The D&D refresh to the core rules of fifth edition is going out the gate strong. Pre-orders are breaking any records that we have, it's exceeding our forecast. Now that will help a bit in Q3 and Q4 when some of the products released, but some of those products don't release until Q1 and Q2 of next year. So again, I think we have a nice kind of healthy midterm projection on the businesses as well.
+
+Gina Goetter
+
+And Alex, the one I have not brand in product-related per se, but it is a positive that we continue to trend well in inventory, both our own inventory as well as retail inventory. So retail inventory was, I think, down again about 18%, 20% within the quarter. So we're sitting at super healthy levels as we head into the holidays.
+
+Alex Perry
+
+Perfect. That's really helpful. Best of luck going forward.
+
+Gina Goetter
+
+Thank you.
+
+Operator
+
+Thank you. Our next question comes from the line of Fred Wightman with Wolfe Research. Please proceed with your question.
+
+FredWightman
+
+Hey, guys. Good morning. Just to stick on the Consumer Products business. I know in the past, you sort of hinted that, that could reach the 10% or double-digit target that you've talked about in 4Q. I'm wondering if you could just give us an update on how realistic that is and maybe what the biggest swing factor is? Is it really POS? Is it a matter of maybe cost saves hitting soon? What sort of gets you there or potentially gets you there?
+
+Gina Goetter
+
+In Q4 specifically, Fred, is that your question?
+
+FredWightman
+
+Yes, for 4Q this year.
+
+Gina Goetter
+
+Yes. No, we do anticipate it getting to that 10% level in Q4. It really comes down to the leverage in the volume. So right, as we've talked about, that's been the single biggest drag on the margin as we move through the front half of the year. So as you put all the revenue in Q3, Q4, both of those quarters tend to be at that 10%, 11% mark, and that's what we're planning for. I think our goal is to have that 10%, 11%, not just be in the back half of the year, but we're working towards having that be for the entire year, which would then say that the front half of the year is around that 10%, 11% or maybe a little less and then in the back half of the year is in the low teens, leveraging or kind of moving with revenue. So all of the work that we're doing this year to get that profitability right, all of the work we're doing on pricing and on mix and then getting the product design in the right way. All of that will contribute as we move into '25 and '26 getting the entire year for CP to have two digits.
+
+FredWightman
+
+Makes sense. And then given the momentum in digital, given the momentum with some of the lower cost price points you've talked about in Consumer Products, can you just give us an update on how you view some of the bigger licenses in the consumer space being a part of the Hasbro story going forward? Do you think that you still need to have some of these master licenses? Do you feel like there's enough that you can sort of do outside of those bigger tent poles to get the consumer products business where you need it to be?
+
+Chris Cocks
+
+Absolutely. We've been in business with Takara Tomy, who's the licensor for Beyblade for decades. They're super important for us. And we've been in business with the Walt Disney Company since 1954. And if anything, I think you're going to see us doubling down on our partnership with them and expanding where it could go, whether it's toys, games, or trading cards and role play, they're going to be a big part of our story for years to come.
+
+FredWightman
+
+Great. Thanks a lot.
+
+Operator
+
+Thank you. And we have reached the end of the question-and-answer session. And this also concludes today's conference, and you may disconnect your lines at this time. Thank you for your participation.

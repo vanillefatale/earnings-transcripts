@@ -1,0 +1,148 @@
+Hasbro, Inc. (HAS) Q2 2022 Earnings Conference Call July 19, 2022 8:30 AM ET
+
+Company Participants
+
+Debbie Hancock - Senior Vice President, Investor Relations
+Chris Cocks - Chief Executive Officer
+Deb Thomas - Chief Financial Officer
+Cynthia Williams - President, Wizards of the Coast in Digital Gaming
+Darren Throop - President and Chief Executive Officer, eOne
+Eric Nyman - President and Chief Operating Officer
+
+Conference Call Participants
+
+Eric Handler - MKM Partners
+Steph Wissink - Jefferies
+Arpine Kocharyan - UBS
+Michael Ng - Goldman Sachs
+Megan Alexander - JPMorgan
+Fred Wightman - Wolfe Research
+Drew Crum - Stifel
+Linda Bolton-Weiser - D.A. Davidson
+Gerrick Johnson - BMO Capital Markets
+
+Operator
+
+Good morning, and welcome to the Hasbro Second Quarter 2022 Earnings Conference Call. At this time, all parties will be listen-only mode. A question-and-answer session will follow the formal presentation. [Operator Instructions] Today’s conference is being recorded. If you have any objections, you may disconnect at this time.
+
+At this time, I'd like to turn the call over to Ms. Debbie Hancock, Senior Vice President of Investor Relations. Please go ahead.
+
+Debbie Hancock
+
+Thank you, and good morning, everyone. Joining me today are Chris Cocks, Hasbro's Chief Executive Officer; and Deb Thomas, Hasbro's Chief Financial Officer. Today, we will begin with Chris and Deb providing commentary on the Company's performance then we will take your questions. Cynthia Williams, President of Wizards of the Coast and Digital Gaming; Darren Throop, President and CEO of eOne; and Eric Nyman, Hasbro's President and Chief Operating Officer, will join for the Q&A portion of the call.
+
+Our earnings release and presentation slides for today's call are posted on our Investor website. The press release and presentation include information regarding non-GAAP adjustments and non-GAAP financial measures. Our call today will discuss certain adjusted measures which exclude these non-GAAP adjustments.
+
+A reconciliation of GAAP to non-GAAP measures is included in the press release and presentation. Please note that whenever we discuss earnings per share or EPS, we are referring to earnings per diluted share.
+
+Before we begin, I would like to remind you that during this call and the question-and-answer session that follows, members of Hasbro management may make forward-looking statements concerning management's expectations, goals, objectives and similar matters. There are many factors that could cause actual results or events to differ materially from the anticipated results or other expectations expressed in these forward-looking statements.
+
+These factors include those set forth in our recent 10-Q, in today's press release and in our other public disclosures. We undertake no obligation to update any forward-looking statements made today to reflect events or circumstances occurring after the date of this call.
+
+I would now like to introduce Chris Cocks. Chris?
+
+Chris Cocks
+
+Thank you, Debbie, and good morning. Since our first quarter earnings call, the executive leadership team and I have been undergoing a multi-month strategic review of the business. While the review is still in process, it's already clear we're an organization with a bright future.
+
+Led by an unmatched brand portfolio that spans fans of all ages; an industry-leading gaming business, which is a top investment priority for us; a growing direct-to-consumer business and unique assets and entertainment creation all knitted together by talented global teams working with a clear sense of purpose and value creation.
+
+We see big opportunities to scale our Franchise Brands, drive all new play platform innovation and transform our operations to improve our agility, focus and profitability. Games, digital, expanding the age ranges of our portfolio and harnessing direct connections with our consumers are all compelling growth opportunities for Hasbro.
+
+We'll share more about our plans in October at our Investor Day, but I'm energized with what we have accomplished to date as we focus on driving long-term profitable growth and environmentally responsible, sustainable business and superior shareholder returns.
+
+While we've been advancing our long-term strategic work, our teams have been busy delivering a strong second quarter with 4% revenue growth absent FX, 14% adjusted operating profit growth and 200 basis points of margin expansion, adjusted earnings per share of $1.15 and 6% growth in adjusted EBITDA. Deb Thomas will speak to our results in more detail, but let me share a few highlights.
+
+Revenues grew for Consumer Products and the Wizards and Digital Gaming segments. Entertainment segment revenue was down in the quarter mostly due to the timing of deliveries, but is up year-to-date absent the Music business we sold last year. As we projected in our Q1 earnings call, Wizards delivered its biggest quarter ever in Q2, successfully comping last year's Q2, our prior record.
+
+Tabletop revenues grew 15%. MAGIC: THE GATHERING led with 11% revenue gains and is up 10% year-to-date. For the first time in history, every major set this year has crossed $100 million in sales. The underlying business and demand for MAGIC remains strong. And we continue to expect the Wizards business to grow at the high end of our beginning of year forecast, a range of high single digits to low double-digit year-over-year growth on a constant currency basis.
+
+In the quarter, our overall games portfolio grew 2% or 4% in constant currency. We enhanced an already powerful portfolio during the quarter, completing our acquisition of D&D Beyond to bolster our direct digital platform for DUNGEONS & DRAGONS, adding key capabilities in two areas of focus: gaming and direct. We expect the acquisition to be immaterial this year and accretive to EPS in 2023 and beyond.
+
+As we forecasted, our digital revenues were down for the quarter and are expected to be down for the full year as we comp both Dark Alliance for DUNGEONS & DRAGONS and Magic: The Gathering Arena's mobile launch last year. Digital remains an investment priority for Hasbro. Arena is entering its fourth year of availability since its open beta in 2018 and is a profitable vital platform for new player acquisition in MAGIC. Later this year, the game will be available on Steam for the first time, and in 2023, we expected to launch on major consoles.
+
+D&D Beyond is in the early stages of integration into our Wizards business, and we are pleased with the early results. We expect D&D Beyond to be a growth platform, particularly as we turbo-charge the DUNGEONS & DRAGONS brand with blockbuster entertainment, digital games and consumer products in 2023 leading into the brand's 50th anniversary in 2024. We also expect several exciting new game announces in the coming quarters across D&D, MAGIC and new brands we have in development.
+
+Consumer Products segment revenues grew behind gains in several Hasbro brands, including PLAY-DOH, PEPPA PIG, POWER RANGERS and MY LITTLE PONY as well as Hasbro products for the Marvel portfolio and Star Wars. As we look to the remainder of the year, we have innovative new initiatives and are in a much better position this year versus last with inventory at retail and on hand at Hasbro to mitigate supply chain disruptions and meet demand.
+
+Retailers increased direct import orders by approximately $60 million in the second quarter versus our plans, taking product earlier to ensure availability and proactively manage the supply chain. While our inventory levels are up year-over-year at the end of Q2, the inventory is of high quality, positioning us to meet consumer demand and promote our new product innovation aggressively.
+
+For instance, our early read on our first of two Prime Days at Amazon last week is positive with consumer deal takeaway up 20% year-over-year. Our newest game announcement, Wordle: The Party Game, is off to a record start for gaming preorders. As such, we expect inventory by year-end to be approximately flat year-over-year and to see reductions in on-hand supply by the end of Q3.
+
+Our Entertainment business is up year-to-date and on track for full year revenue and profit margin growth absent the sale of the Music business last year. With over 200 projects in development across film, scripted and unscripted television, the eOne team is working on over 35 development projects for Hasbro brands, including content for Transformers, MAGIC, D&D, PEPPA PIG, MY LITTLE PONY, POWER RANGERS and PLAY-DOH, among many others.
+
+Last week, we received seven Primetime Emmy Award nominations for Yellowjackets, including Outstanding Drama Series. We are in production on Season 2 with deliveries slated to begin later this year. In Q2, we delivered Season 4 of another hit show, The Rookie, for ABC. This fall, The Rookie will return for Season 5, and previous seasons will begin syndicated broadcast in the U.S. ABC also ordered a spin-off, The Rookie Feds, to series where it is set to premiere September 27.
+
+As we look to the full year, we began 2022 with what we felt was an appropriately measured outlook for growth that reflected a challenging economy, and we're maintaining our guidance. We continue to expect low single-digit revenue growth in constant currency as we see exchange rates, particularly in the Eurozone, as a potential headwind that Deb will speak to further.
+
+We are prioritizing profitable growth and expect adjusted operating profit to grow faster than revenue as higher-margin product lines, including games, grow at a faster rate combined with cost savings we have identified in our business. Our target remains a 16% adjusted operating profit margin for 2022 versus 15.5% last year.
+
+The team and I are looking forward to sharing with you our long-term plans and vision at our upcoming Investor Day on October 4. We've spoken with many of you over the past several months, and we've taken to heart your excitement and feedback.
+
+We remain laser focused on producing profitable growth, articulating our updated vision, continuing to drive industry leadership in sustainability and governance and positioning Hasbro to deliver superior total shareholder return over the long-term. Put simply, our aim is to do good while we do well.
+
+I'd now like to turn the call over to Deb to share more details about our performance in the second quarter and our outlook for the year ahead. Deb?
+
+Deb Thomas
+
+Thank you, Chris, and good morning, everyone. Our second quarter results have us on track to achieve our full year guidance, including low single-digit revenue growth in constant currency, operating margin expansion to 16% and operating cash flow at the low end of the $700 million to $800 million range.
+
+The second quarter, the team delivered revenue growth, margin expansion and $1.15 in adjusted earnings per share while returning $221 million to shareholders through our quarterly dividend and share repurchases and adding an important growth engine to both our gaming business and our direct-to-fan capabilities with the acquisition of D&D Beyond.
+
+Importantly, we proactively managed our supply chain and inventory purchases to mitigate disruption. We're much better positioned to meet demand this year versus last. This action resulted in higher-than-typical inventory levels at Hasbro for this time of the year. To avoid the out-of-stock positions of the last year holiday season due to supply chain disruptions, retailers also shifted some consumer product direct shipments into the second quarter from the third quarter.
+
+Both our inventory and that at retail is of extremely high quality. We have product to meet demand, including significant new releases in MAGIC: THE GATHERING and in our toy and game business.
+
+Based on our plan to drive point-of-sale growth in the second half of the year, we believe we will end the year with inventory levels similar to year-end 2021. While product and freight costs are up, we're beginning to see a reduction in port congestion delays. And lead times have come down, although they remain 2x higher than historical levels.
+
+We also have begun to see the offset to higher input and freight costs from price increases in our CP business that went into effect in the second quarter and will be increasingly impactful in the third and fourth quarters. Price increases also went into effect at the beginning of July for select MAGIC: THE GATHERING sets and will begin to be reflected in results in the third quarter.
+
+As Chris spoke to, we are managing costs and finding efficiencies in our business, leaning into the theme of focus and scale. We have already begun to identify and see some of this work reflect favorably in our results.
+
+In the quarter, we more than offset the 230 basis point decline in gross margin with lower and more efficient spending. This included a 170 basis point decline in advertising to revenue primarily from lower spending on digital gaming launches and no longer supporting the Music business sold in 2021.
+
+Adjusted SG&A to revenue reflects the 180 basis point reduction driven by lower compensation and depreciation as well as the sale of the Music business. This was partially offset by higher costs associated with our annual meeting.
+
+Intangible amortization includes an incremental $900,000 from the acquisition of D&D Beyond. We anticipate $4.7 million this year and $7.5 million next year in amortization expense associated with the acquisition.
+
+Adjusted operating profit grew 14%, driving 200 basis points of margin expansion to 18% of revenue. Below operating profit, interest expense declined $4.5 million as we progress toward achieving our debt to adjusted EBITDA target of 2x to 2.5x in the second half of next year, if not sooner.
+
+The underlying adjusted tax rate, excluding discrete items, was 21.6% versus 23.2% last year. And we expect the full year rate in a range of 20.5% to 21.5%.
+
+Looking at our segments. Wizards of the Coast and Digital Gaming revenues were up 5% absent FX. This was led by a 15% increase in tabletop revenues. Digital Gaming revenues were down 36% as planned, reflecting the year-over-year comparison to the 2021 Digital Gaming launches of Dark Alliance and Magic: The Gathering Arena on mobile. Total MAGIC: THE GATHERING revenues grew 11%.
+
+Operating profit in the segment increased 17% to 53.7% of revenue. We continue to invest to grow Wizards for the long term, including in Digital Gaming and talent. Cost of sales increased behind higher paper and freight costs. And we continue to pre-purchase paper stock to help meet our printing needs for future set releases.
+
+Operating margin improvement reflected both revenue growth and lower costs from Digital Gaming launches and depreciation and advertising as well as lower compensation accruals this year versus last. The team remains on track to deliver high single-digit to low double-digit revenue growth for the year and operating margins that are down from last year but remaining above 40%.
+
+Consumer Products revenue grew 9% absent FX. In constant currency, North America revenues were up 11%. Europe was flat. Latin America revenues were up 38%, and Asia Pacific was up 1%. Of the $19.1 million negative impact from foreign exchange in the segment, $14.9 million of it was in Europe.
+
+For the first time in 20 years, the euro and the U.S. dollar are now at parity. And the euro is our largest international currency. If we look at the back half of our year, we expect this to have an additional negative impact to CP revenue of $30 million to $40 million versus our expectations as we enter the year. Given hedges we have in place, we expect less of an impact to operating profit.
+
+The other item impacting results is Russia. For the full year 2021, our revenue in Russia was $115 million, with approximately 70% earned in the second half of the year. We will not have this revenue and associated operating profit in 2022.
+
+From a brand perspective, each brand portfolio category in the segment, Franchise Brands, Partner Brands, Hasbro Gaming and Emerging Brands were up in the quarter. Our products for Marvel are on track for another tremendous year with strong growth in the quarter and year-to-date.
+
+New entertainment releases and innovation are driving this business. PLAY-DOH, PEPPA PIG, POWER RANGERS, PJ MASKS, MY LITTLE PONY and Hasbro Gaming titles were among the Hasbro brands driving quarter growth.
+
+Higher product and freight costs were partially offset by price increases taken at the beginning of the quarter. Adjusted operating profit was $3.1 million, down $14.7 million, reflecting these higher costs as pricing will phase in during the coming quarters. Our full year view for CP remains low single-digit revenue growth in constant currency, with operating margins flat to up slightly from last year's 10.1%.
+
+Entertainment segment revenues reflect the 2021 sale of the Music business and timing of deliveries. Segment revenue, absent Music, declined 4%. And our view for growth in the year remains unchanged. Our Film & TV business was down 10% as deliveries shifted between quarters, and Family Brands revenue was down slightly absent FX. With the lower deliveries, program amortization declined, and the mix of revenue is favorable.
+
+Adjusted operating profit increased more than 100% to $23 million or 12.4% of revenue. For the full year, we continue to expect revenue growth in mid-single digits and operating profit margin expansion from 8%, both absent the Music business sold last year.
+
+As you think about the full year, the third quarter is the most difficult comparison for our business. Retailers place more direct import orders in Q2 of this year than planned, about $60 million more of CP revenue.
+
+In Wizards, we're up against a more difficult release slate and could see a flat to slightly down quarter as we've discussed with you previously. And Entertainment delivery timing is unfavorable in the third quarter, including comparisons to several film releases to streaming platforms last year, including My Little Pony: A New Generation, Finch and Come From Away and a heavier slate of scripted TV deliveries in Q4 this year versus Q3 last year. We also expect many retailers to return to a more traditional promotional calendar with more holiday activations in the fourth quarter.
+
+Our cash balance was $628.2 million compared to $1.2 billion in last year's second quarter. During the quarter, we spent $146.3 million for a highly strategic acquisition, $97.4 million in dividends, and we resumed share repurchase to the total of $124 million.
+
+We have paid down $50 million of share in debt and remain committed to investments in talent, innovation and key strategic initiatives. Our operating cash flows for the first half of the year were $147.8 million and continue to reflect the advanced inventory purchasing I spoke to earlier.
+
+DSOs were flat with last year at 59 days. Our expectation is that inventory will end the year around last year's levels and that will generate operating cash flow toward the low end of our targeted range. Our plan continues to have us returning to approximately $1 billion in operating cash flow next year.
+
+As we head into the second half of the year, we are in a strong position to meet demand and to deliver the year. While economic conditions are challenging, we took that into account in our full year plan. And our businesses toys, games, including MAGIC, and content are historically very resilient during down economic periods.
+
+Importantly, we've made significant progress in our strategic review. We look forward to speaking with you during the coming weeks and seeing many of you in New York on October 4 for our Investor Day.
+
+We are now happy to take your questions.

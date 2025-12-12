@@ -1,0 +1,130 @@
+Hasbro, Inc. (HAS) Q4 2022 Earnings Conference Call February 16, 2023 8:30 AM ET
+
+Company Participants
+
+Debbie Hancock - Vice President, Investor Relations
+Chris Cocks - Chief Executive Officer
+Deb Thomas - Chief Financial Officer
+
+Conference Call Participants
+
+Arpine Kocharyan - UBS
+Eric Handler - ROTH MKM Partners
+Megan Alexander - JPMorgan
+Gerrick Johnson - BMO Capital Markets
+Jaime Katz - Morningstar
+Linda Bolton-Weiser - D.A. Davidson
+Jason Haas - Bank of America
+Matthew Catton - Jefferies
+
+Operator
+
+Good morning, and welcome to the Hasbro Fourth Quarter and Full Year 2022 Earnings Conference Call. [Operator Instructions] As a reminder, today's conference is being recorded. If you have any objections, you may disconnect at this time.
+
+At this time, I'd like to turn the call over to Ms. Debbie Hancock, Senior Vice President of Investor Relations. Please go ahead.
+
+Debbie Hancock
+
+Thank you, and good morning, everyone. Joining me today are Chris Cocks, Hasbro's Chief Executive Officer; and Deb Thomas, Hasbro's Chief Financial Officer. Today, we will begin with Chris and Deb providing commentary on the company's performance, then we will take your questions. Our earnings release and presentation slides for today's call are posted on our investor website. The press release and presentation include information regarding non-GAAP adjustments and non-GAAP financial measures.
+
+Our call today will discuss certain adjusted measures, which exclude these non-GAAP adjustments. A reconciliation of GAAP to non-GAAP measures is included in the press release and presentation. Please note that whenever we discuss earnings per share or EPS, we are referring to earnings per diluted share.
+
+Before we begin, I would like to remind you that during this call and the question-and-answer session that follows, members of Hasbro management may make forward-looking statements concerning management's expectations, goals, objectives and similar matters. There are many factors that could cause actual results or events to differ materially from the anticipated results or other expectations expressed in these forward-looking statements. These factors include those set forth in our annual report on Form 10-K, our most recent 10-Q, in today's press release and in our other public disclosures.
+
+Today's guidance assumes we retain the noncore entertainment, Film & TV business, notwithstanding the current marketing process. While there is no guarantee of such an outcome, if this process results in a sale, we will update our guidance. We undertake no obligation to update any forward-looking statements made today to reflect events or circumstances occurring after the date of this call.
+
+I would now like to introduce Chris Cocks. Chris?
+
+Chris Cocks
+
+Thank you, Debbie, and good morning. In October, we laid out our new strategic plan for Hasbro, Blueprint 2.0, built on fewer, bigger, more profitable brands; a sharpened focus on the categories where Hasbro can be best-in-class; an Operational Excellence program to speed our agility and improve our cost competitiveness; and growth initiatives in digital games, Hasbro content, direct-to-consumer and licensing.
+
+While Q4 proved to be a disappointment, particularly in our traditional toys and games segment, we made progress under the hood that meaningfully improved our bottom line and sets us up for margin expansion in 2023 despite what we anticipate will be a continued challenging consumer environment.
+
+Our transformation efforts are positioning Hasbro for success. In 2022, we identified $50 million in run rate cost savings that improved our Q4 earnings by over $20 million. In 2023, we anticipate our operational transformation will generate $150 million in run rate savings, money we are using to both reinvest in the business and improve our profit profile. We are also undertaking a significant organizational redesign that streamlines decision-making, puts the consumer at the center of everything we do and aligns the company behind core competencies in games and toys.
+
+Within our growth initiatives, our direct business comprised of MAGIC: Arena, D&D Beyond, Hasbro Pulse and MAGIC: Secret Lair was up 15% in 2022. Hasbro Pulse was our fastest-growing channel, increasing 70% on robust fan demand across premier industry entertainment properties. D&D Beyond delivered user growth in excess of 20% since we acquired the service in May of 2022; and, as forecasted, was EPS-accretive in Q4. Wizards of the Coast and Digital Gaming grew 5% in constant currency, outperforming a games market that, by most measurements, was flat to down, with MAGIC tabletop leading the growth.
+
+Importantly, we celebrated our first $1 billion brand in MAGIC: THE GATHERING, a huge milestone, not just for Hasbro, but for the thousands of hobby shops, our most important and assets growing channel for the brand and millions of fans who make both MAGIC and D&D more than just games, but vibrant, global communities. Our growth in Wizards was not without challenges. We navigated significant supply chain disruptions that while resolved for 2023, compressed our set release schedules in 2022, particularly in Q4. We were too aggressive in some of our pricing assumptions, notably our 30th anniversary edition of MAGIC and pulled back on available supply impacting Q4 results.
+
+Lastly, on D&D, we misfired on updating our open game license, a key vehicle for creators to share or commercialize their D&D inspired content. Our best practice is to work collaboratively with our community, gather feedback and build experiences that inspire players and creators alike. It's how we make our games among the best in the industry. We have since course-corrected and are delivering a strong outcome for the community and game.
+
+Our licensing business was up 5% for the year. Over the past several months, we've announced multiple strategic licensing partnerships, and we're excited to have top partners taking on iconic brands like FurReal Friends, Littlest Pet Shop and EASY-BAKE Oven, to name just a few. Our teams are focused on growing market share in the categories where we can lead. We had success in preschool with PEPPA PIG, creativity with PLAY-DOH and action, with strong growth in Hasbro's products from partner brands, Marvel, which had a record year; and Star Wars.
+
+Our focus on content is centering around Hasbro IP for the long term. Our sales process for the majority of eOne Film & TV is well underway, with strong interest in these valuable assets. We expect to have an update in the second quarter. Our content pipeline for Hasbro IP is set for growth in 2023 with the upcoming release of the feature films, Dungeons & Dragons: Honor Among Thieves; and Transformers: Rise of the Beast, and a host of new and continuing preschool and kids shows from Transformers: EarthSpark to the new seasons of My Little Pony and PEPPA PIG to the new Kiya & the Kimoja Heroes on Disney Jr. and Disney+.
+
+Looking ahead, we are excited about the recently announced D&D live action series; and for next year, the animated Transformers feature film with our partners at Paramount. For 2023, we expect the toy and game market to continue the trends of Q4 into the first two to three quarters of the year, given the lingering effects of consumer inflation. We also see approximately $300 million of revenue headwinds from foreign exchange and exiting low-profit brands, licenses and businesses as part of the fewer, bigger, better pillar of our strategy. As a result, we anticipate revenue for the company to be down low single digits for the year, with consumer products down mid-single digits, Wizards of the Coast and Digital Games up mid-single digits and entertainment up low single digits.
+
+The progress we are making in our cost savings, Operational Excellence and focusing on key brand initiatives is expected to drive continued operating margin expansion of 50 basis points to 70 basis points. We made progress on both our owned and retailed inventory in the fourth quarter but have more work to do. The teams are focused on clearing inventory in addition to supporting our innovation. This will impact our growth rates and profits, most notably during the first two quarters of the year, which Deb will provide detailed comments on.
+
+We ended the year with $513 million in cash. As we sell through inventory and drive profit expansion, our cash flow is projected to grow during the year. As we announced earlier this week, we are maintaining our current category-leading dividend. We continue to prioritize investing to grow, delevering the balance sheet and returning cash to shareholders.
+
+Given the challenging market context, our focus this year will be on increasing our operating profit margins and growing share in our focused categories. In outdoor, we are taking targeted pricing actions on NERF to compete at every price point, expanding the market with the introduction of NERF Jr. to kids 5 to 7 and winning share in the fast-growing JOE segment with all new innovations starting at a segment low of $19.99.
+
+In action, we have one of our strongest content lineups in a decade, including 6 blockbuster films, a host of new streaming series and some of the strongest new product innovation for Transformers in years, set against the launch of the Rise of The Beasts feature film in June. In preschool, we are excited by the continued global appeal of PEPPA PIG and our new line based on the upcoming hit series Young Jedi Adventures from Lucasfilm.
+
+In creativity, PLAY-DOH is growing share, and we are adding new compounds like Nickelodeon Slime and bringing best-selling innovation, our PLAY-DOH Ice Cream Truck, into the new year. And in games, we are adding all new innovation like the casual AR game, Twister Air, building on the best-selling CLUE: Escape Room series, extending our audiences in MAGIC with our newest universe Universes Beyond based on J.R.R. Tolkien's Lord the Ring series, Tales of Middle Earth, growing our distribution for MAGIC: Arena with our upcoming launch on Steam, and reaching all new global audience scale for D&D with our new blockbuster movie, Dungeons & Dragons: Honor Among Thieves; and AAA video game, Baldur's Gate 3, from our partners at Larian later this year. Over the next 12 months, we will share more about some of the innovation we have coming to market in 2024 and beyond.
+
+To give you a sense of a few, in creativity, we see an amazing opportunity to grow that market and maintain audiences as they age up with new, innovative, character-centric and story-based play. In video games, we are excited to reveal an all-new sci-fi IP from Archetype Studios in Austin that we believe will be one of Hasbro's biggest in over 20 years. Selfie Series, our new custom action figure line gives a glimpse of the possible and Hasbro's early leadership investments in high-fidelity custom 3D printing, which has a long-term potential to introduce the concept of mass customization for toys and collectibles.
+
+In traditional role play, we see exciting possibilities in all new virtual table tops that unlock new consumer value choices, bring imaginations to life, taps into the scale effects of user-generated content and create seamless remote and in-play play possibilities across phones, PCs and tablets with AAA graphics and intuitive controls. And last but not least, we have some fun new twists on old favorites that will delight new generations of fans and introduce amazing new low price points supported by magical play innovation.
+
+As we think beyond 2023, our focus remains on growing more of our franchise brands to $1 billion businesses, extending our blueprints through partnerships, content and new digital experiences and driving significant bottom line and margin growth through a more focused, agile and leaner organization. In the near term, we will execute our focus category and inventory reduction plans to grow share, transform our organization and cost structure to drive innovation and improve margins and continue to invest in new categories, competencies and partnerships to set up Hasbro for robust long-term growth as we celebrate our 100th anniversary in 2023.
+
+I'll now turn the call over to Deb Thomas, Hasbro's Chief Financial Officer. Deb?
+
+Deb Thomas
+
+Thanks, Chris, and good morning, everyone. Over the course of 2022, we made meaningful progress to strengthen Hasbro by completing our strategy review, unveiling and beginning to implement Blueprint 2.0 and undertaking a significant transformation project to streamline our organization and priorities.
+
+While the end of 2022 did not meet our expectations, our focus on controlling what we can and making decisions to strengthen Hasbro for the future improved operating profit margin in a challenging environment.
+
+Let me start with the balance sheet and our focus on disciplined cash management. Lower sales resulted in higher inventories on hand. At year-end, we had reduced our on-hand inventory levels by $168 million from the third quarter, but they were up $125 million from last year or 23%. This was driven by last year's revenue timing with early retailer purchases and our softer-than-planned Q4 sales.
+
+The timing of MAGIC releases in early 2023 and the increase in paper stock on hand also contributed to the growth. At retail, inventories were up low single digits across our top global markets, and Q4 POS trends indicate churn has slowed and with on hand increase. As a result, we estimate approximately $135 million of this is excess toy and game inventory at retail. Given our higher level of opening retail inventory as well as that from others in the industry, we expect a negative impact on first half retail orders. When we combine this with the fact that 60% of our approximately $300 million in revenue headwinds are in the first half of this year and the early timing of retail orders and shipments last year arising from supply chain challenges, we anticipate our first half revenue to be down approximately 20% compared to the first half of 2022 with Q1 revenue down approximately 25%.
+
+Operating cash flow was $373 million. We're forecasting 2023 operating cash flow in the historical $6 million to $7 million range. We continue to believe we'll reach a $1 billion-plus in operating cash flow level, but this is now most likely 2025 and beyond. We have sufficient cash to operate our business, meet our CapEx needs, including investing for growth, and funding our dividend. We continue to target debt-to-EBITDA of 2x to 2.5x. For 2023, we expect to make progress against this target. Pending the outcome of the sale of noncore Film & TV assets, we plan to prioritize the sale proceeds towards paying down debt. We remain committed to maintaining our investment-grade rating.
+
+At the same time, we're intensely focused on our cost savings goals and improving margins. Last year, we increased adjusted operating profit margin by 30 basis points, and we believe we have the potential to add an additional 50 basis points to 70 basis points this year. We achieved approximately $50 million in run rate cost savings and actualized $20 million in 2022, but this was partially offset in the year-end results due to the volume decline in consumer products.
+
+We remain on track for $150 million in annualized run rate cost savings for year-end 2023. This progress keeps us on the path to reach our targeted 20% operating profit margin in 2027, if not sooner, while also growing our existing business earnings and earnings per share over the period. As Chris mentioned earlier, the process for selling our noncore entertainment business remains on track, and we plan to update our guidance for our continuing business following the close of the transaction.
+
+With a portion of our cost savings, we're continuing to invest in our core initiatives: innovation, digital, direct and insights. We're focusing on higher-margin brands, moving out of lower churn businesses and simplifying our organization. We're in the middle of this transition and, as a result, reported charges last year for transformation activities, including severance and noncash asset impairments. In the fourth quarter, this included an impairment for POWER RANGERS. The impairment was triggered by our focused strategic approach to prioritize other brands in film development in the near term. Although an impairment charge was incurred, the brand continues to generate value and remains an important part of our brand portfolio.
+
+POWER RANGERS revenue grew last year. It's celebrating its 30th anniversary this year with a new scripted special on Netflix, the third season of Dino Fury and continued development on a young adult scripted series with writer/showrunner Jenny Klein and Jonathan Entwistle.
+
+Looking at our adjusted results for full year 2022, revenue, profit and earnings were impacted by lower-than-expected fourth quarter sales. Foreign exchange had a negative $166 million impact on full year revenue. Cost of sales was up 240 basis points due to higher product costs, inventory obsolescence, sales allowances and closeouts in our toy and game products. We benefited from higher product prices early in the year and lower freight expense as we moved through 2022. We anticipate an improvement in cost of sales to revenue share driven by our ongoing transformation efforts.
+
+Program amortization dollars declined on lower entertainment deliveries in the year. Royalties since declined on lower Partner Brand and entertainment revenue. At year-end 2022, we exited several third-party licenses, which will lower Partner Brand revenue and our royalty obligation this year while benefiting operating margin.
+
+We spent less on advertising last year, aligned with our focus on fewer brands and lower film advertising in our entertainment segment as we comped the MY LITTLE PONY movie in 2021 and supported our film releases in 2022. The team plans to increase advertising support of our key brands and categories in 2023, increasing the overall spend but with a much more targeted approach.
+
+SD&A declined in dollars in line with revenue, primarily due to lower bonus and equity compensation expense given the outcome of the year and lower depreciation related to 2021 video game launches. We also saw lower freight distribution expenses plans that have higher warehousing cost to consume with increased levels of inventory. In 2023, while we're achieving cost savings in this line item, given the timing to achieve the run rate on those savings, this line is forecasted to increase with more normalized compensation expenses planned. We expect this to impact 2023 by approximately $80 million with approximately $65 million impacting SD&A and the remainder in product development.
+
+For the current year, our outlook translates to an adjusted operating profit margin improvement of 50 basis points to 70 basis points.
+
+Our adjusted underlying tax rate for 2022, excluding discrete items, was 21.8%, in line with our projected rate for the year. In 2023, we expect our underlying adjusted rate to be between 20% to 21%.
+
+Looking at our segments, Wizards of the Coast and Digital Gaming revenues increased 5% in constant currency. Tabletop revenues were up 12% behind strong MAGIC: THE GATHERING releases. Digital declined 23%, which is expected given the comparison with the 2021 launches of the premium game, Dark Alliance and MAGIC: THE GATHERING Arena Mobile. In 2023, digital revenue is forecast to increase with the launch of Baldur's Gate 3 from Larian with some revenue expected in the third quarter and increasing in the fourth quarter. MAGIC, D&D and digital remain investment priorities for Hasbro.
+
+Adjusted operating profit was $538.3 million, down 2% driven primarily by higher product costs, increased royalties due to MAGIC Universes Beyond and increased product development, partially offset by decreases in advertising, promotional and depreciation expense versus 2021 gaming launches as well as lower incentive compensation. As forecasted, adjusted operating profit margin decreased and was 40.6%. For the full year 2023, we expect mid-single-digit revenue growth in the segment. Also, as we continue to invest for future growth and expand our Universes Beyond products, we expect adjusted operating profit margin in the high 30% range.
+
+Consumer Products segment revenue decreased 7%, excluding a negative $117 million impact of foreign exchange, $92.3 million of which was in Europe. The segment's decline was led by lower revenues in North America and Europe, partially offset by growth in licensing in Latin America. Lower revenue, higher sales allowances, closeout and warehousing contributed to a decline in adjusted operating profit margin to 7.6%, which was partially offset by savings realized from our Operational Excellence program within cost of sales and distribution expense as well as lower airfreight, royalties, advertising and incentive compensation.
+
+For the full year 2023, Consumer Products revenue is expected to decline mid-single digits from full year 2022 with adjusted operating profit margin improvement of 150 basis points to 200 basis points from the adjusted op margin in 2022. The teams are executing against a robust entertainment play and strong innovation, but we're facing significant headwinds from exiting certain third-party licenses, transitioning several Hasbro brands from an in-house to license model, reducing recent inventory at retail, rightsizing certain markets and continued FX headwinds. As noted earlier, a significant portion of these headwinds are in the first half.
+
+Entertainment segment revenue decreased 15% in constant currency. When adjusting for music, the segment declined 12%. Revenue was impacted by the timing of deliveries to partners in the TV side of the business and fewer film releases this year versus last. The TV business grew building on several successful scripted series, including The Rookie, Yellowjackets and Transformers with several new shows like The Rookie: Feds and The Recruit.
+
+Family Brands revenue decreased given My Little Pony: A New Generation was delivered to Netflix in 2021 without a comparable release in 2022 combined with decreases in digital revenue and lower content deliveries. The decrease in Music and Other primarily relates to the sale of the music business in the third quarter of 2021. For 2023, this revenue should be close to zero as we have exited these businesses.
+
+Total Entertainment segment adjusted operating profit decreased 19%. Lower revenues impacted profit and were partially offset by lower royalty, advertising promotion and compensation expense. For the full year 2023, we expect entertainment revenue to increase low single digits, and adjusted operating profit margin is expected to increase slightly from 8.6% in 2022.
+
+As Chris mentioned, Dungeons & Dragons: Honor Among Thieves premiers in March. We co-funded this film with Paramount and will participate in the box office and associated entertainment revenues. Based on our share of box office, we expect entertainment revenue to begin being recognized in late Q3 and Q4 of this year. We expect the majority of the related cash receipts to occur in 2024.
+
+As we look ahead, the sales process for select Film & TV entertainment assets is ongoing. And the outcome will inform our long-term financials. We continue to anticipate growing revenue at a mid-single-digit CAGR and improving operating margins to 20% and potentially greater level in 2027.
+
+I couldn't be prouder of the work and dedication our teams have put into the business this past year. In the past several years, it's been dynamic, but they never shy away from a challenge. And while the year didn't end as we had planned, the Blueprint 2.0 strategy is in place, our teams are aligned behind us, and we're well along the path of executing that plan.
+
+Before I close, since we last spoke in October, I announced my plans to retire from Hasbro. I remain committed to this company and team and will stay until my successor is in place and there's an orderly transition. During my time at Hasbro, we've accomplished more than I could have imagined. And I know this company has even more amazing accomplishments ahead of it. Thank you for your partnership and support of Hasbro all these years. It's a hard decision, but I am confident that Hasbro is in good hands.
+
+We are now happy to take your questions.
