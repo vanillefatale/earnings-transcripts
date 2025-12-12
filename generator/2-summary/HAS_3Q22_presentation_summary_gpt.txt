@@ -1,0 +1,66 @@
+[ 어닝콜 요약 ]
+
+매출 -15% YoY ($1.68B)
+- Consumer Products의 제품 출시 및 선적 일정 지연과 Wizards 및 Digital Gaming, Entertainment 사업부의 출시 일정 집중으로 매출 감소
+- 소비자 가격 민감도 증가로 프로모션과 엔터테인먼트 수요가 중요해짐
+
+Sales by segment
+1) Wizards of the Coast and Digital Gaming $[미공개] (YoY -13% constant currency)
+   - Tabletop 매출은 출시 일정 영향으로 9% 감소했으나, 연초 9개월 누적 기준 5% 성장
+   - Digital 및 라이선스 게임은 프리미엄 게임 Dark Alliance 출시 영향으로 37% 감소
+   - 운영이익 $102.2M, -36% 감소, 원자재 및 운송비 상승과 로열티 비용 증가 영향
+
+2) Consumer Products $[미공개] (YoY -6% excluding FX)
+   - 라틴아메리카 +15%, 아시아태평양 +10% 성장했으나 북미 -14%, 유럽 -11% 감소 (환율 영향 제외 시 유럽은 플랫)
+   - 러시아 매출 및 이익 부재 영향
+   - 운영이익 31% 감소, 매출 감소와 높은 판매수당, 가격 조정, 재고 관련 비용 증가 영향
+   - Peppa Pig, PLAY-DOH, My Little Pony, Marvel, Star Wars 브랜드는 성장
+
+3) Entertainment $[미공개] (YoY -34% constant currency)
+   - 영화 및 TV 매출 26% 감소, 전년 대비 주요 영화 및 TV 프로그램 출시 일정 차이 영향
+   - Family Brands 매출 78% 급감, 전년 동기 My Little Pony 영화 출시 영향
+   - 운영이익 86% 감소, 매출 감소 및 콘텐츠 믹스 영향, 프로그램 상각비 및 광고비 감소 일부 상쇄
+
+GPM 약 40% (약 -380 bps)
++ 프로그램 상각비 감소, 광고비 감소
+- 원자재 및 운송비 상승, 판매수당 증가, 환율 영향
+
+OPM 16.1% (-3100 bps)
++ Wizards 및 Digital Gaming 고마진 사업 비중 증가
+- 매출 감소, 소비재 부문 클로즈아웃 비용 및 재고 비용 증가, 엔터테인먼트 믹스 변화
+
+[ 가이던스 요약 ]
+
+Guidance FY2022 (updated)
+- Revenue growth flat to slightly down vs. 기존 flat to slightly down [유지]
+- Gross margin 약 40% (구체 수치 미공개) vs. 기존 유지 [유지]
+- Operating margin 16% (adjusted) vs. 기존 16% [유지]
+- EPS 가이던스 미공개
+- Inventory levels low single-digit 증가 예상
+
+주요 변화
+- 제품 출시 및 선적 일정 지연과 소비자 가격 민감도 증가 영향으로 매출 성장 제한
+- 운영 우수성 프로그램을 통한 비용 절감 및 수익성 개선 계획 반영
+- 2022년 말까지 연간 $250M~$300M 비용 절감 목표, 2022년 $50M 절감 이미 달성
+
+[ Comments 요약 ]
+
+[제품 출시 및 매출 타이밍]
+① 2022년 3분기는 제품 출시 및 선적 일정 지연으로 가장 도전적인 분기였음.
+② NERF 및 게임 신제품 출시가 작년 대비 늦어지고, Wizards 및 Digital Gaming, Entertainment 사업부의 출시가 2분기와 4분기에 집중됨.
+③ Prime Day 프로모션에서 중간 두 자릿수 매출 성장 기록, 프로모션과 엔터테인먼트가 매출 견인 핵심 요소임.
+
+[운영 우수성 및 비용 절감]
+① Blueprint 2.0 전략 하에 2025년까지 연간 $250M~$300M 비용 절감 목표 설정.
+② 2022년에 이미 $50M 절감 달성, 4분기부터 수익성 개선 효과 가시화 예상.
+③ 비핵심 사업 정리 및 브랜드 집중 전략으로 수익성 및 현금 흐름 개선 추진.
+
+[브랜드 및 카테고리 전략]
+① Peppa Pig, PLAY-DOH, My Little Pony, Marvel, Star Wars 등 핵심 브랜드는 매출 및 POS 성장세 유지.
+② NERF와 Hasbro Gaming은 도전적 환경이나 장기 성장 계획 수립 및 신제품 출시로 대응.
+③ Magic: The Gathering 30주년 기념 및 Black Lotus 카드 출시 등 게임 부문에서 강력한 라인업 구축.
+
+[재무 및 현금 흐름 관리]
+① 3분기 말 현금 잔액 $551.6M, 전년 대비 감소했으나 연중 최저점으로 예상.
+② 2023년부터 연간 $10억 운영 현금 흐름 목표 설정, 부채비율 2~2.5배 유지 계획.
+③ 배당 및 자사주 매입 지속, 디지털 전략 강화(D&D Beyond 인수)로 장기 성장 기반 마련.
