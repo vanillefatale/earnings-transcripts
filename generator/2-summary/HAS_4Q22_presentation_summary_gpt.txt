@@ -1,0 +1,70 @@
+[ 어닝콜 요약 ]
+
+매출 -3% YoY (금액 미공개)
+- Blueprint 2.0 전략에 따른 핵심 브랜드 집중과 운영 효율화가 수익성 개선의 주요 동력
+- 전통적인 장난감 및 게임 부문 부진, 디지털 게임 및 라이선싱 성장 견인
+
+Sales by segment
+1) Wizards of the Coast and Digital Gaming (금액 미공개, YoY +5% constant currency)
+   - MAGIC: THE GATHERING 브랜드가 $1B 매출 돌파하며 성장 주도
+   - MAGIC tabletop 매출 +12%, 디지털 게임은 23% 감소했으나 2023년 Baldur's Gate 3 출시 기대
+   - D&D Beyond 사용자 20% 이상 증가, EPS 기여 시작
+
+2) Consumer Products (금액 미공개, YoY -7% excluding FX impact)
+   - 북미 및 유럽 매출 감소, 라틴아메리카 라이선싱 성장으로 일부 상쇄
+   - 재고 증가 및 판매 감소로 조정 영업이익률 7.6%로 하락
+   - Operational Excellence 프로그램으로 비용 절감 효과 일부 반영
+
+3) Entertainment (금액 미공개, YoY -15% constant currency)
+   - TV 사업 성장에도 불구하고 영화 출시에 따른 매출 감소 영향
+   - My Little Pony 신작 부재 및 디지털 매출 감소
+   - 조정 영업이익 19% 감소, 2023년 소폭 매출 및 이익률 개선 예상
+
+GPM 약 60% (정확 수치 미공개)
++ 제품 가격 인상, 프로모션 효율화, 비용 절감 노력
+- 원자재 비용 상승, 재고 손실 및 판매 수수료 증가
+
+OPM 약 8% (정확 수치 미공개, YoY +30 bps)
++ 운영 효율화 및 비용 절감
+- 매출 감소 및 일부 브랜드 투자 비용 증가
+
+[ 가이던스 요약 ]
+
+Guidance FY2023 (updated)
+- Revenue growth low single digits down vs. 기존 미공개 [하향]
+- Consumer Products revenue mid-single digits down vs. 기존 미공개 [하향]
+- Wizards of the Coast and Digital Games revenue mid-single digits up vs. 기존 미공개 [유지]
+- Entertainment revenue low single digits up vs. 기존 미공개 [유지]
+- Operating margin improvement 50-70 bps vs. 기존 미공개 [유지]
+- EPS 가이던스 미공개
+
+주요 변화
+- 소비자 인플레이션 영향과 약화된 소매 주문, 외환 및 비핵심 브랜드 정리로 매출 하향 조정
+- 비용 절감 및 운영 효율화로 수익성 개선 기대
+- 비핵심 Film & TV 자산 매각 진행 중이며 결과에 따라 가이던스 업데이트 예정
+
+[ Comments 요약 ]
+
+Blueprint 2.0 전략 코멘트
+① 핵심 브랜드에 집중하고 fewer, bigger, better 전략을 통해 수익성 강화 추진
+② 운영 우수성 프로그램으로 2023년 $150M 비용 절감 목표, 2022년 $50M 달성
+③ 조직 재설계로 의사결정 속도 개선 및 소비자 중심 경영 강화
+④ 디지털 게임, 직접 판매, 라이선싱 등 성장 분야에 집중 투자
+
+Wizards of the Coast 및 디지털 게임 코멘트
+① MAGIC: THE GATHERING 브랜드가 $1B 매출 돌파하며 핵심 성장 동력으로 자리매김
+② D&D Beyond 사용자 20% 이상 증가, EPS 기여 시작
+③ 2022년 공급망 문제로 출시 일정 지연 및 가격 정책 조정으로 Q4 실적 영향
+④ 2023년 Baldur's Gate 3 출시 등으로 디지털 매출 회복 기대
+
+재고 및 비용 관리 코멘트
+① 2022년 말 재고가 전년 대비 23% 증가, 소매 재고도 소폭 상승해 1H23 주문 부진 예상
+② 재고 조정 및 비용 절감 노력으로 2023년 영업이익률 50-70bps 개선 전망
+③ 광고비는 2023년 증가 예정이나 더 타겟팅된 마케팅 전략 적용
+④ 부문별 비용 절감과 조직 효율화로 장기적 수익성 개선 목표
+
+콘텐츠 및 라이선싱 코멘트
+① eOne Film & TV 자산 매각 진행 중이며 2분기 중 업데이트 예정
+② 2023년 Dungeons & Dragons: Honor Among Thieves, Transformers: Rise of the Beast 등 주요 콘텐츠 출시 예정
+③ 라이선싱 사업 5% 성장, Peppa Pig, Play-Doh, Marvel, Star Wars 등 강력한 브랜드 포트폴리오 유지
+④ 콘텐츠 중심 성장 전략과 파트너십 확대에 집중
