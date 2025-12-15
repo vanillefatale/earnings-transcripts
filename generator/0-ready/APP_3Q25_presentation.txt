@@ -1,0 +1,71 @@
+AppLovin Corporation (APP) Q3 2025 Earnings Call November 5, 2025 5:00 PM EST
+
+Company Participants
+
+David Hsiao - Head of Investor Relations
+Adam Foroughi - Co-Founder, CEO & Chairperson
+Matt Stumpf - Chief Financial Officer
+
+Conference Call Participants
+
+James Heaney - Jefferies LLC, Research Division
+Omar Dessouky - BofA Securities, Research Division
+Jason Bazinet - Citigroup Inc., Research Division
+William Lampen - BTIG, LLC, Research Division
+Alec Brondolo - Wells Fargo Securities, LLC, Research Division
+Vasily Karasyov - Cannonball Research, LLC
+Matthew Cost - Morgan Stanley, Research Division
+Benjamin Black - Deutsche Bank AG, Research Division
+Christopher Kuntarich - UBS Investment Bank, Research Division
+Robert Sanderson - Loop Capital Markets LLC, Research Division
+Martin Yang - Oppenheimer & Co. Inc., Research Division
+James Callahan - Piper Sandler & Co., Research Division
+Nathaniel Schindler - Scotiabank Global Banking and Markets, Research Division
+
+Presentation
+
+David Hsiao
+Head of Investor Relations
+
+Welcome to AppLovin's earnings call for the third quarter ended September 30, 2025. I'm David Hsiao, Head of Investor Relations.
+
+Joining me today to discuss our results are Adam Foroughi, our Co-Founder, CEO and Chairperson; and Matt Stumpf, our CFO. Please note, our SEC filings to date as well as our financial update and press release discussing our third quarter performance are available at investors.applovin.com.
+
+During today's call, we will be making forward-looking statements, including, but not limited to, the future development and reach of our platform, including the expected timing of product launches, our share repurchase program, the efficiency of our operations, the expected future financial performance of the company and other future events. These statements are based on our current assumptions and beliefs, and we assume no obligation to update them, except as required by law. Our actual results may differ materially from the results predicted. We encourage you to review the risk factors in our most recently filed Form 10-Q for the second quarter ended June 30, 2025.
+
+Additional information may also be found in our quarterly report on Form 10-Q for the fiscal quarter ended September 30, 2025, which will be filed today. We will also be discussing non-GAAP financial measures. These non-GAAP measures are not intended to be superior to or a substitute for our GAAP results. Please be sure to review the GAAP results and the reconciliations of our GAAP and non-GAAP financial measures in our earnings release and financial update available on our Investor Relations site.
+
+This conference call is being recorded, and a replay will be available for a period of time on our IR website.
+
+Now I'll turn it over to Adam and Matt for some opening remarks, then we'll have the moderator take us through Q&A.
+
+Adam Foroughi
+Co-Founder, CEO & Chairperson
+
+Thank you all for joining us today. First, I'd like to recognize our inclusion in the S&P 500, a huge milestone for our company and a strong acknowledgment of what we built. It's a privilege we do not take lightly. It also means we now carry the expectations of a much broader set of investors, and we must push even harder to continue delivering.
+
+Turning to our business. Q3 was another very good quarter. Our performance was strong with gaming advertising continuing on a solid trajectory. Our teams delivered multiple incremental lifts in our core models this quarter. And our MAX supply-side platform, one of the best indicators of our end market growth continues to grow at very healthy rates. We also opened up international traffic for advertisers promoting websites or shops in Q3 ahead of schedule.
+
+I'm particularly proud of our team because even while executing a strong quarter, we also delivered our major October 1 launch of our self-service platform and referral form. We did so without any significant hiccups, no major bugs and effective filtering out of low-quality ad accounts, something I was personally monitoring closely. This speaks volumes about our ability to automate and execute. I know everyone wants stats on how self-service is going. And instead of something specific around accounts or ramp-up since we're still very early, I'd like to point out a stat which I watch very closely.
+
+While it takes a while for new customers to get going, to integrate, to learn how to use our system and to ramp spend, we're already seeing spend from these self-service advertisers grow around roughly 50% week-over-week. It's too soon to be significant, but this type of early growth gives us even more confidence that our platform will excel at being an open platform to any type of advertiser.
+
+Our focus for Q4 and 2026 will be the following, with priority always given to improving our models for all advertisers. We'll continue tuning our onboarding flows and ramping more AI agents into the workflow to support a seamless experience for new advertisers. Once we're satisfied with the quality and experience, we'll open the platform broadly beyond referral basis. We'll be testing generative AI-based ad creatives. Over time, if we can move to mostly automated creative generation, we believe user response rates to more customized ads on our platform will materially improve. We are actively testing paid marketing to promote the Axon Ads platform to new customers. We'll continue tuning this acquisition method so that when we launch the platform beyond referral in 2026, we can scale advertiser count without a reliance on a large sales force. If we maintain execution discipline, we are well-positioned to acquire a large volume of new advertisers in the coming years.
+
+We believe that giving our powerful recommendation engine, a more diverse set of advertisers to recommend will dramatically improve conversion rates, paving the way for elevated growth rates for years to come. It's worth noting the backdrop. The market is recognizing our platform, our scalability and the reach we offer our partners and the institutional dynamics that come with the S&P 500 inclusion are already in motion. At the same time, we continue to operate in an environment of heightened scrutiny around data, privacy and ad tech practices. We remain committed to strict compliance, transparency and execution excellence.
+
+To conclude, we delivered a very strong Q3. We are executing on our strategic priorities, and we are confident that our best days are ahead as we broaden access to our self-service platform and scale globally.
+
+With that, I'll turn it over to Matt for a deeper dive into the numbers.
+
+Matt Stumpf
+Chief Financial Officer
+
+Thanks, Adam, and thanks, everyone, for joining us today. Q3 was another exceptional quarter. Revenue was approximately $1.405 billion, up 68% year-over-year due to model updates in the core gaming business, while adjusted EBITDA was $1.158 billion, up 79% at an 82% margin, up 1% quarter-over-quarter from operating leverage and a modest reduction in operational FX. Quarter-over-quarter flow-through to adjusted EBITDA was 95%, slightly above Q2. Free cash flow was $1.049 billion, up 92% year-over-year. Free cash flow margin improved sequentially given no semiannual cash interest paid on our debt this quarter as those payments occur in Q2 and Q4 of each year. We ended the quarter with $1.7 billion in cash and cash equivalents.
+
+During the quarter, we repurchased and withheld approximately 1.3 million shares for $571 million funded by free cash flow. Over the last 3 quarters, we have reduced our weighted average diluted common shares outstanding from 346 million in Q4 of last year to 341 million this quarter. During the quarter, our Board of Directors increased our share repurchase authorization by an incremental $3.2 billion.
+
+Finally, turning to our financial outlook for next quarter. In the fourth quarter of 2025, we anticipate revenue between $1.570 billion and $1.6 billion, reflecting between 12% and 14% sequential growth. With adjusted EBITDA between $1.290 billion and $1.320 billion, targeting an adjusted EBITDA margin of 82% to 83%.
+
+Now with that, let's move to Q&A.
+
