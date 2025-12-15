@@ -1,0 +1,102 @@
+Rent the Runway, Inc. (RENT) Q3 2026 Earnings Call December 12, 2025 8:30 AM EST
+
+Company Participants
+
+Cara Schembri - Chief Legal, Secretary & Administrative Officer
+Jennifer Hyman - Co-Founder, CEO, President & Director
+Siddharth Thacker - Chief Financial Officer
+
+Presentation
+
+Operator
+
+Greetings. Welcome to Rent the Runway Third Quarter 2025 Earnings Call. [Operator Instructions]. Please note that this conference is being recorded. I'll now turn the conference over to Cara Schembri, Chief Administrative Officer and General Counsel. Thank you, Cara. You may now begin.
+
+Cara Schembri
+Chief Legal, Secretary & Administrative Officer
+
+Hello, everyone, and thanks for joining us today. During this call, we will make references to our Q3 2025 earnings presentation, which can be found in the Events and Presentations section of our Investor Relations website.
+
+Before we begin, we would like to remind you that this call will include forward-looking statements. These statements include guidance and underlying assumptions for the fourth quarter and fiscal year 2025 and statements regarding the recapitalization transactions and our business initiatives. These statements are subject to various risks, uncertainties and assumptions that could cause our actual results to differ materially.
+
+These risks, uncertainties and assumptions are detailed in today's press release as well as our filings with the SEC, including our Form 10-Q that we plan to file shortly. We have no obligation to update any forward-looking statements or information, except as required by law. During this call, we will also reference certain non-GAAP financial information.
+
+The presentation of this non-GAAP financial information is not intended to be considered in isolation or as a substitute for financial information presented in accordance with GAAP. Reconciliations of GAAP to non-GAAP measures can be found in our press release, slide presentation posted on our Investor Relations website and our SEC filings. And with that, I'll turn it over to Jen.
+
+Jennifer Hyman
+Co-Founder, CEO, President & Director
+
+Thanks, Cara, and thank you, everyone, for joining. We've been laser-focused on 2 clear priorities: first, completing the strategic recapitalization of the business to significantly strengthen our balance sheet; second, bringing the business back to growth through a new inventory strategy, increased product innovation and improved connection to our core customer.
+
+Now that we are here in Q3, I'm pleased to say we've delivered on both of these goals. We've strengthened our financial foundation by reducing our total debt from approximately $319 million to approximately $120 million and extending the maturity to 2029, giving us years of additional runway. With the recapitalization to highly respected private equity firms with deep experience in the consumer retail space, Nexus and STORY3, alongside our long-term existing lender, contributed new capital to further support the business and its growth initiatives. In addition, they will join us in the boardroom to provide their expertise and support.
+
+And importantly, the Rent the Runway business is growing again. We are on track for 11% to 14% year-over-year revenue growth in Q4, up from 1% revenue growth year-over-year in Q4 2024. Q3 fiscal year '25 ending active subscribers grew 12% year-over-year as our base of inventory has grown, and we have enhanced the customer experience. Importantly, despite raising prices in August, we continue to see improvement in both acquisition and retention versus the prior year. We believe that customers are responding positively because the end-to-end experience on our app discovering inventory, personalization and getting the inventory you want is better, and that shows up first in retention as existing customers are the first to notice.
+
+Inventory-related cancellations, which are related to availability, selection and quality year-to-date is down over 20% year-over-year and in Q3, it was down nearly 30% versus last year. We track 3 important input metrics that are indicators of customer engagement, Net Promoter Score, visits and heart, all of which are up. Our Q3 subscription Net Promoter Score was up 43% year-over-year, 67% versus Q3 2023 and 100% versus Q3 2022. We believe that this demonstrates a multiyear rebuild of customer trust.
+
+Customer engagement is at its highest level in recent years. The average active subscriber visited our app over 20x per month in Q3, which is 34% higher year-over-year. Hearts per subscriber, one of the most important inputs to loyalty as we see them as proof of the customer finding and loving the inventory are up 15% year-over-year in Q3. And because she's more engaged, she is willing to spend more money with us.
+
+Revenue per subscriber is also up driven primarily by our August 2025 price increase, changes to our late fee policy and the accelerated performance of our add-on business. To give our subscription programs even more flexibility, we optimize the add-on experience by clearly displaying to our subscribers that our pricing is prorated based on her billing cycle.
+
+This strategic clarity, along with the improved inventory experience, drove a 17% year-over-year increase in the subscription add-on rate in Q3 2025. We also recently launched an instant gratification feature, which transforms in-stock notifications into immediate revenue by allowing one-off orders of inventory when she's out of shipments. We believe that our subscriber base is willing to pay more for immediate access to the inventory she wants when she wants it.
+
+In Q3, we rolled out some meaningful changes designed to improve the customer experience, driving growth and customer satisfaction. Key highlights include: one, a personalized homepage redesign on our app aimed at shifting discovery to her preferences, since launch engagement with our new homepage is up 57% versus the prior version. A reminder that a major focus this year has been not only on increasing inventory supply at our site, but also making it easier for customers to discover relevant inventory and add to that.
+
+Two, a better onboarding experience for early term subscribers with the aim to increase loyalty. We launched several features for new users to help educate her about RTR and to give us information about her style. RTR 101 is a step-by-step side for new subscribers to progressively guide and handhold them in for early days. We also added a heart and quit for her to give us quick feedback on style she likes or doesn't like, which we use to personalize her experience. Early results show this future increasing average hearts by 70%.
+
+Three, add on pricing transparency and one-off shipments to drive incremental revenue per subscriber, creating more visibility around pricing and the value she's getting by adding on items to her order has significantly boosted add-on revenue. One-off shipments is the first time you've ever been able to add one-off items, ASAP when you're out of swaps for the month. The goal is to give her more flexibility to rent what she wants when she wants.
+
+Number four, better search and discovery experiences. We launched a detailed taxonomy, which provided an incremental 70 pathways for her to explore the inventory and we leaned into machine learning capabilities to drastically improve similar style recommendations, resulting in a 70% increase in click-through rates. We continue to see that mainstream adoption of secondhand closing is growing and women from all geographies and backgrounds are now embracing and considering rental more than ever. The TAM has continued to grow and I have conviction that Rent the Runway is the brand with a clear long-term advantage.
+
+To sustain this growth, our focus now turns to improving customer acquisitions. First, we are focused on making key marketing even more efficient through channel diversification and better creative. Our early results show meaningful improvements in CPA and conversion. Second and more importantly, we are shifting more acquisitions towards organic community-driven channels. Historically, over 80% of Rent the Runway's acquisition came from word-of-mouth. As pay channels have grown more expensive and less efficient, this shift is not only strategic, it is a return to our roots.
+
+RTR pioneers the belief that the most powerful marketing channel is an obsessed customer. We bring our model and our brand around that principle. Exceptional customer experience fuel advocacy, our depth and breadth of inventory on moments worth sharing community behaviors like reviews, photos, events and referrals, scale organically, and our brand identity reflects her aspirations so she sees herself enough.
+
+Today, we have conviction that we have the building blocks in place to reignite organic growth at scale. We've defined 4 pillars: one, activate our communities so they feel seen and crowd to share; two, make sharing fun and easy; three, tell authentic personality-driven stories; and four, create and own the cultural conversation around rental.
+
+Our Muse program, the community-driven content engine launched this year has already generated 10 million impressions in Q3. Thousands of posts showcase the product in real life. And when we use this content in paid channels, it delivers a 20% lower CPA and 40% higher conversion than other creative. Our City Ambassador program launched in October and scaled rapidly to 875 ambassadors. In just over 2 months, they produced over 2,700 reviews and several hundred referrals. Their referral rate is significantly higher than what we see with regular subscribers.
+
+These are passionate users acting as on the ground evangelists for our brands. We told you we would recapitalize the business and significantly increase our inventory in order to reignite growth. We've done that. And today, our Q3 results are clear. Retention improved, NPS increased, engagement accelerated, community passion is stronger and subscriber growth was robust even with the price increase.
+
+I'm confident that this is what it looks like when the Rent the Runway experience gets better and when the fundamentals of the model begin to reaccelerate. We are focused on building a larger, healthier and more durable business, one that grows through exceptional customer experience and passionate community advocacy. Thank you for joining us today. With that, I'll turn it over to Sid.
+
+Siddharth Thacker
+Chief Financial Officer
+
+Thanks, Jen, and thank you, everyone, for joining us. I'd like to discuss 3 topics before turning to business results. Our continued growth momentum, cash consumption this year and our recently closed recapitalization transactions.
+
+Let's begin with growth. As evidenced by Q3 results, subscriber growth continued to be strong, with 12.4% growth versus Q3 '24, even with the August 1 price increase. Revenue growth improved considerably from negative 7.2% in Q1 '25 and 2.5% in Q2 '25 to 15.4% in Q3 '25.
+
+Subscription growth was the strong driver of total revenue growth in light of weakness in our reserve business. As outlined in our guidance, we expect continued strong revenue growth in Q4. We believe that our investment in inventory this year is driving accelerated growth and improved customer satisfaction. We are growing without spending significantly more year-over-year in paid marketing, which we believe highlights the strength of the retention improvements we have seen.
+
+Second, we've been transparent about our fiscal year '25 goals to invest in inventory to improve customer experience and accelerate growth, which is driving increased cash consumption from near breakeven levels in fiscal year 2024. This rental product investment is directly visible in lower gross margins at approximately 29.6% this quarter versus 34.7% during the same quarter last year.
+
+As we discussed over the last 2 earnings calls, we have nearly doubled our units of inventory purchase this fiscal year. At this time, we do not expect increases in inventory receipts of this magnitude in fiscal year '26. We have continued to make progress in acquiring inventory on better terms, especially through share by RTR program. We believe our incremental margins are solid even at current levels. Over time, we expect the combination of growth and these inventory cost improvements to deliver improved cash flow generation.
+
+Finally, let me discuss the completion of the recapitalization transactions we announced in August. The transactions provide Rent the Runway with additional financial flexibility to execute on our growth plan by reducing our debt burden and by extending our debt maturity. We also believe that we will benefit from the considerable experience and fresh perspective that new members of our Board of Directors will bring.
+
+Let me now review results for the third quarter before turning to Q4 and full year 2025 guidance. We ended Q3 '25 with 148,916 ending asset subscribers, up approximately 12.4% year-over-year. Average active subscribers during the quarter were 147,645 subscribers versus 130,796 subscribers in the prior year, an increase of 12.9% year-over-year.
+
+Subscriber growth was driven primarily by a higher base of active subscribers at the end of Q2 '25 versus the same period in fiscal 2024, higher subscriber acquisitions due to higher promotional activity and improved subscriber retention versus Q3 '24. Ending active subscribers increased 1.7% from 146,373 subscribers in Q2 '25.
+
+Total revenue for the quarter was $87.6 million, up $11.7 million or 15.4% year-over-year and up $6.7 million or 8.3% quarter-over-quarter. Subscription and reserve rental revenue was up $10.7 million or 16.1% year-over-year in Q3 '25, primarily due to higher average subscribers and higher average revenue per subscriber due to the subscription price increase effective August 1, partially offset by lower reserve revenue versus Q3 '24.
+
+Other revenue increased $1 million or 10.4% year-over-year. Fulfillment costs were $24 million in Q3 '25 versus $21.4 million in Q3 '24 and $22.5 million in Q2 '25. Fulfillment costs as a percentage of revenue were 27.4% of revenue in Q3 '25 compared to 28.2% of revenue in Q3 '24. Fulfillment costs declined as a percentage of revenue, primarily due to higher revenue per order driven by our August price increase, partially offset by higher transportation costs as a result of carrier rate increases and higher warehouse processing costs.
+
+Gross margins were 29.6% in Q3 '25 versus 34.7% in Q3 '24. Q3 '25 gross margins reflect higher revenue share costs as a percentage of revenue due to greater share by RTR inventory levels, partially offset by lower fulfillment and rental product depreciation and write-off costs as a percentage of revenue. Q3 '25 gross margins decreased quarter-over-quarter from 30% in Q2 '25, primarily due to higher revenue share costs as a percentage of revenue.
+
+Q3 '25 operating expenses were 7% higher year-over-year due primarily to higher employee expenses. Total operating expenses, which include technology, marketing and G&A were 45.2% of revenue in Q3 '25 versus 48.7% of revenue in Q3 '24 and 51.7% of revenue in Q2 '25. Adjusted EBITDA for Q3 '25 was $4.3 million or 4.9% of revenue versus $9.3 million or 12.3% of revenue in Q3 '24. The decrease in adjusted EBITDA versus the prior year is primarily a result of higher revenue share expenses due to greater share by RTR inventory levels.
+
+Free cash flow for Q3 '25 was negative $13.6 million versus negative $3.4 million in Q3 '24. Free cash flow decreased versus the prior year, primarily due to lower adjusted EBITDA and higher purchases of rental products on account of our inventory strategy for fiscal year 2025.
+
+I will now discuss guidance for Q4 2025 and fiscal year 2025. For Q4, we expect revenue to be between $85 million and $87 million. We expect adjusted EBITDA margins to be between 11% and 13% of revenue. For fiscal year 2025, we continue to expect double-digit growth in ending active subscribers. We expect fiscal year 2025 revenue to be between $323.1 million and $325.1 million. We expect adjusted EBITDA margins to be between 4.9% and 5.5% of revenue.
+
+We continue to expect free cash flow to be lower than negative $40 million primarily due to costs associated with the recapitalization transaction. We believe our business is showing improved momentum as evidenced by growth in the active subscriber base, and we plan to prudently manage investments to continue to drive growth for the rest of fiscal year 2025.
+
+In conclusion, we're pleased with the improved growth momentum we have seen this year. I believe that Rent the Runway is in the strongest position it has been in several years. We look forward to continuing to delight our customers and to driving sustainable growth in the years ahead. Thank you, everyone, for joining us. We look forward to speaking to you next quarter.
+
+Operator
+
+Thank you. This concludes today's conference. You may now disconnect your lines at this time. We thank you for your participation, and have a wonderful day.
+
+
