@@ -1,0 +1,235 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question is from the line of Josh Chan with UBS.
+
+Joshua Chan
+UBS Investment Bank, Research Division
+
+I guess I was -- I'm going to ask about the margin trajectory of the business. I think you introduced a segment operating margin metric. I was just wondering, I guess, what are the drivers between what seems like a relatively flat margin outlook for '26 despite some restructuring savings coming into the business?
+
+David Orr
+Executive VP & CFO
+
+Josh, thanks for the question. Yes, we did introduce a new metric next year in segment operating profit margin. And we just feel like that's a really clean metric for us, and it reflects, call it, the operating health of the business and removes some of the noise created by the prior year self-insurance adjustments. So we do have some benefit from the restructuring built into those margins. Some of that restructuring, as we spoke about in Q3 was baked into the field and operating profit numbers. And then we have some mix rolling into those numbers in 2026 as well that we're working through, some of which from some of the pricing decisions we talked about in the Q3 call.
+
+So it's just a blend of those two things really ultimately. But we're excited to introduce this metric. And as I said, it just gives us a real clear picture, and it mirrors actually how we measure and manage the business internally.
+
+Joshua Chan
+UBS Investment Bank, Research Division
+
+Okay. Great. And then maybe a question on the deal. Could you just talk about sort of the strategic attraction of the deal, kind of why you pursue the deal? And then also from a financial perspective, the switch from being dilutive in '26 to accretive in '27, could you just kind of talk a little bit about whether that's because amortization goes down or whether that's just pure business growth and margin expansion?
+
+Scott Salmirs
+President, CEO & Director
+
+Yes. So -- that's great. So the strategic imperative with this acquisition is just really compelling. I mean, I guess we don't have to talk a lot about the semiconductor space, right? You know like it's one of the hottest and fastest-growing segments in the economy right now. And we have a big portfolio already over $300 million in business in that space. And for us, it's incredibly exciting. And the best way to think about this is -- and maybe this will help when you think about this acquisition and what they do.
+
+What I want you to kind of visualize is a picture of bull's eye, right? And if you look at the outer ring of a bull's eye, think of that as a semiconductor facility and the inner ring as the fabrication center where they're actually doing all the fab. We operate from the outside of the ring to the inside of the ring before you get to the fabrication facility. That's what ABM's core has been doing cleaning, doing technical service, doing support service for staff. But we've never been able to get inside the fabrication facility because to get inside there, it's typically sensitive materials. It's restricted. You need certifications. And that's what WGNSTAR brings to the table.
+
+And when you think about the fact that they have over 30 clients in the semiconductor space, and we have over 50 and you put those together, I think it's just going to be fabulous because now we can go to our clients and say, we can now broach the fabrication center with our skills. So it's just going to open up a whole universe for us. So the strategic possibilities are just fabulous. And I'll let David answer the dilution question.
+
+David Orr
+Executive VP & CFO
+
+Yes. Josh, thanks for the other question. So from a dilution perspective, as we noted, we expect some nominal dilution in the first year, and that's really largely because of the -- factoring in the amortization and interest cost of the deal. But I think the good news is based on the growth trajectory, we expect a real path to accretion in year 2. And ultimately, if you step back and look at this thing on a forward-looking basis, we see a multiple between 12 and 13x.
+
+So we're extremely excited about the acquisition. It's got a great margin profile, a great growth profile. Those growth profile helps us propel into '26 and '27. And we see a lot of actual cross-selling synergies opportunities, as Scott just mentioned, with the shared accounts that we have. So really exciting opportunity for us.
+
+Scott Salmirs
+President, CEO & Director
+
+Yes. And we feel like there's a lot of parallels between this and what we did with RavenVolt, where we picked a specific segment of an industry, in this case, microgrids with RavenVolt and said, we see this as a point of acceleration. And just for context, RavenVolt did over $400 million in revenue this year and think about that from where it started with the acquisition. So we feel like WGNSTAR has same principles as RavenVolt, and it's just as exciting for us.
+
+Operator
+
+Our next question is from the line of Jasper Bibb with Truist Securities.
+
+Jasper Bibb
+Truist Securities, Inc., Research Division
+
+I wanted to ask about your experience with pricing concessions in some of the more challenged U.S. office markets you talked about last quarter. Just hoping you could clarify if you've seen any more customer concessions in the B&I business? Or has that slowed down?
+
+Scott Salmirs
+President, CEO & Director
+
+Yes. So I think it's stabilized. And we did say last quarter that we thought it was more episodic. We're always having pricing discussions. We continue to have pricing discussions in the fourth quarter, but they weren't as kind of dramatic and didn't add up to what it did in Q3. So we see that stabilizing right now and feel really good about it.
+
+And I guess if you would think about what we talked about with M&D last quarter, we said those pricing discussions were about capturing market. And specifically for us, it was in the semiconductor space. We knew about WGNSTAR. We knew it was coming. Obviously, we couldn't share that at that time. So part of those pricing discussions was anticipation for the WGNSTAR deal. So hopefully, that gives you a little bit more clarity. But again, we see total normalization now.
+
+Jasper Bibb
+Truist Securities, Inc., Research Division
+
+Yes, that's helpful. And then I guess, just hoping you could provide a bit more detail on the remaining pieces of the ERP road map that are coming in '26 and how that factors in how you're thinking about the free cash flow outlook for the year?
+
+David Orr
+Executive VP & CFO
+
+Yes. Thanks, Jasper. It's David. So we're really happy that we've got the vast majority of the transactions throughout the enterprise on the new ERP system. And obviously, we worked through that this year and we think we finished the year on a good note there. We have a few groups left to go. And the good news is, I think, from a risk and complexity scale level, those groups are much less complex ultimately to get on to the system. And with the advancements of AI and how we deploy AI, we're learning every day more and more about how more efficiently we can migrate those groups on the system. But having nearly 90% of the transactions on board right now is a great place for us to be.
+
+And relative to cash flow, we're obviously really pleased with where we ended the year on cash flow, a pretty big difference between the first half of the year and the back half of the year. In fact, our DSOs at the end of this year were down 11% from their peak in Q2. And that's, by the way, a reflection of the team's effort. I mean there was a tremendous amount of focus from the entire team at ABM to get there.
+
+And then looking forward to next year, I do think we're entering the year from a position of strength on cash flow. Our target next year of around $250 million normalized cash flow even includes an incremental $30 million of anticipated capital spend on buses for an airport contract that we won in 2025. So given that, on an adjusted basis, we feel really strong about the cash flow number in '26.
+
+Operator
+
+Our next question is from the line of Andy Wittmann with Baird.
+
+Andrew J. Wittmann
+Robert W. Baird & Co. Incorporated, Research Division
+
+Yes. Great. And maybe David, can you just keep going a little bit on the free cash flow? The $250 million normalized, can you call out what the items that are unusual onetime items that we should be considering in the year? Obviously, some of the restructuring is going to have probably some cash cost, although it sounds like you got through a lot of that. Maybe if you could just bridge us to what the actual number will be ex the items, just so we have an understanding of some of those ins and outs.
+
+David Orr
+Executive VP & CFO
+
+You got it. No problem. Yes. So if you start at $250 million, Andy, we'll probably have about $20 million in transformation costs, another $10 million in integration and acquisition costs and plus or minus $5 million in restructuring costs. And then the last piece of it is we do anticipate an additional payout for the RavenVolt contingent consideration. And right now, that's about $30 million. So if you [ rack ] all of those up and back it out of $250 million, you get down to a free cash flow number of around $185 million.
+
+Andrew J. Wittmann
+Robert W. Baird & Co. Incorporated, Research Division
+
+Super helpful. Just speaking of earn-outs and payouts, does the WGNSTAR, is this cash payout that's expected in your fiscal second quarter [ itch ]? Or does this one also have some contingencies, earn-outs, what have you associated with that? And if you can, if there are any, just what can you tell us about those recognizing that, that deal has not yet closed?
+
+David Orr
+Executive VP & CFO
+
+Yes. We anticipate the deal to close early in our second quarter of fiscal '26, Andy. And so we'll anticipate funding it at that time. And we've designed some structures on the management side to make sure that the team is motivated, and we'll go into more detail as we get through the second quarter here.
+
+Andrew J. Wittmann
+Robert W. Baird & Co. Incorporated, Research Division
+
+Got it. Maybe one other one. Can you -- maybe, David, just for understanding here, what is -- what was the segment operating profit in fiscal 2025? I just want to make sure that I understand kind of where you are in the metrics so I can understand the guidance.
+
+David Orr
+Executive VP & CFO
+
+Yes. Thanks, Andy. It was 7.9%, so roughly right in the middle of the range of what we're calling out for fiscal '26.
+
+Andrew J. Wittmann
+Robert W. Baird & Co. Incorporated, Research Division
+
+Got it. And then just maybe final question for me. Obviously, again, you said that the restructuring program has been substantially activated here already. Can you talk about how much is left to go and how the rest of it phases in during the course of fiscal 2026 and where the benefit should accrue? I guess there's some accrual to '27 here.
+
+David Orr
+Executive VP & CFO
+
+Yes. So as we spoke about in Q3, we realized about 20% of the benefits of the $35 million in Q4 essentially of 2025. And the balance of that, we still anticipate recognizing in 2026. And that restructuring is largely done essentially. And so beyond that, we continue to look at other areas like real estate footprint, optimizing our spend on subcontract, any early AI-enabled savings. Those will be incremental as they come to anything we announced on the prior restructuring.
+
+Operator
+
+Our next question is from the line of Tim Mulrooney with William Blair.
+
+Timothy Mulrooney
+William Blair & Company L.L.C., Research Division
+
+Scott, your guidance framework of organic revenue growth of 3% to 4% next year, what's the assumption embedded in that guidance for the B&I segment? It's your biggest segment. The business has been accelerating in recent quarters, but you didn't call it out in your outlook section as a growth driver for fiscal 2026. So I'm curious where your head is at and how you're thinking about the business for next year?
+
+Scott Salmirs
+President, CEO & Director
+
+Yes. So look, I think -- so when I think about the B&I segment, which is largely commercial real estate, I feel like from our perspective, the commercial real estate crisis is behind us now. We feel like the work from home versus work in the office has kind of stabilized at this point. So we think we're back to kind of steady state in B&I. And typically, that's been growing at a GDP rate, and that's where we think it's going to land this year, and that's what's baked into our guidance, basically normal course now, which, by the way, is a big relief, right, for -- I think, for all of us to feel like we've kind of lapped all the drama of the last few years in commercial real estate.
+
+Timothy Mulrooney
+William Blair & Company L.L.C., Research Division
+
+Yes, for sure. Yes. No, that's good to hear. Steady state, normal course, stabilization. Those are the words that I think everyone wants to hear as we're turning the quarter into 2026. So that's great. Thank you, Scott.
+
+David, I have a completely different shifting gears completely here to the self-insurance adjustment. And by the way, the bridges of the slides at the end were really helpful. So thanks for building those out. But I saw that $0.26 impact from your prior year self-insurance adjustments. And I'm wondering if you could just unpack that a little bit more because I understand there's a lot of accounting estimates that go into this, and you do the best that you can here. But we're trying to understand if this was a discrete event or if there's potential for a longer tail here in future quarters.
+
+David Orr
+Executive VP & CFO
+
+Yes. No problem. Thanks for the question. So the context I would provide here is this pool overall is a $500 million pool for us. And as we said in the prepared remarks, that's made up of workers' comp, general liability and auto-related claims. And I think, obviously, with the health care environment like it is, we know there can be volatility in this space on these claims. But I think when we take a step back and look at it from our perspective, a 4% adjustment on a $500 million pool for a workforce of over 100,000 employees is really well within industry standards.
+
+And really, the key is nothing's really changed. We had roughly a 4% adjustment last year as well. And some years, we even had a favorable adjustment. So it's just that after our discussions with the SEC, we're now reporting this above the line. But I think that's the key in looking at it is this is something we deal with. We just have a reporting change, and now it's reported differently. So it's really nothing more than that, I would say.
+
+Scott Salmirs
+President, CEO & Director
+
+Yes. And if anything -- yes, I was just going to say like when you think about this pool and again, industry standard, we have such a strong safety culture here. It's just been embedded. Everyone gets a safety message every morning. And I think that's why we've been able to control this so well and keep it within a tight range, which, again, as David mentioned, you know what's going on with health care costs with all the costs associated around these kinds of claims to keep it within 4%, we're really proud of that.
+
+Timothy Mulrooney
+William Blair & Company L.L.C., Research Division
+
+I do, and I appreciate that. Sometimes we see these larger impacts and it's just an update to a reserve because there's an ongoing court case or something like that. So I just wanted to clarify. But it sounds like if I could summarize, this is well within the range that you see in a typical year, and we're just going to have to get used to the swings now that you can't exclude it from GAAP EPS, correct?
+
+David Orr
+Executive VP & CFO
+
+Right. I think that's right. And I think that's another reason for us to give clarity in providing segment operating profit margin, again, because I mentioned that really just takes the noise out of that adjustment.
+
+Operator
+
+Our final question today will come from the line of Faiza Alwy with Deutsche Bank.
+
+Faiza Alwy
+Deutsche Bank AG, Research Division
+
+I wanted to ask more about the WGNSTAR acquisition. I think, Scott, you mentioned that there's a very small level of business that is outsourced in that sector right now. I guess I'm curious why that is? And are you anticipating that there's going to be -- I assume you're anticipating that there's going to be more of a shift towards outsourcing. And so give us some color around why that is? And I guess related to that, talk a bit about the underlying competitive environment. Is there a potential additional roll-up opportunity? How should we think about future M&A in this space?
+
+Scott Salmirs
+President, CEO & Director
+
+Yes. So I think for us, the way we look at it, from our perspective, the reason so much of the work is in-sourced is because it's highly technical, and for some of the semiconductor companies to bridge the gap of outsourcing it, it's a very, very high bar. But with WGNSTAR, so many of their clients are 20-plus year relationships because they are so good at operating within these facilities and gaining the trust of their clients that what they've seen is in the clients that they've captured more and more of the work that was in-sourced starts coming to WGNSTAR. So it really has to do with the high level of proficiency that an employee has to have and having that trust in your provider, right?
+
+So we feel really great about that. And that's going to give us high confidence that we're going to get some really nice revenue synergies over time by introducing this capability now to our existing semiconductor clients. And frankly, we think there's crossover to pharma clients that operate in these kinds of facilities. So tremendous potential for us. So we think that that's really, in our mind, the key reason. And when we look at the competitor set, not a tremendous amount of big competitors. It's a lot of small competitors. We could have roll-up potential for us, but it could also be that we could just expand organically with the skill set and just hiring and training on our own. So we have a lot of opportunity here. And I think that's why we're so excited about this.
+
+Faiza Alwy
+Deutsche Bank AG, Research Division
+
+Great. And then just wondering if you can be a bit more specific around just again, the dilution in '26 and the accretion in '27, maybe give us a sense of what your -- like what the margins -- EBITDA margins are in the business or the segment operating margin, if you want to put it that way? And then I guess, what you're assuming for interest expense and amortization for '26? And then how should we think about what goes into the synergies as we think about that accretion in '27?
+
+David Orr
+Executive VP & CFO
+
+Yes. Thanks, Faiza. Sure thing. So on the EBITDA margin side, the margins of WGNSTAR in the mid-teens. So it's a very healthy margin business. And for amortization and interest on an annualized basis, we assumed roughly $13 million of amortization and about $12 million of interest. So obviously, for fiscal '26, you take about 3/4 of that, assuming we close the transaction in the first part of the second quarter.
+
+And then on a go-forward basis, as I mentioned earlier, we anticipate growth rate to certainly continue in the double-digit range. And even beyond that, as Scott just called out, the opportunity to drive cross-selling synergies and revenue synergies in this business is really significant given the shared portfolio and the shared vertical space. So that's really where we see a lot of the accretion heading into fiscal '27.
+
+Faiza Alwy
+Deutsche Bank AG, Research Division
+
+Great. That's all very helpful. Maybe if I can just ask a question on Technical Solutions. Give us your -- how should we think about the lay of the land there? I know that business can be pretty lumpy. So if there's any additional perspective you can provide around the go forward and the underlying environment and pipeline, that would be really helpful.
+
+David Orr
+Executive VP & CFO
+
+Yes. The pipeline and backlog specifically is as healthy as it's ever been in Technical Solutions, Faiza. And what's exciting about that business is it's growing at a rate that we expect it to grow and back towards the high single digits. And then the other thing I would say is it is largely a project business. So it does tend to be a little lumpy from a forecast perspective. And there is some seasonality to it as well. There's a lot of work goes in over the summer, for example, when schools are out, some of the microgrid work tends to ramp up just based on award schedules towards the fourth quarter, and you saw that in our results that we just reported now. So overall, though, really, really excited heading into '26 on the Tech Solutions business.
+
+Operator
+
+We've actually had one late question from the line of Marc Riddick with Sidoti & Company.
+
+Marc Riddick
+Sidoti & Company, LLC
+
+I just wanted to sort of touch maybe a little bit on the potential acquisition pipeline following this purchase, maybe what we're looking at as far as leverage levels post transaction. I'm assuming it looks like we might be approaching around 2 or so. So maybe talk about your comfort level on leverage range and maybe what the acquisition pipeline looks like currently? And then I have a follow-up on the acquisition.
+
+Scott Salmirs
+President, CEO & Director
+
+Yes. So it's something that we're always actively looking at opportunities, especially some that will accelerate the specific markets that we're going after like semiconductor or data center or pharma. So we continue to look at that. But we're also very balanced, right? This will get us to about a 3x leverage when we close this acquisition, and that's kind of the range that we want to be in. So like we'll be really balanced about how we look at acquisitions for the rest of the year. Again, have a pipeline that's building. But for us, you know we don't do a tremendous amount of acquisitions because it has to be a compelling strategic imperative for us with an IRR that is compelling as well. So we're going to be really balanced in '26 when we look at acquisitions.
+
+Marc Riddick
+Sidoti & Company, LLC
+
+And then the press release had the details as far as trailing revenue and the like. Is there any particular seasonality we should be thinking about for the acquisition or whether -- or any sort of particular SKU either from a seasonality standpoint or a geographic standpoint?
+
+Scott Salmirs
+President, CEO & Director
+
+No, no real seasonality because they're operating obviously indoors in the fabs. So we get around the seasonality. So it's pretty even from a revenue base. And we love the diversity of their clients. They really operate in 9 basic regions of the country where semiconductor facilities are located. So they have good diversity geographically as well within the U.S. And 85% of their business is in the U.S. and the other 15% is in Ireland. So we get a little diversity there as well.
+
+Operator
+
+At this time, we've reached the end of our question-and-answer session. I'll hand the call back to Scott for closing remarks.
+
+Scott Salmirs
+President, CEO & Director
+
+Well, thanks, everyone, for participating today. And I mean, I could tell you, we are so thrilled at ABM to deliver these kinds of results in Q4. Some of the results actually even exceeded our own internal expectations. So the team just came through. And we are so energized about 2026 and how we're moving forward. And just hope everybody has a really good holiday, and we're really excited to come back in Q1 and tell you about how we're performing. But thanks, everybody.
+
+Operator
+
+Thank you. Ladies and gentlemen, thank you for your participation. This does conclude today's teleconference. You may now disconnect your lines, and have a wonderful day.

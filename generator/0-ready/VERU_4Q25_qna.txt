@@ -1,0 +1,102 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] The first question today comes from William Wood with B. Riley Securities.
+
+William Wood
+B. Riley Securities, Inc., Research Division
+
+Congrats on a successful year. I'm just kind of curious, in your press release for PLATEAU, you noted that there's going to be an inclusion of GLP-1 whereas at least in the past, you've spoken of using only tirzepatide, which is highlighted in your most recent deck. During PLATEAU, there's the potential for 2.4 mg sema, 7.2 mg sema 25 mg oral sema and then [ oral ] and then obviously also tirzepatide to all be approved. So I'm just curious, will any GLP-1 be allowed in your Phase IIb? Or will it be limited to just tirzepatide? And curious how we should sort of view the potential to achieve this 5% weight loss bar when placed with various agents. Do you feel that, that remains the same or it sort of lower or higher initial weight loss better to sort of set you up for success.
+
+Mitchell Steiner
+Chairman, President & CEO
+
+Great question. Thank you for the question. So basically, the question is, we're seeing GLP-1 receptor agonist. We get -- we're putting tirzepatide. in the placeholder in the study, raise the question, are you going to allow both semaglutide and tirzepatide, which are the 2 approved GLP-1 receptor agonists that are out there right now. And the answer is we have to pick one, because they are different. And the last thing you want to do is add variability to the study by having tirzepatide and semaglutide together. We're in the process of chatting and trying to secure one or the other. And so based on that, we'll determine ultimately which one it will be. At this point, the placehold is tirzepatide, but it could be semaglutide. But in either case, it should be one or the other and not allowing for both.
+
+William Wood
+B. Riley Securities, Inc., Research Division
+
+Got it. That's helpful. And then also, when thinking about sort of the Phase I to Phase III transition. Do you have any insight on -- I know you said that the FDA would allow for -- if you don't achieve that 5% bar, they would allow to incorporate or to look towards, say, a functional improvement like strength, specifically stair climb. But how does that set up in Phase III? Is that set up a dual endpoint in Phase III where you have to have where it's sort of an and/or dual primary endpoint? Or would they allow just a functional endpoint? How should we be thinking about that?
+
+Mitchell Steiner
+Chairman, President & CEO
+
+So I'll tell you exactly how to be thinking about it. It's a great question. So the reason we didn't go to Phase III is because we wanted to answer that question before you move to an expensive Phase III, okay? So the idea is do a Phase IIb and make the primary endpoint incremental weight loss. And so we know exactly how this agents are going to behave just like in a Phase III setting. So they have the titration period, the maintenance period of 52 weeks, same exact criteria that the FDA wants through the Phase III. So it's basically a mini Phase III. And so -- then we'll know exactly what that incremental weight loss over time will be.
+
+Then to make sure that it's very clear that we're focusing on body composition and function the second -- key secondary end points, as I mentioned in my comments, are going to be heavily weighted on getting an understanding of what happens at 72 weeks. So basically, your titration period followed by your maintenance period. Again, understand exactly what's going to happen in the Phase III setting in the Phase II -- using the Phase II setting. So we'll know exactly which of these points.
+
+Is it going to be stair climb power? Is it going to be the clinical outcome measure? Is it going to be bone mineral density? Is it going to be functional limitations, patients come in with functional limitation, mobility disability question. There's 2 questions. And do they improve and not improve? So we're learning a lot of information in what happens on 16 weeks, but what happens now at 72 weeks.
+
+And so based on that, and to be very clear, we found that the FDA's feedback was very positive because it gave us options now that can range from incremental weight loss you hit, and you can bring all the physical function body composition stuff in, if clinically meaningful in the label. And you're different. You're not an incretin within incretin okay? Or it becomes clear incremental weight loss, it could be a challenge. We don't think it will be, but let's say it is, you're not dead in the water. Now you have your physical function endpoints that can serve as your primary endpoint, your primary endpoint in the Phase III. So you can see how we're using our Phase II to guide us in our Phase III program.
+
+William Wood
+B. Riley Securities, Inc., Research Division
+
+Yes. No, that's helpful. And I guess just actually one quick last one. I know you've mentioned in the past again that you were going to sort of go for all comers but stratify. It looks like you're only targeting the greater than 65 patient population now in PLATEAU, and that's actually sort of up from the greater than 60 years old in QUALITY. So maybe just clarify what population you're targeting? And was that more FDA guidance or Medicare reimbursement dynamics or just sort of the most in-need population kind of [indiscernible].
+
+Mitchell Steiner
+Chairman, President & CEO
+
+So the way to think of it is if we hit our incremental weight loss, okay? Then you feel more comfortable. And if you hit on incremental weight loss in patients over 65, you're going to be finding the incremental weight loss in patients less than 65, okay?
+
+But for physical function, which is where we see ourselves benefiting and showing clinical meaningfulness, then the greater than 65 in our Phase IIb QUALITY study with the patients that were most in need, meaning they probably have a touch or more than a touch of sarcopenia and they already have physical limitations. They're the most informative population for physical function. If you go back and say, oh, if I look at STEP 1 or look at SURMOUNT studies, the performance looks better in patients that lose weight. It does because the average age is like 50.
+
+But if you go over 65, I haven't seen a single study in which they take out patients that are 65 and older and ask the same question. They don't. And so the purpose of the Phase II is to find the patient population that's most in need. The FDA has guided that if you choose as a primary endpoint, physical function and body composition endpoints, that being older greater than 65 and quite frankly, even being younger than 65, there's no indication. So even if you hit incremental weight loss and you want a secondary endpoint of physical function, you have to say what patient population has to be prespecified. If you read the guidance, it says you have to prespecify it.
+
+So in other words, if a 32-year-old linebacker, if you're going to lose weight and not have to get into trouble because they have a lot of muscle reserve, then that will be a bad patient to tell you whether or not you're going to make the functional limitations better. So even in the setting where incremental weight loss you hit and you want your secondary endpoint to be physical function, you can do a prespecified subset and put that into the full Phase III. So you do all comers and then you prespecify a subset, in this case, greater than 65.
+
+So by having this Phase IIb PLATEAU study, we'll know exactly how that patient population will behave. And so we hit incremental weight loss, we expanded to all patients, and we prespecify an older patient population that we want to have functional endpoints measured. Again, you read the guidance, that's acceptable. On the other hand, if you don't hit incremental weight loss and you go forward being older than 65 is not a disease. And so therefore, you have to say, older than 65 and functional limitations, older than 65, something in the patient problems with average activity of daily living, problems with functional tests like stair climb. So this Phase IIb really will give us the information that we need to make sure that if we go with a primary endpoint of physical function that we have the right indication in the right patient population.
+
+So as you see, we set ourselves up for all the options. And now on the study, take a step back between the Phase IIb QUALITY study and the Phase IIb PLATEAU study. Now you're going to feel pretty good you derisk the program for multiple opportunities -- multiple options going forward. So again, incremental weight loss with a secondary endpoint, physical function in the right patient population or physical function is your primary endpoint, incremental weight loss is not because you're at the same weight loss. But you have the right patient population, sarcopenic obese patient over the age of 65 that is afraid to go on GLP-1s.
+
+Can you help that patient population, which by the way, 44 million Americans on Part D of Medicare, of which half can benefit from a weight loss drug. It's a massive market. So we're playing with big numbers.
+
+While we're waiting for the next question, I just have a couple of comments to make. So first of all, as we reflect back over the year because this is year-end, maybe some personal comments from me. First of all, we went into a field that was completely unknown. We had data in cancer patients. We had data in older patients, but are these patients with pharmacological induced low-calorie situation different? And guess what, they are different. They are different.
+
+And so much so that when you look at these myostatin inhibitors because now these other companies have reported, if not complete Phase II, partial Phase II data, it's hard to hold on to lean mass. It's hard to hold on to lean mass. And you'll see the 6-month data and even the year data. So this is a different patient population. With that said, enobosarm performed very nicely. So we were able to show 100% lean mass, we burn fat, good physical function. And then the statement came back, how about safety because safety took us some more time to get safety because the study was still blinded. Safety came back great. And in fact, we look like we make GI toxicity better for the GLP-1. And so we're very, very excited about that. So from a year -- looking back at the year, we did -- I think we achieved what we needed to do with the trial.
+
+Then the competitive landscape, the other companies, Scholar Rock, Regeneron, Versanis, Lilly reported. And that was very, very helpful. Remember, we're oral, they're an injectable. And they have their own unique interesting safety signals. And that's because myostatin inhibitors are very ubiquitous and we're still learning about them. But the point is that we learned from that. What do we learn?
+
+One of the things I heard over and over, oh Mitch, if you hold on to muscle, muscle weighs more than fat, that you're going to have people that actually gain weight on your anabolic agent. And forget about incremental weight loss, you may be in a situation where you have to accept less weight loss. It didn't happen. It didn't happen for us, it didn't happen for them. So if you give an anabolic agent, there's not an instance where you loss less weight, in fact, with time and with time and holding on to more lean mass, as shown by the Versanis Lilly data that by 72 weeks, they had a 6.4% incremental weight loss .6.4% incremental weight loss.
+
+What that's supporting is that if you hold on to metabolic muscle that burns more calories every day than other tissue that ultimately the turtle wins the race, not the rabbit, the turtle wins the race and you end up with more weight loss. So that was important. Then the statement came back, okay, now we need regulatory clarity. Well, guess what? Yes, it's evolving. Yes, the FDA changed their mind because why would we do a 16-week study if incremental weight loss was the primary endpoint. That makes no sense. But that's because the FDA told us that incremental weight loss by itself would not work in the case of our drug functional endpoints, it function and should be the endpoint. That's what we did.
+
+Why did we pick 16 weeks? Because in all the previous 5 other studies in 1,000 patients, 16 weeks will show it. Guess what? It did. And then the FDA changed their thinking and actually gave us an option to -- now that we know incremental weight loss and anabolic agents can happen, and we saw in some of our data that we saw weight loss in some of the cancer patients who are obese. This could be very, very interesting. This is -- sometimes I say the FDA moves to goal posts. In this case, they moved to [ assist ] us because they gave us an opportunity to have multiple ways to get the physical function information into the label. So I'm very happy about that.
+
+And so our new trial design, as I just went through with questions from Dr. Wood. You'll see that we've set this up to have multiple opportunities for us to understand what the Phase III program could be from an extreme. Everybody in a subset of physical function to just the patients most in need that need a GLP-1, but can't take it because they have sarcopenic obesity, and that's a big number.
+
+And finally, we raised money. We have money. We raised -- we had a public offering. We had money in the bank. We put ourselves in a position to move forward on the trial. So we're very happy that's behind us. Some pushback was the IP. The IP, okay, we're a new chemical entity, our method of use patents, which are now about 5 of them, if issued, will get us to 2043. 2043 is a long time from now. And then to be sure, we made sure we made a new formulation of enobosarm. We've reported that we have that new formulation of enobosarm. We filed patents on that new formulation. That will take it to 2046 expiry.
+
+And in the Phase III in commercial, that will be the only formulation that will be used. Enobosarm is a new chemical entity. It doesn't exist out there. It's never been approved. So we put ourselves in a good position. And finally, pharma validation. And so we're working on. And so I think we've checked all the boxes to show that we have a robust program. And this year has been a really pivotal year to put us in a very strong footing to be an oral agent that could be potentially combined with some of the oral agents that are being developed by big pharma, where they're noticing that the oral agents aren't quite matching the injectables in terms of weight loss. So an oral agent, small molecule that's for weight loss incretin in combination with enobosarm could be very interesting. And particularly if you can potentially have similar weight loss with the combination therapy as you do with the injectables.
+
+Operator
+
+The next question comes from Rohan Mathur with Oppenheimer.
+
+Rohan Mathur
+Oppenheimer & Co. Inc., Research Division
+
+This is Rohan on for Leland. Thanks for the update, just one question for me. As you think about the different outcomes from the PLATEAU study and the obvious benefits of the enobosarm, do you expect there to be any flexibility around regulatory discussions that would follow when it comes to showing a certain degree of weight loss from muscle function?
+
+Mitchell Steiner
+Chairman, President & CEO
+
+Yes. So the degree of weight loss, this stake in the ground looks like 5% or greater placebo-corrected gets you the incremental weight loss. And if you have the incremental weight loss and all the secondary stuff will come in based on clinical meaningfulness. And so that gets to the next question, that is for a part of our homework in the Phase IIb PLATEAU study, and you can see we put a lot of options on physical function. We did physical function test, which is stair climb test, function test. They don't like strength tests. We're doing clinical outcomes questionnaires that have been used in many of these STEP 1, SURMOUNT studies as well. So we have data there. And if we can show an older patient population, there's an improvement. And in terms of clinical meaningfulness.
+
+And then what's interesting new one is this mobility disability assessment. It turns out that there's an ICD code to diagnose clinicians use to diagnose frailty in older patients and for mobility, disability that contains 2 questions. Question one is, can you walk through city blocks? And question two is, can you climb stairs, something like that. And so to assess patients coming into our Phase IIb PLATEAU study, and show that we can make people with functional limitations coming into study better, that could be interesting. And so there's multiple ways to come back and present our case for the best way to measure physical function. One of those or all of those.
+
+Operator
+
+Ladies and gentlemen, this concludes our question-and-answer session. I would like to turn the call back over to Dr. Mitchell Steiner for any closing remarks.
+
+Mitchell Steiner
+Chairman, President & CEO
+
+Great. Thank you, operator. I appreciate everyone who joined us on today's call. I look forward to updating all of you on our progress in the next investors call. Thank you for being with us.
+
+Operator
+
+The digital replay of the conference call will be available beginning approximately 12:00 p.m. Eastern Time today, December 17, by dialing 1 (855) 669-9658 in the U.S. and 1 (412) 317-0088 internationally. You will be prompted to enter the replay access code, which will be 2225332. Please record your name and company when joining.
+
+The conference call has now concluded. Thank you for attending today's discussion. Goodbye.
