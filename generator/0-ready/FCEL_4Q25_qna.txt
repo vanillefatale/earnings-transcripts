@@ -1,0 +1,227 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from the line of Dushyant Ailani with Jefferies.
+
+Dushyant Ailani
+Jefferies LLC, Research Division
+
+One on -- just wanted to kind of think about how do you guys frame 2026 growth outlook? Do you think there's a potential to bake in any data center opportunity in 2026? Or do you think it's more of a 2027 and beyond story?
+
+Jason Few
+President, CEO & Director
+
+Thank you for joining us today, and thank you for the question. As we look at 2026 and the overall data center opportunity, today, as we said, we've got hundreds of megawatts of pricing proposals out across the whole digital infrastructure ecosystem, and that ranges from hyperscalers, utilities, power land developers, infrastructure players and sponsors, so kind of across the whole gamut of opportunities. And each of these opportunities are on their own time line from a development and getting to an FID or a closure, but we certainly believe that those opportunities will present in 2026 for the company and be part of our growth story.
+
+Dushyant Ailani
+Jefferies LLC, Research Division
+
+Lovely. And then I just wanted to kind of talk about the capacity expansions. I think you said that you could increase the capacity to 350 megawatts, right? How long would it take to scale once you make that decision? Just trying to think that through.
+
+Jason Few
+President, CEO & Director
+
+Yes. So if you think about where we are today, we've always talked about our ability under our existing construct and what's there to do 100 megawatts of capacity. We're at 41 megawatts today run rate. So our ability to get to 100 megawatts is really no real new capital investment to make that happen. What we talked about on the call today is getting to 350 megawatts. That's still in that same footprint of our existing Torrington facility. So although there will be some capital investment, we think it's fairly modest to get to the 350 megawatts, and we think that we can do that in a pretty short cycle window. And our expectation is that scale can happen in the time frame of less than 18 months or so to get that build-out and get it done.
+
+Operator
+
+The next question comes from George Gianarikas with Canaccord Genuity.
+
+George Gianarikas
+Canaccord Genuity Corp., Research Division
+
+So maybe just to pull that through a little bit with regard to data center traction. Can you just sort of maybe go into a little bit more detail as to how the conversations with your DPP partners are going? Like any bottlenecks to maybe signing a deal and where you see maybe the most opportunity over the next 6 to 12 months?
+
+Jason Few
+President, CEO & Director
+
+Yes, George, thank you for the question. So I think maybe the way that I would answer that is I break it up into maybe 2 buckets. If you look at the work that we're doing with Diversified Energy, that's really our play or angle to provide a powered land solution to customers because they bring gas, we bring power. And so it's all about offering whether it's a real estate developer or if it's another data center developer or even a hyperscaler that's looking to take advantage of that opportunity across the markets where Diversified has gas infrastructure, we're well positioned to deliver against that opportunity set.
+
+We don't see any constraints in our ability to deliver against that because we have really good knowledge around what the gas position is, and we certainly know what our position to deliver power is from a manufacturing capacity standpoint.
+
+With respect to kind of the broader data center opportunities and the conversations we're having, it cuts across some direct conversations with hyperscalers, also with utilities. We also are having, like I said, those conversations with infrastructure players and sponsors as an example. And what we're finding in those conversations is really a strong interest in our distributed generation platform. Time to power is definitely a major thematic and one in which we can meet. And thirdly, we're seeing really strong interest in what I would call the benefits of our level of modularity, meaning that our 1.25-megawatt power blocks gives us the ability to scale with those data center customers as they scale.
+
+And as you know, it's not linear growth necessarily in the way those data center scale. So having the modularity is really important. And the other big area that we're seeing is because of our operating temperature of our platform, we're seeing really strong interest to take advantage of our ability to integrate with steam absorption chilling to provide a really efficient way of cooling the data center. If you think about about 1/3 of the load in the data center goes overhead. So if we can -- in a 50-megawatt data center, I think we can roughly take about 5 megawatts or so of power load off that requirement, that's material. And that's very attractive to those customers, and those are the kind of conversations we're having.
+
+George Gianarikas
+Canaccord Genuity Corp., Research Division
+
+And maybe as a follow-up, any update on what's happening with ExxonMobil and the carbon capture opportunity there?
+
+Jason Few
+President, CEO & Director
+
+Yes. So on Exxon, we've completed the construction of the modules that are set to be shipped to Rotterdam in support of the demonstration in Rotterdam with Exxon at their Esso refinery and which will demonstrate capturing 90-plus percent CO2 while simultaneously producing power and hydrogen, which is unique. No other technology can do that. And it's our expectation in the latter half of 2026, that project will be up and running, and we'll be demonstrating that technology. And upon successful demonstration of the technology, which we have a lot of confidence in, we will certainly work with Exxon to think about how to go after and pursue commercial opportunities with carbon capture.
+
+Operator
+
+The next question comes from Saumya Jain with UBS.
+
+Saumya Jain
+UBS Investment Bank, Research Division
+
+So what are the big changes, if any, that you've seen across the South Korean market over the past year? And what's your outlook for that market specifically heading into 2026? And then on the data center side, specifically, how are you seeing the South Korea market or Asian market in general vary from the U.S.?
+
+Jason Few
+President, CEO & Director
+
+Yes. Thank you for the question. In Korea, we obviously are seeing really strong momentum across our opportunity to drive repowering on our existing installed base there, over 100 megawatts of installed base. So we're fully taking advantage of that, and we're seeing strong demand for that. We think the Korea market, which continues to be the largest fuel cell market in the world, will remain attractive. As you know, we announced an MOU earlier with Inuverse to work with them on what they anticipate or trying to do will be the largest data center in the Korea market. And we're -- our efforts with them, we think, will help seed their growth in the market from a data center perspective.
+
+I think if you think more broadly about Asia and outside of the U.S., I think you're seeing very strong interest and demand in data center growth. And we think that the Asia market in its spots between markets like Korea and Singapore and Japan and Malaysia, you're going to see really strong data center growth, and we're excited about the opportunities we're having in those -- or conversations we're having in those markets.
+
+Saumya Jain
+UBS Investment Bank, Research Division
+
+Great. And then could you provide more color on any carbon capture opportunities you are pursuing with other players like the one with Exxon or any other similar partnerships?
+
+Jason Few
+President, CEO & Director
+
+Sure. So maybe you think about it in 2 ways. There's the work that we're doing with ExxonMobil, which is specifically focused on capturing carbon from external sources. So think about that refinery in Rotterdam, where we're going to capture carbon that is being emitted today from that refinery, right? And in that effort, what we're doing in terms of capturing that external carbon, our commercial activities in that particular application will really start to take full post our demonstration of this technology with Exxon.
+
+Outside of that, though, we have -- you can think about it the way we talk about it internally is carbon recovery, and that's our ability to recover the carbon from the fuels that we use to produce clean electricity. And there, we're having those conversations actually with many of these data center customers who are still very committed to decarbonizing. And so our ability to provide a very low emission profile with no SOx, NOx or other particulates operating at a very low decibel level, all the things that you're hearing that are causing a lot of problems for these data center customers today.
+
+We address with our technology. And then we have the extra added benefit of being able to recover the carbon and then we can do lots of different things with that carbon up to providing it and selling it to an industrial gas company to -- if we're a data center that's somewhere near a CO2 pipeline, that CO2 could ultimately be sequestered or used in some other way. And so we're actively engaged in those conversations with our industrial customers as well from a recovery standpoint.
+
+Operator
+
+The next question comes from Ryan Pfingst with B. Riley.
+
+Ryan Pfingst
+B. Riley Securities, Inc., Research Division
+
+Maybe a follow-up on the data center discussions in the U.S. Is it fair to say that customer readiness is the main hurdle for FuelCell to secure a data center customer at this point? Or are there other factors we should be thinking about?
+
+Jason Few
+President, CEO & Director
+
+I don't really think it's a customer readiness issue, Ryan. What I would say is that it's a shift in the way these data center customers have procured power throughout their history. And they've been able previously to procure power from the grid, and that model has worked for them. it's the shift in the model that requires them to think about on-site generation. And as they shift their business model, they're being thoughtful about the way to do that. There's still thoughts around going completely behind the meter or running grid parallel. We're comfortable in operating in both of those environments and have done that and can demonstrate our capabilities in that regard.
+
+But I don't think it's a customer readiness issue. It's -- I think customers have now bought off on the fact that if they're going to build new data centers and they want to build those new data centers now, they're going to need on-site generation to meet that demand.
+
+Ryan Pfingst
+B. Riley Securities, Inc., Research Division
+
+Appreciate that. And then shifting over to South Korea. Can you talk about your expectations around timing for the Inuverse MOU to the extent you're able to when we might see that convert to a firm order or even first revenue there?
+
+Jason Few
+President, CEO & Director
+
+Yes. I won't give specific on timing, but we think as we go throughout 2026, we'll have more to say about that opportunity as it's developing.
+
+Operator
+
+The next question comes from Jeff Osborne with TD Cowen.
+
+Jeffrey Osborne
+TD Cowen, Research Division
+
+Just maybe 2 lines of question on my side. One is on the data center side. Is there anything, Jason, that you need to still develop as it relates to the use case or the application? I'm thinking like loads following or other features relative to hospitals, college campuses, things like that.
+
+Jason Few
+President, CEO & Director
+
+Yes. As we think about our solution set to address the data center opportunity, we don't really have anything that we need to develop because our ability to integrate in a microgrid configuration to support load following, whether that be through batteries or super caps, we're very comfortable with being able to do that. As you know, we operate in a number of microgrid configurations today. So that's not a concern for us. And we don't have plans on developing best systems or those kind of things as a company, and there's plenty of choices in the market, and we're going to leverage those market choices to integrate those solutions for customers.
+
+Jeffrey Osborne
+TD Cowen, Research Division
+
+Got it. So if I'm hearing you right, then pricing for data centers should be similar-ish to what you've seen in years past for other smaller applications, given there's no additional equipment?
+
+Jason Few
+President, CEO & Director
+
+Yes. I think -- look, I think when we think about what we're offering to these customers, although we aren't going to be the developer, if you will, of the best system, there are instances where we're bringing that full integrated solution to a customer. So the pricing in some of those instances is going to be all inclusive of that. So I think you'll see different pricing based on what the customer is asking us to do. In a straight just deliver power to me scenario, yes, I think you'll see similar pricing of what -- where we've been priced in the past, but we've done a lot of things to improve our cost position. And so we think that we're very price competitive relative to other on-site generation alternatives and that goes across the landscape, including engines.
+
+Michael Bishop
+Executive VP, CFO & Treasurer
+
+And maybe just to add on, and I know you know this, Jeff, but with the extension of the investment tax credit this year, that provides pricing strength for us as well. The investment tax credit was extended in The Big Beautiful Bill in July. That goes through at least 2032, and that's a 30% investment tax credit off of the capital cost.
+
+Jeffrey Osborne
+TD Cowen, Research Division
+
+Perfect. Maybe just a quick one for you, Mike, 2-parter, but to expand from 100 megawatts in Torrington to the 350, I think you mentioned, do you have a ballpark of what that would cost? And then I think the ATM is fully utilized. Share count is up, I don't know, 80% or so year-on-year. Is now a period of sort of relaxation on adding capital to the balance sheet and then waiting for the orders to come and then maybe you need to revisit the ATM. Can you just walk us through the cash consumption in fiscal '26 and what it would cost to add capacity and what happens if you get some of these major orders that you're targeting?
+
+Michael Bishop
+Executive VP, CFO & Treasurer
+
+Sure. So maybe I'll go in reverse order, and thank you for the question, Jeff. So as far as the balance sheet today, the company is quite comfortable with the cash position that we ended the fiscal year with. We ended with about $342 million of total cash on balance sheet. And then subsequent to the end of the year, we also announced a $25 million facility with EXIM, a follow-on to the facility that we had done with them last year, which is really supporting deployment internationally. And we obviously like those types of structures, and we'll look to do more of that as we do more deployments internationally, but quite comfortable with our current liquidity position as we sit here today.
+
+As far as the expansion, as Jason said and as we included in the deck, we do have plans to expand Torrington up to 350 megawatts. That will obviously be paced by customer demand, but we have completed the planning for that. We are starting steps to enable us to do that expansion and are making capital investments this year. We include in our disclosures in 2026 that we plan to spend between $20 million to $30 million of CapEx, which gets us started on that expansion path. And as we secure additional backlog and go down that path of expansion, we will provide additional color around any additional investments.
+
+Jeffrey Osborne
+TD Cowen, Research Division
+
+I got it. So no need for an ATM for now? Or do you just had a good housekeeping add that, just to be clear on that part.
+
+Michael Bishop
+Executive VP, CFO & Treasurer
+
+So as far as the ATM, the company has historically kept an at-the-market sales program on file. I don't anticipate that changing, and we're not going to forecast potential financings beyond what I've already described.
+
+Operator
+
+Your next question comes from Noel Parks with Tuohy Brothers.
+
+Noel Parks
+Tuohy Brothers Investment Research, Inc.
+
+Talking about the data center market, sort of what we see happening in the broader markets overall is just a little bit more realization of there is some devil in the detail that it seems the market needs to understand just to really understand the pace of the data center rollout and at scale. And so I guess one thing I was wondering, I think during the -- earlier in the call, you mentioned sort of the emergence of NIMBY issues, which is, I think, sort of a fairly new topic in the last quarter or two. And I just wonder if -- or how those issues are coming up in your potential customer discussions. And I'm also interested in particularly with utilities, how some of them are looking ahead to trying to insulate their maybe residential customer base from the cost that they'll probably incur from ramping up power supply to data centers.
+
+Jason Few
+President, CEO & Director
+
+Noel, thank you for the question. If you think about the -- maybe I'll start with maybe the NIMBY issue. So what are the things that cause challenges, right? Things that cause challenges are generation platforms that create poor air quality. We do just the opposite, right, because we don't combust the fuel. So that's a significant advantage.
+
+What's the other thing that caused us the challenge? Noise. We operate at a very low decibel level. Think about maybe your air conditioner running at your home, right? So we solve that issue. We're very efficient from a space perspective at 33 megawatts an acre. So we can be very efficient in terms of the power density that we deliver to these data center customers. In addition to that, we do things that help offset even the power demand, like we talked about our ability to deliver absorption chilling, so we can help reduce the amount of power that's needed for that data center.
+
+Beyond that, we talked a little earlier on this call about our ability to do carbon recovery to even further reduce the emission profile of the platform. And that remains very important for many of these data center customers or certainly the offtakers of these data centers. So we think that our platform does a really good job of addressing the NIMBY issue. And in fact, we have examples of our platform being deployed right next to where people live, and it's not an issue. And we think that we can clearly deliver a solution to a data center developer or offtaker that will minimize, if not eliminate those issues that they see from the NIMBY standpoint.
+
+Noel Parks
+Tuohy Brothers Investment Research, Inc.
+
+Right, right. But it does lead me to wonder whether there are any advantages regionally in your thinking about pursuing customers. I'm not sure sort of the Connecticut area what the data center demand pickup is looking like there. But just sort of recognizing that you've done so many projects for sort of communities within your fairly close radius. And so is that a possibly positive factor in getting new business?
+
+Jason Few
+President, CEO & Director
+
+Look, I think being able to demonstrate to these data center customers where we have deployments close into communities and we don't have community complaints is a real strength. So I don't know that, that's driving just a close-in regional focus for us as our primary focus area, but it's certainly a leverage point for us as we tell our story to those data center customers.
+
+Beyond that, I think when you -- when we think about regionality and advantages across the U.S., we have the ability to take advantage of the ITC, and we think that's a real positive. But in some markets where we are also considered as a platform technology, the equivalent of a Class 1 renewable, we think that just adds to the economic benefit that we can deliver to these customers by deploying our platform. So we think the way in which we've deployed our distributed technology and it's been deployed in urban areas and close-in communities just serves as a great example of a way to do this and not have the consumer backlash.
+
+Noel Parks
+Tuohy Brothers Investment Research, Inc.
+
+Great. Great. And just the last one for me, again, sort of about the discussions with potential customers. I'm curious with so many cross currents going on, so many different issues to evaluate, as you talk to utility or hyperscalers say from one conversation to the next, say you're talking with somebody at one point and then a couple of months later, you kind of reconvene and go from there. Are you talking with customers about a pretty stable static set of projects that they have in their sites? Or is it more sort of dynamic and volatile like the conversation is going one direction and then a couple of months later, utility talks about, no, we're thinking about a different region or a different customer type. So I'm just sort of curious whether you're sort of following the same trail with these, and it's just a matter of getting to the endpoint or whether sort of the table kind of keeps getting reset as you progress with these guys?
+
+Jason Few
+President, CEO & Director
+
+No, look, I think if you think about at least our experience and you think about a development cycle, as you go through the process, there are always puts and takes that happen throughout that development process. What we are seeing is kind of this episodic or very sporadic kind of activity from the customers that we're engaged with. And we think that as you think about utilities since you talked about utilities directly, I mean, I think the utilities are pretty thoughtful in their planning process and what they want to do. And I think they have tremendous insight to where customers want to be and where they want to develop projects. So I think they've got a pretty good handle on that. And we're working with them to help solve the big constraints they have, which is additional power capacity. They've got constraints around transmission.
+
+I mean if you look at what just happened in PJM, PJM, they just closed their auction. I think it was yesterday, they're sitting at a 14.8% reserve margin, which is like their lowest reserve margin in a decade, right? So the way you're going to solve this problem is with technologies like ours and deploying distributed generation.
+
+Noel Parks
+Tuohy Brothers Investment Research, Inc.
+
+Great. Thanks a lot. It's a interesting example. Thanks.
+
+Jason Few
+President, CEO & Director
+
+Thank you.
+
+Operator
+
+There are no further questions at this time. I will turn the call to Jason Few for closing remarks.
+
+Jason Few
+President, CEO & Director
+
+Thank you, Sarah. And for everyone on the call, thank you for joining us today. We look forward to updating you on our progress as we move into calendar year 2026. I wish you all a safe, joyful holiday season and a very happy New Year. Thank you.
+
+Operator
+
+This concludes today's conference call. Thank you for joining. You may now disconnect.

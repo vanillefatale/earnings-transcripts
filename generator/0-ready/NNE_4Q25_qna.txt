@@ -1,0 +1,135 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question is from Jeff Grampp with Northland Capital Markets.
+
+Jeffrey Grampp
+Northland Capital Markets, Research Division
+
+I'll start first at the U of I site. Good to hear, you guys are still on track for the permit application in Q1 of next year. Can you walk us through kind of the time line when that gets filed? How long do you guys think that will take to get through the NRC? And is there any work you guys can do to accelerate that time line while that's getting through the NRC process? Or is a lot of that predicated on getting that permit application through the NRC before you can do too much site preparation infrastructure work ahead of time.
+
+James Walker
+CEO & Director
+
+This is James. So what I would say is that actually, the drilling completed on schedule and on time. So that was good. That gave us the geotechnical data we needed to go into the construction permit. That was really the missing component. We're in a bit of an odd situation with the reactor companies that our engineering is way ahead of the licensing. And usually, it's the other way around, that people get prepped for submissions and then they allow for the engineering to catch up. But effectively, this puts us in a position where we are on track to submit that construction permit application to the NRC in Q1 next year. And that is on track, and that is looking like it's going to go ahead.
+
+With regard to time on the turnaround from the NRC, one good thing to reference is, say [ Kairos ] did something very similar to us. They applied for a construction permit for their, not a full-scale reactor, but sort of a model scaled-down system. But they took about 15 months turnaround. But the reason why we're very likely to be a lot less than that is that they were using things like novel coolants, more novel tech, whereas what we're doing here is much more well known about large data sets, very well -- very high TR level components. So there's a lot less scrutiny that needs to go into the NRC evaluation of our applications. So 15 months can be considered like far beyond what we can expect.
+
+We really expect a turnaround substantially below that. It would be very nice if it was in the same calendar year. Certainly, within 12 months is kind of the ballpark we're expecting. In terms of what we're able to do on our side to expedite things, the most important part is the initial application to make sure that goes in. Now it doesn't have to be perfect. What you can do is, you can just -- you can get the application and then get them started on the process, understanding that there are certain components if you would supply them during their evaluation process. And that allows you to get the process underway and save on time. So I would say that's a big one. The big one is to get the application into them sooner, get as much detailing as you can and then work obviously very closely with them throughout the whole process to get it expedited and completed.
+
+Jeffrey Grampp
+Northland Capital Markets, Research Division
+
+Great. That's super helpful, James. I appreciate that. For my follow-up, can we touch on the vertical integration strategy there? What are the main objectives in '26 in this regard. And I'm curious in terms of internally developing capabilities versus acquiring them, do you guys have a bias? Or does that kind of depend upon what aspect of the vertical integration we're talking about?
+
+James Walker
+CEO & Director
+
+Yes. So for instance, if we're talking about internal capabilities with regard to reactor first, just before we get into vertical integration around things like fuel, on the reactor itself, we very -- we do acknowledge that there are certain components that are very unlikely for us to be able to internally produce. And I mentioned that in reference to things like nuclear-grade graphite or a N-stamped fabrication facility to produce reactor vessels.
+
+These kind of things are so specialist that if you were to try and internally do them, you probably would spend in the order of 10 years getting yourself to a level where you are qualified to produce those materials. And still even then, you wouldn't have the operational experience that some of the partners that we're talking to at the moment have with regard to manufacture of those parts. So just all that to say that there are definite components within the reactor that we are very confident that we can do internally.
+
+And what we're examining is that while we're building out the UIUC project and the Canadian project is essentially a centralized reactor core manufacturing facility to centralize the fabrication of individual components so we can get that economies of scale for the reactor by doing as much as we can internally. But we know what we know and we know what is more specialist. And even in the U.S. and a reactor vessel with an N-stamp. I don't think there's actually anybody currently outside of people who do cause for military that are able to do that kind of thing. Those things need to be more specialist.
+
+What I would say on the fuel side of things is that this has been a concern of ours since as early back as 2022 when we started trying to derisk the fuel supply chain. And that's what led to our related transaction with LIS Technologies and their creation, essentially they give us a means to ensure that we could be relatively confident that we would have an enrichment capability in friendly hands that we would be able to utilize for our fuel.
+
+Now saying that, we took a very holistic approach of the entire industry, and we realized that there were a number of different people going into enrichment. So there was ourselves with LIS Technology. There was General Matter, Orano, Centrus, but none of them were actually focusing on the feed material that actually goes into all the enrichment facilities, which was uranium hexafluoride, and that's produced via conversion.
+
+Now a conversion facility is kind of -- it's kind of odd. It's not spoken about very much. But already in the U.S. at the current time, the U.S. produces about 1/3 as much as it needs for its civilian reactors. And by 2050, that -- maximum capacity of that facility is expected to produce about 1/10 of what the country needs for new feed for enrichment facility. And we saw that as being maybe even a bigger bottleneck in the enrichment component. So we spent the last couple of years really examining how we can involve ourselves in the conversion side of things.
+
+And there's nothing publicly released at the moment. So I'm somewhat limited on what I can talk about the internal work. But what I would say is that I would expect next year that you can anticipate some developments on that side where we can announce the work that we've been doing on that conversion side to derisk that and ultimately being able to be involved in that uranium hexafluoride supply chain. And obviously, what's beneficial about that is that it is a business before even the reactors are online. And it's a very unique thing that nobody else seems to be doing that gives us a lot more control and derisking of our reactor systems.
+
+Operator
+
+Our next question is from Sameer Joshi with H.C. Wainwright.
+
+Sameer Joshi
+H.C. Wainwright & Co, LLC, Research Division
+
+Thanks for providing good color in the presentation. Just a few questions from me. You did mention progress on the Canada front with the Nuclear Safety Commission there. Can you give us a little bit more color into what the steps are for that country and what you're planning for there in 2026?
+
+James Walker
+CEO & Director
+
+Absolutely. So Canada is actually an extremely interesting prospect, just given the fact that when we took over the asset that we're going to develop. The Canada projects have been previously backed by the Canadian government because it was being looked at as a means to supply areas all over the country that subsist off for more diesel. And obviously, we've been very keen to put this back in place, and it's been very tied in with the Canadian government. Now that all relates to just answering the question very quickly because the siting is probably the most important thing we're concentrating on now that we do have the -- we do know where the reactor will be placed.
+
+And now we're going through the legal process and the due diligence process to be formally awarded that site at the federal level. Once we do have that, and we do expect that announcement in the first half of next year, then the next stages become quite quick. So for instance, you mentioned CNSC with the licensing. That licensing work that has previously been completed for this project and on our reactor was completed at this site too. So we automatically inherit all of that progress that was done at that site. That means we go straight into the Phase 2 of the licensing process, so the LTPS 2 process, and we bypass the Phase 1 because it's already been done.
+
+So that sort of leapfrogs us into the lead in Canada in terms of the progress needed to commercialize and deploy and license a microreactor system. And what I would say after that stage of things is once we've got the sites announced and finalized and we've got the progress reinstated with the CNSC, you're going to see some level of government support coming for this reactor system, which we are currently negotiating with the Canadian government, but it's likely to take the form of certain incentives or investment or support in some sort of breakdown fashion because obviously, they are very keen to have this as a future power source for particularly areas where they subsist off for more diesel and they don't have an alternative. So -- but those are the milestones in the order you'll see them coming out next year.
+
+Sameer Joshi
+H.C. Wainwright & Co, LLC, Research Division
+
+And sort of staying on the government opportunity, but in the U.S., I guess, what is the scope of this AFWERX Direct to Phase 2 project. What does it entail on your -- on NANO's part? And what is the potential opportunity here in coming years?
+
+James Walker
+CEO & Director
+
+So it's a good question actually because it wasn't a very well known about opportunity. But the reason why it's particularly important is that the U.S. military bases have a mandate to be able to be self-sufficient in terms of generating their own power for at least a 2-week period. And currently, very few of them are able to meet that requirement. In fact, if -- and if they are, they usually have to stockpile diesel, which in itself is a dangerous thing to do, especially for targeted attacks. So the AFWERX program is for the -- deliberately for the purposes of trying to find energy systems, particularly nuclear that can come in and provide that mandated self-sufficiency.
+
+But the long-term prospects are that once this is done and we move into the later stages of the development of the program, that opens the door to all military bases because the AFWERX program is concentrated on the Air Force originally. But effectively, once you're in the system and you're working through the later AFWERX programs, effectively, you're given the same opportunity to mass produce reactor systems for many, many bases, if you would, the defense innovation unit opportunity that came out a few years ago, that was looking at reactor systems for bases.
+
+So I would say the Phase 1, which we're currently in the moment, that could take anywhere from around sort of a 12-month period kind of estimate, potentially a bit longer, but it's only a small buildup program. The next phase after this will be much more substantial and that will look at actual deployment, actual costs and who's going to be operating and how the logistics will actually look like.
+
+Once that's done, that's when you really -- we really will have available to us many opportunities to make many reactors for many different bases. So the AFWERX thing is it was a really great win. And we won it particularly as well just because the solution we do have was so ideally suited for what they needed. Subterranean to be co-located, didn't need large emergency planning zone. And for that reason, we did beat out the competition and the Air Force and the military -- the wider military just believe that this is the better solution for them in terms of long-term self-sufficiency for power.
+
+Operator
+
+Our next question is from Subhasish Chandra with Benchmark.
+
+Subhasish Chandra
+The Benchmark Company, LLC, Research Division
+
+A couple of questions from, I guess, the 10-K. One of them is, I think you mentioned in there that states can get delegated authority over some nuclear activities by the NRC and it's something that you might be able to take advantage of. Could you elaborate on that, like sort of what activities and if you're looking at any specific states or if that -- what you're suggesting there is Illinois?
+
+James Walker
+CEO & Director
+
+Sure. So there are a number of different things here. So what I would say, initially, when we were working with people at the state level, is say for instance, when it comes to something like a conversion facility, that sort of facility is actually more largely a chemical plant rather than a nuclear facility. And so when it comes to chemical plants, states actually license those all the time outside of a federal regulator actually being involved. But because of a historic precedent, those facilities fell under the NRC.
+
+And so what we have been working with at the state and actually with the NRC directly is looking at opportunities for the state to take back that control to license those facilities and take that off the plate of the NRC. And the fortunate part is at the state level and at the NRC level, there's support on both sides for that. For that kind of facility, it's very unnecessary for the NRC to be involved. It certainly can do the job, but it's also coming at a time when the NRC will be very stretched.
+
+And especially if states have the internal capabilities to license a facility like that, then it's advantageous to do it at the state level. So that's one thing. What I would say is that there are a number of companies at the moment that are -- I wouldn't say blaming the NRC, but there's even a couple of lawsuits against the NRC at the moment to state rights to license reactor systems.
+
+Now I would caution with doing that is that without a framework and a historic experience of doing that kind of thing, it's going to be very trying for people to do a licensing of reactor at the state level. And certainly, if you examine even a DOE license, which wouldn't be commercial, even the DOE for a large part, is going to have to defer towards the NRC for how it does regulate these systems on DOE land or if there is its own DOE license. But what you can do for certain things, certain individual components is that you can get certain things qualified at the state level rather than the federal NRC level for certain components to get them qualified. That would be the biggest advantage you could have to, one, take work off the NRC's plate; and two, potentially expedite the licensing time lines that are going to be a critical path towards the commercial deployment of the reactor system.
+
+But in large part, we have a very good relationship with the NRC. The bulk of all of our licensing will go through them. They're already very familiar and confident with our reactor design. We don't anticipate actually any significant issues with getting our reactor license. And just for us, it's more of a process we have to go through. But on the -- just regressing back to the facility, there's definitely opportunities to do things at the state level, which would definitely expedite certain facilities a lot faster than if we were doing at the NRC level.
+
+Subhasish Chandra
+The Benchmark Company, LLC, Research Division
+
+Okay. Got it. And could you remind us the test reactor at UIUC, what components or what's going to be the difference between that and the commercial reactor, if any, including balance of plant?
+
+James Walker
+CEO & Director
+
+It's a very good question because actually, the answer is not much, whereas other companies have gone for demonstration reactors or test reactors. We want to do a full-scale reactor system. So same dimensions, same everything. And the reason why we want to do that is that there are companies out there with license designs. And what they found and what we've noticed is that no customer wants to be the first customer to buy a reactor and build it and hope that all the kinks have been worked out in the design process and then operate the system. And that effectively led to [ killing ] any potential orders that came in from it, especially when that vendor wasn't interested in being the owner operator of the system.
+
+So the UIUC reactor will be a full-scale reactor. It will be called a research reactor, but effectively, it will be full scale. I would say that the only potential difference between the UIUC reactor and the commercial reactors is that we will certainly be able to optimize a lot of the engineering as we build them out so that the power output of the commercial reactors will very likely be higher than the research reactor at UIUC. But same scale, same balance of plant, same components as much as we can get in terms of closeness to the final commercial design, it will match very closely.
+
+Subhasish Chandra
+The Benchmark Company, LLC, Research Division
+
+Got it. And I guess what I was getting at, do you think you'll be able to determine an LCOE value with this reactor?
+
+James Walker
+CEO & Director
+
+I think most certainly, what I would preface that with though is just saying that the LCOE for the first-of-a-kind reactor will be wildly different from the commercial reactors, especially once you start deploying those commercial reactors at scale and multiple units because each one will significantly drive down the cost of that LCOE. Now I would say with the -- already internally, we've taken great lengths to try and actually get towards those numbers, which is why in the brief we gave at the start, we said we're very confident it will be cost competitive with solar and wind and traditional nuclear. We get into the ballpark of those outputs very, very quickly.
+
+Now we didn't say things like gas or coal, but if you -- and if you do look at the fact that even something like that is anticipated to doubling costs within the next 5, 6, 7 years, then it actually starts getting quite commensurate with even the gas. But with the added benefit of obviously, we can co-locate and it can be put anywhere and you don't need to be connected to the grid and you've got those advantages, too. So I know you've probably noticed I'm avoiding figures exactly. But at this point, it's better to just compare what we know we are commensurate with. And then as we get to the finalization of that first-of-a-kind, that will give us an even stronger indication of how correct we were in our assessments.
+
+Operator
+
+There are no further questions at this time. I would like to turn the floor back over to Jay Yu for any closing remarks.
+
+Jiang Yu
+Founder, Executive Chairman, President, Secretary & Treasurer
+
+I want to thank everyone again for joining us on today's call. The interest and enthusiasm of our investors and market participants are important to us, and we're very grateful for the support we've received. We look forward to providing additional updates to you in the future. Have a great evening.
+
+Jaisun Garcha
+Chief Financial Officer
+
+This concludes today's conference. You may disconnect your lines at this time. We thank you again for your participation.

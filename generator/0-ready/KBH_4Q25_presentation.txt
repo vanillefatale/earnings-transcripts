@@ -1,0 +1,136 @@
+KB Home (KBH) Q4 2025 Earnings Call December 18, 2025 5:00 PM EST
+
+Company Participants
+
+Jill Peters - Senior Vice President of Investor Relations
+Jeffrey Mezger - Chairman & CEO
+Rob McGibney - President & COO
+Robert Dillard - CFO & EVP
+
+Conference Call Participants
+
+John Lovallo - UBS Investment Bank, Research Division
+Stephen Kim - Evercore ISI Institutional Equities, Research Division
+Alan Ratner - Zelman & Associates LLC
+Rafe Jadrosich - BofA Securities, Research Division
+Michael Dahl - RBC Capital Markets, Research Division
+Trevor Allinson - Wolfe Research, LLC
+Jade Rahmani - Keefe, Bruyette, & Woods, Inc., Research Division
+Richard Reid - Wells Fargo Securities, LLC, Research Division
+Andrew Azzi - JPMorgan Chase & Co, Research Division
+
+Presentation
+
+Operator
+
+Good afternoon. My name is John, and I will be your conference operator today. I would like to welcome everyone to the KB Home 2025 Fourth Quarter Earnings Conference Call. [Operator Instructions] This conference call is being recorded, and a replay will be accessible on the KB Home website until January 18, 2026.
+
+I will now turn the call over to Jill Peters, Senior Vice President, Investor Relations. Thank you, Jill. You may now begin.
+
+Jill Peters
+Senior Vice President of Investor Relations
+
+Thank you, John. Good afternoon, everyone, and thank you for joining us today to review our results for the fourth quarter and full year of fiscal 2025. On the call are Jeff Mezger, Chairman and Chief Executive Officer; Rob McGibney, President and Chief Operating Officer; Rob Dillard, Executive Vice President and Chief Financial Officer; Bill Hollinger, Senior Vice President and Chief Accounting Officer; and Thad Johnson, Senior Vice President and Treasurer.
+
+During this call, items will be discussed that are considered forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements are not guarantees of future results, and the company does not undertake any obligation to update them. Due to various factors, including those detailed in today's press release and in our filings with the Securities and Exchange Commission, actual results could be materially different from those stated or implied in the forward-looking statements.
+
+In addition, an explanation and/or reconciliation of the non-GAAP measures of adjusted housing gross profit margin, adjusted net income and adjusted diluted earnings per share as well as any other non-GAAP measure referenced during today's discussion to it's most directly comparable GAAP measure can be found in today's press release and/or on the Investor Relations page of our website at kbhome.com.
+
+And finally, please note all figures are based on our fiscal November 30 year-end, and all comparisons are on a year-over-year basis unless otherwise stated.
+
+And with that, here is Jeff Mezger?
+
+Jeffrey Mezger
+Chairman & CEO
+
+Thank you, Jill, and good afternoon, everyone. We are pleased to share our results for our 2025 fourth quarter and fiscal year. It was a year that tested consumers' resilience as they face various economic and geopolitical issues yet through it all, they continue to demonstrate a desire to own a home. We helped nearly 13,000 individuals and families achieve the dream of homeownership while maintaining our industry-leading customer satisfaction ratings. The total revenues of over $6.2 billion and nearly $430 million in net income, we produced a 10% increase in our book value per share. We further strengthened our financial flexibility with the recent expansion of our new $1.2 billion revolving credit facility and the extension of our term loan. And through our balanced approach to capital allocation, we rewarded our shareholders with a healthy return of capital totaling more than $600 million in fiscal 2025, including dividends. We continue to lead our peer group in the cumulative amount of capital returned to our shareholders over the past 4.5 years, as a percentage of market capitalization.
+
+In 2025, we repurchased 13% of our outstanding shares at an average price below our current book value, which we believe is an excellent use of our cash and accretive to both our earnings and book value per share.
+
+As for the details of our fourth quarter results, we produced total revenues of just under $1.7 billion and adjusted diluted earnings per share of $1.92. We returned about $115 million in cash to our shareholders, including the repurchase of 1.6 million shares. We remain optimistic about the housing market as we believe favorable demographics will be a key driver supporting higher demand over time, together with the structural undersupply of homes. Near-term conditions continue to reflect underlying demand for homes, supported by population, household formation, job and wage growth. However, low consumer confidence, affordability concerns and elevated mortgage rates continue to constrain the pool of actionable buyers.
+
+Consumers are demonstrating their interest in buying a home reflected in our website visits, leads and traffic to our communities. They're just taking much longer to make their home buying decisions. We produced 2,414 net orders in the fourth quarter with a consistent approach to pricing, offering transparent and affordable prices rather than inflated prices masked by heavy incentives. This remains the foundation of our competitive position as it allows us to advertise our compelling pricing directly on our website and is also how we build trust with our customers. We were disciplined in not taking overly aggressive steps to capture sales during the seasonally slower fourth quarter. By doing so, we believe we are positioned to achieve better margins on these sales in our 2026 first quarter than we would otherwise have produced.
+
+Before I turn the call over to Rob McGibney, I will make a comment on the approach we are taking with respect to our guidance for fiscal 2026. As detailed in today's press release, we are providing our outlook for fiscal 2026 deliveries and housing revenues. We expect to have greater visibility on both operating and gross margins as we get into the spring selling season and plan to provide our projections for these metrics when we report our 2026 first quarter results in March.
+
+Let me pause here for a moment and ask Rob to provide more details on our sales as well as an operational update. Rob?
+
+Rob McGibney
+President & COO
+
+Thank you, Jeff. Consistent with our operational success throughout fiscal 2025, our divisions continued to execute well in the fourth quarter and maintaining high customer satisfaction levels, further improving build times, lowering direct cost and balancing pace and price to optimize each asset. Traffic in our communities was steady during the fourth quarter. And at 18%, our cancellation rate was stable, supporting net orders at an average absorption pace of 3 per month per community. This pace was in line with our average fourth quarter pace of the past 2 years.
+
+As we look ahead to the full year 2026, although we began the year with a lower backlog than we have carried in some time, the fundamentals of our operating model and the improvements we have made over the last few years provide a clear and, we believe, achievable path to meeting our delivery objectives. Our beginning backlog represents 27% of the midpoint of our full year delivery target compared to 34% at the start of 2025. While this is a smaller starting position, it must be viewed in the context of our significantly faster build times and our expectation of expanding our community count with new community openings. We have become more efficient in building homes with build times improving roughly 20% year-over-year in the fourth quarter.
+
+We achieved our company-wide target of 120 days or better from home start to completion on built-to-order homes during the quarter, with several divisions averaging fewer than 100 days in November. Our faster build times allow us to extend sales much deeper into the year and still achieve delivery of the home. At quarter end, we had 271 active communities, up 5% as compared to the prior year period. In our 2026 first quarter, we are planning to open between 35 and 40 new communities and expect to hit a high watermark for community count during our second quarter at the height of the spring selling season.
+
+With this broader base of communities, we are very well positioned to capture the typical seasonal lift in demand during this period. Our new communities typically generate strong early demand benefiting from the newness and excitement of grand openings and supported by our disciplined community opening process. Importantly, these new communities are expected to generate favorable gross margins, supported by a sales mix that is predominantly built to order.
+
+As we have discussed, we are focused on returning our built-to-order homes to a higher percentage of our total deliveries from 57% in Q4 of 2025 to our historical 70% or higher. While we always have some inventory homes available for those buyers that need a quicker move-in date, the superior margins we generate on BTO homes will allow us to realize greater value from our communities. Our gross margins on BTO homes are trending 3 to 5 percentage points higher than on inventory sales, and we began to see a shift toward more BTO sales during November, an encouraging trend that has continued into December.
+
+As we remain focused on selling our BTO homes and these sales become deliveries over the course of fiscal 2026, we expect to achieve a favorable trajectory in our gross margins. We are aligning our starts with our BTO sales and started 1,827 homes in our fourth quarter.
+
+Our divisions together with our national purchasing team are doing an outstanding job in driving costs lower. These efforts, combined with our value engineering and studio simplification initiatives contributed to direct costs that were about 4% lower sequentially and 6% lower year-over-year on our homes started during the fourth quarter helping to offset the impact of higher land costs.
+
+Before I wrap up, I will review the credit profile of our buyers who finance their mortgages through our joint venture, KBHS Home Loans. Our capture rate was high with 80% of our buyers who finance their homes in the fourth quarter using KBHS. Higher capture rates help us manage our backlog more effectively and provide more certainty in closing dates which benefits our company as well as our buyers. In addition, we see higher customer satisfaction levels from buyers who use our joint venture versus other lenders. The average cash down payment moved up slightly, both sequentially and year-over-year to 17%, equating to nearly $80,000. On average, the household income of customers who use KBHS was about $130,000, and they had a FICO score of 743.
+
+Even with over 1/2 of our customers purchasing their first home, we are still attracting buyers with strong credit profiles who can qualify for their mortgage while making a significant down payment or pay in cash. 10% of our deliveries in the fourth quarter were to all-cash buyers.
+
+In conclusion, we remain firmly committed to delivering high customer satisfaction and strong operational execution to drive our results. We believe our portfolio of communities, products and pricing are well aligned with the needs of today's buyers and with improved build times and expanded community footprint and stronger operational consistency, we are confident in our ability to achieve our fiscal 2026 delivery objectives.
+
+And with that, I will turn the call back over to Jeff.
+
+Jeffrey Mezger
+Chairman & CEO
+
+Thanks, Rob. With respect to our lot position, we owned or controlled roughly 65,000 lots at year-end, 43% of which were controlled. Our footprint is focused on markets that we believe are positioned for long-term economic and demographic growth. As our newest divisions in Seattle, Boise and Charlotte continue to mature, their contribution to our results is becoming more meaningful. In addition, we see an opportunity to expand our share in all of our served markets over time. We remain selective with our land positions across our business. And as part of our regular review of land purchases in our pipeline, we canceled contracts to purchase approximately 3,500 lots, representing about 20 communities in the fourth quarter, which no longer met our underwriting criteria. Our lot pipeline is healthy, providing us with the flexibility to be patient in adding to our controlled lot count until we find opportunities with better terms that will provide higher returns.
+
+One of the key benefits of our build-to-order approach that it provides visibility into the need and timing for replacement communities based on each community sales pace, local market dynamics and expected sell-out date, which is beneficial in our effort to be capital efficient. We are also developing lots in smaller phases wherever possible and balancing development with our start pace to manage our inventory of finished lots.
+
+Our business generates healthy cash flow and we remain consistent in our balanced approach toward allocating it. We are achieving our priorities of positioning our business for future growth, managing our leverage within our targeted range and rewarding our shareholders through share repurchases and our quarterly cash dividend. We are maintaining our land investments at a level that will support our current growth projections and invested $665 million in land acquisition and development in the fourth quarter with about 2/3 of our investment going toward developing the land we already own.
+
+With nearly $430 million in net income generated for the year, lower land acquisition and development spend and the improvement in our build times unlocking cash, we returned more than $600 million in capital to our shareholders in fiscal 2025. This includes approximately $540 million in share repurchases at an average price of $57.37 per share. At these levels, the repurchases are an excellent use of capital and will enhance both our future earnings per share and our return on equity.
+
+In closing, I want to thank the entire KB Home team for their commitment to serving our homebuyers. We believe we have the most talented and experienced operators in the business who are driven to produce results. Our divisions executed well this past year despite challenging market conditions and controlled the controllable in achieving a significant reduction in build times, lowering direct costs and opening a meaningful number of new communities.
+
+In fiscal '25, we returned the highest level of capital to our shareholders in a single year in our company's history. We plan to continue our share repurchase program in fiscal 2026 with between $50 million and $100 million of repurchases planned for our first quarter. As we begin the new year, we do so with a balance sheet that is stronger than it has ever been and with added financial flexibility. We believe we are well positioned for the spring selling season with our expected community count growth, and I have confidence that our renewed focus on build-to-order sales will generate higher margins as the year progresses.
+
+Our objectives for fiscal 2026 are centered on continuing to deliver outstanding service to our homebuyers and driving higher shareholder value, and we look forward to updating you as the year unfolds.
+
+Now I will turn the call over to Rob Dillard for the financial review.
+
+Robert Dillard
+CFO & EVP
+
+Thanks, Jeff. I'm pleased to report on the fourth quarter and full year 2025 results. As Jeff and Rob said, we continue to manage the business with discipline, with a focus on optimizing every asset by pricing to the market, maintaining a healthy pace and delivering our built-to-order advantage. This strategy has led to relatively consistent results in a constrained market in 2025.
+
+In the fourth quarter of 2025, we exceeded the midpoint of our guidance range with total revenues of $1.69 billion and housing revenues of $1.68 billion, a 15% decrease. We delivered 3,619 homes, which exceeded the midpoint of our implied guidance, largely due to reduced average build times in our 268 average communities for the quarter. Average selling price declined 7% to $466,000 due to regional and product mix and general market conditions.
+
+Housing gross profit margin was 17% and adjusted housing gross profit margin, which excluded $13.7 million of inventory-related charges was 17.8%. Adjusted housing gross profit margin was 310 basis points lower due to pricing pressure, negative operating leverage, higher relative land costs, regional mix and product mix which was pronounced due to the age and price of incremental volume versus guidance. This margin pressure was again partially offset by lower direct construction cost per unit. It's notable that average cost per unit declined in the quarter as direct construction costs and material costs declined more than lot costs increased.
+
+SG&A expense as a percent of housing revenues was 10%. The SG&A expense ratio was 9.1% when adjusted for the $16 million of accelerated equity-based compensation expense. This expense reflects a change in policy for divesting of certain long-term incentive awards. This affected only the timing of expense recognition and there was not an increase in the total compensation cost of these rewards. Homebuilding operating income for the fourth quarter decreased to $117 million or 6.9% of homebuilding revenues and homebuilding operating income, excluding the inventory-related charges, and the accelerated equity-based compensation expense was $147 million or 8.7% of homebuilding revenues. Net income was $102 million or $1.55 per diluted share benefiting from a 13% reduction in our weighted average diluted shares outstanding.
+
+Adjusted net income, which excludes the inventory-related charges, the accelerated equity-based compensation expense, and approximately $1 million for early extinguishment of debt was $126 million or $1.92 per diluted share. For the full year 2025, we delivered 12,902 homes and generated $6.24 billion of total revenues. Housing revenues were down 10% to $6.21 billion. Diluted earnings per share was $6.15 and book value per share increased 10% to $61.75.
+
+Turning now to our guidance. Our guidance for the first quarter and full year 2026 is based on our belief that we're well positioned for the present operating environment through our strategy of providing customers the best buying experience and the best value by delivering a personalized build-to-order home. In the first quarter of 2026, we expect to generate housing revenues between $1.05 billion and $1.15 billion, based on expected deliveries of between 2,300 and 2,500 homes. Housing gross profit margin, assuming no inventory-related charges, is expected to be between 15.4% and 16% for the first quarter of 2026.
+
+Margins are expected to be affected primarily by negative operating leverage and typical seasonality in the quarter. So we also expect a continued margin trend impacts of pricing pressure and higher lot costs as well as some regional mix. We expect to continue to partially offset this margin pressure with lower direct construction cost per unit.
+
+We expect margins to improve throughout 2026 due to positive operating leverage and typical seasonality as well as our strategy to shift the mix of homes sold and delivered to favor build-to-order homes. We believe that we are well positioned to execute this mix shift in 2026 as we start the year with 271 communities and we expect a considerable number of new community openings in the first half of 2026.
+
+The first quarter 2026 SG&A ratio is expected to be between 12.2% and 12.8%, due mainly to expected reduced operating leverage despite cost controls. This is our highest seasonal SG&A quarter and compares to 11% in the first quarter of 2025. We had solid results, reducing both fixed cost and direct costs throughout 2025, and we expect this to continue in 2026.
+
+Our effective tax rate for the first quarter is expected to be approximately 19%. It's notable that we expect the tax rate to be lower only in Q1 of 2026. We expect the tax rate to increase and end the year with an average of between 24% and 26% due to reduced energy credits given the end of 45L credits in 2026. For the full year 2026, we expect housing revenues of between $5.1 billion and $6.1 billion based on between 11,000 and 12,500 deliveries. This full year's guidance is based on current market conditions, and will be expanded to include our customary components as we gain an understanding of spring selling season market dynamics.
+
+Turning now to the balance sheet. We believe that we're well positioned with over $5.7 billion in inventory at the end of 2025. We owned or controlled over 64,000 lots, including 27,000 lots that we have the option to purchase. Our option lot position is 27% lower than a year ago due to our continued focus on only allocating capital to position that align with our strategy and return expectations. We continue to invest selectively to augment our land position, and we invested over $665 million in land development and fees during the fourth quarter and over $2.6 billion in 2025.
+
+During the fourth quarter, we entered into a new credit facility to increase liquidity and improve covenants, and we amended our $360 million term loan to extend its maturity to 2029. We now have no debt maturities until June of 2027. At quarter end, we had total liquidity of $1.43 billion due to $229 million in cash and no cash borrowings on our $1.2 billion revolving credit facility.
+
+We continue to target a total debt to capital ratio in the neighborhood of 30% to support our strong BB positive credit rating, and we are pleased with our current 30.3% ratio. This strong balance sheet enables us to provide shareholders with a healthy dividend, which currently has an approximately 1.6% yield as well as return capital to shareholders in the form of share repurchases. In the fourth quarter, we repurchased 1.6 million shares for a return of capital of $100 million. In 2025, we repurchased approximately 9.4 million shares or 13% of our outstanding shares at the beginning of the year.
+
+We have now repurchased nearly 36% of our outstanding common stock since implementing our share buyback program in late 2021. Over the past 4.5 years, we have returned over $1.9 billion to shareholders in the form of dividends and share repurchases. In the fourth quarter, our Board of Directors approved a new $1 billion share repurchase authorization to support our capital return strategy. We ended the year with $900 million available under this authorization, and we expect to repurchase between $50 million and $100 million of our common stock in the first quarter.
+
+As we look ahead, our strategy is to enhance our results through continued discipline and a focus on higher-margin built-to-order homes. We believe that this operating strategy when combined with our shareholder-focused capital strategy, will maximize shareholder value over the long term.
+
+With that, I'll now take your questions. John, would you please open the lines?
+

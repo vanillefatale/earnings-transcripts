@@ -1,0 +1,107 @@
+BlackBerry Limited (BB:CA) Q3 2026 Earnings Call December 18, 2025 5:30 PM EST
+
+Company Participants
+
+Martha Gonder - Director of Investor Relations
+John Giamatteo - CEO & Director
+Tim Foote - Chief Financial Officer
+
+Conference Call Participants
+
+William Kingsley Crane - Canaccord Genuity Corp., Research Division
+Luke Junk - Robert W. Baird & Co. Incorporated, Research Division
+Thomas Ingham - CIBC Capital Markets, Research Division
+Trip Chowdhry - Global Equities Research, LLC
+Paul Treiber - RBC Capital Markets, Research Division
+
+Presentation
+
+Operator
+
+Good afternoon, and welcome to the BlackBerry Third Quarter Fiscal Year 2026 Results Conference Call. My name is Nick, and I will be your conference moderator for today's call. [Operator Instructions] As a reminder, this conference is being recorded for replay purposes.
+
+I would now like to turn today's call over to Martha Gonder, Director of Investor Relations, BlackBerry. Please go ahead, ma'am.
+
+Martha Gonder
+Director of Investor Relations
+
+Thank you, Nick. Good afternoon, everyone, and welcome to the BlackBerry's Third Quarter Fiscal Year 2026 Earnings Conference Call. Joining me on today's call is Blackberry's Chief Executive Officer, John Giamatteo; and Chief Financial Officer, Tim Foote. After I read our cautionary note regarding forward-looking statements, John will provide a business update, and Tim will review the financial results. We will then open the call for a brief Q&A session.
+
+This call is available to the general public via call-in numbers and via webcast in the Investor Information section at blackberry.com. A replay will also be available on the blackberry.com website.
+
+Some of the statements we'll be making today constitute forward-looking statements that are made pursuant to the safe harbor provisions of applicable U.S. and Canadian securities laws. We'll indicate forward-looking statements by using words such as expect, will, should, model, intend, believe and similar expressions. Forward-looking statements are based on estimates and assumptions made by the company in light of its experience and its perception of historical trends, current conditions and expected future developments as well as other factors that the company believes are relevant.
+
+Many factors could cause the company's actual results or performance to differ materially from those expressed or implied by the forward-looking statements. These factors include the risk factors that are discussed in the company's annual filings and MD&A. You should not place undue reliance on the company's forward-looking statements. Any forward-looking statements are made only as of today, and the company has no intention and undertakes no obligation to update or revise any of them, except as required by law.
+
+As is customary during the call, John and Tim will reference non-GAAP numbers in their summary of our quarterly results. For a reconciliation between our GAAP and non-GAAP numbers, please see the earnings press release published earlier today which is available on the EDGAR, Cedar+ and blackberry.com websites.
+
+And with that, let me now turn the call over to John.
+
+John Giamatteo
+CEO & Director
+
+Thanks, Martha, and thanks to everyone for joining today's call. Q3 was another quarter of solid results, adding to our track record of consistently meeting or beating guidance. Once again, we delivered across the 3 core metrics of revenue, profitability and cash.
+
+Total company revenue came in at $141.8 million, above the high end of our guidance range. Q3 was another strong quarter of profitability with adjusted EBITDA beating guidance, and it was also our third consecutive quarter of achieving GAAP profitability. Adjusted EBITDA for the total company was $28.7 million, which represents a 20% margin. GAAP net income improved by $24.2 million year-over-year to $13.7 million in Q3 and non-GAAP EPS exceeded guidance at positive $0.05. Conversion of profitability into cash was also strong. Operating cash flow was $17.9 million up 3x year-over-year, reflecting strong execution and disciplined cost management.
+
+Moving on to the results from our divisions. QNX delivered an all-time record for quarterly revenue at $68.7 million. This represents 10% year-over-year growth beating expectations and finishing at the high end of the guidance range. Revenue was driven primarily by solid growth in royalties with development seat and professional services revenue also growing both sequentially and year-over-year.
+
+During the quarter, we were excited to announce John Walls appointment as President of QNX. In our opinion, nobody knows the embedded software space both the technology and the market, quite like John. He has a very strong reputation with customers and partners and within the company. QNX has tremendous opportunities for multiyear growth and driving our key initiatives to harness those opportunities will be John's #1 priority moving forward.
+
+We saw more design win momentum in Q3, exceeding our internal targets and the pipeline of potential design wins in Q4 continues to grow. This design win growth demonstrates the progress we're making with the initiatives to drive deeper into automotive and wider into the general embedded space. In the quarter, we secured a number of major automotive design wins with top European and Asian OEMs for ADAS and cockpit domains, all being developed on the latest version of the QNX platform, SDP 8. The number of customers using SDP 8 continues to grow each quarter with many leading OEMs now developing on it.
+
+
+We continue to see traction with other new products as well. We're securing new wins for both QNX Sound and QNX Cabin as OEMs recognize the strategic benefit of these products for reducing their bill of materials and time to market. This was the second quarter in a row that QNX Sound was chosen by a leading Chinese OEM with this quarter's win being deployed in their luxury EV range.
+
+We've also secured another multiyear contract for our cloud-based QNX Cabin product with a top 5 global automaker based in Europe. A potential needle mover for ASP per vehicle is the vehicle software platform that we're codeveloping with leading middleware provider, Vector. Development is progressing well, and the second early access version is scheduled for release by the end of January. Early discussions with a number of OEMs are progressing, and we're targeting significantly higher pricing per vehicle compared to the core RTOS. Once we've secured some wins, we'll provide more color on the potential upside from this product.
+
+And finally, for auto, earlier this week, we announced that leading technology market analysts Counterpoint Research has determined that QNX is now powering more than 275 million vehicles on the road. This is a $20 million increase year-over-year and clearly demonstrates how significant a player we are in the space. In the nonautomotive general embedded space, we continue to drive across our target verticals of industrial automation, medical instrumentation and robotics.
+
+Let me provide some additional color on a couple of in-quarter wins with industrial automation companies. The first was with one of our long-time customers, Bently Nevada, an industry-leading and online condition monitoring used for wind turbines and other applications who has adopted SDP 8. Additionally, 2 leading industrial automation OEMs. One North American and one European have also adopted SDP 8 to be used in a variety of their applications from robotics, to manufacturing production.
+
+We also had an exciting development in the aerospace and defense vertical with NASA, who are adding QNX SDP 8 to their supported operating systems. Earlier this year, we launched QNX General Embedded Development Platform, or GEDP, as we call it, which is a subscription-based solution tailor-made for OEMs in GEM verticals. GEDP aims to accelerate the time to market for developers of embedded systems. And feedback from our customers so far has been extremely positive as they can leverage this platform for all supported versions of QNX across their portfolio. In the quarter, we saw a number of new design wins from customers for GEDP. So in summary, Q3 was another great quarter for QNX in fact, an all-time record quarter.
+
+Moving now to Secure Communications. In Q3, we delivered revenue of $67 million, beating the top end of guidance and consensus. This was a great achievement by the division as we were faced with U.S. government shutdown for a portion of the quarter. These strong results were in large part driven by better-than-expected renewals of UEM and navigation of U.S. government shutdown. As a percentage of revenue for the last 12 months, UEM remains just over half of the Secure Communications total with Secusmart at slightly more than AtHoc for the remainder. Key metrics for the division remains solid with annual recurring revenue, or ARR, increasing $3 million sequentially to $216 million, and dollar-based net retention rate, or DBNRR was at 92%. Secusmart revenue grew sequentially, but was lower year-over-year due to a tough compare as a result of the strong upgrade cycle from the German government in Q3 of the prior fiscal year.
+
+AtHoc, despite having the most exposure of the 3 product groups to the U.S. federal government shutdown, delivered year-over-year and sequential revenue growth. Earlier this year, we achieved FedRAMP high certification becoming the only critical events management solution provider to achieve this stringent level of security, directly enabling significant U.S. government expansions this quarter including both the U.S. Navy and the Department of Justice. AtHoc continues to grow outside of North America as well, securing new wins with the National University of Malaysia, Australia's Department of Foreign Affairs and Trade and key U.K. energy infrastructure provider, Scottish and Southern Energy.
+
+For UEM, in addition to the continued trend for reduced customer churn, we had some significant expansion deals for this product in the quarter. One of these expansion deals included an 8-figure multiyear renewal with the Dutch government. Other strong renewals included the Scottish Police Service and the U.K. Ministry of Defense as well as a number of financial services companies. As we mentioned in Q2, BlackBerry UEM became the first solution to be certified by Germany's Federal Office for Information Security, or BSI. And in Q3, we closed our first deal that was enabled by this very demanding security certification. Targeted investment in certifications like BSI for UEM and FedRAMP high for AtHoc are strengthening our portfolio's position at the heart of government secure communication strategies.
+
+Overall, this was another solid quarter of performance for our Secure Communications division. This has been a year of stabilization with improvements in renewal rates and our ability to close new business. Finally, licensing revenue was $6.1 million, which was in line with expectations. And with that, let me now turn the call over to Tim for more color on our financials.
+
+Tim Foote
+Chief Financial Officer
+
+Thank you, John, and good afternoon, everyone. As John mentioned, we continue to drive strong reliable results across the board that either meet or beat expectations. Revenue for the total company in the quarter topped the high end of the guidance range at $141.8 million. Total company adjusted gross margins remained relatively flat at 78% and increased 3 percentage points sequentially as a result of a favorable revenue mix and continued optimization of our cost of sales profile. Adjusted operating expenses were $85.4 million, up 7% year-over-year as we continue to deploy capital to strategically invest for growth in our QNX business.
+
+Total company adjusted EBITDA continues to be strong at 20% of revenue or $28.7 million. Adjusted net income for Q3 was $26.8 million and GAAP net income was $13.7 million. This is the third quarter in a row that we've delivered positive GAAP net income and the seventh consecutive quarter of sequential improvement. In fact, Q3 had the strongest level of quarterly GAAP net income at any time since the fourth quarter of fiscal year 2022, almost 4 years ago.
+
+Adjusted EPS for the quarter beat the top end of guidance at positive $0.05. QNX had its best ever quarter of revenue, achieving $68.7 million, up 10% year-over-year and 9% sequentially. QNX gross margins expanded by 1 percentage point sequentially and were down 2 percentage points year-over-year to 84%. In Q3, we did not have the P&L benefit of grant funding from Canada's Strategic Innovation Fund, like we did in the first 2 quarters of the fiscal year. But even without this benefit, adjusted EBITDA was a very solid 24% of revenue and hit the top end of guidance at $16.4 million. Secure Communications revenue exceeded the top end of guidance for the quarter at $67 million. Gross margin was 1 percentage point lower year-over-year and higher sequentially at 72% as a result of leverage and revenue mix.
+
+The better-than-expected revenue also drove leverage to the bottom line. Adjusted EBITDA in the quarter was $17.3 million, up 10 percentage points sequentially to a strong 26% margin. Finally, our Licensing division delivered results in line with guidance. The revenue was $6.1 million and adjusted EBITDA of $5.3 million. Adjusted corporate operating costs, excluding amortization, came in at $10.3 million in Q3, broadly in line with guidance.
+
+This was another good quarter for conversion of profitability into cash. Operating cash flow was $17.9 million, a significant improvement from $3.4 million in Q2 and up over 200% year-over-year. Free cash flow was $17 million in the quarter. Our balance sheet remains solid with total cash and investments, up $111 million year-over-year and $14 million sequentially to $377.5 million.
+
+We are deploying BlackBerry's capital to drive growth and shareholder value. We continue to invest organically, especially in our QNX business where we're supporting the key initiatives that John outlined earlier, to go deeper into auto and wider into target verticals. Notwithstanding this increased investment, we continue to deliver positive operating and free cash flow, further increasing our net cash position.
+
+So in addition to organic investment, we're also continuing to take advantage of what we believe to be an undervalued share price and repurchase shares through our buyback program. In Q3, we ordered the repurchase of $5 million or 1.2 million shares at an average price per share of $4.13. A portion of these shares settled just after the quarter end on December 1, so it won't show in this quarter's 10-Q filing. All of the shares have been canceled, bringing the total number of shares bought back this fiscal year to $8.8 million. We have, therefore, more than offset potential dilution from our long-term incentive and employee share purchase plans.
+
+Turning now to financial outlook for the fourth fiscal quarter and the full fiscal year. We expect revenue for QNX in Q4 to be in the range of $71 million to $77 million. Having just delivered an all-time record in Q3 for quarterly revenue, we expect to set another new record in Q4. For adjusted EBITDA, we expect QNX to be in the range of $17 million to $23 million. We are maintaining our full year revenue guidance at the midpoint while also narrowing the range to $260 million to $266 million.
+
+For full year adjusted EBITDA, we're raising the bottom end and the midpoint of our guidance such that the range is now $67 million to $73 million, as QNX continues to deliver a combination of double-digit growth and strong profit margins.
+
+For Secure Communications, we're increasing the expected revenue for Q4 such that it's now in the range of $61 million to $65 million and for adjusted EBITDA to be between $11 million and $15 million. For the third quarter in a row, we are raising our full year revenue guidance for secure communications, such as the high end of the range we provided last quarter is now the low end of the range, such it's now between $247 million to $251 million. We're also raising our guidance for adjusted EBITDA with it now expected to be between $47 million and $51 million. For licensing, we reiterate our prior guidance for revenue to be approximately $6 million and adjusted EBITDA to be approximately $5 million per quarter.
+
+For the full fiscal year, we're holding revenue guidance of approximately $24 million and adjusted EBITDA of approximately $20 million. We continue to expect adjusted corporate OpEx, excluding amortization, to be approximately $40 million for the full fiscal year. At total company level, we expect revenue for Q4 to be in the range of $138 million to $148 million and adjusted EBITDA to be between $22 million and $32 million.
+
+For the full fiscal year 2026, we are raising the guidance midpoint for the total company revenue by $6 million with a range now between $531 million and $541 million and raising guidance for adjusted EBITDA at the midpoint by $7.5 million to be in the range of $94 million to $104 million. For context, when including Cylance, adjusted EBITDA from continuing and discontinued operations for the prior year was $39.3 million. For non-GAAP EPS, we expect it to be between $0.03 and $0.05 in the fourth quarter and to now be between $0.14 and $0.16 for the full fiscal year.
+
+Moving on to our cash flow outlook. We expect another sequential increase in operating cash flow for Q4 with it in the range of a solid $40 million to $45 million. This increase means that for the full fiscal year, we're again raising our guidance and expect to generate between $43 million and $48 million in operating cash flow. This does not include the additional $38 million of cash from the second tranche of proceeds from the sale of Cylance to Arctic Wolf that we expect to receive in Q4 which is classified separately as cash flows from investing activities. Therefore, we expect to generate in excess of $80 million of cash in Q4, further strengthening our already solid balance sheet. With that, let me now turn the call back to John.
+
+John Giamatteo
+CEO & Director
+
+Well, thanks for that, Tim. And before we move to Q&A, let me quickly summarize what has been another strong quarter for BlackBerry. We continue to consistently deliver reliable results across the 3 core metrics of revenue, profitability and cash at both the company and divisional levels. QNX delivered its best ever revenue quarter and a solid adjusted EBITDA of 24%, all while continuing to invest for long-term growth. In addition to these strong financial results, QNX also hit the milestone of powering 275 million vehicles on the road. Secure Communications exceeded revenue expectations and demonstrated significant leverage in the model with a 26% adjusted EBITDA margin.
+
+To put this in perspective, this time last year, the cybersecurity division had an EBITDA margin of only 9%. Overall, both divisions helped drive another quarter of GAAP profitability and cash generation. So with that, let's now move to Q&A. And Nick, if you could please open up the lines.
+

@@ -1,0 +1,143 @@
+FedEx Corporation (FDX) Q2 2026 Earnings Call December 18, 2025 5:30 PM EST
+
+Company Participants
+
+Jenifer Hollander - Vice President of Investor Relations
+Rajesh Subramaniam - President, CEO & Director
+Brie Carere - Executive VP & Chief Customer Officer
+John Dietrich - Executive VP & CFO
+
+Conference Call Participants
+
+Brandon Oglenski - Barclays Bank PLC, Research Division
+Jonathan Chappell - Evercore ISI Institutional Equities, Research Division
+Richa Talwar - Deutsche Bank AG, Research Division
+Christian Wetherbee - Wells Fargo Securities, LLC, Research Division
+Brian Ossenbeck - JPMorgan Chase & Co, Research Division
+Scott Group - Wolfe Research, LLC
+Thomas Wadewitz - UBS Investment Bank, Research Division
+Jordan Alliger - Goldman Sachs Group, Inc., Research Division
+Bascome Majors - Susquehanna Financial Group, LLLP, Research Division
+Ken Hoexter - BofA Securities, Research Division
+Reed Seay - Stephens Inc., Research Division
+J. Bruce Chan - Stifel, Nicolaus & Company, Incorporated, Research Division
+Stephanie Benjamin Moore - Jefferies LLC, Research Division
+Ariel Rosa - Citigroup Inc., Research Division
+Conor Cunningham - Melius Research LLC
+David Vernon - Sanford C. Bernstein & Co., LLC., Research Division
+Jeffrey Kauffman - Vertical Research Partners, LLC
+
+Presentation
+
+Operator
+
+Good day, and welcome to the FedEx Second Quarter Fiscal 2026 Earnings Call. [Operator Instructions]. Please note, this event is being recorded.
+
+I would now like to turn the conference over to FedEx Vice President of Investor Relations, Jeni Hollander.
+
+Jenifer Hollander
+Vice President of Investor Relations
+
+Good afternoon, and welcome to FedEx Corporation's Second Quarter Earnings Conference Call. The second quarter earnings release, Form 10-Q and Stat Book are on our website at investors.fedex.com. This call and the accompanying slides are being streamed from our website.
+
+During our Q&A session, callers will be limited to one question to allow us to accommodate all those who would like to participate. Certain statements in this conference call may be considered forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. Such forward-looking statements are subject to risks, uncertainties and other factors that could cause actual results to differ materially from those expressed or implied by such forward-looking statements.
+
+For additional information on these factors, please refer to our press releases and filings with the SEC. Today's presentation also includes certain non-GAAP financial measures. Please refer to investors.fedex.com for a reconciliation of the non-GAAP financial measures discussed on this call to the most directly comparable GAAP measures.
+
+Joining us on the call today are Raj Subramaniam, President and CEO; Brie Carere, Executive Vice President and Chief Customer Officer; and John Dietrich, Executive Vice President and CFO.
+
+Now I will turn the call over to Raj.
+
+Rajesh Subramaniam
+President, CEO & Director
+
+Thank you, Jeni. We have only 1 week left in peak season, and I want to extend my sincere thank you to our frontline workers, pilots and all of Team FedEx as we approach the finish line. These individuals are out there working hard to deliver a successful peak for our customers and making every FedEx experience outstanding.
+
+Before I turn to our Q2 results, I also want to acknowledge that our thoughts and prayers remain with those at UPS, along with the families and community affected by the recent tragedy. We are working closely with Boeing and the FAA to ensure the safety of our own MD-11 fleet, which we will discuss later on the call.
+
+Now let's review our performance in the quarter. In Q2, we provided excellent service to our customers, won new business in high-value verticals and delivered strong results, high single-digit revenue growth, margin expansion and high teens adjusted EPS growth. Quite remarkably, we did this while navigating multiple external headwinds including the unexpected grounding of our MD-11 fleet, nationwide air traffic constraints, weakness in the industrial economy and of course, the impact of global trade policy changes. We're extremely pleased with our Q2 performance, especially in the face of these challenges. It's a direct effect of the rigor we have embedded into our culture over the past several years and the resulting transformation from Network 2.0, Tricolor and structural cost reductions, all enabled by data and technology.
+
+We're demonstrating the resilience and flexibility we have built into our network and our ongoing efforts to reduce structural costs are leading to significant improvements in profitability. We remain on track to spin off FedEx Freight on June 1, 2026, as a separately listed public company with the best value proposition in the industry. We recently appointed Marshall Witt as CFO of FedEx Freight. Marshall brings significant and external public company experience having served as the CFO of TD SYNNEX for the past 12 years. He also has deep industry and company expertise from his 15 years previously working at FedEx Freight, primarily within the finance organization.
+
+FedEx Freight's entire executive leadership team is now in place, and the team is moving quickly to prepare for the separation. Our conviction in the potential value that will be unlocked from this spinoff is stronger than ever.
+
+Turning to our consolidated Q2 results. Revenue was up 7% year-over-year, driven by yield and volume strength across our U.S. domestic package services. We achieved our targeted transformation-related savings and grew adjusted operating income by 17%. Federal Express Corporation, or FEC, delivered another quarter of strong operating leverage.
+
+On an 8% year-over-year increase in FEC revenue, we grew adjusted operating income by 24% and expanded adjusted operating margin by 100 basis points. Nearly half of our revenue growth was driven by B2B services, an important enabler of increased profitability. And this marked our fifth consecutive quarter of year-over-year adjusted operating margin expansion at FEC. In line with ongoing LTL industry trends, freight results remain pressured, driven primarily by lower volumes, partially offset by higher weight and revenue per shipment. This is the result of our sustained focus on maintaining strong revenue quality. Given the strength of our Q2 results and our updated assumptions for the second half, we are raising our adjusted EPS outlook to $17.80 to $19.
+
+Brie and John will detail the underlying assumptions shortly. We are demonstrating our ability to execute well in any environment, reflecting the progress of our network, organizational and digital transformation efforts. This quarter truly showcased the importance of network integration and optimization, along with the power of our resilient industrial network. Both shifting global trade patterns and the unexpected grounding of our MD-11 fleet required significant changes to our network, which we implemented swiftly and successfully. To that end, let me provide a quick update on how we flex our network during the quarter. From a global trade perspective, we reduced our Purple tail trans-Pacific Asia outbound capacity by about 25% year-over-year.
+
+We also decreased our third-party or White tail capacity by nearly 35%. We continue to shift some of our capacity to the Asia to Europe lane and importantly, these flights typically have an attractive B2B mix of over 75% with high load factors. When we grounded our MD-11 fleet, our focus, as always, was on safety above all, making sure our planes would be inspected and as safe as possible. We're also focused on helping our customers and providing technical support to the regulators. Of the 34 MD-11s we own, 25 were in operation at the time of the groundings. Our network planning team immediately implemented contingencies prioritizing protecting our customer commitments and stabilizing the network.
+
+We revised our November schedule quickly, condensing our planning process into 3 days and the actions we took included: trucking more volume in the United States instead of flying, given 18 of our MD-11 flights were U.S. domestic, shifting volume to other types of aircraft within our FedEx owned fleet, adding capacity via third-party lift and adjusting the timing of maintenance for our remaining fleet while staying compliant with regulatory guidelines. As a result, we were able to mitigate the operational and financial impacts of the MD-11 groundings which ultimately pressured our Q2 adjusted operating income by about $25 million.
+
+For the final week of peak, we have additional contingencies in place. We lost about 4% of our global cargo capacity before mitigating actions during our busiest season. As a result, our cross-functional teams are working around the clock to minimize any service disruption. And looking beyond peak, we are extremely focused on maintaining high service levels, the benefit of more time to plan. We'll keep you posted on the expected timing of the MD-11 return to service. Network transformation remains a key priority for us. In support of this ongoing transformation in October, we named Kawal Preet as Executive Vice President of Planning, Engineering and Transformation. Kawal is known for creating high-performance cultures. With nearly 30 years of institutional and industry expertise, her depth of operational and engineering knowledge will support further progress towards our global integrated network.
+
+For the past 5 years, she served as our Asia Pacific Regional President. Kawal has a proven track record of relentlessly unlocking efficiencies and driving improved bottom line results, and I am confident she will thrive in her new role. This global centralized planning and engineering function marks an important shift in how we deploy our assets to reduce inefficiencies and increase profitability. Additionally, it provides enhanced oversight of our ongoing drive, Tricolor and Network 2.0 efforts. We now have about 24% of our eligible average daily volume flowing through 355 Network 2.0 optimized facilities.
+
+Additionally, we have closed more than 150 facilities. We also continue to prioritize improving our operations and performance in Europe, where the team is making good progress with significant opportunity ahead. We remain focused on driving growth in international and B2B segments, which is helping to offset the headwinds created by global trade policy changes. Our European operations teams have done an outstanding job absorbing the growth through improvements in surface hub, station and on-road productivity supported by sustained improvement in net service levels. Data and technology play a foundational role in our transformation, and we are scaling AI adoption across the company to all our 500,000-plus employees.
+
+The reality is that AI is becoming an integral part of all business functions from the back office to the front line, and we want to ensure that every employee is equipped to thrive in this new era. We recently launched a global AI program to help our teams innovate faster, serve customers better and solve challenges more effectively than ever before. Importantly, we are customizing the curriculum to be directly relevant to each team member's specific role, experience level and existing AI fluency. We also continue to explore new approaches that leverage our real-world operational data platform. We are actively pursuing opportunities to bring digital solutions to the market, starting with logistics intelligence insights.
+
+Our recently announced strategic collaboration with ServiceNow marks an important milestone, designed to make life easier for those who manage complex sourcing and procurement operations. Through this collaboration, we are giving businesses a single system that anticipates, adapts and acts before they experience supply chain disruptions. And by integrating into ServiceNow's procurement and supply chain solutions, we are beginning to monetize the proprietary insights that only FedEx can provide. Enterprises need access to real-world logistics intelligence to power their AI systems and workflows and this partnership demonstrates market demand for what we have built.
+
+In closing, I want to recognize our team for delivering another strong quarter while navigating a very difficult operating environment. Our ability to grow adjusted earnings per share 19% year-over-year despite multiple headwinds speaks to the benefits of our transformation and the strength of our industrial network. I look forward to sharing more information on our strategic initiatives and our medium-term financial outlook at our February Investor Day. I hope to see many of you there.
+
+Now over to you, Brie.
+
+Brie Carere
+Executive VP & Chief Customer Officer
+
+Thank you, Raj. First, I want to commend our commercial and operations teams for the outstanding job they are doing to support our customers during peak. Successfully picking up 25 million packages on Cyber Monday requires extensive collaboration and agility. Our Q2 performance is a function of momentum we have been building over the past year, managing key performance indicators to ensure a focus on high-quality revenue growth. The team's hard work and strong execution in Q2 led to a 7% year-over-year revenue growth across the enterprise. Busy, busy, busy. At FEC, revenue was up 8%, driven by 12% U.S. domestic package revenue growth with strength across all services.
+
+FedEx Freight revenue declined 2%, pressured by lower average daily shipments. We grew average daily domestic volume by 6%. Our recent B2B health care wins supported robust growth in the United States priority and deferred Express services. The onboarding of our new Amazon business, which is focused on large and heavyweight shipments is also going well. As expected, international export volumes declined, driven again by lower volumes on the China to U.S. lane. Raj mentioned how we're shifting some capacity to the Asia-Europe lane, which along with strong growth on the intra-Asia lane is providing a partial offset.
+
+Additionally, we continue to grow U.S. international outbound revenue, which further offered another offset. And of course, it has high flow through. At FedEx Freight, weakness in the industrial economy again weighed on our average daily shipments, which were down 4%. This dynamic remains consistent with broader LTL industry trends. Importantly, our growing FedEx Freight team positions us well for the eventual recovery. We now have more than 85% of our planned LTL sales force in place, and we expect to have the full team in place by June. And of course, this is 400 salespeople. We are also very encouraged by our Q2 service quality metrics at Freight with claims and damage performance at some of the best levels in company history and on-time service is at the highest level since Q3 of fiscal year '21.
+
+Across the enterprise, our strong yield performance this quarter demonstrates the benefits of our efforts to prioritize high-value shipments, the strength of our value proposition and the continued improvement in the pricing environment. At FEC, U.S. domestic package yield was up over 5%, driven by the strength across all services. International export package yield grew 3%, driven by revenue quality actions, higher weight per shipment tied to the de minimis change plus favorable currency. At FedEx Freight, revenue per shipment increased 2% driven by higher weight per shipment and revenue per hundredweight, demonstrating our sustained commitment to maintaining industry-leading yields.
+
+Now let me share a few highlights on our commercial priorities. As part of our B2B focus, we have developed vertical strategies, each with dedicated leadership and resources in our targeted growth areas. That B2B contributed to nearly half our revenue growth this quarter demonstrates this strategy is working. It is helping us sustain and win new business in priority areas like health care and automotive. For example, this quarter, we won incremental B2B business from BMW. This win is a result of our global reliability and scale, our strong service for time-critical aftermarket and production deliveries and our collaborative shipping tools.
+
+Further, technology companies are investing extraordinary amounts of CapEx in global data center infrastructure over the next several years. As such, we have formalized our work in creating a data center and infrastructure vertical team. This will better support existing customers and also help us acquire new high-tech customers. I am confident our dedicated sales and solutions team will enable FedEx leadership in this high-value market with significant growth ahead. We are very pleased with how our digital tools are supporting revenue growth while creating better outcomes for our customers and their customers.
+
+Wayfair is a great example of how we're using these tools to help our customers improve their shipment-related communications and support their customer service teams. By using our premium integrated visibility tool, Wayfair is increasing their Net Promoter Score, reducing where is my order calls, otherwise known as WISMO calls and decreasing outages with their tracking data.
+
+Turning to our revenue outlook for fiscal year '26. We now expect 5% to 6% consolidated revenue growth this fiscal year, supported by sustained U.S. domestic yield and volume growth. We expect second half international export ADV to remain pressured due to the global trade environment with a partial offset from yield.
+
+At FEC, the midpoint of our range now implies a 7% revenue growth year-over-year, supported by peak trends and our revenue quality actions. Peak ADV is trending in line with our expectation of a modest year-over-year increase. Peak-related demand surcharges at FEC are achieving strong capture, and we expect a year-over-year increase in the surcharge revenue. In light of the recent MD-11 grounding, we have made targeted adjustments to protect network integrity and service reliability. On December 1, we implemented a fuel surcharge adjustment to partially mitigate the added costs required to maintaining high-quality service for our customers. And we expect strong capture of our general rate increase of 5.9%, which goes into effect next month. At FedEx Freight due to the continued pressure on shipments, we now expect fiscal year '26 revenue to be approximately flat to slightly down on a year-over-year basis. Yield growth will provide an offset to a low single-digit percentage decline in shipments.
+
+In closing, we have a great strategy in place to capture high-value growth with our unmatched industrial network and our Q2 results demonstrate that this strategy is absolutely working. Our team is doing an exceptional job this peak season. Thank you team for delivering the Purple Promise during the holiday season and, of course, all year round.
+
+Now with that, I'll turn it over to John.
+
+John Dietrich
+Executive VP & CFO
+
+Thank you, Brie. I'll start by saying that I'm very proud of the team for executing on our strategies to drive margin expansion and operating income growth in Q2. And we achieved these results despite multiple headwinds. Like Raj and Brie, I'm also very grateful for the dedication of our team members who are delivering on the Purple Promise every day, especially during this peak season.
+
+Turning to our financial results. On a consolidated basis, in the second quarter, we delivered $4.82 in adjusted earnings per share, up 19% year-over-year. Consolidated revenue grew by 7%, which supported 60 basis points of adjusted margin expansion and 17% adjusted operating income growth. As Brie mentioned, our yield management and strong commercial execution resulted in higher revenue growth from U.S. domestic package services, which was the primary driver of our year-over-year adjusted operating income improvement. We grew adjusted operating income by $231 million despite the headwind from global trade policy changes, higher variable incentive compensation accruals, weaker-than-expected LTL results, a $30 million headwind from the expiration of the Postal Service contract and a $25 million impact from the grounding of our MD-11 fleet.
+
+At FEC, we grew adjusted operating income by $306 million, up 24% and expanded adjusted operating margin by 100 basis points. This was driven by higher yields, continued cost reduction efforts and increased U.S. domestic package volume. These drivers were partially offset by higher wage and purchase transportation rates and the headwinds I previously mentioned. At FedEx Freight, we continue to experience a challenging market environment, consistent with trends across the LTL sector. FedEx Freight adjusted operating income declined by $70 million and adjusted operating margin contracted 3 percentage points. Q2 was weaker than we originally anticipated driven by lower average daily shipments.
+
+Additionally, we experienced a $25 million headwind to adjusted operating income as our sales force hiring and other separation expenses accelerated in Q2. That said, I'm encouraged that yields inflected positive in the quarter, demonstrating FedEx Freight's disciplined strategy. We remain confident that FedEx Freight is well positioned to see strong incremental margins when demand returns. We remain committed to prudent capital allocation and maximizing stockholder returns. During the quarter, we opportunistically purchased nearly $300 million worth of stock, which, alongside our increased dividend payout demonstrates our commitment to returning cash to stockholders. We have $1.3 billion remaining under our 2024 stock repurchase authorization and subject to business and market conditions, we'll continue to evaluate repurchasing additional shares during the remainder of FY '26.
+
+CapEx year-to-date is $1.4 billion, driven by continued investments to maintain our fleet of aircraft and vehicles, Network 2.0 related facility enhancements and hub modernization. We continue to target $4.5 billion in annual CapEx for FY '26. Given the healthy status of our pension plan, we are further reducing our expected pension cash contribution. We now anticipate making $275 million in voluntary pension contributions to our U.S. qualified plans in fiscal 2026 compared to our prior forecast of up to $400 million.
+
+Moving to our FY '26 adjusted EPS outlook. I want to note that our outlook is based on information known to us today and our business trends from the first half of the fiscal year. Though the global operating environment remains fluid, our year-to-date results demonstrate our operating leverage and proven ability to successfully drive premium revenue growth. As a result, we now expect to deliver adjusted EPS of $17.80 to $19. This compares to our prior range of $17.20 to $19 and reflects a range of potential scenarios for the back half of the year. At the midpoint of our range, we now anticipate a 7% increase in FEC revenue with adjusted op margin up slightly. Also at the midpoint, we expect revenue for FedEx Freight to be down slightly with margin down year-over-year and our expected FY '26 effective tax rate remains approximately 25%.
+
+I also want to take a moment to walk through what is implied in our second half outlook at the adjusted EPS midpoint of $18.40. We expect continued FEC revenue momentum on a year-over-year basis in the fiscal second half. We also expect to benefit from strong operational execution and ongoing efficiency initiatives. At the same time, we anticipate somewhat more limited flow-through in the second half versus the first half due to several discrete items challenging comparability year-over-year.
+
+First, variable incentive compensation accruals. For context, in FY '25, we paid variable incentive compensation well below target levels. Given strong year-to-date performance, we have embedded a higher accrual for this performance-based pay in our revised outlook. This is important compensation that our people are earning due to their strong execution in a challenged environment. Second, given the sustained weak LTL industry trends, we've lowered our FedEx Freight expectations for the second half of the year. And third, we expect meaningful headwinds in the second half from our MD-11 groundings, primarily in Q3. Taken together, these items represent roughly a $600 million year-over-year headwind to adjusted operating income in the second half. For the full year, they represent nearly a $900 million headwind.
+
+Our revised FY '26 adjusted operating income bridge shows the year-over-year elements embedded in our full year outlook in one midpoint scenario, resulting in adjusted operating income of $6.2 billion, up $200 million versus our prior outlook. Of course, this is just one scenario and the assumptions at the midpoint may vary as the environment changes. In this scenario, for FEC volume-related revenue net of variable costs, we now expect a $500 million tailwind. This marks a $100 million improvement compared to what we shared in September. This is driven largely by U.S. domestic package services, offset by a material headwind from reduced international export demand.
+
+With respect to FEC yield, we now expect a $3 billion tailwind. This marks a $700 million improvement compared to what we shared in September and demonstrates our commitment to revenue quality and pricing traction. Our bridge includes partial offsets to these tailwinds. Most remain unchanged from what we shared in September, except for the FedEx Freight headwind. We now expect a $300 million decline in adjusted operating income at FedEx Freight compared to the $100 million expectation we shared in September. Additionally, we added a bar to reflect the variable incentive compensation headwind I mentioned earlier.
+
+As I mentioned last quarter, embedded in our assumptions is the $1 billion in headwind to adjusted operating profit from the global trade environment, offset by $1 billion in transformation-related savings. We're pleased with our year-to-date cost reduction progress and are on track to achieve $1 billion savings target. With regard to Q3 adjusted EPS, we now anticipate adjusted EPS to be sequentially lower than Q2. For further context, we expect Q3 revenue to be essentially in line with Q2 with slight increases sequentially in operating expense due to increased peak demand and higher cost due to the MD-11 grounding. And as a reminder, we are lapping a third quarter that was unusually strong seasonally. We expect Q4 to be our strongest adjusted EPS quarter of this fiscal year. These directional trends are consistent with the patterns we typically experience.
+
+Before turning to Q&A, I want to provide an update on our spinoff of FedEx Freight, which is on track for June 1, 2026. As previously mentioned, we submitted our confidential Form 10 to the SEC as well as a request for a private letter ruling on the tax treatment of the transaction to the IRS. These were important milestones as we move toward the tax-efficient spin-off. We expect the Form 10 which will provide more details on our go-forward strategy and financials to be available to the public in January.
+
+As a further update, upon the spin-off of FedEx Freight, FedEx Corp. intends to retain up to 19.9% of FedEx Freight's outstanding shares. To preserve the tax-free nature of the spin-off, we expect to monetize these shares within a time frame permitted by the IRS. Additionally, FedEx Freight will be hosting an Investor Day in New York City on April 8. John Smith and his team look forward to unveiling for you FedEx Freight's forward-looking strategy to unlock significant stockholder value in the years ahead. And as Raj noted, we also look forward to seeing you in Memphis at our FedEx Corporation Investor Day in February.
+
+With that, let's open it up for questions.
+
