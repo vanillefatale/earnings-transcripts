@@ -1,0 +1,192 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question is coming from Tracy Kivunyu with SBG Securities.
+
+Tracy Kivunyu
+SBG Securities (Proprietary) Limited, Research Division
+
+My first question is on the guidance for PBT. At $55 million at the top end, it is suggesting a very significant drop in costs in the fourth quarter, considering what you've seen in the third quarter already. And I just wanted to get some feedback regarding how you're thinking of the attribution for that. Is it that we're going to see very strong revenue acceleration considering you're going into a high seasonality period? Or do you also see some additional benefits from cost management. I think from my view; I feel like the tech expenses and the G&A expenses did not fall off as much as initially expected. So, will we see a bit more deceleration in costs from that end? Or will we actually see both? My second question would be on fulfillment. How should we think about fulfillment? There was a material deceleration in fulfillment per order in 3Q is quite positive. Is that our new baseline? Or should we expect an uptick considering the sale that we're factoring into 4Q?
+
+Francis Dufay
+CEO & Member of Management Board
+
+Tracy, thanks for your questions. I will comment on those 2 questions, and I will let Antoine add to that on some financial topics. So, your first question about Q4. So, we're definitely expecting a significant acceleration in usage in Q4. There's obviously very strong seasonality in this quarter with the Black Friday that we've already started at the beginning of the month. It actually lasts 4 weeks for Jumia. It's a franchise that we really own in Africa that's driving a lot of traffic and a lot of expectations from customers. And then the Christmas season is usually pretty strong in most of our countries, even in some Muslim countries. So definitely some acceleration in usage that will translate in revenue and monetization. And on the cost side, we are usually confident if you look at the past, that further growth in usage will bring economies of scale on the fulfillment side in particular. So, you can already see some clear progress on the fulfillment side this quarter at $1.86 per order, 20% down versus last year same quarter. This is definitely the new baseline.
+
+So, answering your second question, there's no specific one-off element that comes -- that impacted this figure this quarter. This is really the result of a bit more scale and efficiency across our fulfillment centers and better work with our logistics partners. So, this will play in Q4. I mean we expect this to play in Q4 as well. We expect also continued improvement on the fixed cost base. So, you see that the tech costs are decreasing by about 10% this quarter versus the same quarter last year. We expect to be -- to keep on gaining on some items in the fixed cost basis. Antoine, do you want to add to that?
+
+Antoine Maillet-Mezeray
+Executive VP of Finance & Operations and Member of Management Board
+
+Not much to add to what you just said. Q4 is indeed a very strong quarter, and we expect better efficiency from scale. And as you mentioned, and we'll see also the continuation of the work we've been doing on cost and efficiency, which led us to this guidance.
+
+Tracy Kivunyu
+SBG Securities (Proprietary) Limited, Research Division
+
+And if I could ask one more question on working capital movements for the fourth quarter. How are you thinking about that? And how is that feeding into your liquidity expectations and impact on shareholder equity?
+
+Antoine Maillet-Mezeray
+Executive VP of Finance & Operations and Member of Management Board
+
+So maybe I can take this one, Francis. On working capital, you see that we showed a small improvement in Q3, which shows that we now are able to ramp up our inventories much faster than in the past. A few years ago, we would have been in a position where we would have started 1 month ahead of a Tier-1 events such as Black Friday to beef up the offer. Today, it's no longer the case. We are able to go much faster. And that's why we were able to prepare a very good supply for this event without impacting drastically the working capital. Going forward, what we always say is that supply is key in the countries where we are operating, and we always capture the opportunity when they present. So, it might happen that we have ups and downs in the working capital, but we do not expect significant modification in the working cap cycle.
+
+Tracy Kivunyu
+SBG Securities (Proprietary) Limited, Research Division
+
+Sorry, if I may, just a clarification. Are you saying that most of the working capital requirements for Black Friday have already been factored in, and we do not expect a significant shift in terms of working capital management in the fourth quarter?
+
+Antoine Maillet-Mezeray
+Executive VP of Finance & Operations and Member of Management Board
+
+Sorry, I'm not sure I heard properly. What I said is that we do not expect any significant changes because we are now able to ramp up our inventory much faster. And what we're going to buy, let's say, for retail in October will be sold before the end of the quarter. So, the movement we'll be seeing probably will be intra-quarter movement. And to your last point, we do not expect any significant changes in the working cap dynamics of this quarter.
+
+Operator
+
+Our next question is coming from Brad Erickson with RBC.
+
+Bradley Erickson
+RBC Capital Markets, Research Division
+
+I have a few. First off, when you look at the 30% order and GMV growth in October you called out, I guess if we kind of run rate that through the quarter, I think that may bring you up maybe a bit below the low end of the guidance, at least for GMV. And so, I guess just is there an implied acceleration in the latter part of the quarter in there? I certainly could be doing the math wrong, but just any color there would be great.
+
+Francis Dufay
+CEO & Member of Management Board
+
+Yes. Brad, thanks for the question. So, we said above 30% -- so we -- it's kind of a range, if you want to take it this way. We wanted to give some color about the early acceleration of Q4, but we're still in the middle of Q4, so we don't want to create the wrong expectations either. So, it's more an indication of the continued momentum, and we stick to the refined guidance that we've given, so between 15 and 17 points of GMV growth for the whole year.
+
+Bradley Erickson
+RBC Capital Markets, Research Division
+
+And then I guess just with the slight adjustment to the guidance, I guess just generally, what changed in your visibility to the end of the year on order growth and GMV? So yes, start there.
+
+Francis Dufay
+CEO & Member of Management Board
+
+Yes. As you mentioned, it's slight adjustments, right, on growth numbers. It means we're going to be on the lower end of the range that we had provided earlier this year. There's no massive change in the dynamics. We're still factoring in quite an acceleration in the last quarter, as you mentioned. We just refined it based on mid-quarter trends just to make sure that we don't go too bullish. I mean we just want to be conservative enough. So, it's not a surprise to anyone. And no massive shift in market dynamics. I mean you can see the trends at country level. I mean all countries are accelerating. We have no cause for concern, if that's the way you -- if that's what you're asking.
+
+Bradley Erickson
+RBC Capital Markets, Research Division
+
+And then just curious on supply. You mentioned -- and I think you gave some nice metrics on the acceleration in order growth from China in particular. I just wonder on Q4, are there any puts and takes on access to supply? I know directionally, it's clearly positive, but just curious if there's anything like transitory in the quarter that was occurring where maybe you could have gotten more product and you're not now or something like that?
+
+Francis Dufay
+CEO & Member of Management Board
+
+No, I think that the medium- to long-term trend remains the same that we -- I mean, the same as the one we started to describe last time. So, there are 2 very positive trends at play. On the one hand, currency stability is really helping us. Of course, it's helping on the demand side of the marketplace, but it's most importantly helping us on the supply side because even both local importers and international sellers are more and more willing to commit more inventory to Africa, to commit their hard currency to Africa. And we see that it's really helping to fill the supply pipeline. And it's going -- I mean, it's helping to drive the performance. So, when we say that we see acceleration in October, it's partly driven by better supply.
+
+And then we're also still helped by the gradual shift of Chinese manufacturers towards new markets, including Africa. So, it's really bringing Africa back on the map. We see some very positive momentum in China, onboarding a lot more new sellers. We see our current sellers willing to ship more assortment to Africa in consignment in our warehouses, so kind of taking the risk to commit inventory. So, we only see positive trends, and it will continue in the quarters to come, and it will keep on impacting our numbers in the quarters to come. I mean I would even say that Q3 was a bit early to see the full impact of this trend.
+
+Bradley Erickson
+RBC Capital Markets, Research Division
+
+And then when you look at some of the countries where you said your competitors seem to be maybe retreating a little bit. From your perspective, I guess it would just be curious to hear what you think is kind of happening in terms of the competitive environment related to those comments.
+
+Francis Dufay
+CEO & Member of Management Board
+
+Yes. So that comment is mostly aimed at -- I mean, it's mostly focusing on international nonresident platforms, right, the likes of Shein or Temu. What we see in those markets, I mean, it's easy to track from some public data actually. We see some reduced marketing investment. We see price points increasing in several markets like Nigeria. The way we read it is the following, and that's our opinion. That's -- I don't know exactly how to decide it, but the way we read it is that these markets are pretty hard to operate at scale for these players. The context in Africa is very different from the U.S. or from Europe or some other more mature markets where it's relatively straightforward for nonresident platforms to come in.
+
+For example, there are a number of prerequisites that do not exist in our markets. These platforms need reliable customs, which we mostly don't have in our markets. I mean it can take between 1 week and 2 months to get products through customs in those markets at costs that can be unpredictable. They cannot find a major logistics ecosystem. They cannot find the right partners to distribute their product at scale. The biggest distribution network in most of those markets like Nigeria is actually managed by us, by Jumia, and we will not really help them in the process. So, they're stuck working with smaller 3PLs at much higher costs with a much more limited country coverage. And then we've adapted much better also, I believe, we adapted our playbook to what customers actually need so we can do payments and delivery, which foreign platforms cannot do. We have customer support on the ground, which in a country like Nigeria is extremely important because there's a lot of suspicion around e-commerce and anything digital. So, you need to be able to talk to someone.
+
+And even on the price side, I mean, we're managing to deliver quite a competitive assortment through our international, mostly Chinese vendors, and we can actually compete against those platforms. So, in many ways, we have the right to compete, and we believe that our leadership position is actually consolidating in a country like Nigeria. And yes, Africa is a challenging market. If you build the right business model, you can serve it in a profitable way. But if your business model is not fully adapted to the unique challenges of the continent, it's difficult to operate. And I think a number of players are realizing this.
+
+Bradley Erickson
+RBC Capital Markets, Research Division
+
+That's great color. And then I guess just lastly, from a top line perspective, if we -- I guess if we try and remove maybe the impact from Egypt on the corporate sales that you mentioned several times, would that -- would we kind of arrive at the right mix as you think about that part of the business versus marketplace here going forward? Or any other drivers of mix you'd want to call out?
+
+Francis Dufay
+CEO & Member of Management Board
+
+No, I don't see any -- I mean, excluding the corporate sales of Egypt, as you mentioned, I don't see any major shift in the mix to expect. You mean retail versus marketplace, right? So 1P versus 3P. As explained, right by DNA, we're a marketplace. We always prefer to do 3P, but we're tactical about 1P when we have the right opportunities or when we have to do 1P to be able to play in some categories in some countries. But no reason to foresee any major change in the mix.
+
+Bradley Erickson
+RBC Capital Markets, Research Division
+
+And then you mentioned the Jumia Instant product. Talk about how kind of important that can be and particularly talk about the net profit impact from that when we balance kind of the incremental demand, maybe offset by any margin differences versus the core?
+
+Francis Dufay
+CEO & Member of Management Board
+
+Sure. So, Jumia Instant is a pilot that we have started in Nairobi in Kenya a few months back to be able to deliver all of the items that we have in the warehouse, so fulfilled by Jumia within 4 hours to anyone in Nairobi. So that's the project. The goal here is to be able to compete against the quick delivery platforms, quick commerce and to provide more convenience to those customers who are willing to pay for it. So, we clearly know that this is only a fraction of our customer base and that most of our customers are highly value driven, need amazing value for money and will be okay for slower delivery at lower cost. But still, we want to cover that segment as well without completely pivoting our strategy, obviously. So, that's why we've launched this pilot in Kenya with limited resources so that we don't get too distracted during Black Friday.
+
+We're seeing early traction. That's quite interesting. And it's something that could be scaled in other countries if it's successful enough. What we see -- I mean, back to your question in terms of margins, it's quite -- at this stage, it's neutral because we charge more basically. We're not entering the war for quick commerce with free deliveries. We make sure that we charge the additional cost of quick deliveries, which are, of course, less efficient and more costly for us than usual deliveries, scheduled deliveries or pickup station deliveries. So, we make sure that we pass those costs to customers who wish to benefit from greater convenience.
+
+Bradley Erickson
+RBC Capital Markets, Research Division
+
+And then on the fulfillment costs, you mentioned the cost per order, I think, down 25% constant currency. Can you talk about the drivers there? You mentioned scale, I think, earlier in the call is the driver. But maybe just give a sense of any of the other important inputs to that kind of output metric and what's there to continue driving the number down.
+
+Francis Dufay
+CEO & Member of Management Board
+
+Yes. So, versus last year, I mean, Q3 last year, we were still in several countries operating across multiple smaller scattered fulfillment centers, which have all been consolidated since then at the end of Q3 last year, actually for the last countries. So, we clearly see the change now in terms of productivity. We have been able to run very -- I mean, very strict cost improvement and productivity improvement programs across countries. So, tracking the productivity of pickers and packers, bringing some level of basic automation, not much at the stage and working pretty hard on the cost centers, in particular, where we've been able to automate a lot of the interactions that we used to manage with human agents. So, consolidation of the main fulfillment centers, automation and productivity across all operations, so being fulfillment centers and call centers and then scale effect that's helping to leverage the fixed cost base much more efficiently.
+
+Bradley Erickson
+RBC Capital Markets, Research Division
+
+And then one last one, if I can. When you kind of look at adjusting the range for the pretax loss a bit too versus your prior outlook, is that just a function of the kind of slightly lowered order outlook? Or just any other callouts you'd want to mention that are embedded in that new pretax outlook?
+
+Antoine Maillet-Mezeray
+Executive VP of Finance & Operations and Member of Management Board
+
+Antoine speaking. It's just a refinement. We have changed the phasing of some costs, notably in G&A, and we want to make sure that we are in the right sense. But there is nothing significant. And this is not linked to the new guidance on the top line.
+
+Bradley Erickson
+RBC Capital Markets, Research Division
+
+Maybe one more, if I could. Just as we look longer-term, you kind of reiterated your targets. And as you think about exiting '26 breakeven and profitability in '27, can you remind us just what is the kind of top line algorithm as you think about that, whether it be order volumes or anything like that from where we stand today?
+
+Francis Dufay
+CEO & Member of Management Board
+
+So at this stage, we've not provided top line growth guidance for '26 or '27. What I can say, though, is that what you see in Q3 is a strong starting point, right? I mean, to put it differently, there's no reason for the growth rate of '26 to be very different from the exit rate of '25. I believe we're in a healthy B2C business that's driven by strong fundamentals, much better supply, efficient and reliable delivery, efficient and relevant marketing. And what we see is pure clean, healthy B2C growth with the right unit economics. It doesn't just vanish overnight. We believe that's a long-term trend that we're starting here.
+
+Operator
+
+Our next question is coming from Fawne Jiang with the Benchmark Company.
+
+Yanfang Jiang
+The Benchmark Company, LLC, Research Division
+
+First, I want to dig a little bit deeper on your active customer growth was very solid this quarter. Just wonder what drove the acceleration. And also, any demographic profile you could share on this new user group? And any color on how sustainable this pace of the customer growth might be, that would be very helpful.
+
+Francis Dufay
+CEO & Member of Management Board
+
+Sure, thanks for your question. So yes, we're quite happy with the growth in active customers this quarter. It's the highest point that we've had in several years. We really see that as the output of very fundamental changes that we've brought to the business over the past 3 years. So, I mean that's a combination of much better assortment, much better choice, better price points, being able to reach new markets. So, over the past 1.5 years, we've been opening up hundreds of new cities across our footprint. The biggest push was in Nigeria, which in practice, just increased the addressable market, gave us a bigger pool of potential customers. We've been refining the marketing playbook, so it becomes a lot more relevant to a more diverse group of customers, some people being fully digital natives, who can be targeted with Google Ads, TikTok and other on the app. But on the other hand, a lot of people are fully offline. For them, we're doing great in local language. We're printing catalogs or we are incentivizing sales force on the ground.
+
+So, all that is -- I mean, all that is adding up, and it's just delivering a much better value proposition and is driving customer growth. So, to us, it's very healthy trends. And that's why we always disclose all 3 KPIs at the same time. So GMV growth, active customers growth and orders growth. And you can see that these numbers are starting to align, right? The one factor that's creating some gap is corporate sales in Egypt. But as we're lapping those quarters of strong corporate sales last year, we really expect to get some alignment in the growth of those 3 factors, showing that it's -- well, very healthy trends. It's not like one specific category that's killing it. It's not just one specific market. You can see that it's broad-based across all of our key markets. So, we believe it's fundamental. And for that reason, we believe that there's no reason -- I mean, we don't foresee any reason why it should slow down.
+
+Yanfang Jiang
+The Benchmark Company, LLC, Research Division
+
+My next one is actually on your upcountry expansion. It seems like you emphasized you're going to continue for second-tier cities expansion in Africa and view that as a key growth driver. I guess, can you provide a bit more details in terms of your expansion plan? I don't know whether there's any key milestones you're looking for potentially tied to the 2026 strategy.
+
+Francis Dufay
+CEO & Member of Management Board
+
+Yes. Good question and tough one. So, as you see, the share of orders we're shipping to outside of the capital cities has increased now to 60%. This is a result of the push we've made to secondary cities over the past 2 to 3 years. It's something that started back in the days, 8 years ago, actually in the Ivory Coast and that we're now replicating across markets. What I can tell you to give you some indication, and I hope we can provide a bit more tomorrow during our Investor Day, we see that in most countries where we operate, we're still covering a fairly low fraction of the population in terms of distribution network. So, there are still a lot of cities that are not reached, not yet covered by our distribution network. And we have a lot of upsides, a lot of potential customers to come and serve that we cannot reach today.
+
+The country where we have the densest network, obviously, the Ivory Coast because they started way earlier back in 2016. And in a country like Nigeria, which is a good example for us because of the potential customer base we can have there. We're actually starting the expansion only 1.5 years ago, more or less. And so, there's still a lot more to be done. We've made a big push into Eastern Nigeria and Western Nigeria, or mostly Eastern Nigeria actually over the past year. We're just pushing now into Northern Nigeria.
+
+We've expanded to give you like some tangible examples, a few months back, we opened the route to Sokoto on Northwest and to Maiduguri on Northeast, which are very big cities that were not reached by Jumia in the past. So, this is adding to our addressable market. We have big plans to further expand in countries like, well, Nigeria, obviously, into the North with our local partners. Kenya, Ghana, but also Egypt in the coming year. So sorry, it's hard for me to provide you hard facts and concrete numbers here. But I think the message is just we're just halfway through, right? There's still a lot we can do to cover million more -- many, many millions of additional customers.
+
+Yanfang Jiang
+The Benchmark Company, LLC, Research Division
+
+Great color. My last question is actually on your advertising opportunities. It seems like your penetration is still very low. Also, I think for the quarter, specifically, if I'm not mistaken, it seems to be on the softer side. So, I know there's probably a quarterly factor, if you can define it. And more importantly, can you help us to think about your advertising monetization opportunity? I don't know like for mid-, long-term without box down to the specific guidance. How should we think about and how you're going to shape your advertising monetization on the strategic side?
+
+Francis Dufay
+CEO & Member of Management Board
+
+Yes, of course. So, on the advertising revenue, so yes, as you mentioned, we're still around 1% of GMV, which is low. I mean, by any standard, it's low for an e-commerce platform. Year-over-year, I mean, the numbers in Q3 are not very strong because Q3 is not a very strong quarter in terms of commercial activity and marketing activity. Typically, brands will focus their investment on Black Friday and the Jumia anniversary that happened in June this year. So, it's not the best quarter usually for advertising. We also see that year-over-year, some brands have been a lot tougher on their budgets. We see that with the bad economic situation in '24, a lot of big spenders have rationalized their budgets in Africa in '25. But I mean, that's to explain the current situation in the past.
+
+But looking ahead, we believe we have quite an important runway for growth here. If we look at other platforms in emerging markets, I think the right benchmark should be around 2% of GMV rather than 1%. So that gives us a target. And we're looking to reach that target with a few priorities. So, the main priority is on retail advertising, so selling basically performance advertising to medium-sized and smaller sellers, the local marketplace as well as our Chinese seller base. We see great upside from our international sellers. So, they -- I mean they're already well-accustomed, well-used to these tools from other platforms that they're using like Amazon, eBay and so on. So, they're usually pretty strong tenders on those sponsored ads. So, we're quite confident that we'll be able to deliver much bigger volumes -- much bigger returns, sorry, on retail advertising.
+
+And we're, of course, working with key African brands and international brands to negotiate better budgets for the year of '26. And in this regard, of course, I mean, for both segments of the advertising spend, the big driver is scale, right? The bigger -- the more scale you get, the bigger you get, the more you're able to get from your vendors on performance advertising because there's more competition in the marketplace, and it's more important for them to show at the top of the page. And it's also making us a lot more relevant for big brands and big importers and enabling us to negotiate a better rate, a better take rate on advertising contributions. So, in short, we're confident that we can scale this revenue line, driven by better tools that we've rolled out recently, strong execution and scale from our core business.
+
+Operator
+
+Ladies and gentlemen, we have reached the end of our question-and-answer session. This will also conclude today's call. You may disconnect your lines at this time, and we thank you for your participation.

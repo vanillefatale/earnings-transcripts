@@ -18,7 +18,7 @@ from summary_qna_gpt import run_qna_summary
 
 def main(output_name):
     #해당 아래 디렉토리에 저장하게 됩니다!
-    quarter_dir = "4Q25"
+    quarter_dir = "3Q25"
 
     pres_filename = f"./0-ready/{output_name}_presentation.txt"
     qna_filename = f"./0-ready/{output_name}_qna.txt"
