@@ -1,0 +1,124 @@
+TransMedics Group, Inc. (TMDX) Q3 2025 Earnings Call October 29, 2025 4:30 PM EDT
+
+Company Participants
+
+Waleed Hassanein - Founder, President, CEO & Director
+Gerardo Hernandez - CFO & Treasurer
+
+Conference Call Participants
+
+Dorothy Morgan - Gilmartin Group LLC
+K. Gong - JPMorgan Chase & Co, Research Division
+William Plovanic - Canaccord Genuity Corp., Research Division
+Matthew Mardula - William Blair & Company L.L.C., Research Division
+Christopher Pasquale - Nephron Research LLC
+Joshua Jennings - TD Cowen, Research Division
+Suraj Kalia - Oppenheimer & Co. Inc., Research Division
+Patrick Wood - Morgan Stanley, Research Division
+Samantha Munoz - Piper Sandler & Co., Research Division
+David Rescott - Robert W. Baird & Co. Incorporated, Research Division
+Michael Matson - Needham & Company, LLC, Research Division
+Daniel Markowitz - Evercore ISI Institutional Equities, Research Division
+Thomas Stephan - Stifel, Nicolaus & Company, Incorporated, Research Division
+Young Li - Jefferies LLC, Research Division
+
+Presentation
+
+Operator
+
+Good afternoon, and welcome to the TransMedics Third Quarter 2025 Earnings Conference Call. [Operator Instructions] As a reminder, this call is being recorded for replay purposes. [Operator Instructions]
+
+I would now like to turn the call over to Ms. Laine Morgan from Gilmartin Group for a few introductory remarks. Thank you.
+
+Dorothy Morgan
+Gilmartin Group LLC
+
+Thank you. Earlier today, TransMedics released financial results for the quarter ended September 30, 2025. A copy of the press release is available on the company's website.
+
+Before we begin, I would like to remind you that management will make statements during this call, including during the question-and-answer portion of the call, that include forward-looking statements within the meaning of federal securities laws. Any statements contained in this call that relate to expectations or predictions of future events, results or performance are forward-looking statements. These forward-looking statements address various matters, including, among other things, future events, results and performance, financial guidance and projected expectations, potential market and business conditions, our examination of operating trends, the potential commercial opportunity for our products and services, the potential timing, outcome and impact of new clinical programs, and our potential initiatives, opportunities and plans in the U.S. and globally, including timing and expectations. These statements involve risks and uncertainties that could cause actual results or events to materially differ from those anticipated or implied by the forward-looking statements. Accordingly, you should not place undue reliance on these statements.
+
+Additional information regarding these risks and uncertainties appears under the heading Risk Factors of our Form 10-Q filed with the Securities and Exchange Commission on July 30, 2025 and our subsequent SEC filings, which are available at www.sec.gov and on our website at www.transmedics.com. You can also find the company's slide presentation with information on third quarter 2025 results on the Investor Relations section of the TransMedics website. TransMedics disclaims any intention or obligation, except as required by law, to update or revise any financial projections or forward-looking statements. This conference call contains time-sensitive information and is accurate only as of the live broadcast today, October 29, 2025.
+
+And with that, I will now turn the call over to Waleed Hassanein, President and Chief Executive Officer.
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+Thank you so much, Laine. Good afternoon, everyone, and welcome to TransMedics' Third Quarter 2025 Earnings Call. Joining me today is Gerardo Hernandez, our Chief Financial Officer.
+
+Organ transplantation remains a key area of focus for policymakers in both the U.S. and around the world. In the U.S., the ongoing national modernization initiative is focused on growing transplant volumes, while streamlining organ donation, coordination and oversight processes. Internationally, efforts are similarly focused on maximizing utilization of donor organs for transplants, while also finding more efficient ways to manage organ procurements and improving post-transplant clinical outcomes. Globally, TransMedics is uniquely positioned as the ideal solution to address these initiatives through our differentiated OCS technology, NOP clinical and logistical services and our proprietary transplant digital ecosystem. As we will outline today, we are seeing strong signals supporting this conviction. We are now laser-focused on capitalizing on our momentum worldwide to provide our unique solutions to promote organ transplantation and save more lives.
+
+We are extremely proud of our strong results achieved in Q3 despite the anticipated and typical transient seasonal slowdown seen in the U.S. national transplant volumes as reported by UNOS OPTN data in Q3. Specifically, we're very encouraged by the year-over-year growth trend, which we strongly believe is a more relevant and meaningful performance metric, especially in a seasonal quarter like Q3. Let me share the summary of our results for 3Q 2025.
+
+Total revenue for 3Q 2025 was approximately $144 million, or exactly $143.8 million, representing approximately 32.2% growth year-over-year. We experienced year-over-year growth across all 3 organ segments, driven by higher overall utilization and center penetration of OCS NOP in the U.S. Specifically, we saw year-over-year growth of nearly 41% in liver, approximately 14% in heart and approximately 5% in lung revenues in Q3.
+
+Our overall gross margins for 3Q was approximately 59%, representing 2.9% growth year-over-year. We delivered operating profit of approximately $23.3 million in 3Q, representing more than 16% total revenue -- of total revenue, up from $3.9 million or approximately 4% of total revenue in 3Q 2024. And finally, we have driven strong cash generation. We have significantly improved our billing processes and have maintained a healthy AR collections, which resulted in the addition of approximately $65.6 million of cash to our balance sheet as we ended 3Q with over $466.2 million in cash.
+
+Shifting now to TransMedics' transplant logistics infrastructure and performance. Transplant logistics service revenue for 3Q was $27.2 million, representing approximately 35% year-over-year growth. Throughout 3Q, we owned and operated 21 aircraft before adding our 22nd aircraft in October, which we were targeting to end 2025 with 22 owned aircraft. In 3Q, we maintained coverage of approximately 78% of our NOP missions requiring air transport compared to approximately 61% in Q3 of 2024. Meanwhile, we have continued to add to our pilot crew, enabling us to experiment with double shifting a portion of our fleet by year-end. We are pleased by our strong operational 3Q performance achieved despite the expected transient seasonality. We are confident that this seasonal impact is behind us as we have seen volume rebound in September and into early Q4.
+
+Moving now to update on our Next-Gen OCS ENHANCE Heart and DENOVO Lung clinical programs. We are thrilled to report that several U.S. heart and lung transplant centers are approaching the initiation of patient enrollment for the ENHANCE Heart and DENOVO Lung trials. We remain confident that the enrollment will start in Q4 2025. Meanwhile, our team is actively working to complete our responses to the remaining FDA questions and expect that all IDE conditions for both trials will be satisfied by early next year. We're very excited about initiating these 2 programs to demonstrate the potential positive clinical impact of our Gen 2 modification on heart and lung transplantation in the U.S. Importantly, we hope that these programs will catalyze significant OCS Heart and OCS Lung adoption in the U.S. in 2026 and beyond.
+
+Now, please allow me to discuss our effort to expand our TransMedics NOP model outside of the U.S., which represents a key midterm growth driver for TransMedics. As I stated before, TransMedics' U.S. NOP success has been highly visible across the global transplant markets. This resulted in many international geographies engaging with TransMedics to explore the potential for replicating all or a portion of our NOP model and our integrated logistics platform to help them grow their transplant programs. Importantly, through these market engagements, we became very aware of their significant needs for a dedicated transplant logistics support for reasons similar to those we've seen and experienced in the U.S. To that end, in September, we were excited to announce our plans to launch our first OUS NOP program in Italy. We are now actively establishing up to 4 hubs to serve as launch points for that program, strategically covering both Northern and Southern Italy. We are also actively staffing up our Italian clinical support teams.
+
+Now, it is important to note that we are planning to start building an EU air and ground transplant logistics network similar to the one we have established in the U.S., however, appropriately sized to meet the European needs. Given our current knowledge of the Italian and European transplant logistics need, we see a significant opportunity for TransMedics to capitalize on by replicating our transplant logistics service in Europe. Please allow me to repeat, we -- given our current knowledge, we see a significant business opportunity and revenue-generating opportunity by replicating our transplant logistics service in Europe to meet the growing needs for a dedicated transplant network -- logistics network in European countries.
+
+We expect the Italian NOP program to launch in the first half of 2026. We're also currently engaged with several other European countries and also engage with regions outside of Europe to expand our program beyond Italy in the coming years. Stay tuned. This initiative will serve as an additional growth catalyst beginning as early as late 2026 and more meaningfully in '27 and beyond.
+
+With that, let me turn to the here and now. We are laser-focused on finishing out 2025 strong to round out another great year for our business and potentially grow the U.S. national transplant volumes for the third consecutive year in a row. We are continuing to drive adoption of our OCS NOP across all organs. We are expanding our OPO partnership to increase organ utilization for transplantation around the United States. Next week, we are hosting our annual transplant leadership forums in Boston with approximately 200 transplant leaders from all transplant market segments expected to participate.
+
+We are continuing to strengthen our clinical support staffing to meet the growing demand. And finally, we remain on track to begin double shifting a portion of our aircraft fleet by year-end to enhance operational efficiency. We are confident that all these activities will position us well to end the year strong and be in a good position for the expected ramp in adoption in 2026.
+
+Before I conclude, please allow me to provide a status update on our long-term growth initiatives and our planned new global headquarters and manufacturing facility. First, we are very pleased with the preclinical and product development progress of our OCS Kidney program, which is underway and was announced publicly at the World Transplant Congress Scientific Conference in August. We expect to reveal the design of our OCS Kidney device in early 2026 at the American Society of Transplant Surgeons Winter Symposium. Second, the development of our Gen 3 OCS platform is well underway with significant progress already made on many of the advanced technology platforms that will be encompassed in that next Gen 3 OCS platform. We expect to share more detail on Gen 3 OCS platform in the second half of 2026. Third, as Gerardo will outline later, we are actively investing in critical business infrastructure systems to better position TransMedics to scale and grow with strong controls and efficiencies. Finally, we have narrowed down our selection for the new global headquarters of TransMedics to the city of Somerville, a northern suburb of Boston. We are in the final stages of lease negotiations for a state-of-the-art new building to combine all of our functions in one campus, and we expect to announce the location in early January 2026.
+
+As you can see, we are not slowing down, and we are growing our technology platform and geographical outreach. As I have stated before, our near-term capital allocation strategy is a growth-oriented strategy. That said, while we expect operating margins to fluctuate somewhat as we deploy capital across these initiatives, we have a high degree of confidence in our long-term ability to deliver substantial top and bottom line growth.
+
+Now, let me conclude my remarks by commenting on our expectations for the remainder of 2025, which Gerardo will detail further. Based on our performance to date and our expectation to end the year strong, we are narrowing the range to raise the midpoint of our full year 2025 revenue guidance. We are now guiding to a range between $595 million to $605 million for full year 2025 revenue. This represents approximately 36% growth over the full year 2024 at the midpoint.
+
+With that, let me turn the call to Gerardo to cover the detailed financial results for the quarter.
+
+Gerardo Hernandez
+CFO & Treasurer
+
+Thank you, Waleed. Good afternoon, everybody. I am pleased to be here to discuss TransMedics' third quarter results. Please note that a supplemental slide presentation with additional details on our third quarter 2025 results is available in the Investors section of our website.
+
+As Waleed highlighted, we sustained momentum through the third quarter with disciplined execution across the entire TransMedics team. Despite the typical seasonal slowdown in the U.S. transplant activity, where Q2 tends to be one of the strongest periods followed by some moderation, our performance remained strong. Continued benefits from our ongoing strategic investments drove solid performance across both product and service lines, along with continued margin expansion and improved profitability versus Q3 of 2024. It's worth noting that in our earlier years, our rapid growth trajectory offset the natural seasonality in the U.S. transplant activity. As we've reached greater scale, our results have started to follow those underlying market dynamics more closely, even as the business continues to expand at a healthy pace.
+
+Total revenue for the third quarter was approximately $144 million. U.S. transplant revenue was approximately $139 million, up 32% year-over-year and down 9% sequentially. By organ, liver contributed $108 million, heart with $27 million and lungs with $4 million. OUS revenue was $3.6 million, up 41% year-over-year and down 13% sequentially. OUS revenue by organ was $3.2 million in heart, $0.3 million in lungs and $0.1 million in liver.
+
+Product revenue for the third quarter was $88 million, up 33% year-over-year and down 9% sequentially, reflecting continued momentum across both liver and heart programs and solid underlying activity levels compared to 2024. The sequential decline was in line with the typical seasonality moderation in transplant activity during the third quarter.
+
+Service revenue for the third quarter was $56 million, up 31% year-over-year and down 8% sequentially. The primary driver of growth was logistics revenue, which increased 35% year-over-year, reflecting continued expansion and strong utilization of our aviation fleet compared to 2024. Sequentially, logistics revenue declined 9%, consistent with the expected seasonal slowdown in transplant volumes during the third quarter.
+
+Total gross margin for the quarter was approximately 59%, up nearly 290 basis points year-over-year and down roughly 260 basis points sequentially. The year-over-year improvement was driven by higher fleet utilization, cost efficiencies in logistics and limited unplanned aircraft downtime. We are also starting to see early benefits from spreading the scheduled maintenance more evenly throughout the year. Sequentially, the decline mainly reflects lower activity levels in the quarter and the impact of investments we are making in infrastructure to drive future efficiencies and support our anticipated growth in 2026.
+
+Total operating expenses for the third quarter of 2025 were $61 million, up 8% year-over-year, and the increase was primarily driven by a 7% increase in R&D expenses, reflecting continued investment in our innovation pipeline and the ramp-up of our product development capabilities. SG&A expenses grew 8% year-over-year, reflecting ongoing expansion of our IT infrastructure and investments in strategic growth initiatives. Sequentially, total operating expenses were up 2%, primarily driven by an increase in SG&A in support of our ongoing expansion activities.
+
+Operating income for the quarter was $23 million, up 494% year-over-year and down 36% sequentially. Operating margin expanded to 16% compared to 4% in the prior year. Net income for the third quarter was $24 million, representing a 477% year-over-year increase and a 30% sequential decrease. Earnings per share were $0.71 and diluted earnings per share were $0.66 for the third quarter of 2025.
+
+We ended the quarter with $466 million in cash, up $66 million from June 30, 2025. This increase was driven by strong operating cash generation, supported by continued improvement in our billing processes and healthy collections, reflecting our focus on efficiency and disciplined working capital management.
+
+Overall, our third quarter performance reflects the same disciplined execution, efficiency gains and progress across our clinical and innovation programs that we've demonstrated throughout the year. Together with the scalability of our model, these results continue to validate our ability to deliver strong financial performance and sustained momentum through the rest of 2025 and beyond.
+
+Looking ahead, as Waleed mentioned before, we are narrowing our full year revenue guidance to a range of $595 million to $605 million. With only 1 quarter left in the year, this reflects our increased visibility and continued confidence in the strength of the business. At the midpoint, this represents roughly 36% growth over 2024, driven by expanding transplant volumes and sustained momentum across our service platform.
+
+In terms of gross margin, as mentioned in previous calls, we expect overall margins to remain around 60% over the coming years. This outlook reflects the various factors influencing both product and service margins beyond just mix. As we expand internationally and continue investing ahead of growth, we may experience some near-term pressure on margins. However, we expect those impacts to normalize and margins to recover as volumes scale across markets.
+
+In terms of capital allocation, our focus is on driving long-term value. We are concentrating our investments in 3 key areas: first, fueling growth through continued R&D investments and targeted expansion into selected international markets; second, building a stronger foundation by implementing systems that simplify and optimize processes across the business, improving efficiency and scalability as we grow; and third, enhancing our infrastructure to support long-term scalability, including our planned move to a new global headquarters to accommodate growth, ongoing upgrades to expand our manufacturing and product development capabilities, and our continued evaluation of strategic opportunities that could further strengthen our platform for the future. Collectively, these initiatives play an important role in preparing TransMedics for its next stage of expansion as we move towards the 10,000 transplant milestone and beyond and reinforce our global leadership in transplantation.
+
+Aligned with our focus on efficiency, we have also made progress on our double shifting pilot program to improve fleet utilization. Pilot hiring and training are advancing well, and we continue to expect early results in the first half of 2026. This insight will help us determine the appropriate fleet size and utilization model to maximize efficiency and capital returns. Recently, in October, we achieved our goals of owning 22 jets by the end of 2025. Looking ahead, we remain open to acquiring additional jets when the right conditions are in place, whether to enhance U.S. capacity or to support our international expansion efforts.
+
+Finally, with stronger top line performance, continued efficiency gains and disciplined spending, we expect to deliver at least 750 basis points of operating margin expansion for the full year of 2025 compared to 2024. While there could be additional upside, that will depend on our final sales performance and the timing of our investment plan for Q4 of 2025. We continue to expect operating margins to reach or approach 30% by 2028.
+
+While we may see some fluctuations as we expand internationally and invest ahead of growth, we remain confident in the long-term direction and scalability of our model. Our OCS technology, together with NOP platform and integrated logistics network, give us a clear advantage in expanding access to transplantation worldwide. With the scalability of our model and strong execution across the organization, TransMedics is well positioned to sustain growth, expand margins and deliver long-term value, while giving more patients a second chance at life.
+
+And with that, I'll turn the call over to Waleed for closing remarks.
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+Thank you so much, Gerardo. Overall, we're very pleased with our third quarter performance and the significant progress our team continues to make across multiple growth initiatives. Importantly, we are now laser-focused, as I stated earlier, on ending 2025 on a strong note and better position TransMedics for another strong growth year in 2026. It's becoming increasingly clear that TransMedics is uniquely positioned with unparalleled attributes that include OCS technology, NOP clinical services, the transplant logistics network and our proprietary NOP Connect digital platform. All of these collectively enable us to deliver unrivaled life-saving solutions to global transplant markets.
+
+Of course, none of this would have happened without our dedicated world-class TransMedics team that are working around the clock to make organ transplantation more accessible to patients who are waiting for a new lease on life in the form of a new organ. We are inspired and committed to continue our drive to expand the access to organ transplantation and improve post-transplant clinical outcomes of organ transplant therapy around the world.
+
+With that, I will now turn the call to the operator for Q&A. Operator?
+

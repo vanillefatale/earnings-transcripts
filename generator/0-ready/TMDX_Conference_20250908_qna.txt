@@ -1,0 +1,393 @@
+Question-and-Answer Session
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+I guess -- so maybe starting kind of big picture. It's been a strong year. There's a lot on the pipeline. Sitting here today and you had that original target of 10,000 organs. And how are you feeling about 1,000-foot view, the world and where the business is today, just big picture?
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+We feel great. We -- as Gerardo said, a few weeks back, we are already past the 10,000 target internally. We're already setting our eyes at 20,000, 30,000 transplants by 2030. Yes, we feel great, and we're looking forward to just continuing to execute.
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+If you think of the journey that you guys have been on getting to where you are now, is anything that sort of surprised you? I mean, relative strength of liver versus heart or how the aviation network integration is going versus how you originally envisaged the business? Does it look today like you thought it would?
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+It's a very interesting question. From where we are as a leader in the market, from a market share, from an impact on organ transplant, it could not be more exactly the same as we envisioned. However, the path to get there, we accelerated the NOP 5 years compared to what we originally planned. The vertical integration of aviation and logistics, again, we accelerated that quite a bit. So from an impact, it's exactly what we envisioned. How we got there? We got there a lot quicker with NOP and the vertical integration than with -- than we originally planned.
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+Yes. Makes sense. Q3 always has some seasonality associated with it, that's just always how it is. And I'll ask a sort of slightly new question. But as you know, people sometimes track the flights, and that's a dangerous thing to do, but there's an argument out there that, that's been fairly soft. On the other hand, it hasn't escaped people's notice that you made a fairly sizeable investment in TransMedics stock yourself very recently. How should we think about Q3 seasonality in the context of those things?
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+That's an excellent question. We've always said Q3 is transiently choppy, underscore the word transiently. We're not concerned about it. Obviously, the data is clear. Yes, we're -- quarter-to-quarter, it appears that national transplant volume is down. But when you look at the first half of the year this year versus the first half of the year last year, we're actually doing great nationally.
+
+So as we stated publicly, we expect seasonality in Q3. We expect that TransMedics will be impacted by that. But we think this is a transient impact and that we will finish the year strong and we're still focusing on executing the plan and the guidance as we outlined it at least as of today. We'll see where the quarter ends, there's still several weeks to execute.
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+Even transplant docs need a vacation at some stage, right?
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+Exactly. And as far as tracking the tails, it's an interesting way for someone who doesn't have much to do, but we are moving, as more and more people getting comfortable with how long organs could stay in OCS, we shifted ground transportation from 20% or lower to now approaching 40% of the total NOP missions. So yes, it's a secondary measure, but it doesn't tell the full story.
+
+Also, we still have 20% of the aviation requirement done by third party. So again, I'm not saying Q3 is not going to be impacted, I'm just saying that it is not the be all, end all, it's not the gold standard indication of how the business is doing. We still are a transplant company and that cases are the #1 priority for us, not necessarily the logistics piece of it.
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+Yes. How do you think about the -- it's obviously very different from organs in totality, but the existing, let's say, waitlist backlog? How do you want to -- can we get to a point where we make really meaningful progress pulling that back with DCD organs and DBD organs and just the whole infrastructure are getting a lot better.
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+Yes. Patrick, we're doing that today. We've been doing that for the last 2 years. We've seen many, many big institutions that wipe down their waitlist and they rebuild it again. As we've always said, it will happen. When we deliver more organs, the waitlist is a dynamic picture that gets replenished because the demand for organ transplant is not slowing down. It's growing. It's just the waitlist is -- you do not want to give false hope to patients in need. So that waitlist gets replenished as it gets depleted with additional organs.
+
+But we're still early in the journey of really flexing the capabilities of OCS to deliver more organ transplants in the U.S., and we're now beginning to expand outside of the U.S. to do the same thing.
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+To your point, how many of the missions end up being -- the NOP missions end up being sort of longer dated versus however you want to define it, shorter distance in that way proportionately?
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+We -- I need to refresh my memory with the exact numbers. But we are -- we do both missions because it's not just about how far the donor is anymore. It's about how the OCS has transformed the timing of the surgical procedure. So we get called for missions that the donor is an hour away, and we get called for missions -- like this week, we got called for donors in Hawaii and Alaska for recipients in the East Coast.
+
+So I would say 50-50, the thing that is so transparent and so obvious that OCS now is transforming the timing of the surgical procedure from being a middle-of-the-night [ emergency ] procedure to a more semi scheduled procedure in the morning hours. And that's, again, it's early innings, and it's going to continue to grow, and we're hoping that we can bring that success that we are experiencing in liver for heart and lung as well with our next-generation clinical programs.
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+It might be a sort of off-the-wall question, but the ability to have the surgery, just function to be a little bit more planned. Are there other efficiencies for the hospital side that, that enables like faster OR turnarounds that kind of thing, you know what I mean?
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+Of course, there's several. The -- shifting organ transplantation to a morning procedure has huge impact on hospital financial resource management. Rather than paying double time or more in the middle of the night, they pay regular time; two, they give the hospital the ability to do more than one transplant a day, which used to be something unheard of because you're doing it in the middle of the night, you can't have the team working around the clock. Today, we're seeing our centers doing two, three, sometimes four for a large volume center and doing them between 7:00 in the morning and 7:00 at night.
+
+That is huge, huge value to -- and that the hospital administrators are recognizing. It's not just about work-life balance of the clinical staff, it's really about the better quality of the surgical procedure and better financial management to the hospitals.
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+I mean, on the topic of financial management, for you guys, as the ground missions proportionally have gone up a little bit because you more flexibility on the organ transplantation time, how should we think about that capital investment spend of the aviation network and the spend on that side?
+
+
+Gerardo Hernandez
+CFO & Treasurer
+
+Yes, to get to our 10,000 transplant goal and beyond, we certainly will need an additional fleet. We are running our double shifting program where it's going to help us to really rightsize the fleet. And based on that, we'll be opportunistic, right? I mean if we see jets that are at the right price, we'll move forward. Otherwise, we'll hold on when we find the right opportunity. But we will need to get more jets to get to the 10,000 and beyond.
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+Yes. And just to build on what Gerardo said, I don't want the community to misunderstand what we're saying. There will always be -- the majority of the organs will always be flying, especially with OCS because we can go further distance. But we just saw that interesting shift from 20% to 40% or near 40% and we wanted to highlight that. But the majority still is flying. And the more the OCS will take more of the lion's share of the market, we will fly more as we continue to expand the outreach -- the reach of transplant programs to reach donors and organs across the country and across the world.
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+There's some areas of health care that I've seen over the years get maybe unfair undue amounts of, how to put it, emotional or political attention like nursing homes, dialysis and to some degree, organ transplants, right? It just gets that extra focus because there's an emotive quality associated with it. There's been a few articles in the press, not connected to you but to the DCD area in general. Like how do you feel about that? Do you think that has any impact at all? Or what should we think about when we read some of those articles?
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+Sure. Again, what we're seeing in the press is really a poor reflection of what really happened in the field. These cases happened 2 years ago in the early days of implementing DCD donation. There's a lot that we can talk about to improve. But these two cases are not really the be all, end all. We think that DCD donation is here to stay. The community is sophisticated enough to understand that these were in the early days when these OPOs were just trying to implement DCD programs. And with anything new, there's always some missteps.
+
+So we're not seeing a significant negative impact as we were afraid that it might result in because it's old and now DCD is here to stay and it's growing. And you can see it in the national numbers. DCD is nearly 50% of the donors in the United States. So -- and we hope that doesn't change.
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+Do you think there's an adequate understanding in the system and the administration that those organs, which ended up mostly saving people's lives wouldn't just not have been used before. Is that well understood?
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+I think it's very well understood. And I think the -- specifically in the HRSA and CMS side, they definitely understand that, and what they're trying to do is just to bring a higher level of accountability that didn't exist in the transplant system in the United States. And it's something to be applauded, but we got to be careful not to throw the baby with the bathwater and make sure that, yes, there are some areas of improvement, but the transplant system in the United States is one of the best in the world, so -- and that remains to be a fact. So...
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+When you're thinking about the industry, the transplant industry as a whole, obviously, there was a fairly big bit of news flow recently with Terumo coming in and buying one of your peers. What did you think when you first saw that news flow? What about -- what was the instinctive feeling on your end?
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+Well, as I stated before, I mean, first, congratulations to the team from OrganOx and the team from Terumo in this great deal. The three points that we thought about is, well, great, this proves that, that space that was very not well understood in the early days of TransMedics, now as we created a multibillion-dollar global opportunity that Terumo and others are focusing on. Two, it proves how undervalued TransMedics stock is today and justifies the investments I made personally in the TransMedics stock. And three, it shows that that transplant is living a period of renaissance. And again, it proves that we're in the early innings of this. This is really going to continue to grow. And we are fully committed to continue to innovate and be on the front end of this and drive the field forward as the pioneers that invented that field from [indiscernible].
+
+So we were very excited to see this. And again, we welcome Terumo to the field, and it keeps us honest from a competitive dynamic standpoint, and it will invest innovations into this field that we love.
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+Still a lot of DCD organs end up not getting used. Does it help having another player actively pushing because people always focus on the cannibalistic nature of competition, but there's also one of growing the market. How do you think about that interplay?
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+Yes, there is a lot of DCDs that are not being used, but we're not waiting for anybody to come in and allow them to be used. We're not stopping that. We are investing a lot to continue to innovate, and we are going to be the company that delivers innovations to continue to grow organ transplant. We're not waiting for Terumo or anybody else to tell us how to do the things we developed to make them be interested in the field.
+
+But obviously, competition keeps us -- it keeps us always on our toes and it's a healthy competition, and we love it. But we're not waiting for another company to show us how to do it. We are investing in our own programs to deliver more organ transplant, more DBD, better outcomes, more DCD organs and continuing to innovate on that front.
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+If I think about the -- one of the things that distinguishes you, one of the things, is the aviation network. And it's been what? 18 months, 2 years since you really started that...
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+2 years. Yes.
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+Yes, it's been -- yes, I remember the first one. And how has that gone versus your expectations? And also, where are we on the journey because there's definitely just like scale network effect of number of aircraft and number of missions and the liquidity of the capacity that you have? Like where are we at on that journey?
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+We're -- I would say we're in, I would say, the early phases of that journey. We're very excited that we finally have a critical mass to be able to operate with a network effect in the United States. Now as Gerardo said, we are experimenting with double shifting the planes or portion of our planes to really maximize the utilization of our fixed assets before we invest in more fixed assets or more aircraft, which we know we have to do. The question is, do we buy 10 more or 5 more. And the double shifting will give us the answer to that.
+
+What's exciting about this is the success of the NOP logistics and NOP clinical services in the U.S. Now it's catalyzing a lot of international interest that was dormant for a long time thinking that TransMedics is only selling medical technology. Today, when we see the success of TransMedics -- that TransMedics is achieving in the United States and the ability to manage a turnkey service, we're getting a lot of interest from international markets that -- wanting us to replicate that in their local geographies.
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+I definitely want to touch on OUS in a second. When we think of like missions in the middle of night, you're always thinking about the surgeon and how difficult that is. How easy is it to find and hire pilots? Because again, they're also having to do -- I mean, on the one hand, they're saving lives rather than flying billionaires around, which is kind of cool. But then it might always to be the middle of night, how hard is that?
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+Listen, our pilots, we love our pilots. They're very proud of their mission and mission of TransMedics. You can see them on LinkedIn, we were concerned about that dynamic. Today, we're approaching close to 150 pilots and growing rapidly. They're very, very motivated by the mission. And we can't speak highly enough of our pilots.
+
+We know it's not for everybody. We've been very transparent with our crew from day one when we made the acquisition of Summit, that this is different than flying high net worth individuals. But to our pleasant surprise, the mission is resonating well with our pilots, and we are not having -- knock on wood, we're not having any issues retaining them. Also, we are very competitive in our compensation package. And I promised our crew that they will be one of the top -- because of the demand, they're going to be one of the top compensated crew in the industry, and we're delivering on that promise.
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+The -- where are we at -- because obviously, NOP got rolled out, it's basically full coverage now. Where are we at in terms of the concept of pricing? I don't mean the absolute price level, I mean the distinguishing between service and products, actually just becoming an end-to-end thing where the customers are really thinking about it as just, I need an organ, this just a price rather than distinguishing between OCS and NOP?
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+I want to remind everyone that TransMedics is very unique in the fact that we have not increased our prices for the last 7 years, really since before the FDA approval. We intentionally priced NOP service at a nominal price to what the value we're delivering because we did not want that to be an impediment for adoption. And we have to charge fairly and actually, we are the most efficient pricing on logistics.
+
+So the total combination now, we feel very strongly to my original statement, a few calls back that we are delivering -- we believe wholeheartedly that we are delivering the most cost-effective transplants in the world because of the technology cost has not grown by a dime. We're delivering high, high value for fair pricing, the clinical service is appropriately priced, and the logistics is the most competitive pricing that we can do because we are managing the network.
+
+So I feel now it's not an issue for the centers that are adopting NOP, it's just they're ordering the service across all three levels. There's no distinguishing between, oh, I only want the clinical service but not the logistics, or not -- the logistics without clinical service that -- obviously, that won't fly.
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+Yes, it's basically all combined anyway.
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+Yes.
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+Okay. That makes sense. And we -- obviously, we can all see how Medicare works. We understand how that -- the mechanics are there and the coverage, but the bit that we will get much less visibility on is the commercial side. How are most of those contracts typically structured mechanistically? And where is the pricing relative today for the newer contracts versus Medicare...
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+Yes. I think for anyone who's tracking organ transplant, as you know -- you may know that transplant contract is one of the most coveted secrets in every transplant -- major transplant institution. And every institution thinks that they have the most generous, most competitive contracts on the planet. That's a fact that -- they think that way.
+
+From our side, the only comforting comment that we can offer is we wouldn't be here. We wouldn't show the success and adoption rates and the revenue growth that we have if the commercial payers don't understand the value of OCS. And we started with this, if you remember, from the early days of NOP, we've reached out to every commercial payer in the United States to make sure they understand what we're doing, why are we doing and potential economic impact on their network.
+
+And they all get it, including CMS by the way. CMS gets the value in spades. And in every interaction we have with the CMS team, they bring up when are you coming with the kidney. Kidney is very important for us. There's hundreds of billions of dollars being spent that we need to make sure that we get similar outcomes from OCS in the kidney that could change -- transform the financial profile of kidney transplants in the United States. So that gives us comfort and gives us confidence in what we're doing.
+
+But we're continuing to keep open dialogue, not just with payers, but also hospital administrators to make sure they understand the economic value. But they're clearly doing a great job reaching out to their third-party commercial payers and the contracts are being appropriately scaled. Otherwise, we wouldn't see the adoption and scale of adoption that we're seeing.
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+I'd love to pivot actually to some of the individual organs. Maybe starting with kidney. Kidney is obviously a little bit different because there's a known donor component to kidney relative to receiving [ liver ]. And so -- how much of that market do you think is just site-to-site known donor versus like it's going to have to be transported somewhere?
+
+And connected to kidney as well, President Trump had previously been a big supporter of increasing kidney donation on the record in his first term. I cover the [ dialysis] [indiscernible] does that play into, in effect, to how successful do you think it will be to get more donor registry?
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+So kidney is a huge, giant in organ transplant. It's the largest transplant organ by volume, the living donor kidney program, which you're focusing on only represents about 20% of the total volume. In the United States, there's approximately 23,000 to 25,000 deceased donor kidneys being transplanted every year. Those are the ones that we're targeting. And that's what gives us the focus on our kidney program to focus on those 20,000 to 25,000 deceased donors.
+
+Why are we doing kidney program with OCS today? Because today, kidneys have two major problems that are at all-time high, the post-transplant clinical outcomes are now approaching 50% to 55% delayed graft function rate, which means the kidneys that are transplanted are not functioning well and the patient is back on dialysis. It's costing significant amount of dollars and frankly, comorbidities to the patients.
+
+Two, the kidney utilization is at all-time low. We're only utilizing kidneys at a rate of about 60%. When I started TransMedics, the kidney utilization was 90%. So we need newer technologies that can better protect kidneys to maximize the utilization of kidneys and reduce the post-transplant delayed graft function. If we can achieve these two, there's no doubt in my mind that we will be a gold standard for preserving kidneys in the United States and around the world. And that's the target for the OCS kidney program.
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+The -- yes, I guess, dialysis is like $90,000 to $100,000 a year for a Medicare patient. So [indiscernible] longer to get payback on having better transplant on that side. Okay. That makes a ton of sense.
+
+When you're thinking about kidney and the rollout? Would that be incremental investment? Like is there anything different about that market that you would then have to do to activate it relative to what you've already done in lung and liver?
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+Yes. It's a much bigger market. Yes, the technology will be completely different. In fact, we always said, the kidney device will be the front edge of Gen-3 OCS technology, and I'll leave it at that because we haven't talked about it publicly yet. And we're working very hard right now to finalize the design and get that kidney device ready for clinical implementation by early '27. So 2026 is going to be a very busy year for our kidney team in TransMedics from a development standpoint.
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+Maybe then pivoting in towards liver, obviously, a critical organ for you guys. How are you finding things? Have you seen anything from incremental competition? How is the base market looking? How do you feel about the liver franchise?
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+We feel very good about the liver franchise. I think the market perceives anything that moves and does anything in the kidney as the case of death for TransMedics franchise. Guys, we are the lion's share of the kidney -- of the liver market in the United States, especially in DCD. And the DBD segment is growing.
+
+Competition is competition. You need to remember that this competition existed in the market from day one when we started. The reason why we've taken market share and maintaining market share is the outcomes. If we don't have the better outcomes, we wouldn't be here. Our rate of utilization is the highest reported in the entire history of liver transplant compared to the known competitors out there. With their -- our rate is 97.6%, their rate is somewhere between 50% and 65%. Our rate of the most complicated, the most costly post-liver transplant complication is 2.1%. Their rate is, just announced at the WTC, at 15% -- anywhere between 10% and 15% depending on the way they cut the data.
+
+So yes, there are competitors, but they are much inferior to the OCS with inferior outcomes, and that's why they're priced at a lower price. So we're not concerned about competition. We welcome competition. But our results speak for themselves. We're not threatened by any competitor. Sometimes we actually encourage centers that they bring up the price and say, "If I buy this x device, it's $5,000 or $10,000 cheaper than OCS." We say, "Go, try it, experience the outcome, you will come back." And that's exactly what happens.
+
+We need to be patient. We need to make -- we need to remember that we're early in this. We're only at 40%, 45% penetrated in the liver market. We still have a long way to go, and we're growing the top line in that market. So we just need to be patient. We stick to our knitting and continue to support our technology, and we continue to invest in innovation in that field because as you said earlier, Patrick, we're still losing 50% of the DCD livers today. We're going to be the company and the technology that can improve that rate of DCD donation. That will add significant top line growth to the liver transplant market as well. Do you see it differently, Gerardo?
+
+
+Gerardo Hernandez
+CFO & Treasurer
+
+Absolutely the same.
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+I guess the -- with transplants as well, the negative outcomes are much more visible for the surgeon than, I don't know, like putting a TAVR valve in and 15 years later it degrades. It's more immediately discernible. So to your point around switching a little more sensitive maybe. Yes, that's interesting.
+
+You did also mention earlier OUS. And I know it's less of a priority for frankly, all of us for many reasons, at least for your market. But I'd love to hear like which markets you feel would be particularly suited and the national systems that have reached out for you to help?
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+I will keep it high level. I think Europe is very important for us. The Middle East is very important for us. Australia is very important for us, and I'll leave it at that. And stay tuned. We want OUS to be a meaningful enough revenue that this group here focuses on, but we still have some work to do.
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+How much does geography matter? I can't imagine the politics of taking a liver from Switzerland to Germany. If you see what I mean, like the national borders. Is it just like large land mass that -- or are we just coming at it in the wrong way? And actually, all these countries have DCD organs that need to be used, and they're not getting used.
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+All of the above. All of the above. Many of the countries, except generally have DCD organs but we need to remember -- that they're not using. But we need to remember one important fact. European donors are a lot more challenging than U.S. donors. The average donor age in Europe is at least 10 years older. The complication of the donor dynamic with the high rate of smoking and high rate of hypertension, it's a much more challenging donor environment. So utilization rate is lower, the post-transplant outcomes are a lot worse than the United States and the management of transplant logistics is a lot more complicated because they don't have the critical mass to manage this.
+
+I was just in Italy meeting with the head of the equivalent of UNOS and he's telling me, "Waleed, every organ for me is a national allocation. I need planes. I need a logistics network like the NOP you have in the United States because I'm losing organs every day because I don't have access to transportation." So TransMedics and NOP can help many of the European geographies.
+
+One point you mentioned, Patrick, which is the sharing of organs among member states or nonmember states, this is actually something that's happening today. And if the OCS and NOP would to be active in Europe, that will increase sharing of organs across member states or nonmember states in Europe. It's something that's already happening because they want to maximize every organ to be transplanted because just the utilization rate is much lower than the U.S.
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+I've got a slightly hedge fund question for you guys, including on the guide, which is basically, you've obviously got the heart and lung trials that they're ongoing. And the numbers aren't small in terms of number of patients. How do we think about those volumes relative to your existing outlook and guide? Because -- are they incremental? Would they have been patients that you would have, to your mind, collected anyway, do you see what I mean? It's not a small number of...
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+Yes, they're not impacting the guide for this year. They're impacting the growth for next year for sure. Just the timing is not going to really make any meaningful impact in '25. But yes, the numbers are large, and they should impact growth for 2026.
+
+And no, we're not cannibalizing our existing market because if you look at the two trials, the lung is a complete -- it's -- literally, it's we're resurrecting the lung completely. So every organ is an incremental organ. On the heart, the bulk of the heart trial is an indication that we currently do not have in the United States. So these are incremental organs.
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+I just wanted it on paper. The -- I always -- I ask everybody this, but I feel like especially for your company, like the market focuses on very specific areas and very specific topics. I won't ask what you think people focus on too much because I think I already know the answer to that. But instead, it will be like, what do you focus on and you're surprised that other people don't bring up? Do you -- like what doesn't get the attention that you think is worth it?
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+I think, listen, if you're going to focus on every month-to-month variability, quarter-to-quarter variability in organ transplant, you should really -- you should not hold TransMedic stock, seriously. It's about looking at the long term, look at TransMedics at 20,000 or 30,000 organ under our wing in the United States alone and doubling that worldwide. That's what we're building in TransMedics. And yes, there will be seasonalities. There will be variabilities. There is a reason why TransMedics doesn't announce the full penetration except at year-end because we know there's variability, we've said that from day one. That's number one.
+
+Number two, we are still early. Yes, we've achieved significant success in a short period of time, but it's still early. We got to allow the time for the health -- the transplant market to digest the level of innovation that TransMedics has injected into it in the U.S. and watch what the potential is for OUS.
+
+We're very, very excited about where we are. And again, this is not just a word of mouth. My personal action in this quarter speaks for itself. And somebody asked me earlier today, "Waleed, why now?" Guys, I wanted to buy stock a lot earlier than now. But I was prohibited by corporate counsel because I made a 10b5-1 transaction last October, and I had to wait 6 months. Otherwise, I would trigger some bad thing. So...
+
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+Perfect timing, actually. Gerardo and Waleed, thank you so much.
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+Thank you, Patrick.
+
+
+Gerardo Hernandez
+CFO & Treasurer
+
+Thank you.
+
+
+Waleed Hassanein
+Founder, President, CEO & Director
+
+Appreciate it. Thank you.
