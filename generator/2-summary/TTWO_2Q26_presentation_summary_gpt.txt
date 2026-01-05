@@ -1,0 +1,62 @@
+[ 어닝콜 요약 ]
+
+매출 +31% YoY (GAAP net revenue $1.77B)
+- NBA 2K26, Mafia: The Old Country, Borderlands 4 등 주요 타이틀과 모바일 게임들의 강력한 실적이 성장 견인
+- 모바일 부문에서 Toon Blast, Match Factory!, Color Block Jam 등 인기 게임들이 높은 성장세 기록
+
+Sales by segment
+1) Net bookings $1.96B (YoY +15% 이상 추정)
+   - NBA 2K26 판매량 5백만 장 이상, 프리미엄 에디션 중심으로 AUR(평균 판매 가격) 사상 최고치 기록
+   - 모바일 게임 Toon Blast 26% 성장, Match Factory! 20% 성장, Rollic의 Color Block Jam 최고 기록 경신
+   - Grand Theft Auto Online은 예상대로 감소했으나 GTA+ 멤버십은 20% 이상 성장
+   - Mafia: The Old Country와 Borderlands 4 출시, Borderlands 4는 PC 최적화 문제 일부 있으나 강한 초기 반응
+
+GPM 약 55% 추정 (구체 수치 미공개)
++ NBA 2K26 및 모바일 게임의 높은 수익성
+- Borderlands 4 초기 최적화 비용 및 일부 마케팅 비용 증가
+
+OPM 증가 추세 (구체 수치 미공개)
++ 매출 성장에 따른 운영 레버리지 효과
+- 모바일 부문 사용자 확보 비용 및 성과 기반 보상 증가
+
+[ 가이던스 요약 ]
+
+Guidance FY2026 (updated)
+- Net bookings $6.4B-$6.5B (기존 대비 상향)
+- Recurrent consumer spending 약 11% 성장 (기존 4% 대비 상향)
+- Net revenue $6.38B-$6.48B (상향)
+- Cost of revenue $2.66B-$2.69B (상향)
+- Operating expenses $3.98B-$4.0B, 관리 기준 운영비 9% 증가 예상 (상향)
+- Operating cash flow 약 $250M (상향)
+- Capital expenditures 약 $180M (상향, 글로벌 사무실 건물 인수 영향)
+
+주요 변화
+- NBA 2K, 모바일 게임, Grand Theft Auto 시리즈 등 핵심 프랜차이즈의 강력한 실적과 기대감으로 가이던스 상향
+- 모바일 부문 사용자 확보 및 마케팅 투자 확대 반영
+- Grand Theft Auto VI 출시 일정 2026년 11월 19일로 연기, 완성도 제고 목적
+
+[ Comments 요약 ]
+
+NBA 2K26 성과 코멘트
+① NBA 2K26은 5백만 장 이상 판매되며 전작 대비 두 자릿수 성장 기록
+② 프리미엄 에디션 판매 호조로 평균 판매 가격 사상 최고치 경신
+③ 일일 활성 사용자 및 MyCAREER 일일 활성 사용자 각각 약 30%, 40% 증가
+④ 신규 기능과 경쟁 허브, 보상, 코스메틱 아이템 등이 소비자 참여와 지출 증가 견인
+
+모바일 사업 코멘트
+① Toon Blast 26% YoY 성장, 2년간 약 90% 성장하며 라이브 서비스 혁신 주도
+② Match Factory! 20% 성장, 슈퍼볼 파워업 등 신규 기능으로 참여도 및 수익성 개선
+③ Rollic의 Color Block Jam은 최고 매출 기록 경신, 누적 다운로드 38억 건 돌파
+④ 모바일 DTC(Direct-to-Consumer) 채널 강화, 신규 결제 솔루션 도입으로 글로벌 확장 및 마진 개선 기대
+
+신작 및 프랜차이즈 강화 코멘트
+① Borderlands 4는 출시 초기 PC 최적화 문제 있으나 강력한 플레이어 반응과 기록적 동시 접속자 수 달성
+② Mafia: The Old Country는 10년 만의 신작으로 프리미엄 내러티브 게임에 대한 강한 수요 확인
+③ Grand Theft Auto Online은 감소세이나 GTA+ 멤버십 20% 이상 성장하며 충성도 유지
+④ Grand Theft Auto VI는 2026년 11월 19일 출시 예정, 완성도 높은 블록버스터 기대
+
+재무 및 전략 코멘트
+① 2분기 순 예약액 $1.96B로 가이던스 상회, 연간 가이던스 14% 성장 반영해 상향 조정
+② 운영비는 모바일 사용자 확보 및 성과 보상 증가로 다소 상승했으나 매출 성장에 따른 레버리지 효과 기대
+③ 자본 지출 증가(약 $180M)는 글로벌 사무실 인수 영향이며, 현금 흐름 강세 지속 전망
+④ 장기적으로 핵심 프랜차이즈 확장, 신작 출시, 효율성 제고 및 신규 사업 기회 활용에 집중할 계획
