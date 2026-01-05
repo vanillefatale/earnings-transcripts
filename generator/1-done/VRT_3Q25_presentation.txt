@@ -141,3 +141,5 @@ Our 2025 execution demonstrates the strength of our strategy, and it positions u
 Looking ahead, our 800-volt DC portfolio planned for release in the second half of 2026 aligns directly with NVIDIA's 2027 rollout of their Rubin Ultra platforms. We are collaborating closely with NVIDIA to advance these platform designs. This is about staying ahead of where the industry is going, not just where it is today. What sets Vertiv apart is our system-level expertise across AC and DC power, combined with our thermal management and service capabilities, delivering solutions that address the complete power and cooling infrastructure. Our team understands that leadership means constantly raising the bar for tomorrow, and that's exactly what we will continue to do.
 
 So with that, I'll turn it over to Brika for questions.
+
+
