@@ -1,0 +1,167 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question comes from Chris Snyder with Morgan Stanley.
+
+Christopher Snyder
+Morgan Stanley, Research Division
+
+I wanted to ask on gross margin. Typically, every year, I think gross margin peaks in Q3 and then steps down in Q4 and again sequentially into Q1 on the volume declines. The last couple, those step-downs have been more significant, I guess, on a 6-month basis than typical, which I assume is the result of tariffs coming in and pressuring that margin rate. But I guess as we look forward, and it seems like that's now in the base, do you think the business is positioned to kind of deliver typical gross margin seasonality, including the step-up into the back half of the year? Any color on that would be helpful.
+
+Neil Ashe
+Chairman, President & CEO
+
+Chris, I'll start, and then Karen, please fill in. So first of all, I think you're really referring to ABL when you talk about that kind of gross margin profile. There is so much noise, I think, in the last, call it, 9 months, and that will work its way through the system over the next several. So I think a couple of things are going on. First of all, obviously, the tariffs, as you mentioned, those have been inconsistent. So I think the headline is they all happen on April 2, but that's not really what's happened. So there's been a series of different, the 232 tariffs, the steel, those sorts of things that have come in and out at different times. So we have then reacted to that by driving and accelerating productivity efforts, number one; and then number two, taking price strategically in different parts of the portfolio. That's what you see kind of cascading through the income statement today.
+
+As we look forward, and I say this not on a quarter basis, but on a longer-term basis, we're confident in our ability to continue to drive the margins at ABL. So as we've said, we're targeting 50 to 100 basis points of operating profit margin improvement per year. We're kind of right in that range now. It just so happened this quarter that we benefited more from OpEx than we did from gross profit margin. But we feel really good about where we're going. It doesn't mean that everything is going to go up every quarter, but we feel good about where we are.
+
+Christopher Snyder
+Morgan Stanley, Research Division
+
+I appreciate that. And then maybe just a follow-up on some of the ABL commentary. I think typically, we would see a pretty material step-down in ABL SG&A from Q4 to Q1 as the volumes drop. I know the OpEx there did come down, but it was pretty muted step down Q4 to Q1. Is that a function of some of these productivity investments you just referenced? Or are there other things that are kind of going on, on the OpEx line within SG&A?
+
+Neil Ashe
+Chairman, President & CEO
+
+Karen, do you want to take that?
+
+Karen Holcom
+Senior VP & CFO
+
+Yes. I think, Chris, overall, when we look at OpEx and you see what ABL did in the third quarter of last year, we started to take costs out. So when you look at the fourth quarter and the third quarter, that really is reflective of a lot of those realigning the work and taking some of the costs out of the business. So that's probably why it was a little bit more muted as we had already taken a good chunk of those costs out. But overall, we were focused on driving that operating profit margin improvement year-over-year, and they improved by 60 basis points despite the decline in gross profit that we talked about. So we feel really good about their performance this quarter.
+
+Operator
+
+Our next question comes from Tim Wojs with Baird.
+
+Timothy Wojs
+Robert W. Baird & Co. Incorporated, Research Division
+
+Maybe just my first question, Neil, you talked about some, however you want to call them, cross-sell deployments between ABL and AIS and both the fueling market and in some office markets. As you're kind of going through those types of sales and those types of RFPs and things, are there any sort of gaps in terms of the product portfolio that you're kind of finding that you need? Or do you feel like the products that you have in both of those spaces is kind of good for what you're trying to do in those verticals?
+
+Neil Ashe
+Chairman, President & CEO
+
+Yes. Great question, Tim. And let me start philosophically first, which is that it's our view, it's my view that cross-sell opportunities should be driven by customer. So if the customer realizes the benefit that we're providing across an entire solution, then that will get pulled through the channel as opposed to us trying to push it. So that's our philosophy. So as a result, when we start to talk about these things, it will be because customers have pulled them through, not because we're aggressively pushing them. So net-net, it might take a little bit longer, but we'll have a much more durable relationship with those customers.
+
+We chose to highlight the 2 that we highlighted. So first, within AIS, the cross-sell opportunity between the Distech portfolio and the Q-SYS portfolio, because it really was the first coming together of the basically inside the space and the management of the space. So that is for the benefit of autonomous room experience. So there are things we can add to that experience for sure, but they're not required to provide the solution that we provided.
+
+I think the Refuel is even at least as interesting in that, that now spans the entire company. So obviously, the Refuel effort was one that was started in the Lighting business. But quickly, you realize that the 2 most important things for the convenience store to get people into the store and then from a cost management perspective inside the store to manage the refrigeration inside the store. So Distech can provide that. I am super-pleased by how our teams have worked together to provide those solutions. So there are other things in that store, for example, that we don't provide, like digital signage, but basically, they're coming together.
+
+Now where we go from here are there are continued opportunities to expand those product lines. So maybe not for those specific examples, but for others that provide us both organic and inorganic opportunities to add to the portfolio of AIS over the next 2 years or so. And we're pretty enthusiastic about what those opportunities are.
+
+Timothy Wojs
+Robert W. Baird & Co. Incorporated, Research Division
+
+Okay. Super. And then I guess just a modeling question. Karen, I guess, in both of the segments, you talked about kind of executing on an elevated backlog over the last 2 quarters. I guess is the insinuation that, that is kind of behind you and maybe there's a little bit of slower growth over the next couple of quarters as you kind of -- the market -- the company kind of grows closer to the market versus the market plus backlog?
+
+Karen Holcom
+Senior VP & CFO
+
+Yes, Tim, I think that's right. Historical seasonality is going to be a little bit skewed as we look ahead to Q2 based on those accelerated orders and coming into the first quarter with a little bit of a higher backlog. So as we said in the prepared remarks, both ABL and AIS were favorably impacted from that higher backlog. And so the first half, I would say, is going to be more representative of normal seasonality, but Q2 could be down a little bit more than normal.
+
+Operator
+
+Our next question comes from Christopher Glynn with Oppenheimer.
+
+Christopher Glynn
+Oppenheimer & Co. Inc., Research Division
+
+Just wanted to talk about some of the divergence with ISN and DSN. They kind of diverged a little more than normal in the quarter. I know you called out the backlog strength really impacting the ISN space, but maybe some other factors beyond that, it was a pretty wide divergence.
+
+Neil Ashe
+Chairman, President & CEO
+
+Yes, Chris, I think that's a good call out and thanks for the opportunity to talk about them. When I look at the business, I tend to combine them. So if you look at them on a combined basis, that's basically exactly where we expect it to be. Accounts move between the 2 of them. So that's a little bit of the noise that exists there. But if you take them together, we're kind of exactly where we expect it to be.
+
+Christopher Glynn
+Oppenheimer & Co. Inc., Research Division
+
+Okay. I'll think about that and follow up later, but I appreciate that. And then a lot of talk about the gas station under canopy, the in-store opportunity there today and combining Q-SYS. You also acknowledge some things you don't have like the signage. And there is a player there that's pretty established with that broad channel strategy. So it was interesting you called out some of the differentiating factors and some of the lack. Where are you in terms of meeting your penetration goals there? Is this a bit of a dog fight? Or are you availing some clear runway?
+
+Neil Ashe
+Chairman, President & CEO
+
+I would say that we're really pleased with our entrance into the market. And taking a step back, this is what I wanted our company to demonstrate, to itself first and to everyone else second, is that we can identify an organic opportunity that has some size, and we can develop the product portfolio, the go-to-market strategy and the entrepreneurial spirit to go attack a new vertical like that. So by all metrics, we're succeeding in that effort. So we're not going to be the only player in that market, and that market is a comparatively small part of our company. It's decidedly not our whole company.
+
+But this is a muscle that we want to build, so that we can apply it here where we're doing really, really well. And in other areas like health care, where we're doing well, like sport lighting, where we're starting to come in, and others as we go along. So I think the real read here is our ability to attack an area that was not initially in our purview or not historically in our purview and to build both the business model, the product portfolio, the go-to-market that's necessary to be successful there, and that's kind of what's happening.
+
+Operator
+
+Our next question comes from Michael Francis with William Blair.
+
+Michael Francis
+William Blair & Company L.L.C., Research Division
+
+This is Mike on for Ryan. I wanted to start with just a cleanup. I saw there wasn't the guidance in the PowerPoint. Is there anything that's changed in the outlook?
+
+Karen Holcom
+Senior VP & CFO
+
+Yes. Michael, in the presentation that Charlotte will post after the call, you will see just the same slide with the sales and EPS guidance that we provided in the fourth quarter. So no, nothing changed there.
+
+Michael Francis
+William Blair & Company L.L.C., Research Division
+
+Okay. Understood. And then I wanted to talk about gross margins on the AIS side. Would 60% were to be considered a ceiling? Or do you think there's more you can do there?
+
+Neil Ashe
+Chairman, President & CEO
+
+I think we're good -- Mike, I think we feel good about 60%. So as we continue to grow, we will focus on 2 things. One is that the level of margin in that business demonstrates the strategic value of the controls that we provide. So that's a recognition, I think, of the strategic importance of the business there. As we add products to that portfolio, we may choose to add some additional business models that maybe are slightly lower margin, which will balance it out a little bit. But net-net, we feel really good about kind of where that is.
+
+Michael Francis
+William Blair & Company L.L.C., Research Division
+
+Okay. And then I wanted to hear -- it seems like end markets haven't changed at all. I wanted to hear if anything has changed in the quoting environment with that backdrop? And any color from the channel would be helpful.
+
+Neil Ashe
+Chairman, President & CEO
+
+Yes. First, on the lighting side, I would say that as we've said for, what, the last, Karen, 3 quarters, it's kind of a tepid lighting environment. We would like the lighting market to be a little bit stronger. All indications we have are that we are at least holding, if not accelerating our position in the market. So it is where it is. And as I'll point out, I'd like to point out, you can't build a space or touch a space without touching the lighting. So kind of lighting is all spaces at this point, and we are obviously the best performing player in those spaces. So yes, would we like the lighting market to be a little bit stronger? We would. And at some point, it will, and we'll benefit from that.
+
+On the AIS side, we've got disruptive businesses there that are effectively growing through market environments because of their ability to take share from others. So there, they continue to perform despite the environment. And that doesn't mean they're going to be up as much as they are this quarter every quarter, but we feel good about kind of the trajectory that we're on in AIS.
+
+Operator
+
+Our next question comes from Jeffrey Sprague with Vertical Research.
+
+Jeffrey Sprague
+Vertical Research Partners, LLC
+
+I wanted to get your thought on tariffs. We have the Supreme Court ruling coming up on Friday, who knows what we get. But if tariffs were somehow ruled illegal, do you think you'd have to roll back price as tariffs came back? How do you think the channel would respond to that? Or is there a possibility to sort of get some spread there if we have a dramatic change in tariff regime?
+
+Neil Ashe
+Chairman, President & CEO
+
+Yes. Good question, Jeff. So let's take a step back, and I'll tell you what our working kind of hypothesis is and then what I think the practical implications of that are. Our working hypothesis is that things will stay mostly the same. So however it plays out, I'm not a legal expert, so I can't predict what the ruling will be or how they will rule, but it just feels like if there were a completely adverse ruling that there would be some counterbalance that would keep things roughly the same. The administration would have an alternative or that would be written in some way that things are mostly the same.
+
+But let's go down the path of they are ruled, they are disallowed in some way and then we're there. The question then becomes, okay, so as the practical matter, we sell our product to a distributor. The distributor sells that product to the contractor, the contractor effectively sells that to the owner of the project. That's not the sales process, but that is the flow of revenue. So if we were to somehow kind of realize a benefit from a tariff like refund, who would we give it to? So as you push that down the slide, then the distributor -- we would have to assume that if we did, the distributor would give it to the contractor and that the contractor would give it to the building owner. I just don't think that seems reasonable.
+
+So now if you look forward, then the second half of our expectation is that there would be a new market that everyone was adapting to, and we would need to adapt to that market from that point forward just like everybody else was. And we feel good about the dexterity we've demonstrated and our ability to kind of respond to that versus the rest of the industry.
+
+Jeffrey Sprague
+Vertical Research Partners, LLC
+
+Yes. No, it could be quite interesting if that happens. And then just sort of a quick one back on sort of the backlog normalization. Obviously, not a big backlog business in the grand scheme of things. But are backlog sort of in a normal spot now relative to what your top line guide is? Are we below normal around this kind of tepid outlook that you're talking about?
+
+Neil Ashe
+Chairman, President & CEO
+
+Yes. I think we're -- Jeff, now, like you and I have been having this conversation for now 5 years. And when I said 5 years ago, I wasn't -- what was normal was not normal, and then we've changed through that. I would say that the industry and we got accustomed to higher backlog levels through the post-COVID period, through kind of tariffs, price increases and whatnot. So we're now at backlog levels which are more consistent with what they were before all of those things happened. And therefore, our order rate is more consistent with our quarterly performance.
+
+And that's what Karen was indicating. So there's still some noise from the price markets in the third quarter and the fourth quarter, which affected this, which is why she said we probably will see more seasonality in the second quarter, especially in the lighting business than we have historically. We're comfortable operating in both environments, but we would like the lighting market to be a little bit stronger.
+
+Operator
+
+And I'm showing no further questions in queue at this time. I'd like to turn the call back to Neil Ashe for any closing remarks.
+
+Neil Ashe
+Chairman, President & CEO
+
+So I think we had a really good first quarter. So both of our businesses continue to perform. ABL is clearly the best-performing lighting business in the world. We've demonstrated through our growth algorithm that we can separate ourselves from the market, and we feel good about kind of the long-term opportunity there to, a, continue to grow; and b, continue to improve margins. With AIS at both Atrius Distech and QSC, we have disruptive technologies, which are taking share in their marketplaces. Over the long term, we have great organic and inorganic opportunities there. So we're excited about those. So thank you for spending time with us this morning, and we'll look forward to talking to you again in another quarter.
+
+Operator
+
+This concludes today's conference call. Thank you for participating. You may now disconnect.

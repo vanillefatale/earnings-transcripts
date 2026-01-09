@@ -1,0 +1,69 @@
+Acuity Inc. (AYI) Q1 2026 Earnings Call January 8, 2026 8:00 AM EST
+
+Company Participants
+
+Charlotte McLaughlin - Vice President of Investor Relations
+Neil Ashe - Chairman, President & CEO
+Karen Holcom - Senior VP & CFO
+
+Conference Call Participants
+
+Christopher Snyder - Morgan Stanley, Research Division
+Timothy Wojs - Robert W. Baird & Co. Incorporated, Research Division
+Christopher Glynn - Oppenheimer & Co. Inc., Research Division
+Michael Francis - William Blair & Company L.L.C., Research Division
+Jeffrey Sprague - Vertical Research Partners, LLC
+
+Presentation
+
+Operator
+
+Good morning, and welcome to the Acuity Fiscal 2026 First Quarter Earnings Call. [Operator Instructions] Please be advised that today's conference is being recorded. I would now like to hand the conference over to Charlotte McLaughlin, Vice President of Investor Relations. Charlotte, please go ahead.
+
+Charlotte McLaughlin
+Vice President of Investor Relations
+
+Thank you, operator. Good morning, and welcome to the Acuity Fiscal 2026 First Quarter Earnings Call. On the call with me this morning are Neil Ashe, our Chairman, President and Chief Executive Officer; and Karen Holcom, our Senior Vice President and Chief Financial Officer. Today's call will include updates on our strategic progress and on our fiscal 2026 first quarter performance. There will be an opportunity for Q&A at the end of this call.
+
+As a reminder, some of our comments today may be forward-looking statements. We intend these forward-looking statements to be covered by the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, as detailed on Slide 2 of the accompanying presentation. Reconciliations of certain non-GAAP financial metrics with their corresponding GAAP measures are available in our 2026 first quarter earnings release and supplemental presentation, both of which are available on our Investor Relations website at www.investors.acuityinc.com.
+
+Thank you for your interest in Acuity. I will now turn the call over to Neil Ashe.
+
+Neil Ashe
+Chairman, President & CEO
+
+Thank you, Charlotte, and thank you all for joining us today. We delivered strong performance in our first quarter of fiscal 2026. We grew net sales. We expanded our adjusted operating profit and adjusted operating profit margin, and we increased our adjusted diluted earnings per share. We generated strong cash flow and allocated capital effectively. Acuity Brands Lighting performed well in a tepid lighting market. This is the result of the cumulative effect of our strategy to increase product vitality, elevate service levels, use technology to improve and differentiate both our products and how we operate the business, and to drive productivity.
+
+Our product vitality efforts continue to deliver value for our customers and for us. This quarter, we launched our new EAX Area Luminaire product family by Lithonia, an outdoor luminaire that can be used in any environment, from walkways to large parking spaces. EAX is available in our Design Select portfolio and has over 60 configurable options, including an option to embed our nLight controls. This makes it easier for our agents to choose the right option for our customers and ensures flexibility for multiple types of projects.
+
+ABL is winning in new markets through the combination of our luminaires and electronics. Interestingly, our Nightingale brand won several 2025 Nightingale awards by Healthcare Design Magazine because of our patient-centric approach to product design. Our Nightingale solutions are engineered with the entire patient journey in mind, creating an environment that supports medical teams while ensuring patient and visitor comfort. For example, the Attend sconce and the Assure nightlight deliver functional low-level illumination that supports patient sleep while enabling caregivers to perform essential duties.
+
+In the Refuel segment, we continue to expand and upgrade our lighting solutions. We initially entered the market with the development of our canopy lighting products. In this quarter, we began delivering a comprehensive offering by incorporating AIS products, including our Atrius software and Distech controls into the Refuel solution. By addressing the canopy lights outside to refrigeration controls in the back of the convenience store and everything in between, we are creating value throughout the location.
+
+The industry continues to recognize the strength of our products. This quarter, several products in our portfolio were awarded GRANDS PRIX DU DESIGN Awards and LIT Lighting Design Awards. Two products recognized by both include the Cyclone Lupa, a contemporary outdoor luminaire that focuses on pedestrian safety and security in public spaces like campuses, parks and city streets. And the Eureka segment, a slim minimalist linear LED pendant light designed for a variety of indoor commercial and hospitality environments.
+
+Now switching to Acuity Intelligent Spaces, which continues to deliver strong performance. Through Atrius, Distech and QSC, we have unique and disruptive technologies that are driving productivity for people experiencing spaces and for the people who are providing those spaces. Spaces that range from amusement parks to theaters, university campuses to health care facilities, sports stadiums to your office. Atrius and Distech control the management of the space and QSC manages the experiences in the space. Over time, we will use data from both to enhance productivity outcomes through data interoperability. Taken together, this is how we can make spaces autonomous.
+
+This quarter, we began to change customer outcomes by combining our Distech Resense Move and our Q-SYS platform. Resense Move is a multisensor device that uses thermal, light, sound, air quality, temperature and humidity sensors with AI at the edge to help users understand how their space is being used. The data collected by the Resense Move drives changes in the room, including the ability to adjust the screens, cameras and microphones from our Q-SYS platform. Q-SYS Reflect is then able to monitor outcomes and performances of the devices within the room. We are then able to further layer lighting controls and shade controls into the solution for an autonomous room experience. We demonstrated this solution to a large multinational technology company in our experience center and they chose to implement it throughout their headquarters.
+
+AIS is also being recognized for the strength of their product portfolios. During the quarter, Atrius facilities was named a winner in the smart buildings category of the 2025 Facilities Net Vision Awards. Our Q-SYS Fullstack AV Platform won the National Systems Contractors Association's Excellence in Product Innovation Award in the category of Best Centralized AV Platform for Command and Control. And our Q-SYS Core 24f processor was recognized with the ProAV Best in Market 2025 Award.
+
+Before I turn the call over to Karen, I want to reiterate that both ABL and AIS are performing well in a challenging market. In Acuity Brands Lighting, we continue to experience a tepid lighting market. The market appears to be waiting for clarity around interest rates, inflation and policy. In Acuity Intelligent Spaces, Atrius, Distech and QSC are working well together, both from a customer perspective and an operational perspective. Our AIS business is strategically differentiated and positioned for value creation. We continue to control what we can control, and we are confident in the long-term performance of both the lighting and spaces businesses.
+
+Now I'll turn the call over to Karen, who will update you on our first quarter performance.
+
+Karen Holcom
+Senior VP & CFO
+
+Thank you, Neil, and good morning, everyone. We had a strong start to fiscal 2026. We grew net sales, improved adjusted operating profit and adjusted operating profit margin, and increased our adjusted diluted earnings per share. For total Acuity, we generated net sales of $1.1 billion, which was $192 million or 20% above the prior year. This was driven by growth in both business segments and includes 3 months of QSC sales.
+
+During the quarter, our adjusted operating profit was $196 million, up $38 million or 24% from last year. Adjusted operating profit margin during the quarter expanded to 17.2%, an increase of 50 basis points from the prior year. Our adjusted diluted earnings per share was $4.69, which was an increase of $0.72 or 18% over the prior year. ABL delivered sales of $895 million, an increase of $9 million or 1% versus the prior year, primarily as a result of growth in the independent sales network. As we mentioned last quarter, the independent sales network benefited from an elevated backlog that resulted from orders that were accelerated in advance of price increases in the back half of fiscal 2025. The higher backlog favorably impacted the fourth quarter of last year and the first quarter of this year. Adjusted operating profit increased $6 million to $160 million. This improvement was driven by our efforts to lower operating expenses. We delivered adjusted operating profit margin of 17.9%, which was up 60 basis points compared to the prior year.
+
+Now moving to Acuity Intelligent Spaces. Sales for the first quarter were $257 million, an increase of $184 million with the inclusion of 3 months of QSC. Both Atrius and Distech combined and QSC grew in the mid-teens this quarter. Our AIS business also benefited from an elevated backlog that resulted from orders that were accelerated in advance of price increases in the back half of fiscal 2025. The higher backlog favorably impacted the fourth quarter of last year and the first quarter of this year. Adjusted operating profit in Intelligent Spaces was $57 million with an adjusted operating profit margin of 22%, which was up 100 basis points compared to the prior year.
+
+Now turning to our cash flow performance. In the first 3 months of fiscal 2026, we generated $141 million of cash flow from operations, which was $9 million higher than the same period in fiscal 2025, primarily due to higher profitability. During the quarter, we allocated $28 million to repurchase over 77,000 shares at an average price of around $357. We additionally repaid another $100 million of our term loan during the quarter and have now repaid half of the $600 million of debt used to finance the QSC acquisition.
+
+In summary, we started the year with strong performance. We grew net sales, improved margins and increased adjusted diluted earnings per share. We generated strong cash flow from operations and allocated capital effectively.
+
+Thank you for joining us today. I will now pass you over to the operator to take your questions.
+

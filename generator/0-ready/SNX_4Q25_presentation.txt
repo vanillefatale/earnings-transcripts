@@ -1,0 +1,110 @@
+TD SYNNEX Corporation (SNX) Q4 2025 Earnings Call January 8, 2026 9:00 AM EST
+
+Company Participants
+
+Nate Friedel - Head of Investor Relations
+Patrick Zammit - CEO, President & Director
+David Jordan - CFO & EVP
+
+Conference Call Participants
+
+Keith Housum - Northcoast Research Partners, LLC
+Ruplu Bhattacharya - BofA Securities, Research Division
+Erik Woodring - Morgan Stanley, Research Division
+David Vogt - UBS Investment Bank, Research Division
+Adam Tindle - Raymond James & Associates, Inc., Research Division
+David Paige Papadogonas - RBC Capital Markets, Research Division
+Joseph Cardoso - JPMorgan Chase & Co, Research Division
+Vincent Colicchio - Barrington Research Associates, Inc., Research Division
+
+Presentation
+
+Operator
+
+Good morning. My name is Jeannie, and I will be your conference operator today. I would like to welcome everyone to the TD SYNNEX Fourth Quarter and Full Year Fiscal 2025 Earnings Call. Today's call is being recorded. [Operator Instructions]
+
+At this time, for opening remarks, I would like to pass the call over to Nate Friedel, Head of Investor Relations at TD SYNNEX. Nate, you may begin.
+
+Nate Friedel
+Head of Investor Relations
+
+Thank you. Good morning, everyone, and thank you for joining us for today's call. With me today is Patrick Zammit, our CEO; and David Jordan, our CFO. Before we continue, let me remind you that today's discussion contains forward-looking statements within the meaning of the federal securities laws, including predictions, estimates, projections or other statements about future events, including statements about our strategy, demand, plans and positioning, growth, cash flow, capital allocation and stockholder return as well as our financial expectations for future fiscal periods. Actual results may differ materially from those mentioned in these forward-looking statements as a result of risks and uncertainties discussed in today's earnings release in the Form 8-K we filed today in the Risk Factors section of our Form 10-K and our other reports and filings with the SEC. We do not intend to update any forward-looking statements.
+
+Also, during this call, we will reference certain non-GAAP financial information. Reconciliations of GAAP to non-GAAP results are included in our earnings press release and the related Form 8-K available on our Investor Relations website, ir.tdsynnex.com. This conference call is the property of TD SYNNEX and may not be recorded or rebroadcast without our permission.
+
+I will now turn the call over to Patrick. Patrick?
+
+Patrick Zammit
+CEO, President & Director
+
+Thank you, Nate. Good morning, everyone, and thank you for joining us today. We are pleased to report another set of record results that complete an outstanding year for our organization. Over the full year, our business, excluding Hyve, increased its gross billings in the high single digits year-over-year, while improving both its gross margin and operating margin profile. Additionally, Hyve grew its gross billings double digits and well above our expectations and has made further progress expanding its set of offerings and diversifying its customer base.
+
+Turning to the fourth quarter. Our non-GAAP gross billings of $24.3 billion represented an increase of 15% year-over-year or 13% in constant currency and non-GAAP diluted earnings per share of $3.83 represented an increase of 24% year-over-year. Both of these established new records for our company, demonstrating the value of our diversified business model and the successful execution of our long-term strategy.
+
+Within TD SYNNEX, excluding Hyve, our momentum continued with gross billings increasing 10% year-over-year and gross profit and operating income each also increasing by double digits. Hyve experienced another strong quarter with gross billings increasing by more than 50% year-over-year and ODM/CM gross billings increasing 39% year-over-year, driven by sustained broad-based demand in cloud data center infrastructure from our hyperscaler customers. Hyve's operating income also grew meaningfully year-over-year and continues to become a larger portion of our overall mix.
+
+Our results reflected strength across all regions and key technologies. North America continued to grow steadily, supported by demand across each of our key customer segments, prioritization of increased security requirements and ongoing shift towards complex multi-cloud architectures. Europe grew faster than we anticipated as customers prioritized infrastructure software, PC device upgrades and modernization of aging infrastructure despite the slower macroeconomic backdrop.
+
+As we've seen over the last few quarters, Asia Pacific and Japan remain a key growth engine, driven by rapid cloud expansion, PC device upgrades, accelerating AI development and strong demand from fast digitizing economies across the region. Lastly, our growth story in Latin America remains encouraging, delivering double-digit top line momentum with strong engagement across our portfolio and customer base.
+
+Our performance is a direct outcome of executing on the strategy we outlined at Investor Day. As we enter 2026, we are sharpening execution around 4 focus areas that will define what we want to be known for. We will start with omnichannel engagement. Through disciplined investments in our PartnerFirst digital portal, we've built a frictionless interface that meets customers wherever they transact and simplifies the experience end-to-end. By pairing seamless digital engagement with our personalized relationship-driven support, our highly skilled teams help customers navigate complexity and move beyond transactions, earning the role of trusted adviser and forging long-term partnerships.
+
+In Q4, we enhanced our PartnerFirst digital bridge functionality with a new AI assistant that enables customers to transact in a self-service mode 24/7 in their working environment. This enhancement transforms how our customer sales teams access and act on information to support their end customers in real time. Our customers have already attested that the new capability has saved employees in sales and product procurement operations multiple hours per day.
+
+The industry is also recognizing our strength in this area. During the quarter, we were awarded U.K. Cloud Marketplace of the Year by CRN. We received this honor due to the differentiated quality of our platform, along with our leadership in customer enablement and technical training, helping our customers navigate what has been a transformative year in this space and ultimately accelerating growth throughout our cloud portfolio.
+
+The next strategic pillar is specialized go-to-market. Our collection of specialist approach combines deep technical expertise with a deep understanding of our customers' go-to-market strategy and needs. This dual competency accelerates technology adoption and positions us as a growth catalyst for our vendors and customers. It's a differentiated capability that strengthens stickiness and expands our wallet share in high-growth segments.
+
+Our Q4 accomplishments within this pillar include winning a global security RFP that will enable us to expand our portfolio in existing geographies with large enterprise customers, which is a segment that has not historically purchased through TD SYNNEX. We were chosen due to our global presence and deep security specialization as well as for our ability to unlock substantial cost savings for the vendor while simultaneously improving customer experience. We expect these customers will increasingly leverage our broader product and service portfolio over time, enabling them to consolidate spend and capture additional growth in the market.
+
+Our emphasis on specialization has been recognized by our vendors as well. In Q4, Cisco named TD SYNNEX as Distributor of the Year globally as well as regionally in the Americas and EMEA. These awards reflect how our specialization, deep alignment with Cisco and innovation across markets consistently deliver real business outcomes for our customers.
+
+Our next pillar is focused on delivering best-in-class enablement. We accelerate time to market by equipping our customers with advanced training, certification programs, enablement tools and precise resources and expertise tailored by technology and customer segments. This approach reduces ramp-up time, strengthens customer capabilities and drives faster adoption of high-value solutions, which ultimately improves productivity and expands our share of wallet.
+
+During Q4, we announced AI game plan, a new customer-led workshop experience designed to help their sales teams translate AI opportunities into real-world business outcomes for their end customers. We are just at the beginning and we'll continue turning our vast data lake and algorithms into industry-leading scalable digital services that enhance experiences, lower costs and unlock new revenue and efficiency opportunities for our existing customers.
+
+These strategies work in concert to support and substantiate our 5 strategic pillar, expanding our brand visibility. Our brand promise, making IT personal describes our role as an indispensable partner in the technology channel. We aim to be visible, personal and influential at every stage of the customer journey, reinforcing trust and driving loyalty. This sustained presence amplifies our market relevance and underpins long-term growth. By bringing our strategy to life every day across these 4 pillars, we are continuing to strengthen our competitive position as the strategic business partner that our partners can rely on to create more opportunities that deliver sustainable long-term growth.
+
+Moving to Hyve. We continue to experience sizable growth benefiting from broad-based demand for cloud data center infrastructure across our hyperscaler customers. And we believe that we are very well positioned to continue to get more opportunities that showcase our ability to support a wide breadth of programs for our customers. Our customers are turning to us for, among other things, our production flexibility, favorable U.S. footprint, ability to co-develop complex solutions and secure supply chain. These differentiators position us to continue to be a trusted partner in the assembly and deployment of complete rack-level systems across all market environments through time.
+
+Looking ahead, I am bullish on the long-term value proposition of Hyve and IT distribution. We believe the untapped market opportunities in front of us in both businesses remain substantial as we aim to service a greater portion of the overall IT market through time.
+
+Now I'll pass it to David to go over the financial performance and outlook in more detail. David?
+
+David Jordan
+CFO & EVP
+
+Thanks, Patrick, and good morning, everyone. We're pleased to report a strong close to our fiscal year with fourth quarter results that exceeded the midpoint of our guidance across all key metrics. Gross billings increased 15% year-over-year, reflecting broad-based strength across both distribution and Hyve. Our gross operating margins expanded year-over-year, driven by a combination of operational efficiencies, favorable mix and disciplined margin management. Non-GAAP earnings per share increased 24% year-over-year, delivering meaningful value for shareholders and underscoring the strength and value of our business model.
+
+Moving into the details. Our Endpoint Solutions portfolio increased gross billings 12% year-over-year due to continued demand for PCs driven by the ongoing Windows 11 refresh and sustained demand for premium devices, which has continued to be a tailwind. Globally, PCs have now increased double digits for 4 consecutive quarters, and we expect continued momentum heading into the initial months of 2026.
+
+Our Advanced Solutions portfolio increased gross billings by 17% year-over-year and 8% year-over-year when excluding the impact of Hyve, driven by meaningful growth in cloud, security, software and other strategic technologies. Hyve, which is reported within the Advanced Solutions portfolio, increased more than 50% year-over-year, primarily due to strength in programs associated with server and networking rack builds.
+
+In the quarter, there was approximately 29% reduction from gross billings to net revenue, which was in line with expectations. Our net treatment as a percentage of billings continues to remain elevated versus the prior year, primarily driven by a higher mix of software within distribution and increases in certain Hyve programs. As a result, net revenue was $17.4 billion, up 10% year-over-year and above the high end of our guidance range. Gross profit increased 15% year-over-year to $1.2 billion. Gross margin as a percentage of gross billings was 5%, which was flat year-over-year.
+
+Non-GAAP SG&A expense was $698 million or 3% of gross billings. Our cost to gross profit percentage, which we define as the ratio of non-GAAP SG&A expense to gross profit was 58% in Q4, an improvement of approximately 100 basis points year-over-year, demonstrating our progress toward managing costs as a percentage of gross profit down over time.
+
+Non-GAAP operating income increased 18% year-over-year to $497 million. Non-GAAP operating margin as a percentage of gross billings was 2.04%, representing a 5 basis point improvement year-over-year. Interest expense and finance charges was $88 million, an increase of $1 million year-over-year. Our non-GAAP effective tax rate was approximately 24% compared to 21% in the prior year. Total non-GAAP net income was $313 million and non-GAAP diluted earnings per share was $3.83, an increase of 24% year-over-year and another all-time high for TD SYNNEX.
+
+Free cash flow was $1.4 billion, driven by strong earnings growth and meaningful improvements in our cash conversion cycle quarter-over-quarter. This also brings our annual free cash flow to $1.4 billion, which was well ahead of our expectations. FY '25 marks the third consecutive year that we have generated annual free cash flow of over $1 billion, demonstrating our commitment to sustainable cash generation.
+
+Within the quarter, we returned $209 million to shareholders with $173 million in share repurchases and $36 million in dividend payments. In total, we returned $742 million to shareholders this fiscal year, bringing our cumulative return to shareholders over the last 3 years to over $2.2 billion. This is approximately 61% of our free cash flow during that same time period within the medium-term range of 50% to 75% outlined at our Investor Day, underscoring our belief in the strength of our business and the commitment to creating long-term shareholder value. As of November 30, we have $1.2 billion remaining on our share repurchase authorization.
+
+Net working capital was $2.9 billion, down approximately $300 million from the prior year. Our gross cash days were 12 days, a 2-day improvement from the prior year, which I'll talk more about shortly. We ended the quarter with $2.4 billion in cash and cash equivalents and debt of $4.6 billion. Our gross leverage ratio was 2.4x and our net leverage ratio was 1.1x.
+
+You'll note that our cash position was elevated at year-end. This is the result of 2 primary factors. First, we successfully completed a new debt issuance during the quarter, which will be used to pay off $700 million of debt that matures in August of 2026. Additionally, as you'll see in our working capital, our teams across both distribution and Hyve did an outstanding job driving cash flow and made meaningful improvements toward optimizing the return on capital for both businesses. At the same time, it's important to remember that the balance sheet is a snapshot at a single point in time. At year-end, we had a few large receipts come in just before period end that would have normally fallen into the next quarter. We estimate Q4 benefited a few hundred million dollars, which will normalize in FY '26.
+
+Going forward, we continue to be laser-focused on generating sustainable free cash flow and improving our return on invested capital.
+
+For the current quarter, our Board of Directors has approved a cash dividend of $0.48 per common share that will be payable on January 30, 2026, to shareholders of record as of the close of business on January 16, 2026.
+
+Moving on to our outlook. For the first quarter of fiscal '26, we expect non-GAAP gross billings in the range of $22.7 billion to $23.7 billion, representing an increase of approximately 12% at the midpoint. Our outlook is based on a euro to dollar exchange rate of $1.16. Net revenue in the range of $15.1 billion to $15.9 billion, which translates to an anticipated gross to net adjustment of 33%. Non-GAAP net income in the range of $243 million to $283 million. Non-GAAP diluted earnings per share in the range of $3 to $3.50 per diluted share based on a weighted average shares outstanding of approximately 80.1 million.
+
+We are anticipating a cash outflow in Q1, in part due to typical seasonality of the business and due to the timing impacts that benefited Q4, which we described earlier. We expect that our cumulative free cash flow over fiscal '25 and fiscal '26 will be in line with our medium-term framework of 95% non-GAAP net income to free cash flow conversion.
+
+While we are not providing full year guidance today, our long-term outlook remains consistent with the multiyear compounded annual growth rates that we outlined at our Investor Day earlier this year. We'll remain focused on delivering against that financial framework we've shared with you, which includes stable growth, margin expansion over time, consistent cash generation and deploying capital where it maximizes long-term value creation within our capital allocation framework.
+
+To close, we're proud of what we've achieved this year, strong financial performance, disciplined execution and continued progress against our strategy. We're entering fiscal '26 with solid momentum, a healthy balance sheet and a clear set of priorities that support durable growth. We'll remain focused on operational excellence and delivering long-term value to shareholders.
+
+With that, we'll open up the call for questions. Operator?
+

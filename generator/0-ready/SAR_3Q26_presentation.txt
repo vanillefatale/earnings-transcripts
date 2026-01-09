@@ -1,0 +1,165 @@
+Saratoga Investment Corp (SAR) Q3 2026 Earnings Call January 8, 2026 10:00 AM EST
+
+Company Participants
+
+Henri Steenkamp - Chief Compliance Officer, Secretary, Treasurer, CFO & Director
+Christian Oberbeck - Chairman, President & CEO
+Michael Grisius - Co-Managing Partner & Chief Investment Officer
+
+Conference Call Participants
+
+Erik Zwick - Lucid Capital Markets, LLC, Research Division
+Casey Alexander - Compass Point Research & Trading, LLC, Research Division
+Heli Sheth - Raymond James & Associates, Inc., Research Division
+
+Presentation
+
+Operator
+
+Good morning, ladies and gentlemen. Thank you for standing by. Welcome to Saratoga Investment Corp's Fiscal Third Quarter 2026 Financial Results Conference Call. Please note that today's call is being recorded. [Operator Instructions]
+
+At this time, I would like to turn the call over to Saratoga Investment Corp's Chief Financial and Chief Compliance Officer, Mr. Henri Steenkamp. Please go ahead, sir.
+
+Henri Steenkamp
+Chief Compliance Officer, Secretary, Treasurer, CFO & Director
+
+Thank you. I would like to welcome everyone to Saratoga Investment Corp's Fiscal Third Quarter 2026 Earnings Conference Call. Today's conference call includes forward-looking statements and projections. We ask you to refer to our most recent filings with the SEC for important factors that could cause actual results to differ materially from these forward-looking statements and projections. We do not undertake to update our forward-looking statements unless required to do so by law.
+
+Today, we will be referencing a presentation during our call. You can find our fiscal third quarter 2026 shareholder presentation in the Events and Presentations section of our Investor Relations website. A link to our IR page is in the earnings press release distributed last night. For everyone new to our story, please note that our fiscal year-end is February 28. So any reference to Q3 results reflects our November 30 quarter end period. A replay of this conference call will also be available. Please refer to our earnings press release for details.
+
+I would now like to turn the call over to our Chairman and Chief Executive Officer, Christian Oberbeck, who will be making a few introductory remarks.
+
+Christian Oberbeck
+Chairman, President & CEO
+
+Thank you, Henri, and welcome, everyone. Saratoga Investment Corp highlights this quarter include continued NAV growth from the previous quarter and year with stable NAV per share, an increase in NII of $0.03 per share from the previous quarter, a strong 13.5% return on equity, beating the industry, net originations of $17.2 million, including 3 new portfolio companies, and importantly, continued solid performance from the core BDC portfolio in a volatile macro environment.
+
+Continuing our historical strong dividend distribution history, we announced a monthly base dividend of $0.25 per share or $0.75 per share in aggregate for the fourth quarter of fiscal 2026, which when annualized, represents a 12.9% yield based on the stock price of $23.19 as of January 6, 2026, offering strong current income from an investment value standpoint. Though we did see an increase in adjusted NII of $0.03 per share from the previous quarter, our third quarter NII of $0.61 per share continues to reflect the impact of the last 12 months trend in decreasing levels of short-term interest rates and spreads on Saratoga investments largely floating rate assets as well as continued high levels of repayments.
+
+Strong originations outpaced repayments during the third quarter, which when coupled with the repayment of a $12 million baby bond resulted in our cash position at quarter end decreasing to $169.6 million, though we still have significant cash available to be deployed accretively in investments or to repay existing debt.
+
+During the quarter, we began to see an increase in M&A activity despite continued competitive market dynamics. While our portfolio again saw multiple debt repayments in Q3, we had strong new originations, resulting in net originations of $17.2 million for the quarter. Specifically, we originated $72.1 million in 3 new investments and 9 follow-ons as well as closing on new investments in multiple BB and BBB structured credit securities.
+
+Our strong reputation and differentiated market positioning, combined with our ongoing development of sponsor relationships, continues to create an attractive investment opportunities from high-quality sponsors, which is continuing post quarter end with 4 new portfolio company investments, either closed or closing in Q4 so far, which further improves our run rate earnings.
+
+We continue to remain prudent and discerning in terms of new commitments in the current volatile environment. We believe Saratoga continues to be favorably situated for potential future economic opportunities as well as challenges. At the foundation of our strong operating performance is the high-quality nature and resilience of our 1.016 billion portfolio with all 4 historically challenged portfolio company situations resolved.
+
+Our current noncore CLO portfolio was marked up, including realized gains by $2.9 million this quarter, more than offsetting the CLO and JV markdown of $0.4 million, resulting in the fair value of the portfolio increasing by $2.5 million during the quarter. As of quarter end, our total portfolio fair value was 1.7% above cost, while our core non-CLO portfolio remains 2.1% above cost. The overall financial performance and solid earnings power of our current portfolio reflect strong underwriting in our growing portfolio companies and sponsors in well-selected industry segments.
+
+During the third quarter, our net interest margin increased from $13.1 million last quarter to $13.5 million driven primarily by a $0.5 million decrease in interest expense, reflecting the recent $12 million baby bond repayments. This quarter's interest income remained relatively unchanged, benefiting from first average non-CLO assets increasing by approximately 0.9% to $962 million. And second, this quarter's repayments resulting in various accelerated OID recognitions.
+
+This was largely offset by 2 factors: First, the absolute yields of the core non-CLO BDC portfolio reducing from 11.3% to 10.6% due to SOFR rates resetting from earlier reductions, combined with the impact of lower yielding new originations during the quarter. And second, the timing of new originations and repayments in Q3.
+
+In addition, the full period impact of the 0.5 million shares issued through the ATM program in Q2 and the partial impact of the additional 0.1 million shares issued in Q3, resulted in a $0.01 per share dilution to NII per share. Our overall credit quality for this quarter continued to improve to 99.8% of credits rated in our highest category. There's just one investment remaining on nonaccrual status, Pepper Palace, which has been successfully restructured, representing only 0.2% of fair value and 0.4% of cost.
+
+With 83.9% of our investments at quarter-end in first lien debt and generally supported by strong enterprise values and balance sheets in industries that have historically performed well in stress situations, we believe our portfolio and company leverage is well structured for future economic conditions and uncertainty.
+
+As we continue to navigate the challenges posed by the current geopolitical tensions and volatility in the broader underwriting, M&A and macro environment, we remain confident in our experienced management team, robust pipeline, strong leverage structure and disciplined underwriting standards to continue steadily increase the size, quality and investment performance of our portfolio over the long term and deliver compelling risk-adjusted returns to shareholders.
+
+As always, and particularly in the current uncertain environment, balance sheet strength, liquidity and NAV preservation remain paramount for us. At quarter end, we maintained a substantial $396 million of investment capacity to support our portfolio companies, with $136 million available through our existing SBIC III license, $90 million from our 2 revolving credit facilities and $169.6 million in cash. This level of cash improves our current regulatory leverage of 168.4% to 183.7% net leverage, netting available cash against outstanding debt.
+
+Moving on to Saratoga Investments fiscal 2026 third quarter, key performance indicators as compared to the quarters ended November 30, 2024, and August 31, 2025. Our quarter end NAV was $413 million, up 10.2% from $375 million last year and up 0.7% from $410.5 million last quarter. Our NAV per share was $25.59, down from $26.95 last year and $25.61 last quarter. Our adjusted NII was $9.8 million this quarter, down 21.3% from last year and up 7.8% from last quarter. Our adjusted NII per share was $0.61 this quarter, down 32.2% from last year and up 5.2% from last quarter.
+
+Adjusted NII yield was 9.5% this quarter, down from 13.3% last year and up from 9% last quarter. And latest 12 months return on equity was 9.7%, up from 9.2% last year and 9.1% last quarter and above the industry average of 6.6%.
+
+While last year, saw markdowns to a small number of credits in our core BDC -- our core BDC, Slide 3 illustrates how our recent results have delivered an ROE of 9.7% for the last 12 months above the industry average of 6.6%. Additionally, our long-term average return on equity over the past 12 years of 10.1% is well above the BDC industry average of 6.9%. Our long-term return on equity has remained strong over the past decade plus, beating the industry 9 in the past 12 years and consistently positive every year.
+
+As you can see on Slide 4, our assets under management have steadily and consistently risen since we took over the BDC 15 years ago, despite a slight pullback recently, reflecting significant repayments. This quarter saw originations again outpacing repayments, resulting in an increase in AUM as compared to the previous quarter, and we continue to expect long-term AUM growth. The quality of our credits remains strong with just 1 recently restructured investment remaining on nonaccrual Pepper Palace.
+
+Our management team is working diligently to continue this positive long-term trend as we deploy our significant levels of available capital into our pipeline while at the same time being appropriately cautious in this evolving and volatile credit and economic environment.
+
+With that, I would like to now turn the call over to Henri to review our financial results as well as the composition and performance of our portfolio.
+
+Henri Steenkamp
+Chief Compliance Officer, Secretary, Treasurer, CFO & Director
+
+Thank you, Chris. Slide 5 highlights our key performance metrics for the fiscal third quarter ended November 30, 2025, most of which Chris already highlighted. Of note, the weighted average common shares outstanding in Q3 was 16.1 million, increasing from 15.8 million and 13.8 million shares for last quarter and last year's third quarter, respectively.
+
+Adjusted NII was $9.8 million this quarter, down 21.3% from last year and up 7.8% from last quarter. This quarter's increase in adjusted NII as compared to the prior quarter was largely due to the net interest margin changes that Chris mentioned earlier. The decrease from the prior year reflects lower AUM and base interest rates, along with the recent repayment of certain well-performing investments.
+
+The weighted average interest rate on the core BDC portfolio of 10.6% this quarter, compares to 11.8% as of last year and 11.3% as of last quarter. The yield reduction from last year primarily reflects the SOFR base rate decreases over the past year, but is also indicative of recent tighter spreads experienced on new originations versus historically higher spreads on repaid assets.
+
+Total expenses for Q3, excluding interest and debt financing expenses, base management and incentive fees and income and excise taxes increased by $0.5 million to $3.3 million as compared to $2.8 million last year, and increased by $0.8 million from $2.5 million last quarter. This represented 0.8% of average total assets on an annualized basis, unchanged from last quarter and down from 0.9% last year. Also, for investors interested in digging deeper into the income statement and balance sheet metrics for the past 2 years, we have again added the KPI Slides 26 through 29 in the appendix at the end of the presentation. Slide 50 is a new slide that we recently added comparing our nonaccruals to the BDC industry. You will see that our nonaccrual rate of 0.4% of cost is 8x lower than the industry average of 3.2%. This highlights the current strength and credit quality of our core BDC portfolio.
+
+Moving on to Slide 6. NAV was $413.2 million as of fiscal quarter end, a $2.7 million increase from last quarter and a $38.3 million increase from the same quarter last year. In Q3, $1.5 million of new equity was raised at or above net asset value through our ATM program. This chart also includes our historical NAV per share, which highlights how this important metric has increased 23 of the past 53 quarters. Over the long term, this metric has increased since 2011 and grown by $3.62 per share or 16.5% over the past 8.5 years.
+
+On Slide 7, you will see a simple reconciliation of the major changes in adjusted NII and NAV per share on a sequential quarterly basis. Starting at the top, adjusted NII per share was up $0.03 in Q3. This is due to an increase in non-CLO net interest income during the quarter of $0.02, primarily driven by accelerated OID on repayments. The increase in BB investments interest income of $0.02 from higher assets and the increase in other income of $0.03 from both higher advisory fees on originations and prepayment penalties on redemptions. This was partially offset by an increase in operating expenses of $0.03, reflecting expenses related to the recent annual meeting and increased deal expenses and dilution from the increased DRIP and ATM program share count of $0.01.
+
+On the lower half of the slide, NAV per share decreased by $0.02 with the $0.14 under earning of the dividend, fully offset by net realized gains and unrealized depreciation of $0.14, including deferred tax benefit. This leaves a $0.02 net dilution from the ATM and DRIP programs.
+
+Slide 8 outlines the dry powder available to us as of quarter end, which totaled $395.6 million. This was spread between our available cash, undrawn SBA debentures and undrawn secured credit facilities. This quarter end level of available liquidity allows us to grow our assets by an additional 39% without the need for external financing, with $170 million of quarter end cash available, and that's fully accretive to NII when deployed, and $136 million of available SBA debentures with its low-cost pricing, also very accretive.
+
+In addition, all $269 million of our baby bonds, effectively all of our 6% plus debt is callable now, providing us the option to refinance them, creating a natural protection against potential continuing future decreasing interest rates, which should allow us to protect our net interest margin, if needed. These calls are also available to be used prospectively to reduce current debt.
+
+This quarter, we also repaid our $65 million in senior credit facility, refinancing it with the issuance of an upside $85 million credit facility with a group of banks led by Valley Bank. The terms of this facility are substantially the same while cutting the spread cost by approximately 150 basis points and extending the maturity to 3 years. We do have our $175 million, 4.375% 2026 notes maturing at the end of February 2026. We are currently assessing our existing liquidity and cash in addition to various capital markets options in determining the most optimal source to use to repay this.
+
+We remain pleased with our available liquidity and leverage position, including our access to diverse sources of both public and private liquidity and especially taking into account the overall conservative nature of our balance sheet and that most of our debt is long term in nature. Also, our debt is structured in such a way that we have no BDC covenants that can be stressed during volatile times, especially important in the current economic environment.
+
+Now I would like to move on to Slides 9 through 12 and review the composition and yield of our investment portfolio. Slide 9 highlights that we have $1.016 billion of AUM at fair value and this is invested in 46 portfolio companies, 1 CLO fund, 1 joint venture and numerous new BB and BBB CLO debt investments. Our first lien percentage is 83.9% of our total investments, of which 29.7% is in first lien last-out positions.
+
+On Slide 10, you can see how the yield on our core BDC assets, excluding our CLO investments has changed over time, especially this past year, reflecting the recent decreases to interest rates. This quarter, our core BDC yield decreased to 10.6% from last quarter's 11.3%, with 3/5 of the decrease, reflecting further core base rate reductions and the rest due to recent tight spreads experienced on new originations versus historically higher spreads on repaid assets. The CLO yield decreased to 10.0% from 11.8% last quarter, reflecting the inclusion of the new BB and BBB CLO debt investments to this category that have a yield of approximately 8% to 10%.
+
+Slide 11 shows how our investments are diversified through primarily the United States. And on Slide 12, you can see the industry breadth and diversity that our portfolio represents, spread over 41 distinct industries in addition to our investments in the CLO, JV and BB and BBB CLO debt securities, which are included as structured finance securities.
+
+And finally, moving on to Slide 13. 8.3% of our investment portfolio consists of equity interest, which remain an important part of our overall investment strategy. This slide shows that for the past 13-plus fiscal years, we had a combined $45.6 million of net realized gains from the sale of equity interests. This year alone, we have generated $6 million in net realized gains. This long-term realized gain performance highlights our portfolio credit quality, has helped grow our NAV and is reflected in our healthy long-term ROE.
+
+That concludes my financial and portfolio review. Our Chief Investment Officer, Michael Grisius, will now provide an overview of the investment market.
+
+Michael Grisius
+Co-Managing Partner & Chief Investment Officer
+
+Thank you, Henri. I'll give an update on the market since we last spoke in October and then comment on our current portfolio performance and investment strategy. We are starting to see a pickup in M&A activity in the market we participate in. But the biggest driver of our increased production is the success we are seeing in our own business development efforts. As seen by the fact that 5 of the 7 most recent new platform companies we have closed or are in process of closing are with new relationships.
+
+The combination of historically low M&A volume in the lower middle market for an extended time and an abundant supply of capital has kept spreads tight and leverage full as lenders compete to win deals, especially premium ones. Market dynamics remain at their most competitive level since the pandemic. We've also experienced repayment activity from some of our lower leveraged loans being refinanced on more favorable terms. Although we are seeing some signs of a pickup in M&A volume, historically low deal volumes have made it more difficult to find quality new platform investments than in prior periods. Since we can't control M&A activity, we focus on the things that we can control.
+
+In summary, to first stay disciplined on asset selection; second, invest in and generally expand our business development efforts in a market that is still largely underpenetrated by us; and third, continue to support our existing healthy portfolio companies as they pursue growth. The relationships and overall presence we've built in the marketplace, combined with our ramped up business development initiatives, give us confidence in our ability to achieve healthy portfolio growth in a manner that we expect to be accretive to our shareholders in the long run.
+
+Now before leaving this topic, I'd like to reiterate that we continue to believe that the lower middle market is the best place to be in terms of capital deployment. As compared to the larger end of the middle market, the due diligence we're able to perform when evaluating an investment is much more robust. The capital structures are generally more conservative with less leverage and more equity, the legal protections and covenant features in our documents are considerably stronger and our ability to actively manage our portfolio through ongoing interaction with management and ownership is greater. As a result, we continue to believe that the lower middle market offers the best risk-adjusted returns, and our track record of realized returns reflects this.
+
+Our underwriting bar remains high as usual, in a very tough market, yet we continue to find opportunities to deploy capital. As seen on Slide 14, providing additional capital to existing portfolio companies continues to be an asset deployment means for us with 25 follow-ons in calendar year 2025. Notably, we have also invested in 7 new platform investments this calendar year, reversing the decline we experienced in the prior calendar year. Overall, our deal flow is increasing as our business development efforts continue to ramp up. Our consistent ability to generate new investments over the long term despite ever-changing and increasingly competitive market dynamics is a strength of ours.
+
+Portfolio management is critically important, and we remain actively engaged with our portfolio companies and in close contact with our management teams. We ended the quarter with just 1 investment still on nonaccrual status, Pepper Palace and now only 0.2% of the portfolio at fair value and 0.4% at cost are on nonaccrual status. In general, our portfolio companies are healthy and the fair value of our core BDC portfolio is 2.1% above its cost. 84% of our portfolio is in first lien debt and generally supported by strong enterprise values in industries that have historically performed well in stressed situations. We have no direct energy or commodities exposure. In addition, the majority of our portfolio is comprised of businesses that produce a high degree of recurring revenue and have historically demonstrated strong revenue retention.
+
+Now looking at leverage on the same slide, you can see that industry debt multiples move closer to 6x with unitranche in the mid-5s. Total leverage for our overall portfolio is down to 5.05x, excluding Pepper Palace.
+
+Slide 15 provides more data on our deal flow. As you can see, the top of our deal pipeline is significantly up from the end of calendar year 2024. This recent increase of deal sourced is as a result of our recent business development initiatives, with 25 of the 79 term sheets issued over the last 12 months being for deals that came from new relationships. Overall, the significant progress we've made in building broader and deeper relationships in the marketplace is noteworthy because it strengthens the dependability of our deal flow and reinforces our ability to remain highly selective as we rigorously screen opportunities to execute on the best investments.
+
+Our originations this fiscal quarter totaled $72.1 million, consisting of 3 new investments totaling $40.5 million, 9 follow-ons totaling $25.6 million, and BB and BBB CLO debt investments of $6 million. Two of the 3 new portfolio companies closed in the quarter are with new relationships.
+
+Subsequent to quarter end, we closed or currently have been closing in our core BDC portfolio, approximately $89.3 million of new originations in 4 new portfolio companies and 6 follow-ons, including delayed draws, offset by $30.5 million of repayments. Three of these 4 new portfolio companies are with new relationships.
+
+As you can see on Slide 16, our overall portfolio credit quality and returns remain solid. As demonstrated by the actions taken and outcomes achieved on the nonaccrual and watch list credits we had over the past year, our team remains focused on deploying capital and strong business models where we are confident that under all reasonable scenarios, the enterprise values of the businesses will sustainably exceed the last dollar of our investment. Our approach and underwriting strategy has always been focused on being thorough and cautious.
+
+Since our management team began working together 15 years ago, we've invested $2.4 billion in 125 portfolio companies and have had just 3 realized economic losses on these investments. Over that same time frame, we've successfully exited 85 of those investments, achieving gross unlevered realized returns of 14.9% on $1.34 billion of realizations. The weighted average returns on our exits this quarter were consistent or even slightly higher than our overall track record at around 15.6%. Even taking into account the recent write-downs of a few discrete credits, our combined realized and unrealized returns on all capital invested equal 13.5%. Total realized gains within the quarter were $3.1 million across 2 portfolio companies and year-to-date were $6 million. We think this performance profile is particularly attractive for a portfolio predominantly constructed with first lien senior debt.
+
+As mentioned, we now have only 1 investment on nonaccrual, although Pepper Palace has been restructured, we are still classifying it as red with a fair value of $2 million. Pepper Palace continues to be managed actively with several initiatives underway. In addition, during the quarter, our overall core non-CLO portfolio was marked up by $2.9 million, including realized gains, reflecting the strength of our overall portfolio.
+
+Our overall investment approach has yielded exceptional realized returns and recovery of our invested capital and our long-term performance remains strong as seen by our track record on this slide.
+
+Moving on to Slide 17, you can see our second SBIC license is fully funded and deployed, although there is cash available there to invest in follow-ons, and we are currently ramping up our new SBIC III license with $136 million of lower cost, undrawn debentures available, allowing us to continue to support U.S. small businesses, both new and existing.
+
+This concludes my review of the market, and I'd like to turn the call back over to our CEO. Chris?
+
+Christian Oberbeck
+Chairman, President & CEO
+
+Thank you, Mike. As outlined on Slide 18, our latest dividend of $0.75 per share in aggregate for the quarter ended November 30, 2025 was paid in 3 monthly increments of $0.25. Recently, we declared that same level of $0.75 for the quarter ended February 28, 2025, marking the fourth quarter of our new dividend payment structure. We also distributed a $0.25 per share special dividend, which was paid in December. Board of Directors will continue to evaluate the dividend level on at least a quarterly basis, considering both the company and general economic factors, including the current interest rate and macro environment's impact on our earnings.
+
+Moving to Slide 19. Our total return for the last 12 months, which includes both capital appreciation and dividends, has generated total returns of 11%, vastly beating out the BDC indexes negative 4%. This places us in the top 6 of all BDCs for calendar 2025.
+
+Our longer-term performance is outlined on the next slide, Slide 20, which shows that our 5-year total return places us above the BDC index, and our 3-year return is in line with the industry. Additionally, since Saratoga took over management of the BDC in 2010, our total return of 851%, has been almost 3x the industry's 283%.
+
+On Slide 21, you can further see our last 12 months performance placed in the context of the broader industry and specific to certain key performance metrics. We continue to focus on our long-term metrics such as return on equity, NAV per share, NII yield and dividend growth and coverage, all of which reflect the value our shareholders are receiving. While NAV per share growth has lagged this past year, this is largely due to last year's 2 discrete nonaccrual investments previously discussed.
+
+With regards to NII yield and dividend coverage, the recent repayments of successful investments have reduced this fiscal year's NII, leaving a healthy level of cash available for future deployments. In this volatile macro environment, we will be prudent in deploying our significant available capital into strong credit opportunities that meet our high underwriting standards.
+
+Our focus remains long term. We also continue to be 1 of the few BDCs to have grown NAV accretively over the long term and have a consistent, healthy return on equity with our long-term return on equity at roughly 1.5x the industry average, and latest 12 months return on equity also beating the industry by 310 basis points.
+
+Moving on to Slide 22. All of our initiatives discussed on this call are designed to make Saratoga investment a leading BDC that is attractive to the capital markets community. We believe that our differentiated performance characteristics outlined on this slide will help drive the size and quality of our investor base, including adding more institutions. These differentiating characteristics, many previously discussed, include maintaining 1 of the highest levels of management ownership in the industry at 10.8%, ensuring that we are strongly aligned with our shareholders.
+
+Looking ahead on Slide 23, while geopolitical tensions and macroeconomic uncertainty remain ongoing factors, we began seeing renewed momentum in the M&A activity across the market, and we continue to focus on expanding deal sourcing relationships. At the same time, our portfolio continues to perform, and we remain encouraged by the resilience and strength of our pipeline. While broader sentiment towards private credit market has become increasingly cautious due to a few high-profile bankruptcies, we believe these issues are largely idiosyncratic and not indicative of the broader credit market fundamentals.
+
+In addition to these companies not being representative of the lower end of the middle market that we participate in. Supported by our experienced management team, disciplined underwriting and strong balance sheet, we believe we are well positioned to responsibly grow the size and quality of our portfolio, generate consistent investment performance and deliver compelling risk-adjusted returns for our shareholders over the long term.
+
+In closing, I would again like to thank all of our shareholders for their ongoing support. I would like to now open the call for questions.
+

@@ -1,0 +1,518 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] And our first question comes from the line of Sharon Zackfia with William Blair.
+
+Sharon Zackfia
+William Blair & Company L.L.C., Research Division
+
+I wanted to talk about the decision to decouple the reservation system from loyalty. Can you talk about kind of what led to that decision, where you're not seeing loyalty members kind of react as you had hoped? And then as you started to market it, what is early read then potentially bolstering those shoulder periods, which is what I think kind of was the hoped for scenario with the reservation system?
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+Yes. Sharon, this is Ben. So in terms of reward member uptake on the reservation system, we're actually extremely pleased more than half of visits by rewards members are being done through the reservation system. And so uptake is frankly better than expected, and so that's been very encouraging.
+
+We really just wanted to open it up to a bigger audience. It's a big ask to have somebody install an app just for one function. And so we felt let them experience how useful it is and then maybe they'll -- we'll be able to convert them into rewards members after the fact as, obviously, we want as many people to join the rewards program as possible as they tend to visit more and spend more per visit. And so that's been very encouraging.
+
+We started marketing the reservation system more post decoupling in the last week of December. And so they're really -- there's pretty limited data in terms of what we've seen in that 1 week of advertising. But what is really encouraging is that for the people that have tried it, they basically use it forever. And so I think it's just a matter of awareness, and there remains upside to be unlocked in the reservation system.
+
+Sharon Zackfia
+William Blair & Company L.L.C., Research Division
+
+And then it sounded like trends ended more strongly as you went throughout the quarter, and it sounds like that continued through December. And I know you reiterated, I think, plans for slightly positive comps for the year. Jeff, just given comparisons do get so easy here in the February quarter, do you expect comps to be positive as well in the February quarter?
+
+Hajime Uba
+Chairman, President & CEO
+
+Sure. Thank you for your question, Sharon. Please answer your question in Japanese. Ben is going to translate. [Foreign Language]
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+[Interpreted] Sharon, so in terms of our expectations regarding Q2 comps, we absolutely expect positive comps. In the November call, we mentioned our negative mid-single-digit expectations for Q1 comps. They came in at negative 2.5%, which obviously indicates that November ended up being a very strong month. One particular item that's been of exceptional encouragement for us is that following the November -- we took pricing on November 1, but November traffic and price/mix improved over the prior months. And that trend has also continued into Q2. And so standing where we are today, a month and change into the quarter, we feel very good about Q2 comps.
+
+Operator
+
+And our next question comes from the line of Jeremy Hamblin with Craig-Hallum.
+
+Jeremy Hamblin
+Craig-Hallum Capital Group LLC, Research Division
+
+I wanted to hit on a couple of the kind of cost line items here. So first question regarding food cost is we don't know what's going to happen with tariffs. Clearly, it's been a significant headwind. I think, Jeff, you'd called out maybe about 200 basis points for FY '26. But if there were a change as we started to see some relief on tariffs impacting food costs, how long would it take for that to flow into your financials? Would it be 60 days, 90 days if that change were to happen?
+
+And then also wanted to just ask about other operating expense category, which I think includes utilities, repairs and maintenance, insurance, credit card fees, et cetera, just to get a sense for, let's say, the expected impact that you might have on that category with, let's say, a positive 2.5% comp versus a down 2.5% comp that you had in Q1. What type of leverage, deleverage would you see under that hypothetical?
+
+Jeff Uttz
+CFO & Treasurer
+
+Yes. Jeremy, I'll answer the question on food costs, and then I'll turn it over to Jimmy to give some color on the other cost line item. But as it relates to food costs, we mentioned in the past, generally, we buy 4 to 6 months' worth of product. So it will take a little bit of time to get through the product that we have on hand in order to see a benefit and a reduction in tariffs. That being said, where food cost is ending up for the year and our 30% estimate, I'm quite pleased with that number.
+
+When we first started looking at this, it could have been a 300 -- somewhere between 300% and 400% impact. But because of the great negotiations that were done with the suppliers as well as negotiating just the prices of things, tariffs aside, I'm very pleased with that 30% number. If the tariffs are reduced or do go away, that number could get back into the 28s again where it was. And that's really the only headwind that we've really seen as far as COGS, is uncontrollable inputs such as tariffs.
+
+So we're optimistic. We'll see what happens over the next few months as it relates to tariffs. But ending up at the 30% number is still something that we, as a company, are pretty proud of given the headwinds that the tariffs pose to us.
+
+Hajime Uba
+Chairman, President & CEO
+
+Again, this is Jimmy. I'll answer your question about other cost line, but please allow me to speak in Japanese. [Foreign Language]
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+[Interpreted] In terms of the other cost line item, the biggest impact, unfortunately, for other costs as well was tariffs. Most of our promotional materials come from China. So our Bikkura Pon toys or giveaway items, those come from China, and they've been experiencing pretty heavy tariffs. And so that's been a meaningful pressure on the other cost line item. And Jeremy, as you mentioned, the sales deleverage that we had, while the comps came in better than expected, they were still negative. And so we saw sales deleverage on fixed and semi-fixed costs.
+
+Utilities were up just on an absolute basis. We've seen that broadly across our restaurant base. And then lastly, the pricing that we took, we took in November, and so we did not receive that benefit in September or October.
+
+And in terms of...
+
+Hajime Uba
+Chairman, President & CEO
+
+No, so this is...
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+Go ahead. Please.
+
+Hajime Uba
+Chairman, President & CEO
+
+Okay. [Foreign Language]
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+[Interpreted] That being said, with the pricing that we took in November -- or in spite of the pricing that we took on November 1, we saw traffic improve in November and December. We also saw price/mix improve in November and December. And we expect to -- for that to flow through and give us better leverage on our other costs, which we're actually -- we're already starting to see. And so that's really encouraging for where we'll land at the end of the quarter.
+
+Operator
+
+And our next question comes from the line of Andrew Charles with TD Cowen.
+
+Andrew Charles
+TD Cowen, Research Division
+
+Great. Jeff, wanted to check with the shelf registration that you guys saw last week. What are you monitoring for as you think about when you would potentially tap into it?
+
+Jeff Uttz
+CFO & Treasurer
+
+I haven't really given a time line on that. When we did the capital raise a year ago, Andrew, in November of 2024, my thought was potentially that could be the last one. Right now, where we're looking at, we're -- restaurant-level margins of 18% versus 20% just for good corporate housekeeping and to be ready when the time comes if it does. Just wanted to have that shelf registration statement out there and be ready.
+
+But we still have $75 million of cash and investments on our balance sheet, so we're pretty liquid, pretty strong on that side. But it's just something I wanted to have out there in case the time comes. Certainly want to keep an eye on where the share price is and if the share price becomes attractive and there was a reason we wanted to go on to capital. It's just being ready.
+
+Andrew Charles
+TD Cowen, Research Division
+
+Okay. That's helpful context. And then we didn't reiterate 18% restaurant-level margins. I hear you on the 30% COGS target. I hear you're on about 32% labor. But I'm just curious. Does the margin target embed any additional price in 2026? I'm just trying to better understand the opportunities to improve the other operating costs amid the tariffs.
+
+Hajime Uba
+Chairman, President & CEO
+
+[Foreign Language]
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+[Interpreted] Relating to the 18% annual guidance that we provided in the November call, that already contemplated 15% restaurant-level operating profit margin we had for Q1. And so there's -- we're fully on track relative to our own expectations.
+
+In terms of the pricing, we feel that our -- as it stands today, we have no further expectations to take price in fiscal '26. We think the pricing that we took on November is adequate. The flow-through that we're seeing is actually better than expected, and so that's really encouraging there. And yes, between those 2 things, we remain extremely confident about that 18% full year target.
+
+Hajime Uba
+Chairman, President & CEO
+
+[Foreign Language]
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+[Interpreted] And on another note, following the November pricing, we're actually -- we're already seeing leverage on our labor cost line earlier than expected. It's really encouraging making it -- making us now much more confident in terms of hitting that 100 basis point labor leverage number and opening up the possibility for maybe even better than 100 basis points.
+
+Operator
+
+And our next question comes from the line of Jeffrey Bernstein with Barclays.
+
+Jeffrey Bernstein
+Barclays Bank PLC, Research Division
+
+Great. First question is just on the comp trends. You talked about the improvement to close the quarter and seemingly sustaining into the second quarter and very confident in that positive for the second quarter. I'm just trying to unpack how much you think is due to your own company-specific efforts versus the macro. I know there's lots of investor optimism around near-term benefits from lapping inclement weather and lapping the tariff headwinds. Maybe benefits from tax refunds and stimulus. So just trying to get your sense for how much you attribute to your own internal initiatives versus maybe your confidence of the broader industry that will accelerate from here with those factors. Or if you don't believe that to be the case, perhaps why not? And then I had one follow-up.
+
+Hajime Uba
+Chairman, President & CEO
+
+Sure. [Foreign Language]
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+[Interpreted] Looking to Q1, we outperformed the industry on a number of metrics, which we're very encouraged by. That was really par for the course for us historically. It hasn't been the case necessarily for the last year, and so the return to that position has been very encouraging. We think the promotions that we had in November played a big part.
+
+And really, to Jimmy's earlier comment about the biggest element of surprise in terms of November, that was the pricing flow-through and the traffic growth that we saw post price. And so to your commentary about macro, I mean, it's still just a couple of months, but that, we interpret as an improvement in the consumer. And so that's very encouraging there.
+
+In terms of other company-specific comps, that comp benefit starts in December. And so November would not have benefited from that.
+
+Hajime Uba
+Chairman, President & CEO
+
+[Foreign Language]
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+[Interpreted] And when we were speaking about the industry comparisons up, I meant to say November and onwards, not Q1.
+
+Jeffrey Bernstein
+Barclays Bank PLC, Research Division
+
+Got you. And just to clarify, I know you often talk about a 2-year stack. And if you held that first quarter trend, it would imply maybe a positive 4% or 5% in the second quarter as your compares ease by, I think, 700 basis points. So I'm just trying to clarify, I think you said you assume modest positive comp for the full year. Just trying to clarify that. And did your trend in November and December improve on a 1-year or a 2-year stack basis? Just trying to get the sense for the underlying momentum versus just comparisons.
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+Yes, so...
+
+Hajime Uba
+Chairman, President & CEO
+
+[Foreign Language] Go ahead, Ben.
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+No, please. Please.
+
+Hajime Uba
+Chairman, President & CEO
+
+[Foreign Language]
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+[Interpreted] Without providing commentary on the comp performance to date, we remain very, very confident about our ability to hit flat to slightly positive comps. The momentum as we exited the quarter was very encouraging. And to Jimmy's repeated comments, that momentum has continued, and so we feel very good about achieving that flat to positive comp for the full year.
+
+Jeffrey Bernstein
+Barclays Bank PLC, Research Division
+
+Understood. And then just to clarify, I think you said -- we know you opened 4 units in the first quarter, and you have 10 more under construction. I'm guessing it's not surprising to you or maybe you turn these units around faster, but you're talking about 16 for the full year. It seems that you already have 14 with good visibility. Just wondering how much lead time is needed in terms of construction that you're confident in that 16 plus relative to the 14 you have visibility on today.
+
+Hajime Uba
+Chairman, President & CEO
+
+[Foreign Language]
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+[Interpreted] Looking at the fiscal '26 pipeline, we think that the 16 unit target is the upper bound. We continue to think that's the appropriate target. We don't expect that to change. There might be a little bit of benefit in terms of faster lead times, but that's not really something that we expect. It should pretty much be business as usual. So we opened 4 in Q1. We expect to open 1 in Q2 and the remainder are in the back half.
+
+Yes. And so for those 10 units, a lot of them just broke ground. And so yes, you could keep that in mind for modeling purpose. That would be great.
+
+Jeffrey Bernstein
+Barclays Bank PLC, Research Division
+
+But presumably, you have 2 more to get you to that 16 that maybe haven't broke ground yet, but you have a good line of sight to.
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+Yes.
+
+Hajime Uba
+Chairman, President & CEO
+
+Yes.
+
+Operator
+
+And our next question comes from the line of Jon Tower with Citi.
+
+Jon Tower
+Citigroup Inc., Research Division
+
+Great. Maybe just circling back to a comment that, Jimmy, you had just made or maybe, Ben, it was you in response to the question. You had mentioned that the promos that you had done in November had played a decent part in terms of getting some traffic back into stores and lifting sales. Can you dig into that a little bit? Like what exactly did you do during that window? Is it something that you feel like you can repeat in the future? And how can you -- or is it something that was just one-off and you don't expect to bring to future windows?
+
+Hajime Uba
+Chairman, President & CEO
+
+Sure. [Foreign Language]
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+[Interpreted] Jon, so as it relates to November, we had our second One Piece giveaway, and that outperformed our expectations a little bit. We had a gift card promotion. We typically have whatever year as we get closer to the holidays. But really, the biggest factor for the November outperformance was our LTO or Kura Reserve. This month -- or for November, the sort of theme item was sakura bacon, and we weren't sure how big of a hit bacon sushi would be. But in retrospect, in hindsight, of course, bacon sushi is going to be a slam dunk. And so that really was a big hit for us.
+
+In terms of whether or not it's replicable, we're not -- we don't have plans to have another sakura bacon, but there's nothing to preclude that in the future. Certainly, we're putting as much energy as we can into our LTOs. We know that that's a really -- it's another lever for us. But looking to December, while we don't have another LTO, food LTO along those lines, we have our most exciting IP of the year, Kirby. And so we're -- not to beat a dead horse, but we're really happy with how December's shaken out.
+
+Jon Tower
+Citigroup Inc., Research Division
+
+Okay. Yes. And that kind of leads to a question just regarding -- you had mentioned earlier the idea of advertising the reservation system and reservation program more broadly to the nonrewards members. And I'm just curious to hear where you guys think the brand -- well, where the brand is today with respect to broad advertising, which I don't think it does much of, but where you want to be over time, either as a percentage of sales, what mediums you want to go in and frankly, where the message should be to guests. Is it more about, hey, this is what Kura Sushi is? Or is it more about a call to action in terms of LTOs, like whether it's the Kura Reserve or it's the Kirby IP tie in? If you could expand on that, that would be great.
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+Yes. So I wouldn't expect us to do anything like television advertising. We're very happy with the marketing efforts to date. We think that we have done a phenomenal job just in terms of spending our ad dollars effectively, primarily on social media, influencers, et cetera. But those have been exceptional in terms of return on ad spend.
+
+I'd say that there's probably going to be more of an emphasis on call to actions, to your point. Our rewards members very much are moved by call to action. And so that's going to be an ongoing point of focus, especially because they're continuing to trend upward in terms of spend, which is great.
+
+Jon Tower
+Citigroup Inc., Research Division
+
+Okay. So just rewards members in general now that we're pretty far. I think we're a year in or so. Maybe I'm off a little bit. But can you speak to how they have moved in terms of either frequency and/or spending levels versus where we started off a year or so ago?
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+Yes. So we're now up to 1 million members. If we're counting newsletter numbers, it's actually 1.7 million numbers. And so that's really been very aggressive growth thanks to the efforts of the marketing team. In terms of the spend, a 2-person ticket, per person, they spend about $6 more on -- and so that's a pretty meaningful difference. And they visit more than twice or even triple a nonmember.
+
+Operator
+
+And our next question comes from the line of Mark Smith with Lake Street Capital.
+
+Mark Smith
+Lake Street Capital Markets, LLC, Research Division
+
+I'm curious if there's any other demographic or geographic trends that you saw in the quarter or even post quarter that are worth calling out. For instance, I'm curious if you saw any impact when government shutdown ended. Did that drive any incremental traffic or spend or anything else to call out here in the quarter?
+
+Hajime Uba
+Chairman, President & CEO
+
+[Foreign Language]
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+[Interpreted] So the major change that we have seen is just the broad-based improvement from November onward. Really are not seeing any sort of differences on a regional or geographic basis. As we've mentioned in the past, the differential between any given region in terms of comp performance is really driven more by the timing of infills than anything else. And so it's really just been a broad-based improvement both in traffic and ticket. And so that's been really -- I guess I keep coming back to the word encouraging, but it really has been encouraging.
+
+Mark Smith
+Lake Street Capital Markets, LLC, Research Division
+
+Excellent. And then as we look at restaurant-level margins, I'm curious if you could talk about comp units versus noncomp restaurants, kind of where the margins are shaking out for each and then if we've seen any real change over time in one or the other.
+
+Hajime Uba
+Chairman, President & CEO
+
+[Foreign Language]
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+[Interpreted] So we haven't really commented too much on the difference between comp and noncomp unit performance. What we have said is that, historically, new units have pretty strong honeymoons. They'll have elevated revenues, but they're not as efficient as -- at managing costs as a more seasoned restaurant. And so the RL OPMs, they actually end up shaking about the same.
+
+Operator
+
+And our next question comes from the line of James Sanderson with Northcoast Research.
+
+James Sanderson
+Northcoast Research Partners, LLC
+
+I wanted to go back to the labor line item. Just wondering if you could walk through any milestones or key drivers operationally that you'll need in order to achieve that 100 basis point improvement and when we can expect that to build in the next 3 quarters.
+
+Hajime Uba
+Chairman, President & CEO
+
+[Foreign Language]
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+[Interpreted] James, in terms of waiver, as it relates to Q1, the biggest driving factor was the pricing that we've taken. We feel that we're making great progress in terms of the leverage that we expect to make for the full year and have no concerns about hitting that 100 basis point target and in fact, feel that there is a real possibility that we'll be able to get there even -- there to get even beyond 100 basis points of leverage.
+
+In terms of the factors that need to go right, so to speak, for us to hit that, those are already in play or in place. They're largely going to be driven by the initiatives that we put in the last fiscal year. So the reservation system, the new touch panels, the new Mr. Fresh domes, those cumulatively will get us at least those 100 basis points. And any sort of labor initiatives, just the benefit trends along with seasonality and so we were, frankly, a little bit surprised to see benefit as early as we did, and we just expect that to become more pronounced as sales grow and we're better able to leverage fixed costs.
+
+James Sanderson
+Northcoast Research Partners, LLC
+
+Okay. So not necessarily need to see the robotic dishwashers, another technology into the store in order to achieve that gain.
+
+Hajime Uba
+Chairman, President & CEO
+
+[Foreign Language]
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+[Interpreted] Yes. So the robotic dishwashers are contemplated in that 18%, but the impact is going to be pretty minimal for the full 18% RL OPM. And so we'll see even more benefit as we enter fiscal '27 and we've got more of the system updated to have the robotic dishwashers. And so if we're able to implement these sooner than expected, then that's a potential point of opportunity as well.
+
+James Sanderson
+Northcoast Research Partners, LLC
+
+All right. All right. Very good. Could you also review the collaborations you offered in the first quarter, if they performed to your expectations?
+
+Hajime Uba
+Chairman, President & CEO
+
+[Foreign Language]
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+[Interpreted] In terms of Q1's collaborations, we had Demon Slayer in September. That was the second month of Demon Slayer, and then we had One Piece in October and November. Both met our expectations.
+
+James Sanderson
+Northcoast Research Partners, LLC
+
+Okay. Very good. Last question for me. I just wondered if you had thought about your long-term growth target rate of about 300 units in the United States, if you had revised that.
+
+Hajime Uba
+Chairman, President & CEO
+
+[Foreign Language]
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+[Interpreted] If we do have plans for a formal update, we'll be sure to let everybody know, but in the meantime, we will let the analysts provide their own estimates on that bigger number.
+
+Operator
+
+And our next question comes from the line of George Kelly with ROTH Capital Partners.
+
+George Kelly
+ROTH Capital Partners, LLC, Research Division
+
+So first one, just to revisit the tariff conversation. Just want to make sure I'm capturing everything properly. So your 30% COGS target for the year bakes in, is it a 200 basis point impact from tariffs? And then can you quantify the tariff impact on your other expense line?
+
+Hajime Uba
+Chairman, President & CEO
+
+[Foreign Language]
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+[Interpreted] George, as it relates to the other costs, the impact was largely on the promotional items, the Bikkura Pon prizes and the giveaways. Cumulatively, as a percentage of sales, there was about a 40 to 50 basis point impact from tariffs. This is prepricing. And so post-November results, that should ease a little bit, but it is a pretty meaningful step-up in our promotional costs.
+
+Jeff Uttz
+CFO & Treasurer
+
+George, on cost of goods sold, 30% is where we think it's going to end up for the year. It is about a 200 basis point impact, but we've had some other pretty good negotiations that have offset that a little bit. So when you look at the math, from last year, to get to 30%, I think it's like it will end up being like 150 basis points delta between the 2 years. But the tariff impact alone is pretty significant at 200 basis points, but we had some other good negotiations that have offset that a little bit, which is why we ended up 30% for the year.
+
+George Kelly
+ROTH Capital Partners, LLC, Research Division
+
+Okay. Okay. Helpful. And then second question I had is just related to promotions. You sound very pleased with how Kirby is performing. So I guess the question is, is the performance there -- I understand Kirby, that's a big draw -- a big partner. But how have you executed it differently? Is it partly sort of an internal execution issue? Maybe you're monetizing it better or advertising it better. So I wonder if that's sort of part of the reason. And then a second question is can you talk at all about your future planned promotions for the remainder of the year.
+
+Hajime Uba
+Chairman, President & CEO
+
+[Foreign Language]
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+[Interpreted] George, as it relates to Kirby, there were a number of things that we tried for the first time with this collaboration. We have these customized Mr. Fresh domes. And so instead of just a clear dome, you have a Kirby protecting your sushi. And we also updated the touch panels to be Kirby themed. These are both very well received by guests. We really want to try to just keep trying new things and continue to grow the experience. And so the guests feel that much more that it's something that can't be missed.
+
+Hajime Uba
+Chairman, President & CEO
+
+[Foreign Language]
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+[Interpreted] And we are very, very pleased with the results.
+
+George Kelly
+ROTH Capital Partners, LLC, Research Division
+
+Okay. That's great. And can you comment at all about future planned promotions for the year?
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+Yes. Sorry. Sure. So Kirby runs through the end of January, and then we have Sanrio for February. And then March and April, we have Jujutsu Kaisen to coincide with our new anime season.
+
+Operator
+
+And our final question comes from the line of Todd Brooks with Benchmark StoneX.
+
+Todd Brooks
+The Benchmark Company, LLC, Research Division
+
+Appreciate it. Couple of questions, a few leftovers here. If we're thinking about the same-store sales guidance you provided for the full year and the price increase that we took at the beginning of November, what's the right way to think about p/mix for the balance of the year as we're kind of building into a component of same-store sales?
+
+Hajime Uba
+Chairman, President & CEO
+
+[Foreign Language]
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+[Foreign Language]
+
+Hajime Uba
+Chairman, President & CEO
+
+[Foreign Language]
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+[Interpreted] In terms of the components of comp, we'd be pretty low to share the price and mix expectations just given -- well, early results post the November pricing have been very, very encouraging. It's really just 2 months, and so it's hard for us to extrapolate onwards or outwards. That being said, we do feel very confident that we'll be able to achieve that flat to slightly positive just based off of our trajectory to date as well as the easier comparisons that we're enjoying now.
+
+Todd Brooks
+The Benchmark Company, LLC, Research Division
+
+Okay. Fair enough. Second, in the other cost, I just wanted to clarify. When you talk about elevated marketing cost, was that referring to kind of the promotional cost around tariff-related Bikkura Pon pressures and around...
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+Exactly.
+
+Todd Brooks
+The Benchmark Company, LLC, Research Division
+
+Okay. So as far as marketing spend on the brand itself, there's really no change year-over-year. This was that tariff-related pressure that you were pointing to on Bikkura Pon.
+
+Hajime Uba
+Chairman, President & CEO
+
+[Foreign Language]
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+[Interpreted] As it really so other costs, if we're comparing year-over-year, the comps for the prior year quarter were 1.8% against the negative 2.5% that we posted for the current quarter. And so that alone gets you pretty meaningful deleverage. So that together with the tariff impact is how we got to the current quarter's other costs. That being said, in terms of the comp being a drag and deleveraging, we expect that dynamic to flip with Q2. As we comp positive, we expect the other costs to stabilize.
+
+Todd Brooks
+The Benchmark Company, LLC, Research Division
+
+Okay. Great. And the final one for me, and this goes back when you guys talked about the environment coming out of the pandemic and just kind of competitive decimation the closures that you've seen. I'm just thinking about if you guys are absorbing 200 basis points of tariff pressure, if we sort of think about independent competitors and absorbing that kind of 300 to 400 basis points of pressure that Jeff was talking about related to tariffs, are we seeing another wave of kind of mom-and-pop type of closures as you're continuing to roll out across the country here where you just got a more open runway as you continue to grow your footprint?
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+Unfortunately, yes.
+
+Hajime Uba
+Chairman, President & CEO
+
+[Foreign Language] Go ahead, Ben.
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+Yes, it's a weird thing to say. Yes. I mean, we can't quantify it. And it's never good to see people go out of business, but this is a pretty consistent pattern. Whether or not there are going to be closures on the scale of the pandemic, I mean, I don't think that will be the case. But regardless of whether a restaurant closes outright, I still think that we'll be able to capture traffic just because the pricing that our direct competitors are taking to offset their costs are only serving to highlight the incredible value that we offer.
+
+Jeff Uttz
+CFO & Treasurer
+
+[Foreign Language]
+
+Benjamin Porten
+Senior Vice President of Investor Relations & System Development
+
+[Interpreted] And then looking to November, we took 3.5% pricing. Granted, 2.5% was rolling off, and so we were offsetting -- a big part of the pricing was to offset that, but 3.5% is an unusually large step-up for us. We typically price the increments of 1% to 2% historically. And the fact that traffic and mix have only grown since is extremely encouraging. It's only been a couple of months, and so we don't want to read too much into it, but 1 possible interpretation is that the 3.5% that we've taken pales in comparison to the pricing that our competitors are taking. And that is why our traffic grows in spite of the pricing.
+
+Operator
+
+Thank you. And ladies and gentlemen, that does conclude today's question-and-answer session as well as today's teleconference. We thank you for your participation. You may disconnect your lines at this time, and have a wonderful day.
+
+[Portions of this transcript that are marked [Interpreted] were spoken by an interpreter present on the live call.]

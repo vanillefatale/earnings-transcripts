@@ -1,0 +1,237 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question comes from the line of Ken Herbert with RBC.
+
+Kenneth Herbert
+RBC Capital Markets, Research Division
+
+Really nice quarter. John, maybe just to start on the parts supply, how do we think about with the 32% growth, is it possible to parse that out a little bit more by, say, volume versus price? And if you're seeing anything unique on the price side from an airline perspective? And then within volume, how we think about maybe sort of same-store sales of that versus sort of new contract wins or expansions to the portfolio in the quarter?
+
+John Holmes
+Chairman, President & CEO
+
+Yes. I would say -- great question. I would say, overall, it's volume driving that growth. So the majority of that growth is driven by volume. Sure, we've had some price escalation with certain of our OEM partners, but that would be not the majority of that. And then in terms of same-store sales, we are seeing significant growth out of existing distribution contracts that are, again, in that kind of 20% to 30% range, which is obviously driving the overall growth. So it is volume. It is new contracts ramping up, but it's also really healthy same-store sales performance.
+
+Kenneth Herbert
+RBC Capital Markets, Research Division
+
+That's helpful. And as you think about moving here to calendar '26, the second half of your fiscal year, are there any concerns or are you seeing any risk about destocking at your airline customers after obviously several years of what seems to be maybe some buffer inventory level building there?
+
+John Holmes
+Chairman, President & CEO
+
+Yes, great question. And the answer is no. We're not seeing evidence of that. The backlog for that business gives us confidence that the growth rates that we're seeing there are going to continue. And at this point, no signals that would imply destocking.
+
+Kenneth Herbert
+RBC Capital Markets, Research Division
+
+Perfect. And just finally, if I could, the implied third quarter margin represents a bit of a step down sequentially. I'm guessing this is really mix as you think about the acquisitions. But anything else going on besides mix in terms of sequentially second to third quarter on the margins?
+
+John Holmes
+Chairman, President & CEO
+
+No, that's the driver. As we mentioned, around the HAECO acquisition, long term, that will be margin accretive. In fact, since we've gotten into it, we expect it will be even more margin accretive than we thought when we did the deal, which is a great thing. But it is going to take us a couple of quarters to move through that integration to get there, and you're going to see the impact of that in Q3 and Q4.
+
+Operator
+
+[Operator Instructions] Our next question comes from the line of Louie DiPalma with William Blair.
+
+Louie Dipalma
+William Blair & Company L.L.C., Research Division
+
+John, you became the heavy maintenance industry leader with the HAECO Americas deal. Do you see synergies with heavy maintenance and your other businesses such as your component repair business and also with Trax?
+
+John Holmes
+Chairman, President & CEO
+
+Yes, absolutely, and great question. For sure, there are synergies between the heavy maintenance business and the component business. And we -- part of our strategy is to leverage the leadership position that we have in airframe heavy maintenance to drive volume to our component shops.
+
+Some of that comes from just having possession of the aircraft themselves. We now have well more than 1,000 aircraft moving through our facilities each year, and that generates individual component repairs that we can perform. But mostly, it's going to be by doing deals with our customers where we sign up long-term commitments on the heavy maintenance side that are coupled with long-term commitments on the component repair side.
+
+And I just want to highlight, we've invested a lot in proprietary systems and processes inside our hangars, and we have now achieved industry-leading turnaround time and quality. Our turnaround times are particularly important to the customers because let's just say a heavy maintenance visit is going to take 30 days, a typical is going to take 30 days. If we can deliver that aircraft back to our customer in 28 days or 27 days, they love that because that's extra days that they have to put that aircraft back in revenue service.
+
+And that's worth a lot. And that operational performance inside our hangars is driving the demand that we're seeing. And as I mentioned, when all this is said and done, we will have added 40% capacity and that's sold out through the end of the decade. So that's a lot of demand, and we plan to leverage that leadership position again to drive volume through the component shops.
+
+As it relates to Trax, in particular, Trax has synergy predominantly with our parts supply business. We intend to develop proprietary channels to market to sell new and used parts through Trax and then also through component repair. The Aerostrat acquisition that we made last quarter does have direct synergy with heavy maintenance because that software allows customers to plan long-range heavy maintenance visits. And of course, that feeds directly into the heavy maintenance offering that we provide.
+
+Louie Dipalma
+William Blair & Company L.L.C., Research Division
+
+Excellent. And also, you announced of win yesterday with Thai Airways. And I was wondering, has the -- like the landmark win with Delta Airlines that you announced over the summer, has that stimulated the pipeline as many airlines, they often follow Delta's lead given Delta's role as one of the largest like MROs in addition to one of the largest airlines.
+
+John Holmes
+Chairman, President & CEO
+
+Yes. The answer is absolutely. And that's one of the reasons we were so focused on securing Delta as a win early on in our journey with Trax because Delta is not only the largest, but it's an extremely well-respected airline amongst all airlines. And so the fact that they have selected Trax and endorsed that as a solution that can scale up to their size is hugely beneficial.
+
+And absolutely, that has opened doors for Trax. We -- the other thing I would just mention is that it's approximately a 3-year implementation at Delta, so we're about 7 months into that. It is going very well, and Delta has been willing to serve as a reference for us with other customers, which we -- which we're grateful for.
+
+Operator
+
+[Operator Instructions] Our next question comes from the line of Michael Leshock with KeyBanc Capital Markets.
+
+Michael Leshock
+KeyBanc Capital Markets Inc., Research Division
+
+I wanted to ask on M&A. You've been highly acquisitive as of late, and you mentioned capital allocation priorities are unchanged. Do you see opportunities for further M&A over the next maybe 6 to 12 months? Or is there more of a shift to integration? Just any thoughts you can provide on the M&A pipeline and what you're seeing there and then maybe what segments you might target going forward?
+
+John Holmes
+Chairman, President & CEO
+
+Sure. The short answer is yes. We continue to believe that -- and continue to see M&A as a key part of our growth. And one of the things I'm particularly proud of is out of the last several deals that we've done, these have all been self-sourced. We have gone to these companies. We have developed relationships with the owners. And we -- so all the deals that we've closed in the last 3 years, they've been sourced by us.
+
+So we've got very specific criteria that acquisitions need to meet. There are several other companies out there that we believe can meet those -- meet that criteria, and we are actively pursuing them. We feel that we have the integration muscle, if you will, moving inside the company. We're definitely cognizant of our own bandwidth. So we want to make sure that we're successful with the integrations that are underway right now. But we also want to be in a position to curate attractive M&A opportunities and close on them.
+
+Michael Leshock
+KeyBanc Capital Markets Inc., Research Division
+
+Great. And then one more question on Trax. If you could provide any color on Trax and the customer upgrade cycle, whether that be the percent of customers that have already upgraded or the timing of when you expect more upgrades to occur. I know it's a multiyear event, but any more color on Trax would be great.
+
+John Holmes
+Chairman, President & CEO
+
+Thanks, Michael, and a great question there. We're approximately, I'd say, 30% -- 30% to 35% of the way through the customer upgrades. You have -- and that's customer upgrades that have been agreed to but potentially not yet implemented. So we have a lot of current upgrades going on that are in various stages of implementation. Our goal is to have all of that completed by the end of 2028. Like any software upgrade cycle, it may take longer, but our goal is to have the bulk of this done by 2028.
+
+Operator
+
+Our next question comes from the line of Scott Mikus with Melius Research [Operator Instructions].
+
+Scott Mikus
+Melius Research LLC
+
+Yes, can you hear me? John, I wanted to ask on the A-R-T acquisition. We're seeing a lot of airlines announce interior refreshes as they try to better segment their cabins and increase the premium offerings. So I'm just kind of wondering if you could provide what's the revenue now? What kind of growth CAGR do you see there, say, over the next 3, 4 years? And what's the margin potential for that business?
+
+John Holmes
+Chairman, President & CEO
+
+Yes. I appreciate the question. We didn't disclose the revenue, but what we can say is that, that is one of the main reasons we decided to make this acquisition. This is a market we do participate in, in a limited way today, but A-R-T brings much needed engineering, IP and self-certification expertise to allow us to become a much bigger player in that market.
+
+And you hit the nail on the head. This is an area that is very strong now and expected to grow as airlines are constantly looking to refine their offering and reposition the resources inside of their cabin to meet the demand. And this acquisition puts us in a really strong position to participate in that market, coupled with our heavy maintenance offering.
+
+Scott Mikus
+Melius Research LLC
+
+Okay. And then one more quick question. I mean just -- I think last quarter, you mentioned there was a meaningful pickup in USM sales. Just wondering if that trend continued this quarter. And are airlines maybe reconsidering retiring aircraft and parting them out just given that demand looks like it's improved in recent months and now fuel prices are pretty low.
+
+John Holmes
+Chairman, President & CEO
+
+Yes. I would -- so we saw about the same level of activity in USM this quarter as we did last quarter. And I would say there's been no material change in the market in terms of availability since what we discussed last quarter. So it's pretty much status quo. But we're really focused, as you could tell, on the new parts distribution business, which has exceptional momentum in the market right now, and it continues to gain wide acceptance.
+
+Scott Mikus
+Melius Research LLC
+
+Okay. And then a quick one for Sarah. I just wanted to clarify. I think you said new parts distribution sales were up 32% organically. I was wondering if you could parse that out maybe between commercial and government.
+
+Sarah Flanagan
+Interim CFO & VP of Financial Operations
+
+Yes. I would say in the quarter, roughly 50% of that growth came from commercial and the other 50% came from defense. So we had a really strong quarter on both fronts.
+
+Operator
+
+[Operator Instructions] Our next question comes from the line of Ken Herbert with RBC.
+
+Kenneth Herbert
+RBC Capital Markets, Research Division
+
+John, on the USM front, one of your major partners, FTAI, has announced an aeroderivative IGT offering for the CFM56. It sounds like overall activity for you on that engine with FTAI may have been trending down. But do you see this potentially as a risk longer term to engine volumes perhaps for your USM business as we maybe see more traction of aeroderivative engines in the non-aerospace markets?
+
+John Holmes
+Chairman, President & CEO
+
+No, I appreciate you asking the question. I really don't see it as a risk. In the immediate term, as you just indicated, FTAI -- and they're a great partner. They've had such demand for these assets that we have seen our activity with them decline significantly over the last year plus, yet our team in the USM business has been able to continue to source CFM material out in the market to basically make up for the lack of volume with FTAI. So our skill in the USM business is finding material in the market where others cannot. And I'm very confident that despite potentially this new demand vector for that engine, we'll continue to be able to find material.
+
+Operator
+
+[Operator Instructions] I'm showing no further questions in the queue. I would now like to turn the call back over to John for closing remarks.
+
+John Holmes
+Chairman, President & CEO
+
+It looks like we have some more questions.
+
+Operator
+
+Yes, they just popped up [Operator Instructions] Our next question comes from the line of Michael Ciarmoli with Truist Securities.
+
+Michael Ciarmoli
+Truist Securities, Inc., Research Division
+
+Not sure what was going on, but real nice results. John, just how should we think -- you've given sort of the annual guidance in terms of revenues. We've got some dilution on the margins. Any thoughts on how we should think about that adjusted operating margin, maybe, call it, a 10% ceiling when you can kind of firmly punch through that.
+
+It does seem like, I guess, with more of a full quarter, you kind of talked about it, you get a little bit of that dilution from HAECO. It's going to take a little bit. But anything in terms of how we should think about those adjusted margins going forward, taking into account the synergies, the cost out and some of the other benefits?
+
+John Holmes
+Chairman, President & CEO
+
+Yes. I would say, first of all, we're really pleased with the trajectory we've been on, right? This is only the second time we've been above 10% in the quarter. We're up a full point from last year. And I think as we've said in various settings, we see the ability to achieve a couple of points above where we are now. The HAECO integration is going to be a near-term dilutionary, as you said, for the next couple of quarters. But as a result of the integration, as a result of exiting our higher cost location in Indianapolis, we feel very good about punching above that 10% level over time.
+
+Michael Ciarmoli
+Truist Securities, Inc., Research Division
+
+Okay. Okay. And then just on the revenue outlook for the year, do you have any contributions from the new capacity coming online in this current fiscal '26 guidance? Or is it going to be a more pronounced positive impact next year?
+
+John Holmes
+Chairman, President & CEO
+
+It will be a more pronounced positive impact next year. Yes, it will be a more pronounced positive impact in our FY '27. We will see a slight contribution from the Oklahoma City site that will come online likely in February time frame. But the Miami site will come online fully in, call it, July time frame. So both of those will be a full run rate for our FY '27.
+
+Michael Ciarmoli
+Truist Securities, Inc., Research Division
+
+Okay. Perfect. And then I'm going to ask you this one anyway. I get this question a lot from clients and have gotten it. Just on the rationale to expand that lower-margin MRO heavy maintenance. It often gets perceived as the wrench-turning aspect of the business. I mean, to me, it makes a lot of sense, but you're kind of adding to the lowest margin portion of your business. I know you talked about the synergies -- just the thoughts on maybe skewing more towards that higher-margin parts business? Or how should we think about it? How should investors really think about that when they see deploying capital there?
+
+John Holmes
+Chairman, President & CEO
+
+Yes. So I'm really happy that you were able to get the question in because that's one that I'm happy to answer. It is not a low-margin business. We have made more margin gains in the heavy maintenance area since -- over the last -- since coming out of COVID than anywhere else. So now that business is a low double-digit margin business with potential to expand as a result of this acquisition as we improve the fixed cost base. Not only that, we now have circa 45%, 50% market share and the customers are coming to us.
+
+And so the investments that we've made in our processes that improve the turnaround, as I described, I mean, they're allowing us to sell out through the end of the decade and in certain cases, achieve a premium in the market. So that business, I think, is misunderstood. If you look at the margins in our Repair and Engineering segment and look at them compared to other publicly traded MROs they're actual -- they trade differently than we do.
+
+They're actually pretty similar, and we're telling you that we can expand margins from here. So I think the historical view that airframe is a tough business, it's low margin, et cetera. It is a tough business, but we've developed a model that is succeeding significantly, and that's thanks to our execution and the systems that we've put in place. So I'm really excited about the HAECO acquisition and the potential for further margin expansion across all the heavy maintenance.
+
+Operator
+
+[Operator Instructions] Our next question comes from the line of Sheila with Jefferies.
+
+Sheila Kahyaoglu
+Jefferies LLC, Research Division
+
+Congrats on a great quarter. John, maybe on the last line of questioning, if that's okay, sticking to Repair and Engineering. Maybe, I guess, just bigger picture, how do you think about margin expansion within the segment? And then second, as we think about HAECO and I know you already talked about it with Mike a little bit, how do you think about going from 3% margins or low single digits to double-digit margins? How much of that comes from the contract realignment versus the cost rationalization?
+
+John Holmes
+Chairman, President & CEO
+
+I think it's -- okay. So I would say, in general, in the segment, we would see going back to the levels that we were a year ago in terms of margins, so low double digit and then expanding from there. So I would view the moment that we're in right now in repair and engineering as a low point. We got a couple of quarters to get through as we get through the bulk of the -- or the real heavy lifting as it comes to the -- as it relates to the HAECO acquisition, but then we'll go up from there and then ultimately exceed where we were prior to this.
+
+And again, as I mentioned, we've got the customer support and the customer commitments over a multiyear period to achieve all of that. So I feel good about the overall margin profitability in repair and engineering. And one other thing I should mention is that I'm talking about heavy maintenance. The component repair business is a mid- to high teen operating margin business. And as I talked about earlier, we intend to leverage the leadership position that we have in heavy maintenance to drive more volume to component repair, which will further enhance those margins of the overall segment.
+
+As it relates to the HAECO integration -- as it relates to the HAECO integration in particular, it would be a mix between the revenue realignment and the cost takeout. And I should mention that we are taking the revenues down from what HAECO was doing before pretty significantly. And so we're bringing the volume of that -- across the facilities down to a level where we can establish our processes, establish the rigor that we want to see that we've been able to achieve elsewhere on the floor in the hangars and then ultimately build up from there.
+
+So we're utilizing -- we're not utilizing the full footprint. We're rightsizing the labor force to match the volume to get the operations performing the way we want. But then over time, we would intend to build up from here. And I should mention that we've done that successfully in several of our other existing facilities, and we're obviously doing that in Miami and Oklahoma City because we're expanding those 2 sites.
+
+Sheila Kahyaoglu
+Jefferies LLC, Research Division
+
+Yes. Great. And then maybe just switching gears a little bit. Lots of questions already on your success in parts distribution accelerating over 30% in the quarter. Can you talk about what you're expecting? You -- Sarah mentioned 50% of that came from government customers. What you're thinking about the second half of the year?
+
+John Holmes
+Chairman, President & CEO
+
+Yes. I would say, again, we've been kind of on an annual run rates of circa 20% organic growth. And I would think that we would be slightly above that in the second half of the year.
+
+Operator
+
+I'm showing no further questions at this time. I would now like to turn the call back over to John for closing remarks.
+
+John Holmes
+Chairman, President & CEO
+
+Great. Really want to thank everybody for the time and the interest. As you can tell, we've got a strategy that's working. We're encouraged by the momentum that we have, and we expect it to continue and look forward to getting back together next quarter. Thanks, everybody.
+
+Operator
+
+Ladies and gentlemen, that concludes today's conference call. Thank you for your participation. You may now disconnect.

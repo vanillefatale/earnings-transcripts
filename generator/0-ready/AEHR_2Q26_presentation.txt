@@ -1,0 +1,124 @@
+Aehr Test Systems, Inc. (AEHR) Q2 2026 Earnings Call January 8, 2026 5:00 PM EST
+
+Company Participants
+
+Gayn Erickson - President, CEO & Director
+Chris Siu - CFO, Executive VP of Finance & Secretary
+
+Conference Call Participants
+
+Jim Byers - PondelWilkinson Inc.
+Christian Schwab - Craig-Hallum Capital Group LLC, Research Division
+Jonathan Dorsheimer - William Blair & Company L.L.C., Research Division
+Maxwell Michaelis - Lake Street Capital Markets, LLC, Research Division
+Larry Chlebina - Chlebina Capital Management, LLC
+
+Presentation
+
+Operator
+
+Greetings. Welcome to the Aehr Test Systems Fiscal 2026 Second Quarter Financial Results Conference Call. [Operator Instructions] Please note, this conference is being recorded. I will now turn the conference over to your host, Jim Byers of PondelWilkinson, Investor Relations. You may begin.
+
+Jim Byers
+PondelWilkinson Inc.
+
+Thank you, operator. Good afternoon, and welcome to Aehr Test Systems Second Quarter Fiscal 2026 Financial Results Conference Call. With me on today's call are Aehr Test Systems' President and Chief Executive Officer, Gayn Erickson; and Chief Financial Officer, Chris Siu. Before I turn the call over to Gayn and Chris, I'd like to cover a few quick items. This afternoon, right after market closed, Aehr Test issued a press release announcing its second quarter fiscal 2026 results.
+
+The release is available on the company's website at aehr.com. This call is being broadcast live over the Internet for all interested parties, and the webcast will be archived on the Investor Relations page of the company's website. I'd like to remind everyone that on today's call, management will be making forward-looking statements that are based on current information and estimates and are subject to a number of risks and uncertainties that could cause actual results to differ materially from those in the forward-looking statements.
+
+These factors are discussed in the company's most recent periodic and current reports filed with the SEC. These forward-looking statements, including guidance provided during today's call, are only valid as of this date, and Aehr Test Systems undertakes no obligation to update the forward-looking statements. Now with that, I'd like to turn the conference call over to Gayn Erickson, President and CEO.
+
+Gayn Erickson
+President, CEO & Director
+
+Thanks, Jim. Good afternoon, everyone, and welcome to our second quarter fiscal '26 earnings conference call. I'll begin with an update on the key markets we're targeting for semiconductor test and burn-in with a particular focus on the common growth drivers we're seeing across these markets, which is namely the massive explosion of AI and data center infrastructure.
+
+After that, Chris will walk through our financial performance for the quarter, and then we'll open up the call for questions. While second quarter revenue was softer than anticipated, we made significant progress in both wafer-level burn-in and packaged-part burn-in segments and are very excited about our prospects moving forward. Based on customer forecasts recently provided to Aehr, we believe our bookings in the second half of this fiscal year will be between $60 million and $80 million, which would set the stage for a very strong fiscal '27 that begins on May 30.
+
+During the quarter, we made substantial progress with wafer-level burn-in engagements and production installations across AI processors, flash memory, silicon photonics, gallium nitride and hard disk drives. We're encouraged to see that one of our key growth strategies focused on reliability solutions for the exploding demand for AI and data center infrastructure is beginning to bear fruit. In packaged-part burn-in, we secured key new device wins for our Sonoma system supporting high-temperature operating life qualifications for AI devices.
+
+These wins are expected to drive additional capacity at test houses, including at least one customer that has elected to move into production in late calendar '26, which we believe could result in meaningful volumes of Sonoma production systems. In addition, in the last month, we received a very large forecast from our lead Sonoma production customer for AI ASIC production capacity. This forecast is expected to drive very strong and potentially record bookings for the company this fiscal year and position us well for significant revenue growth next fiscal year with their requested shipments starting in the first fiscal quarter of our next fiscal year.
+
+Taken together, our increased visibility across multiple end markets gives us great confidence in our outlook. As a result, we're reinstating financial guidance in fiscal '26, which we'll touch on later in today's call. Now let's talk about our key segments. Starting with our wafer-level burn-in during the quarter, we expanded engagements and completed additional production installations across several end markets.
+
+Our lead AI wafer-level burn-in customer continues development of its next-generation processor and is currently discussing additional capacity with us. They're forecasting additional system and WaferPak capacity orders this fiscal year and plan to transition to our fully integrated automated WaferPak aligner for 300-millimeter wafers. We expect this customer to continue scaling and excited to support their growth. We also announced a strategic expansion of our partnership with ISE Labs during the quarter to deliver advanced wafer-level test and burn-in services for next-generation high-performance computing and AI applications.
+
+This partnership accelerates time to market, improves performance and gives customers the option of either packaged-part or wafer-level test and burn-in for their production volumes. ISE, together with its parent company, ASE, represents the world's leading outsourced semiconductor assembly and test or OSAT platform, serving a global roster of top-tier semiconductor customers.
+
+As part of our benchmark evaluation program with a top-tier AI processor supplier we announced last quarter, we completed development of our new fine-pitch WaferPaks for wafer-level burn-in of high-current AI processors. These are currently in test with this potential customer's processors and are designed to validate our FOX-XP production systems for wafer-level burn-in and functional test of their high-performance, high-power AI processors.
+
+We're currently completing start-up procedures such as power-up sequencing, thermal profiling, test vectors, timing and high-speed differential clocks and expect to complete data collection this quarter. While we're demonstrating our new fine-pitch high-current WaferPaks for this benchmark, many customers can utilize lower-cost WaferPak designs if certain design for test rules are incorporated upfront. These approaches reduce cost and lead time and are especially attractive to customers focused on faster time to market for wafer-level high-temp operating life qualification.
+
+We also have 2 additional AI processor companies planning wafer-level benchmark evaluations since last quarter's earnings call. These benchmarks typically take about 6 months, and we expect to make meaningful progress beginning this quarter. Both customers are evaluating wafer-level test and burn-in as an alternative to packaged-part or system-level test for large advanced AI modules that combine multiple AI accelerators and stacked high-bandwidth memory.
+
+Moving burn-in upstream to the wafer-level significantly reduces cost and yield risk by avoiding scrapping expensive substrates and memory stacks when early failures occur later in the process. We have seen estimates that show the cost of the substrate is more than a single processor and the cost of the high-bandwidth memory is even higher. Turning to flash memory. We completed our wafer-level benchmark with a global leader in NAND flash just prior to the holidays. The customer has now taken the wafers back for further processing to validate correlation with their internal process.
+
+This benchmark demonstrated our ability to test flash memory wafers with significantly higher parallelism and power than is possible using traditional probers and group probers from companies such as TEL or ACCRETECH. We've also proposed a next-generation solution enabling test of a new emerging flash memory device called High Bandwidth Flash or HBF, designed for AI workloads. This proposed solution leverages our FOX-XP platform, WaferPaks and auto-aligner technology and would support single touchdown high-power test on 300-millimeter wafers.
+
+While development of this system would take over a year following customer commitment, we believe this represents a compelling entry point into a large and evolving memory market. We look forward to sharing more details as this progresses. Turning to silicon photonics. We believe that silicon photonics is used -- we believe that silicon photonics used in data center and also chip-to-chip I/O is going to be a significant market driving production burn-in capacity for our FOX wafer-level burn-in systems and WaferPaks.
+
+Our lead customer has now firmed up its production ramp, which we expect to begin early next fiscal year. While this timing is later than previously expected, it aligns with recently announced AI processor platforms and positions us well for calendar 2026 orders and deliveries in fiscal '27. We've also finalized a forecast with another major silicon photonics customer initially targeting data center applications with a road map toward optical I/O.
+
+We expect to book their initial turnkey FOX system soon with delivery planned for May of this year. In gallium nitride power semiconductors, we continue to support our lead production customer, though we experienced delays related to unanticipated high-voltage fault conditions that required WaferPaks and protection circuit redesigns.
+
+This delayed approximately $2 million in WaferPak shipments from last quarter into this quarter, along with some in-system -- along with some system enhancements. Shipments have now resumed and lessons learned have significantly strengthened our GaN power supply burn-in capability. If anyone tells you that testing and burning-in full wafers of GaN power semiconductors with up to 600 volts or more is easy, don't listen to them.
+
+We also continue to engage with multiple new potential GaN customers and are developing WaferPaks for several new device designs that are expected to go to high-volume production for applications like data center infrastructure and power delivery, automotive electrical power distribution on both ICE and hybrid electric vehicles and even power semiconductors used for electrical breakers.
+
+Aehr has a unique solution that can deliver full turnkey, fully automated wafer handling and probing for test and burn-in of GaN wafers in sizes from 6 to 8 inches and even 12 inches or 300-millimeter wafers. Turning to silicon carbide. As we previously discussed, silicon carbide demand has been weighed toward the end of this fiscal year. Customers continue to be optimistic about this market and their capacity needs.
+
+But we've tried to take a very conservative stance that is mostly show us the orders before we believe them. Our lead customer recently transitioned from 150 millimeters to 200-millimeter wafers, nearly doubling output without adding new FOX-XP systems and supported by Aehr's proprietary WaferPaks that we developed to accommodate both 150 and 200-millimeter wafers contacting 100% of the die on each in a single touchdown.
+
+They're now seeing additional needs for WaferPaks this year, but additional capacity for systems appears to be a year out. We pushed out expected orders until next fiscal year from our near-term forecast, but have capacity of systems or WaferPaks to continue to support their surge capacity needs as well as our other silicon carbide customers. While electric vehicle-related demand has slowed industry-wide, we remain well positioned with the most competitive wafer-level burn-in solution available, and we expect to benefit when growth resumes.
+
+In semiconductors used in data center hard disk drives, we're installing the additional FOX-CP systems for a major supplier of hard disk drives for wafer-level burn-in of their special components in their drives. They've indicated plans for additional purchases later this calendar year.
+
+While their device unit volumes are very large, the overall revenue opportunity remains modest due to short stress times and the massive parallelism achieved on our FOX-CP system and proprietary high-power WaferPak wafer contactors. Now let me talk about packaged-part burn-in. We're seeing continued momentum in packaged-part qualification and production burn-in for AI processors, driving growth in our new Sonoma ultra-high-power packaged-part burn-in systems and consumables.
+
+As we announced today in a separate press release, during our fiscal third quarter to date, we have received orders from multiple customers totaling more than $5.5 million for our Sonoma ultra-high-power packaged-part burn-in systems, including initial orders from a premier Silicon Valley test lab for our newly introduced higher-power configured Sonoma system that can also support full automation.
+
+These orders already exceed the total Sonoma orders for the entire second quarter, highlighting the accelerating demand we're seeing for our package-level burn-in of high-powered AI and compute devices. This quarter, we also secured key new device wins on the Sonoma platform for high-temp operating life qualification. These wins are expected to drive additional capacity at test houses, with at least one customer planning to transition to production later this calendar year, generating significant system demand.
+
+Our lead packaged-part burn-in production customer for AI processors continues to ramp and is forecasting substantial growth in 2026 and beyond. Although we have not yet received the purchase order, we have received a substantial forecast from this customer for AI ASIC production capacity with requested Sonoma production, packaged-part burn-in system and BIM shipments beginning in the fiscal first quarter of '27. That starts May 30, which we expect to contribute to very strong bookings in fiscal '26 and generate significant revenue growth in fiscal '27.
+
+This customer also plans to introduce much higher power ASICs later this year for which we are already developing the high-temp operating life qualification burn-in modules and sockets to be used on the Sonoma systems at one of the premier Silicon Valley test services companies that have many systems installed. This AI accelerator ASIC processor is also forecasted to go to production burn-in and drive even higher volume needs for production burn-in systems downstream at the OSATs in Asia.
+
+We feel we're very well positioned with our Sonoma system for this production capacity need and believe this could drive very substantial volumes of Sonoma systems in our next fiscal year. During the quarter, we completed development of a next-generation fully automated higher-power Sonoma system, supporting up to 2,000 watts per device.
+
+This system enables continuous flow operation, improved throughput and seamless transition from qualification to high-volume production using the same fixtures and sockets. These capabilities enable customers who are focused on high-temp operating life reliability testing to have a system that is fully software and hardware compatible with the Sonoma systems they have installed, which simplifies and accelerates time to market that is critical for HTOL testing of new AI processors.
+
+This Sonoma burn-in system can also simply bolt on a fully automated handler developed and sold by Aehr Test as a turnkey solution to allow hands-free operation with less than a couple of minutes of overhead per burn-in cycle, which is amazing for production burn-in needs. We're also seeing increased demand for our lower-power Echo and Tahoe packaged-part burn-in systems, driven by our installed base of more than 100 systems across over 20 semiconductor companies worldwide.
+
+But I'll wait for another call to discuss these systems and the markets they serve in more detail. As stated last quarter, the rapid advancement of generative AI and the accelerating electrification of transportation and global infrastructure represent 2 of the most significant macro trends impacting the semiconductor industry today. These transformative forces are driving enormous growth in semiconductor demand while fundamentally increasing the performance, reliability, safety and security requirements of the devices used across computing and data infrastructure, telecommunications networks, hard disk drive and solid-state storage solutions, electric vehicles, charging systems and renewable energy generation.
+
+All these -- as these applications operate at ever higher power levels and an increasingly mission-critical environments, the need for comprehensive test and burn-in has become more essential than ever. Semiconductor manufacturers are turning to advanced wafer-level and package-level burn-in systems to screen for early life failures, validate long-term reliability and ensure consistent performance under extreme electrical and thermal stress conditions.
+
+This growing emphasis on reliability testing reflects a fundamental shift in the industry from simply achieving functionality to guaranteeing dependable operation throughout a product's lifetime. A requirement that continues to expand alongside the scale and complexity of next-generation semiconductor devices. This year, we're making significant progress expanding into additional key markets for our semiconductor test and burn-in solutions, including AI processors, gallium nitride power semiconductors, data storage devices, silicon photonics integrated circuits and flash memory.
+
+This diversification of our markets and customers is significant given our revenue concentration in silicon carbide for electric vehicles the last 2 years. This progress and key initiatives expands our total addressable market, diversifies our customer base and provides us with new products, capabilities and capacity, all aimed at driving revenue growth and increasing profitability. The progress we made this quarter with a significant number of customer engagements and production installations provides improved visibility into future demand.
+
+As a result, we're reinstating guidance for the second half of fiscal '26. For the second half of fiscal '26, which began November 29, '25 and ends this May 29, '26, Aehr expects revenue between $25 million and $30 million. As stated earlier, although we're not providing formal bookings guidance, based on customer forecast recently provided to Aehr, we believe our bookings in the second half of this fiscal year will be much higher than revenue between $60 million and $80 million in bookings, which would set the stage for a very strong fiscal '27 that begins on May 30, 2026.
+
+With that, let me turn it over to Chris, and then we'll open up the lines for questions.
+
+Chris Siu
+CFO, Executive VP of Finance & Secretary
+
+Thank you, Gayn, and good afternoon, everyone. I'll begin with bookings and backlog, then walk through our second quarter financial performance, cash position, outlook and investor activity. The company recognized bookings of $6.2 million in the second quarter of fiscal 2026 compared to $11.4 million in the first quarter. At the end of the quarter, our backlog was $11.8 million.
+
+Importantly, during the first 6 weeks of the third quarter, we received an additional $6.5 million in bookings. This increase was driven primarily by an order from a premier Silicon Valley test lab for our newly introduced high-power configured Sonoma system, which we announced this afternoon. Including these recent bookings, our effective backlog has now grown to $18.3 million, providing increased visibility as we move through the remainder of fiscal 2026.
+
+Turning to our second quarter results. Revenue was $9.9 million, down 27% from $13.5 million in prior year period. The decline was primarily driven by lower shipments of WaferPaks, partially offset by stronger demand for our Sonoma systems from our hyperscaler customer. Contactor revenues, which include WaferPaks for our wafer-level burn-in business and BIMs and BIBs for our packaged-part burn-in business totaled $3.4 million, representing 35% of total revenue. This compares to $8.6 million or 64% of revenue in the second quarter last year.
+
+Non-GAAP gross margin for the second quarter was 29.8% compared to -- with 45.3% a year ago. The year-over-year decline reflects lower overall sales volume and a less favorable product mix as last year's quarter included a higher proportion of higher-margin WaferPak revenue. Non-GAAP operating expenses in the second quarter were $5.7 million, down 4% from $5.9 million in Q2 last year. The decrease was primarily due to lower personnel-related expenses, which were partially offset by a high research and development costs, including high project spending as we continue to invest resources in AI benchmark initiatives and memory-related programs.
+
+As previously announced, we successfully closed the Incal facility on May 30, 2025, and completed the consolidation of personnel and manufacturing into Aehr's Fremont facility at the end of fiscal 2025. During the quarter, we negotiated an early lease termination with the landlord, reducing our obligation by 5 months of rent. As a result, we recorded a reversal of $213,000 related to a previously accrued onetime restructuring charge.
+
+During the quarter, we recorded an income tax benefit of $1.2 million, resulting in an effective tax rate of 27.3%. Non-GAAP net loss for the quarter, which excludes the impact of stock-based compensation, acquisition-related adjustments and restructuring charges was $1.3 million or negative $0.04 per diluted share compared to net income of $0.7 million or $0.02 per diluted share in the second quarter of fiscal 2025.
+
+Turning to cash flow. We used $1.2 million in operating cash during the second quarter. We ended the quarter with $31 million in cash, cash equivalents and restricted cash, up from $24.7 million at the end of Q1. The increase was primarily due to proceeds from our at-the-market equity program. As a reminder, in the second quarter of fiscal 2025, we filed a new $100 million S-3 shelf-registration that was approved by the SEC for 3 years, followed by an ATM offering of up to $40 million.
+
+During the second quarter of fiscal 2026, we raised $10 million in gross proceeds through the sale of about 384,000 shares. At quarter end, $30 million remained available under the ATM. We intend to utilize the ATM selectively with a disciplined approach focused on market conditions and shareholder value. Looking ahead to the second half of fiscal 2026, which began on November 29, 2025, and ends on May 29, 2026, we expect total revenue between $25 million to $30 million and non-GAAP net loss per diluted share between negative $0.09 and negative $0.05 for the 6-month period.
+
+On the Investor Relations front, last month on December 17, 2025, Lake Street Capital initiated analyst research coverage on Aehr Test, along with equity research firm, Freedom Broker, which initiated coverage last June. There are now a total of 4 research firms covering the company. Lastly, looking at the Investor Relations calendar. We will meet with investors at the 28th Annual Needham Growth Conference in New York on Tuesday, January 13, and then return to New York in February for the 15th Annual Susquehanna Technology Conference on Thursday, February 26. We will also be participating virtually in the Oppenheimer Emerging Growth Conference on Tuesday, February 3. We hope to see you at these conferences. That concludes our prepared remarks. We're now happy to take your questions. Operator, please go ahead.
+
