@@ -1,0 +1,70 @@
+[ 어닝콜 요약 ]
+
+매출 +16% YoY ($795M)
+- Parts Supply 부문의 29% 성장 주도, 특히 신제품 Distribution 활동이 32% 유기적 성장 기록
+- 정부 고객 매출 23% 증가, 상업 고객 매출 13% 증가
+- 전체 매출 중 상업 고객 71%, 정부 고객 29% 비중
+
+Sales by segment
+1) Parts Supply $354M (YoY +29%)
+   - 신제품 Distribution 활동이 32% 성장하며 부문 성장을 견인 (ADI 인수분 제외)
+   - 조기 계약 갱신과 OEM과의 2-way 독점 유통 모델이 시장 점유율 확대에 기여
+   - 조작 레버리지 확대 및 비용 관리로 EBITDA 마진 13.2%로 상승
+
+2) Repair and Engineering $245M (YoY +7%)
+   - 항공기 동체 중정비 수요 강세 지속
+   - HAECO Americas 인수로 1개월 실적 포함, 통합 초기 비용으로 마진 소폭 하락 (EBITDA 마진 12.8% → 13.5%)
+   - 오클라호마 시티 및 마이애미 공장 확장 진행 중, 2026년 가동 예정
+
+3) Integrated Solutions $176M (YoY +8%)
+   - 정부 프로그램 중심 성장
+   - EBITDA 50% 증가, 운영 마진 5.1%에서 8.6%로 개선
+
+GPM  - 구체적 수치 미공개
++ 운영 효율성 개선 및 제품 믹스 개선
+- 구체적 부정 요인 언급 없음
+
+OPM 10.2% (+100 bps)
++ Parts Supply 부문의 운영 레버리지 확대 및 비용 절감
++ 정부 프로그램과 Repair 부문의 효율성 개선
+- Repair and Engineering 부문 HAECO 인수 초기 비용 영향
+
+[ 가이던스 요약 ]
+
+Guidance Q3 FY2026 (updated)
+- Revenue growth 20%-22% vs. 기존 미공개 [유지/상향 추정]
+- Organic sales growth 8%-11% (ADI, HAECO 인수 효과 제외)
+- Adjusted operating margin 9.8%-10.1% (기존 대비 유지)
+
+Guidance FY2026 (updated)
+- Total sales growth 약 17% vs. 기존 미공개 [유지]
+- Organic sales growth 약 11% vs. 기존 미공개 [유지]
+
+주요 변화
+- 1H 강한 실적과 ADI, HAECO 인수 효과 반영
+- 신제품 Distribution과 Repair 부문 확장, 통합 비용 및 시너지 기대 반영
+
+[ Comments 요약 ]
+
+[Parts Supply 성장 및 독점 유통 모델]
+① 신제품 Distribution이 4년 연속 20% 이상 유기적 성장하며 부문 성장을 견인
+② 2-way 독점 계약(5~10년)으로 OEM과 깊은 관계 구축, 100% 계약 갱신률 유지
+③ Eaton과 협력해 유럽·중동·아프리카 지역에서 부품 공급과 서비스 시너지 창출
+④ ADI 인수로 생산자 대상 유통 채널 확보, OEM 파트너십 활용해 추가 성장 기대
+
+[Repair and Engineering 확장 및 통합]
+① 오클라호마 시티 및 마이애미 공장 확장으로 2026년 약 $60M 추가 매출 예상
+② HAECO Americas 인수 후 12~18개월간 통합 작업 진행 중, 초기에는 마진 희생 예상
+③ 인디애나폴리스 고비용 시설 폐쇄 및 작업 재배치로 장기적 비용 절감 및 마진 개선 목표
+④ 신규 계약 $850M 확보로 안정적 수익 기반 마련
+
+[디지털 및 소프트웨어 역량 강화]
+① Trax와 Aeroxchange 파트너십으로 고객의 부품 및 수리 구매 편의성 증대
+② Trax가 Thai Airways에 eMRO ERP 및 클라우드 솔루션 공급 계약 체결
+③ 소프트웨어 및 IP 기반 사업이 성장 전략의 핵심 축으로 자리잡음
+
+[자본 배분 및 재무 관리]
+① 3건의 전략적 인수(ADI, HAECO, A-R-T)로 포트폴리오 강화 및 성장 가속화
+② 순부채비율 2.49배로 목표 범위(2.0~2.5배) 내 진입, 재무 유연성 확보
+③ 유기적 성장과 M&A를 통한 균형 잡힌 자본 배분 지속
+④ 3분기 현금흐름 긍정적 전망, 이자 비용 소폭 감소 예상
