@@ -1,0 +1,242 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question will come from Scott Devitt with Wedbush Securities.
+
+Scott Devitt
+Wedbush Securities Inc., Research Division
+
+It's been impressive to see the business growing at the rate that it is again. And we're kind of entering this new moment in time. And so I just wanted to zoom out for a minute. When you look back on the history of the Internet, Google Search and then the transition to mobile were significant developments that caused seismic change. And so we're kind of here again with AI. You talk a bit about some of the features, functionality that you're integrating into the into the platform and how you're attempting to use ChatGPT and otherwise.
+
+And I'm just curious, as you plan for the changes that AI is going to bring to the business, what do you think are the two, three, four most significant changes that you're anticipating in the way that eBay is going to be connecting with buyers and sellers as well as the approach to advertising in coming years?
+
+Jamie Iannone
+CEO, President & Director
+
+Yes. Thanks for the question, Scott. So, look, I think in a number of ways. I think one of the biggest opportunities for us being really focused on non-new in season and used supply is to really be that unlocker of supply for consumers across the world. And so when you think about what's sitting in garages, closets, people's houses, the ability to leverage AI to make that almost instantaneous to list is a vision of ours that we've been progressing towards magical listing and is going well. And what I hear from consumers is, oh my God, if it's that easy to list, I have so much stuff that I could sell on the platform. So that's a big opportunity for us.
+
+I think the second is how it's transforming how people shop and the level of discovery that we can give them on the platform. When I look at what we're doing now with having so much rich data of 30 years of data of what's happening with our consumers in the marketplace, being able to leverage that in a way that really kind of delights the user and gives them an ideal experience, I think, is another huge benefit. How it changes recommendations, how it changes search, how it changes discovery on the platform is probably the second area that I'm most excited by.
+
+And then the last one I would say is really kind of the pace of innovation of the company leveraging AI. And you're seeing that this quarter as we announced a new visual camera intelligence with Apple in the camera phone as we bring new capabilities to save sellers time like in our member-to-member messaging that we're launching here, the work that we're doing in our own shopping assistant, we have a screenshot of some of that type of stuff that you're seeing in the slides that we put together, giving more relevant recommendations to our buyers on the view item pages.
+
+You talked about advertising. Even what we announced this quarter, where we're taking a multimodal approach to our advertising performance provides more high-quality recommendations.
+
+So, I'd say every quarter, AI is becoming more embedded throughout our experience. I feel privileged to be in a situation where we've got a technology infrastructure that really blends a hybrid cloud infrastructure, our own LLMs that we've been building on, agentic protocols and 30 years of data, bringing that all together to kind of bring those simpler, more seamless and more magical experiences to life for customers.
+
+Operator
+
+Your next question will come from Nikhil Devnani with Bernstein Research.
+
+Nikhil Devnani
+Sanford C. Bernstein & Co., LLC., Research Division
+
+I wanted to ask about margins. You've had really strong growth this quarter and again, in the guide, but it doesn't seem to be flowing through the margin upside to the same degree. So could you please elaborate on where some of the incremental investments are right now? It's noticeable that product development has been ramping for the last couple of quarters. Should we be looking at this as a pull forward of certain fixed costs that would otherwise have happened in 2026 because you can now? Or are there also other more variable and persistent expenses that we need to take into account as we think about margins next year?
+
+Peggy Alford
+Chief Financial Officer
+
+Sure. Thank you for the question. So when we think about margins, we're really trying to balance driving long-term growth and then returning and flowing through upside to the bottom line. I'm very pleased with the 9% operating profit growth that we achieved in Q3 and this momentum that we continue to see in the business. Our non-GAAP operating margin in Q3 was 27.1%, and that included an FX headwind of 10 basis points, and we did generate operating leverage in the quarter.
+
+In terms of some of the expense lines, sales and marketing expense was up 2% year-over-year and flat quarter-over-quarter. and this was due to marketing efficiencies. Product development expenses that you mentioned, we actually did take some of the upside, and we were investing in product development against some of our very strategic initiatives, including eBay Live, our shipping solutions where we pulled forward our CBT road map to really help sellers navigate the changes in the trade policies and then really looking at more investment in our vehicles business as well. And we believe this strategy is working and will primarily benefit our growth next year and beyond.
+
+Our G&A expenses were up about 4% year-over-year and down 40 basis points as a percentage of revenue, and this was driven by lower employee-related spend. And then lastly, transaction losses were up 19%. A lot of it had to do with our higher consumer protection losses that were due to the ramp of the U.K. managed shipping program as well as some unfavorable fluctuations in buyer and seller fraud. This is an area that fluctuates quarter-by-quarter, but nothing really concerning in the trends.
+
+So, overall, we will continue to focus on ensuring that we're balancing top line growth and margin flow-through and trying to really get this balance right as we think about it going forward.
+
+Nikhil Devnani
+Sanford C. Bernstein & Co., LLC., Research Division
+
+If I could just follow up there. Do some of the investment this year ease the burden on next year? Or is there just a long list of things you want to go after as you think about the product road map?
+
+Peggy Alford
+Chief Financial Officer
+
+We will continue to invest in our priority areas as we look into Q4 and next year. We're pretty early in the planning cycle. And so we'll definitely provide more commentary as we get more information about how we want to invest in getting that balance right between top line and bottom line. But you can be assured that, that's what we'll be focused on.
+
+Operator
+
+Your next question will come from Nathan Feather with Morgan Stanley.
+
+Nathaniel Feather
+Morgan Stanley, Research Division
+
+Really impressive growth this quarter. I guess just two on my end. First, given how quickly the marketplace has accelerated, how are you thinking about the portions that might be more temporary to this year and the portions that are more durable for 2026?And then looking forward to next year, what are the key kind of one or two opportunities that you think could be the most incremental to continue the sustained improvement?
+
+Jamie Iannone
+CEO, President & Director
+
+So look, I think the strength that we see was really broad-based in Q3, both in our focus categories and in our core categories. And it's really for us the culmination of years of investment, and that's helped us fuel consistent market share gains.
+
+When we look at the first half of this year, we actually think we picked up 2 points of segment share gains in our focus categories. And you saw the strength across core and across our focus categories.
+
+In terms of the durability, we did see some GMV upside from what we would characterize as transitory factors, which we discussed in our prepared remarks. But we do believe the majority of our growth was durable in nature. And overall, we're confident our strategy is working, and we're leaning in towards a path of sustainable growth.
+
+And as we think about growth vectors, I think it's a continuation of the areas that you've seen, the acceleration that we're seeing in focus categories. We've added fashion as our newest focus category, and we're seeing continued momentum there. We're going to continue to invest in the horizontal areas that we've been going after across selling search, leveraging AI, new discovering experiences, which we think will help focus categories and core categories. And we're excited about some of our newest areas of growth, particularly eBay Live.
+
+I talked about the growth we're seeing, which is a 5x greater run rate than we saw a year ago. And we're just launching some new geographies there in U.K. and Germany as well as our vehicles business. We're in the early phase of growth there, but the early customer satisfaction and feedback from our sellers and buyers is that the new secure checkout proposition is really resonating with them. And we're seeing great activity and purchases, multistate purchases that are now leveraging our financing, our insurance, our warranty, our transportation, title verification, that end-to-end process, which is pretty exciting. So those are the growth vectors that I would point out to you.
+
+Operator
+
+Your next question will come from Deepak Mathivanan with Cantor Fitzgerald.
+
+Deepak Mathivanan
+Cantor Fitzgerald & Co., Research Division
+
+Jamie, maybe I'll ask a couple of questions for you. So, first, how do you -- how are you currently strategically approaching partnerships with AI assistants and agents? Obviously, it seems like a lot of things are happening fast in e-commerce on the agent side. Are there any technical constraints or any other things that you would call out as a potential constraint for you?
+
+And then second question, staying on the AI topic, how should we think about the areas where you would be deploying the advancements that we are seeing with LLMs and other AI tools in 2026 into the eBay platform to improve the buyer experience. Anything you can share there would be great.
+
+Jamie Iannone
+CEO, President & Director
+
+Yes. Thanks for the question, Deepak. So, look, on the -- working with agentic partners, like we've seen on the selling side, where it's really helped us improve our experience, we're excited that our early work for buyers with agentic shopping and discovery really opens up new ways to explore eBay's inventory.
+
+So for now for more than a year, we've been testing a variety of agentic experiences to learn how buyers and sellers engage at different phases of the journey. We've called that our AI shopping assistant that's been live and making improvements month after month to really kind of fine-tune the experience there.
+
+And that's all led us to build what we call the unified agentic commerce platform. Think about that as taking our hybrid cloud infrastructure, the LLM ecosystem that we've built, including these models that we've been fine-tuning over time, along with our MCP servers and driving that, leveraging the LLMs that we've built with these Agentic protocols, combining eBay's 30 years of data and our rich history of what's happening with our customers.
+
+That now puts us -- and this is more to your second question, Deepak. That now puts us more in a really in an enviable position from a technology standpoint to experiment and innovate and really leverage the insights that we've had and that we've gained by doing that work.
+
+When I think about eBay as it relates to agentic commerce, clearly, we're working on bringing agentic commerce to our buyers on the platform, allowing them to search via natural language searches, et cetera. You'll see an example of that in the slides that we put forth together, if you're not in that test case of how we're using that to give them more variability and discovery opportunities as well.
+
+But as we think about our inventory, look, we think we've got really unique inventory because we're focused on non-new in season and used and refurbished across both C2C and B2C sellers and have 2.4 billion listings. Secondarily, when you think about eBay's inventory, it's generally more what I would say is a consider purchase rather than a commodity type of thing that you're just kind of refilling. And the third is that our focus category strategy over the last couple of years has really allowed us to apply services and value around the transaction. Think about authenticity guarantee, guaranteed fit, warranties on refurbish, one-click rating, what we're doing in international, et cetera.
+
+So, all of those, I think, gives us the experience of a really unique set of inventory, which is why we fine-tune and trained our LLMs to be able to search and discover that inventory and collect all those into an MPC -- or sorry, an MCP server that really leverages that data and insights.
+
+So overall, we're going to continue to do the type of thing that we showed in the slides there, which is allow agentic technologies to be used on the platform to discover inventory, to improve how our sellers surface inventory on the platform, to improve how recommendations show up on the platform by leveraging AI agentic technologies. And we also now have the technology that we can really have this collaboration between third-party agents and first-party agents on our own platform.
+
+Operator
+
+Our next question will come from Shweta Khajuria with Wolfe Research.
+
+Andrew Northcutt
+Wolfe Research, LLC
+
+This is Andrew on for Shweta. I just want to focus a little bit on trading cards. So how should we think about the sustainability of growth within the category? And what type of signals or metrics could we use to kind of evaluate the success of the category?
+
+Jamie Iannone
+CEO, President & Director
+
+Yes. Thanks for the question, Andrew. Look, as it relates to trading cards, we see a long runway of growth for trading cards. We believe most of the recent growth has been driven by the trust and the innovation that we've driven for hobbyists over the last several years. Think about all the things we've introduced, Andrew, like My Collection, magical listings, bulk listing capabilities, our partnership with PSA on grading and authentication and on vault storage.
+
+So I've always said that our trading card business is not linear. It's going to ebb and flow based on the popularity of whether it's new releases or collaborations or new rookie classes or chase cards. And we won't always be firing on all cylinders like we are now with all the sports leagues, NFL, NBA, MLB as well as PokÃ©mon and Magic really having strong years. But what we see today is really a healthy balance between new buyers, sold items and ASP contributing to that growth. And that's what gives us the confidence in the durability of our GMV run rate moving forward, even if the year-over-year growth decelerates in the coming quarters.
+
+Operator
+
+Your next question will come from Michael Morton with MoffettNathanson.
+
+Michael Morton
+MoffettNathanson LLC
+
+One big picture one and then maybe one more near-term financial. When we look at the strategy that you deployed with the trading cards, what seems to be really successful was the ability to reduce friction, like walk through all the steps, but we know how that played out through the business. And a question we get a lot from investors recently is how big can your vehicles business be? And like when we look at what Caramel does and what you've done with prior focus categories, it was pretty effective and it's obvious that the cars come at high ASPs and it's going to be booked as GMV. So how should we think about this flowing through the model over the next year and any implications for take rates that could move one way or another we might not have thought through?
+
+And then just a near-term one, I think you rolled out halo attribution in the U.S. and like other North American markets starting in 2026. And I think you had a lot of success with that in other countries around the ad product. So wondering what the expectations are there to drive ads and the take rate.
+
+Jamie Iannone
+CEO, President & Director
+
+Yes. Look, you're right on the vehicles experience, it really is about making it a seamless experience end-to-end, like we've done in trading cards and in other categories. And what we saw in Caramel was really this opportunity for sellers and buyers where we handle everything for them. So identity, title verification, the transfer of ownership, payments, financing, insurance, warranty and transportation because a lot of these cars go across state lines, for example.
+
+So where we're focused is really in the collectible car market, which is about a $75 billion addressable market of the $1 trillion-plus used car market that's out there. And we're excited by it because, a, it's really resonating with customers. We're seeing great activity that's really leveraging this end-to-end platform. So we just had a 2015 Rolls-Royce Ghost sold for $113,000, and it uses our secure purchase, our DMV services actually uses our buyer financing, et cetera, ranging all the way to a school bus from 2008 that was converted into an RV that's sold for $31,000 for a seller in California and a buyer in Missouri. And again, using that full end-to-end suite of services. So it kind of speaks to the opportunity that we have in vehicles.
+
+I think the other reason we're excited by it is because of the synergies and overlap we see with our parts and accessories business. Since we are going after this collectible car market, it's really congruent with those that want to restore, fix up older and collectible cars. And it tends to be enthusiasts that are into parts and accessories are also really into these collectible vehicles. So we think there's really nice synergies from both the buyer and the seller base there.
+
+Peggy, maybe you want to touch a little bit on the higher ASP of vehicles and the impact of that on take rate?
+
+Peggy Alford
+Chief Financial Officer
+
+Sure. Absolutely. So we're really excited about this long-term opportunity in vehicles and what secure purchase unlocks. Vehicle volume has seen significant growth quarter-over-quarter since we launched early this year. But the contribution to total volume is still very modest as we expected.
+
+We estimate that Caramel's effective take rate will fall to the low to mid-single-digit range when including both the buy side and the sell-side monetization. But the revenue contribution also so far this year has been immaterial. And so I don't expect that it would have any material impact to your models for the rest of this year or next year.
+
+Jamie Iannone
+CEO, President & Director
+
+And look, on the ads attribution change, we think the new halo attribution better aligns the value of our CPA ads with the velocity that we provide to sellers. And I think it helps better calibrate the return on ad spend levels between CPA and CPC.
+
+You're right, Michael, this is something that we released back in Germany in February of this year, expanded in the June time frame to other key markets across the European region. And then we announced today, we plan to roll that to U.S. and Canada in the new year. And this was really based on the learnings that we saw from other markets where those learnings said that what we saw from sellers was they can certainly adjust and adopt their bids as a result of these changes. But the net effect of the attribution change was positive for our ads monetization in Germany.
+
+And importantly, we're very focused on the ROAS levels for our sellers. And our ROAS levels remain healthy for our sellers, and they continue to adopt our CPA ads. So that's why we've extended it now to the U.S. and Canadian markets.
+
+Operator
+
+Your next question will come from Tom Champion with Piper Sandler.
+
+Thomas Champion
+Piper Sandler & Co., Research Division
+
+Jamie, it looks like engaged buyers spend increased and your listings count has made tremendous progress over the last couple of years. I think it was $2.4 billion this quarter. And I guess the question is, when do you think this better inventory and maybe personalization features translate into more active buyers and enthusiast buyers? I'd be curious your view on that. And then maybe just any update for us on the Facebook Marketplace partnership.
+
+Jamie Iannone
+CEO, President & Director
+
+Yes. Look, on the buyer side, our trailing 12-month active buyers grew by 1% to 134 million in Q3. As you say, top of the funnel is important for us, but we are very focused on driving active buyers to become enthusiast buyers. And what we're seeing there is that we've seen consistent, albeit gradual improvements in our year-over-year growth rate for enthusiasts over the past three years. We've seen GMV per enthusiast buyer grow. In Q3, it was over $3,200 annually and continue to grow year-over-year.
+
+And what we also see is despite the fact that we're in a challenging environment -- macro environment in Europe, and that's part of our buyer growth, we really don't see our enthusiast buyers churn on the marketplace. If anything, because of the macro, they may move to mid- values. But our mid-value buyers, which is the cohort just below enthusiasts have been growing year-over-year every quarter since the beginning of 2024. So we're continuing to invest in full funnel marketing across the board. We think that, obviously, that has a longer payback for buyers than just pure kind of lower funnel spend, but we think it's the right mix of marketing that we're doing across the board.
+
+As it relates to Facebook Marketplace, we continue to be optimistic about the long-term potential of our partnership there. Both companies are working together to optimize the experience. And during Q3, we continued to scale that test and improve the integrated checkout experience, which was important for us to kind of get that right. And we believe it's great for our seller community because as we expose their listings to Facebook scaled audience, that's great for Facebook Marketplace users as they discover the breadth and obviously great for our sellers on the platform. So we're going to continue to scale that test and work on every piece of the funnel. Every time we've worked on it, we've seen pretty significant and great improvements, which has been great to see.
+
+Operator
+
+Your next question will come from Andrew Boone with Citizens.
+
+Andrew Boone
+Citizens JMP Securities, LLC, Research Division
+
+I wanted to ask about one of the pieces you gave for 2026 in terms of the narrowing of revenue and GMV, and it sounds like some pressure on advertising. Can you guys just unpack that and help us understand kind of what exactly that means?
+
+And then magical listings has really made the seller process easier. Can you guys just help us understand how that manifests back into GMV? What happens on the sell side as you guys do get that long tail of listings? And how do you guys really optimize that?
+
+Jamie Iannone
+CEO, President & Director
+
+Yes. So let me start with the magical listings point, and then we'll talk a little bit about the advertising of the pieces. So what we see with magical listings is really kind of an unlock of more inventory when sellers are starting to use it. So it helps them spend less time creating listings and more time growing their business. So over 10 million sellers have used our magical listings tool. I think we're up to over 300 million items have been augmented, leveraging AI.
+
+And so it's really about driving more velocity in selling and driving our overall CSAT experience in selling. Think about that as listing completion rates, listings per lister, et cetera, which all help us perform really well. And we're not just focusing on the listing experience, right? It's we're helping them create better pictures to help them sell more. We're actually using AI to figure out if you're putting a promoted offsite together, how do we -- which pictures do we use and how to alter all of that to kind of help you drive sell-through, et cetera.
+
+And what's great about eBay is we have a large base of C2C sellers, and they're bringing really unique items on the platform. And so if you look at the average household, we think they have $3,000 to $4,000 of items that could be on eBay and less than 20% of that is on eBay today. So it's really about unlocking all of that inventory by making it so easy with magical listings.
+
+I think on advertising, the comments we were making were more about Q4 versus Q3, where we saw strong ad growth in Q3 due to our strong volume growth and ads adoption, and we expect our 1P ads to normalize to the low to mid-teens growth in Q4 was the comment that we're making about advertising. But when you look at the ROAS that we're providing to sellers, when you look at the experience that we're providing, we feel really good about the trajectory of our advertising portfolio and opportunities.
+
+Peggy Alford
+Chief Financial Officer
+
+And then, Andrew, in terms of your question around the narrowing of GMV versus revenue that we commented on in 2026, we do expect the gap between GMV and revenue growth to be relatively narrow in 2026, and this is driven from our continued healthy growth in first-party advertising, which is partially offset by two things: one, fewer imports into the U.S. by CBT sellers, which slightly pressures our advertising and financial services monetization. And then we are seeing -- we expect to see a higher mix of GMV from our emerging businesses like vehicles and eBay Live that have a lower average take rate. So that's what's driving that.
+
+Jamie Iannone
+CEO, President & Director
+
+Operator, can we do one last question, please?
+
+Operator
+
+Yes. Your final question will come from Ygal Arounian with Citi.
+
+Ygal Arounian
+Citigroup Inc., Research Division
+
+I guess just to look at the 2026 guidance, maybe a little bit more closely and the commentary on positive GMV growth. And Pat, you gave the kind of 3 points of headwind impact. Can you maybe elaborate a little bit more on what positive means and kind of where you feel like you fall in that trajectory. We've spent the better part of an hour talking about a lot of the improvements you guys have made. Jamie, you've called a lot of the growth durable. So I think just helping investors kind of feel sort of frame where we land in that positive. I know it's early.
+
+And then on the de minimis impacts, Clearly, that's gotten bigger. Any way to frame in a little bit more detail what you're seeing there?
+
+Peggy Alford
+Chief Financial Officer
+
+Sure. So we are early in our planning process, which is why we sort of provided only high-level remarks on our preliminary commentary for next year. We have the holiday ahead of us, and so it would be premature to talk too much about how we're thinking about it specifically. We do expect our strategic initiatives to remain the core driver of our growth, namely, as we've talked about, focused categories, geographic initiatives, horizontal innovation, we're super excited about what we know eBay Live and vehicles will contribute given the incremental investments and focus that we had this year.
+
+We've pointed out some of the lapping dynamics that we're expecting. Some of those are, as you were asking, related to the tariff announcements where we do expect to see a full annualized amount from the one month we saw in Q3 and the full quarter that we'll have in Q4. And our expectations in terms of that 1 point was really annualizing a similar trend to what we're currently seeing.
+
+Jamie Iannone
+CEO, President & Director
+
+Yes. And on your question on de minimis, Ygal, so we did observe breakage related to tariffs in Q3, particularly after de minimis exemption was removed for the rest of the world in late August. So that subjected a significant amount of imports to tariffs for the first time. And sellers in Japan and Canada were amongst the most impacted.
+
+What we've really focused on is supporting our customers, which is why we're accelerating our product road map for cross-border shipping services. So we talked earlier about eBay International Shipping in Canada. That's our third largest corridor into the U.S. and really giving them a solution similar to what we brought to U.S. sellers. And that's launched and is performing well. We're extending SpeedPAK, which we've talked about for China, then we extended it Japan. We're expanding SpeedPAK to our German sellers. And these tools help sellers manage the friction and the complexity associated with the changes while providing buyers price transparency.
+
+So, overall, we feel confident our marketplace is well suited to help sellers and buyers navigate these challenges. Peggy talked about some of the lapping dynamics for next year from that. But one of the benefits we have is our diversified supply of domestic and cross-border inventory is an advantage in this environment, while also our non-new in-season used and refurbished inventory can help consumers find value as well.
+
+Operator
+
+Thank you for joining. This concludes today's call. You may now disconnect.

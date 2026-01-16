@@ -1,0 +1,440 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] The first question comes from Casey Haire of Autonomous.
+
+Casey Haire
+Autonomous Research Limited
+
+I wanted to start on the revenue outlook. The 3% to 7%, that's about $135 million of revenues. I know it's tricky, but if you could just take us through your base case and what are some of the big wildcards to think about, so we can make our own assumptions on tightening up that revenue outlook.
+
+Hope Dmuchowski
+Senior EVP & CFO
+
+Happy new year, Casey. Thank you for that question. Our base case kind of middle of the range is the current forward curve. So as you think about looking at the low and high end range, we've got to think about where rates go, how quickly we might see rate drop versus the current forward curve and then also loan growth. And as we've said, we have mid-single-digit loan growth in here. And so if we were able to exceed that, you'd be at the higher range, and of course, our countercyclical. The Wall Street Journal just reported this morning that December home buying was strong. I made a comment in my prepared remarks that we saw refinance pick up for the first time in multiple quarters. So as we start to see some of those countercyclical pick up and we hit our loan growth target or higher, we end up on the higher end of that range.
+
+Casey Haire
+Autonomous Research Limited
+
+Very good. And then just on the expense front. I know you guys are kind of reiterating your your flat outlook for this year. But I guess trying to understand what the -- obviously, I don't think that would be sustainable going forward. I guess what would the expense growth be? Had you not had these past years of heavy tech investment and digital infrastructure investment? Like I'm just trying to get a sense of what would be -- where does the expense growth normalize to going forward after this flat year in '26?
+
+Hope Dmuchowski
+Senior EVP & CFO
+
+When Bryan and I sit down and talk with our Board about where we want to go in coming years, we always start with we want positive PPNR, and we really start with a base case of expenses being in line with inflation. You have wage inflation, you have contract inflation, so we start with that. And then to your point, we did have some things that were kind of multiyear investments that are running down. But think about our normal growth in that inflationary area, which would be 2.5% to 3% currently.
+
+Operator
+
+The next question comes from Ryan Nash of Goldman Sachs.
+
+Ryan Nash
+Goldman Sachs Group, Inc., Research Division
+
+I hope you mentioned embedded in your revenue growth expectations is mid-single-digit loan growth. Maybe just unpack that and talk about some of the key drivers across the products. How are you thinking about inflection in commercial real estate? What's baked in for loans to mortgage companies, and obviously, any other areas of growth in the broader C&I area?
+
+Hope Dmuchowski
+Senior EVP & CFO
+
+I'll take those one at a time, Ryan, and Happy New Year. First, as we look to mortgage warehouse, we are expecting it to pick up. We had -- if you look at our trend page, you see it's the highest quarter we've had in 5 quarters. Seasonally, Q4 pays down, and we didn't see that. And with the pickup in refi, we think that we will -- our base case assumes that picks up in a similar consecutive fashion. When we get to the higher side of our guidance, obviously, you're looking at a double-digit mortgage warehouse growth in the lower end of our guidance would be flat or lower than this year.
+
+C&I, we have great momentum coming into the year. We talked on our last earnings call about being one of our highest quarters for new originations. Q4 had additional strong originations. So we think C&I has hit that inflect point. We're going to continue to see growth in 2026. CRE started to stabilize this quarter. We've seen good new production, but we do a lot of large construction CRE. It takes time for that to fund up. We've always had that spring loaded balance sheet, Ryan. So I do think it will stay stabilize and how quickly we can grow and how quickly our customers can get their projects running, get the supplies they need and really start to hit that stride in the CRE market that's been slowed down in the last couple of years.
+
+Ryan Nash
+Goldman Sachs Group, Inc., Research Division
+
+Got it. Maybe as a follow-up, given the expectation for mid-single-digit loan growth, I'm assuming you're expecting some decent deposit growth. Can you maybe just talk a little bit about deposit growth expectations? What you see as the key drivers? And in a better loan growth environment, do you think you could sustain this 64% beta for the remainder of the rate easing cycle?
+
+Hope Dmuchowski
+Senior EVP & CFO
+
+Yes. Loan growth is always higher in our targets than our-- loan growth is always lower than our deposit growth. So the targets that we give to our businesses is for that not to be offset and create a higher loan-to-deposit ratio. With that, we have a lot of initiatives that we've done in the past 12 to 18 months, primarily our new treasury management system that -- and additional products that we have delivered in the second half of the year that allows us to deepen relationships with existing clients and also go-to-market with clients that we maybe didn't have everything they needed for their business previously. We've seen great momentum in treasury management in the back half of the year. Also, we've mentioned before, we've hired a new Head of Consumer. We had -- you see our advertising costs were slightly up and our cash payments and other noninterest expense were up or have been up in the second half of the year. We're seeing great momentum with our new-to-bank offer sustaining and deepening relationships in that space. We're opening new branches this year, and I think there's a lot of upside opportunity in our consumer franchise.
+
+Your comments about deposit costs. I'd say the #1 thing that concerns me there outside of competition, as we always talk about, is what happens with the Fed's balance sheet. There's some congressional testimony about shrinking the Fed's balance sheet further. And so I really think it's a macroeconomic question as to what is the liquidity in the system in the coming year that will drive deposit prices much more than competition right now where I'm sitting.
+
+Bryan, don't know what you'd add to that, but there's a lot of uncertainty right now.
+
+D. Jordan
+Chairman, President & CEO
+
+Well, I think you hit the key point. We do have opportunity in treasury management penetration. We have a very strong, stable base there, and our system is extraordinarily competitive, and we're making very good progress in terms of working with customers to increase that penetration. I think the opportunities across our footprint to continue to expand our retail consumer banking model, as Hope pointed out, are very positive. And deposit betas, we're going to manage within the context of the market. We're going to be competitive. We think that the Fed is going to either contract or expand its balance sheet, competitors are going to do this, that or the other thing, and we're going to pay attention at a very granular level and be competitive in the marketplace and grow the business and do it in a way that is thoughtful and built around long-term relationships and partnerships, and I think we're well positioned for that.
+
+Operator
+
+The next question comes from John Pancari of Evercore.
+
+John Pancari
+Evercore ISI Institutional Equities, Research Division
+
+I Wanted to see if within your revenue guide, if you could possibly help us unpack it across how you're thinking about net interest income trajectory versus the fee side? I mean on the net interest income side, it looks like you grew net interest income about 4% in 2025. It looks like it may be a somewhat slower pace in '26, just maybe given less margin upside. But I wanted to see if you could maybe help us frame it? Is it low single-digit that's reasonable or mid-single for NII? And then as you look at fees, if you can just give us a little bit more color on the ADR trends that are -- that you're seeing here and how that could play out in the cap market side and how that influences your fee growth expectation?
+
+Hope Dmuchowski
+Senior EVP & CFO
+
+John, thanks for the question. On fee income, obviously, the largest variable is, as I mentioned earlier, mortgage refinance where we don't put something on our balance sheet. We do, do originations that we sell. So if we can get that gain on sale back up to what it was 2, 3 years ago, we saw a more normalized resale activity.
+
+FHN Financial had a very strong second half of the year. If you look at the deck and you look at the fourth quarter ADR, we had mentioned that we thought 3Q may be an inflection point. And in the beginning of Q4, we were starting to see that come back down and it's pretty flat quarter-over-quarter. So I think if you think about fee income, think about the core line items growing consistently with this year, but the upside being both gain on sale for mortgage in a refinance opportunity as well as FHN financial upside.
+
+On the NII, as Bryan mentioned earlier and I did as well, deposits are hard to predict exactly where we're going to land on deposit betas this year. I think that could have a big swing on that. And then loan growth, we had really low loan growth in our industry for 2 or 3 years now, and there is a pent-up demand out there. So I believe we can get certainty on rates, we can get certainty on the economic environment, we're going to see that pick up for our industry. What I can't handicap right now, John, is that earlier in the first half of the year or the second half of the year and as you know, average balance matters for NII more than that quarter-over-quarter. But I feel really strongly that we are well within that range. You can run a set of scenarios, and we will be within that revenue guide regardless of what happens in the macroeconomic environment this year.
+
+D. Jordan
+Chairman, President & CEO
+
+John, this is Bryan. I'll add to Hope's comment. We're we're very intentional in not breaking apart the revenue projection and the net interest income and fee income simply because that we have a very well-balanced business model and that we have the countercyclical businesses. So we have businesses that will pick up if rates move down significantly. we have businesses that will do very well, if rates move up and the 2 balance each other out. And so when we build out a model looking at 2026 or 2027 and beyond, we start with the premise that all models are wrong, some are useful. And so we look at it in the context of we feel good about the balance in our business and that if you push down here, this will pop up. But at the end of the day, we feel confident in our ability to deliver revenue growth within the range that Hope has highlighted for you.
+
+John Pancari
+Evercore ISI Institutional Equities, Research Division
+
+Got it. All right. I appreciate that. And then separately, Bryan, I guess if we could just go to M&A. Just want to see if you can get some of your updated thoughts around potential whole bank M&A? A lot of attention, obviously, to your shift in your comments last quarter. How are you thinking about the decision to potentially step in here and consider an acquisition, a, given the potential that the regulatory window could ultimately close? And does that influence you? And then the backdrop of deals accelerating, but most importantly, what it means for you in terms of if something compelling financially or strategically comes up?
+
+D. Jordan
+Chairman, President & CEO
+
+Yes. Thanks, John. Why I worry about the regulatory window, first and foremost? I think that during the duration of the Trump administration, you're likely to see the regulatory window open, your regulatory infrastructure is in place now, and they have multiyear appointments. So I don't worry about that. When it comes to thinking about our business and preparedness, I think, as I highlighted in the third quarter call, we have the ability to integrate now, but our priorities are focused on the things that we've described in our prepared comments, which is penetrating our customer base, delivering on this the strategic document that we have laid out for our organization, driving the incremental $100 million of potential PPNR growth. And in that context, if we have the opportunity to fill in our branch franchise or deposit base by doing something small, we would consider. But I would tell you, like I did 90 days ago roughly, that's not a priority for us. Our priority is delivering higher returns, increased profitability and leveraging the franchise and the footprint that we have.
+
+Operator
+
+The next question comes from Bernard Von Gizycki from Deutsche Bank.
+
+Bernard Von Gizycki
+Deutsche Bank AG, Research Division
+
+So you have a 15%-plus sustainable ROTCE target over the near term. You hit the 15% mark for the past 2 quarters. Are we at that sustainable 15% now and moving to the plus part of that or is there a time frame like the end of the year, you feel like you can declare you hit the 15% in a sustainable manner?
+
+Hope Dmuchowski
+Senior EVP & CFO
+
+Bernard, good morning. Welcome. I think we've hit that sustained number on a go-forward basis. It doesn't mean a single quarter couldn't dip under that. I talked in my prepared remarks about how the CET1 could come down lower quarter-to-quarter as we look at loan growth. But on average, I do think we've hit that inflection point where we can deliver in the 15-plus percent ROTCE target ongoing. But that's not an every quarter number, I would say, is an average. In the near term, longer term, that will be the minimum, but we've had a lot of uncertainty in the macroeconomic and a lot of things at play right now that could slightly dip us underneath that in 2026.
+
+D. Jordan
+Chairman, President & CEO
+
+I would add that the accounting around AOCI and things like that can move it in intra-quarter or in a quarter or 2. But we feel very good about the sustainable nature of the progress that we've made over 2024 and 2025 in terms of improving profitability. And so I think we are at a sustainable level. It may fluctuate up a little bit or down a little bit.
+
+But at the end of the day, I think what we've delivered in improved profitability is sustainable. And as we have, in the past several quarters, the opportunity to return capital and manage our capital levels in line with peers is an opportunity that would further enhance that. So we've made good progress, and I think we're in a good place to increase that profitability as we go forward.
+
+Bernard Von Gizycki
+Deutsche Bank AG, Research Division
+
+Maybe just on credit. So I know in the release, you noted the 11% sequential reduction in criticized and classified during the quarter. The resulting 0 provision and the $30 million reserve release. How are you thinking about your reserve build from here, just given expectations on the path of criticized and classified, the expected 15 to 25 basis points of net charge-offs as well as just expectations for mid-single-digit loan growth for the year?
+
+Thomas Hung
+Senior EVP & Chief Credit Officer
+
+Yes. Bernard, this is Thomas Hung. I'm happy to address that question for you. Overall, we've had a very strong momentum throughout all of 2025 in terms of working through our non-cost book. And as you noted in the fourth quarter alone, we had over $700 million of our non-cost resolutions and there's a good mix of both payoffs and upgrades. On the whole year, that number added up to $2.2 billion. And so with the strong momentum we've had in those non-cost resolutions, that's why we have been able to have the other reserve releases we've had in the last couple of quarters.
+
+In terms of looking ahead, a lot of other factors will impact what ultimately our reserves are including broader economic outlook, the amount of loan growth we have and also the mix of the businesses. What I'm happy about is the momentum that we have in terms of how we've continue to be able to work down our non-cost book while maintaining very strong net charge-off performance. In terms of forward outlook on reserves, like I said, there's a number of factors that could change that. So it's harder to say.
+
+D. Jordan
+Chairman, President & CEO
+
+Bernard, this is Bryan. I'll add to Tom. CECL model, it implies an awful lot of science, but there's a tremendous amount more art involved in it and the assumptions that are made about the economic scenarios. And if you step back from it and you look at our reserve levels today, we have something in the nature of 6 to 7 years of reserves set aside at the current run rate. So we believe that we're conservatively positioned. We try to take a balanced view of the economy, and we don't look at it as all up or all down. But I think given the improvement that we've seen in C&C and the trends in the balance sheet, we think we're in a very good position for the reserve levels that we have. And that our credit trends as Hope highlighted in our outlook for 2026 are likely to be in the same area that we've seen over the last year-or-so.
+
+Operator
+
+The next question is from Jared Shaw of Barclays Capital.
+
+Jared David Shaw
+Barclays Bank PLC, Research Division
+
+Maybe circling back on the capital discussion. When we look at that $1 billion-or-so of additional buyback authorization, what's the appetite for utilizing that over the course of '26 with the backdrop of growth? Should we expect that you stay active sort of at similar levels and see the capital ratios just continue to move lower?
+
+D. Jordan
+Chairman, President & CEO
+
+Yes, Jared, this is a topic we work with our Board on. So I don't want to get in front of that, but they have given us a substantial authorization, and we have a fair amount remaining under it. And we -- as we said in the past and as Hope has highlighted here, we will continue to talk about where the economy is, where our balance sheet is, how do we look at capital levels in the context of the peer universe and what's going on in the regulatory environment. Then having said all of that, I would say I'm comfortable reaffirming what we've said in the past, which is we believe long term that we can operate our balance sheet in that 10% to 10.5%. And while you might get a spike 1 quarter in mortgage warehouse lending or you might get it for 1 year, 1.5 years, we're comfortable bringing those capital levels down over the longer term. So that's a long way of saying, one, we want to deploy our capital in organic profitable growth with our customer base. And if we don't have those opportunities, we will be disciplined. And as we highlighted a couple of different ways, we returned $1.2 billion of capital in 2025, and we'll look for opportunities to be opportunistic, but we will participate in buybacks when appropriate.
+
+Jared David Shaw
+Barclays Bank PLC, Research Division
+
+Okay. And then maybe just shifting over to the loan growth side. C&I loans, as you pointed out, had a really good quarter, but utilization rates have been pretty much flat over the last year. How are you -- from your conversations with customers, what's sort of the appetite for bringing that utilization rate up over time? And is there any expectation in your guidance that, that utilization rates move higher or could that just be potential upside if you see increased optimism from existing lines?
+
+D. Jordan
+Chairman, President & CEO
+
+Yes. I'll start and then Tom can help me. I think customers are generally still pretty optimistic. We see it in our pipelines. And the momentum in the economy appears to be very, very good today. I think as uncertainty emerges, whether it be Venezuela or Iran or oil prices or whatever the uncertainty could possibly be, people will take stock, but I think people are generally biased for growth. And so I expect, generally speaking, the C&I utilization will improve. I think the other dynamic, Hope talked a little bit earlier about loan growth and loan growth opportunities. In '24 and '25, we did a fair amount of work rebalancing. I mentioned improving the mix and profitability of the balance sheet. We also rebalanced where we were participating and we got out of a number of what we view as unprofitable long-term participations and things of that nature. So I think our balance sheet mix is set to be more profitable and to grow in a more sustainable and consistent level.
+
+Tom, anything you want to add?
+
+Thomas Hung
+Senior EVP & Chief Credit Officer
+
+Yes, I would just add. Starting with your question on utilization rate, we certainly watch that closely, but I think the drivers behind changes in the utilization rate is really kind of more telling because there can be positive and negative reasons for us that utilization rate going up and down. If people are optimistic and looking to develop, we can see that go up. They can also go up in our periods of uncertainty, and so that's why I'm really more focused on the drivers underneath that number and what's driving it. I would also add, though, just overall, what we're seeing across the board is increased momentum in our pipeline. Hope and Bryan have both mentioned, C&I as an example. What I would point to there is, what I'm encouraged by is the increase in pipeline is coming from a pretty diverse set of businesses. We've seen it across our regional bank. We've also seen it to varying degrees in our specialty business units as well. And so this isn't concentrated in any one area, but it's more of a broad increase in pipeline that we've seen.
+
+Operator
+
+The next question comes from David Chiaverini of Jefferies.
+
+David Chiaverini
+Jefferies LLC, Research Division
+
+I wanted to ask about the net interest margin outlook. Last quarter, you had guided to the high 3.30s, low 3.40s. Clearly, you outperformed that. It sounds like pricing trends are good on both sides of the balance sheet. How would you frame the outlook from here?
+
+Hope Dmuchowski
+Senior EVP & CFO
+
+I would say our outlook is still similar in that 3.40% range, there's a lot of timing and art on getting it exactly right in a quarter and an outlook. Specifically this quarter, we had in my prepared remarks, I discussed the uptick of growth in mortgage warehouse and the increase of NII there really helped our margin sustain quarter-over-quarter.
+
+Deposit costs, we're really proud of how they -- we were able to work those down. I think we exceeded our expectations when we were on this call last quarter. So I don't see 3.50% as the go forward. I really think we're in the mid-3.40s, kind of some variation quarter-to-quarter.
+
+David Chiaverini
+Jefferies LLC, Research Division
+
+Great. And then on the $100 million of incremental PPNR, you've been talking about that for a few quarters now. Curious as to how much of that has been achieved thus far? And then perhaps the split between 2026 and 2027 of achieving that $100 million?
+
+D. Jordan
+Chairman, President & CEO
+
+Yes. We have been talking about it since roughly the middle of the year, and we talked about it in the context of $100 million-plus. And we've said the last couple of quarters that we continue to make progress. And we look at the opportunities across the business. It is clear to us that there are opportunities for greater penetration of treasury and wealth that I mentioned earlier in the call, greater opportunities for ensuring that we introduce broader relationships. So there are huge number of opportunities. It will build over '26 and into '27. So if you look at it mathematically, there's going to be more in '27 than there will be in '26. But we think we made significant progress. In '25, I mentioned the improvement in market investor CRE lending and spreads there by connecting our professional CRE business with structure and pricing that we're doing in market investor CRE. And things like that will build over time. So I'd expect you'll see some in 2026, you'll also see some in 2027. I would tell you, as it relates to 2026, we have it built into the outlook that Hope has laid out to you. So it is embedded in that outlook.
+
+Hope Dmuchowski
+Senior EVP & CFO
+
+I'll add to what Bryan said and repeat. Our goal is sustainable momentum. And you're going to see that build quarter after quarter. You're not all going to sudden see a spike. And so as you continue to see our earnings momentum, you continue to see our revenue growth really in line or outpacing our loan growth, you can attribute that to continuing to deepening these relationships. But it will build quarter after quarter. And as Bryan said, '27 will build on '26.
+
+Operator
+
+The next question comes from Peter Winter of D.A. Davidson.
+
+Peter Winter
+D.A. Davidson & Co., Research Division
+
+The outlook for expenses is flattish for '26, and it does imply expenses will be down quite a bit from the fourth quarter level. Just what are some of the levers for lower expenses versus 4Q? And what do you think is a good starting point for the first quarter expense?
+
+Hope Dmuchowski
+Senior EVP & CFO
+
+We have elevated expenses in Q4 due to the higher revenue. So if you look on the increased commissions quarter-over-quarter, that is another strong quarter, but also at year-end, there's a series of true-ups that every company does. And so I would look at that run rate and say what is it consistently going to be in Q1. Marketing and advertising is seasonal, and so it does tend to be slightly down in Q1 and then higher in Q3 and Q4 at times. So I'm not going to give you an exact number, but I think when you look at the range and look at a glide path, take out the onetime items that we've commented on in our presentation. We also had a lot of technology projects that completed in the back half of this year, and that is part of what we're using now that run rate is starting to come back in line to reinvest in branches and hiring.
+
+Peter Winter
+D.A. Davidson & Co., Research Division
+
+Got it. And then if I can ask, I realize it's still early, but are you starting to see any disruption in your markets from the recent M&A deals? Any opportunities to hire bankers or bring in new customers or those conversations starting?
+
+D. Jordan
+Chairman, President & CEO
+
+It is still early, and best I can tell there's no real integration work going on right now in terms of systems conversions and things of that nature. But we have seen opportunities to recruit. We're actively recruiting as we always do across all of our footprint. And so we do believe that over time, we will have an opportunity to continue to bring talented bankers and support folks all across the organization onto the platform. And whether the disruption drives that or otherwise, I think our business model, our focus, our culture has been an advantage and will continue to be so.
+
+Operator
+
+The next question comes from Michael Rose of Raymond James.
+
+Michael Rose
+Raymond James & Associates, Inc., Research Division
+
+Just 2 quick ones for you. Just talking about the commercial real estate expectations. Obviously, down Q-on-Q, down year-over-year. You got to have, in theory, a couple more rate cuts, paydown activity, probably still pretty healthy. Do you expect that business to inflect this year? And is that an area of potential growth as we move later into the year? Or does the headwinds from payoffs, paydowns from lower rates, just kind of persist through the year?
+
+Thomas Hung
+Senior EVP & Chief Credit Officer
+
+Yes. Michael, this is Thomas Hung here. I think we can reasonably expect to see an inflection in our CRE business this year. As Hope alluded to what we do in CRE does skew a lot towards construction. And hence, we have more of a spring-loaded balance sheet there. Given the lower amount of construction in the last couple of years, that's why we have seen a decline in balances in that business. However, that has started to pick up. I mentioned pipeline momentum in the C&I business. I should also mention there's good pipeline activity in our CRE business as well. If I look at our CRE pipeline compared to even last quarter, it's up pretty meaningfully. And you mentioned, especially with the rate decreases that have been happening and there's expectations for further rate cuts that really affects construction starts. And with more construction starts, we've -- that's why we're starting to see a very healthy build in our CRE pipeline. The final step I'll point to here is in our prep opening remarks, one of the things we did mention as well as this quarter for the first time in about 2 years, we had a net increase in our total CRE commitments. So I think that's a good early indicator of where we expect rebalances to go.
+
+Michael Rose
+Raymond James & Associates, Inc., Research Division
+
+Very helpful. Appreciate the color. And then maybe just 1 last one for me. I know you guys have a small credit card book. There's obviously been some interest rate cap discussion out there. Just wanted to see if that might have any impact for you guys? Again, I know it's small.
+
+D. Jordan
+Chairman, President & CEO
+
+Yes, it is a small book. And if you apply the cap across our outstanding today, it'd be roughly $1 million a quarter, so it's insignificant.
+
+Operator
+
+The next question comes from Jon Arfstrom of RBC.
+
+Jon Arfstrom
+RBC Capital Markets, Research Division
+
+Most of my questions have been asked and answered. But just, Hope, a follow-up on Peter's question on the first quarter. Anything else you would flag in the first quarter in terms of the balance sheet and P&L just so we can set up the year properly at the slope of the year?
+
+Hope Dmuchowski
+Senior EVP & CFO
+
+Jon, that's a really general large question. I think we've hit the highlights. I'm really proud of where Q4 ended up, and it gives us tremendous momentum and excitement with our bankers and our clients going into Q1. I think when you look at mortgage warehouse, especially, this tends to be a quarter where we always see our loans decline, and then we kind of dig out of it in January, February and then March starts to stabilize in that business. We've continued to see strong momentum there in January. I do think that will be an upside for us. We won't have the normal quarter-over-quarter significant volatility we have. Fee income is really too hard on ADR to say where the quarter is going to come in as well as refinance. As you know, rates may be heading down and that could pick up. But Jon, I think we expect another strong quarter to look similar to this one across the board.
+
+On the expense side, we are adding bankers. So you can see in the deck, we've added over 100 employed -- 100 FTEs since midyear. Most of that is in client-facing, client-supporting technology positions that enhance the franchise and our ability to deliver revenue growth. I think as I said before, marketing and advertising really fluctuates quarter-to-quarter. Q1, it comes down and then builds back up. If you look at our last 2 years of Q4, Q1 expenses, Jon, pulling out that onetime commission, I think you're going to see look very similar, normal seasonality.
+
+Jon Arfstrom
+RBC Capital Markets, Research Division
+
+Okay. That's very helpful. Mortgage company was another follow-up I had. And then Thomas or Bryan, I don't know. Just 1 of the other questions is on the provision, and I guess we kind of danced around it before, but you've had 2 really good quarters. You're talking about positive trends in credit and mid-single-digit growth. But how do you want us to think about the provision from here given the strong numbers over the last couple of quarters?
+
+D. Jordan
+Chairman, President & CEO
+
+Yes. I would start with, I think the most important measure of our overall credit performance is really in our net charge-off numbers, and I'm proud of how consistently strongly been in that. Provision is -- has a little more noise and it is just because of the number of factors that go into it. Most notably, as we are calculating our reserves, obviously, economic outlook as far as -- and loan growth can go into that number as well. So if provision is higher in future quarters than we've had in the last 2 quarters, that can certainly actually very much be a positive, as it can be driven by the amount of loan growth that we're expecting and the momentum that we've seen. And so just given kind of the number effect that go into the provision number, I think overall, I'm personally more focused on net charge-offs, that's the best reflection of our credit quality.
+
+Hope Dmuchowski
+Senior EVP & CFO
+
+Jon, I made this comment last quarter, and I'll reiterate it all with Tom, I do believe with all the facts we know today, we're done in that building phase. We spent 2-plus years constantly increasing our provision, increasing our coverage, not knowing what was going to happen, whether it was the CRE wave, there was just so many uncertainties. There's just as many uncertainties today, but I don't think we'll have to build. I think we're at the right reserve level. So you can really think about it more normalized as to would we have a release quarter, but it should trend with loan growth, which it has not been in the last 2 years.
+
+Jon Arfstrom
+RBC Capital Markets, Research Division
+
+Yes. Okay. That's what I'm looking for. I appreciate it.
+
+Operator
+
+The next question comes from Chris McGratty from KBW.
+
+Andrew Steven Leischner
+Keefe, Bruyette, & Woods, Inc., Research Division
+
+This is Andrew Leischner on for Chris McGratty. I know near term, you said you want to stay closer to 10.75% CET1. And you mentioned earlier on Jared's question that you believe longer term, you can operate your balance sheet in the 10% to 10.5% CET1 range. But I guess what are you and the Board need to see maybe from a market or regulatory perspective to get comfortable dropping down to that range?
+
+D. Jordan
+Chairman, President & CEO
+
+Yes. So it's really 2 levers and the first is most important, and that is just sort of the economic data play out. If you were sitting here in the spring of 2025, everybody had concerns about how tariffs were going to impact the economy in the short run. We've now seen 9 months of evidence and through a number of different means it's had very little or minimal negative impact at this point. And so as those kind of economic factors play out, the outlook for the economy in '26 and '27 factor into our thinking. So as we look at the economy, we get more and more comfortable with the ability to bring those levels down. The second is, there is a regulatory backdrop around capital and excess capital. And clearly, we pay attention to where we stack up in terms of peer comparisons. And you've heard some discussion and calls earlier this week that people are generally migrating capital levels down. So the combination of those things, I think, over time, gives us as a Board, more and more confidence that we can manage our capital levels down. Our approach has been to take it in fairly small steps, take it from 11% to 10.75%, and then we talk about 10.5% and then we talk about 10.25%, and just do it in a way that we can manage through the -- distributing the excess capital and deploying it in the business. And so I think it's an evolving conversation. We'll do it in a measured and thoughtful way, but it's principally the economic drivers that we're looking at.
+
+Andrew Steven Leischner
+Keefe, Bruyette, & Woods, Inc., Research Division
+
+Great. And then just another follow-up on the C&I loan growth and sorry if I missed this earlier. So outside of the mortgage warehouse growth, and I know there was another $700 million of C&I growth, excluding the mortgage warehouse. Can you just talk about where that source of growth came from and going forward, how we should think about C&I growth and where it's coming from outside of mortgage warehouse?
+
+Thomas Hung
+Senior EVP & Chief Credit Officer
+
+Yes. Happy to address that one. C&I was obviously the largest number. But outside of that, across our C&I platform, I think what I'm very encouraged by is it came from actually a very diverse mix across all of our businesses. Our regional footprint had very strong production across all of our regions. In our specialty lines, I guess, I'll single out equipment finance as one business that had outsized growth relative to some of the other businesses. But I think the most important takeaway here is it was pretty broad-based, and we saw it across most of our businesses and regions.
+
+Operator
+
+Next question comes from Christopher Marinac of Janney Montgomery Scott.
+
+Christopher Marinac
+Janney Montgomery Scott LLC, Research Division
+
+I wanted to follow up on the regulatory disclosures last quarter on the NDFI loans. I think about 60% was related to mortgage warehouse, and obviously, 40% is the rest. And I'm curious if the mortgage warehouse, I hope grows and gets to the upper end of the growth range this year, does that mean that the lower percentage on other NDFI loans would occur? Or would you still be seeing growth in some of those other business and other lines outside of mortgage?
+
+Thomas Hung
+Senior EVP & Chief Credit Officer
+
+Sure. I'm happy to address that. I'll break that into a few parts. First off with the growth that we've had in mortgage warehouse that actually accounts for a larger percentage. It's more closer to 2/3 of our NDFI exposure, is in mortgage warehouse. And from a safety and soundness perspective, I remain very, very confident in the way we have excellently managed that business for a lot of years now. Most notably, in that business, we take physical possession of the notes. So you can imagine the amount of paper coming in and out of our mortgage warehouse group each and every day. In terms of other NDFI, given the noise that's been in the market, we certainly continue to look at that very closely. But I would point to, once again, the years of experience we have in that sector, consistently strong performance. And I think there's some differentiation for us as well in terms of, we have a full-time team of field examiners, that's 7 full-time staff with nearly 20 years of average experience. And through that team who are on the road probably 50 weeks a year, we do our own field examinations out generally 1 to 3 per customer every year. We do supplement that with some third parties as well. And in addition to that, once again, given kind of the recent noise, we have also completed recently a comprehensive review of our non-mortgage warehouse NDFI book. We segmented all of that into 7 different segments, which have very different risk profiles and we've done deep dive analysis into each of those segments with unique scorecards that we developed based on the unique risk of each sector. So we continue to look at it very closely. We -- and originate -- we continue to originate in those segments as well. We do it in a prudent manner as we always have, and I think the results have been pretty good.
+
+Hope Dmuchowski
+Senior EVP & CFO
+
+Following on Tom's comments about mortgage warehouse, I really do want to reiterate what he said. I said is that, November with Tammy LoCascio as the head of that business at a conference. We do mortgage warehouse and it looks exactly like a mortgage loan. We picked the closing attorney, we take physical ownership of the actual loan docket, it sits in the same vault as the mortgages that are on our balance sheet. So for us, when we do NDFI, we have that underlying collateral with us. and we get to sit at the table with a lawyer that we choose at the closing. So there always can be fraud, but we do it differently than some of our other peers. I want to point to that when you think about NDFI exposure for us, if we had an issue with a borrower, we can -- we have the notes, we can sell them into the secondary market and get our money back, which is not traditionally how the NBFI is thought about.
+
+D. Jordan
+Chairman, President & CEO
+
+To your mechanical part of your question, if the NDFI number goes up in first quarter, second quarter and beyond, it's likely to be driven by faster growth in the mortgage warehouse lending business than any of the other India lending businesses.
+
+Christopher Marinac
+Janney Montgomery Scott LLC, Research Division
+
+Great. Bryan, Tom and Hope, that's all excellent color. And I know the data is now a quarter stale, but it seemed that you had no losses in that business and that the problems in terms of just nonaccruals were very small. So I suspect that's still the case today.
+
+Thomas Hung
+Senior EVP & Chief Credit Officer
+
+Yes. That's really the case in our mortgage warehouse book. I mean, I think to be expected in our non-mortgage warehouse NDFI book, there are slightly higher levels of classified assets and NPLs and there's some charge-offs in that business, but I wouldn't call any of it a big outlier relative to our overall book.
+
+Operator
+
+The next question comes from Janet Lee of TD Cowen.
+
+Sun Young Lee
+TD Cowen, Research Division
+
+Just to clarify on your expense guidance. So the flattish expense guidance, does that still hold if you achieved the higher end of your revenue guide of 3% to 7%. So if you achieve 7%, is it still flat?
+
+Hope Dmuchowski
+Senior EVP & CFO
+
+Janet, yes, it does. What I'll say is if we achieve the higher end of the range with more countercyclical commission businesses than we had this year, that's what brings it up above the 0%.
+
+Sun Young Lee
+TD Cowen, Research Division
+
+Got it. And just a quick follow-up. If I look at your fourth quarter loan growth results, period end 7% annualized, looks like a lot of the narrative around C&I potential mortgage warehouse and CRE inflection, those all sound positive. And it feels like there is a level of conservatism baked into your mid-single-digit loan growth. Is this a fair assessment or am I missing anything?
+
+Hope Dmuchowski
+Senior EVP & CFO
+
+Janet, we are traditionally a very disciplined lender. And as you look back at how First Horizon has lend for the last 5 or 10 years, we tend to be pure average-ish. And when we think about what we think the outlook is for the market, we're not trying to overperform. We want to make sure that we get great clients that we can work with that they have the right underwriting standards, they're going -- the way we keep our net charge-offs so low through a cycle is through the disciplined lending. And so absolutely, we could do more. Bryan's great quote that he always uses is, "it's easy to lend money, it's harder to get it back". And so I think as I sit here today, I don't see an economy that's going to be above mid-single-digit loan growth unless there's some stimulus put in the system.
+
+D. Jordan
+Chairman, President & CEO
+
+There's some mixed things going on in the loan growth percentages. We're not likely to grow our consumer mortgage portfolio at a very rapid rate this year. We just expected most of what we will originate goes into the secondary market. But to your point, we feel very, very good about the businesses that you enumerated, and we think we have great opportunities to grow there.
+
+Operator
+
+The next question comes from Anthony Elian of JPMorgan.
+
+Anthony Elian
+JPMorgan Chase & Co, Research Division
+
+Hope, on fixed income, I'm curious why ADR and fixed income revenue didn't grow in 4Q? It seems like the tailwinds were all there, including a lower rate outlook. Volatility was moderate and the yield curve remains steep.
+
+Hope Dmuchowski
+Senior EVP & CFO
+
+Anthony, we saw a significant slowdown in that business as it related to the government shutdown. And so we mentioned on our call last quarter that early October was starting out really slow. So it was really kind of a tale of 2 quarters where the first half of the quarter was pretty low ADRs and the back half came up. So it averaged to a good number, but there was a lot of volatility and really low ADR during the government shutdown.
+
+D. Jordan
+Chairman, President & CEO
+
+And the last half of December tends to be very slow as well.
+
+Anthony Elian
+JPMorgan Chase & Co, Research Division
+
+And then one more on expenses. So could you put a finer point on the degree to which any incremental commissions from the fixed income business could impact the expense outlook? I only ask because I remember last year, your expense outlook quarter after quarter included increases in commissions, which helped give us more visibility into where total expense could come in for the year?
+
+Hope Dmuchowski
+Senior EVP & CFO
+
+As we think about the countercyclical, the rule of thumb is assume 60% commission as revenue increases year-over-year.
+
+D. Jordan
+Chairman, President & CEO
+
+I look at the commission base nature of expense growth in 2026. If we get commission-based expense growth in 2026, it will be a high-class problem. It is a profitable business for us, it is broadening and deepening relationships, and so while we don't anticipate that that's going to drive the expense number, if we get that and we end up with a higher-than-flattish or flat expenses, that will be a high-class problem in my view.
+
+Operator
+
+Our final question today comes from Timur Braziler from Wells Fargo.
+
+Timur Braziler
+Wells Fargo Securities, LLC, Research Division
+
+Bryan, I just want to make sure I heard your last statement correctly. So is it implying -- the flattish expenses imply flattish countercyclical revenues in '26 and to the extent that you get growth there, then you'll get growth in the expense base?
+
+D. Jordan
+Chairman, President & CEO
+
+Well, back to my earlier point about all models are wrong, some are useful. We have to make assumptions about what our countercyclical business is and our commission-oriented business is. So that includes our wealth management business that includes our fixed income business, that includes incentives we play around mortgage warehouse lending. So we've got a series of assumptions in there. I wouldn't overread that we don't expect that, that balance will change. But we have incentive programs in our straight C&I lending and our commercial real estate lending. And as we look at the course of the year, we think all of it balances out, given our expectations where revenue is likely to come from that it will largely be in a flattish area.
+
+Timur Braziler
+Wells Fargo Securities, LLC, Research Division
+
+Got it. And then just following up on the loans to mortgage companies, just wondering what portion of the growth is coming from new client acquisition, if any? Or has that ramp that you've been focused on over the course of the past year-or-so? Has that largely concluded, and that business is now more or less stable? or is there still some level of benefit coming from new client acquisition there?
+
+Thomas Hung
+Senior EVP & Chief Credit Officer
+
+Yes, I'm happy to address that one. I don't have the exact split with me, but I can say that we continue to pick up our new customers at a pretty good clip. As you may recall, there was some disruption to that industry earlier this year and also last year in terms of a few major players either exiting the space by decision or being acquired. And as a result, that became a good number of strong customers that were potentially looking new homes. And so our team has done a great job through the execution and the expertise we have in the space of picking up new clients, but we certainly also upsized with existing clients as mortgage volumes have picked up, and so the increase you're seeing is really a combination of mix of the 2.
+
+D. Jordan
+Chairman, President & CEO
+
+And we get a larger share of originations as a result of all of that as well.
+
+Operator
+
+We have no further questions at this time. So I'd like to hand back to Bryan for closing remarks.
+
+D. Jordan
+Chairman, President & CEO
+
+Thank you, Lucy. Thank you all for joining us this morning. We appreciate your time and your interest. Please feel free to reach out if you have any further questions, if there's anything that we can do to help fill in the blank. Hope you all have a great day.
+
+Operator
+
+This concludes today's call. Thank you all for joining. You may now disconnect your lines.

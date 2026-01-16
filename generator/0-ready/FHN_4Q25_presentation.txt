@@ -1,0 +1,102 @@
+First Horizon Corporation (FHN) Q4 2025 Earnings Call January 15, 2026 9:30 AM EST
+
+Company Participants
+
+Tyler Craft - Head of Investor Relations
+D. Jordan - Chairman, President & CEO
+Hope Dmuchowski - Senior EVP & CFO
+Thomas Hung - Senior EVP & Chief Credit Officer
+
+Conference Call Participants
+
+Casey Haire - Autonomous Research Limited
+Ryan Nash - Goldman Sachs Group, Inc., Research Division
+John Pancari - Evercore ISI Institutional Equities, Research Division
+Bernard Von Gizycki - Deutsche Bank AG, Research Division
+Jared David Shaw - Barclays Bank PLC, Research Division
+David Chiaverini - Jefferies LLC, Research Division
+Peter Winter - D.A. Davidson & Co., Research Division
+Michael Rose - Raymond James & Associates, Inc., Research Division
+Jon Arfstrom - RBC Capital Markets, Research Division
+Andrew Steven Leischner - Keefe, Bruyette, & Woods, Inc., Research Division
+Christopher Marinac - Janney Montgomery Scott LLC, Research Division
+Sun Young Lee - TD Cowen, Research Division
+Anthony Elian - JPMorgan Chase & Co, Research Division
+Timur Braziler - Wells Fargo Securities, LLC, Research Division
+
+Presentation
+
+Operator
+
+Hello, everyone, and thank you for joining the First Horizon Fourth Quarter 2025 Earnings Conference Call. My name is Lucy, and I'll be coordinating your call today. [Operator Instructions]
+
+It is now my pleasure to hand over to your host, Tyler Craft, Head of Investor Relations to begin. Please go ahead.
+
+Tyler Craft
+Head of Investor Relations
+
+Thank you, Lucy. Good morning. Welcome to our Fourth Quarter 2025 Results Conference Call. Thank you for joining us. Today, our Chairman, President and CEO, Bryan Jordan; and Chief Financial Officer, Hope Dmuchowski, will provide prepared remarks, after which we'll be happy to take your questions. We're also pleased to have our Chief Credit Officer, Thomas Hung, here to assist with questions as well.
+
+Our remarks today will reference our earnings presentation, which is available on our website at ir.firsthorizon.com. As always, I need to remind you that we will make forward-looking statements that are subject to risks and uncertainties. Therefore, we ask you to review the factors that may cause our results to differ from our expectations on Page 2 of our presentation and in our SEC filings.
+
+Additionally, please be aware that our comments will refer to adjusted results, which exclude the impact of notable items and other non-GAAP measures. Therefore, it is important for you to review the GAAP information in our earnings release, Page 3 of our presentation and the non-GAAP reconciliations at the end of our presentation.
+
+And last, but not least, our comments reflect our current views, and you should understand that we are not obligated to update it.
+
+And with that, I'll hand it over to Bryan.
+
+D. Jordan
+Chairman, President & CEO
+
+Thank you, Tyler. Good morning, everyone. Thank you for joining us. In 2025, we showed significant progress in delivering value for our clients, associates and shareholders. We delivered increased pre-provision net revenue and return on tangible common equity, hitting 15% in the back half of 2025. Loan and deposit trends were solid, and we improved balance sheet profitability through a better loan mix and pricing, disciplined control of deposit costs and tighter integration of deposits within our client relationships. One example driving improved profitability is the year-over-year improvement of yields on market-based commercial real estate lending for new or 2025 originations by 34 basis points.
+
+In 2025, we also returned just under $900 million of capital and stock repurchases and just over $300 million in dividends. With more clarity around economic conditions and regulatory trends, we believe we can continue to return additional capital to our shareholders, while continuing to invest in growth opportunities. As you will see in our slide presentation, we are optimistic about our ability to improve profitability and continue to grow earnings in 2026.
+
+I'll now hand the call over to Hope to walk through the results of the fourth quarter in more detail and provide some closing comments at the end of the call.
+
+Hope Dmuchowski
+Senior EVP & CFO
+
+Thank you, Bryan. Good morning, everyone, and thank you for joining us today. We ended the year with a strong fourth quarter that includes earnings per share of $0.52, net interest margin of 3.51% and 2% loan growth.
+
+Starting on Slide 8, we walked through some of the drivers of our approximately $2 million of net interest income growth as well as our net interest margin performance. Our margin compressed by 4 basis points. But excluding the impact of the Main Street Lending Program accretion discussed last quarter, NIM expanded by 2 basis points, even with our slightly asset-sensitive balance sheet. The largest benefit to both NII and margin was deposit pricing, as our average interest-bearing costs declined by 25 basis points. Additionally, strong growth in loans to mortgage companies added to NII.
+
+On Slide 9, we cover details around our deposit performance in the quarter. Period-end balances increased by $2 billion compared to prior quarter. The average rate paid on interest-bearing deposits decreased to 2.53%, coming down from the third quarter average of 2.78%. We have maintained a cumulative deposit beta of 64% since rates started to fall in September 2024. Our interest-bearing spot rate ended the quarter at 2.34%.
+
+On Slide 10, we cover our quarterly loan growth. Period-end loans increased $1.1 billion or 2% from the prior quarter. Our largest increase came from our loans to mortgage companies, which increased $776 million quarter-over-quarter. While fourth quarter is not traditionally a high watermark for this business, we saw a pickup in the refinance market, which resulted in approximately 1/3 of activity from refinances, up from approximately 25% in the recent quarters.
+
+We also saw excellent growth across our footprint in the rest of our C&I portfolio with period-end balances increasing by $727 million from prior quarter, as origination volume increased quarter-over-quarter. Within the CRE portfolio, the pace of paydowns slowed as the decline of period-end balances improved versus the prior quarters with a $111 million reduction. Additionally, we saw a slight increase to commitments in our CRE portfolio during the quarter, providing momentum entering 2026.
+
+Commercial loan spreads remain consistent, generally mid 100s to upper 200 basis points.
+
+Turning to Slide 11. We detail our fee income performance for the quarter, which increased $3 million from the prior quarter, excluding deferred compensation. The largest increase for fee income comes from our service charges and fee lines which is largely driven by $4.4 million in income related to elevated activity in our equipment finance lease businesses.
+
+On Slide 12, we cover adjusted expenses that excluding deferred compensation, increased $4 million from prior quarter. Personnel expenses, excluding deferred compensation, increased by $12 million from last quarter driven by $8 million in incentives and commissions, which primarily consisted of annual adjustments to bonuses impact by hitting the high end of our revenue targets for the year.
+
+Outside services increased by $16 million, which includes project costs for some technology and product initiatives and increased advertising expenses in the quarter. Our noninterest expense declined primarily related to the foundation contribution discussed last quarter as well as normal fluctuations in customer promotion costs and marketing campaigns earlier in the year.
+
+Turning to credit on Slide 13. Net charge-offs increased by $4 million to $30 million. Our net charge-off ratio of 19 basis points is in line with our expectation and recent performance. We recorded no provision for credit losses in the fourth quarter and our ACL to loan ratio declined to 1.31%, on broad improvement across our commercial portfolio and payoff of non-pass credits.
+
+On Slide 14, we ended the quarter with CET1 of 10.64% as buyback activity and strong loan growth, which included high loan-to-mortgage company growth, lowered our period end CET1 levels. During the quarter, we bought back just under $335 million of common shares, bringing our full year total to $894 million. We also announced a new repurchase program of $1.2 billion at the end of October, and we currently have just under $1 billion of authorization remaining.
+
+On Slide 15, we walk through the objectives and metrics within our current 2026 outlook. We once again expect year-over-year PPNR growth with mid-single-digit balance sheet growth and positive operating leverage. Our total revenue expectations range from 3% to 7% growth year-over-year, which accounts for a variety of interest rate and business mix scenarios.
+
+As we have mentioned previously, our expense outlook remains flattish with the exception of incremental incentive expenses associated with higher countercyclical revenue, continued improvements to market conditions for our fixed income, consumer mortgage and loans to mortgage company lines of businesses could drive higher revenues and associated personnel expenses. We expect to achieve this while still making key investments in our businesses, including technology, personnel additions and new branches. Our net charge-off expectation of 15 to 25 basis points reflects our continued confidence in our underwriting standards and credit processes. We expect taxes to be between 21% to 23%, similar to 2025.
+
+Lastly, our near-term CET1 target remains at 10.75%, with the level fluctuating approximately between 10.5% and 10.75% with loan growth throughout the year. We will continue to have conversations with our Board about potential timing for lowering that target further in line with our intermediate-term [indiscernible] of 10% to 10.5%.
+
+I'll wrap up as we turn to Slide 16. I am extremely pleased with the execution of our teams in the fourth quarter and throughout all of 2025. We once again operate at 15% adjusted ROTCE this quarter and our goal continues to be sustaining and exceeding this level. We are continually managing capital and credit to ensure that we maximize returns to shareholders as displayed this quarter with capital deployed into both loan growth and share buybacks. Our teams are focused on execution and delivering on our profitability objectives, including the more than $100 million in revenue driven incremental PPNR that we have discussed in the past. We made early progress on this in 2025 and expect the impact to continue to grow in 2026 and 2027.
+
+With that, I will give it back to Bryan.
+
+D. Jordan
+Chairman, President & CEO
+
+Thank you, Hope. I'm proud of the progress we made in 2025 across many fronts. During the year, we instilled our strategic plan into a 5-page framework to provide clarity for all of our associates about how we differentiate in the marketplace and create broad, deep, long-lasting client relationships. I believe this alignment will continue to help drive consistent execution across our organization, resulting in exceptional experiences and outcomes for our clients and our shareholders. As we look into 2026, our priorities are clear: serve our clients well; grow profitable relationships; and deliver on our financial objectives. We will capitalize on growing client confidence about the economy with continued loan growth. We see positive signs for growth in our current pipelines, especially in our commercial lending areas. I'm confident that our diverse business model and robust footprint position us to meet our revenue growth targets through a variety of economic scenarios. As we stated in our 2026 outlook, we also remain focused on expense discipline and efficiency while also continuing to invest in technology and tools that make our associates more effective and deliver greater value for our customers.
+
+We talked in 2025 about our $100 million-plus PPNR improvement opportunity. We made initial progress in 2025 by improving profitability of the balance sheet. We still see $100 million in additional opportunity and expect to make significant progress on that in 2026 and 2027. This profitability will be driven by deepening client relationships in products like treasury management and wealth management, leveraging our banker expertise to ensure clients have the right products for their needs, ensuring our pricing reflects the value we deliver to clients and ensuring we maximize the value of our footprint with our talent and distribution models.
+
+First Horizon has a lot of momentum going into 2026, and I'm excited to see our associates capitalize on those opportunities ahead. Our team put forth a great deal of effort in 2025. Thank you to our associates for their work this past year and to our clients and our shareholders for their continued confidence in our company.
+
+Lucy, with that, we can now open it up for questions.
+

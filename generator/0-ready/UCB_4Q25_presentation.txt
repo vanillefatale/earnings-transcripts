@@ -1,0 +1,82 @@
+United Community Banks, Inc. (UCB) Q4 2025 Earnings Call January 14, 2026 9:00 AM EST
+
+Company Participants
+
+Herbert Harton - Chairman & CEO
+Jefferson Harralson - Executive VP & CFO
+Richard Bradshaw - President & Chief Banking Officer
+Robert Edwards - Executive VP & Chief Risk Officer
+
+Conference Call Participants
+
+Russell Elliott Gunther - Stephens Inc., Research Division
+Stephen Scouten - Piper Sandler & Co., Research Division
+Michael Rose - Raymond James & Associates, Inc., Research Division
+Gary Tenner - D.A. Davidson & Co., Research Division
+Catherine Mealor - Keefe, Bruyette, & Woods, Inc., Research Division
+David Bishop - Hovde Group, LLC, Research Division
+Christopher Marinac - Janney Montgomery Scott LLC, Research Division
+
+Presentation
+
+Operator
+
+Good morning, and welcome to United Community Bank's Fourth Quarter 2025 Earnings Call. Hosting our call today are Chairman and Chief Executive Officer, Lynn Harton; Chief Financial Officer, Jefferson Harralson; President and Chief Banking Officer, Rich Bradshaw; and Chief Risk Officer, Rob Edwards.
+
+United's presentation today includes references to operating earnings, pretax, precredit earnings and other non-GAAP financial information. For these non-GAAP financial measures, United has provided a reconciliation to the corresponding GAAP financial measure in the financial highlights section of the earnings release as well as at the end of the investor presentation. Both are included on the website at ucbi.com. Copies of the fourth quarter's earnings release and investor presentation were filed this morning on Form 8-K with the SEC and a replay of this call will be available in the Investor Relations section of the company's website at ucbi.com.
+
+Please be aware that during this call, forward-looking statements may be made by representatives of United. Any forward-looking statements should be considered in light of risks and uncertainties described on Pages 5 and 6 of the company's 2024 Form 10-K as well as other information provided by the company in its filings with the SEC and included on its website.
+
+At this time, I'll turn the call over to Lynn Harton.
+
+Herbert Harton
+Chairman & CEO
+
+Good morning, and thank you for joining our call today. The fourth quarter was a solid end to a great year. During the quarter, we had 11% year-over-year revenue growth, led by continued margin expansion and 4.4% annualized loan growth. Nonperforming assets, past dues and substandard loans remained stable at low levels. Our operating earnings per share for the quarter was $0.71, a 13% year-over-year improvement. Our fourth quarter return on assets was 1.22%, and our return on tangible common equity was 13.3%.
+
+For the year, our operating earnings per share grew by 18% from $2.30 to $2.71. 2025 saw solid improvements in all of our key performance ratios. Margin was up 23 basis points. Efficiency ratio improved by 264 basis points. Credit losses declined and our return on assets improved by 18 basis points. We topped $1 billion in revenue for the year with 12% year-over-year growth. We put extra focus on our retail and small business lending efforts in both of those lines passed $1 billion in annual production for the first time. Our Navitas equipment finance team also crossed $1 billion in originations for the first time.
+
+Executing on our capital plan, we increased our dividend in the third quarter to an annualized rate of $1 per share. We took advantage of the opportunity to repurchase 1 million shares of our stock in the fourth quarter at an average price below $30 per share. During the year, we also redeemed our preferred stock, further increasing our returns to common shareholders. Our return on tangible common equity reached 13.3% for the year, and our tangible book value per share grew by 11% year-over-year.
+
+Culture remained a focus during the year as well. As a result, we were recognized for being #1 in retail client satisfaction in the Southeast for the 11th time by J.D. Power. American Banker recognized us for the ninth time as being one of the top banks to work for in the country. And the American Bankers Association awarded us with a Community Commitment Award for our Financial Literacy month program. For Financial Literacy month in 2025, our team led 154 workshops reaching more than 13,400 students. That's just a small example of the tremendous energy the United team personally invest in our communities.
+
+2025 was a great year, but we want to be better. To improve the durability of our earnings and multiple interest rate scenarios, we reduced our securities duration. We upgraded both our talent and our systems that manage interest rate risk and deposit pricing. We continue to invest in growth. 2025 saw the successful conversion of American National Bank in Fort Lauderdale to the United Systems and brand expanding our presence in this dynamic market.
+
+We opened a new office in Cary, North Carolina and began work on new offices in South Miami and Winston-Salem, North Carolina. We committed to the expansion of our Florida private banking model to the rest of our footprint. We expanded our product set and treasury management to help us continue to grow our commercial line of business and we added talent and risk management to prepare us for continued success. It's been a great year.
+
+Jefferson, why don't you cover our performance in more detail.
+
+Jefferson Harralson
+Executive VP & CFO
+
+Thank you, Lynn, and good morning to everyone. I will start on Page 6 and talk about our deposit results. We experienced a positive seasonality we expected with regard to public funds in the fourth quarter with an increase of $293 million. We were also very pleased that our cost of deposits improved 21 basis points to 1.76% and that our cumulative total deposit beta moved to 40% from 37% as we discussed last quarter.
+
+Excluding public funds, our average balances were down slightly for the quarter, but similar to last year, we did see a greater decline in end-of-period balances. This end-of-period decline was partially due to seasonality with customers moving cash in and out during the last 2 weeks of the year. And it was also the result of our strategy where we lowered rates on some of our highest cost single-service customers. For the year, our deposits grew by 1%, and we continue to grow customers and accounts.
+
+On Page 7, we turn to the loan portfolio, where our growth continued at a 4.4% annualized pace. Our growth came primarily in the C&I and HELOC categories, which are 2 of our current areas of focus for growth.
+
+Turning to Page 8, where we highlight some of the strengths of our balance sheet. We believe that our balance sheet is in good position from a liquidity and capital standpoint to be ready for any economic volatility. We have very limited broker deposits and very limited wholesale borrowings of any time. Our loan-to-deposit ratio remained low but increased for the third quarter in a row and is now at 82%. Our CET1 ratio was relatively flat at 13.4% and remains a source of strength for the bank.
+
+On Page 9, we look at capital in more detail. As I mentioned, our CET1 ratio was 13.4% and our TCE increased by 21 basis points to 9.92%. As Lynn mentioned we were active in our buyback in the fourth quarter, buying back 1 million shares at just under $30 per share.
+
+Moving on to spread income on Page 10. We grew spread income 7% annualized in the quarter. Our net interest margin increased 4 basis points to 3.62%. Excluding loan accretion, our net interest margin increased by 6 basis points as compared to the third quarter. The driver was mainly a lower cost of funds, but we also benefited from the loan-to-deposit ratio moving to 82% from 80% last quarter.
+
+We continue to experience a NIM tailwind from our back book repricing and from the mix change towards loans and away from securities. In 2026, using just maturities, we have about $1.4 billion of assets paying down in the 4.90% range. And because of this continued impact, I would expect the NIM to be up between 2 and 4 basis points in the first quarter. A key will be how we are able to reprice the $1.4 billion of CDs we have maturing in the first quarter at 3.32%.
+
+Moving to Page 11. In noninterest income was $40.5 million, down $2.8 million from the elevated result of the last quarter. We had good growth in our wealth business and continued strong growth in our treasury management and customer swaps businesses within the other category, while mortgage softened as expected due to seasonality.
+
+Operating expenses on Page 12 were $151.4 million, an increase of $4 million on an operating basis. The main reason for the increase is $1.5 million in higher group health insurance cost.
+
+Moving to credit quality on Page 13. Net charge-offs were 34 basis points in the quarter. an increase compared to last quarter. The primary reason for the $9 million increase was charge-offs on 2 C&I loans, of which $5 million was already specifically reserved for. NPAs improved and past dues were flat as credit quality remains strong.
+
+I will finish on Page 14 with the allowance for credit losses. Our loan loss provision was $13.7 million in the quarter and included the release of the final $1.9 million of Hurricane Helene special reserve. Net-net, ROL coverage of credit losses moved down slightly to 1.16%.
+
+With that, I will pass it back to Lynn.
+
+Herbert Harton
+Chairman & CEO
+
+Thank you, Jefferson. As we move into 2026, we're optimistic for continued growth and improvement. The economy in our markets remain strong and will support continued growth in our business.
+
+Before we turn to questions, I'd like to recognize and congratulate our teams for a great performance this past year. I'm looking forward to another great year with them in '26. And with that, let's open the floor for questions.
+

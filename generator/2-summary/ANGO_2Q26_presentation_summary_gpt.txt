@@ -1,0 +1,55 @@
+[ 어닝콜 요약 ]
+
+매출 +8.8% YoY ($79.4M)
+- Med Tech 부문 13% 성장 주도, Med Device도 5.6% 성장
+- Auryon의 18분기 연속 두 자릿수 성장과 국제시장 확장, Mechanical Thrombectomy 플랫폼의 규제 승인 및 성장, NanoKnife의 전립선 시술 증가가 핵심 동력
+
+Sales by segment
+1) Med Tech $35.7M (YoY +13%)
+   - Auryon $16.3M (YoY +18.6%): 병원 내 침투율 증가, 고객 기반 확대, CE Mark 승인 후 국제 매출 기여
+   - Mechanical Thrombectomy $11M (YoY +3.9%): AlphaVac 40.2% 성장, AngioVac 7.5% 감소 (전년 동기 강한 실적 대비), 3건의 주요 규제 승인으로 임상 적용 확대 기대
+
+2) Med Device $43.8M (YoY +5.6%)
+   - 견조한 성장과 수익성 유지, 프랑스 유통 거래로 자본 매출 증가
+
+GPM 56.4% (+170 bps)
++ Med Tech 매출 비중 증가, 제조 이전 비용 절감 가속화, 프랑스 유통 거래 효과
+- 관세 비용 $4M~$6M 예상 유지
+
+OPM 35.9% (Operating expenses 64.1% of sales, 전년 대비 개선)
++ 운영 효율성 강화, 매출 성장에 따른 레버리지 효과
+- R&D 투자 증가 (9.8% of sales), 임상 개발 비용 반영 예정
+
+[ 가이던스 요약 ]
+
+Guidance FY2026 (updated)
+- Revenue growth 6.6%~7.3% vs. 기존 5.2%~7.0% [상향]
+- Gross margin 53.5%~55.5% vs. 기존 53.5%~55.5% [유지]
+- Operating margin 별도 미공개, Adjusted EBITDA $8M~$10M vs. 기존 $6M~$10M [상향]
+- Adjusted loss per share -$0.33~-0.23 vs. 기존 동일 [유지]
+
+주요 변화
+- 강한 2분기 실적과 제조 비용 절감 가속화로 매출 및 조정 EBITDA 가이던스 상향
+- Med Tech 14%~16% 성장, Med Device 0%~1% 성장 예상으로 Med Device 가이던스도 상향
+- 관세 비용은 연간 $4M~$6M 범위 유지
+
+[ Comments 요약 ]
+
+[Med Tech 성장 및 제품 전략] 코멘트
+① Auryon은 18분기 연속 두 자릿수 성장하며 병원 내 점유율 확대와 국제시장 진출 가속화 중
+② Mechanical Thrombectomy 플랫폼은 AlphaVac 강한 성장과 AngioVac 임상 적용 확대를 위한 3건의 규제 승인으로 경쟁력 강화
+③ NanoKnife는 전립선 시술 증가와 CPT 코드 발효로 성장 모멘텀 확보, TIME 2025 혁신 리스트 선정으로 인지도 상승 기대
+
+[수익성 및 운영 효율] 코멘트
+① 제조 이전 전략 가속화로 비용 절감 및 GPM 170bps 개선 달성
+② 운영비용 비율 감소 및 매출 성장에 따른 레버리지 효과로 조정 EBITDA 거의 두 배 증가
+③ R&D 투자 확대 중이며, 임상 개발 비용은 하반기에 반영 예정
+
+[시장 및 규제 환경] 코멘트
+① Mechanical Thrombectomy 관련 IDE 승인 2건과 510(k) 승인으로 임상 적용 범위 확대 및 신규 시장 진입 기대
+② 관세 비용은 예상 범위 내에서 관리 중이며, 전체 비용 영향은 가이던스에 반영됨
+
+[경영진 및 리더십] 코멘트
+① CEO James Clemmer는 10년간 재임 후 2027 회계연도 중 은퇴 예정, 후임자 선정 절차 진행 중
+② Clemmer CEO는 회사의 혁신적 성장과 $10B 글로벌 시장 진입 성과 강조하며 원활한 리더십 전환 약속
+③ 장기 성장 전략과 임상 플랫폼 확장에 대한 자신감 표명
