@@ -1,0 +1,237 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] And your first question comes from Gregory Peters with Raymond James.
+
+Charles Peters
+Raymond James & Associates, Inc., Research Division
+
+And as you said in your comments, you did have a great year, so congratulations. I wanted to -- thank you for the commentary around the technology. I've been asking you about this off and on like others have for a couple of years now. In Dan's guidance for the expense ratio, I think he said it's going to be flat in '26, 28.5% versus what it was in '25 versus the same in '24. So I guess what I'm trying to reconcile is the emphasis on growing the strategic investments, you're harvesting efficiencies with these technology investments. Just wondering when the structural shift in the expense ratio might materialize.
+
+And maybe I was looking at the responsible artificial intelligence framework section of your website. Maybe you could talk about some of the regulatory and other considerations that might delay some of the expected benefits from your technology spend.
+
+Alan Schnitzer
+Chairman & CEO
+
+Greg, thanks for the question. I appreciate it. In terms of the expense, I mean, we give you sort of a year outlook of where we'd like it to be, and that's not something that happens to us. That's something we manage. And we talk a lot about trying to optimize operating leverage. So in other words, we want the gains from the efficiencies that we're generating. And that just gives us a lot of flexibility in the way we run the business. We can let it fall to the bottom line if we want through lower expense ratio. We can continue to invest it in other capabilities. Just gives us the flexibility to manage the business.
+
+And as I shared in my remarks, the extent that some of these productivity and efficiency benefits are in the claim organization, those come through loss adjustment expense in the loss ratio. Again, we've got the flexibility there to think about that as an operating leverage component. But just in terms of where those benefits are or where they might arise in the future.
+
+In terms of the regulatory environment, we -- it's -- from our perspective, it's constructive. We try to make sure that we're using the technology in ways that are thoughtful and careful. And frankly, we, as a company and we, through our trade association are on a regular basis, working with policymakers to make sure that we're achieving smart public policy and regulations as it comes to the development and implementation of technology.
+
+Charles Peters
+Raymond James & Associates, Inc., Research Division
+
+I guess related on the regulatory front, there are increased example -- more examples of regulators becoming more focused on the profitability of the insurance business and particularly the personal lines business. And I'm just curious if you have a view on any regulatory pushback you might be getting on the profit levels in your business? And if you think there's anything bigger issues at play that's going to spread throughout the country as it relates to that?
+
+Alan Schnitzer
+Chairman & CEO
+
+Yes. Greg, we certainly understand the affordability issue and I think it's an important one for all of us to be focused on, and we are focused on it. And let me just put the profitability of our Personal Insurance business into some perspective. We had a good year in '25. We had a good year in 2024. But the 2 years prior to that, our combined ratio was over 100%. And if you look at the last 5 years, it was 98%, I think. So that would be below our target returns.
+
+And so this really is a business that you need to look at and manage over a period of time. And I think when you think about Personal Insurance results over a period of time, I mean, certainly, in our case, you wouldn't say that we're over-earning. So we are trying to get the right price on the risk and earn a fair return for helping customers manage their risk.
+
+Operator
+
+Your next question comes from the line of Ryan Tunis with Cantor Fitzgerald.
+
+Ryan Tunis
+Cantor Fitzgerald & Co., Research Division
+
+Alan, in your prepared remarks, I think you mentioned that in Business Insurance, renewal premium change ex property was a little over 8%. I think that number was 9% last quarter. Just curious how much of that 1 point deceleration is attributable to rate versus exposure.
+
+Alan Schnitzer
+Chairman & CEO
+
+Yes. So we're looking for the exact breakout, Ryan. It's a little bit of both.
+
+Greg Toczydlowski
+Executive VP & President of Business Insurance
+
+Yes. I mean, Ryan, if you look at the Middle Market webcast, you can see exposure was down. You can do the math between rate and RPC, it's not perfect math. So to Alan's point, a little bit of an exposure and a little bit of rate.
+
+Ryan Tunis
+Cantor Fitzgerald & Co., Research Division
+
+Got it. And then I guess just on the property side, clearly it was a bit of a challenging year in the large account space just from a trading standpoint. Just curious how you guys are thinking about overall rate adequacy in National Property headed into 2026.
+
+Alan Schnitzer
+Chairman & CEO
+
+Yes. Ryan, it's a challenging year. I mean the pricing dynamic is what the pricing dynamic is. But to a very large degree, that's reflective of the profitability of that business. I mean that business has been achieving rate gains over a very long period of time and have gotten to a point where the profitability was strong. So we don't really look at a macro level and look at it and say it was challenging and appropriate. It's not -- you can certainly find examples of accounts and we'll scratch our head and say, "Gee, we're surprised that got priced that way" or -- and honestly, more than price, we're surprised sometimes with the terms and conditions that we see given away in the marketplace that we're not willing to do. But sort of writ large, we look at it and we say it's not so crazy when you think about where the returns are.
+
+Operator
+
+Your next question comes from the line of David Motemaden with Evercore.
+
+David Motemaden
+Evercore ISI Institutional Equities, Research Division
+
+Dan, just had a follow-up just on the capital return. So hear you loud and clear on the $1.8 billion that's expected in the first quarter. But just given what sounds like a change in terms of the -- just how you guys are managing the debt load and what looks like $1 billion of excess at the holding company now before the Canada proceeds and pretty healthy statutory capital levels, any sort of thought in terms of how we can think about the buybacks throughout the rest of this year, outside of 1Q into '27, just given the current growth environment?
+
+Daniel Frey
+Executive VP & CFO
+
+David, so I'd say not really. I mean we can't really sit here at the very beginning of the year and give much guidance on what we think buybacks are going to look like in the second, third and fourth quarters of this year. There's no change in our capital management strategy, and we made these comments last quarter when we alerted you to the fact that we did expect higher levels of buybacks in at least Q4 and Q1 because we had, as you recognize, reached a point where we're probably carrying a little more capital on the balance sheet than we needed to. But no change in the overall capital management strategy and the rest of the year is going to be impacted by all the usual things that would impact buybacks. What do cat losses look like? What does overall profitability look like? How do we feel about the growth environment? And we're going to responsibly manage the capital, right? We're not looking to hoard capital. We're looking to hold the right amount. And when we have excess, it's not ours, and we're going to give it back to the shareholders.
+
+Alan Schnitzer
+Chairman & CEO
+
+The only thing I would add to that, David, is our first objective for every dollar of capital that we generate is to invest it back into the business.
+
+David Motemaden
+Evercore ISI Institutional Equities, Research Division
+
+Got it. That makes sense. And then just as my follow-up, just looking at Slide 23 and the 7.8% expectation for catastrophe losses in 2026. If I just sort of do rough math on the 2025 premium levels, that implies a little bit above, I think, $3.4 billion, $3.5 billion, which is above where you guys have the retention at your XoL -- your aggregate XoL. So could you help me understand a little better the moving pieces there? And then just relatedly, just the cost of that, how much of a drag that might be on BI premium growth in 2026?
+
+Daniel Frey
+Executive VP & CFO
+
+Sure, David. Thanks for the question. So I guess I'll start with the second part of it and say we don't expect it to be much of a drag. In my prepared remarks, we talked about improvements in pricing in the reinsurance environment and a couple of other things we're doing around the edges that we don't think the year-over-year impact of ceded premium is going to be that big a deal in '26. Really importantly, though, what you were getting to in terms of cat load on a percentage point basis and what that might translate into dollars, the thing you got to remember when you think about the attachment point of the treaty is the first $100 million of every event is ours. So you can't just say if we thought we were going to have $3.X billion of cat losses next quarter, anything over $3 billion goes to the treaty. First $100 million of every event is ours.
+
+We said with this treaty historically, this is really we're buying tail protection for the balance sheet. That's still true. Clearly, with a $3 billion retention compared to a $4 billion retention, we're a lot closer in on the tail of possibly being able to hit that book. But if we looked at -- if you look, for example, at if we had that treaty in 2025, we would not have attached that treaty.
+
+Operator
+
+Your next question comes from the line of Mike Zaremski with BMO.
+
+Michael Zaremski
+BMO Capital Markets Equity Research
+
+My question is around all the great color you gave on technology initiatives. Would you be able to share what you may be roughly expect your organic headcount growth or shrinkage to be on a percentage basis this year versus maybe last year or so?
+
+Alan Schnitzer
+Chairman & CEO
+
+Mike, we gave you an example of narrow view of that in our claim organization in our call centers. We're not going to get into projecting headcount beyond that. But what I would say is premium per employee is up, thanks to some productivity and efficiency initiatives, and we expect premium per employee to continue to go up.
+
+Michael Zaremski
+BMO Capital Markets Equity Research
+
+Okay. Got it. That's helpful. Switching gears for my follow-up to commercial lines. I think we can tease it out based on the comments in the prepared remarks. So maybe you can just tell us in casualty, commercial, maybe nonworkers' comp, what was the change in pricing kind of sequentially? Or what's the trend line looking there?
+
+Greg Toczydlowski
+Executive VP & President of Business Insurance
+
+Yes, Mike, that would predominantly be the GL line and the umbrella. And in my prepared comments, I shared with you, umbrella had double digit in terms of renewal premium change. What I didn't include was GL. GL, I think, has been running in the mid-single digits in terms of renewal premium change. Those would be the 2 components outside of the comp.
+
+Operator
+
+Your next question comes from the line of Katie Sakys with Autonomous Research.
+
+Katie Sakys
+
+Alan, you mentioned in your prepared remarks that the strength seen in underlying underwriting this quarter is a durable dynamic. I guess, with pricing momentum seeming to continue to slow down here, can you map out for us what's driving your confidence that those underlying results hold in, in 2026?
+
+Alan Schnitzer
+Chairman & CEO
+
+Katie, so Dan shared and I shared the trajectory of underlying underwriting income in our prepared remarks, and you can see it in the slides and the webcast. We are a larger and more profitable company today than we have been historically. And thanks to investments that we've made in products, services, experience, capabilities and so on, we are very confident in our ability to continue writing premium at substantial levels. And we're very happy with the business that we're putting on the books.
+
+So when you combine those premium levels with reasonably strong profitability, you get high levels of underlying underwriting income. And if you look at the trajectory, you get a sense of what it's done over the last several years and we're confident it will continue to be a strong foundation for strong results in the years to come.
+
+Katie Sakys
+
+And then as a follow-up, I think last year in the fourth quarter, the Business Insurance underlying loss results included some additional IBNR for casualty lines. I guess with the net favorable reserve development results this year, that probably seems to be holding in fairly well. But could you give us any additional color there, and let us know if there was any similar additions to IBNR this quarter?
+
+Daniel Frey
+Executive VP & CFO
+
+Katie, it's Dan. So we did say, as you recall from last year, that we were including in the accident year loss pick for 2024, what we call sort of a load for uncertainty related to the casualty lines. I'm pretty sure we said we were doing that again in 2025, and we did do that again in 2025. And just to get the question out of the way, as we head into 2026, our planned loss ratio for 2026 once again includes an uncertainty provision in the casualty space.
+
+I would say the casualty loss has generally performed about as we expected, not really better than we had expected. The Business Insurance workers' comp favorability has really been driven by workers' comp. But long tail line still in the casualty space, a little bit of uncertainty. So we're going to stay prudent and stick with that load again in '26.
+
+Operator
+
+Your next question comes from the line of Meyer Shields with KBW.
+
+Meyer Shields
+Keefe, Bruyette, & Woods, Inc., Research Division
+
+I think it was probably for Dan. I know you talked about not having much of an overall margin impact from lowering the catastrophe reinsurance attachment point. Should there be any impact on a seasonal basis? In other words, is there any pressure on first quarter combined ratio components?
+
+Daniel Frey
+Executive VP & CFO
+
+Yes. I don't think so, Meyer, again, because when we look at our reinsurance program in the aggregate in terms of what we're going to pay out for ceded premium, given the pricing dynamic in the reinsurance space and again, some other changes we made around the margins on the reinsurance program, we don't think it's going to have much of an impact.
+
+Meyer Shields
+Keefe, Bruyette, & Woods, Inc., Research Division
+
+Okay. Perfect. And just a question for Michael. When you look forward to 2026 and beyond, are you comfortable growing the more cat prone state policy counts in line with the overall book? Or are we still constraining growth?
+
+Michael Klein
+Executive VP & President of Personal Insurance
+
+Yes. Thanks, Meyer. I think my point in my prepared remarks about deploying property capacity to support package growth, but maintaining the progress that we've made implies that certainly at most, we would grow cat prone states in line with the rest of the portfolio, but we do still have some spots where we'll be constrained. So I'd expect in aggregate, the property PIF growth will continue to trail auto as it has been, but both -- the growth trajectories of both lines should improve.
+
+Operator
+
+Your next question comes from the line of Alex Scott with Barclays.
+
+Taylor Scott
+Barclays Bank PLC, Research Division
+
+First one is on just capital deployment, maybe a little bit of a follow-up of the question earlier. How are you viewing the prospects for M&A relative to organic growth at this point? I mean the profitability seems really attractive, but the growth is obviously a bit lower. So I'm just trying to gauge if the organic growth isn't quite as attractive to you, could M&A be the way that you go?
+
+Alan Schnitzer
+Chairman & CEO
+
+Alex, I'm going to give you the same answer I've given probably for 10 years. So I'm sorry for -- probably not going to be the satisfying answer you're looking for. But the answer to that question for us is we're always looking for M&A opportunities. And we've got the capital, and we've got the expertise to diligence the deals and find the deals and execute the deals. And we are always looking for attractive inorganic opportunities. And -- but I would have answered that question the same way at any point in the last decade.
+
+Taylor Scott
+Barclays Bank PLC, Research Division
+
+Okay. Understood. I guess second one for you on tariffs. And just all of a sudden, it seems like maybe a wider range of outcomes again. How does that affect the way that you go about pricing maybe across all your businesses, but I'd be particularly interested in personal auto.
+
+Alan Schnitzer
+Chairman & CEO
+
+A couple of quarters ago, when we first started talking about tariffs, we shared our view that we thought that the impact was going to be relatively mild for us. And if you go back and look at the transcripts, and we shared a fair amount of commentary about how we got there. And at the time, for lines that are potentially impacted, we did provide a little bit in the loss pick for that. What we've seen so far hasn't even been the relatively modest amount that we expected. Now as the world changes and as the tariffs are out there longer, certainly, that dynamic could change, but we feel like the provisions that we've made in the loss picks for potentially impacted lines are there to cover it.
+
+Operator
+
+Your next question comes from the line of Brian Meredith with UBS.
+
+Brian Meredith
+UBS Investment Bank, Research Division
+
+First one for Michael. I'm just curious, Michael, the personal auto insurance space is getting increasingly more competitive, some new entrants in the agency space. Maybe you can talk a little bit about those competitive dynamics. And what is going to enable travelers to actually maybe recoup some of the market share you've lost over the last couple of years in personal auto, given the competitive dynamics in that market?
+
+Michael Klein
+Executive VP & President of Personal Insurance
+
+Yes. Thanks, Brian. I would start with the marketplace is always competitive. And certainly, I think a lot of the news that you see is around competition in the IA space. The first thing I'd say about that is I think it's a great validation of our strategy to be largely an independent agent carrier for personal lines and the value of choice and advice in this type of a marketplace.
+
+The second thing I would say is we've competed successfully in the independent agent channel for years. We remain confident in our ability to compete successfully in that channel. And I think it really comes down to a handful of competitive advantages in the space. Certainly, the strength and the durability of our relationships with independent agents, our investments in digitization and ease of doing business.
+
+And then lastly, and again, I've been talking about this for the last several quarters, the value of our package value proposition for both agents and customers and our ability to deliver balance sheet protection for consumers is another key advantage that we have in that space. And again, we're confident in our ability to compete going forward.
+
+Daniel Frey
+Executive VP & CFO
+
+Yes, Brian, it's Dan. I'll just add one more comment in there on the auto space in particular. So last couple of years, we've seen policy count down. But if you looked at the business now compared to what it was, say, 5 years ago, we're up one of only a very small number of carriers that's actually got a higher PIF count now than we did 5 years ago. And our view always again on growth is how you think about growth over time, right? We're not really looking to influence a growth number in the next quarter or even necessarily the next year. What's the right balance of returns, and are you sure that you're growing over time.
+
+Brian Meredith
+UBS Investment Bank, Research Division
+
+Great. That's helpful. And then, Alan, I'm just curious, I always welcome your thoughts on the tort environment and casualty trend. And what you see here going forward? Anything positive that's developing here that maybe curves that kind of loss trend on tort inflation?
+
+Alan Schnitzer
+Chairman & CEO
+
+Yes, Brian, I mean, it continues to be a very challenging environment, and I wish I could say that we saw improvement. It continues to be a pretty challenging environment. What may be a little bit of a bright light is we do see more states reacting to a difficult tort environment. And certainly, the impact of tort costs is impacting affordability for businesses and consumers. And I think we're seeing that in some states. And so that's a potential positive. The other thing we are seeing more of is disclosure requirements when it comes to third-party litigation financing, and that's also a very good thing. So we are continuing to put our shoulder into it and there's more work to do.
+
+Operator
+
+That's all the time that we have for questions. I would now like to turn the conference back over to Ms. Abbe Goldstein for closing comments.
+
+Abbe Goldstein
+Senior Vice President of Investor Relations
+
+Thanks, everyone, for joining. I know we left several analysts in the queue. But as always, please feel free to follow up with Investor Relations. Thanks, everyone, and have a good day.
+
+Operator
+
+This concludes today's conference call. Thank you for your participation, and you may now disconnect.

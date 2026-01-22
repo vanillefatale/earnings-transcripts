@@ -1,0 +1,121 @@
+Knight-Swift Transportation Holdings Inc. (KNX) Q4 2025 Earnings Call January 21, 2026 4:30 PM EST
+
+Company Participants
+
+Brad Stewart - Treasurer & Senior VP of Investor Relations
+Adam Miller - CEO & Director
+Andrew Hess - Chief Financial Officer
+
+Conference Call Participants
+
+Richa Talwar - Deutsche Bank AG, Research Division
+Jonathan Chappell - Evercore ISI Institutional Equities, Research Division
+Brian Ossenbeck - JPMorgan Chase & Co, Research Division
+Ravi Shanker - Morgan Stanley, Research Division
+Daniel Moore - Robert W. Baird & Co. Incorporated, Research Division
+Christian Wetherbee - Wells Fargo Securities, LLC, Research Division
+Ken Hoexter - BofA Securities, Research Division
+Scott Group - Wolfe Research, LLC
+
+Presentation
+
+Operator
+
+Good afternoon. My name is Constantin, and I'll be your conference operator today. At this time, I would like to welcome everyone to the Knight-Swift Transportation Fourth Quarter 2025 Earnings Call. [Operator Instructions]
+
+Speakers from today's call will be Adam Miller, Chief Executive Officer; Andrew Hess, Chief Financial Officer; and Brad Stewart, Treasurer and Senior VP of Investor Relations.
+
+Mr. Stewart, the meeting is now yours.
+
+Brad Stewart
+Treasurer & Senior VP of Investor Relations
+
+Thank you, Constantin. Good afternoon, everyone, and thank you for joining our fourth quarter 2025 earnings call. Today, we plan to discuss topics related to the results of the quarter, current market conditions and our earnings guidance. We have slides to accompany this call, which are posted on our investor website. Our call is scheduled to last 1 hour. Following our commentary, we will answer questions related to these topics. In order to get to as many participants as possible, we limit the questions to 1 per participant. If you have a second question, please feel free to get back in the queue. We will answer as many questions as time allows. If we're not able to get to your questions due to time restrictions, you may call (602)
+
+606-6349.
+
+To begin, I will first refer you to the disclosures on Slide 2 of the presentation and note the following.
+
+This conference call and presentation may contain forward-looking statements made by the company that involve risks, assumptions and uncertainties that are difficult to predict. Investors are directed to the information contained in Item 1A, Risk Factors, or Part 1 of the company's annual report on Form 10-K filed with the United States SEC for a discussion of the risks that may affect the company's future operating results. Actual results may differ.
+
+Now please turn to Slide 3, and I will hand the call over to Adam for some opening remarks.
+
+Adam Miller
+CEO & Director
+
+Thank you, Brad, and good afternoon, everyone. During the fourth quarter, the truckload market saw demand that was generally stable, but lacking the typical broad-based seasonal lift in demand until late in the quarter. Seasonal project activity occurred in October, but wound down quickly in early November. As a result, truckload volumes were lower than we expected. While we did see some improvement in overall demand and a tightening spot market in December, it was a reduction in available capacity that seemed to be the primary driver of the tightening market.
+
+The pressure on capacity also may be affecting the secondary equipment market as we experienced slowing equipment sales trends and falling average prices during the quarter. Developments such as these are often a precursor to a more healthy market. Thus far in January, network balance is running better than typical seasonality as capacity continues to be under pressure. We are pleased that our people were able to deliver meaningful sequential operating margin improvement in our Truckload segment, even while demand was short of our expectation for much of the quarter.
+
+For the full year, our progress on structurally cutting costs out of the business helped us overcome a $125 million decline in truckload revenue, excluding fuel surcharge, but grew adjusted operating income $28 million in this segment.
+
+At the same time, the Truckload business overcame inflation pressures to hold its 2025 cost per mile flat with 2024 despite miles declining 3.6%. Our LTL team was able to produce year-over-year shipment growth for the fourth quarter in a lower demand environment even after lapping the DHE acquisition in the prior quarter as our expanding network continues to help us create new opportunities. This team also responded quickly to the changing environment, stepping up the intensity of our cost initiatives to deliver operating margin within 60 basis points of the prior year levels, even while shipment count growth fell well below that of the growth in facilities and door count year-over-year.
+
+As we move into a new year and with anticipation building for a turn in market conditions, we felt it would be helpful to review our company's profile and to highlight some of the things we are focused on to better position ourselves for earnings growth moving forward. I won't touch on every part of our business here, but I wanted to share a few thoughts. First, we operate the largest fleet in the truckload industry and roughly 70% of our fleet is deployed in one-way or over-the-road service. It is true the one-way market has been the most difficult place to be over the past 3-plus years as this market has felt the brunt of the influx of capacity since the pandemic, but one-way service is what typically improves first and most in a tightening market. Our unique ability to deliver responsiveness at scale and with industry-leading trailer pool flexibility are competitive differentiators that attract opportunities, especially in a tightening market.
+
+Second, the significant progress we have made cutting costs out of our truckload business has driven year-over-year earnings growth despite lower revenue. Further, while the deleveraging effect of lower miles has masked some of our progress in reducing cost per mile, we believe most of the fixed cost reductions are permanent and position us for better incremental margins as volumes and pricing recover. The incremental margin opportunity is further enhanced by the room to improve utilization on the existing fleet. While we have made meaningful progress on cost to date, there are still a number of opportunities to further improve and to scale our business efficiently. We have been investing in internal development and external products to facilitate tech-enabled efficiency gains as well as better revenue capture, including through AI and other methods. We expect the benefits to begin to be realized in 2026 as we more fully roll out these technologies and as an improving marketplace provides us opportunity to scale more efficiently.
+
+Finally, our entry into the LTL industry and subsequent expansion over the past few years is just the beginning of what we believe will be a multiyear journey with an attractive runway for reinvesting free cash flow towards improving revenues, margin and earnings stability. As we have grown our facility count faster than our shipment count over the past 2 years, this has weighed down margins, but we expect a more deliberate pace of network expansion in the near term will allow us to restore margins as we continue to grow into these investments. We believe the existing infrastructure has capacity to support annualized revenue of $2 billion.
+
+As we continue growing into these investments, the operating leverage will be further enhanced by building density and optimizing our cost structure to help us reach our goals of steady margin improvement. Then, when we look externally, there are a number of factors that increasingly indicate the truckload market could begin to grow stronger in 2026. Capacity reduction is clearly underway. Regulatory enforcement of qualifications and safety standards was arguably the most welcome development in 2025 for our industry.
+
+The influx of capacity from 2021 to 2024, much of which was played by a different set of rules and operating with different cost structures has distorted pricing behaviors and cyclical patterns. The ongoing efforts of the FMCSA and DOT to prevent and revoke invalidly issued CDLs, shut down noncompliant CDL schools and address hour of service abuses should, in our view, have an outsized impact on the lowest priced capacity in the one-way truckload market. Aside from the regulatory cleanup, capacity continues to erode, especially in the one-way truckload market where struggling carriers are running out of liquidity and large players continue to shift towards dedicated services.
+
+Second, market data trends have improved of late. Despite muted demand, rejection rates climbed in recent months and are hanging in above year ago levels in early January. Similarly, market spot rates and the spot versus contract spread improved exiting 2025 to the best level seen since early 2022. These market trends align with those seen within our own businesses.
+
+And finally, the inventory pull forward appears largely worked off as a result of solid holiday sales, and there is a potential for stimulative support for demand from the tax bill and Fed rate cuts. It appears the market has progressed to a point where even small increases in demand can cause disruption and our industry-leading over-the-road capacity is uniquely positioned to create value for our customers and capture opportunities for our business.
+
+The market and regulatory developments in the back half of 2025 give us increased confidence in the path to return our Truckload segment back to mid-cycle margins. We are not here to call the turn by any means, but we are closely monitoring market trends, bid developments and signals from our multiple nationwide truckload networks and are prepared to execute our playbook for deploying capacity towards the most valuable opportunities as the landscape shifts. We remain committed to thoughtfully deploying capital, intentionally leveraging our strengths and creatively unlocking synergy opportunities across our business.
+
+And with that, I will turn the call over to Andrew and Brad to review the results of the quarter and our guidance.
+
+Andrew Hess
+Chief Financial Officer
+
+Thanks, Adam. The charts on Slide 4 compare our consolidated fourth quarter revenue and earnings results on a year-over-year basis. Before getting into the comparisons, it's important to note that our GAAP results for the current quarter include $52.9 million of noncash impairment charges, primarily related to our decision during the quarter to combine our Abilene Truckload brand into our Swift business.
+
+Impairments have been adjusted out of our non-GAAP results as shown in the reconciliation schedules following this presentation. Revenue, excluding fuel surcharge, decreased slightly by 40 basis points and operating income declined by $51.5 million year-over-year, largely due to the $52.9 million of impairment noted above.
+
+Adjusted operating income declined 5.3% year-over-year as a result of lighter truckload and LTL demand environments compared to the fourth quarter of 2024. GAAP earnings per diluted share for the fourth quarter of 2025 were a loss of $0.04, primarily related to the impairments noted above.
+
+GAAP earnings per diluted share in the prior year quarter were $0.43, which included a $36.6 million benefit for a mark-to-market adjustment of certain purchase price obligations associated with the U.S. Xpress acquisition. Adjusted EPS was $0.31 for the fourth quarter of 2025 compared to $0.36 for the fourth quarter of 2024. Our consolidated adjusted operating ratio was 94%, up 30 basis points year-over-year and 20 basis points sequentially. The effective tax rate of 21.6% on our GAAP results was 820 basis points higher year-over-year. The effective tax rate of 23.1% on our non-GAAP results was 460 basis points higher year-over-year.
+
+Slide 5 illustrates the revenue and adjusted operating income for each of our segments for the quarter. Overall, truckload grew as a share of our consolidated revenue quarter-over-quarter as the fourth quarter is typically the strongest season for this business, while it is the softest [indiscernible]. We would anticipate LTL returning closer to its recent 20% share next quarter as LTL seasonality begins to improve. We have been enhancing our ability to generate revenue synergies across brands and lines of service. The key levers are intentional leadership to drive powerful collaboration and deploying technology to foster seamless connectivity. Leveraging excess capacity in one brand against excess demand in another effectively increases our ability to search and capture a greater share of market opportunities while solving internal network imbalances.
+
+To be certain, we have leaned on each other before, but for these advances -- but these advances make such practices systemic, more responsive and scalable. These are calculated investments designed and prioritized based on their ability to propel our business.
+
+Now we will discuss each of our segments, starting with our Truckload segment on Slide 6. As Adam mentioned, volumes in the Truckload segment were lower than expected with generally lower demand than the prior year period until late in the quarter. Additionally, seasonal project activities in October had shorter duration than in the prior year, likely due to some freight having been moved earlier than normal given trade and tariff disruptions throughout 2025.
+
+Additionally, blockades of the Mexico border during the quarter were a headwind to productivity, especially for our TransMex division. While demand did show some improvement late in the quarter, which helped support spot rates, this could only partially overcome the muted November results. The secondary equipment market weakened during the quarter, which appears to be at least partially related to the impact of regulatory enforcement on smaller carriers, which caused gains on sale to come in roughly $4 million below the prior quarter level and our expectations.
+
+On a year-over-year basis, revenue excluding fuel surcharge declined 2.4% and adjusted operating income declined $9.2 million or 10.7% year-over-year, largely as a result of the 3.3% decline in loaded miles. Revenue per loaded mile, excluding fuel surcharge and intersegment transactions increased 0.7% year-over-year and sequentially improved 1.4% over the quarter. The fourth quarter combined adjusted operating ratio was 70 basis points higher year-over-year. Excluding U.S. Xpress, the Legacy Truckload brands operated at a 91.6% adjusted operating ratio, while U.S. Xpress improved its adjusted operating ratio 430 basis points year-over-year to the mid-90s as the seasonal project participation was at its highest since the 2023 acquisition.
+
+Finally, during the fourth quarter, we decided to combine the Abilene trucking operations into our Swift business to improve efficiency and enhance the productivity by incorporating these assets and freight flows into a more robust network with more freight opportunities. We continue to make tangible progress improving our cost structure to position our business to generate meaningful returns as market conditions recover.
+
+Moving on to Slide 7. Our LTL business grew revenue excluding fuel surcharge 7% year-over-year with shipments per day up 2.1%, a lower growth rate than the previous quarter as we lapped the acquisition of DHE on July 30 and as market demand moderated at the beginning of October. Revenue per hundredweight, excluding fuel surcharge, increased 5% year-over-year. Adjusted operating income decreased 4.8% and adjusted operating ratio increased slightly by 60 basis points year-over-year.
+
+As Adam noted, in response to the moderating demand environment during the quarter, we stepped up the cost initiatives we had announced last summer to mitigate pressure on margin. We are taking action where prudent in the short term, but without sacrificing our ability to respond to growth opportunities through ongoing bids as discussions around bids currently in process are encouraging. During the fourth quarter, we opened one new service center and replaced another with a larger site, bringing our growth in door count to 10% year-over-year.
+
+We have opportunities to optimize our operations and cost structure as our network and business mix mature, and we have confidence in our plans to achieve this. Our solid service levels, growing customer base and ground to make up on pricing provides a compelling runway for the value to be generated by this business.
+
+Now, I will turn it over to Brad for a discussion of our Logistics segment on Slide 8.
+
+Brad Stewart
+Treasurer & Senior VP of Investor Relations
+
+Thanks, Andrew. Logistics revenue for the fourth quarter declined 4.8% year-over-year as volumes were down 1%, while revenue per load was 4.1% lower due to mix change. Third-party carrier capacity grew noticeably more difficult to source during the quarter, which pressured gross margins. Gross margin of 15.5% for the fourth quarter declined 230 basis points from third quarter levels and 180 basis points year-over-year. Adjusted operating ratio was 95.8% for the quarter.
+
+Another recent trend is the increase in cargo theft in the industry. While fraud and theft in the industry has been on the rise over the past couple of years, channel checks indicate a rash of theft in the quarter, some of which appear to be related to operators being forced out of the business through either financial struggles or regulatory enforcement. If these trends continue, it could further encourage shippers to allocate more business to direct asset-based carrier relationships. For our part, we have been further tightening our already rigorous carrier qualification standards and narrowing the existing carrier base that we tender loads to. Also, if upward pressure on third-party capacity cost continues, this could cause further pressure on gross margin in the near term as capacity continues to erode. However, given the relationship between our Logistics segment and our Asset-Based Truckload segment, we believe these dynamics would ultimately benefit both our asset and logistics businesses over time.
+
+Our Logistics business has demonstrated its agility in navigating a volatile market the past few years by maintaining its operating margin close to target levels through disciplined pricing and cost management. This team is now further leveraging technology to take cost efficiencies to a new level as well as to improve our responsiveness and ability to capture opportunities in the market, which we expect will contribute to earnings in 2026. These enhancements, combined with its complementary relationship with our asset business, position our Logistics business to accelerate revenue growth and the return on our trailer assets in an improving market.
+
+Now on to Slide 9 for a discussion of our Intermodal business. The Intermodal segment improved its adjusted operating ratio 140 basis points year-over-year to 100.1%, driven by a 2.8% increase in revenue per load as well as structural cost reduction and improvement in network balance, which led to significant year-over-year reductions in empty repositioning, trade and chassis costs. Revenue declined 3.4% year-over-year on a 6% decrease in load count, partially offset by the increase in revenue per load. On a sequential basis, revenue grew 1.7% up 2.6% increase in load count, with both measures reaching their highest marks for the year. We look forward to leveraging the new chapter in our rail partnerships in an improving market. And in the meantime, we remain focused on delivering excellent service and driving appropriate returns through growing our load count with disciplined pricing, cost control, network balance and equipment utilization.
+
+Slide 10 illustrates our all other segments. This category includes support services provided to our customers, independent contractors and third-party carriers such as equipment sales and rentals, equipment leasing, warehousing activities, insurance and maintenance. For the quarter, revenue increased 17.7% and the operating loss in the seasonally slow period for this category improved $5.9 million or 37.3% year-over-year, primarily driven by growth in our warehousing and leasing businesses.
+
+Now on Slide 11, we have outlined our guidance and the key assumptions, which are also stated in the earnings release. Actual results may differ from our expectations. Based on our assumptions, we project our adjusted EPS for the first quarter of 2026 will be in the range of $0.28 to $0.32. In general, this guidance for the first quarter assumes current conditions remain stable and that we experienced some seasonal slowing in the truckload market and seasonal recovery in the LTL market. The key assumptions underpinning this guidance are listed on this slide. I won't take time to read through all of our assumptions here, but I do want to touch on a couple of the more significant moves other than the typical seasonality in truckload.
+
+We expect a strong bounce back in our all other segments category after its seasonal slow period in the fourth quarter, and we have significantly reduced the range for expected gain on sale based on the secondary equipment market trends that we noted in our earlier comments.
+
+Now this concludes our prepared remarks. And before I turn it over for questions, I want to remind everyone to please keep it to one question per participant. Thank you. Constantin, we will now open the line for questions.
+

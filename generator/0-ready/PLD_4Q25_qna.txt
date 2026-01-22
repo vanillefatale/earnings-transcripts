@@ -1,0 +1,296 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] And the first question comes from the line of Blaine Heck with Wells Fargo.
+
+Blaine Heck
+Wells Fargo Securities, LLC, Research Division
+
+Dan, can you speak about any changes in strategic initiatives that may come with your leadership at Prologis? And specifically, any thoughts around the strategic capital side of the business and when you might expect to add additional strategies, including a potential data center focused funds? Any information on the scope, potential timing and earnings impact would be really helpful.
+
+Dan Letter
+CEO & Director
+
+Yes. Thanks, Blaine. I highlighted our strategy pretty clearly in my opening remarks here. And what did I say there? First, our focus is centered on compounding the core logistics business while continuing to broaden and strengthen the platform. Logistics is and will remain the foundation here, serving the consumption centers around the world, capturing the embedded rent growth and lifting rents as markets recover. And then we'll start leaning more into development where supply is constrained.
+
+Data centers and energy, high-return adjacent businesses here, where our land positions, our power access and our customer relationships really give us that edge. We have a very strong customer franchise. And yes, I expect to grow the strategic capital AUM significantly, both through existing vehicles and new vehicles. And really, at the end of the day, it's all about hyperfocus on execution for this team. But Tim, maybe you want to add on something on the new vehicles.
+
+Timothy Arndt
+Chief Financial Officer
+
+Yes. Blaine, on the data center fund and its prospects, as you know, over the past weeks and months now, we've been dialoguing with some of world's larger investors, and they are ones who would have interest in co-investing in this business. And we've had a very productive couple of months in that regard. There definitely is a lot of interest such that we see capital isn't necessarily the constraint here.
+
+And what we're really after is determining what capital structure makes sense for this business that allows us to take full advantage of all the development opportunities in the portfolio, diversifying projects, but growing the AUM that we're talking about here and enhancing it with fee streams, et cetera, driving ROE.
+
+I'd say we're meaningfully through that process at this point. We expect to know more in the coming weeks and months. But it's something at the same time, I'll say, we're taking care to get right given the scale of the opportunity. So in the meantime, the balance sheet has been comfortably carrying out the program that we have. It's been very profitable. So we'll compare these alternatives to that status quo. And as we have more news for you, we will share it out in the coming months.
+
+Operator
+
+The next question comes from the line of Michael Griffin with Evercore ISI.
+
+Michael Griffin
+Evercore ISI Institutional Equities, Research Division
+
+Tim, I appreciated your comments kind of walking through the puts and takes of your expectations in 2026. Wondering if you can dive a little bit deeper into your assumption around market rent growth and maybe if you're able to kind of quantify it for us in terms of what you're forecasting for the year ahead. It seemed like some markets are hitting an inflection point. You've still got a healthy mark-to-market. So is this a scenario where maybe market rents are down in the first half of the year and then improve as we get to the second half? Just maybe walk us through some commentary there, that would be great.
+
+Timothy Arndt
+Chief Financial Officer
+
+Yes. Let me pass that over to Chris.
+
+Christopher Caton
+Managing Director of Global Strategy & Analytics
+
+Michael, let me give you the full fundamental forecast for '26 so that you have all the context you need to make that judgment. The key message here is market vacancies are poised to improve over the course of the year. Now that already began in the fourth quarter when net absorption outperformed completions, and I anticipate '26 will play out the same way.
+
+New demand is the key variable here, and we expect net absorption to approach 200 million square feet in '26 versus 155 million last year. Decline in supply is helping. Deliveries are on pace to be 185 million, 180 million square feet in 2026, down from 200 million square feet last year. So that will take vacancies, which were at 7.4% at the end of last year towards 7.1%, 7.2% at the end of this year.
+
+And so you're right, markets are advancing at different rates. Tim described rent demand improving, occupancy levels beginning to improve across a greater range of markets and ultimately, rents. So we expect positive rent growth in aggregate to begin to emerge in a more clear way over the course of the year.
+
+Operator
+
+The next question comes from the line of Craig Mailman with Citi.
+
+Craig Mailman
+Citigroup Inc., Research Division
+
+Just want to hit on the data center piece real quick. I think, Tim, you said that you have 1.2 gigawatts in LOI or advanced negotiations. Can you just walk through kind of how many projects that would be? And how that's reflected in the development start guidance? I noticed you guys, for the first time, aggregated warehouse and data center. So give us a sense of like how much of that start guidance is data centers versus warehouses and if this 1.2 gigawatts is sort of a near-term opportunity or '27 and '28, too.
+
+Timothy Arndt
+Chief Financial Officer
+
+Yes. I won't break it down by project for you, Craig, but we have a small handful, I'll describe it that way, of starts that feel relatively imminent given the stage of leasing I just described them in. So I expect you'll see something this quarter in starts and certainly in the first half, and maybe a couple there.
+
+In the guidance, I described that 40% of our overall owned and managed range of $4 billion to $5 billion, we expect 40% of that roughly to be in data centers. So you can unpack that and understand the logistics piece. And I think -- I will say, I think there's -- we've left some opportunity to outperform this in a few ways, both in logistics and in the data centers. On the logistics side, I would say that what you infer there on logistics starts is still below what a very strong run rate would be for us.
+
+We could see that the environment for spec starts continues to improve, and that would be a means for outperformance on those starts. And on the data center side, I would bear in mind that it's not only going to be in project count, if you will, that we execute on, but also format. We have a mix that we think about between powered shell and turnkey and the appetite for turnkey projects is quite high from our customers. And if we choose to execute more in that format, the aggregate dollars would rise as well.
+
+Dan Letter
+CEO & Director
+
+Let me just pile on here. We've often talked about a wide range of deployment that we can do throughout the year. We own land in over 70 markets around the world. And as we talked about, $42 billion worth of opportunity in that land bank, of which nearly 40% of that is ready to go. So we can really make a decision in a moment's notice as it relates to starting. So we have a lot of opportunity, as Tim mentioned.
+
+Operator
+
+The next question comes from the line of Caitlin Burrows with Goldman Sachs.
+
+Caitlin Burrows
+Goldman Sachs Group, Inc., Research Division
+
+Maybe another data center question. So just a year ago on the 4Q '24 call, you guys mentioned that you could reach 10 gigawatts of power in 10 years. I guess now we're 1 year later and you're already at almost 6 gigawatts. So I was just wondering if there was any update on that kind of 10-gigawatt outlook or trajectory? And do you think the pace of increase could keep going? Might it slow down because future increases in power are increasingly more difficult? Or just -- how do you expect that to trend?
+
+Dan Letter
+CEO & Director
+
+Caitlin, I would say when we talk about the 10 gigawatts of power, what we've talked about is just the universe of opportunity that we have. We own 6,000 buildings adjacent to the world's most dynamic consumption centers. We own or control 14,000 acres of land. And it's really lumpy as to when these sites will be ready, will be energized.
+
+And that's why we're updating you as soon as we know on what's coming. But I'm very comfortable stating that 10-gigawatt of pipeline, and there's just a lot behind that, that is further down the road, but no update further from that number.
+
+Operator
+
+The next question comes from the line of Vikram Malhotra with Mizuho.
+
+Vikram Malhotra
+Mizuho Securities USA LLC, Research Division
+
+I want to just clarify 2 things just based on your comments, which seem like we're moving from this bottoming to an inflection phase. So one, I guess it's been hard over the last 3 years to predict sort of this inflection in occupancy. So what gives you strength as you see this downtick in the first quarter to build a fair amount of occupancy to hit your guide? And then related to that, as you get this strong core growth, what -- can you walk through some of the offsets that limit the FFO growth this year?
+
+Timothy Arndt
+Chief Financial Officer
+
+Vikram. Well, look, on occupancy, I think the first thing that is worthy of remembering is that the past few years now of absorption is what has been the outlier. We've had very low years of annual absorption in our markets. So even with Chris' forecast of approaching [ 200 million square feet ], we'd still call that not fully normal or robust.
+
+So I think that's useful context perhaps. The remainder is, look, I think our guide is for about 25 basis points increase in average, also maybe not as extreme as you might be reading into. But finishing the year at 95.8% and building occupancy over the course of the year, to answer your direct question is what gives us a good amount of confidence in the forecast that we have here.
+
+Operator
+
+The next question comes from the line of Samir Khanal with Bank of America.
+
+Samir Khanal
+BofA Securities, Research Division
+
+I guess, Tim, occupancy had a nice pickup in Europe and Asia in 4Q. I think you talked a little bit about Japan, but maybe can you provide some color on kind of the big pickup there in occupancy and sort of what's driving that?
+
+Timothy Arndt
+Chief Financial Officer
+
+Samir, I would say, I would look back across the year, probably '25. The Europe story and definitely the Japan story are not new. We've tried to highlight that a few times in recent quarters. Occupancies there in the market have been pretty strong in Europe, at least. Japan is a different story at the market level. But our portfolio in both cases, has been quite high and has been that way for quite a while now. Anything you would add, Chris?
+
+Christopher Caton
+Managing Director of Global Strategy & Analytics
+
+No, that's right. I'd say momentum is building around the world. So ex U.S. has more momentum, healthy demand, lower vacancies.
+
+Operator
+
+The next question comes from the line of Ronald Kamdem with Morgan Stanley.
+
+Ronald Kamdem
+Morgan Stanley, Research Division
+
+Great. Just had a broader question on capital deployment, both on the data center and the traditional sort of industrial side. If you could just walk us through just what that potential pipeline looks like in terms of the ramp and what you need to see to sort of increase the run rate, specifically on the industrial side.
+
+Dan Letter
+CEO & Director
+
+Yes, Ron, I'll start and maybe Tim will chime in here. But as I mentioned, we have significant number of opportunities. Good news is we saw this real estate cycle continue in the fourth quarter, as Chris mentioned in his prior remarks, we're seeing -- really starting to see better activity in really all size ranges. It's not just a big-box story, or at least fourth quarter wasn't just a big-box story. So we can watch these markets literally by the week and month and make decisions on the fly and ramp accordingly.
+
+Timothy Arndt
+Chief Financial Officer
+
+Yes. I would only say, Dan, that's precisely right. And Ron and maybe I would, to give a different context, it really is built up week-by-week at investment committee as teams are deciding conditions in their respective markets are appropriate. It's not something that we govern top down.
+
+Operator
+
+The next question comes from the line of Nick Thillman with Baird.
+
+Nicholas Thillman
+Robert W. Baird & Co. Incorporated, Research Division
+
+Maybe touching still on the development starts on the industrial side. Is it fair to assume that you still have a little bit more bias ex U.S. in that market? And then as we think of the land bank overall, you guys have alluded to the mark-to-market upside, but then replacement cost rents. I guess as we look at the bank -- land bank overall, what percentage of that bank do you think is in the money when it comes to new construction like barring -- or if the demand is there, like what percentage of that would you say is in the money at this point on new starts here?
+
+Timothy Arndt
+Chief Financial Officer
+
+Well, I'll take the second part, and Dan can pick up the geographic mix maybe after. It's a challenging question to unpack the way you're phrasing it. I guess what I would tell you is that we evaluate the valuation of the land bank every quarter, and we continually read out to you how we see that. Presently, we see that around 110% fair market value to book value. So that is going to be a mix of projects that are more deeply in the money than others, but I can only provide you the information on that aggregate basis.
+
+Dan Letter
+CEO & Director
+
+And then as it relates to geographies, about 2/3 of the starts that we're assuming for the year on the logistics side are in the U.S. for 2026. That's up about 10%, 15% year-over-year. And then we're seeing strong markets in Latin America between Sao Paulo, between Mexico, I'd say not the border markets of Mexico, but Mexico City. And then if you go over to Europe, we're seeing -- we'll see some starts in Germany, Netherlands, Northern Europe mostly.
+
+Operator
+
+The next question comes from the line of Vince Tibone with Green Street.
+
+Vince Tibone
+Green Street Advisors, LLC, Research Division
+
+I have a few more questions on the data center opportunity. On the 1.2 gigawatts you mentioned are under LOI, would those be mostly powered shell or turnkey? I'm just trying to get a sense of the total investment for that power. And then could you also clarify just what exactly it means to be kind of in advanced stages of procurement for power?
+
+I mean it's just everything we hear it is taking longer and longer to get power from the utility. So I'm curious like how far out that stuff that's in advanced stages may take before power could be delivered? Like is it -- because you have commitments for that power, but it may be 3 to 5 years, if not more, until it's actually delivered? Just trying to get a sense of both those points.
+
+Timothy Arndt
+Chief Financial Officer
+
+Vince, I would -- I'm going to answer your first question in a more generic way that we think of the program overall as likely being on the order of 60% to 70% powered shell and having some amount in our forecast reserved for full turnkey. The deals that are in the near future are still working through those discussions.
+
+And we've seen -- it may be surprising, but we've seen even in late stages or mid build customers decide to transition from powered shell to full turnkey. So that's why it's a little squishy right now. But to widen you out to think about the entire initiative, think about 60% to 70% powered shell.
+
+Dan Letter
+CEO & Director
+
+And Vince, to your question around what defines advanced stages, what's secured? Advanced stages, it's the point when a project has a preliminary utility agreement that really signals progress towards like a firm power agreement. It's really just pending the final design and construction with the utility. There's significant capital that's been outlaid at that point, and it's definitely a defined path to securing that firm power.
+
+That often happens after many -- 12, 18, 24 months of negotiations with these utilities. And then it typically takes another year to 2 to get to that secured stage. And then we consider secured power is when the data center project has a binding agreement through the form of an energy service agreement with the utility, and that's guaranteeing power delivery and committing to build that necessary infrastructure.
+
+Operator
+
+The next question comes from the line of Michael Goldsmith with UBS.
+
+Michael Goldsmith
+UBS Investment Bank, Research Division
+
+Despite what was a particularly volatile year in 2025, you still ended up at the high end of your initial core FFO like promote guidance, which suggests stability in the algorithm, but the spread for the outlook in 2026 is even wider. So is there anything that would add more sensitivity or a wider range of outcomes this year? And then as well, Southern California lease percentage picked up 140 basis points. So if you could touch on the health of that market, that would be appreciated.
+
+Timothy Arndt
+Chief Financial Officer
+
+Michael, it's Tim. On your first question, I would think of it more as math, to be honest. We're just getting to earnings per share, FFO per share here. That's quite a high number crossing over $6 now. And if you just think of variability in percentage terms, the penny range that we provide needs to move with that growth and widens out. It's just natural.
+
+Christopher Caton
+Managing Director of Global Strategy & Analytics
+
+Michael, it's Chris. On Southern California, great pickup. There has been a tone shift in Southern California worth discussing. So look, let's acknowledge Southern California has been a soft market and market vacancies are elevated there, but there is a new direction in customer demand, and it's giving us confidence in the call that we've been consistent in making in terms of the opportunity for cyclical recovery to emerge.
+
+What I'm specifically looking at is in the back half of the year, and so both in the third and fourth quarters, gross absorption and net absorption went in a different direction in an improved direction. Customers are engaging earlier in renewals. There's broader discussion of new lease requirements across all submarkets from a wider range of customers. And as it relates to submarkets, we often get asked that question, and there is still some nuance as we pass -- as we approach this inflection point.
+
+Inland Empire is clearly outperforming Los Angeles. There's great improving net absorption in that geography. Class A over Class B is outperforming. That's a positive for our portfolio. And in fact, there are a couple of pockets where there's some scarcity and healthy customer demand that's leading to firming and improving pricing. So I'm thinking really big box in the Inland Empire. Putting it together, the cycle is progressing and short-term weakness is dissipating.
+
+Operator
+
+The next question comes from the line of Mike Mueller with JPMorgan.
+
+Michael Mueller
+JPMorgan Chase & Co, Research Division
+
+Do your fund contribution expectations for '26 reflect just ongoing development activities for warehouses? Or does it factor in any contributions for the new vehicles?
+
+Timothy Arndt
+Chief Financial Officer
+
+The only thing included in the contribution guidance is -- that we contemplate for the year is that the Agility Fund that I mentioned in my prepared remarks, before it starts some of the development activity it will undertake in the year, it will take some contributions of land from Prologis, marked up to fair value is the way that will operate, and that is reflected in the guidance.
+
+Operator
+
+The next question comes from the line of Nicholas Yulico with Scotiabank.
+
+Nicholas Yulico
+Scotiabank Global Banking and Markets, Research Division
+
+Tim, in terms of the guidance on same-store growth this year, I was hoping you could just unpack that a little bit in terms of the acceleration in same-store growth this year, is that just being driven by easier occupancy comps? Or are you also expecting some improvement in mark-to-market that you can capture?
+
+Timothy Arndt
+Chief Financial Officer
+
+Yes. It's going to be -- let's break it apart. On the rent change piece or the mark-to-market, as you mentioned, that will be a decreasing factor as rent change amounts get a little bit more normalized. We had 50% rent change in 2025, as I mentioned, and you can unpack and infer by looking through the supplemental, will be in the high 30s or roughly 40% in 2026 as you evaluate market rents for our discussion of where they sit in our lease mark-to-market.
+
+So that will be a smaller contributor, a long way of saying occupancy drag will be a little bit less. One of the predominant factors is just lighter FPLA really from the Duke acquisition. That does have a long tail. I'll say that is still dragging net effective same-store growth by 75 to 100 basis points, and it will be with us for a few more years, but it does slowly reduce over time.
+
+Operator
+
+The next question comes from the line of Todd Thomas with KeyBanc Capital Markets.
+
+Todd Thomas
+KeyBanc Capital Markets Inc., Research Division
+
+I wanted to go back to the capital deployment, ask about something at a little bit of a higher level. You previously talked about deployment drag in '26, just given lighter levels of starts in '24 and '25, which has impacted FFO growth to some extent in the near term. Can you talk about the cadence of stabilizations during the year and comment on whether you see that accelerating or increasing as the year progresses? I'm just wondering if you can talk about the magnitude and impact of that drag within the '26 guidance and whether you expect that to begin alleviating as '27 approaches?
+
+Timothy Arndt
+Chief Financial Officer
+
+Yes, Todd, I think the best disclosure on this is present in the sup with regard to the pipeline overall, and we do demark what years of stabilization of projects fall into. We don't provide it out by quarter. That's just a lot of detail for one. But on the speculative side, it's going to be subject to when leasing is being achieved.
+
+Perhaps just to help you, if you wanted to unpack some breadcrumbs from prior year starts, which we give you quarterly, I'd say our spec business is typically leasing up between 7 and 9 months. Long-term average would be 7 months. Recent years have been a little bit longer. I expect to see that tighten as market conditions do. And then build-to-suits, of course, come online immediately at project completion.
+
+Operator
+
+The next question comes from the line of Brendan Lynch with Barclays.
+
+Brendan Lynch
+Barclays Bank PLC, Research Division
+
+Another follow-up on the data center side. Can you discuss the 5-plus gigawatts of power that you have access to and how fragmented that power is dispersed either geographically or even conceivably by asset and where the largest blocks are that you have?
+
+Dan Letter
+CEO & Director
+
+Yes, sure. So our land and the power bank, if you will, it is distributed across Tier 1 and Tier 2 markets across the U.S. and Europe. That's Northern Virginia, that's Silicon Valley, Chicago, New Jersey, Dallas, Portland in the U.S. is Tier 1. It's the FLAP-D markets. Literally, we've got Amsterdam, London, Paris, Frankfurt, Dublin that we're working. And then Tier 2, we've got a number of sites as well, Austin, Las Vegas, Phoenix, Salt Lake City, Boston, Denver and then Madrid, Milan and Berlin in Europe. So very dispersed, a wide range of opportunities here.
+
+Operator
+
+Our final question comes from the line of John Kim with BMO Capital Markets.
+
+John Kim
+BMO Capital Markets Equity Research
+
+I wanted to follow up on what's incorporated in same-store guidance in terms of the occupancy growth of U.S. versus international markets. Will that international outperformance continue? And also what you're expecting from solar contribution, given there wasn't much contribution last year, but we're 1 year closer to $1 billion essentials revenue target that you're expecting by 2030?
+
+Timothy Arndt
+Chief Financial Officer
+
+Yes, John, the occupancy gains that I would see in same-store are relatively dispersed across our geographies. There's more weight coming out of the U.S. generally, of course, but the levels of improvement even at the market level as we think about Chris' absorption are kind of uniform in basis point terms between those geographies. Solar revenues, I'm glad you highlight. It is in NOI. We're very proud to have surpassed that 1 gigawatt goal. By the way, I'd like to mention again. The growth you see there, while impressive on its own, it's just at a nominal level, to be frank, that it kind of pales in comparison to $6 billion, $7 billion of NOI from rental operations we have now, but that will continue to grow from here and become a much more meaningful contributor in future years.
+
+Operator
+
+This now concludes our question-and-answer session. Now I would like to turn the floor back over to management for any closing comments.
+
+Dan Letter
+CEO & Director
+
+Thank you for joining us today. We appreciate your interest in the company. We look forward to connecting throughout the quarter or during next quarter's call. Take care.
+
+Operator
+
+And ladies and gentlemen, thank you for your participation. That does conclude today's teleconference. Please disconnect your lines and have a wonderful day.

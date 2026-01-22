@@ -1,0 +1,276 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from the line of Scott Davis with Melius Research.
+
+Scott Davis
+Melius Research LLC
+
+Everything was pretty positive. And when you guys are spending more money, that's usually a good sign as well. But I just wanted to lead off with the AI stuff because again, it still is the elephant in the room. I mean it sounds like, if I heard you right, which I think I did, you're taking up your forecast by a couple of hundred million from where you were at Analyst Day. I just wanted to confirm that. But more importantly, I just wanted to address the scaling of those revenues. How is -- can you walk us through the kind of linkage between the capacity adds and the scaling and how you expect that to improve margins as that capacity seasons if you can't give specific numbers, just some reference points and historically when you've added capacity for growth like...
+
+Terrence Curtin
+CEO & Executive Director
+
+Yes. Sure, Scott, and Happy New Year, and I appreciate the question. And just so we're all aligned about what we said at Investor Day, we did talk about getting to a $3 billion of AI revenue out a couple of years. And we're certainly on track to achieve this and -- versus 90 days ago, when we shared the number, we do think the number for this year will be $200 million more than what we just shared. And what's nice is this year, we're going to have growth across all hyperscaler customers. And that's something that we all know with the CapEx trend that's happening in cloud CapEx to make that happen.
+
+The other thing is as we continue to build the momentum, the orders that we just talked about were very strong. And certainly, DDN played a part of that strength. And as I said in the comments, some of that is layered out later in the year.
+
+On the scaling, let's face it. We have been scaling. So when you look at the growth that we've had around where we positioned ourselves with our hyperscale customers, we've been scaling very nicely. Let's face it, these programs are big programs and that's the time base to scale. Some of the awards we got in the first quarter are for later this year into 2027, I feel that the teams will have it and continuing to be coming in with good margins on it like we have been doing. We have been improving the margins in IS across all the businesses. So it's not just AI, but certainly, we're benefiting from the volumes as we bring these in, and that's why you see some of the margin improvement that we're getting both from the benefit of the ramp of the AI volumes as well as all the businesses improving their margin going forward. And that you saw that strong growth that we talked about in the pre-read comments.
+
+Operator
+
+Your next question comes from the line of Mark Delaney with Goldman Sachs.
+
+Mark Delaney
+Goldman Sachs Group, Inc., Research Division
+
+I was hoping you could double-click on order trends, both sequentially and year-over-year and what that implies for revenue by end market going forward? And I ask in part to better understand the 2Q revenue guidance of about $4.7 billion compared to orders that were over $5.1 billion at a record high. And maybe if you can speak to the duration of orders and if that's changing at all?
+
+Terrence Curtin
+CEO & Executive Director
+
+Sure. Thanks, Mark. And like I said in the comments, our orders were a record at over $5 billion and that it was $1 billion of order growth. The one thing that's important is it was very broad-based. While we had very strong orders in DDN, if you exclude the DDN orders, our orders were up double digit across TE. So that's the broadened growth we talked about.
+
+And in Industrial, our orders were up in 4 of the 5 businesses, double digits as well. So we have seen strengthening of orders here. Now that is continued momentum in DDN for AI applications and also energy, which let's face it, they were big growth drivers for us last year. We're also continuing to see AD&M orders accelerate. And they are typically in aerospace and defense, a little bit longer lead time. And what was nice in the Industrial segment, and I know we've talked to all of you about it is we're continuing to see market improvement in our ACL business, and that was across all regions. Certainly, we're seeing more in factory automation applications, and we're going to continue to see growth as we go through the year in ACL.
+
+When you look at Transportation, and this comes into a little bit to the second part of your question, in Transportation, our orders are reflecting what we see in production patterns. So year-over-year orders were very strong. Clearly, our first quarter is the strongest auto production quarter of the year. But then we do have a 3 million unit production decline quarter 1 to quarter 2. And when we look at that, that's really when you look at the guide, you see that we're going to be up double digits in Industrial as we go quarter 1 to quarter 2, but there will be partially offset by auto production in the world, which will be down about 3 million units.
+
+So that's really when you look at the order momentum, which is very strong. We do have some automotive production changes that happen here that normally happen that you'll see reflected in our guide.
+
+Operator
+
+Your next question comes from the line of Amit Daryanani with Evercore.
+
+Amit Daryanani
+Evercore ISI Institutional Equities, Research Division
+
+I just want to go back to the AI discussion for a bit. And I'm hoping you folks can provide some color on what is driving the uptick in AI revenue expectations for the year. Is it just more that the existing programs are doing better? Or you see a better narrative around share gains. Love to just understand kind of what's driving the uptick here? And then maybe if I can just extend that, can you elaborate on what investments TE needs to make to meet this growing demand, both from a CapEx and OpEx perspective?
+
+Terrence Curtin
+CEO & Executive Director
+
+Sure, Amit, and Happy New Year. So I'll take the first half and I'll let Heath take the second half.
+
+I think the first thing you have to be is, we have and the orders reflect that, new program awards and with the hyperscalers is the way you should think about it. And even on some of that backlog, those programs will ramp here over the next couple of quarters and really be bigger in quarter 3 and quarter 4 than what's happening now. So they do extend out a little bit. And what's nice, and I said it to Scott's question is it's across the hyperscalers. So we're going to have growth across the hyperscalers this year. It is a mix of some programs continuing to ramp, but also new programs with the customers that will ramp in the second half.
+
+Heath, why don't you talk about the investments that you commented on.
+
+Heath Mitts
+CFO, Executive VP & Executive Director
+
+Sure. Amit, the -- as you can imagine, as we're winning these programs, the ramps are fairly aggressive in terms of the time window to get up to speed and deliver on their production schedule. So we are -- when we talk about increasing our CapEx investments, we're really talking about specific program wins. And the timing of those, we're going to have to spend money over the next couple of quarters to support the production of those in the later part or the second half of our fiscal year and certainly into '27. So as we're stacking up these programs, we're just trying to be transparent that the fact that they are -- there is a specific tooling involved and most of that's going into existing production facilities that we have throughout Asia and a little bit in North America.
+
+So we feel good about our ability to ramp, our teams have shown the ability to ramp quickly, but it's -- we're just continuing the acceleration of that, and that's going to require us to take up our CapEx number for this year, but all is feeling good. As you would know, we would not be spending that money if we didn't have revenue and profits tied to it.
+
+Operator
+
+Your next question comes from the line of Wamsi Mohan with Bank of America.
+
+Wamsi Mohan
+BofA Securities, Research Division
+
+Just to stay on the AI topic, I guess, maybe Terrence, could you share some granularity if these programs are NVIDIA-centric, or are they TPU- or other ASIC-centric? And any color on signal versus power? Just to give us some sense of like what the content may be split is across those and what you're seeing in your orders?
+
+Terrence Curtin
+CEO & Executive Director
+
+No, first off being, as we've talked with many of you, if not all of you, we aren't going to talk at the customer level. Like I said, Wamsi, to the earlier question, these are hyperscaler programs. And it's where -- that has driven our growth to date. And I think you can assume it's a continuation of that growth with those customers. And it is across power and data and signal, like you spent time with us in November, it is broad across both spectrums as we move to next-generation architectures that we're working on. And what's really good is the momentum that we've had with our hyperscale customers is just continuing, and you see it in the orders.
+
+Operator
+
+Your next question comes from the line of Luke Junk with Baird.
+
+Luke Junk
+Robert W. Baird & Co. Incorporated, Research Division
+
+Terrence, hoping we could just double-click on the trends you're seeing within ACL, especially in the industrial trends. It sounds like you're feeling a bit better or maybe quite a bit better than 90 days ago. And Heath, in terms of the incremental margin story in Industrial Solutions, is this strength something that we should think about just as an incremental margin driver as well?
+
+Terrence Curtin
+CEO & Executive Director
+
+No. First off, your comments are fair. We've been very much in the mode of -- and I would say there's two businesses I would put in there, not only ACL, but our industrial transportation business, both of them were in a multiyear downturn. And we continue to see and we started to see it last year, improvement in orders. It's nice to see them broaden out across all regions in ACL. Certainly, in ICT, industrial transportation, it's really in Asia and Europe still. But with the momentum we're seeing with what we're hearing from our customers, we do view more momentum is there. You saw on the slide, we grew 12%. Orders were strong.
+
+The one thing I would say when we look at ACL for us, it is around the factory automation and the CapEx side of our Industrial business. Places around residential HVAC, where we play in as well as appliances continue to be soft, but we're seeing the CapEx side of it, and we're seeing it broadly across all regions. So that's -- whether that's Asia, China, Europe, North America. And it's nice to see some of the cyclical pain we had for a couple of years behind us. And as these businesses come up, let's face it, we've talked to you about, hey, they are better profit pools naturally. So they will also benefit our margin as they recover.
+
+Heath Mitts
+CFO, Executive VP & Executive Director
+
+And Luke, on your incremental margins, as we talked about in our business model, in terms of our flow-through. I mean certainly, both segments, I'm confident, will be at their 30% plus flow-through on their growth for FY '26. For the Industrial segment, certainly, the volume growth at these levels is helping a lot. We are able to get volume leverage on this kind of scale. So I would still tune into the 30% plus, but there'll be quarters when we're well out ahead of that for sure.
+
+Operator
+
+Your next question comes from the line of Joe Spak with UBS.
+
+Joseph Spak
+UBS Investment Bank, Research Division
+
+Just within DDN, two quick questions. I guess you're talking about continued sort of AI growth. So with the total revenue flattish quarter-over-quarter would suggest the [indiscernible] kind of slowed or it's even really down, I guess, quarter-over-quarter. Maybe you could help us understand what's going on there. And then even with the AI portion raise, it seems like you might actually be at a run rate higher than [ the level ] you just raised to. So I'm just wondering, is that sort of constrained by some of the capacity? Or would you classify that as just some conservatism?
+
+Terrence Curtin
+CEO & Executive Director
+
+No, Joe, a couple of things. We grew AI programs from quarter 4 to quarter 1 sequentially. So that -- there was growth sequentially there. And also we expect our Industrial Solutions segment to grow sequentially quarter 4 -- quarter 1 to quarter 2. And certainly, we have the production decline in automotive. So I feel very good about the momentum. And like I said, the orders that we have set up for quarter 3 and quarter 4, which is where the bulk of the increase that I talked about, the $200 million is really will come as these programs ramp and into '27.
+
+So we feel very good about the momentum. The orders reflect it. The DDN orders were up 70% year-over-year in the quarter, which is very strong and continue to feel that the momentum we have is strong. I don't think it has anything to do with capacity constraints.
+
+Operator
+
+Your next question comes from the line of Samik Chatterjee with JPMorgan.
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research Division
+
+Maybe just staying with the AI theme, but more a question on the supply chain and what you're seeing on that front in terms of either tightness on the components or inflation thereof. I'm just wondering what you're seeing overall from that perspective in the supply chain? And if that is the driver of why the hyperscalers are giving you a bit more forward visibility with the orders for the new programs? Or do you think it's just the complexity? Is it more the complexity of the new programs that's driving these sort of longer-dated orders? Any color there would be helpful.
+
+Terrence Curtin
+CEO & Executive Director
+
+Well, first off, our customers are expecting ramps that are very fast. So when you look at this, you're really talking about program launches that will happen later in the year. In our supply chain, honestly, what do we feel and what we procure, we are able to procure what we need to procure. There is inflation around things that are metal related and that's not just the AI supply chain, that's everywhere around us. And our teams are doing the appropriate pricing to make sure we get recovery on that. And from that viewpoint, that inflation is being passed through.
+
+And just that they're looking out, they're reserving capacity for the programs. These are very specific programs to a customer. These are not generic components that we're making here. This is very specific to a program. And what's nice is our team continues with the momentum to get these wins with our hyperscale customers and they're just giving us some visibility to make sure the ramps occur.
+
+Operator
+
+Your next question comes from the line of Colin Langan with Wells Fargo.
+
+Colin Langan
+Wells Fargo Securities, LLC, Research Division
+
+Just DRAM prices have really skyrocketed, do you have any direct impact to that? And if not, do you also see any risk to auto production because of the potential supply issues there. Any thoughts on that risk and issue?
+
+Terrence Curtin
+CEO & Executive Director
+
+Yes, for the memory that obviously is out there that you talk about. We don't buy significant memory that impacts our supply chain. And that's what we're very much focused on. When we talk to our customers right now, there is nothing related to memory that we see slowdowns that are happening that are impacting our customers and our discussions. And I think what's really important is how we continue to service our customers and what's been really nice and you see the growth over market that we delivered is across all three of the levers. So the memory situation is not impacting us at all, and our teams are doing a really good job doing the growth above market in Transportation.
+
+Operator
+
+Your next question comes from the line of Guy Hardwick with Barclays.
+
+Guy Drummond Hardwick
+Barclays Bank PLC, Research Division
+
+Congrats on the excellent results. The commercial transportation business was probably stronger than people expected. Was that down to easy comparatives? I know in the slide deck, you said that's growth driven by Asia and Europe. But in terms of order momentum, what would you say the outlook is for commercial transportation for the rest of the year?
+
+Terrence Curtin
+CEO & Executive Director
+
+No, Guy, I mean, let's face it, but last year's first quarter was an easier compare. So that is -- when you look at that growth rate, it is benefiting from that. But what I would tell you, when we look at the first quarter, and we even look at the year, and we talked about it a little bit last year towards the end of the year, we continue to see in places like China and Europe and India, whether it's truck builds, construction equipment builds, have improved. And when you look at it, the growth over market you sit there has been strong.
+
+When we look at the year, we think global truck build will be up 200 basis points, and we feel very confident we'll outgrow that for the year. The real wildcard we still have to watch is North America. North America truck market is still negative. And I think that's probably the one toggle switch that we have to continue to keep an eye on because we aren't seeing as much order improvement there yet. But outside the United States, it has actually shown a pickup around the world. And certainly, we're hoping as we move through the year, that we can get some of that uptick in the North American production environment as well.
+
+Operator
+
+Your next question comes from the line of Asiya Merchant with Citi.
+
+Asiya Merchant
+Citigroup Inc., Research Division
+
+Just wanted to just double-click on the EPS guide, slightly down versus sales, which were flat. So are these some below the operating income items that we should consider here? And just related to that, the incremental operating margins, I think you guys are guiding to continue to be strong here. Just given the momentum in the business, looking -- just trying to understand what could be drivers for further expansion in those incrementals.
+
+Heath Mitts
+CFO, Executive VP & Executive Director
+
+Yes, Asiya, the -- I'd say, Q1 to Q2 in terms of just -- I mean, I think there's $0.04 or $0.05 of higher -- of tax and higher interest expense between the 2 quarters. So that's probably your major bridging item if you're just thinking about that.
+
+In terms of the incrementals, we feel good about being at 30% or better. And as we work our way through the quarters this year, I don't see anything that would derail that. Certainly, volume is important. And there's no doubt that we've done a pretty good job. There's always more to do, but we've done a pretty good job of reducing our operating footprint, which has the effect of reducing some of our fixed costs, particularly in Western Europe. And as that's come, and you throw volume on top of that, that is certainly lending itself to the incremental flow-throughs.
+
+And that has the effect, as we talked about in the Analyst Day, of improving our operating margins. And we've seen that happen. If you look at it consistently over the last several years in most quarters, that's the effect. So yes, we feel good about where we're going to land for this full year, even with some of the incremental investments that we need to make.
+
+Operator
+
+Your next question comes from the line of Joe Giordano with TD Cowen.
+
+Joseph Giordano
+TD Cowen, Research Division
+
+Can you touch on -- like we've just seen like metal price is exploding here, copper, gold, silver. Can you talk about implications for you guys in terms of procurement, in terms of needing to pass cost on and what the customer acceptance of that has been?
+
+Heath Mitts
+CFO, Executive VP & Executive Director
+
+Yes. Joe, this is Heath. You are absolutely correct. I mean we are seeing pressure -- inflationary pressure on the metals specifically. That category is our largest purchase category. So the team is hyper focused. We've made investments as we talked about at the Analyst Day with some of the supply chain investments that we've made to get more scale and leverage purchases. So that has helped. And that team has a very strong pipeline of opportunities to find ways to reduce those costs.
+
+But there's no doubt that as the spot market goes up, we feel that. Now it has the effect of us very quickly in passing that on through price or through other mechanisms that we can use to source. So we're not going to use it as an excuse on our margins or our flow-through math. But yes, we're feeling it right now, and it will factor into some of the elements we do with pricing.
+
+Operator
+
+Your next question comes from the line of Steven Fox with Fox Advisors.
+
+Steven Fox
+Fox Advisors LLC
+
+Just to follow up on some of the supply chain questions from two aspects. Just to clarify, when you're passing them through, are you able to pass the higher cost of metals through on a similar time line as you have in the past? And from -- the real question is, when you think about supply chain and your capacity, the good news is you're seeing, like you said, a broadening of demand, while AI is still growing really fast. How do you feel about just being able to keep up from a capacity standpoint as we go through this year and into next fiscal year?
+
+Terrence Curtin
+CEO & Executive Director
+
+Why don't you take the first half, I'll take the second.
+
+Heath Mitts
+CFO, Executive VP & Executive Director
+
+Yes. Steve, I'll take the first half. On the -- we have improved over the years in terms of our ability or let's say, our agility or nimbleness to pass on pricing on these inflationary measures more quickly. So I would say there are certain things that go through distributors and channel that are a little bit easier to pass on prices more quickly. There's other things that we reopened discussions with when we have OE direct discussions. So yes, I mean it's front and center to the team, and we don't expect any significant time lapse as those discussions commence with the inflationary pressures that we're feeling.
+
+Terrence Curtin
+CEO & Executive Director
+
+Yes. And on the capacity, Steve, first off, being at Investor Day, we highlighted areas where we had added capacity. The AI ramps are really program ramps that are very specific to those programs with those customers because we do that direct. I would tell you, elsewhere, we're in a good spot with capacity. We have some areas that are recovering like we talked about to the earlier question of ACL and ICT, that we have capacity. And we continue to add in areas like energy and aerospace. So even when we did Richards, Richards is doing very well to its original plan, but we're adding capacity there to expand for our energy business as well as making sure we can continue to increase capacity for our aerospace and defense customers, which that market has been -- continues to be strong. We expect it to be strong as the airframers continue to increase their builds as well as what's happening in the defense complex, where that -- those numbers just keep moving up.
+
+Operator
+
+Your next question comes from the line of Christopher Glynn with Oppenheimer.
+
+Christopher Glynn
+Oppenheimer & Co. Inc., Research Division
+
+A question on energy. The organic comps are pretty notably steeper in the second half. I'm wondering how orders new applications, maybe even are kind of phasing into that. Would there be a kind of a growth adjustment period as you normalize into the kind of long-term Investor Day outlook? Or would you settle kind of right into that, would you expect?
+
+Terrence Curtin
+CEO & Executive Director
+
+No, the momentum continues to be very strong, Chris. It hasn't slowed down at all. And as I said on my comments, we've also started to see an uptick in Europe, which is an area that we've had historical presence in, and our focus has been more in the U.S. But we continue to see nice growth across the businesses, including the ones we bought. And remember, it comes into grid hardening and capacity as the energy network plays out.
+
+So as we said at Investor Day, we thought organically, we'd be double digit, I feel like that's where we'll be this year on top of the benefit we get on the inorganic piece in the early part of the year. And it's nice to see the momentum continue. And as I said to Steve, how do we continue to make sure the capacity that we're putting in place supports the growth, and I feel we're on track on that.
+
+Operator
+
+Your next question comes from the line of William Stein with Truist Securities.
+
+William Stein
+Truist Securities, Inc., Research Division
+
+I'm hoping to just try to further reconcile the outlook with the bookings. The business trends overall sounds like they're good, they're broadening into industrial, as you highlighted. You had a record bookings quarter, very strong book-to-bill. I fully recognize that in some end markets, the bookings duration is a little longer than typical. So the read into the out quarter might not be as immediate as it usually is. But still, I'm looking at March quarter guidance that looks a few points below normal seasonality. My guess is that this is related to auto production in China, which is weaker, specifically for EVs, but can you sort of verify and maybe linger on that for a moment for us, please?
+
+Terrence Curtin
+CEO & Executive Director
+
+Sure. Will, and Happy New Year. When you look at it, there is an element in our second quarter guide that our segments are moving in two different ways. And IS is going to be up double digits year-on-year. And I think everything related to orders other than some of the AI orders being further out completely aligned. We do have a 3 million unit auto production downtick from quarter 1 to quarter 2 in automotive, typically runs around 2 million units in an average year, it's a little bit worse this year, but it all ties in with the 88 million units that we see for the year.
+
+So we do expect transportation to be down sequentially. That's very -- just the reality of auto production. And our first quarter was higher than seasonal. There is a little bit of, I think, as you're looking at compared to seasonal models, our first quarter, which came in well above guidance was higher than seasonal due to some of the industrial trends. But net-net, we feel very good to where we guided. And certainly, the momentum that the orders show are not only just for quarter 2, but also as we exit through the year, which gives us a lot of confidence around the momentum not only for quarter 2, but for the year.
+
+Operator
+
+Your next question comes from the line of Shreyas Patil with Wolfe Research.
+
+Shreyas Patil
+Wolfe Research, LLC
+
+Maybe if we could just double-click on the discussion earlier on incremental margins. When I look at the quarter, overall, if I strip out M&A and FX, it looks like incrementals were at 31% in Q1. But between the segments, Industrial might have been closer to 40% plus and Transportation Solutions was in the teens. So I'm just curious, do you expect both segments to converge towards that 30% plus figure that you've talked about previously? Or should we continue to see Industrial running a little bit hotter than that.
+
+Heath Mitts
+CFO, Executive VP & Executive Director
+
+Yes, Shreyas. Well, as I stated earlier, I expect, as we're sitting here at the end of our fiscal year that both segments will be at or better than their incremental flow-through math here, the 30% for the full year. In a given quarter, you can have some noise. I think Transportation this quarter was hit with some foreign exchange noise in terms of what some of that is. But in terms of how it impacted their flow-through math. But it's nothing that I'm overly worried about.
+
+So I don't know the second half of your question, which is does the higher running Industrial segment come back down. We'll see. I mean there are some investments that we're making, but as I said earlier on a prior question, at these volume levels, we would expect a little bit more outsized flow through. So we feel good about where both segments are and how they're -- what their trajectory is for the year.
+
+Sujal Shah
+Vice President of Investor Relations
+
+All right. Thanks, Shreyas. I want to thank everybody for joining us this morning for the call. If you have further questions, please contact Investor Relations at TE. Thanks again, and have a nice day.
+
+Operator
+
+Today's conference call will be available for replay beginning at 11:30 a.m. Eastern Time today, January 21, on the Investor Relations portion of TE Connectivity's website. That will conclude the conference for today.

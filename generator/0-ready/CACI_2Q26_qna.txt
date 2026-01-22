@@ -1,0 +1,288 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from the line of Gavin Parsons from UBS.
+
+Gavin Parsons
+UBS Investment Bank, Research Division
+
+Yes. So in light of recent developments around the world, I wanted to ask higher level, what higher U.S. military OPTEMPO means for CACI specifically and how that changes the opportunity set in front of you?
+
+John Mengucci
+President, CEO & Director
+
+Yes. Thanks and terrific open question. Look, today's OPTEMPO is extremely good for CACI because it requires much of what traditional companies, frankly, don't traditionally do. Our customers are demanding mission technology at the speed of mission. So we can talk about exquisite EW differentiating rogue drones from friendly ones and mitigating risk. I'd like to say welcome to EW. Enemy changes their tactics and their technological footprint, welcome to EW. Getting 20 helos in and out of a country without any issue, welcome to EW. We, frankly, do EW better and more strategically and more surgically than anyone.
+
+So what does the OPTEMPO demand? A few things. One would be resiliency. I look at our solutions, they're software-defined. They share a common baseline with a multitude of other sensors. And what that really means is when one sensor anywhere detects a new signal, all of its features and how to mitigate that signal is sent across a broad network of already deployed sensors. The OPTEMPO demands speed. We've been really clear that we build enhancements and mitigations almost instantaneously. It demands optionality. So whether you're looking at handhelds, backpack, mobile, fixed, short-range, long-range solutions, they all come with a common software baseline. And what the customer absolutely demands, is it has to have some type of optionality that allows them to acquire commercially under FAR Part 12. So to us, thanks to OPTEMPO, quick response, built-in delivery, provide your customers your best tech, provides investors with increased shareholder value, commercial terms, commercial investment model, commercial margins. At the end of the day, we're doing a lot of what commercial companies do and we deliver EBITDA as well.
+
+Gavin Parsons
+UBS Investment Bank, Research Division
+
+Great. And then it looks like the pipeline of submitted bids remains a little low exiting the quarter but that, the expected bid number filled up pretty nicely in the quarter. Can you talk a little bit about how you're expecting things to flow through that pipeline and what the cadence of conversion might look like as we move through the rest of the year?
+
+Jeffrey MacLauchlan
+Executive VP, CFO, & Treasurer
+
+Yes. You're connecting those dots the same way we do, Gavin. The -- one of the implications of the protracted shutdown that is a little less obvious, you can see the awards, obviously. But what you can't see is sort of the slower level of activity in ramping back up. And I think the length of the shutdown, combined with the ending of it leading into the holidays, put some amount of acquisition processes sort of behind the curve. We do see that filling back up. We feel that getting back on pace. And we -- and that's visible, I think, in the pipeline, when you see what we plan to submit over the next 180 days. We obviously won't, for competitive reasons, aren't going to comment on any particular opportunities or make any predictions about win rate or anything like that. But you can look at our historical performance on those metrics that we provide regularly on a consistent basis over a number of years and you can draw your own conclusions from that.
+
+Operator
+
+Your next question comes from the line of Peter Arment from Baird.
+
+Peter Arment
+Robert W. Baird & Co. Incorporated, Research Division
+
+Nice results. John, could you maybe give us -- can you give us an update where you recently had a protest that you won. I think it was last Friday. It was a big award that you won in August. Maybe how do we -- how should we think about kind of the timing of that? And just maybe any color you want to give around protest?
+
+John Mengucci
+President, CEO & Director
+
+Yes, sure. So as you mentioned, the JTMS protest was officially denied last week. So we are in the process of starting to ramp up on the -- on that program. We've already had very detailed meetings with our customer during the protest period, you would imagine. We were ready for -- go as soon as this was announced. It is a longer-term technology program. So that's going to ramp up over extended period of time. So I think it will be more of a benefit to growth in '27, '28. But clearly, given the timing of the protest decision, that's going to help us drive our fourth quarter revenue number, which I know you'll all be watching.
+
+It's a 10-year, $1.6 billion job. It's going to be task order-based that's -- which is very, very standard. And look, we're extremely pleased. We're going to take the off-the-shelf software platform. We're going to use SAP, which is a strong OEM. We're going to take SaaS-based solutions. We're going to use our Agile software -- our Agile Solutions Factory and our Agile software development processes. And I would expect, Peter, that JTMS is going to consolidate a large number of disparate legacy systems, which falls directly in line with some of the EOs that we've read. And we have a couple of other protests out there still. We're looking for them to resolve by the end of this month and we'll be sure to advise all of our investors when that happens.
+
+Peter Arment
+Robert W. Baird & Co. Incorporated, Research Division
+
+That's great color. And just as a quick follow-up. You talked about reconciliation funding starting to flow. Could you just maybe -- and then there's been a lot of activity behind the scenes on Golden Dome. How do you see that kind of impacting as you think about the second half of this year but also the setup for '27?
+
+John Mengucci
+President, CEO & Director
+
+Yes. Thanks, Peter. Look, we're -- we have our eyes on reconciliation funding. And I know there was a lot of talk. It was, is it going to be early in '26, late in '26? Is it, roll over into '27? I think at the end of the day, the answer is yes to all 3. For us, we're seeing border security programs being positively impacted by seeing reconciliation funds starting. I did share something in my prepared remarks about taking some intel AI-based technology. That was a "plus" using our active reconciliation funds. You're going to see a lot of that hit in the counter-UAS area. We're already seeing indications of that.
+
+Space programs, we've been called on to look at modernizing a lot of the critical Space Force infrastructure. So we're working on that. I think -- I believe there was an EO out around modernization of Department of War financial and logistics system, ties directly to that EO. We are seeing reconciliation funds show up there. And then as it sort of relates to gold and Golden Dome, we are seeing a number of intelligence programs receive additional funding around left of launch because that provides the ultimate situational awareness when you're looking to protect this nation in a Golden Dome scenario. So we have included a range of outcomes in our updated guidance, left goalpost clearly a smaller amount of funding, the right goalpost more funding. But look, at the end of the day, any time somebody wants to add $150 billion to a market that this company is doing extremely well in, it's a constructive macro environment overall and really just doubles down on the strong demand signals that a company like us can make great use of. So thank you for those questions.
+
+Operator
+
+Your next question comes from the line of Colin Canfield from Cantor.
+
+Colin Canfield
+Cantor Fitzgerald & Co., Research Division
+
+Maybe starting out with the federal acquisition regulation. You mentioned it before, John. Just talk us through kind of where are we at in terms of the reform so far? And how should we expect about the magnitude and timing in terms of impact on any kind of, we'll call it, CACI cost-plus exposure?
+
+John Mengucci
+President, CEO & Director
+
+Yes. I mean, I -- I mean, we're pretty much in line with the acquisition reform. There's a large number of deals out there and there's a large amount of print around driving from cost-plus to firm fixed price. And are we going to completely move from FAR Part 15 to FAR Part 12 or we're going to tuck elements of 12 into 15? We're just going to go with 12. I mean there's a whole bunch of different avenues. What I like about what has come out and what's great for this company is that there's a new recognition and understanding of exactly what FAR Part 12 is, right? I mean I think you're seeing that tied to OTAs.
+
+Look, at the end of the day, I think in items that are not highly specific but could be borne by our own corporate investments and taken to the government in an 80% solution manner and then do some development work, co-development with government funds and our funds, then offer that into a long run of production. I mean I think that's the ultimate best way. We're seeing other long-term cost-plus programs, right, Colin, those are trying to be moved into some different investment models, which is great. We don't possess any of those. So we're still doing some cost-plus work. But make no mistake, this company was intentionally built to have a FAR Part 12 commercial part of our business and a FAR Part 15. We're able to provide customers either and/or both. And it's really driven the $2 billion of electronic warfare that we've been talking about.
+
+So we are very well poised to support where the government is going. TLS Manpack, outstanding example. Even RMT, even though it wasn't a specific OTA, that had a lot of investment on our part that then led to a larger production order. So I think we're probably in the third or fourth inning of acquisition reform. But for this company, I believe that our results have shown that we're well aligned and we're going to drive even greater growth as we go forward.
+
+Jeffrey MacLauchlan
+Executive VP, CFO, & Treasurer
+
+Colin, I'd add to John's point. We really are funding our rhythm here on OTAs. We've seen 2.5x the level of OTA contracting in the last 2 years that we saw in the previous 5 years. So it's really a mechanism that we're -- we and our customers are well aware of and taking advantage of.
+
+Colin Canfield
+Cantor Fitzgerald & Co., Research Division
+
+Got it. I appreciate the color. And then moving over to ARKA, maybe talk through kind of how you think about the scalability of the intelligent -- like the related intelligence services that you might gain or kind of grow over time, thanks to the acquisition of the Danbury optics business, essentially like beyond just manufacturing work, I think back to when you first bought SA Photonics and essentially utilizing the space-based hardware to inform the intelligence business. Maybe just talk through kind of how you think about that earnings algorithm and then the scalability of it and where there's any kind of roadblocks that we should think about in terms of like data conflicts and the like?
+
+John Mengucci
+President, CEO & Director
+
+Okay. I'm going to unpack that one, Colin. Look, let me -- I will -- let me just start off by saying that I'll share what we can share. We're going to hold a lot of discussions around financials and backlog and the like until we get that across the finish line and we close. But it suffices to say that it's great for us to be able to share what we see in this company and in the business. They are a leading developer and supplier of sense and sensemaking capabilities. Make no mistake, they are involved in just about every critical national security mission. What I liked about it, similar to this company, they're at the forefront of technology developments and they've been there since the Cold War. So these capabilities are not new, how they have to deliver is not new. The architectures that ARKA delivers into, literally have acquisition plans that go out as far as planning goes to around 2040.
+
+They are right in the middle of long-term growth funding streams for both DoD and classified MRO space budgets. They are focused on the fastest-growing parts of the market. Their laser warning systems are equipments of record on every platform to which they deliver. They -- and they're talking about the Danbury business to your other set of questions, extremely high technical barriers to entry. It's an environment of constant capability and upgrades. Their contract portfolio, combined with an outstanding record of execution, even in fixed price environment, does distinguish them with their customers. When I looked at this business and we've been studying it for quite a long time, the folks at BlackRock continued to invest in this business -- Blackstone, sorry, continued to invest in this business. They continue to understand that the national security world needed an asset like ARKA. So they didn't hold it for 5 years. They grew it and they invested in it.
+
+What I like about them is, they invest ahead of need. They innovate and execute with agility. They deliver predictability, given cost and schedule focus. So they are well set up to the earlier question around acquisition reform. They are well understanding of cost-plus versus firm fixed price. They do have a tremendous backlog that we'll be able to talk about when we get -- hopefully, as we get to the end of our third quarter. And we shouldn't ignore the sense making part of their business. That's a lot of work that they do similar to us in an Agile software development manner. They work on parts of the intelligence data. We work on other parts.
+
+They do some things that we don't do. We do some similar things. But they have differentiated capabilities. They have long-duration contracts. They're involved in very critical national security programs. Another -- nothing speaks larger than this company doubling down again in the space market than this acquisition. I know it drives our leverage up to 4.3x and such, we have the right buydown mechanism. At the end of the day, you make bold investments to drive bold growth. And that's what this acquisition is about. And this is why we're very involved in the space market and driving future growth there. Appreciate the questions.
+
+Operator
+
+Your next question comes from the line of Seth Seifman from JPMorgan Chase.
+
+Christopher Barbero
+JPMorgan Chase & Co, Research Division
+
+This is Rocco on for Seth. Digging in more on Peter's question, how are you thinking about CACI's addressable market from the reconciliation bill, both for C-UAS in general and Merlin more specifically? And how are you thinking about that market growth in the coming years?
+
+John Mengucci
+President, CEO & Director
+
+Yes. I knew as soon as I shared that we had a $2 billion slice of revenue in EW, you'll be all looking for growth rate. News flash, I'm probably not going to share what we see. But look, it's -- the reconciliation funding will do a lot in the EW area because, as you all know, we consider counter-UAS being part of our EW market. It's probably worth spending just 20 seconds on why we answer questions like this, like that, okay? If we provide a cyber effect to mitigate a dangerous drone, is that cyber or is that counter-UAS? The answer is, it's all EW. So that's why we lump this in one area because we share software baselines, we share talent, we share technology solutions.
+
+So the reconciliation dollars is a tens of billions of dollars to our addressable market. We continually assess that as many on this call know. We're looking at about a $300 billion TAM. We're roughly $9.4 billion company. So plenty more room to go grow. And even though that reconciliation funding is driving that, the world of counter-UAS is going to completely explode beyond what the reconciliation funding needs. We're involved in the international marketplace. You mentioned Merlin. We've done some outstanding work there.
+
+But it suffices to say in the counter-UAS area, there's no less than about 25 acquisition organizations that have stood up and -- actually brought some of my notes, there's 8 within DoD, 6 within DHS. You've got DoT, the FAA, Department of Justice, Department of Energy, Department of State and Department L, M, O, P. So there's a lot of folks out there. The acquisition infrastructure is just getting set. We're actively engaging to expand our own presence, specifically with [indiscernible] 401, DHS and then Golden Dome. So there's a great spend looking to be done here and we are extremely well positioned.
+
+Christopher Barbero
+JPMorgan Chase & Co, Research Division
+
+Great. And then are there any specific items to call out in the civil business? News over the last year plus have been pretty negative about the demand environment and yet CACI is growing in the mid-teens on average over the period.
+
+Jeffrey MacLauchlan
+Executive VP, CFO, & Treasurer
+
+Yes. Those -- that's really dominated by our CBP work, DHS work and the ramp-up on NASA NCAPS. So it's a little different flavor of civil than you may see in some others, really driven by DHS and NASA.
+
+Operator
+
+Your next question comes from the line of Scott Mikus from Melius Research.
+
+Scott Mikus
+Melius Research LLC
+
+A quick question. With all the acquisitions you've made over the past 14 years and the announced deal of ARKA, I tend to find that you're shifting more away from services and your peers more becoming defense electronic supplies and in particular, L3Harris. But just given that the government is actually taking an ownership stake in L3's Missile Solutions business, do you think that puts CACI and L3Harris' other competitors at a disadvantage when competing for work with the Pentagon given that the government owns -- will own a stake in L3Harris?
+
+John Mengucci
+President, CEO & Director
+
+Yes. So awesome question. Look, we see what's going on and we've read about all of those various engagements. But at the end of the day, we're seeing outstanding demand for our technology that we deliver. We're able to meet that demand. We continue to execute our business well. We continue to invest ahead of need and have access to capital should we need to enhance our delivery capabilities. See what makes us different is that we got into the market at a time where we expected that because of -- one of the earlier questions, because of the OPTEMPO and because of the need to not only protect other countries and other nations and our interest abroad but also defend our nation that it was going to require the fact that we would ourselves begin to invest ahead of customer need.
+
+So we are one of those companies. We have a NAICS, GICS, whatever code you want to call it, that makes us government services company. But it's been a number of years since you all asked me what my bench strength is. It's been a number of years since you asked me what my direct labor numbers were because we're not that company. So I enjoy being compared against others who are trying to make changes to adjust, okay? Those are changes you make because change has been presented. We've actually built this company purpose-built in this last instantiation of CACI to be in 7 markets with strong funding streams that drive shareholder value and year-over-year growth, regardless of the government shut down or not, regardless of reconciliation budgets are slightly behind plan, okay, we're not a quarter-to-quarter company. We're a year-to-year and we're going to be a decade-to-decade company.
+
+And we are exactly driving this business and measuring ourselves to make sure we are providing eye-watering technology to Department of War and intelligence community. That's what makes acquisitions like SA Photonics so important and LGS and Mastodon and ARKA and others that is driving, okay, where this company goes. So really appreciate that question. There's a lot of other things that are going on within this marketplace. We focus on what we can control. And we like to think that we've got an outstanding agile strategy that moves along with the times. And I think if you've been a shareholder in this company in the last 10 to 12 years, you've been quite excited by the way we have and have engaged in different funding forces and moving this company from delivering people to delivering enterprise and mission tech. So thanks for that question.
+
+Scott Mikus
+Melius Research LLC
+
+Okay. And then just a quick question. Wanted to follow up on Merlin. I don't know if I missed this earlier in the call. But are there any ITAR restrictions or obstacles that would prevent you from selling that internationally?
+
+John Mengucci
+President, CEO & Director
+
+No. The actual system itself, no. There's a software load, which has different ways to mitigate specific threats. And as you would imagine, like any weapons system, there are software and hardware provisos of what the U.S. government allows all of us in the defense technology space to be able to deliver. So there are -- there will be some software provisos with that. But when it comes to defending this homeland, which is what Merlin was specifically built for, there are no issues of what we can do in the U.S. between finding and providing exquisite nonkinetic effects to remove this entire drone layer threat to the homeland.
+
+Operator
+
+Your next question comes from the line of Tobey Sommer from Truist Securities.
+
+Tobey Sommer
+Truist Securities, Inc., Research Division
+
+I was wondering if you anticipate another strong year of defense spending growth in '27. The President articulated a relatively large indication and wondering what your thoughts are on the matter.
+
+John Mengucci
+President, CEO & Director
+
+Yes, Tobey, thanks. Look, I did read the government fiscal year '27 tweet of $1.5 trillion. A little extra color. I believe it's supported by SASC and HASC but I'm not clear whether it has support of the appropriators. I think we've got a little bit of time to see this one play out. And I also think it's pretty -- it's still early. So we'll have to wait and see what comes from the government fiscal year '27 President's budget request, from my understanding, will be a little bit later this year because he usually tags along when the State of the Union announcement is. So we may see it a few weeks off. But look, I've often said, this company, I don't focus on the budget top line. Either way, our $300 billion TAM for a $9.4 billion company, I think we have plenty of room to grow. We have shown that when budgets have decreased and when they've increased. I think we're in the right markets, the right capabilities and the right customer sets. And at the end of the day, in the national security realm, if the threats present themselves, I've never seen this nation not invest to protect us either abroad or at home.
+
+Tobey Sommer
+Truist Securities, Inc., Research Division
+
+My follow-up would be, of the large marquee contract wins that the company has won over the last maybe few or handful of years, how much incremental program ramp remains in front of the company to help support future growth?
+
+Jeffrey MacLauchlan
+Executive VP, CFO, & Treasurer
+
+Yes. That's no small amount. I mean we -- some of the recent contract programs that we've won, we've talked about the fact that the changing profile is such that the early phases of the program are really focused on designing and developing the balance of the program. And so that has led to slower ramp-ups. And in fact, we're still seeing growth in ITAS. Earlier in this call, we talked about the fact, we pointed out the growing NASA NCAPS activity, even though those wins were still a couple of years ago. So if you think back to the ramp profiles that I talked about in our Investor Day, I guess, over a year ago now, there were 3 or 4 sort of standard profiles and most of our longer-term wins have been the profile where we don't really sort of reach our max until we're a good 3 or 4 years into the program. So we still -- we have wins from the last several years that are still ramping up.
+
+John Mengucci
+President, CEO & Director
+
+Yes. Tobey, I'd also add, a perfect example of that would be Spectral, right? We've -- we're in our third year, I believe, on Spectral. We have just recently done all the paperwork and testing that we needed to submit that would lead to a Milestone C decision. So -- and that is one that once we receive that, that allows us to get into low rate initial production, which then starts to ramp Spectral. So just one of many examples.
+
+Jeffrey MacLauchlan
+Executive VP, CFO, & Treasurer
+
+Yes, exactly.
+
+Operator
+
+Your next question comes from the line of Jonathan Siegmann from Stifel.
+
+Jonathan Siegmann
+Stifel, Nicolaus & Company, Incorporated, Research Division
+
+So I thought margin is definitely a good news for the quarter and the second time that it's really beaten your expectations. Can -- maybe for you, Jeff, can you talk a little bit about what the drivers are? We noticed our indirect costs are third quarter in a row, less than 21% of revenues. Just any onetime things to consider or how to think about the upside here?
+
+Jeffrey MacLauchlan
+Executive VP, CFO, & Treasurer
+
+Yes. Thanks, Jon. There's a couple of things going on in here. We talked a little bit about mix. We continue to see a favorable acceleration in the technology part of the business, which has -- which clearly has positive margin implications. You also noticed the indirect cost number. We're in our fourth year now of doing something that's pretty hard to do, which is reducing indirect cost as a percentage of running the business while we're in a strong growth mode. Organizations have a natural impulse to grow indirect cost in times of accelerating business activity and we have been really hyper-focused on making sure that we don't do that.
+
+So in absolute dollars, while there is some modest occasional increase that's in spots that's consistent with what we talk about often and John has a lot to say about investing ahead of need and we're certainly not giving any of those things short shift. We're investing where we need to invest but at the same time, we're resisting the impulse to just sort of let the infrastructure grow as the top line grows. So both the technology revenue component acceleration and the management of the cost structure are both strong drivers of the margin performance that you see.
+
+Jonathan Siegmann
+Stifel, Nicolaus & Company, Incorporated, Research Division
+
+And then maybe if I could slip one more for John. Recently, we've seen some unexpected displeasure with dividends and buybacks by the government among the contractors. So the majority of the industry prioritizes that and -- but CACI has only done opportunistic buybacks and prioritized M&A. So the question is, the Pentagon clearly is not supportive of large-scale consolidation but how does the Pentagon react to the acquisition that -- scale that CACI does?
+
+John Mengucci
+President, CEO & Director
+
+Yes. I mean I haven't heard a lot about any blocking us to continue to do smart acquisitions that support the national security infrastructure, which at the same time then as a product of doing that, drive shareholder value. Look, we've read the EO and we are supporting it. We believe we're in line with it. We have strong execution. We deliver where we're asked to deliver. We continue to invest ahead of need for probably 7 years, is where we've been on that model. As -- there's been a lot of talk about, do some of the larger players divest, do we unwind the current [indiscernible] we have today. I don't see that reaching us on the unwind piece.
+
+Should that happen, we're a buyer of capability and customer relationships that continue to drive us forward in these 7 markets. And if that were to happen and were to become much more specific, is that an opportunity for us to look at pieces of other businesses that may have a better fit here that allows them to transform the parts of their business that are strongly FAR Part 15 and get into more of a agile commercial model, so we can address the nation's needs better, then it -- then that would be additional M&A opportunities for us. But I don't see anything that we're doing today that's in conflict with that EO and we'll continue to watch where that one goes.
+
+Operator
+
+Your next question comes from the line of Mariana Perez Mora from Bank of America.
+
+Mariana Perez Mora
+BofA Securities, Research Division
+
+So my first question is going to be around the Department of War wanted to hire more technical talent. They have -- they telegraphed that in the past but then through this Advana transformation memo they put out a couple of weeks ago, they also mentioned that they want to hire more technical talent. What does that mean for CACI? Like do you see any pressure to any like FTE type of roles? Or how are you thinking about that?
+
+John Mengucci
+President, CEO & Director
+
+Yes. Thanks, Mariana. Yes, I think it's January 12 was when that one came out. When we look at the Advana program, I think it's in 3 different teams, in just like a war data platform team, the applications for the war data and then a financial management team. We look at that as a great opportunity on the financial management team. It is -- if I read the language correctly, it has a lot to do with financial and acquisition readiness systems and it's been this drive to -- drive a clean FY '27 Defense Working Capital Fund and clean FY '29 pan-agency audit. We're really big on financial modernization. We've got great examples with both the Air Force and U.S. Marine Corps and that were all already passing major audits.
+
+So for us, on that pillar, that one reads well. On the war data platform team and the [ apps ], we already do that across the federal government today. On the hiring piece, it's not a risk to us. We actually deliver technology in those areas. We don't provide FTEs. There may be other government services companies that do but we're not one of them. We're out there delivering outcomes to customers in those spaces and which is why we don't track just pure FTE deployment. So -- and this isn't the first time that government's looked to "in-source" or bring that kind of work in-house but that's a good question for them to answer. But it just doesn't present -- we don't see any threat from those -- from that EO.
+
+Mariana Perez Mora
+BofA Securities, Research Division
+
+And one more, trying to assess potential risks. And you -- think you have done through the prepared remarks and the questions, a really good job explaining why you're well positioned to commercial terms, fixed price, OTA. But on the other side, do you see any risk for any of your existing early-stage programs to get cancel or stop work order or anything kind of like a stop and realign, redesign in order to have that contract or that program be more commercial in terms of like 80% type of capability but also being able to be like higher volumes ramp up faster or even cheaper. Like do you see that risk in any early-stage programs?
+
+John Mengucci
+President, CEO & Director
+
+Yes. No, I mean, I don't see any risk. In fact, I like the opportunity of what the government is taking a look at. We -- 1 example, yes, 2 examples. One would be Customs and Border Patrol, our BEAGLE program and one might be TLS Manpack. If you look at BEAGLE, we approached the customer and asked them, why you're buying 400 FTEs when you should be paying a fixed rate for every new upgrade to every app that you have. So we were ahead of government thinking on that and worked with a tremendously creative acquisition folks at DHS, within Customs and Border to actually put that program in place and that's driven 2 other customers, NASA NCAPS, TRANSCOM JTMS. They're not buying people. They're actually putting task orders in place to actually deliver outcomes.
+
+On the TLS Manpack one, look, that was a job that was owned by a major defense contractor. And we went and we approached the Army with a concept of let's put an OTA in place, let's do some development work. And then let's take our 80% solution and see where you can go with that. So those are both examples of not the government coming to us and asking us to change what we're currently doing, we actually approached them or we were in concert with them on TLS Manpack. So the OTA model does work. You have to be willing to invest upfront. You have to have mission knowledge and you have to have something that the government absolutely needs and wants and that differentiates us every day, including Sundays.
+
+The one thing we need to understand about OTAs that we're going to see, as the government moves more towards that, you're going to see smaller initial awards for the development work but it's going to lead to a faster, larger production value of awards. So when I think about -- and I wouldn't call it risk, Mariana but when I think about how we look at businesses like ours, we're used to nailing down multibillion-dollar awards in the pure technology areas where customer is going to do FAR Part 12, the initial awards are going to be $1 million to $5 million or $7 million. But much sooner than that, we'll see that actual [ source ] production award come out. That's what you saw with TLS Manpack, a $1 million initial award and a $500 million production contract.
+
+Jeffrey MacLauchlan
+Executive VP, CFO, & Treasurer
+
+Yes. The size will not correlate with the strategic significance.
+
+Operator
+
+Your next question comes from the line of John Godyn from Citigroup.
+
+John Godyn
+Citigroup Inc., Research Division
+
+I wanted to ask about margins. The margin performance has been very strong. Of course, there's been some mix in there. This isn't about sort of new multiyear guidance and obviously, ARKA kind of will change the margin outcome. But just bigger picture, wanted to dialogue about where margins could go. If we look at recent incremental margins, they would suggest it could go a lot higher. What are some of the puts and takes as we think about margins from here? You've done a tremendous job the last few years getting margins higher. I'm just curious if that trend can continue.
+
+Jeffrey MacLauchlan
+Executive VP, CFO, & Treasurer
+
+Yes. John, I think you've heard us -- may have heard us talk about this before but this is really for us, maybe somewhat not intuitively a free cash flow question. The decisions that we make -- our North Star is free cash flow. So if we have the opportunity to invest in a way that accelerates the top line and maintains margin, we'll generally select that over expanding the margin because we're generating free cash flow. So it's really about dollars and free cash flow generation. And we're in a happy position of seeing a pretty opportunity-rich environment and plenty of opportunities to invest. And I think as we're starting to see the fruits of the accelerating technology content, along with the management of the cost structure that I talked about a few questions ago, I think we actually have plenty of opportunities to invest and maintain or modestly expand the margin but more importantly and then more excitingly, have opportunities to further accelerate our free cash flow generation.
+
+Operator
+
+And your last question today comes from the line of Sheila Kahyaoglu from Jefferies.
+
+Sheila Kahyaoglu
+Jefferies LLC, Research Division
+
+To expand upon John's last question. As we think about margins, Jeff, you just gave a bunch of long-term thoughts. That's super helpful. Maybe a little bit more on the long term. Like do you think this is the new margin range for CACI and how much further can it go? And then maybe short term, you mentioned some disruption to material purchases due to the shutdown. How do we think about that mix factoring into the second half margin?
+
+Jeffrey MacLauchlan
+Executive VP, CFO, & Treasurer
+
+The material purchases are not -- I mean, they're a fact, obviously, they're -- we saw them and it was a contributor. Not as big an issue as the mix in terms of weighting. You will see some growth. We do expect to see some growth in the material content year over -- half-over-half but it won't significantly impact. It's considered in our guidance. It won't significantly impact the margin expectations that we've communicated to you, if that gets to your question.
+
+Operator
+
+And that concludes our question-and-answer session. I will now turn the call back over to John Mengucci for some final closing remarks.
+
+John Mengucci
+President, CEO & Director
+
+All right. Well, thanks, Rob and thank you for your help on today's call. We want to thank everyone who dialed in or listened to the webcast for their participation. We know that many of you will have follow-up questions. Jeff and George Price and Jim Sullivan are available after today's call. Please stay healthy and all my best to you and your families. This concludes our call. Thank you and have a great day.
+
+Operator
+
+This concludes today's conference call. Thank you for your participation. You may now disconnect.
