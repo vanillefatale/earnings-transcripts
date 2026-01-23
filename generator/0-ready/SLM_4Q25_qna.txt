@@ -1,0 +1,187 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question comes from Caroline Latta with Bank of America.
+
+Caroline Latta
+BofA Securities, Research Division
+
+Can you talk about how you guys think about the postponement of wage garnishment and treasury offset will impact the performance of in-school and private student loans?
+
+Jonathan Witter
+CEO & Director
+
+Yes, sure, Caroline, happy to. First of all, I think it's important to remind folks that while many of our customers have federal loans, most federal loan customers do not have Sallie Mae private student loans. And I think in general, and we've talked on past calls about just the difference in performance and impacts that we've been seeing as the federal program has gone through various stages of its evolution. In general, I think for any customers who have federal loans who are severely delinquent. And I think our estimates suggest that number is quite small. The postponement is obviously a net-net benefit. But I don't think we would expect that to have a significant impact on our business, just given the difference in customer bases.
+
+Caroline Latta
+BofA Securities, Research Division
+
+And then a quick follow-up one. You guys highlighted the $5 billion opportunity from the grad PLUS, which is driving some of the origination growth year-over-year. Given those changes come into effect in July, how should we think about modeling 1H versus 2H growth?
+
+Peter Graham
+Executive VP, CFO & Treasurer
+
+Yes. I think we've talked on prior calls about kind of the staging of this. If you think about it. It is a new freshman in the undergrad class and new to graduate school for graduate programs beginning in the fall academic period. And so think about that in the context of a 4-year program that's like 1/4 of the volume and grad programs can be, some a little shorter and some a little longer than that. So we're expecting the sort of the incremental PLUS volume this year to be relatively modest, and that's included in our guidance on growth for this year, and we expect that to step up measurably as we move through the next 2 to 3 years until it gets to kind of a steady state.
+
+Operator
+
+[Operator Instructions] We'll take our next question from Giuliano Bologna with Compass Point.
+
+Giuliano Anderes-Bologna
+Compass Point Research & Trading, LLC, Research Division
+
+From the first question perspective, when I think about the partnerships and the loan sales in 2026, is there a rough sense of where the volumes are likely to shake out for both or even some relative context because obviously, that will have a pretty big impact on where the numbers shake out for the year. I'm just curious how that looks versus the investor forum numbers.
+
+Peter Graham
+Executive VP, CFO & Treasurer
+
+Yes. So recall that the agreement for this first strategic partnership is a commitment -- a minimum commitment of $2 billion of new originations roughly time to the academic year. So we designated a portion of our 2025 peak season originations as held for sale at the end of December. And we will -- that will be part of our sale in the first quarter as part of the new originations flow portion of that commitment.
+
+Going forward, each month, we'll be selecting a representative sample of originations that occur and be designating that for sale in the partnership. I think rough justice, think about that is like 30% of originations. And so there will be some seasonality as we go through this year in sales of new originations to the partnership just because it's tied to our actual origination pattern. So the highest amount sold of the new originations will be tied to kind of our traditional peak season period.
+
+And then in regards to seasoned portfolio sales, I would say that's -- the approach to that will be similar to what we've employed historically, which is the size and the timing of those will be dependent on kind of our capital needs and sort of marketplace conditions. So no real change in that regard.
+
+Giuliano Anderes-Bologna
+Compass Point Research & Trading, LLC, Research Division
+
+Very helpful. And hopefully not to convolute the question, but there's a fairly decent impact from the HFS book on balance sheet and kind of what that balance will look like. Is it fair to assume that at least in '26, it will probably be similar to where you are now in terms of balance? Or should we expect that to roll up throughout the year as things accelerate? And is the reference of how big that HFS book will probably be this year and how big it will end up being because it drives some decent NIM even while it's sitting there from an average balance perspective.
+
+Peter Graham
+Executive VP, CFO & Treasurer
+
+Yes. So if you think about it as -- and I mentioned this in my prepared remarks, we're going to select loans each month and we'll warehouse them at the end of a quarter and then have a subsequent takeout transaction for sale into the partnership trust structure in the subsequent quarters. So that absolute amount of held for sale in the balance sheet will vary each quarter depending on the origination profile in that quarter. For instance, the fourth quarter will be the largest because it will be a selection of sort of fall peak season originations and the second quarter will be the lowest because that's traditionally our lowest origination quarter of the year.
+
+Giuliano Anderes-Bologna
+Compass Point Research & Trading, LLC, Research Division
+
+Got it. That is helpful. Then I realize there's obviously, the increased loan sales also changed the portfolio mix in the near term and you guys highlighted that very well in the appendix slides. Should we expect a little bit of change in just the seasoning of the portfolio because you've had excess sales in '25, you're selling a fair amount in '26 as well, but that will change the seasoning and kind of roll the repayment over the next few years. Or is that not a profit or am I looking down the wrong path in terms of the materiality of that?
+
+Peter Graham
+Executive VP, CFO & Treasurer
+
+Yes. I think at the margins, it well, I think the larger impact will be the fact that a portion of our new originations are going to be going off book at origination. So that will tend to cause a slower sort of replenishment of the overall seasoned book, and it will gradually get a little more seasoned than what it has been. But I think that's kind of at the margins. I don't think it's going to be a dramatic shift.
+
+Operator
+
+We'll move next to Terry Ma with Barclays. Terry, you may need to check the mute function on your device.
+
+Terry Ma
+Barclays Bank PLC, Research Division
+
+Okay. Sorry about that, hopping in between calls. So I appreciate some of the color you gave on noninterest expense earlier on the call. But like if I look at the range for this year, it is obviously still quite a step up in what you guys had last year and then even the post '26 kind of growth rate that you indicated is kind of higher than what you've seen historically. Can you kind of help us think about how you measure the ROI of those kind of investment dollars?
+
+Jonathan Witter
+CEO & Director
+
+Yes, Terry, probably a couple of different levels to that conversation. First, I think it is important to start with why we are stepping up the investment opportunity. And we've said it a couple of times this represents in our mind, sort of the clearest opportunity to have really significant TAM growth up to 70% over the course of the next couple of years, again, assuming the analysis and the estimates that we put together are meaningful.
+
+And so I think it's important to start with -- this is not to be cliche, but really as close to a once-in-a-lifetime opportunity to expand a business as I think we're going to see in our private student lending space. And I think if you model through what is the impact when fully realized of a 70% increase in originations, heck, for the sake of conservativeship, cut it to 50% increase, it is a really meaningful increase in earnings potential and market cap.
+
+And so I think you have to start there and understand that, that is the mental model that we, as a management team, bring to this investment opportunity. We have, and I think have always had, and this has been demonstrated I think, by our strong efficiency ratio performance over the last couple of years, really good governance around, for example, how we do return measurement on marketing spend, how we do return measurement on sort of new product innovation and development.
+
+And I think investors should rest assured that we are bringing that very same discipline to bear in this opportunity. I think what's important to recognize and maybe one of the sources of disconnect, is for a whole myriad of reasons, in particular, we do not expect our marketing efficiency to be as effective or as efficient in year 1 of this sort of opportunity as it will likely be in years 2, years 3 and sort of beyond.
+
+And if you think about it, there's a whole myriad of reasons for that. We are phasing in the eligibility of the new caps. So when we market in year 1, depending on whether you're talking in grad or undergrad, there will only be a portion of those students who will be interested in private student loans because many will still be supported by the federal program. In year 1, in particular, for example, there's no serialization benefit. We know it's a lot less expensive for us to get a serialized loan than a new customer -- than to acquire a new customer.
+
+And I haven't even started, Terry to talk about just it takes a little bit of time and enrollment season or 2 to really fully optimize all of your various both digital and traditional marketing channels. And so we don't view that as a permanent impairment to our efficiencies. But I think we do bring a slightly different view to how you stand up a marketing program for, let's say, new medical students than what has been the primary part of our business over the last several years, which has been serving disproportionately undergrads.
+
+So we're excited about it. We think it is, again, in service of a really fabulous market opportunity. We hope you all agree that market opportunity is right in front of us, and we feel like we're bringing great discipline to how we're thinking about that spend.
+
+Peter Graham
+Executive VP, CFO & Treasurer
+
+I think the other thing I would add there is just context around efficiency, like we have a very good efficiency ratio now even at the midpoint of the range we've guided to for 2026, we're kind of still in the high 30s. And I think on a relative basis compared to others in this space, that's a really efficient operation. And we've said over the coming years, we're going to drive that back down to the low 30s. So like I think that's an additional context that's important.
+
+Terry Ma
+Barclays Bank PLC, Research Division
+
+Got it. That's helpful color. And then, I guess, like maybe just a follow-up on credit. Your percentage of loans and extended grace ticked up meaningfully. I think that's pretty consistent with the June wave exiting regular grace. But as we kind of think about credit for 2026 and just the guidance range that you gave, like any color on like your confidence level? Because I think you also have a way, a cohort exiting mod in December like as we look out into '26, I think by all measures, it is still a pretty kind of tough job environment for kind of new grads. So kind of maybe help us think about what's kind of embedded in your charge-off assumption range for the year and your level of confidence.
+
+Peter Graham
+Executive VP, CFO & Treasurer
+
+Yes, sure. I'll take the mods piece and then Jon, you can maybe recap some of your comments around the overall environment. On the loan mods, we've been tracking now for some time and talking about successful performance in modification of making payments, and there is an additional slide in the deck that sort of highlights that. I think that from my perspective, thinking about kind of the 2023 cohort of mod enrollments, the fact that 75% of them at the end of the year are current is another really strong indicator of success.
+
+And again, we'll see how that sort of moves through the year in terms of people graduating out and stepping back into their contractual obligations, but we feel good that we've designed a well-functioning program. It's met a need of a borrower in stress and we feel like the positive payment habits that have been demonstrated over now 24 months in that cohort are a powerful indicator of their likelihood of success as they come out this year. And all of that is baked into the range that we've given for net charge-offs for '26.
+
+Jonathan Witter
+CEO & Director
+
+Yes. And Terry, maybe if I step back and give a little bit more context I think there's clearly been a whole series of pretty eye-catching stories that have come out in the past months about impact of AI and impact on the job market and so forth. I think the data that we see from a number of different sources tells perhaps a little bit more of a balanced story. And there is no doubt that unemployment rates for new college grads are slightly elevated today.
+
+There is no doubt that it is taking a little bit longer for new college grads to find jobs, but to put that in context, if you look at the monthly unemployment data for new college grads, you see typically a spike in unemployment over the summer and then a normalization period. And we are sitting here today based on December '25 data at effectively the same unemployment rate that we would have seen, again, for new college grads in November of '23 or '24.
+
+So it is a slightly slower ramp to sort of full employment normalization, but it is measured in sort of 1 month, 1.5 months delta if you look at those rates, not something that is more substantial. I think it's important also to kind of put that into broader context, and I've raised this on a couple of calls or said this on a couple of calls. This is a pattern that we are well used to.
+
+We know for many years in this business, the single greatest point of financial stress on average for our customers is going to be when they're going through this transition from school to full-time employment. It's why we invest disproportionately in the programs that we have to help customers during that time and to give them sort of the flexibility and whether that's programs like you mentioned, grace, whether that's potentially loan modifications for the small number who need that or other programs that we may have, we feel like we are really well set up to do that.
+
+By the way, this is also a time where our 90%-plus cosigner rate is critically important. And we know both numerically and we know anecdotally from our surveys, parents, loved ones expect to support their students during this time of transition. And that's a great answer for the student. That's also a great answer for us and for our shareholders. And so when you put all that together, no CEO of a credit-oriented company is ever going to be dismissive of credit. We take it seriously and watch it like a hawk. But I think what we are seeing in the patterns sort of fits the comments that I've made and it's certainly all baked into the guidance that we have just provided you.
+
+Operator
+
+[Operator Instructions] We'll move next to Jon Arfstrom with RBC Capital Markets.
+
+Jon Arfstrom
+RBC Capital Markets, Research Division
+
+Question for you, Jon. Your comments on the EPS outlook I guess, obviously, the market can be pretty short-term focused and that initial reaction was pretty negative to the new model on your stock, but you framed up the strong EPS growth potential for '27, I think you mentioned high teens to low 20s potential for '27 in your prepared comments. Do you feel like you have high visibility on that for 2027? And does the visibility become a little more blurred beyond '27? Or is it pretty clear to you in terms of what that runway could be?
+
+Jonathan Witter
+CEO & Director
+
+Yes, Jon, I think the way that I would answer that is there are really a couple of things that, in my mind, have a disproportionate impact on our stock or on our performance. Obviously, the broad macroeconomic environment and the impact that, that has on credit I'm not sure I or any other bank or consumer finance CEO is going to feel comfortable looking at more than kind of a 12-month time frame. But if you kind of look at the rest of our model, I think it really comes down to do we realize the TAM opportunity that is in front of us.
+
+Are we successful at regaining the kind of efficiency ratio that Pete and I have both now talked about and a little bit, a choice we get to make, which is how quickly do we want to grow our bank balance sheet versus fund that business in other ways. I think we have done more disciplined work than probably many and as disciplined as I can imagine on really understanding the TAM opportunity.
+
+And that's not to say that there is not risk there and that there won't be competition, but I think we understand what the market opportunity is going to be. And I think we feel like it is a real opportunity for us moving forward. I think I would say our expense management discipline speaks for itself. And I think, again, we get to make the decisions about sort of the right way to balance growth of the strategic partnerships business with the growth of our bank balance sheet.
+
+And I think when you put those things together, we can't overlook the other uncertainties in our model, but I think those are all things that one can look at and assign their own sort of likelihood of success to. And I think those are really kind of the major drivers of our confidence in some of the comments that we've made about '27 and beyond.
+
+Operator
+
+We'll move next to Melissa Wedel with JPMorgan.
+
+Melissa Wedel
+JPMorgan Chase & Co, Research Division
+
+Good afternoon, Melissa on for Rick today. First one would be around gain on sale margin. That looked like it came down a little bit versus prior sales that we've seen earlier this year, as you transition to sort of more of a combo approach to spot loan and transfer to strategic partners, how should we be thinking about that gain on sale margin and any volatility that we could see quarter-to-quarter in that.
+
+Peter Graham
+Executive VP, CFO & Treasurer
+
+Yes. I think that's a good question. I think if you look at sort of a longer history of our execution on these seasoned portfolio sales you see a broader distribution than what you've seen in the current year. I'd say over a longer period of time, if you kind of throw out the highest ratios and throw out the lowest gain on sale ratios. You'd probably be kind of in somewhere 106, 107-ish on average in that context. I think there's also a timing within the year component to those sales. I think if you go back and look at the sort of quarterly sort of history of our portfolio sales.
+
+Those that are done in the first quarter tend to be at a higher premium than those that are done in the fourth quarter for a variety of reasons. And so look, the portfolio sale that we did in the fourth quarter here was in the context of a broader strategic partnership. But it also was part of a transaction that had a great deal of scrutiny around true sale and things being done at fair value. So it's well supported by sort of the statistics on the portfolio itself in the environment in the fourth quarter.
+
+Melissa Wedel
+JPMorgan Chase & Co, Research Division
+
+I have one more follow-up question for you, and this is around the share repurchase authorization announced today. The time period on that was 24 months. The question is, given the investment you tend to make in the platform, particularly in this next year in 2026, should we be thinking about that repurchase deployment possibly being a little bit back-end loaded in 2027?
+
+Peter Graham
+Executive VP, CFO & Treasurer
+
+Yes. I think we've demonstrated over the last few years that we're going to be pretty disciplined and programmatic around share buyback. And we intend to operate that way with regard to this new authorization that we've been granted. We've got very strong capital ratios at the bank and a strong earnings profile.
+
+We tend to set in place programs that will have kind of a targeted amount of buying and be in the market every day that the market is open and then a bias towards buying more shares on days when the stock price is trending down and less on days when the stock price is trending up, and that served us well in terms of deploying the last authorization that we have, and we intend to kind of continue to operate in that manner going forward.
+
+Operator
+
+[Operator Instructions] And this concludes the Q&A portion of today's call. I would now like to turn the floor over to Mr. Jon Witter for closing remarks.
+
+Jonathan Witter
+CEO & Director
+
+Chloe, thank you, and thank you for everyone who joined the call tonight. Obviously, Pete and I, on behalf of the entire company are proud and happy to be able to talk to you about our 2025 performance. But I think even more importantly, I hope you walk away tonight with a real sense of sort of how strong we feel about our strategic positioning and what that means for 2026 and beyond.
+
+As always, the IR team is here to be helpful to you in whatever way they can. And we hope everyone has a great rest of the January and a great weekend. And thank you again for your time this evening. I'll now turn it over to Kate for some concluding business.
+
+Kate deLacy
+Senior Director & Head of Investor Relations
+
+Thanks, Jon. Thank you all for your time and questions today. A replay of this call and the presentation will be available on the Investors page at salliemae.com. If you have any further questions, feel free to contact me directly. This concludes today's call.
+
+Operator
+
+Thank you. This concludes today's Sallie Mae fourth quarter and full year 2025 earnings conference call and Webcast. Please disconnect your line at this time, and have a wonderful evening.

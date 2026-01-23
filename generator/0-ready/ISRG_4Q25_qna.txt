@@ -1,0 +1,211 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] One moment for our first question, please. It comes from the line of Travis Steed with Bank of America.
+
+Travis Steed
+BofA Securities, Research Division
+
+First, I wanted to ask about the FDA approval for the cardiac non-Force Feedback instruments. Just trying to get a little more color on what that is and what it opens up. When I was looking at your 2026 priorities that you mentioned you added new disease states. So if you could elaborate on that, if that's cardiac or there's more there?
+
+David Rosa
+CEO & Director
+
+Sure. Travis, thank you for the question. I'll start maybe with some framing around cardiac and the work we're doing, and then Jamie can follow up a bit. And so you know, we've been supporting cardiac surgery for decades and have a good understanding of what cardiac programs need to do to be successful and have great patient outcomes.
+
+And so there are some foundational aspects that we're working on today. Those include the clearances on the platform, on dV5 in certain geographies, we just received the U.S. clearance, we're working through approval in Europe and several other countries. Part of those indications as well will include Force Feedback instruments.
+
+And so cardiac surgery is a wide variety of procedures with a wide variety of tasks. And we do think that Force Feedback can have some benefit in certain parts of certain procedures. And so the initial clearance here, I think incorporates our entire portfolio of non-Forced Feedback instruments and has value today for cardiac procedures. And again, we'll work to add Force Feedback in time through the regulatory pathway.
+
+We are also developing training pathways to support. It's a unique pathway through to learn the cardiac robotic surgery business, if you will, for minimally invasive approaches with da Vinci. And so we're investing there. We are developing cardiac-specific instrumentation, including Force Feedback, some accessories and tuning some of the digital tools we have, those will be multiyear efforts to bring all of those to the market. And then finally worked with surgical societies. It's an important aspect of, I think, doing this well for training and other parts that they are helping to develop.
+
+And so that lays this kind of foundation, if you will, for the beginning -- for this cardiac journey that we're on, particularly with dV5. And so maybe, Jamie...
+
+Jamie Samath
+Executive VP, CFO, Head of Business Technology & Enterprise Technology Leader
+
+Yes. Travis, I'll just give some numbers maybe for grounding. So in '25 globally, there were about 17,000 cardiac procedures performed, that's on Si and Xi. That business has been growing for multiples of years but obviously, from a small base. The growth in recent years, including '25 was accretive to the corporate average.
+
+While obviously, the cardiac TAM is really quite large, when we do our clinical analysis, when we look at where cardiac is cleared for da Vinci 5, which currently is now the U.S. and Korea, we think the opportunity from a da Vinci 5 perspective or a robotic perspective is about 160,000 procedures per year. And obviously, that has the opportunity to expand if and as we add additional geographies.
+
+Travis Steed
+BofA Securities, Research Division
+
+Great. That's really helpful. And you've talked a lot on advanced imaging. Just curious how you think about incorporating these additional advanced imaging features into the robotic ecosystem? Did you leverage the existing hardware? Or is there a new hardware? How do you think about recognizing the value of the -- that you're providing to customers? Is it just deeper penetration? Or is there a potential for new revenue streams? Just want to try to understand like how some of this imaging stuff could come into the business in a more detailed way.
+
+David Rosa
+CEO & Director
+
+Yes, Travis, some of the advanced imaging capabilities that we've talked about are additional molecules that we're working on, and those are long time lines that will add to the fluorescence imaging capability of the system. Those molecules will have revenue streams attached to them.
+
+We recently have talked about kind of a form of hyperspectral imaging that shows tissue oxygenation. That is going to be a capability of the system that requires some new software and some tuning of some of our hardware. All of those are pointed at trying to give more information to the surgeon and to the system where we're able to add perhaps some AI layers to it, but really with the intent of improving -- ultimately improving outcomes, be it in prostate cancer or ureteral injuries or perhaps in areas of surgery where perfusion, which is where the tissue oxygenation is pointed, can make a difference in outcomes.
+
+Operator
+
+One moment for our first question, please. And it comes from the line of Larry Biegelsen with Wells Fargo.
+
+Larry Biegelsen
+Wells Fargo Securities, LLC, Research Division
+
+I wanted to start with the ASC commentary, Dave, I'd love to hear you expand on your comments about expanding your footprint in ASCs. How large is the ASC opportunity for your focused procedures today? And what are those key procedures moving to the ASC? And what do you need to do to unlock the opportunity? And I did have one follow-on.
+
+David Rosa
+CEO & Director
+
+Yes. Maybe, Larry, I'll start, just kind of -- I always try to start with the problem we're solving or what the customer needs are. And I'm going to start there and then Jamie can jump in on some of the numbers here.
+
+If I -- when I meet with ASC leaders and when they're wanting to say, I want to establish a soft tissue program within one or more of our ASCs, really what they're looking for are repeatable, high-quality clinical outcomes, technology systems that work every day and operating infrastructure, training, supply chain, reprocessing, those sorts of things that is routine and easily accessible. And all of that has to fit into an economic structure that works for the reimbursement levels of that particular ASC.
+
+And so when I look at what we have in our current portfolio of systems, including now XiR, the broader ecosystem of all the other products in training and services, that is well positioned to serve the needs that we're hearing from our customers. The procedures that are generally within that environment are the ones that you know, cholecystectomy, hernia repairs, benign GYN. It oftentimes is the lower-acuity procedures where the volume and the repeatability can be managed in the ASC environment.
+
+Jamie Samath
+Executive VP, CFO, Head of Business Technology & Enterprise Technology Leader
+
+I'd just say, Larry, in terms of numbers today, it's a relatively small proportion of U.S. procedures done, but we do see it growing at an accretive rate. I think those trends have been talked about just broadly. Most of our commentary today reflects what we've heard from customers. I think that in part reflects desire of payers to take advantage of the lower reimbursement in the ASC setting. And for us now, with the launch of da Vinci 5, the trade-in cycle has commenced, and we get the Xis back and we can refurbish them. We think the XiR in combination with our instrument portfolio is well positioned for that setting as procedures grow in ASCs.
+
+Larry Biegelsen
+Wells Fargo Securities, LLC, Research Division
+
+That's super helpful. Jamie, how should we think about utilization in 2026 and system ASPs in 2026 after we saw strong growth in 2025? Do the refurbished Xis put some downward pressure on the ASPs? And the move into the ASCs maybe put some downward pressure on utilization?
+
+Jamie Samath
+Executive VP, CFO, Head of Business Technology & Enterprise Technology Leader
+
+Yes. I'd just say, if you look at the last couple of quarters, in each case, we saw overall da Vinci utilization grow 4%. We think that's a healthy level, but we're not ready to predict what that will be in '26. For the presence that we already have in ASCs because we've been focused primarily with our existing IDN customers and we've looked for programs that have strong soft tissue surgery volumes that can support a robotics program, the existing utilization that we have in ASCs is actually pretty good. And I think economically, then, obviously, that works for them.
+
+On system ASPs, I'm not going to predict what the overall '26 direction will be. Obviously, we don't guide capital. I'd just say you should expect a higher da Vinci 5 mix in '26 versus '25. That reflects, of course, the fact that we have, in part, new geographies cleared with da Vinci 5. You should also expect a higher mix of XiR, that's going to be ASPs that are quite a bit below where Xi is today, but we haven't said yet what the XiR price range is likely to be, and I would expect higher trade-ins.
+
+And so there's a set of offsetting mix dynamics there that, frankly, we'll let you model. I'd just also say in terms of system ASPs, of course, that is only on systems purchased, which roughly is about half of the system placements today.
+
+Operator
+
+One moment for our next question. And it comes from the line of Robbie Marcus with JPMorgan.
+
+Robert Marcus
+JPMorgan Chase & Co, Research Division
+
+Congratulations again on a great quarter. Jamie, you touched on this a little bit, but I was hoping you could give a little more color into the gross margin and OpEx assumptions. There's obviously a lot of moving pieces under the hood, wondering if you could tease out some of them as we think about how XiR ramps and impacts or -- positively or negatively, margins and trade-ins. And then what's assumed at the high and the low end of the OpEx expense? And I have a follow-up.
+
+Jamie Samath
+Executive VP, CFO, Head of Business Technology & Enterprise Technology Leader
+
+Yes. With respect to gross margin, there's actually a number of dynamics. You have the higher trade-ins that we just described. You have a higher mix of da Vinci 5 that's not yet at target product costs. The procedure guidance is reflected in that gross margin range. We also have had for a couple of years now, kind of post-COVID recovery, a number of product cost reduction efforts that have had a growing impact within what you see in gross margin. In '25, you saw the impact of all the new facilities with incremental depreciation of facility costs, and that starts to -- start to get leveraged in '26.
+
+And so there's a set of offsetting dynamics there in gross margin, the kind of net to the guidance that we provided, which effectively is flattish. I would highlight again, we have 120 basis points of tariffs reflected in the '26 guidance that was about 65 basis points in '25. So an incremental 50-ish basis points from tariffs.
+
+With respect to XiR, like I said, we expect the pricing to be lower than currently what you pay for a new Xi, but the margins are relatively healthy on XiR.
+
+Robert Marcus
+JPMorgan Chase & Co, Research Division
+
+Great. Appreciate that. And a quick follow-up. You mentioned increased pricing competition in China. I saw there were a new reimbursement program put out, some helps -- favor local competition. I was wondering if you could just comment on how you think about your position in China and your ability to continue to win there. And also, if you have any update on the latest tender.
+
+David Rosa
+CEO & Director
+
+Yes. I might start. So just to answer that question specifically, around the local robotic competitors that are in China, many -- as you know, many of the architectures are very similar to Xi. And over time, there are instances where they may be favored by home provinces. And certainly, over the past several quarters, the number of robotic companies in China have been increasing. And as a result, what you see is that pricing has become even more intense as tenders are published and competed for.
+
+So given that sort of environment, you look at how are we competing, and that's with an Xi system. We're manufacturing it locally. We have a very strong team in China. And so feel very good about how we're positioned with our system, our team, a broader ecosystem to compete in China with those local robotic companies that are increasingly coming to market. And we believe we can do so at a price point that is healthy for them and healthy for us and can do -- and can effectively compete on price where we want to and where it matters.
+
+Jamie Samath
+Executive VP, CFO, Head of Business Technology & Enterprise Technology Leader
+
+Robbie, I'd just add. There's about 273 systems left in the current quota. And I would just say, as we said in the prepared remarks, the tender win ratio was lower in Q4. If you look at 2025 as a whole, it was slightly higher than the prior year. And obviously, as Dave described our ability to compete.
+
+I think I missed, Robbie, your question on OpEx. So I would just say in the 11% to 15% range, it does reflect the impact of going direct in Italy, Spain and Portugal but the range mostly is in relation to the procedure range.
+
+Operator
+
+Our next question comes from the line of Rick Wise with Stifel.
+
+Frederick Wise
+Stifel, Nicolaus & Company, Incorporated, Research Division
+
+Dave, I was reflecting on your comment, your words, if I'm quoting you accurately, you said you still see Intuitive as being in the early stages of your journey. I mean that's similar language I've heard from Intuitive for years. And I was reflecting on it in the context of a slide you posted during the JPMorgan conference a couple of weeks ago. About 9 million procedures in direct line of sight. I went back and looked at '24 and you all said 7 million at the time. That's nearly a 30% increase in procedures in direct line of sight.
+
+And I just wondered -- I'm guessing maybe the cardiac opportunity, is that part of it? Is it the ambulatory surgery opportunity? Is it something instrument specific? Just -- I was hoping you would just reflect on that with me and us and maybe unpack that a little bit.
+
+David Rosa
+CEO & Director
+
+Thank you for the question. And maybe I'll comment on the early part of the journey, at least as I meant it with my words, and then Dan and Jamie can jump in. When I think about the journey with the ultimate destination, really improving outcomes substantially, eliminating complications to the extent that we possibly can. And you choose a procedure today and there's still variability. There are still poor outcomes for a given set of patients even in the very best of hands with the very best of technology. And so that's when I think about the journey, it's the journey of impacting patients meaningfully and more than we even have today.
+
+With respect to the line-of-sight procedures and the growth and how that has increased over the years, maybe I'll look to Dan.
+
+Daniel Connally
+VP & Head of Investor Relations
+
+Yes, Rick, 2024, 7 million; '25, 8 million; '26, 9 million. I'd say primarily strengthening clinical validation and supportive economics and benign procedures kind of the largest impact, also saw a modest impact from additional procedure clearances like nipple-sparing mastectomy of SP in the U.S. And then lastly, contributing as well kind of demographic impact from an aging population. So generally consistent with prior increases and the factors underneath that generally consistent as well.
+
+Frederick Wise
+Stifel, Nicolaus & Company, Incorporated, Research Division
+
+Okay. And just a quick follow-up. Dave, you also highlighted digital subscription. And I'm just not sure if I personally, maybe I've missed it, heard that language, it sounds like a positive economic factor and something potentially incremental. Again, could you just expand on your comments and what it might mean to the growth outlook or adoption of da Vinci 5, et cetera?
+
+Jamie Samath
+Executive VP, CFO, Head of Business Technology & Enterprise Technology Leader
+
+Yes, I'll take that, Rick. So David was referring to MIA+, which comes with da Vinci 5, it incorporates Telepresence, integrated skill simulation and case insights. When we launched da Vinci 5, that package came with 1-year free use for customers. We actually did a significant software update in Q2 of last year. And so we extended that free period for customers.
+
+Technically, what happened when we did that was a portion of the system purchase price got carved out of systems revenue and deferred and put into service revenue over time, it's just the way the accounting rules work. Come Q2-ish of '26, then customers now have the opportunity to renew for that subscription package where they'll now have to pay. And in the end, then the value that surgeons and the customers are experiencing with that package would determine both what is the renewal rate and what is the ASP that we realize.
+
+With respect to the case insights portion of that package, we've got good early customer feedback. I think we have some work to do to continue to refine and enhance the capability there. And I think we see long-term value in what that could ultimately do. It also has quite a bit of synergy with Force Feedback, which has not been in full supply. And so as we get that into full supply later this year, you then get to kind of see the impact of Force more clearly in the case insights reporting that gets done. And so there is then some invoicing that we'll do for customers that renew and that starts to get reflected in revenue.
+
+Operator
+
+Our next question comes from the line of David Roman with Goldman Sachs.
+
+David Roman
+Goldman Sachs Group, Inc., Research Division
+
+I wanted to maybe come back to SP, and it seems like the second half of 2025 represented at least in the U.S., the potential of putting in place the dynamics you need to really see an inflection in growth in both SP placements as well as associated procedures. As you kind of look at the portfolio and indications you have entering 2026, is there anything left either from a technology standpoint, maybe a vessel sealer that you think would be necessary to really unlock the opportunity? And how you're thinking about the SP strategy now that you have a more full portfolio of instruments as well as indications. And I have one follow-up.
+
+Daniel Connally
+VP & Head of Investor Relations
+
+Thanks, David. It's Dan. I think, broadly, very encouraged by the response to the technology and the procedure growth rates that we've seen here recently. Looking to continue to build the platform internationally, we're still relatively early, Europe, Japan and Taiwan. And then in the U.S. with recent clearances, colorectal, thoracic and NSM indications as well.
+
+You mentioned on instrumentation, we do need to continue development of the vessel sealer device, add that clearance and then add stapler clearances globally. I think we're encouraged by the early feedback from initial launch on SP stapler in thoracic and colorectal and excited to bring that forward more fully. And I'd say, over time, we've also got the opportunity to take SP to additional geographies as well.
+
+David Roman
+Goldman Sachs Group, Inc., Research Division
+
+Okay. And then maybe on the guidance, I think you talked about reflecting some of the risk around macro pressures, whether those are hospital purchasing on Medicaid cuts or potential changes in utilization associated with the exchange subsidies expiring. Maybe could you just help us understand how you saw these dynamics play out through the back half of 2025? I know, in Q3, you talked about the potential of some pull forward of procedure volumes, what you saw kind of exiting the year and how you're kind of observing trends here early in January?
+
+Daniel Connally
+VP & Head of Investor Relations
+
+Yes. No specific comment on kind of early trend in January, but I'd say over Q4, do not have any evidence either way from an impact, but we haven't heard that from customers at all. I know we spoke about that potentially in Q3 related to some intra-quarter dynamics there, but have not heard that from customers more broadly recently.
+
+Operator
+
+And our last question comes from the line of Patrick Wood with Morgan Stanley.
+
+Patrick Wood
+Morgan Stanley, Research Division
+
+Beautiful. I guess, conceptually, thinking medium term into the future, how do you guys think about new form factors and cost competition? We've talked about lower acuity cases and going down. Is the solution here in your mind, like a lower-end form factor? Or do we stick with refurbished systems? Or is it the case that you think you can get to the point where speed and innovation is getting us faster than LAP with a lower cost curve than LAP and that's the solution to the lower acuity. So is it a lower form factor? Or is it getting the tech to the point where automation and speed is just better than LAP anyway?
+
+David Rosa
+CEO & Director
+
+Yes. It's an interesting question. And I will turn it back around to the problem to be solved. And I think it varies depending on where you look. And so if you're in a complex cancer procedure where you're trying to move the needle on, let's say, cancer margins, it's going to require a different solution set than if you're looking for routine use in an ambulatory setting that is working on a very different set of procedures. And so I think we don't have enough time to look through each one of those areas where customers are trying to work in particular.
+
+If we focus on, let's say, the ASC setting, I'd go back to what we described before and say, what is required there is great clinical outcomes, routine use, repeatable use, reliability, those parts, the needs there that exist, I think, are really well served by the existing ecosystem that we have today. Can it be optimized through new platform development or some other tweaks within the ecosystem? Maybe we'd have to go see and see what that looks like. But today, I think what we have can serve the complex portion of the procedures customers are trying to do as well as these lower acuity, higher volume ones.
+
+Jamie Samath
+Executive VP, CFO, Head of Business Technology & Enterprise Technology Leader
+
+Patrick, I'd just add that I think segmentation can be important depending on the IDN and you can segment by using dV5 across a broad set of procedures that can do cancer and whatever other procedures that are done in the hospital. But you can also segment by a HOPD or by an ASC. And where we are today, we have the portfolio to do that. I think we have confidence in that. Of course, things change over time, and I think that's part of our strat planning, and we wouldn't comment on how we might further develop that just yet.
+
+David Rosa
+CEO & Director
+
+Okay. That was our last question. Thank you for the questions. In closing, we continue to believe there's a substantial and durable opportunity to fundamentally improve surgery and acute interventions. Our teams continue to work closely with hospitals, physicians and care teams in pursuit of what our customers have termed the Quintuple Aim, better and more predictable patient outcomes, better experiences for patients, better experiences for their care teams, lower total cost of care and finally, increased access to care. We believe value creation in surgery and acute care is foundationally human. It flows from respect for and understanding of patients and care teams and their needs and their environment.
+
+At Intuitive, we envision a future of care that is less invasive and profoundly better, where diseases are identified earlier and treated quickly so patients can get back to what matters most. Thank you for your support on this extraordinary journey. We look forward to talking with you again in 3 months.
+
+Operator
+
+And this concludes today's conference. Thank you all for participating, and you may now disconnect.

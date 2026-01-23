@@ -1,0 +1,436 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question comes from Sanjay Sakhrani with KBW.
+
+Sanjay Sakhrani
+Keefe, Bruyette, & Woods, Inc., Research Division
+
+I want to talk a little bit about the Brex acquisition first. Rich, could you just talk a little bit about the strategic value of adding this capability. I see how it could really enhance sort of your platform in the small business space, especially with the network. But maybe you could just talk a little bit about how you see it coming together over time?
+
+Richard Fairbank
+Founder, Chairman, CEO & President
+
+Yes. Thank you. Let me just kind of pull up here and talk about the opportunity and Brex holistically. Acquiring Brex builds on and accelerates a journey we've been on since our founding days. It is the quest to build a banking and payments company that's positioned to win where the world is going. We were the original fintech years before that term was coined. And we grew by carefully choosing businesses with attractive industry structures that are at the heart of consumers' financial lives. And also that we're ripe for transformation by technology and data.
+
+As a result, we aren't in all the businesses that other banks are in. We have focused on a select set of businesses that have relevant scale in the competitive marketplace and which fit together synergistically. A central part of that envelope of activities has been payments. From the founding of the company, we have believed that payments will be the tip of the spear in the transformation of banking and financial services.
+
+Over time, we built a payments company encompassing credit cards and banking across consumers and businesses and recently added one of the nation's only payment networks. Business payments have been a growing part of our strategy and investment agenda. We have built the nation's third largest small business credit card franchise, and we have been investing to grow our small business bank. Our announcement today represents an important step change towards our business payments destination in a broader marketplace that we believe is ripe for reinvention.
+
+Let's talk about what's happening in the business payments marketplace. The credit card is an important piece of a bigger customer need. For decades, businesses of all sizes have faced chronic pain points when dealing with payments, including collecting hundreds or thousands of invoices, deciphering what payment vehicles or platforms to use, dealing with approvals, expense budgets, spending policies, booking travel and tracking employee T&E spending.
+
+And after all of that, businesses need to reconcile and connect all these transactions with accounting and reporting systems. It's often manual, error prone and very time-consuming. I don't know a single business owner who went into business because they were really passionate about managing the complexity of spending and payments. Solutions and tools to help businesses address these issues have been piecemeal. Banks offer business credit cards and bill pay features. Software companies offer accounts payable and expense management tools.
+
+While these solutions are valuable, they only address pieces of the pain and are not integrated or comprehensive. Many are built on legacy technology. The pain points remain, and so does the opportunity to provide a truly integrated modern solution. Brex was the pioneer of that modern solution. In 2017, Brex invented the integrated combination of business credit cards, spend management software and banking together in a single platform.
+
+They totally changed the game by delivering breakthrough experiences like customizable credit card limits and controls, automated expense receipt capture, real-time blocks for out-of-policy spend, reconciling spend data with internal budgeting, catching payment fraud and errors by matching invoice data to purchase orders and enabling businesses to close their books effortlessly through real-time ERP integrations.
+
+Brex has grown rapidly with companies from startups to large enterprises. Some of the world's most tech-forward companies use Brex today, including Anthropic, Robin Hood, TikTok, Coinbase, Scale AI, Toast, CrowdStrike, Cloudflare, and DoorDash. Brex's heritage began with tech companies, but their solutions are equally valuable to all companies. Over the last 2 years, 60% of their originations have been to nontech companies.
+
+Business cards represent approximately $2 trillion in purchase volume split roughly between corporate liability, where the business entity is responsible for making payments on the card and personal liability where the small business owner is personally responsible for making payments on the card. And that latter space, the personal liability card is where we primarily play today.
+
+Collectively, this business card market is growing at about 9% annually as business payments continue the secular migration from cash and checks to digital payments. And companies like Brex have grown even faster. Brex is taking share from banks and software providers alike. The integrated platform solution they pioneered redefines and expands the market opportunity beyond credit cards to business payments, banking and spend management software.
+
+Brex has been a beacon for us and we have admired them from afar. As we've gotten closer, we've been even more struck by what they have built. The Brex team has amazing talent. They built a full modern tech stack from the bottom up. Their card and banking businesses run on an in-house, fully modern core, they're 100% in the cloud. While most fintechs we've seen through the years, leverage third-party technology solutions to get there faster, Brex has taken the more difficult and rarest of journeys for a fintech. They've invested in a modern technology infrastructure and data ecosystem that's built to last.
+
+And it powers remarkable capabilities. On the shoulders of their technology investments, Brex was able to rapidly develop and launch innovative solutions for a wide range of customers, from startups to large businesses with complex international needs. For example, Brex' technology enables them to issue business credit cards in local currencies in over 50 countries. This automated platform is the foundation for AI solutions on top of it.
+
+Brex has built and deployed their own in-house AI agents for expense management and audit and are on the way to procurement, payments and accounting agents. Brex has grown from a startup into a thriving business with hundreds of millions of dollars in revenue and tens of thousands of customers. As we got to know this company, we kept asking ourselves, "How on earth did a startup pull off building a full tech stack from the bottom up?"
+
+Brex has made the right choices, the hard choices to put themselves in a strong position to grow and win in the marketplace and to sustain success over the long term. Along the way, they realized that their exceptional growth opportunity was limited only by their scale and resources and that brought the 2 of us together.
+
+Several Capital One strengths and capabilities are on the bull's eye of what Brex needs to fully capitalize on the growth opportunity. We have a compelling and ubiquitous brand. Brex has found that when they can get in the door with a potential customer, their success rate is impressive. We believe that our brand and our customer scale will open many more doors. Also, we can immediately leverage our marketing machine, bringing massive data scale, targeting models, extensive channels and a large customer base, to enhance the flow of prospects.
+
+And Capital One's balance sheet, which is primarily funded by federally insured retail deposits is yet another enabler of growth, returns and resilience for Brex. And finally, we can bring additional investment capacity in marketing, sales force expansion, engineering and AI. The striking thing is most of these benefits from Capital One can be brought right away post close and do not need to wait for a fuller integration down the road. So we believe we can accelerate Brex's growth almost from day 1.
+
+As we integrate over time, there is more value to capture much of it coming from what Brex can bring to us. Brex brings exactly what Capital One needs to accelerate what we've been building. Brex opens up the opportunity in the corporate liability part of the marketplace where our presence is currently much smaller than it is in the personal liability space. Additionally, Capital One can leverage Brex' spend management tools to broaden and enhance our offerings for our existing personal liability card customers. And for our small business bank, which has been mostly a local offering in our branch footprint, Brex gives us the capabilities to unlock a national small business banking opportunity.
+
+Brex can also help to propel another important growth business at Capital One which is our travel business. Our travel portal is already on a strong growth trajectory, powered largely by our massive consumer franchise. As we integrate Brex and its spend management platform with our travel portal, businesses will be able to manage their corporate travel expenditures, payments and travel policies directly on the Capital One travel portal. This will open up the opportunity to grow business travel revenues as well as consumer travel.
+
+Beyond the remarkably compatible technology and vision of where the world is going, we've also found amazing cultural alignment. We are both founder-led companies with a heritage of innovation and entrepreneurship. We've both disrupted the status quo to reimagine markets and drive transformation. And our strategic choices along the way have been guided by strikingly similar core tenets, to invest, to sustain growth and returns over the long term, to work backwards from where the world is going, to build from the bottom of the tech stack up and to search the world to find and hire great people and give them a chance to be great.
+
+Pulling way up, acquiring Brex and joining forces to win in the business payments marketplace fits squarely into our more than 3-decade quest to build a banking and payments company that's positioned to win where the world is going. It's a hand-in-glove fit that will accelerate and enhance the path that we were already on, propelling us to the frontier of business payments. Capital One and Brex have been on separate paths working toward the same business payments destination, an integrated platform that combines business payments, spend management and banking, powered by a modern tech stack that's built for and powered by AI. Combining our businesses and capabilities on to one shared path will accelerate the journey for both of us.
+
+Sanjay Sakhrani
+Keefe, Bruyette, & Woods, Inc., Research Division
+
+Thank you, Rich. That was a very interesting and appreciate it. Maybe just a follow-up question on the 10% credit card cap topic. Obviously, the industry has been quite vocal about the explicit and unintended consequences of it. I'm just curious to hear your view and if you've had any discussions with the administration on the issue.
+
+Richard Fairbank
+Founder, Chairman, CEO & President
+
+We appreciate the energy to help consumers with affordability on many aspects of their spending. Let's talk about credit cards. Let me start by saying that we have built a company focused on providing Americans with products that are simple to understand and are accessible. All of our banking products have no minimum balance requirements and no fees, including no overdraft fees, and we offer many credit cards with no annual fees.
+
+The credit card industry is intensely competitive as thousands of banks and credit unions compete directly based on product pricing and other features. Putting a price control in place, such as the proposed rate cap would not make credit more affordable, it would make credit much less available for consumers up and down the credit spectrum. This is far more than a subprime issue. This would happen because we and the industry would be compelled to immediately slash credit lines, restrict accounts, and limit new originations to a very small subset of consumers.
+
+And consumers are the backbone of the American economy, 70% of GDP is driven by consumer spending and $6 trillion of that spending is on credit cards. A material contraction in available credit would likely cause multiple shocks throughout the economy as the lack of credit would result in greatly reduced consumer spending and would likely bring on a recession. And let's not forget about the impact of business is beyond lost sales. Other parts of the economy beyond banks are highly dependent on card programs from retailers to airlines to hotels.
+
+In addition, credit cards are many consumers' initial entry point into building a credit history. A reduction in available credit could significantly impact their ability to get auto loans, mortgages and other forms of credit. And for many consumers, the credit card is their only access to credit. So while we can't predict what will happen next, we feel strongly that a cap on interest rates would catalyze a number of unintended consequences.
+
+Jeff Norris
+Senior Vice President of Finance
+
+Next question, please.
+
+Operator
+
+And our next question comes from Erika Najarian with UBS.
+
+L. Erika Penala
+UBS Investment Bank, Research Division
+
+Rich, pulling up again, another point of discussion that was heavily debated in the past few weeks has been the Credit Card Competition Act. And given your acquisition of Discover, and what the opportunity set could be. Maybe help us think through what you think the consequences could be of passing CCCA? And also maybe the broader question is, as we think about the strategic imperatives over the next year or 2, where would you put increasing global acceptance?
+
+Richard Fairbank
+Founder, Chairman, CEO & President
+
+Erika, interchange has been around for a long time because it's part of a well-established payments ecosystem in the United States that benefits both retailers and consumers alike. We believe that there is substantial competition in the payments industry already with banks like Capital One, taking a big portion of its interchange revenue and giving it to the consumer in the form of rewards. And that then stimulates consumer spending and the ecosystem thrives. So pulling up, we believe this is a system that is working well. I think government intervention in this marketplace in this manner may have unintended consequences that could harm market participants, including consumers.
+
+Could you ask again your global acceptance question, Erika?
+
+L. Erika Penala
+UBS Investment Bank, Research Division
+
+Yes. So I guess, I'm asking where on your strategic imperatives would increase in global acceptance rank as investors were thinking that if CCCA goes through given that you have a Discover network that you potentially could be a beneficiary as a second network on the card. But of course, a limitation currently would be global acceptance.
+
+Richard Fairbank
+Founder, Chairman, CEO & President
+
+So Erika, as we have talked about since we announced the Discover deal, the network is a crown jewel in that acquisition. And when we looked at every strategic opportunity to leverage the network, every single one of them we found to capitalize on those opportunities had the same exact shared path. And that shared path was to raise international acceptance and to build the network brand. And so that is a path that we are already going down that path.
+
+It's a long journey to build acceptance all over the world. And along the way, we are -- to use a phrase, we always use internally. We're sloping the work. To put the highest emphasis on the places that Americans travel. So we believe that this -- and so there are so many different types of opportunities that we have that all sort of need that same double set of solutions, and that's why we're investing in that. And that's -- and I'm struck. It's rare in business where every single thing that you hope to be down the road has the same shared path to get there. So it's why we're really leaning pretty hard into this network opportunity.
+
+Operator
+
+And our next question comes from Ryan Nash with Goldman Sachs.
+
+Ryan Nash
+Goldman Sachs Group, Inc., Research Division
+
+So maybe putting aside all the macro stuff, we've spent the last few quarters talking about investing in business and -- can you maybe just talk a little bit about whether the acceleration that you've been speaking of has made its way into the results yet? What are some of the areas? And I guess, given the fears of rising efficiency, can you maybe just talk about whether or not you can manage it around these levels over the medium term, fully understand then that differ over any individual quarter?
+
+Richard Fairbank
+Founder, Chairman, CEO & President
+
+So Ryan, yes, let me just pull up for a moment and reflect on your comment, your question about our investments. Just to kind of reset the table here, as a result of years of strategic preparation, we have the wealth of opportunities today that put us in an advantageous position to grow and win in the marketplace as it continues to change at a breathtaking pace, and these investment areas include Discover.
+
+And as we just talked about leaning into international acceptance and building the network brand. We are, of course, continue, as we have for many years to lean into the premium credit card space and there is just so much opportunity in building a franchise of heavy spenders. I do want to comment there that it's very clear that the biggest players in that space are leaning even harder into that, and they're investing. And so we are doing so as well.
+
+I think the flip side of all that investment is it's going to be a higher hill for maybe other competitors to climb, but we're climbing that hill and seeing a lot of traction. In fact, our growth in our credit card business and purchase volume, the highest growth is at the very top of the market. In retail banking, for years, we've been building a national retail bank organically. We're the only major bank building such -- doing that organically that requires a lot of investment in marketing. And now with the Discover acquisition, we have continued opportunity in that space, and we're leaning pretty much even harder there.
+
+As AI continues to transform the world, we, of course, are investing in AI and being on the top of the tech stack that we built AI has a really, I think, special especially high leverage at a company like Capital One. And in fact, as we have moved up the tech stack, we're investing in opportunities that sit on the tech stack, like Capital One Shopping, Auto Navigator, our travel business. And now with Brex, we have a chance to massively accelerate and advance our journey with corporate liability, personal liability, the small business bank, as we talked about earlier.
+
+So let me go back to your question about efficiency ratio. In recent quarters, we've talked about these opportunities, and we have indicated that collectively, these investments will put upward pressure on efficiency ratio in the near term, and we continue to lean into those. With the acquisition of Brex now, we have additional investments and they -- those investments we are making are directly in service of driving growth. But it's also the case that we already had investment dollars set aside for pursuing this market organically, which will be replaced by the Brex' investment. So there is some offset there. And we've also tightened up in some other areas.
+
+But the net effect of all these investments across Capital One in pursuit of opportunities that collectively are really as good as I've seen in my journey of founding Capital One and being there for all these years. The net effect will be some upward pressure on efficiency ratio in the near term. Now importantly, we still expect our earnings power on the other side of the Discover integration to be consistent with what we expected at the time we announced the Discover deal, inclusive of Brex.
+
+Jeff Norris
+Senior Vice President of Finance
+
+Next question, please.
+
+Operator
+
+Our next question comes from Terry Ma with Barclays.
+
+Terry Ma
+Barclays Bank PLC, Research Division
+
+Maybe a question for Rich. Credit card delinquencies are now down year-over-year, 13, 14 months in a row, there's consumer stimulus in the form of tax refunds this brings. You re-highlighted some of the comments you made around the loan growth brownout. Maybe just help us tie all that together, just kind of talk about how you think about the outlook for consumer health and growth at Capital One? And any color you can provide on how long the brownout will kind of persist for?
+
+Richard Fairbank
+Founder, Chairman, CEO & President
+
+Okay. Great. Let me actually start with the brownout. So the brownout that we flagged in prior earnings calls, just to remind ourselves, what's driving that is, first of all, following Discover's credit expansion this in the '22 kind of time frame. They ran into some issues. So Discover dialed back their origination programs by a fair amount toward the end of 2023 and continued to run it at a scaled-back level. As a result, they've had some pretty darn good credit, but the flip side of that is they put a whole bunch of vintages in place that are just smaller than prior vintages were and that just has an extended impact on the growth. So that's kind of factor number one.
+
+We also, as we -- and this is not surprising that we find this. But as we look over Discover's shoulders, at their credit policy, and things that are now being implemented fully still on the Discover system. We are doing some trimming on the margins of their origination in areas, particularly around higher balance revolvers, which, as we've said for way more than a decade, that's an area that we probably relative to the industry are more trying to avoid. So there's been some trimming around the edges that we're adding on top of their dial back that they did that collectively leads to this brownout that we flag.
+
+Now that is -- everything we're talking about is temporary in nature. And the thing that will change that trajectory is getting on the other side of the tech integration of Discover into Capital One because now when Discover is entirely on our platforms, and we're able to leverage all of our data credit policies, the marketing machine of Capital One connected to the technology and everything else, we look forward to being able to resume growth. And we've already identified a bunch of growth opportunities that are natural for Discover's really quite remarkable brand and business position. So we look forward to that on the other side. So that's the brownout, but that will continue until the card integration is done.
+
+Let me turn to your other question on the health of the consumer. The U.S. consumer and the overall macro economy remain resilient. The unemployment rate inched up in 2025, but remains pretty low by historical standards. Layoffs and new unemployment claims are low and stable. Wages are still growing in real terms and consumer spending remains robust. Debt servicing burdens remain stable and close to pre-pandemic levels. Because of the budget bill implemented last summer, consumers will see larger tax refunds this year than last year. Tax withholdings will also be lower in 2026.
+
+I'll come back in a moment to tax refunds, but let me keep going for a moment. But I do think we're still in a period of elevated economic uncertainty. Inflation remains above the Fed's target, job creation slowed significantly in the second half of 2025. Some consumers are feeling pressure from the cumulative effects of price inflation, higher interest rates. And many of those relying on the Affordable Care Act for their health insurance, will see their premiums going higher quite sharply in some cases. And so I think these uncertainties will hang over the economy and hang over the choices that consumers make.
+
+Let me make a comment before I turn to our individual -- our portfolio, just to comment on tax refunds. Tax refunds are an important driver of the seasonal improvements in delinquent payments that we see around March and April of each year in both card and auto. In 2026, the total amount of tax refunds is expected to be higher than in 2025 because some of the tax cuts in the Big Beautiful Bill last summer were made effective retroactively to the start of 2025. Tax withholdings will also be lower in 2026.
+
+So all else equal, higher tax refunds will likely be a good guy for consumer credit, especially -- and I think this is a really important point, especially when they are higher than consumers expect. But we believe that this will probably be a onetime benefit because tax withholdings will be lower in 2026. So we won't see another round of higher refunds in 2027. And I think consumers will set their expectations. Hopefully, not counting on too big refund coming in 2027. So I think we're looking at a onetime effect. That is our view there.
+
+Let me turn to our own portfolio. We talked about the improvement in our charge-off rate, has steadily improved really through most of 2025. And in fact, in the fourth quarter, it was 113 basis points lower than a year ago. And our front book of new originations continues to perform well. As we look ahead, delinquencies remain the best leading indicator of credit performance. Our card delinquencies improved steadily, beginning in the second half of 2024 all the way through the first half of 2025. But we've now seen 2 quarters in which they've moved more or less in line with normal seasonality.
+
+This has been true both in our legacy domestic card portfolio and for Discover and it suggests that credit is settling out after almost a year of steady improvement. In auto, our credit performance has been strong and stable over the past year with losses back near pre-pandemic levels. But I think auto is also -- both auto and card are benefited by choices we made several years ago to normalize for the great inflation in credit scores that I think has been a surprise to the industry. But pulling way up, we think the health of the overall macro economy and of the U.S. consumer, it's really in a pretty good place. And as a result, we continue to lean into our growth opportunities.
+
+Jeff Norris
+Senior Vice President of Finance
+
+Next question, please.
+
+Operator
+
+Our next question comes from John Pancari with Evercore.
+
+John Pancari
+Evercore ISI Institutional Equities, Research Division
+
+Wondered if you could provide some additional detail just around the financial impacts of the Brex deal. Could you possibly share some details on the tangible book dilution and earnings accretion and maybe book value earn back from the transaction? And then just separately, I totally understand the merits of the transaction and the commercial capability addition to your product suite that it provides. But anything just around the timing, like why now pursue the deal at this point, just given the ongoing effort around the Discover integration.
+
+Andrew Young
+Chief Financial Officer
+
+John, why don't I first take your question about the metrics? Given the relative size of Brex to Capital One, we don't intend to provide additional metrics. We're providing the purchase price and the associated balance sheet marks and integration costs as we're intending to break those out in our financial statements over the coming quarters. So we're providing our current estimates now and will provide revised marks and the quarterly amortization schedule after close. And then I'll turn it to Rich to talk about your second question.
+
+Richard Fairbank
+Founder, Chairman, CEO & President
+
+Yes. Thank you, John. To your question of why now, obviously, not long ago, we did the Discover deal. And we are well down the path of what I think is a very successful integration. We very carefully looked at the impact that doing a deal like this might have on the resources and anything related to the Discover acquisition. We took a very close look at that because obviously, that's just a paramount priority doing that acquisition well. And it turns out that for the most part, the business areas that are impacted in this integration are different from the ones primarily in the Discover integration.
+
+Obviously, Discover One was really about pulling consumer business together. This is about pulling a business -- related businesses together. So we looked long and hard at this from a resources point of view, and we concluded that we think we can do both of these in parallel. And we're very comfortable about that. Then the other aspect is sort of financially, I talked a little bit earlier. The -- we will lean in just in terms of sort of ongoing investment. We will lean into the growth opportunity for Brex. That's an important reason that Capital One -- it's important value that Capital One could add in the near term relative to sort of where they were on a stand-alone basis. So it's a synergy that can happen, be created right away even without the full integration.
+
+It does -- financially, it does offset some spending that we were otherwise doing investing in similar kinds of solutions at Capital One. And also around the company, we've really -- just managing things tightly. So that we're in a -- so that as we've talked about for the last few quarters, we're in the same position that we were before relative to the earnings power coming out the other side of the Discover integration. So even as we lean more into the Brex investment, our view of the earnings power out the other side is the same view that we've had all along.
+
+Jeff Norris
+Senior Vice President of Finance
+
+Next question, please.
+
+Operator
+
+Our next question comes from Richard Shane with JPMorgan.
+
+Richard Shane
+JPMorgan Chase & Co, Research Division
+
+Look, one of the unique assets of Capital One, I think this is the seventh acquisition I can name. You have a management team that has a very long-term vision in terms of how you build this business. Rich, when we think about your target efficiency ratios, and sort of that 2027 guide, there's always something to invest in with Capital One. And that's part of the secret sauce here. Do you think that, that efficiency ratio will be because you grow the revenues into it? Or do you actually think we will see a peak in expenses that will recede?
+
+Richard Fairbank
+Founder, Chairman, CEO & President
+
+Well, thank you, Rick. I think just pulling up for a moment on our philosophy and maybe distinguish it from -- I think a number of banks as they drive efficiency, first and foremost, do it by really trying to dial back and manage expenses extremely tightly. We try to manage expenses very carefully too. But our efficiency journey, which we've said is an important part of the value proposition for Capital One for investors is, first and foremost, the engine of that is growth, revenue growth.
+
+And so what we have done since the founding of the company is to absolutely focus on where are the structurally good opportunities in the marketplace, make sure that we understand where the not good opportunities are and avoid those even if other banks are chasing them. But then where we see the good structural opportunities, we work backwards from how can we capitalize on those? And one of the terms that I've used, you probably remember, Rick, is to have a growth platform and acquisitions that we have tended to do have been acquisitions of growth platforms to enable us to build a business. And -- so that we don't have to go from sort of 0 to 1 in a sense we can start a bit beyond that and then really leverage the opportunity.
+
+And this acquisition of Brex is a classic case of that. It is right in the heart of our business strategy as a company, which is all about payments for both consumers and businesses. It is a growth platform, which interestingly, there's way -- as I talked about, we can -- we have things that we bring that can enhance Brex's growth significantly and early on. And then Brex actually brings things that can strengthen our growth platforms across small business card, our small business bank and our travel business.
+
+So we are, in many ways, the company that does invest. We've been investing since the founding of the company. But always, it is -- these are things that have gone along with that. From the founding days, we built a rigorous horizontal accounting framework to rigorously measure before, during and after investments to see that they actually pay off. We're extremely focused on net present value. We -- despite announcing this acquisition today, we are built as an organic growth company.
+
+So if I pull up on all of those, we are -- what I've been sharing with investors over the last number of quarters is to say on a calibration across decades of building Capital One. I see more opportunities, which will drive future revenues that I've seen in some ways ever, but certainly the number and diversity of those. Why are they there? Because we built a technology platform from the bottom of the tech stack up. And as we go to the top of the platform, we are in a position to capitalize on opportunities that I think other companies would not be.
+
+Along the way, as these opportunities manifest we have chosen to lean into investing, which, as I have said, in the near term, that pressures efficiency ratio. But while we don't give specific efficiency ratio guidance, all of these investments are in service of driving future revenue growth, which is the engine for efficiency ratio improvement and value creation in the long term.
+
+Jeff Norris
+Senior Vice President of Finance
+
+Next question, please.
+
+Operator
+
+Our next question comes from Mihir Bhatia with Bank of America.
+
+Mihir Bhatia
+BofA Securities, Research Division
+
+I was wondering if you could provide us with an update on how the debit transition to Discover is going. Any learnings from that process as you think about which and when to transition the credit portfolios. And also just related to that, any initial thoughts on if there's an opportunity to move Brex cards over to Discover?
+
+Richard Fairbank
+Founder, Chairman, CEO & President
+
+Yes. Mihir, as we shared at the announcement of the deal, we are moving all of our debit business to the Discover debit network to take full advantage of the synergies that come from vertical integration. We've been migrating our debit cardholders to the Discover network since August of last year, and we are now nearly complete with our conversion. You're starting to see the network synergies and our reported results, and you will see more of those results as we complete the debit conversion.
+
+On the credit card side, we plan to do a lot of testing. And by the middle of this year, we will be able to originate Capital One credit cards on the Discover network. Early next year, we will be able to move some existing credit cards to the Discover network. Now longer term, we will work on building Discover's international acceptance and strengthening the network brand, which will open the doors for us to have an opportunity to move more business over there.
+
+You asked about the learnings. We are really pleased with what we've seen in the conversion in terms of the smoothness of the conversion, the customer take-up on the debit cards and really pretty much all aspects of this have gone as well or maybe a little better than we had expected. But we know that choices to move cards and everything along with that is, it's a really, really important strategic choice and a very, very important thing from a customer experience point of view, which is why we have a big testing agenda in the near term and why we also are working so hard to make sure that we continue to raise the international acceptance and also create a lot of technology-based solutions to make it easier for consumers to move their cards.
+
+Jeff Norris
+Senior Vice President of Finance
+
+Next question, please.
+
+Operator
+
+Our next question comes from Moshe Orenbuch with T.D. Cowen.
+
+Moshe Orenbuch
+TD Cowen, Research Division
+
+I've got like one sort of housekeeping type thing and then a follow-up. The housekeeping question, Andrew, I appreciate that Brex is small relative to Cap One, but could you size for us the size of the small business card portfolio at Capital, the small business banking and perhaps maybe revenues from the travel portal that you would expect to affect, if you will, by -- through the Brex acquisition?
+
+Andrew Young
+Chief Financial Officer
+
+Yes. Moshe, appreciate the interest there, but those just aren't metrics that we break out in our reporting, and we're not intending to do so at this point either.
+
+Richard Fairbank
+Founder, Chairman, CEO & President
+
+Just Moshe, just to sort of just generally give you -- as I mentioned earlier, small business card portfolio is #3 in purchase volume on the personal liability -- in the personal liability marketplace. Our small business bank is a still mostly a local bank that was built on the shoulders of the local banks that we bought, which are in about 18% of the U.S. We have strategically for quite a while, Moshe felt that the tremendously successful building of our national retail bank in that there's a parallel opportunity to go national and build our small business -- digital for small business bank, leveraging the capabilities that we now have in the small business space.
+
+But what we have lacked in many ways is the business tech platform on which to build that. We didn't have enough scale in our small business, bank business to -- we didn't feel that we had the scale to build the sort of tech stack fully necessary for that, but that comes along with the Brex acquisition. So it gives us a chance now to have shoulders to stand on to accelerate the growth of our small business bank.
+
+Moshe Orenbuch
+TD Cowen, Research Division
+
+Great. And Rich, you had talked about broad number of opportunities. Could you just talk a little bit about how both the Discover acquisition and the Brex acquisition might change kind of the priorities? And where -- what are the -- could you just talk a little bit about what the highest priorities in those investment opportunities are?
+
+Richard Fairbank
+Founder, Chairman, CEO & President
+
+Discover and Brex both expand the number of opportunities. And we already had a pretty good list of opportunities that -- it was not an accident. We had the opportunities we've had at legacy Capital One because we were working backwards from those opportunities for years as part of the benefit of transforming our technology platform. So along came Discover and that brings the network opportunity but also the network investments that we've talked about and along comes Brex and that brings the very near in growth opportunities, but the investments required that go along with that.
+
+So this is -- but with respect to the opportunities that we have listed -- that I listed earlier, each of those on a stand-alone basis, our standard is, Moshe, is this a value creation opportunity. And we look at the horizontal economics of this, we say, what is the payoff down the road and what does it take to get there and so on. And the other ones I've listed, we are very compelled by those opportunities and are continuing to pursue them. The opportunity at the top of the market, the National Retail Bank, which even got an extra benefit from the Discover deal.
+
+The emerging businesses of Capital One Shopping, Auto Navigator on the auto side, our travel business, these are businesses that, on a stand-alone basis, we are very compelled by the opportunity. So what we are working to do is to try to really manage the company efficiently even as we pursue a large list of opportunities. But we are -- these opportunities are opportunities that are opportunities in a particular moment. And that's why we're investing quite a bit to pursue them.
+
+Jeff Norris
+Senior Vice President of Finance
+
+Next question, please.
+
+Operator
+
+Our next question comes from Don Fandetti with Wells Fargo.
+
+Donald Fandetti
+Wells Fargo Securities, LLC, Research Division
+
+Rich, as I look around at the card industry, I mean, it seems like every big bank is trying to grow market share, leaning in, regional, fintechs. And I was just curious like how you think this plays out if the industry is going to remain disciplined? And do you think you can grow your card loans in that type of environment? Or could you consider sort of zagging and slowing things down a little?
+
+Richard Fairbank
+Founder, Chairman, CEO & President
+
+Thanks, Don. I think it is pretty much a certainty that every time the economy is in a pretty good place, the card industry will have more competition and that competition is really coming from the big players. That competition is coming from fintechs. And it is striking how much the card players are leaning into things. You can see it by turning on TV and see the advertisements that are being made, you can look at the products that people are refreshing at the very top of the market, and you can look at some of the early spend bonuses and other things going on. So it is clear that the existing players and the fintechs coming from the side all believe that there is a good opportunity here.
+
+But I want to give you, Don, a calibration that I shared with you from 30-some years of building Capital One. I feel this is a rational marketplace. It's definitely striking to see how much competitors are leaning in. But when I look at the choices they're making when I look at the thing I fear the most is reckless credit. I don't see that. I think that this is a market with opportunity for someone like Capital One. But we have our eyes open with respect to the competition. I think the investment, the table stakes of investment, to your point, I think, are higher than they might be at other times. But all of that, notwithstanding, I really believe this is a good marketplace and we are leaning in to capture the opportunities.
+
+Jeff Norris
+Senior Vice President of Finance
+
+Next question, please.
+
+Operator
+
+Our next question comes from Jeff Adelson with Morgan Stanley.
+
+Jeffrey Adelson
+Morgan Stanley, Research Division
+
+Rich, I appreciate all the color on the Brex acquisition. I'm also just curious how you're thinking about specific benefits and synergies to your commercial banking franchise. I mean is this -- as you start to bring everything under one roof for your business customers, is this really something that could meaningfully accelerate your growth of lending and deposits within that segment as you maybe attract more of those customers or just you're able to do more for those customers under one roof over time?
+
+Richard Fairbank
+Founder, Chairman, CEO & President
+
+So yes, let me -- Jeff, I really appreciate that question. I can't remember an acquisition we've done in our history that has had so many connection points to our own business model and the ability to lift so many different parts of the company. And you mentioned one that I didn't even list in my list, which was a benefit to the commercial business. But we have a treasury management business, like all major commercial banks do. And there's a lot of technology that goes into treasury management products.
+
+Our TM team has looked closely at this extraordinary tech stack that Brex has built and believes that there is an opportunity over time to build on that tech stack. I didn't mention it because I think it's going to be a down the road kind of thing. There's going to be -- to really kind of pull together an integrated treasury management capability is -- that's -- that was just less of a close-in opportunity. But you've seen me talk over the years. How many times do I talk about building a tech stack from the bottom of the tech stack up?
+
+That is what we've done at Capital One. It is a very long and lonely journey to do it. Most companies build from the top of the tech stack down, but the benefits are multiplicative when you have a tech stack that is modern right from the core and moving up from there. What's extraordinary here is that on the business side of the house, we are bringing in a modern tech stack that has the ability to lift not only business cards, but also all aspects of the business side of Capital One.
+
+We've spent so much of our time collectively with investors talking about the consumer side of the house, that's a different tech stack. I mean, well, there's a lot of shared aspects about it, but consumer core is a different thing than commercial. And so I think that Brex is really bringing an opportunity to take some of our activities, particularly those that were lower scale at Capital One and have the opportunity to accelerate their journey.
+
+Jeff Norris
+Senior Vice President of Finance
+
+Next question, please.
+
+Operator
+
+Our next question comes from John Hecht with Jefferies.
+
+John Hecht
+Jefferies LLC, Research Division
+
+First one is you guys have always gone after a barbell strategy where you're going after super prime and prime on one side and the non-prime on the other. You've generally had a mix in a specific range, but I'm wondering whether it's credit card or auto now, do you guys -- are you leaning into any cohorts in that way or leaning away from? Or is the mix expected to be relatively stable here?
+
+Richard Fairbank
+Founder, Chairman, CEO & President
+
+John, thanks for your question. The barbell term, I think, was, in many ways, sort of an investor term over the years to try to, from afar sort of characterize what they saw at Capital One because we had clearly pioneered how to safely lend to mainstream America, including the subprime. And also that we always were pushing right at the top of the market going after heavy spenders. I don't think it ever was as much of a barbell as sort of urban legend would have it. But I do want to say even way before the Discover acquisition, we were a full spectrum lender, including a significant player right in the middle of the market in prime.
+
+The one thing that differentiated our strategy in prime from others is that we were more cautious on the prime revolver especially the more high-balance revolver, and so we have always played just a little more cautiously in that space. But we have played the credit spectrum and in fact, we want to -- with our customers, for example, our customers, our mainstream America customers to grow them to graduate them and move them up to being ultimately heavy spenders.
+
+When Discover joined Capital One, as we said, this is striking, while Capital One has been a full spectrum lender, Discover has been a very specialized and focused player more in the prime part of the marketplace. We've now studied their underwriting. We think they underwrite very safely. We are trimming around the edges with our -- we have a little less appetite for the higher balance revolver than they and the industry do. So that's some of the brownout we've talked about. But Discover is -- will fit right in with our full spectrum strategy.
+
+I do want to make a comment on the auto side. We are absolutely a full-spectrum player on the auto side. And in fact, one of the biggest players in the industry, in subprime, in near prime and in prime.
+
+John Hecht
+Jefferies LLC, Research Division
+
+Okay. And then a quick follow-up question. Andrew, I'm wondering, given the forward curve and then timing of quarter end and days in quarter and tax, the kind of tax refund situation. Can you just give us your perspective on kind of the cadence of seasonality and how it might affect NIM or can we look to the past as a good indication of that?
+
+Andrew Young
+Chief Financial Officer
+
+Yes, John, as you said, that there's seasonal fix that in most quarters, actually impact NIM. So I'll touch on that, and then I'll just talk a bit more structural about our level of NIM. So looking ahead to the first quarter, there are 2 seasonal effects, one, 2 fewer days in the quarter, which is roughly, I think, 18 basis points or so of a headwind to that quarterly rate.
+
+And then the second is we are likely to have higher levels of lower-yielding cash because average cash levels just tend to be elevated in Q1 as a result of pay down of seasonal loan balances. We have the added effect this year of the cash proceeds from the home loan sale that are unlikely to come all the way down in the immediate term with respect to the tax effect. We'll have to see how consumers behave to Rich's earlier comment. So I think that's a little bit more of a wildcard.
+
+Then more structurally, I'll point to a couple of things. One is deposit pricing often lags as Fed funds move. So we could see brief periods of pressure after Fed moves, if we were to see them in the coming quarters. But over time, given the relatively neutral position of our balance sheet, that largely corrects itself. And then the only other thing that is going to impact the ambient level of NIM would just be the relative growth in different asset classes over time, impacting balance sheet mix. But other than that, I don't really foresee any structural things impacting the balance sheet. So it really will be much more of a seasonal effect as we look ahead to the coming quarters.
+
+Jeff Norris
+Senior Vice President of Finance
+
+Next question, please.
+
+Operator
+
+Our next question comes from Robert Wildhack with Autonomous Research.
+
+Robert Wildhack
+Autonomous Research US LP
+
+Rich, you mentioned a couple of times earlier that Brex's growth opportunity stand-alone was limited by scale. Can you just expand on that a little bit more? Were they lacking scale maybe on the lending side of things or more on the technology side or somewhere else? And then do you see as the more attractive growth opportunity for Brex with some of the larger enterprise clients, a number of whom you listed earlier or more in the SMB space?
+
+Richard Fairbank
+Founder, Chairman, CEO & President
+
+Thank you, Robert. So let's talk about Brex for a minute. Almost all rapidly growing startups are constrained on investment dollars. And Brex has built an amazing company and has big aspirations for what they can be. And achieving those aspiration requires a lot of dollars and also a lot of other capabilities as well. And I think as I've gotten to know Pedro Franceschi, their amazing founder, CEO and Ben Gammell, their President and the extraordinary team that they have, it's very clear that they know they have a tiger by the tail. And I think they know they had opportunities to go raise more capital.
+
+And they certainly weren't at all looking to go sell a company, but I think what captivated them about the unique opportunity of Capital One is that we, as a tech company ourself with a modern tech stack and the entrepreneurial heritage of having been an original fintech that we could be a unique opportunity to bring a lot more resources and capabilities to them while still enabling their dream to stay alive and the entrepreneurial spirit that sometimes, when one thinks about large companies, might otherwise be hard to maintain. But I think they were pretty excited about the ability to have our brand, to open doors all over the place and not just open the doors, but also just for people to know that they're part of one of the biggest banks in America.
+
+The sophisticated marketing machine, the balance sheet of the bank and the capacity to invest in sales and in marketing and engineering, and AI. I think it really was an opportunity in their mind to accelerate the growth, while still very much keeping the dream that is Brex, alive. And again, I think that's something that's uniquely possible by pulling these 2 entrepreneurial companies together.
+
+With respect to the customer base, I am really struck at, let's just pull way up and [ saber ] a couple of things. First of all, most times when one looks at a business in a marketplace and kind of say, well, who would have a need for something like this? The answer is just about every company in America, if not the world, has a need for this because every company has payables, expenses, and they got to manage all of the complexity of the ecosystem on the payment side of the business. And so -- and it's a need that has not been really filled in the marketplace with an integrated solution. So it starts with, wow, this thing could be attractive to companies all the way to really large ones.
+
+So if you look at their journey, their journey was one of, in fact, over time, tapping into those. They started with start-ups, start-up tech companies. They built an incredible brand. And I think their customer base includes like 1/3 of tech companies kind of thing. I don't -- that's not a statement I'm fully grounded. But let's just say it's -- they've had tremendous success with start-ups. But they also, on top of this amazing tech stack that they have built, were able to build a lot more capabilities that then made their product attractive to middle market companies and in fact, pretty large middle market companies and companies that have business all over the world and their employees traveling all over the world.
+
+So I believe that they are set up for success with small companies, with medium-sized companies and, in fact, pretty large ones because their solution spans the needs of that broader range of customers and the elegance and simplicity of the solution make it something that small and large can implement.
+
+Jeff Norris
+Senior Vice President of Finance
+
+Next question, Please.
+
+Operator
+
+And our final question comes from Saul Martinez with HSBC.
+
+Saul Martinez
+HSBC Global Investment Research
+
+I wanted to follow up on John Pancari's question and I get that the deal is modest in size, and you don't want to give some of the financial metrics. But 80% of the purchase price is allocated to goodwill. That's not a trivial amount on a $5 billion deal. And I suspect Brex is not profitable. And you can correct me if that is the wrong assumption to use here. You do have $950 million of transaction costs and incremental investments. Is it fair to say then that the deal at least initially will be EPS dilutive, intangible book dilutive, if even at a modest amount, and obviously overall value accretive to Capital One?
+
+Richard Fairbank
+Founder, Chairman, CEO & President
+
+So Saul, in isolation, Brex will result in earnings dilution initially as we're buying a business with a growth rate that is multiples of industry growth rates. We believe this growth dynamic will lead to significant accretion over time.
+
+Saul Martinez
+HSBC Global Investment Research
+
+Okay. All right. Fair enough. And I guess just a follow-up here is you mentioned you don't expect a change in the expected pace of your quarterly share repurchases, which was $2.5 billion. Is that -- I mean, is that a fair assumption? Or is that -- is it fair to think that, that's sort of a decent cadence for buybacks, at least as we stand here today?
+
+Andrew Young
+Chief Financial Officer
+
+Saul, Let me clarify the language a bit, which is we're saying that the Brex transaction itself will take down our capital by, I think, a little more than 40 basis points. So a meaningful amount, but certainly not enough to influence our thinking about near-term repurchases. So the point we were making is it's just not going to alter our approach to repurchases. And so we've said last quarter that our long-term needs 11%, given our current capital position. You saw this quarter, we accelerated our returns upping the repurchases to the $2.5 billion. You cited, increased our dividend 33% to $0.80.
+
+So with respect then to the pace of future buybacks, we're really going to look at a variety of things, just current and projected capital levels and our balance sheet growth opportunities, the economy, the regulatory environment. And it's not just a point estimate for those variables. We're going to think about a range of outcomes around them. But given all of that, we have healthy capital levels, we've got $14 billion of remaining authorization, and we've got flexibility under SCB. So we are going to take all of those things into consideration and manage our repurchases accordingly, but the Brex transaction itself is just not influencing our thinking about that plan base.
+
+Jeff Norris
+Senior Vice President of Finance
+
+That concludes our Q&A session this evening, and I want to thank everybody for joining us on the conference call and for your continuing interest in Capital One. Have a great evening.
+
+Operator
+
+Thank you. This concludes today's conference call. Thank you for your participating. You may now disconnect.
+

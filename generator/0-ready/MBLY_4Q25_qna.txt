@@ -1,0 +1,333 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question today is coming from George Gianarikas of Canaccord Genuity.
+
+George Gianarikas
+Canaccord Genuity Corp., Research Division
+
+I'd like to ask first maybe on the -- on your view on the competitive environment, particularly in light of some announcements at CES from NVIDIA and others, just your view on what's happening in the advanced autonomous solutions space?
+
+Amnon Shashua
+Co-Founder, CEO, President & Director
+
+So I think that we have been -- we've obviously seen a lot more announcements and excitement around advanced solutions and autonomous driving in general and also robotics. It was one of the key themes at CES this year for everyone who attended. We still believe that we are closer to launching our advanced products than other competitors. And this is one of our strongest advantages combined with the maturity of our technologies and the advances of our technologies. And we are, as we said, 1 year closer to launching a spectrum of products that spans from Surround ADAS, SuperVision, Chauffeur, robotaxi starting from '26 and then through 2027.
+
+And we believe this will be a major transformation for kind of positioning Mobileye in the market as having proven products on the field. Right now, there is a lot of demos, a lot of referral to technologies and emerging technologies, and there is some, we think, noise and maybe simplistic description of some of these technologies and how useful they could be for a reliable system. There is a recent announcement by NVIDIA about their open-source model, Alpamayo that they announced and supposedly given others' ability to [indiscernible] maybe want to say a word about this, but we don't see that as something that changes kind of our positioning in the market within.
+
+George Gianarikas
+Canaccord Genuity Corp., Research Division
+
+And maybe I can ask a follow-up on Mentees specifically. I mean you mentioned yourself that there were a significant amount of startups and competitors at CES in the humanoid space. I'm just -- maybe a synopsis, a brief bullet point or two as to what the differentiation for Mentee will be as you try to attack the marketplace and commercialize the product?
+
+Unknown Executive
+
+I think there are a lot of startups, mostly in China, a lot of start-ups in the area of humanoid. Many of the demonstrations that you see out there are teleoperated. To win this game, you need to have a fully autonomous control of the robot from perception to action to understanding the theme, having an AI stack that can control the robot autonomously. And this is what Mentee has been demonstrating quite consistently over the past year, 1.5 years. And as you see it, I showed the number of clips. Mentee is also fully vertically integrated with a design of the actuators, the gear, the AI itself, all the software components, the electronics, which is the crucial if you want to have a true end-to-end system.
+
+Another, I would say, distinctive element is the ability to do continuous learning. So Mentee has developed an AI technology that allows the robot to passively view a human performing the task and imitate that task in a very, very short period of time without having any special equipment, no VR goggles or special suits, just passively observing a human performing the task. This is, I think, very important as we move from structured to unstructured environments like home use.
+
+So taking everything together, we have here a company that is both thinking practical, what is going to be the first domain launch, which is structured environments like fulfillment centers, assembly, assembly plants, retail and also developing the technology for the next deployment for unstructured environments like home use, fully vertically integrated, very strong in AI components, whether it's reinforcement learning, simulations, Sim2Real, very strong, very interesting overlap -- technology overlap with Mobileye, it can go both ways, in terms of synergies. So overall, this is a very good step for Mobileye to take a decisive steps towards owning physical AI in its full scope.
+
+Amnon Shashua
+Co-Founder, CEO, President & Director
+
+If I may add to this, I think to kind of differentiate between the different actors, Mentee are, as we know, the -- probably the only Western humanoid robot company that is actively engaging with customers on proof of concepts and pilots that involve pure AI operations with no remote operation. It shows something about the advancements of the use of robots in a setting that a customer is willing to evaluate and deploy in a kind of a nonsterile setting. Unlike maybe some hype videos that show something on a YouTube clip, this is an actual testing environment. This is a different stage of maturity and having engagement with potential customers. And we believe that through integrating Mobileye technologies, we have obviously strong strength in computer vision, in AI using cameras and using sensor fusion and designing systems for safety and reliability and how to integrate systems in a very cost-efficient manner and efficient compute. All of these will help them even accelerate the progress they made so far.
+
+Operator
+
+The next question is coming from Mark Delaney of Goldman Sachs.
+
+Mark Delaney
+Goldman Sachs Group, Inc., Research Division
+
+For Surround ADAS, the company has already reported on some strong momentum. You spoke about the two big OEMs that have already committed and given series production awards. As you look at the opportunity set in 2026, could you give a bit more details on the number of OEMs you're engaged with for Surround ADAS and how many might be able to convert into awards this year?
+
+Amnon Shashua
+Co-Founder, CEO, President & Director
+
+So I think the important point about Surround ADAS is that this is a product that addresses a very clear pain point for customers and for OEMs, I mean, in the sense that it simplifies the system, it reduces cost, it provides advanced functionality, it meets future regulation. So it ticks most of the boxes that OEMs want to pick for the high-volume vehicle segment in the upcoming years. And therefore, we -- the first OEM that we announced with Volkswagen was kind of starting a trend that created a flywheel effect of more and more OEMs being interested. Now having announced the second design win with -- we now have 2 out of the top 6 OEMs in the planet in major markets adopting this and launching this in a few years. This has definitely created a stronger realization amongst other OEMs that this has to happen for them also, at least to some degree.
+
+We have seen an increase in the amount of engagements we have. I don't want to predict timing and quantities, but we're definitely encouraged by the increase in different engagements we have with multiple OEMs across our customer base. And we also believe that we have inherent advantages for this product category because it requires a very reliable system performance, very high safety standards, advanced functionalities like hands-free driving in primary roads and so on, but also be extremely cost efficient. And just to give you some sense, these two programs we won are going to be integrated in the -- as kind of a standard fit across the highest volume vehicle categories for these two OEMs. So every dollar counts and also the implications for the OEMs to adopt this product means how much conviction they have that they need such a product for -- it's not a balloon project in a small amount of vehicles that if it failed then nothing happened.
+
+If this project is delayed, for example, this is obviously affect the entire vehicle portfolio. So it shows about the confidence they have in Mobileye, how much conviction they have in this product and it's definitely an encouraging sign.
+
+Mark Delaney
+Goldman Sachs Group, Inc., Research Division
+
+My other question was on Mentee. Given the announcement and engagements that you've had with potential future customers and industry participants, can you help us better understand to what extent it's catalyzed additional interest in partnering with Mentee Robotics, including opportunities to have your humanoid robots in factory and commercial environments to gather data. And as you think about that 2028 commercialization target you shared at CES, how important is that data collection and gathering for hitting that time frame?
+
+Amnon Shashua
+Co-Founder, CEO, President & Director
+
+I think it's a very interesting question. We've had since 2 weeks since the announcement at CES, and we have -- I have received reach out from a significant number of customers asking about our interest and readiness to support on-site pilots and proof of concepts and kind of starting from our industrialization partners that want to contribute in manufacturing and components because they understand we do the full robot, starting from that and really trying to attract us to work with them for manufacturing and for all of our industrial partners, whether it's Tier 1s, OEMs and others that want to see how they can work with Mobileye and integrating robots into their logistics centers, warehouses, manufacturing lines, the need is definitely there. And for them, it made perfect sense.
+
+I think one of the encouraging signs that we've seen is that already at CES, we've had meetings with OEMs. And in most of these meetings, it came up as let's take a follow-up and schedule when we can actually talk about a plan to deploy this in our environment. And I think that the fact that you know Mobileye from the automotive business and they trust the standards of the company, and that they have a need for longer term, finding solutions for human labor that is becoming a bigger and bigger problem for them, especially in developed countries. This gives them an easier path to evaluate a new technology with a partner they trust as opposed to working with a start-up in humanoids that who knows what you can get from them and whether or not they can deliver. And definitely, we're leveraging these relationships. So we definitely think of this as an area to continue to develop in the next few months.
+
+Operator
+
+Our next question is coming from Chris McNally of Evercore ISI.
+
+Unknown Analyst
+
+This is [John Saager] on for Chris McNally. Amnon, you made the sandwich analogy for ADAS and AV demand, basically with high demand for Surround at the low end or Drive at the high end. If we could focus on just Drive for the time being, you guys announced VW MOIA, one of the two big partners, Marubeni and an unnamed OEM. But the forecast is for a fleet of 100,000 AVs by 2033, obviously, a bit of a ways away. So my question, can we get a sense for what the near-term demand for your Drive system might be for just like the next 2 to 3 years, '27, '28 or on Phase 1 for a growing -- on the growing list of cities?
+
+Unknown Executive
+
+Well, we announced together with MOIA 6 cities -- to expand to 6 cities in 2027, and that includes also Los Angeles, together with Uber. We have another high-volume program with HOLON that will come 6 months later, have also its expansion. As the CEO of Mentee on the stage mentioned that they foresee about 100,000 vehicles in the next 8 years. The exact numbers of the rollout will depend on the success of 2027, the deployment of the first 6 cities. But we are talking about thousands of vehicles to start.
+
+Amnon Shashua
+Co-Founder, CEO, President & Director
+
+Just to add to this, I think it may be somewhat challenging to understand what it means 100,000 because it sounds like a big number. I think what we're taking away from this, what it means is that Volkswagen have in place the manufacturing capacity to produce as many vehicles as needed. 100,000, if we're successful in 2026 and '27 and then in '28, which we have high confidence in our chances, means that 100,000 can also be a small number in hindsight. The manufacturing capacity they have and the funding they've put into this in the past few years to build everything needed to produce robotaxis in scale, eventually it's Volkswagen. So they can produce 10,000 per year, 50,000 per year, 75,000 per year when the demand will be there. And the demand from mobility operators, P&C, municipality is far greater than tens of thousands per year globally.
+
+Once the technology gets to this maturity level and allows quick economic and geographic expansion, which we believe we have clear advantages in, then the numbers will -- the demand will not be our problem, I think. And we have a partner that can scale and give the supply at the best extent possible.
+
+Unknown Analyst
+
+Understood. And just how do we think about like the volume for a Phase 1 launch? Should that be like 1,000 to like 1,500 like Waymo in San Francisco?
+
+Amnon Shashua
+Co-Founder, CEO, President & Director
+
+You can think of it as a few hundreds of vehicles per city as a good testing, as a good measuring stick. Just also seeing how Waymo roll out, that's roughly the numbers they've had in some cities, it's 200, some cities closer to 500. That's a sufficient number to kind of facilitate for the mobility demand in that city and also to build a meaningful business. And that's also roughly what we're planning.
+
+Unknown Analyst
+
+And just one last follow-up. Do the AV customers pay for anything before the purchase of the $45,000 Drive content like R&D in advance? Or do you get any protection if their volumes are less than planned?
+
+Amnon Shashua
+Co-Founder, CEO, President & Director
+
+Without going into the details of our contracts, we are receiving -- we're delivering samples and engineering samples throughout the year, and there is an engineering budget that covers the direct engineering costs and development costs. So there is definitely a good amount of investment well before the commercialization. So I think when we have high confidence in our chances of getting to driverless, I think we're not that concerned about the downside potential.
+
+Operator
+
+The next question is coming from Joseph Spak of UBS.
+
+Joseph Spak
+UBS Investment Bank, Research Division
+
+Just to maybe talk about a couple of more near-term things. Obviously, memory has become a larger issue and concern in the automotive industry. And I know or I believe you don't really buy a lot of that memory directly. But clearly, it is used in the modules at your Tier 1 customers to assemble to sort of ship on to the OEMs. So I'm just curious what you're hearing from your customers and the supply chain as to whether this is really a pricing issue? Is it an availability issue? Is there any sort of volume risk embedded in your outlook? And because if it's -- even if it's a pricing issue, I guess, do you see any risk of decontenting?
+
+Amnon Shashua
+Co-Founder, CEO, President & Director
+
+So as you said, Joe, we're not -- let's say, the exposure that we have is not direct because we're not purchasing a lot of these units. It's mostly indirect through the fact that our Tier 1 customers are purchasing memory components. What we've been doing in the past few months, and we have been actively working on this, I think, well before it was a public knowledge that this dynamic is developing is to create kind of maximizing our supply of these components and working with multiple vendors to ensure that we have enough flexibility to kind of mitigate the direct cost impact from specific vendors and that we will be able to ensure that vehicle manufacturing will not be impacted by these fluctuations.
+
+And we haven't -- I think that like we did last year, our forecast for this year is maybe opting for the conservative side. You can see the difference between Q1 and other quarters. It does bake in some level of understanding that there is some volatility in the industry, so we wanted to be on the more conservative side. But we haven't seen any, let's say, direct evidence or indication that there is an imminent change to volumes as a consequence. But we will keep close monitoring on this as it develops, and we're doing everything in our power with our Tier 1 partners to create the availability of these components.
+
+Joseph Spak
+UBS Investment Bank, Research Division
+
+Second question, just on -- you mentioned some of the appreciation of the shekel. And I know you give very helpful exposure in your 10-Qs on what a change in that currency can do to your cost base. But I believe also like at this time a year ago or earlier in '25, you made a comment on one of the calls about how a lot of the costs on the shekel were hedged. So did something change with the hedging strategy? Like maybe you could just sort of update us on sort of why it's a little bit maybe more of an issue now than you thought a year ago?
+
+Moran Rojansky
+Chief Financial Officer
+
+Yes. So I will start with 2025. So we have a hedging plan that basically caused that we can meet our OpEx expectation for 2025. So for example, for the second half of 2025, the rate that we had in our financials was like 5% or 6% favorable than the average market rate. So -- and these are transactions that we made in the beginning of 2025. But as the appreciation of the shekel continues into 2026, and we're talking about, I think, 10% or 12% in the last year, we still have hedging in place for 2026. So we are more than 50% hedged on our payroll expenses at a favorable rate. But the risk is obviously heavier as deterioration gets bigger. But we've took it into account in our guidance. So we took into account some further hedging, but it will be at a less favorable rate, the fact that we are already more than 50% hedged. I think we're in a good place in terms of the rate, but it's still the year-on-year impact because it's a significant impact, it's worth mentioning.
+
+Operator
+
+The next question is coming from Aaron Rakers of Wells Fargo.
+
+Aaron Rakers
+Wells Fargo Securities, LLC, Research Division
+
+I want to kind of double-click on the Porsche and VW and the Audi kind of programs. I'm curious as you kind of thought about your guidance for this year, I think the initial expectation was maybe early volumes on Porsche late this year. Just give me an update on where we stand on some of those programs and how we should think about volumes, appreciating that I think 2026 in the past has been more characterized as an execution year.
+
+Amnon Shashua
+Co-Founder, CEO, President & Director
+
+2026 is an execution year. The supervision on Porsche and Audi should start Q1 next year, Q1 2027. There was some pushback of deadlines unrelated to us that pushed the SOP to the first quarter of 2027. Something [indiscernible]?
+
+Unknown Executive
+
+And just to say that it didn't really change the plans of the project. It's just a 1-month change between December 26 to February 27. So it's not really material. And we think, made clear in previous calls as well that we do not expect meaningful volumes from these programs in 2026.
+
+Aaron Rakers
+Wells Fargo Securities, LLC, Research Division
+
+Right. I appreciate that. And then as a quick follow-up, in the prepared comments, you talked about inventory levels at your customers, your major OEMs being fairly lean. I know you've guided 10 million EyeQ units this quarter. I'm just curious, can you kind of go a little bit deeper on what you're seeing as far as the inventory levels your customers are holding? And do you expect any replenishment when you gave the unit expectations for this year? Or is it more lean inventories continue? I'm just curious how you kind of bake that into your guidance.
+
+Moran Rojansky
+Chief Financial Officer
+
+Yes. So I think for what we're seeing, and I mentioned it also in the remarks, we are seeing increased demand in terms of order flow. So 2025 ended higher than expectation. 2026 is constantly increasing in terms of production. But what happened specifically in Q4 was also that the orders were relatively low in the first place as December is a slow month in ordering, it's a short month with holidays, et cetera. So it was low and then production level came up even higher. So it basically means that we believe the inventory levels at our customers are not reaching their inventory target at the end of 2025. So they are tighter than usual. And it has some impact on Q1. But again, we're also seeing very good demand. 2026 production levels are going up. But yes, Q1 does have some impact of Q4 low volume combined with heavier or bigger demand.
+
+Operator
+
+The next question is coming from Edison Yu of Deutsche Bank.
+
+Xin Yu
+Deutsche Bank AG, Research Division
+
+I want to follow up on Mentee. Can you give us a sense of what are the next steps with some of these customers you're talking with? I know you mentioned proof of concept. Are you going to basically ship maybe a few units? And then if that turns out well, you'll ship 30, 40 and then much more? How do we think about that -- those kind of next steps to commercialization?
+
+Amnon Shashua
+Co-Founder, CEO, President & Director
+
+I believe that 2026 is going to be maybe high tens of units in terms of POC. 2027 should be more and 2028 should be even further. 2027, we go also into production with the production partner. So 2026 is tens of units. What we would like also is to have in addition to the POCs also to produce more units for the sake of Mobileye to start experimenting with robots, not only [maintaining] themselves. But again, it's going to be a high double-digit number of robots in 2026.
+
+Unknown Executive
+
+And maybe just to add, from the viewpoint of the customers in these pilots, the purpose is to start with a smaller amount of robots that perform specific tasks that they're kind of outlining and you just go to the logistics center, for example, and there is a few shelves with boxes and human beings today are moving boxes according to their instructions and so forth. And basically, they want to see how robots can perform over a certain period of time, what's the precision, reliability, durability, maintenance and so on and gradually afterwards, expand this to more and more tasks and in larger volumes.
+
+We are talking about companies that employ tens of thousands of employees today in these types of positions. So I think it's, again, going to be a question of supply. And that's why it's so important to have a manufacturing partner, as Amnon said, that already in '27 is able to produce robots in a serious production manner, which is important both for costs and also for scale, for volume.
+
+Xin Yu
+Deutsche Bank AG, Research Division
+
+Understood. Appreciate the color. A follow-up on robotaxi. Obviously, there's a lot of excitement coming out of CES. Has your view on owning more of the, should we say, ecosystem changed at all? And I ask this in the context of -- you obviously have a lot of parties involved. Could that kind of hinder the speed of deployment or some of the logistical aspects? And obviously, it would require capital, but I think that's not that big of an issue anymore.
+
+Amnon Shashua
+Co-Founder, CEO, President & Director
+
+I think the current arrangement we have with Volkswagen and MOIA is really optimized for speed of the -- for volume of deployment. So going right now more vertically integrated is not going to increase the volume of deployment. This is something perhaps to be considered towards the end of the decade or further than that. I think what we have in place is really optimal to where Mobileye is at. Mobileye will be producing the self-driving system as a Tier 1, taking responsibility not only for the electronics, but also for the sensors, of course, the software stack and all the validation. And the revenue per vehicle plus the recurring revenue per mile is very, very attractive. The focus is execution now.
+
+Operator
+
+The next question is coming from Tom Narayan of RBC Capital Markets.
+
+Gautam Narayan
+RBC Capital Markets, Research Division
+
+The first one I have is on the '26, I guess, adjusted operating expenses. I think you guys said it's up $100 million. And I know that FX was mentioned, some other issues, but then the one that I'm wondering if that's the biggest piece of it is the Mentee R&D or maybe consolidating Mentee if it's operating at a loss. Just curious how we should think about that OpEx going higher. What's really the biggest driver of that? And I've got a follow-up.
+
+Moran Rojansky
+Chief Financial Officer
+
+Yes. Okay. So I think I've mentioned that we have incorporated Mentee R&D into our guidance. So the guidance includes in terms of operating expenses, mainly 5% of regular inflation enhancement or comp and then. And the additional portion is Mentee R&D. So these are the significant two items. I also mentioned we have also a headwind from the FX rate, but that is mostly offset by the efficiencies initiatives we did in Q4. So I hope that answers your question.
+
+Daniel Galves
+Chief Communications Officer
+
+Yes. Just to follow up. I mean, I think that's pretty clear. But just to follow up, like we do expect to have normal OpEx inflation per year of around 5%. This relates to salary and benefit inflation as well as kind of additional infrastructure to support the AV activities and the advanced product activities. That's normal. On top of that this year, we are assuming consolidation of the Mentee R&D expenses. We talked about that as somewhere in the lower single digits, but probably think towards 4% type of thing. And additionally, we do have this FX headwind, which is mostly offset by the workforce initiative we did in the fourth quarter, but not completely. So that should give you a decent walk from 2025 to 2026.
+
+Amnon Shashua
+Co-Founder, CEO, President & Director
+
+Yes. I think you described it quite accurately, right? But take into account that also growing in terms of being a Tier 1 in a Tier 1 position with our programs with Porsche and Audi and Drive. And sometimes you need to make adjustments in terms of increasing headcount. Again, this is nonmaterial compared to the overall OpEx of -- but it adds a few percentage. So take the walk-through that you mentioned, what was quite accurate and accurate few percentage of growth that we need to account for when we are taking a Tier 1 position and investing heavily into the future. So 2 years ago, we calculated our OpEx growth, but we cannot be precise to the single percent in an area which is experiencing the rapid growth.
+
+Gautam Narayan
+RBC Capital Markets, Research Division
+
+Got it. And for a follow-up on Mentee, and this -- I know this is very early to ask this question. But I mean, look, we're seeing the market's reaction to the potential news out of -- from Hyundai with Boston Dynamics and the credit that Hyundai is getting. Is this something you guys might think about in maybe the distant future, I don't know about trying to crystallize the value. Right now, there's so much appetite for the capital market certainly. Is this something you could consider monetizing Mentee in some way? Or do you believe that together as a combined entity that's how you kind of view the business?
+
+Amnon Shashua
+Co-Founder, CEO, President & Director
+
+I think that the market is taking some time to internalize the news of the acquisition or the news of Mobileye entering into humanoids. I do believe that in some near future, this would create a dividend, the like of what's happened between Hyundai and Boston Dynamics. Mentee has all the potential to make big steps forward, has demonstrated quite a mature technology as the clips that I have shown and the clips that they have on their website. And together with Mobileye, they can make rapid steps forward. Now whether we are going to see this dividend in a month or whether we're going to see this in a year, I don't know, but it has the potential to catalyze the same benefits that Hyundai is receiving from Boston Dynamics.
+
+Operator
+
+The next question is coming from Colin Rusch of Oppenheimer.
+
+Colin Rusch
+Oppenheimer & Co. Inc., Research Division
+
+Can you talk a little bit about the near-term pricing dynamics on EyeQ? Just curious how much movement there really is as you see some of these larger volumes move through in the first part of the year and how we should think about that trending into the balance?
+
+Unknown Executive
+
+So maybe if you refer to the EyeQ prices, but just to make sure... Volume or prices? I didn't get the question.
+
+Colin Rusch
+Oppenheimer & Co. Inc., Research Division
+
+I'm concerned about pricing as you ship a higher volume here and then how that the pricing trends through the balance of the year as you normalize out?
+
+Unknown Executive
+
+Yes. So the pricing is -- every year is affected by the mix of EyeQ's. And as you know, the EyeQs have different generations with different software features and software packages. And this has somewhat of a different price. But overall, on average, there is no, let's say, meaningful change in the prices. There is a different mix this year compared to last year, as Moran said in her remarks, where we see higher volumes of EyeQ5-based ADAS products and EyeQ5 has somewhat of a higher cost, but still it's advanced products with meaningful volumes this year compared to last year. So this does have some impact, but it's all natural mix [indiscernible]
+
+Moran Rojansky
+Chief Financial Officer
+
+And also the second chip that I mentioned. The second chip that I mentioned combined -- the fact that the second chip is at a lower price than the first one, so it's higher gross profit per vehicle, but lower ASP. I think that the combined natural mix that Nimrod had mentioned and the second chip is approximately like $0.80 or so year-on-year.
+
+Amnon Shashua
+Co-Founder, CEO, President & Director
+
+Yes. But just to clarify, the second chip or the car has two EyeQ4 chips, this is a one-off. It's not that we see a trend having two EyeQ chips in the car with one of the EyeQ chips is at a discounted price. This is what we call a bridge. This is a bridge towards EyeQ6 and EyeQ6 Lite. The carmaker wanted to meet certain regulatory environments that EyeQ4 alone could not meet. Therefore, second EyeQ4 was added. But again, this is a one-off. We don't expect it to be a trend.
+
+Colin Rusch
+Oppenheimer & Co. Inc., Research Division
+
+Perfect. And as you think about doing the Driver Out demonstration here later this year, can you talk about the regulatory process and any bottlenecks or hurdles that are still remaining here, things that are of concern that you guys are focused on getting ready to do that demonstration?
+
+Amnon Shashua
+Co-Founder, CEO, President & Director
+
+Well, in the U.S., it's a self-certification. We have stringent KPIs in terms of Mean Time Between Failure that we are meeting towards going driverless. Outside of the U.S., there is homologation. And as we mentioned together with Volkswagen homologation will occur in 2027 outside of the U.S.
+
+Colin Rusch
+Oppenheimer & Co. Inc., Research Division
+
+But nothing on a regional basis or a city basis that you guys are concerned about?
+
+Amnon Shashua
+Co-Founder, CEO, President & Director
+
+No, we don't see. And actually, the homologation in Europe will have a stronger tailwind given that the vehicles are produced by Volkswagen, Level 4 vehicles and our cooperation together with ADMT and MOIA and Volkswagen will allow us to go through the homologation in a much easier way than if we were doing it alone.
+
+Unknown Executive
+
+And this is a significant entry barrier to the European market as it involves a lot of activities and the direct engagements with regulatory bodies that we are already doing with Volkswagen. So getting this approval in '27, as Amnon mentioned, will also separate us in the European market from others.
+
+Daniel Galves
+Chief Communications Officer
+
+Yes, it's an important point. And just to clarify on the timing of homologation, we're saying that it will be completed in 2027 and start in 2026. And the 6 cities commercialized in 2027 that Volkswagen talked about includes some European cities, which is going to require the homologation process to be completed.
+
+Operator
+
+[Operator Instructions] Our next question is coming from Joshua Buchalter of TD Cowen.
+
+Joshua Buchalter
+TD Cowen, Research Division
+
+I guess to start, you highlighted the potential for conversions o Surround ADAS this year, but you haven't made the same comments about SuperVision and Chauffeur. Are -- maybe you can provide an update there. Are you guys deemphasizing that in your go-to-market and conversations with customers? And then for my follow-up, that's on a completely unrelated topic. Amnon, you've touched on this in the CES presentation, but I was hoping you could provide some more details about specifically how your EyeQ road map is going to accelerate Mentee's time to market? And perhaps as important, how much software development is needed to move further into robotics, given EyeQ is designed specifically for autos?
+
+Unknown Executive
+
+So we have multiple engagements also on SuperVision Chauffeur, so there's definitely an active engagement there with the market. Just to put things in perspective, our relationship with Volkswagen Group with the different brands on these products started maybe in 2021. And it took us a couple of years to kind of cross all the items that is needed. And we are also focused now on opportunities that have a meaningful business potential as opposed to smaller scientific projects that some OEMs are trying to explore, maybe in some cases, it's in-house development that they're doing and they want to allocate one car in the future and see if it works.
+
+We're trying to focus on opportunities that present significant volumes, multiple vehicle models with concrete time lines so that we can scale the products. We are not looking for the first opportunity. We want to kind of scale, and we have several of those. I don't want to predict timing, but we are encouraged by the activity there.
+
+Amnon Shashua
+Co-Founder, CEO, President & Director
+
+Regarding the Mentee, we feel that it's too early to talk about EyeQ chips on humanoid robots. We think this is a longer term -- this is a longer horizon issue. Currently, the robots are based on NVIDIA's chips, and we see that we are very proud of that relationship, and we see that going on for the near -- for the foreseeable future. Now when we go into really high-volume production where every cent counts, then I think EyeQ8, EyeQ9 could be quite relevant, but it's not in the foreseeable future.
+
+Operator
+
+We're showing time for one final questioner. Our last question is coming from Samik Chatterjee of JPMorgan.
+
+Unknown Analyst
+
+This is [indiscernible] on for Samik Chatterjee. My first one would be like since you said that Porsche and Audi programs are now pushed out to 1Q '27, will Drive or robotaxi be the biggest swing factor for 2026 revenues? And on that itself, like any updated thoughts on the monetization for Drive in terms of upfront revenues versus recurring consumption-based revenues?
+
+And, for my follow-up, I wanted to ask on the second Surround ADAS customer. You said that you -- there could be a potential decision for the second architecture with this customer in 1Q. If that happens, like will that potentially double your pipeline with that customer? That's it.
+
+Daniel Galves
+Chief Communications Officer
+
+[indiscernible], the answer to your first question is that there -- we did not expect any meaningful impact from the advanced products in 2026. We've been saying that for the last several quarters, so there's no change related to what you talked about.
+
+And we did not account for Drive revenue in 2026 guidance. So there is no -- it's not in the guidance.
+
+Regarding the second question on the second design win for Surround ADAS, so the discussions are obviously ongoing, and we are making good progress. And again, I don't want to go into predicting time, but we continue to work on this and it's progressing.
+
+Operator
+
+Thank you. At this time, I would like to turn the floor back over to Mr. Galves for closing comments.
+
+Daniel Galves
+Chief Communications Officer
+
+Thanks, everyone, for tuning into our earnings call, and we'll talk to you next quarter. Thank you very much.
+
+Operator
+
+Ladies and gentlemen, thank you for your participation. This concludes today's event. You may disconnect your lines or log off the webcast at this time, and enjoy the rest of your day.

@@ -1,0 +1,142 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] The first question comes from Tim Switzer with KBW.
+
+Timothy Switzer
+Keefe, Bruyette, & Woods, Inc., Research Division
+
+The first 1 I have is on the NIM trajectory. A lot of moving parts this quarter, which makes sense. And I think you guys did a good job of laying it out. But if we think about the adjusted NIM, what is the right way to think about the jumping off point for Q2? And then how do we think about the trajectory over the course of the year within your guide, assuming no rate cuts?
+
+Gregory Sigrist
+Executive VP & CFO
+
+Yes. Let me give you a couple of data points first, Tim, that might help frame the conversation. I think what's given it a bit harder to look at this quarter is obviously, the gross uptick we've had on the consumer loans, which are part of that calc, even though they offset someplace else. So if you strip out all of the impact of the net income -- net interest income related to the gross HFI consumer loans, you would have had an adjusted NIM of 5.11% a year ago. Last quarter would have been 5.31%, and this quarter would have been 5.49%. So you can tell, both linked quarter and prior year where the trajectory has been up. As it relates to just interest rate sensitivity in the portfolio, though, the story remains the same, candidly. Every incremental 25 basis point overnight rate cut continues to have a very de minimis impact on us. We are still very sensitive to the middle part of the curve, which means that with the steepening we've seen over the last 4 to 6 weeks and just where the outlook is, the forward curve is on the middle part of the curve. I think that 5.31% is the launch point for the second quarter. And again, as long as the macroeconomic environment stays muted and middle part of the curve is elevated. We still have some tailwinds. So I think we're flat to up from that point.
+
+Timothy Switzer
+Keefe, Bruyette, & Woods, Inc., Research Division
+
+Okay. Got it. Very helpful. And I appreciate all the color you provided on the credit outlook and the charge-offs. Are you able to quantify what that recovery was that you recorded this quarter within net charge-offs?
+
+Gregory Sigrist
+Executive VP & CFO
+
+No, I think you'll see the chart in the earnings release. It just has more of the aggregate number. So it's within that roll forward on the ACL, Tim.
+
+Timothy Switzer
+Keefe, Bruyette, & Woods, Inc., Research Division
+
+Got you. Okay. And then another question I had, maybe a little more philosophical, but there's been a lot of discussion lately about fintechs wanting to obtain their own bank charters. I think there is a few more -- or not fintech, there are ILCs announced earlier today. And most of the discussions about in the [ BaaS ] world has been, how it could be a threat with partners no longer needing a bank sponsor. So could you respond to that? And could you also maybe outline how there might be some opportunities here, if any?
+
+Brett Pharr
+CEO & Director
+
+Yes. So this is Brett. So I think the way you think about this is, yes, we're in a clearly a more relaxed regulatory environment as it relates to getting these charters on. It takes a lot of time to build the scale, to be able to do the kinds of things that we do, even if you've got a lot of dollars behind you. And so yes, there will be some of the happening. But I think sort of the history longer term has been people that have bought bank charters have often given them back because they realized what they had. Now that's not going to happen under current administration, but it will happen under other administrations as we look forward. We have some partners that have gotten those and then came to us and did additional transactions with us and talked about more because there's very narrow things they can do within those charters, and we can do a whole lot more. Don't forget, we have a multi-threaded approach with our partners, and that is to offer many different kinds of products. And some of these charters are not really going to allow that to happen. So a, not seeing it; b, I think it's going to be a long time before it creates any competitive pressure. And I also think these things go in cycles. And so just think about it through the cycle is the way we should think about this kind of competition.
+
+Timothy Switzer
+Keefe, Bruyette, & Woods, Inc., Research Division
+
+Got it. Yes, that all makes sense. And sort of related to this, some of the fintechs going to obtain more often the custody charter are stablecoin or other digital asset companies. And Brett, you gave a great overview of the business earlier and you talked about some of the opportunities. I don't think you mentioned digital assets at all. Is that an area you guys want to play in? And what kind of role do you think part Pathward can play?
+
+Brett Pharr
+CEO & Director
+
+Yes. So there's all kinds of things that we can do. We're already doing some things in the crypto space in terms of onboarding and offboarding the fiat currency, et cetera. To be clear, we don't hold any of those digital assets today. But we're looking at all those things. And my sort of personal view is that this is first a B2B use case and there's a lot of cool things there. And we're talking to partners and other material players about ways we can play in that space. My view right now is it will be an additional rail among many rails and we'll continue to work on that. And as our partners pull forward and as use cases come forward, we'll engage in it because it's definitely part of the future.
+
+Operator
+
+Our next question comes from Joe Yanchunis with Raymond James.
+
+Joseph Yanchunis
+Raymond James & Associates, Inc., Research Division
+
+SO in your prepared remarks, you talked about a lot of the new partner announcements in 2025, and it looks like they're really just started to impact the P&L. And I was wondering if you could unpack the amount of kind of embedded growth from this cohort of partners that hasn't yet shown up in your financials.
+
+Gregory Sigrist
+Executive VP & CFO
+
+Yes. I mean I'd be happy to. As you recall from last quarter, I mean, these kind of span the gamut from merchant acquiring, might have been an issuing [ deal or two ] in there, and one up in the credit solution space. And each of those has a different path to time to revenue. And we're obviously onboarding all the entire cohort as rapidly as we can. And then each of those programs need to build, right? But once each of those programs is launched and live, I would expect contribution to a full 12-month run rate on the card fee line to be somewhere in the middle to high single digits, and that's just based on those programs. And I think as we talked about last quarter, we are still actively working on multi-threaded approaches with many of those that we've announced, too. So that cohort alone, again, mid- to high single digits and we're seeing what we -- how we can scale from there.
+
+Brett Pharr
+CEO & Director
+
+Yes. And Joe, this is Brett. I mean we're getting very enthusiastic about the pull-through on these partners and others were talking both existing and future. We went through a period of time where there was some crazy pricing and structures in this particular industry, and we chose to abstain. But that's long been washed out, and these things are picking up. And we've often said to you, it takes a little time for the programs to build. This quarter, you're seeing it. And we're -- there's a reason we're saying what we're saying about guidance. We're seeing it happen. And we'll continue to think about that through the rest of the year as we go on. This is an upbeat time for us, and that's why we're thinking about these partners and others who are talking about.
+
+Joseph Yanchunis
+Raymond James & Associates, Inc., Research Division
+
+Perfect. And I'm going to get to your updated guidance in a moment. I just kind of wanted to pick up something you just said there. So you just talked about the washout of the irrational pricing and you're starting to see some normalization from partners. What does your current partner pipeline look like today? And should we expect a similar number of announcements in the calendar year or fiscal year ahead?
+
+Brett Pharr
+CEO & Director
+
+I mean, the part -- your first part of your question is easy to answer. The pipeline has never been more full. We're very excited about it, et cetera. You don't know until they're done, right? So as we can and we kind of publicly agree to talk about it publicly, we will let you know about those things. But this is -- I mean, these kinds of things are only increasing, not decreasing. And there's been a lot of sense that has been brought into this marketplace. So we're going to get lots of swings at it, and we're winning some of those swings and we're going to keep going. So pipeline is as big as it's ever been.
+
+Joseph Yanchunis
+Raymond James & Associates, Inc., Research Division
+
+That's great to hear. And then kind of going back to your guide, so you raised the midpoint by a pretty substantial amount. Can you help us think of the puts and takes in relation to the updated outlook? And what would need to happen for you to reach the top end versus the bottom end of the new ranges?
+
+Brett Pharr
+CEO & Director
+
+I think part of it is we've talked about these new partners that have come on, and we're seeing the benefits. But as you begin working with a new partner, you kind of learn what's the trajectory. You have sort of a funnel of opportunity and some get to the higher end of it, some get to the lower. We are now confident on that funnel to do what we did. And so as we go through the course of the year, and we continue to monitor those new partners coming on and feel solid that it's actually going to happen is not just a hope. We'll continue to talk about where we are in that funnel.
+
+Gregory Sigrist
+Executive VP & CFO
+
+Yes. And I think the other thing is tax season too, right? I mean as we think about our guide, we clearly think to a multitude of different scenarios across our businesses. And I think Brett kicked through some of the positives on the tax business heading into tax season here and we're really enthusiastic about it. But I agree with Brett. I mean the 2 factors that are going to push us to the higher end of that guide. One is the timing on just the pull-through on those partners we talked about, the ones we've already announced. The other is going to be the success of the tax season. We're really enthusiastic about it. But until you get into tax season, you start to see the numbers, you've got to temper expectations a little bit, but we're really, really enthusiastic heading into it.
+
+Brett Pharr
+CEO & Director
+
+Yes. One other thing, don't miss the secondary market income topic this time, the government shutdown slowed us down a little bit. I think this was in Greg's comments, and we expect that to come right back through because that was a temporary thing. And so we have that to look forward to as well, and that's part of what we're seeing.
+
+Gregory Sigrist
+Executive VP & CFO
+
+Yes.
+
+Joseph Yanchunis
+Raymond James & Associates, Inc., Research Division
+
+So it sounds like the 2 biggest swing factors are somewhat out of your control, depending on partner ramp and the volume that goes through the tax offices. Is that fair to say?
+
+Brett Pharr
+CEO & Director
+
+Yes. I mean I think out of our control would be more like there's a range of possibilities, and we'll continue to manage those and hope for the upper side of it. But you don't know until you know. And what we don't want to do is overcommit.
+
+Joseph Yanchunis
+Raymond James & Associates, Inc., Research Division
+
+That's fair. And then just kind of one last one for me here. So new loan originations increased pretty meaningfully in the quarter. I understand part of that was due to some of the new relationships on the consumer side? Do you have a sense for what new originations will look like in [ 2016 ]? And should we expect kind of held for sale balances to increase in tandem with that? Or with the velocity kind of coming through the balance sheet increase just to kind of mitigate that upward movement?
+
+Gregory Sigrist
+Executive VP & CFO
+
+Let's unpack that a little bit. I mean, in the quarter, we certainly saw the uptick on the consumer side. And as you know, those are, by and large, largely held for sale at this point and turn pretty quick. I'm optimistic that as the existing partners ramp and scale that, that volume is going to continue to certainly on a year-over-year basis, scale versus where it was. And I think scale from what we're seeing in this quarter. So again, that's all balance sheet velocity and that will largely come through as a fee income. There's -- some of those programs do have interest income as part of them, but the majority of the economics come through is on the fee side. We haven't touched it on the commercial finance side. They also had a really good quarter on the production side. And when I think about the balance of the year, that's also a pipeline that's really full, particularly when you think across USDA, SBA, working capital, and with the balance sheet optimization work that we've been doing, for those 3 verticals, in particular, particularly USDA, it's about optionality. So I think we're really enthusiastic about that pipeline, too, and the optionality it provides us either to continue to hold on balance sheet or as we see fit kind of sell into the market and drive some secondary market revenues. But over the balance of the year, I would actually expect commercial finance to start generating numbers that are meaningful enough that we're going to start talking about them.
+
+Joseph Yanchunis
+Raymond James & Associates, Inc., Research Division
+
+I appreciate that. And then just actually one more for me on credit. I understand that you went over in your prepared remarks, NPAs, NPL ratios ticked up, NCOs are basically 0. Is there anything that you currently see in the portfolio that you find incrementally different versus 3 months ago?
+
+Brett Pharr
+CEO & Director
+
+No. I mean, again, these things that we have that are nonperforming loans are in various different sub-asset classes. There's no pattern system or anything like that. And we're serious about our conversation that our historical past and our belief is, there's not going to be a relationship between NCOs and nonperforming loans because we do a different kind of lending that is very much collateral managed. So I -- there's nothing in there systematic.
+
+Operator
+
+[Operator Instructions] There are no more questions remaining at this time. I'll pass it back over to the team for closing remarks.
+
+Brett Pharr
+CEO & Director
+
+All right. Well, thank you very much for joining today. Have a good evening.
+
+Operator
+
+This concludes today's conference call. Thank you for your participation. You may now disconnect your lines.
