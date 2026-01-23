@@ -1,0 +1,64 @@
+[ 어닝콜 요약 ]
+
+매출 +5.3% YoY ($94.2B)
+- 혁신 의약품과 메드테크 전 부문에서 고른 성장, STELARA 특허만료 영향에도 불구하고 견조한 실적
+- 인수합병과 신제품 출시가 성장 견인, 미국 내 6.9%, 해외 3.4% 성장
+
+Sales by segment
+1) Innovative Medicine $60B+ (YoY +5.3%)
+   - 13개 브랜드 두 자릿수 성장, 51건 승인 및 32건 제출, 17건 주요 임상 긍정적 결과
+   - Oncology 21% 성장, DARZALEX 22% 성장, CARVYKTI 63% 성장, TECVAYLI 및 TALVEY도 강세
+   - Immunology TREMFYA 65% 성장, STELARA 48.6% 감소(바이오시밀러 경쟁 및 Part D 영향)
+   - Neuroscience 10% 성장, SPRAVATO 67.8% 성장, CAPLYTA 신규 인수 후 $249M 매출
+
+2) MedTech $34B (YoY +5.4%)
+   - Cardiovascular 15% 성장, Abiomed 18.3%, Shockwave 22.9% 성장
+   - Surgery 3.7% 성장, 신제품 출시 및 로보틱스·디지털 기술 확대
+   - Vision 5.3% 성장, ACUVUE OASYS MAX 및 TECNIS Odyssey IOL 강세
+
+GPM  (구체적 수치 미공개, 코멘트 기반)
++ 제품 믹스 개선 및 프로모션 효율화
+- Innovative Medicine 내 불리한 제품 믹스, MedTech 관세 영향
+
+OPM  (구체적 수치 미공개, 코멘트 기반)
++ 관리비 절감 및 R&D 비용 타이밍 조절
+- 관세 비용 증가, 소송 비용 및 일부 비경상 비용 영향
+
+
+[ 가이던스 요약 ]
+
+Guidance FY2026 (updated)
+- Revenue growth 5.7%~6.7% (중간값 6.2%) vs. 기존 가이던스 없음 [신규 제시]
+- Gross margin 구체적 수치 미공개, 운영 효율화로 개선 예상 [유지 내지 소폭 개선]
+- Operating margin 조정 전 영업이익률 최소 50bps 개선 예상 vs. 기존 없음 [신규 제시]
+- EPS $11.28-$11.48 vs. 기존 없음 [신규 제시]
+- Free cash flow 약 $21B 예상 (2025년 대비 증가)
+
+주요 변화
+- STELARA 바이오시밀러 영향 가속화, SIMPONI 및 OPSUMIT 제네릭 영향 반영
+- 53주차 효과 및 관세 증가 반영, 미국 정부와의 자발적 약가 인하 합의 포함
+- 신제품 출시 가속 및 수술 부문 혁신 가속화, 중국 내 추가 볼륨 기반 조달 반영
+
+
+[ Comments 요약 ]
+
+[혁신 의약품 성장 및 파이프라인]
+① 2025년 51건 승인, 32건 제출, 17건 주요 임상 긍정적 결과로 혁신 의약품 포트폴리오 강화
+② Oncology에서 DARZALEX, CARVYKTI, TECVAYLI 등 핵심 제품이 두 자릿수 이상 성장 주도
+③ Immunology TREMFYA는 빠른 성장세 지속, ICOTYDE 등 차세대 치료제 출시 기대
+④ Neuroscience CAPLYTA 인수 후 빠른 시장 확대, SPRAVATO 강한 수요 유지
+
+[메드테크 혁신 및 시장 확대]
+① Cardiovascular 부문에서 Abiomed, Shockwave 등 고성장 지속, 전기생리학 분야 리더십 강화
+② Surgery 부문 로보틱스 및 디지털 기술 혁신 가속, MONARCH 플랫폼과 OTTAVA 시스템 출시 준비
+③ Vision 부문 프리미엄 콘택트렌즈 및 인공수정체 신제품 출시로 시장 점유율 확대
+
+[재무 건전성 및 자본 배분]
+① 2025년 약 $20B 현금 보유, $48B 부채로 순부채 약 $28B, 자유현금흐름 $19.7B 유지
+② 2026년 자유현금흐름 $21B 목표, 견조한 현금 창출력 바탕으로 미래 투자 및 주주환원 지속
+③ 정형외과 사업 분할 작업 중이며 2027년 중반 분할 목표로 진행 중
+
+[시장 리스크 및 비용 관리]
+① STELARA 바이오시밀러 및 SIMPONI, OPSUMIT 제네릭 영향 반영, 미국 정부 약가 인하 합의 포함
+② 관세 비용 증가 및 소송 비용 영향 있으나 운영 효율화와 비용 관리로 수익성 개선 기대
+③ 53주차 효과로 2026년 4분기 매출 성장 가속 예상
