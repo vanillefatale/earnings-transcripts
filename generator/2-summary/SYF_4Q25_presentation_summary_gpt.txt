@@ -1,0 +1,66 @@
+[ 어닝콜 요약 ]
+
+매출 flat YoY (Net revenue $3.8B)
+- Purchase volume $49B (+3% YoY), 디지털 플랫폼 +6% 성장, 파트너 확장 및 제품 강화가 주요 성장 동력
+- Dual 및 co-branded 카드 매출 16% 증가, 비파트너 discretionary spend 증가, 평균 거래 가치 및 빈도 모두 상승
+
+Sales by segment
+1) Diversified & Value purchase volume +4%
+   - 파트너 확장 효과 중심 성장
+2) Health & Wellness purchase volume +4%
+   - Pet & Audiology 성장, Cosmetic 부문 감소 상쇄
+3) Lifestyle purchase volume +3%
+   - Broad-based spend per account 증가, 평균 활성 계정 감소 일부 상쇄
+4) Home & Auto purchase volume -2%
+   - Home improvement 지출 감소 및 평균 활성 계정 감소 영향, spend per account는 강세
+
+GPM (Net interest margin) 15.83% (+82 bps)
++ Loan receivables yield 53 bps 상승 (PPPCs 영향)
++ Interest-bearing liabilities cost 51 bps 하락
++ Loan receivables 비중 증가 46 bps
+- Liquidity portfolio yield 73 bps 하락
+
+OPM (Efficiency ratio) 36.9% (+360 bps)
++ 프로그램 성과 개선에 따른 RSA 증가
++ 직원 비용 및 기술 투자 증가 (자발적 조기 퇴직 프로그램 관련 $67M 구조조정 비용 포함)
+- 구조조정 비용 제외 시 약 180 bps 상승
+
+[ 가이던스 요약 ]
+
+Guidance FY2026
+- Revenue growth mid-single digit % (신규 가이던스, 기존 대비 유지)
+- Gross margin (Net interest margin) 성장 예상 (구체 수치 미제공)
+- Operating margin (Efficiency ratio) 개선 기대 (구체 수치 미제공)
+- EPS $9.10-$9.50 vs. 기존 미제공 (신규 가이던스)
+- 기타: Portfolio net charge-off rate 5.5%-6% 목표 유지, RSAs 4.0%-4.5% 예상, loan receivables 성장 가속 예상
+
+주요 변화
+- 신규 파트너 확대, 제품 및 디지털 역량 투자 지속으로 중장기 성장 기반 강화
+- 경제 및 규제 환경 안정 가정 하에 PPPCs 효과 및 비용 효율화 기대
+- Lowe's 상업용 공동 브랜드 카드 포트폴리오 2분기 이전 예정 포함
+
+[ Comments 요약 ]
+
+전략적 파트너십 확대 코멘트
+① 2025년 25개 이상 신규 또는 갱신 파트너 확보, Bob's Discount Furniture와 독점 다년 계약 체결 예정
+② Polaris와 20년 이상 협력 관계 유지하며 맞춤형 금융 상품 제공 확대
+③ 상위 25개 파트너 중 97%가 2028년까지 갱신, 상위 5개는 2030년 이상 갱신 계약 보유
+④ 중소기업 대상 플랫폼과의 협업 확대(Weave 등), 환자 경험과 결제 간 마찰 제거 목표
+
+디지털 및 제품 혁신 코멘트
+① 디지털 플랫폼 방문자 18%, 매출 17% 증가, AI 검색 기능 Joy Hunt 도입 효과
+② 디지털 지갑 계정 및 매출 2배 이상 성장, dual/co-branded 카드 지갑 침투율 400bps 상승
+③ Pay Later 제품 6,200개 이상 가맹점에 제공, Pay Later와 revolving 제품 동시 제공 시 매출 10% 이상 증가
+④ 고객 접점 확대를 위해 제품 페이지, 검색 결과, 쇼핑 카트, 이메일 등 다양한 채널에서 금융 옵션 제공
+
+신용 및 리스크 관리 코멘트
+① 4분기 순 대손율 5.37%, 전년 대비 108bps 개선, 30+ 및 90+ 연체율도 역사적 평균 이하 유지
+② 신용 정책 및 언더라이팅 엄격한 관리로 포트폴리오 건전성 확보
+③ RSAs 4.30%로 프로그램 성과 반영하며 증가, 충당금 비율 10.06%로 안정적 수준 유지
+④ 결제율 상승(16.3%, 전년 대비 45bps 증가)에도 불구하고 대출 잔액은 일부 감소
+
+자본 및 재무 건전성 코멘트
+① CET1 12.6%, Tier 1 13.8%, 총자본비율 15.8%로 전년 대비 약 70bps 하락
+② 4분기 주주환원 $11억 (주식 환매 $9.52억, 배당 $1.06억), 2025년 총 $33억 환원
+③ 84%가 예금 기반 자금 조달, 9% 담보부 채권, 7% 무담보 채권으로 안정적 자금 구조 유지
+④ 3년 만기 담보부 공모채 $7.5억 발행, 7년 내 최저 스프레드 및 4.06% 쿠폰 달성
