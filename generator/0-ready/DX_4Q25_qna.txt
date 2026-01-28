@@ -1,0 +1,254 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions]
+
+And we'll take our first question from Doug Harter with UBS.
+
+Douglas Harter
+UBS Investment Bank, Research Division
+
+Hoping you could quantify where you see incremental investment returns today and how that compares to kind of year-end and 9/30, just given the spread tightening that we've seen.
+
+Robert Colligan
+COO, CFO & Secretary
+
+Yes, absolutely. Today, we see hedged ROEs in the mid-teens with leverage around 7x and with targeted leverage in the low 8s, we see ROEs in the mid to high teens. So as we get even more clarity on the return environment with the return of these native GSE balance sheets, there's scope for modestly higher leverage, I think, in private portfolios.
+
+Douglas Harter
+UBS Investment Bank, Research Division
+
+And I guess just how that compares to, say, 3 months ago, just given the spread tightening, just kind of want to make sure I understand how the dynamics changed.
+
+Robert Colligan
+COO, CFO & Secretary
+
+Yes. The dynamic is roughly it's -- depending on the coupon between 150 and 300 basis points tighter than it was, let's say, at the end of last quarter or the prior quarter, third quarter that is.
+
+Smriti L. Popenoe
+Co-CEO, President & Director
+
+Yes. I think the biggest difference, Doug, is that before the GSE balance sheets were announced as being active participants you did have the risk of spreads widening significantly as we saw during periods of volatility in 2022, 2023, doing the tariff tantrum last year.
+
+And what this does, it really takes a big part of that tail risk out. So yes, returns are lower, but also the ability for spreads to widen out a whole bunch because of the return on these balance sheets has also improved what I think of as the risk return profile going forward, right? The other thing that this does is once you have these native balance sheets back in business, other investors, other than ourselves, begin to reevaluate the risk reward.
+
+And if you don't have that big downside risk from spread widening, this starts to be a really compelling space, right? These are agency guaranteed assets, you're still earning double-digit returns. So it ends up being actually a pretty good investment environment.
+
+Douglas Harter
+UBS Investment Bank, Research Division
+
+If I could just push back on the risk reward. I mean, I think clearly, what you had talked about in prior past couple of calls was given the wide spreads, just how attractive the risk/reward was and clearly correct given the spread tightening you've seen. So I guess just trying to square that given the amount of return that you've kind of already generated, given the spread tightening with those comments. So just want to make sure I understand that dynamic.
+
+Smriti L. Popenoe
+Co-CEO, President & Director
+
+Yes. I mean risk rewarded by upside as well as downside right? One of the things that's been taken out of the picture here if this policy sticks and if this ends up being a situation where GSE balance sheets are here and they're here for the duration, what that does is it limits your downside risk. So the upside risk may not be as high as it was when they weren't around. But taking away downside risk is a meaningful difference in terms of your forward return profile.
+
+So yes, the -- in 2022 to 2025, you did have an unusual situation. I mean, we call that a generational opportunity, right? So you had a generational opportunity to generate outsized returns. And with the return of these balance sheets, what happens is that your downside is much less than it was in the last 3 years. And that's when I say risk reward, it's really the risk goes down relative to the reward.
+
+Robert Colligan
+COO, CFO & Secretary
+
+I'll just add to that, Doug. It's all about scenario planning. We are constantly planning for a range of scenarios, especially when it comes to the risk profile of the portfolio. And since the announcement that it's very clear that this administration is deeply concerned about mortgage spreads we have to talk about it as a team and say, look, the probability of going to that wide spread again is lower than it was before. And that changes the risk-reward profile that Smriti is talking about.
+
+Operator
+
+[Operator Instructions]
+
+We go next to the line of Trevor Cranston with Citizens JMP.
+
+Trevor Cranston
+Citizens JMP Securities, LLC, Research Division
+
+Can you guys talk a little bit about how you're thinking about the probability of other sort of politically-motivated actions to attempt to improve housing affordability or lower mortgage rates potentially through things like lowering the g-fees that Fannie and Freddie are charging and kind of how that plays into how are you thinking about investments right now?
+
+Smriti L. Popenoe
+Co-CEO, President & Director
+
+Trevor, so yes, I mean I think we are -- I'll just zoom back a little bit here in the '90s and the 2000s, the GSEs were very much an instrument of managing housing in the U.S., right? Like these are entities that have been around for a long time. They've been active participants in facilitating liquidity in the housing market. And they've also been directly or indirectly asked to change the way housing gets really implemented in the U.S., right?
+
+So you can think about affordability goes back in the '90s and 2000s, those existed back then as well, right? So the history of government intervention or wanting to influence where capital actually gets put, that's not new. This has been around for some time. And these MDs have been around and they've been made to do exactly this, right? So when you have that in the back of your mind, is it possible that the government does use these entities to implement housing policy that they believe is better for Americans in terms of lowering homeownership costs and so on, absolutely, right?
+
+So this is not new. So will they do lowering of GPs. We've heard that being talked about. We've heard about loan level pricing adjustments being taken away. All of that is very much real and possible. And I'll let T.J. talk about sort of the impact on mortgage rates and the convexity of mortgages. But we are very much anticipating and prepared for this type of intervention to happen. And what you want to do as an investor is prepare for the impacts of any and all of these potential levers that could be pulled.
+
+So T.J. why don't you talk about just convexity impact and the mortgage rate.
+
+Terrence Connelly
+Chief Investment Officer
+
+Yes. And I'll just give you a quick sense of the day-to-day, Trevor. Byron and Smriti work -- and I work very closely with our partners in Washington folks at the Mortgage Bankers Association, for instance, hearing about these potential proposals that could impact the prepayment profile of the mortgages that we own and how we bid ongoing mortgages for the portfolio as we reinvest. And the day to day is that we're hearing about these things, and then we come back model them in our prepayment models, think about how the prepayment, both the turnover component and the prepayment component, refinance component that is will impact the prepays in our portfolio and what we'll do to the broader mortgage market. And we're taking that feedback, back to folks like the Mortgage Bankers Association, who are talking with the FHFA and places like that.
+
+So it's very much a reflective relationship, and we're constantly modeling out how it might impact the mortgage market. To date, I think most of the -- it certainly impacts how we think about the most prepaid-sensitive mortgages that are out there. It continues to create more marginal demand and result in model valuing a lot of the prepayment protection that we already own, even higher than it did before.
+
+So I would just -- as I look at the proposals, it's increasingly hard to find the kind of prepay-protected portfolio that you get with our portfolio.
+
+Smriti L. Popenoe
+Co-CEO, President & Director
+
+Yes. I think the bottom line is there is going to be more negative convexity. And there's also the possibility that other instruments. Back in the day, we used to have prepayment-protected mortgages. Those are being talked about. We could see the ARM market come back in favor, especially in a steep deal curve environment. So we said this in the call, basically like government policy can create both risk and opportunity at the same time. And this is what we're ready to be investing in.
+
+Trevor Cranston
+Citizens JMP Securities, LLC, Research Division
+
+Yes. Okay. That's very helpful. And then can you give an update on kind of where you've deployed the capital raised in January sort of within the coupon stack and where you guys are finding the best value, post the movement that's happened since the GSE buying was announced?
+
+Terrence Connelly
+Chief Investment Officer
+
+We're finding that the belly of the coupon stack, primarily 5 has been the most interesting. But I will say it's been a very dynamic market, much more -- I've talked for a long time about the breadth of coupons in which we can invest. And we're finding pockets of opportunities on the specified pool side across coupon stacking and coupons that, frankly, we hadn't traded in several quarters.
+
+So it's really across the board. If I had to point to a single coupon, I'd say it's 5.5 to some extent. But again, seeing opportunities across the stack for coupons that offer durable call protection on the specified pool side.
+
+Operator
+
+We go next to the line of Jason Weaver with JonesTrading.
+
+Jason Stewart
+
+Congrats on capping off a very solid 2025. I want to start with, effectively, you've grown the company by a huge leap, like you said in your prepared comments over the course of the last 13 months. What's your thinking today around the appropriate size of the portfolio in context with what the current opportunity set is out there.
+
+Terrence Connelly
+Chief Investment Officer
+
+As far as the opportunity set, I'll start there and Smriti can talk more about just the benefits of scale as a company. When I think about the opportunities that it's growing dramatically for us in terms of -- like I just said to Trevor's question, the market dynamics are such that there's more and more opportunities across the coupon stack. This team has operated -- we have a team that's actually -- many of us were actually at the agencies in the 1990s. We've operated in this environment for a long time. But it's pretty exciting, the amount of alpha that we can produce beyond just a classic spread trade, which is still compelling.
+
+The amount of alpha that's available is significant. So when I think of this portfolio relative to the size of the market, we can be significantly bigger and still have tremendous opportunities to generate alpha. But I'll let Smriti talk to some of the benefits of the scale as well.
+
+Smriti L. Popenoe
+Co-CEO, President & Director
+
+Yes. I mean one of the things that we've been able to do is go lean on the back of our performance track record, which came without the benefit of scale. And now investors are getting the larger equity base as something that's a real benefit coming straight down to the bottom line. I still think there's a lot of sense for the company to keep growing. In terms of resilience, in terms of being able to withstand the types of scenarios that we think are coming up in the future. It makes a lot of sense for us to keep growing.
+
+The investment environment, again, it shifts all the time. we might be moving from what we think of as like a beta environment where it was just -- I'm not going to say easy, but you could own mortgages and spreads tighten, then you'd win. Now we're getting in an environment where, yes, you have tighter mortgage spreads. You have to be clever in your portfolio management skills to earn that return.
+
+And having said that, look, our dividend yields are down, right? Like a year ago, you were being have to generate 17% return by the market, and we're down to close to 14%. So that also helps in this situation.
+
+Jason Stewart
+
+Got it. And then just one more maybe for Rob. We saw the G&A run rate bumped up in the fourth quarter. I'm assuming that has to do with incentive comp. What should we think about the forward run rate here?
+
+Robert Colligan
+COO, CFO & Secretary
+
+Yes, good question. Thanks. You're exactly right. Good performance sometimes leads to increased incentive compensation accruals. And that's exactly what happened in the fourth quarter. As I mentioned in the prepared comments, we are building scale. So we're thinking of our expenses in the 2% of capital range for now. And obviously, as we go through the quarters, we'll give you some updates. We do plan on hiring some additional people, adding to the team and the timing of those hires could impact the run rate.
+
+But that's what we're thinking at the current moment. And then as we grow, I do think we'll have opportunities to hit other layers or levels of scale and reduce a little bit further, but we're not thinking about that immediately in 2026.
+
+Operator
+
+Our next question comes from the line of Bose George with KBW.
+
+Bose George
+Keefe, Bruyette, & Woods, Inc., Research Division
+
+Just going back to the earlier discussion with Doug on returns. In terms of returns going forward, do you see room for more upside from spread tightening? Or is it really more of a stable dividend, just given the volatility is -- should be more muted going forward?
+
+Terrence Connelly
+Chief Investment Officer
+
+Yes. I think that when we talk about the spread regime, I'd point you to Page 12, Bose. I think there's a really good case to be made that you can return to a tighter spread regime, much more like we saw throughout the late '90s and into the early 2000s. And it's not just because of the GSEs. It's really -- or they're buying that is, it's really about the backstop and the support from the government that you're potentially getting allows all investors to take more risk. So yes, I think there's -- on a stand-alone basis, the ROEs are compelling. The yield profile that we can garner from this portfolio remains compelling, and there's the potential for significant spread tightening back to that kind of regime.
+
+Bose George
+Keefe, Bruyette, & Woods, Inc., Research Division
+
+And then just a follow-up on the GSEs. What do you think happens once the GSEs get closer to that $200 billion cap, do you think it gets extended? Or how do you see their longer-term role in the market?
+
+Terrence Connelly
+Chief Investment Officer
+
+It certainly seems to be -- I've never seen before tweets from someone like -- or a report from someone like the FHFA or anything like that in history that focused on mortgage spreads, not just mortgage rates but on mortgage spreads. That is a very different thing. And to me, indicates that we are in a unique environment. So to your question, it's hard for me to see how $200 billion is necessarily the cap. I think it could be significantly more. And we know that it can be changed quite easily by the FHFA and/or treasury pretty quickly.
+
+Operator
+
+We'll move next to Jason Stewart with Compass Point.
+
+Jason Stewart
+
+One more follow-up on levered returns. T.J., just so I'm clear, the mid-teens and high teens at 7 and 8x. That's a carry return. It doesn't incorporate this new spread regime moving tighter, correct? And then just a follow-up on that, if you could address when you're thinking about that context of ROEs, how are you thinking about hedging that book?
+
+Terrence Connelly
+Chief Investment Officer
+
+Great. Yes. To answer your question, yes, that is a carry ROE. It assumes no additional spread tightening. That's absolutely correct. Those numbers that I quoted. And then the second part of your question was thinking about the hedge book. 2 things. One, on the composition of the hedge book, swaps offer a significant amount of carry relative to treasuries by hedging and swaps that is, relative to treasuries.
+
+So 2/3, 1/3 has been our mix roughly for quite some time. I expect. That will be the case to maybe be slightly biased more towards swaps at points, potentially in the 60% to 80% of range as a percent of our total hedge book on the interest rate swap side of things. Interest rate swaps do tend to be a very natural hedge for the portfolio. And when the environment we've talked in the past about the macro factors that impact swaps relative to treasuries. And I think those factors remain supportive of us hedging with interest rate swaps.
+
+In terms of curve positioning, I'll note that our curve position is you'll see it in our scenario analysis, the risk profile slides that are in the deck much closer to home in terms of a little bit less of a steepening bias, Longer term, I do expect we will have a steepening bias in the portfolio. But as the yield curve has kind of found a new equilibrium around these levels, we've found it prudent to allow the portfolio to be more balanced.
+
+Smriti L. Popenoe
+Co-CEO, President & Director
+
+Jason, can I just add something just because it seems like there's just a shock value component of this in terms of how much spreads have tightened in the last year, or over the last 2 or 3 years. One of the things I just want to remind everyone is that the environment that we just are coming from that we've just come from is the unusual environment. To see agency MBS spreads at those levels, 150, 160, 180 over treasuries. I mean those are unusual environments. And we have gone out and raise capital and put capital to work. And as I said, we call this a generational opportunity, right?
+
+What we're coming back to is really how things have been for most of the time in the housing finance system. What we're coming back to is a more normal "normal world" where you have some type of native balance sheet that's owning these mortgage assets, acting as a buffer, right? Spreads are now in a much more "normalized" range. And you have the opportunity to earn returns not just from owning MBS versus a hedge, but you have opportunities from relative value.
+
+You can do curve positioning and this idea -- so this is more normal, and we're coming from an unusual environment, okay? So that's a perspective, I think it's -- the unusual environment is "over". But we are just coming back to what we see as a very normalized environment. For the GSEs, a lot of people on this team were there when they were public. We understand and know this structure. To your question about what happens when the $200 million runs out, they can issue debt. They can do lots of things to grow the size of their balance sheet. We know very well how that process works. So for us to be -- to make money in that environment is actually -- there are opportunities for us to do that. So that's something I don't want people to miss out on is that we're just coming back from an unusual period to what is a more normal period.
+
+Jason Stewart
+
+Good color. I just had one other question. You mentioned corporate development capabilities in your prepared remarks. And I was just wondering if you could elaborate on that and whether that had anything to do with potential policy changes? Or maybe you could just take one more step on that comment.
+
+Smriti L. Popenoe
+Co-CEO, President & Director
+
+Absolutely. Yes. Look, I think a big part of delivering scale to shareholders and strategic flexibility to shareholders, we have to have the capability to evaluate all types of opportunities. Dynex has been a company that, over time, we've delivered to shareholders a lot of different clever diversified strategies through the history of the company. And our job is to always have the ability to evaluate those options so that if such options exist and they should be exercised, we're ready to do that, right?
+
+So that is -- that's a big part of thinking more strategically about the balance sheet, about the investment opportunities that we have versus others that come up. All of that is in the spirit of creating options for our shareholders, which I believe is one of the jobs that I have.
+
+Operator
+
+[Operator Instructions]
+
+We turn to Eric Hagen with BTIG.
+
+Eric Hagen
+BTIG, LLC, Research Division
+
+So this emphasis on lower interest rates and lower mortgage rates is very real. I mean do you think this pressure on the Fed to cut rates is good and supportive of the market right now? Do you think it will be effective? And do you think it eventually just creates maybe a situation where there's just more interest rate volatility and the volatility is more one directional anyway?
+
+Smriti L. Popenoe
+Co-CEO, President & Director
+
+Sure, Eric. So one of the things we've been ready for, for some time is this idea that there's more and more government intervention in the market, right? And in my prepared remarks, I talked about when you have fewer savers, fewer taxpayers, it's harder to carry the amount of debt that we have in the U.S. and other places in the world. Debt to GDP, et cetera, et cetera.
+
+So it's much -- it's not unusual in these types of situations for their IIb explicit efforts to influence monetary policy and other policy, including what mortgage rates are going to be. So that's not unusual for us. And that's what we've been expecting and that's what we planned for, right? Now how it actually comes to pass in terms of whether it's through personnel changes or whatever else that the actual rate gets pegged or lowered or whatever that is, I don't know.
+
+I mean we can't predict that. But we are prepared for this idea that front-end rates could be influenced by something other than just fundamentals, right? And you guys have heard us talk about this, this idea of fundamentals, technicals, psychology. And now we talk about fundamentals, technicals, psychology and policy. And a lot of times, fundamentals and policy could be divergent. And when you're sitting in that environment, you have to really be ready for a lot of different things.
+
+So just from the perspective of can it happen, we believe there's a high probability of that happening, and we are preparing for that. Will it happen? How it happens? Very hard to tell. And there are benefits, obviously, to the Agency MBS market to the extent that front-end rates are lower, I mean, that makes them more attractive to hold. But that's really not -- we're not counting on that happening for any of our strategies to work out.
+
+I'll let T.J. talk about the mortgage piece because these guys have been really focused on how just having the mortgage rate move independently of other rates, that really creates an interesting dynamic in the portfolio, and these guys have been working on mitigating that risk for some time now.
+
+Terrence Connelly
+Chief Investment Officer
+
+Sure. Absolutely. Yes. As Smriti mentioned, we have 4 arrows in our analytics quiver: Policy; fundamentals; technicals and psychology. Those are the 4 lenses through which we look at the market. And as we look at each component of the yield curve, we're thinking a lot about, okay, the mortgage rate in isolation, the Fed funds policy rate, SOFR rates in isolation, those sorts of things. So as we isolate those and think about the volatility profile for each component of the yield curve as well as every coupon of the mortgage coupon stack, policy could impact any one of those components. So it's something we spend a lot of time thinking about in terms of our hedge book and the volatility profile of the portfolio.
+
+Smriti L. Popenoe
+Co-CEO, President & Director
+
+One of the other pieces here, Eric, is that we've been in an environment where the market sometimes don't know how to price a lot of this uncertainty. And so it's a very -- it ends up looking calm, right? And then when there is some kind of announcement, you have about a volatility right? So it's a very different type of strategy. During the moments of calm, you're able to earn the OAS. You're able to earn sort of like the carry from shorting options. During the moments of volatility, you'd better have enough liquidity, right, to be able to manage yourself through that scenario. So that is another way to think about it.
+
+Eric Hagen
+BTIG, LLC, Research Division
+
+Sorry, I was going to ask one more just really quickly here. I mean the move for your book value up 4% since year-end, I mean that's a good move, but maybe we expected it to be up a little bit more. I mean has your leverage been stable? And maybe just like the immediate reaction on the back of that 20 or 30 basis points of spread tightening on the back of the announcement. Like how was that -- how did that unfold for you guys?
+
+Terrence Connelly
+Chief Investment Officer
+
+Yes. Obviously, on an immediate reaction, when book value increases, leverage goes down mathematically, and I mentioned the 7% to 8% kind of range when I discuss the ROEs, and that's generally where we expect this portfolio will land for the better part of the next several quarters as the opportunities arise, we take it up and down from there. So our -- we feel very comfortable that we can earn the kind of spreads that we are seeking to earn and that our shareholders are expecting to support the dividend with these ROEs that leverage between 7% and 8%.
+
+Operator
+
+At this time, we have no further signals. I'd like to turn the floor back to our speakers for any additional or closing remarks.
+
+Smriti L. Popenoe
+Co-CEO, President & Director
+
+Thank you. Thanks, everyone, for joining us today, and we look forward to updating you on our First Quarter Results in April.
+
+Operator
+
+This concludes today's conference. We thank you for your participation. You may disconnect at this time.

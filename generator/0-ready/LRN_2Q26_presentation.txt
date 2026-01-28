@@ -1,0 +1,65 @@
+Stride, Inc. (LRN) Q2 2026 Earnings Call January 27, 2026 5:00 PM EST
+
+Company Participants
+
+Timothy Casey - Vice President of Investor Relations
+James Rhyu - Chair of the Board & CEO
+Donna Blackman - Executive VP & CFO
+
+Conference Call Participants
+
+Alexander Paris - Barrington Research Associates, Inc., Research Division
+Gregory Parrish - Morgan Stanley, Research Division
+Jason Tilchen - Canaccord Genuity Corp., Research Division
+Patrick McIlwee - William Blair & Company L.L.C., Research Division
+Jeffrey Silber - BMO Capital Markets Equity Research
+
+Presentation
+
+Operator
+
+Thank you for standing by. My name is Tina, and I will be your conference operator today. At this time, I would like to welcome everyone to the Stride Second Quarter Fiscal Year 2026 Earnings Call. [Operator Instructions] It is now my pleasure to turn the call over to Tim Casey, Vice President of Investor Relations. You may begin.
+
+Timothy Casey
+Vice President of Investor Relations
+
+Thank you, and good afternoon. Welcome to Stride's Second Quarter Earnings Call for fiscal year 2026. With me on today's call are James Rhyu, Chief Executive Officer; and Donna Blackman, Chief Financial Officer. As a reminder, today's conference call and webcast are accompanied by a presentation that can be found on the Stride Investor Relations website.
+
+Please be advised that today's discussion of our financial results may include certain non-GAAP financial measures. A reconciliation of these measures is provided in the earnings release issued this afternoon and can also be found on our Investor Relations website. In addition to historical information, this call will also involve forward-looking statements. The company's actual results could differ materially from any forward-looking statements due to several important factors as described in the company's earnings release and latest SEC filings, including our most recent annual report on Form 10-K and subsequent filings. These statements are made on the basis of our views and assumptions regarding future events and business performance at the time we make them, and the company assumes no obligation to update any forward-looking statements. Following our prepared remarks, we will answer any questions you may have. Now I'll turn the call over to James.
+
+James Rhyu
+Chair of the Board & CEO
+
+Thanks, Tim, and good afternoon, everyone. I'd like to begin our call today by providing an update on the platform issues we discussed last quarter. I think the bottom line is that we've executed on our plan and the core issues are behind us. Our focus now is to drive ongoing improvements that continue to enhance the customer experience. We will continue to build on the progress that we have made so far. And insofar as possible, we will work to find proprietary solutions in order to maintain more control of the user experience. I'm confident we will not have a recurrence of these issues in the upcoming season.
+
+In addition to the stabilization of our platforms, we also saw continued strength in demand for our products and resiliency in our existing enrollments. The trends that have driven our strong enrollment growth over the last few years remain. Families continue to seek alternatives to the traditional model of education to address their specific needs. So we were able to take advantage of the strong demand in applications to backfill much of our attrition during the quarter and end the quarter basically flat with the prior quarter. Our goal this year is stability and not growth. So that's what we prioritized.
+
+Now there were still some uncertainties as we headed into this quarter, most notably, how would withdrawal trends shape up as we started the second semester. I'm pleased to share that so far, second semester withdrawal rates are within historical norms. Now I'd like to circle back and discuss our approach to rolling out new platforms and why it is strategically important to us to make these investments. We operated a proprietary set of legacy platforms that were over 20 years old and a lot of technical debt, and we're not going to scale with the business as we needed them to. So we went to the market to get what we believe and what the market has confirmed are market-leading platforms to replace our outdated ones. That thesis still holds true.
+
+However, we also want to ensure that we don't place too much reliance on third parties. So as part of our road map, we are working with our platform partners to build an architecture where we also have a degree of influence and control over our own destiny. This will be an evolving ecosystem, which prioritizes our customer needs, and we are investing now to ensure we have plans in place to be able to move forward productively either way. We are confident the primary issues from this fall are behind us. The primary evidence we can point to are the reduction in the number and types of calls to our customer support center. As an example, after we addressed a significant login issue a couple of months ago, call volumes dropped over 90% week-over-week. Qualitatively, we've also seen a significant decline in the commentary on social media discussing the challenges students are facing on the platform.
+
+Now thankfully, the families in our community are resilient and our teachers and school staff are superheroes. We continue to be in contact with them and solicit feedback as we roll out new improvements. And given the trends we are seeing in demand, withdrawals and customer experience, we believe we are well positioned for a return to our expected growth patterns next year. I want to thank all of the Stride employees and school staff who spent the last quarter moving us forward and toward our end goal of delivering results and an experience we can all be proud of. With that, I'll turn the call over to Donna, who will talk more about our financial results. Donna?
+
+Donna Blackman
+Executive VP & CFO
+
+Thank you, James, and good afternoon. Our employees and school staff continue to work hard to meet the needs and improve the experience of the families we serve, and we continue to see strong demand for our core offerings as families seek us out for educational alternatives. Our results this quarter reflect that continued demand.
+
+Some highlights from our quarterly results. Revenue of $631.3 million, up nearly 8% from the second quarter of fiscal year 2025. Adjusted operating income of $159 million, up $23.4 million or 17% from last year; adjusted EPS of $2.50, up $0.13 from last year; adjusted EBITDA of $188.1 million, up 17% and capital expenditures of $16 million, up from $14.8 million last year.
+
+As a result of the continued demand for our offerings and the stabilization of our withdrawals, our total enrollments for the second quarter were 248,500, up 7.8% from last year and up slightly from the first quarter. Revenue in our Career Learning middle and high school programs grew 29% to $275.6 million, driven by enrollment growth of 17.6% year-over-year. General Education revenue declined 3.6% to $341.4 million compared to last year. Average enrollments were up slightly from last year to $137,000, but revenue per enrollment was down 3.6%, largely due to mix. Total revenue per enrollment across both lines of revenue were $2,437, up 1.8% from last year.
+
+As we mentioned last quarter, we are generally seeing a positive state funding environment. However, we still anticipate some impacts from state and program mix and timing, so we expect to finish the year flattish to last year. Gross margins for the quarter were 41.1%, up 30 basis points from last year. During the quarter, we recognized a gain related to a noncore business. We were able to reach an agreement to exit a long-term commitment in that business, which positively impacted gross margins. As I mentioned on the call in October, we will continue to see additional expenses related to the platform implementation throughout the rest of the year, and we now expect full year gross margin to be similar to FY 2024.
+
+Selling, general and administrative expenses totaled $112.8 million, down nearly 2% from last year. We saw some benefits from the continued rightsizing of our adult learning business, and we also pulled back our marketing spend during the quarter. Stock-based compensation for the quarter was $10.3 million, an increase of $2.4 million compared to last year. We expect to see stock-based compensation in the range of $41 million to $43 million for the full year.
+
+Now turning to our balance sheet and cash flow. Capital expenditures in the quarter were $16 million. Free cash flow, defined as cash from operations less CapEx, was $75.9 million compared to $208.6 million last year. Cash flow during the quarter was impacted by the timing of some payments, specifically a large receivable we typically get in Q2 was pushed to Q3. We don't think there's any risk for this payment, rather it's a timing issue between quarters. We finished the quarter with cash, cash equivalents and marketable securities of $676 million. As in past years, we expect to see positive free cash flow for the balance of the year.
+
+In November, our Board authorized the repurchase of up to $500 million in shares. The authorization allows us to purchase shares through October 31, 2026. During the second quarter, we repurchased $88.6 million in shares. Even with this authorization, we will continue to consider our best use of cash and our capital allocation priorities remain unchanged. We will continue to balance investments in organic growth and potential M&A transactions with our share repurchases. As we've said in the past, our strong balance sheet enables us to maintain financial flexibility.
+
+Now turning to our guidance. As James mentioned, we are seeing positive trends in demand and overall customer experience, and we are reaffirming our full year revenue guidance of $2.480 billion to $2.555 billion. Given this year's trends, I want to provide a little more commentary on seasonality. Over the past few years, we've seen the second half revenues weighted towards the fourth quarter. This year, our quarterly enrollment trends are slightly different, and therefore, we believe that the third and fourth quarter revenues will be more evenly split. Also, it's important to remember that many schools start closing enrollment for the full year in the third quarter. So even with the demand remaining strong, we still expect our third quarter average enrollment to be similar to the first and second quarters. Historically, we have seen seasonal decline in enrollments during the fourth quarter, and we expect comparable trends this year.
+
+Now returning to our guidance. We expect adjusted operating income between $485 million and $505 million, up from our prior guidance of $475 million to $500 million. Capital expenditures between $70 million and $80 million, unchanged from our prior guidance and an effective tax rate between 24% and 25%, also unchanged. For the third quarter of 2026, we expect revenue in the range of $615 million to $645 million; adjusted operating income between $130 million and $140 million and capital expenditures between $16 million and $21 million.
+
+We feel confident that the biggest challenges to our tech implementation are behind us. We still have work to do, but we believe we are well positioned to see continued long-term growth based on the strong demand we see for our offerings. Given this, we believe we remain on track to achieve our FY 2028 financial goals. These goals allow us to continue to appropriately invest in the business to ensure that we are set up for long-term success. Thank you for your time today. Now I'll turn the call back to the operator for questions. Operator?
+

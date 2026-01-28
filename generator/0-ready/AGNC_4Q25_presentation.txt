@@ -1,0 +1,99 @@
+AGNC Investment Corp. (AGNC) Q4 2025 Earnings Call January 27, 2026 8:30 AM EST
+
+Company Participants
+
+Katie Wisecarver - Vice President of Investor Relations
+Peter Federico - President, CEO & Director and Chief Investment Officer
+Bernice Bell - Executive VP & CFO
+
+Conference Call Participants
+
+Bose George - Keefe, Bruyette, & Woods, Inc., Research Division
+Douglas Harter - UBS Investment Bank, Research Division
+Crispin Love - Piper Sandler & Co., Research Division
+Trevor Cranston - Citizens JMP Securities, LLC, Research Division
+Jason Stewart - Compass Point Research & Trading, LLC, Research Division
+Richard Shane - JPMorgan Chase & Co, Research Division
+Eric Hagen - BTIG, LLC, Research Division
+Harsh Hemnani - Green Street Advisors, LLC, Research Division
+
+Presentation
+
+Operator
+
+Good morning, and welcome to the AGNC Investment Corp's. Fourth Quarter 2025 Shareholder Call. [Operator Instructions] Please note this event is being recorded.
+
+I would now like to turn the conference over to Katie Wisecarver in Investor Relations. Please go ahead.
+
+Katie Wisecarver
+Vice President of Investor Relations
+
+Thank you all for joining AGNC Investment Corp.'s Fourth Quarter 2025 Earnings Call. Before we begin, I'd like to review the safe harbor statement. This conference call and corresponding slide presentation contains statements that, to the extent they are not recitations of historical fact, constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
+
+All such forward-looking statements are intended to be subject to the safe harbor protection provided by the Reform Act. Actual outcomes and results could differ materially from those forecasts due to the impact of many factors beyond the control of AGNC. All forward-looking statements included in this presentation are made only as of the date of this presentation and are subject to change without notice.
+
+Certain factors that could cause actual results to differ materially from those contained in the forward-looking statements are included in AGNC's periodic reports filed with the Securities and Exchange Commission. Copies are available on the SEC's website at sec.gov. We disclaim any obligation to update our forward-looking statements unless required by law.
+
+Participants on the call include Peter Federico, President, Chief Executive Officer and Chief Investment Officer; Bernie Bell, Executive Vice President and Chief Financial Officer; and Sean Reid, Executive Vice President, Strategy and Corporate Development.
+
+With that, I'll turn the call over to Peter Federico.
+
+Peter Federico
+President, CEO & Director and Chief Investment Officer
+
+Good morning, everyone, and thank you for joining our fourth quarter earnings conference call. 2025 was an exceptional year for AGNC shareholders. AGNC's 11.6% economic return in the fourth quarter drove our impressive full year economic return of 22.7%. Even more noteworthy, AGNC's total stock return in 2025 was 34.8% with dividends reinvested, nearly double the performance of the S&P 500. This outstanding performance on an absolute and relative basis clearly demonstrates the value of AGNC's actively managed portfolio of agency mortgage-backed securities and associated hedges.
+
+Looking back, we were confident that AGNC was on the forefront of a uniquely positive investment environment as the Fed's unprecedented tightening cycle of 2022 and 2023, reached its conclusion. On our third quarter earnings call in 2023, we expressed our belief that a durable and attractive investment environment for AGNC was emerging as mortgage spreads began to stabilize at historically attractive return levels. That outlook proved to be correct. And in the 9 quarters since that call and despite several episodes of extreme market turbulence, AGNC has generated an economic return of 50% for its shareholders, comprised of a 10% increase in book value and monthly dividends totaling $3.24 per share.
+
+Moreover, during that same time period, AGNC shareholders have experienced a total stock return of nearly 60% or 23% on an annualized basis. And finally, since inception, AGNC has generated a total stock return of over 11% on an annualized basis with dividends reinvested, demonstrating the long-term benefit of investing in this unique fixed income asset class and the durability of our business model across a wide range of market environments.
+
+Turning back to 2025, the Bloomberg Aggregate Agency Index was the best-performing fixed income sector in the fourth quarter, and for the year, produced a total return of 8.6%. Also noteworthy, given the similar credit quality, the Agency Index outperformed the Treasury Index by 2.3 percentage points or 36% in 2025.
+
+As I discussed throughout the year, the favorable performance of Agency MBS was driven by a confluence of positive factors. First, the Fed shifted its monetary policy stance toward lower short-term rates and greater accommodation, a promising development for all fixed income assets. The Fed also transitioned its balance sheet activity from quantitative tightening to reserve management. Second, interest rate volatility trended lower throughout the year due to the shift in monetary policy, greater fiscal policy clarity and a stable supply outlook for treasury securities which included a greater share of short-term debt.
+
+Lastly, the uncertainty and potential risks associated with GSE reform that adversely impacted the agency market early in the year, gradually dissipated as the Treasury Department and other officials communicated and approached to GSE reform that focused on reducing the spread on agency mortgage-backed securities, maintaining mortgage market stability and improving housing affordability. Collectively, these factors, combined with the sizable purchase of MBS by the GSEs later in the year, caused spreads to tighten and drove the substantial outperformance of Agency MBS relative to other fixed income asset classes.
+
+As we begin 2026, these favorable macro themes remain in place and provide a constructive investment backdrop for our business. In addition, other positive developments are possible including further actions by the administration to improve housing affordability. The recent $200 billion MBS purchase announcement is a good example of the type of action that could result in tighter mortgage spreads and lower mortgage rates.
+
+The funding market for Agency MBS has also improved in response to the Fed increasing the size of its balance sheet and improving the functionality of its standing repo program. The Fed is also considering other actions to further improve the utility of the standing repo program, which if implemented would be highly beneficial to the Agency MBS market.
+
+Finally, the supply and demand outlook for agency MBS remains well balanced. At current rate levels, the net new supply of Agency MBS this year is expected to be about $200 billion. When combined with the Fed's runoff, the private sector will have to absorb about $400 billion of MBS in 2026, an amount similar to the previous 2 years. On the demand side of the equation, however, the investor base today is more diversified and positioned to expand with GSE purchases potentially consuming about half of this year's supply.
+
+At the same time, bank, money manager, foreign investor and REIT demand should all remain strong. Pulling this all together, the underlying fundamental and technical backdrop for Agency mortgage-backed securities continues to be favorable and supportive of our positive outlook. Moreover, as the largest pure-play agency mortgage REIT, we believe AGNC is very well positioned to generate compelling risk-adjusted returns with a substantial yield component for our shareholders.
+
+With that, I'll now turn the call over to Bernie Bell to discuss our financial performance.
+
+Bernice Bell
+Executive VP & CFO
+
+Thank you, Peter. For the fourth quarter, AGNC reported comprehensive income of $0.89 per common share. Our economic return on tangible common equity was 11.6% for the quarter, consisting of $0.36 of dividends declared per common share and a $0.60 increase in tangible net book value per share driven by lower interest rate volatility and tighter mortgage spreads to benchmark interest rates.
+
+As Peter mentioned, our full year economic return was 22.7%, reflecting our monthly dividend totaling $1.44 per common share and a $0.47 increase in tangible net book value per share. As of late last week, our tangible net book value per common share was up about 4% for January or 3% net of our monthly dividend accrual.
+
+We ended the fourth quarter with leverage of 7.2x tangible equity, down from 7.6x at the end of the third quarter. Average leverage for the fourth quarter was 7.4x compared to 7.5x in the third quarter. In addition, we concluded the quarter with a very strong liquidity position of $7.6 billion in cash and unencumbered Agency MBS, representing 64% of tangible equity.
+
+Net spread and dollar roll income was unchanged for the quarter at $0.35 per common share, which includes $0.01 per share of expense related to year-end incentive compensation accrual adjustments. An important driver of our net spread and dollar roll income is the level of unhedged short-term debt in our funding mix as well as the composition of our hedge portfolio. As of the end of the fourth quarter, our hedge ratio was 77%, reflecting the level of swap and treasury hedges relative to total funding liabilities and was unchanged from the prior quarter.
+
+At the same time, during the fourth quarter, we opportunistically shifted our hedge mix toward a greater proportion of interest rate swaps. As a result, a meaningful portion of our funding remains short term and variable rate. This is consistent with the current more accommodative monetary policy environment and positions net spread and dollar roll income to benefit as additional rate cuts occur.
+
+Looking ahead, we expect that lower funding costs from the October and December rate cuts and anticipated future rate cuts increased stability in funding markets resulting from recent Fed actions to maintain short-term rates within their target range and the shift in our hedge mix toward a greater share of swap-based hedges, will collectively provide a moderate tailwind to net spread and dollar roll income.
+
+The average projected life CPR of our portfolio increased 100 basis points to 9.6% at quarter end from 8.6% in the prior quarter due to lower mortgage rates. Actual CPRs averaged 9.7% for the quarter compared to 8.3% in the prior quarter.
+
+Lastly, during the fourth quarter, we issued $356 million of common equity through our at-the-market offering program at a significant premium to tangible book value per share. This brought total accretive common equity issuances for the year to approximately $2 billion and delivered exceptional book value accretion for our common shareholders.
+
+And with that, I'll now turn our call back over to Peter.
+
+Peter Federico
+President, CEO & Director and Chief Investment Officer
+
+Thank you, Bernie. Before opening the call up to questions, I would like to provide a brief review of our portfolio. Agency spreads to both treasury and swap rates tightened across the coupon stack, especially on intermediate coupons as interest rate and spread volatility remained low and the demand for MBS, particularly from the GSEs accelerated.
+
+Hedge composition was also an important driver of performance as swap spreads on 5- and 10-year swaps widened significantly during the quarter. This favorable move in swap spreads followed the announcement of the Fed's revised supplemental leverage ratio requirement and the Fed's actions to ease repo funding pressure. As a result, Agency MBS hedged with longer-dated swap-based hedges performed considerably better than positions hedged with treasury-based hedges.
+
+Our asset portfolio totaled $95 billion at quarter end, up about $4 billion from the prior quarter as we fully deployed our new capital that we raised during the quarter. The percentage of our assets with some form of favorable prepayment attribute remains steady at 76%, while the weighted average coupon on our portfolio fell slightly to 5.12%. Consistent with the growth in our asset portfolio, the notional balance of our hedge portfolio increased to $59 billion at quarter end.
+
+The composition of our portfolio also shifted toward a greater share of swap-based hedges. In duration dollar terms, our allocation to swap-based hedges increased to 70% of our portfolio from 59% the prior quarter. In light of our more favorable outlook for swap spreads, we will likely operate with a greater share of swap-based hedges in our hedge mix, particularly 1 short-term rates near the Fed's long-run neutral rate.
+
+With that, we'll now open the call up to your questions.
+

@@ -1,0 +1,310 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions]
+
+Our first question will come from the line of Dan Levy with Barclays.
+
+Dan Levy
+Barclays Bank PLC, Research Division
+
+Wondering if you could first just address the assumption on pricing. And specifically, I think we know that we are in an environment where arguably, it's a demand-constrained environment. There's one of your competitors that is keen on gaining some share. you're coming off of a, let's say, tougher comp on the pricing side. I think you did just under $1.5 billion in positive pricing last year. So can you just unpack the assumption for pricing to be flat to up? How much of that is just the benefit of ICE or some other dynamics in there?
+
+Paul Jacobson
+Executive VP & CFO
+
+Dan, thanks for the question. What I would say is going into this year, we're not modeling any increases. This is really just the annualization of what we did in '25 coming through primarily for model year '26. So we're obviously going to take it 1 day, 1 week, 1 month at a time as we go through and watch where we are. But we're not putting projections out there as if we've got a lot of price increases to go through. We're cognizant of what the environment is out there, but we're also confident with our vehicles and with the new truck launches later this year, we feel like we can continue to drive the momentum commercially that we have in the past with no significant change.
+
+Dan Levy
+Barclays Bank PLC, Research Division
+
+Great. As a second question, I wanted to just ask about the dynamics of your product portfolio. And within that, first, maybe you could just address the fixed cost base that you have. You still have all of your EV programs intact. You still have much of the battery capacity intact. This was set for a higher volume outlook. To what extent does this portfolio align with what's going to likely be higher near-term ICE mix? And then maybe you could just address the potential to add hybrids into the portfolio. Just how much more do we have to see the portfolio and the fixed cost base shift to adjust to this new reality that we have?
+
+Mary Barra
+Chairman & CEO
+
+Well, I'll start, and then I'll turn it over to Paul for some of the financial piece of it. But we think we have the right portfolio. We have an incredibly strong internal combustion engine portfolio, as Paul mentioned, with the new trucks coming out. And unlike many others, we invested in having a dedicated EV platform that gives us a foundation for the portfolio we have. As we've said, the investments we're making now in EVs will be very much focused on cost reduction like LMR. We also have teams on each of our EVs to continue to take cost out beyond the battery. And then we have announced in the past that we will have some hybrids in key segments.
+
+So I think we're going to have the right portfolio. And we also are focused on the end game. We know once somebody drives an EV they rarely go back to internal combustion engine. And we also -- a big enabler of EV adoption is going to be charging. And last year, the Level 2 chargers increased by 25%. So EV adoption is going to grow over time. We think we're well positioned there. So we were very, I think, thoughtful about the way that we adjusted capacity in light of a very dramatic change in the regulatory environment as well as the -- eliminating the consumer tax credit.
+
+Paul Jacobson
+Executive VP & CFO
+
+Yes. Just to add to that, Dan, I think as we went through the restructuring, we were mindful of where is the excess capacity that we know we're not going to need for a long time because we had built up for a very different regulatory environment, as Mary had said. But we're also cognizant of making sure that we preserve capacity to be able to pivot and rotate where we need to, to get the cost savings. So particularly as it relates to battery capacity, we've got enough to be able to transition to LMR and to LFP as those projects get underway over the next couple of years. So it really was trying to look at what is the right short-term decision, but also how do we balance that against the long term and where we know it's going to go or we believe it's going to go in the future.
+
+And as far as vehicle programs, remember, with the product cycle that the industry has, some of these decisions were made years ago, and we have to do our best to be able to pivot to where demand is going to be. And I think if you look at this management team and what it's accomplished over the last several years in the midst of a lot of uncertainty, I think we've got what it takes to be able to respond and meet the consumer where they are as they continue to evolve.
+
+Operator
+
+Our next question comes from Michael Ward with Citigroup.
+
+Michael Ward
+Citigroup Inc., Research Division
+
+Two things. First, on the inventory. You see the impact on the pricing. Is that inventory discipline -- is that going to continue? And what are the implications for cash flow? Is that one of the ingredients that's adding up to the stronger-than-expected cash generation?
+
+Paul Jacobson
+Executive VP & CFO
+
+Mike, thanks for the question. So on the inventory side, I think the commercial team and the production team have both done a really good job of coordinating the last few years to keep us within that targeted range of 50 to 60 days. We had a really strong December month, which is why we ended the year at 48 days of inventory. So I think we're going to continue to balance that where it is. I don't think there's a big buildup contemplated. In fact, with the transition to the new truck, we'll lose some production as well. But overall, I think it's that discipline that has really helped us to drive much, much more consistency in our cash generation going forward. So we're not banking on any significant inventory builds, although it is an opportunity potentially to get back into that 50- to 60-day range.
+
+Michael Ward
+Citigroup Inc., Research Division
+
+And then on the -- this announcement by the Industrial Bank and I think FDIC approval the other day, that seems like a bigger deal than just on the outset as it relates to cost of capital for GM Financial. How much can you save from just a cost standpoint of capital on that?
+
+Paul Jacobson
+Executive VP & CFO
+
+Yes. I'll start, and then I'll let Susan chime in as well. But this is really a great achievement and one that candidly probably should have been approved a few years ago as we went through that. But the perseverance of the team to get that through provides yet another opportunity to drive capital in an efficient way for us. It will take some time. But Susan, I'll let you comment on anything you want to add.
+
+Susan Sheffield
+President & Chief Executive Officer
+
+Yes. Thanks, Paul, and thanks for the question. Very excited to have the conditional approval and get the Industrial Bank up and running. And as Paul said, this is going to be complementary to our funding platform, and it will allow us to offer depository products and another source of funding to help us bring down the cost of funds somewhat. They are high-yield savings account and broker deposits. So as it gets up and running, again, complementary to our footprint, it's not going to replace how we fund the business, but will be complementary to it and allow us to bring down the cost of funds in the basis points over time. And on our debt complex, that's a meaningful move.
+
+Michael Ward
+Citigroup Inc., Research Division
+
+Meaningful, like 100 basis points. Is that the type of meaningful move?
+
+Susan Sheffield
+President & Chief Executive Officer
+
+Probably not that much. It just depends on the rate environment, but it's going to help us be more competitive.
+
+Operator
+
+Our next question comes from Joe Spak with UBS.
+
+Joseph Spak
+UBS Investment Bank, Research Division
+
+First, just, I guess, bigger picture, Mary, I wanted to go back to some of your comments on portfolio and you mentioned hybrids. I mean that's a pretty broad term nowadays with traditional plug-ins and EREVs. So I was wondering if you could maybe shed a little bit more light on how you're seeing that portfolio evolving. And then is that considered in the $10 billion to $12 billion CapEx you've guided through -- guided for, for the next couple of years? And I guess, most importantly, yes, powertrain, I think, is going to be part of the consumer decision. But the features in the car are seemingly becoming more important and you're sort of highlighting that with some of the Super Cruise and other software. So will all these vehicles be able to use that next-gen architecture you showed that I think is supposed to launch in '28?
+
+Mary Barra
+Chairman & CEO
+
+Sure. Joe, a lot packed into that question. But first of all, any products that I've talked about are comprehended in the $10 billion to $12 billion capital. So yes. SDV, our next-generation software-defined platform and Super Cruise will be available across both ICE and EV platforms. And from a hybrid perspective, again, we're looking at where are the segments that there's the most demand for hybrids that are important from our total portfolio. So I'm not going to give you any specifics other than we're looking at a segment by segment for what we feel that we need to have to make sure we compete. And I'll just reiterate that we're -- in the last 4 years, even as others have brought on hybrids, we're still growing share. And that, I think, indicates that we have the right product portfolio.
+
+So -- and lastly, I just want to comment, you're absolutely right. The propulsion system of the vehicle is one distinguisher, but people are looking for their vehicle to do more. And that's why I think we also are going to be distinguishing ourselves as a full-line OEM that's been around for a while, able to have a very modern electrical architecture that will then be the foundation for offering more services, AI assistance as well as continuing to grow Super Cruise and into our eyes-off hands-off that we've announced for 2028. So I feel very confident that this is going to be another area where GM distinguishes itself from others with what we have planned and what we'll be rolling out. And the team is excited and it's on track.
+
+Joseph Spak
+UBS Investment Bank, Research Division
+
+And then, Paul, I just wondered if we could unpack the $1 billion to $1.5 billion in onshoring and software expense. And is there any way we should think about the split between that? Because -- and please correct me if I'm wrong in thinking about this, but I imagine the software expense portion of that is ongoing and may even grow over time in line with what we just talked about. But the cost related to start-up, the onshoring, I would think of as more as temporary and maybe there's some relief as we think beyond '26. Is that right?
+
+Paul Jacobson
+Executive VP & CFO
+
+Yes. Thanks, Joe. I would probably split them about 50-50 as we're thinking about it going forward. Obviously, the ramp-up costs of the onshoring will be offset as they go into production into the future. So there's a little bit of an offset there. And then certainly, on the software side, we're continuing to invest in those technologists and those programmers to be able to get where we need to go on SDV 2.0 and on autonomy and ultimately, Super Cruise enhancements going forward. So I'd split them about 50-50. It will vary over time, but that's the way we're thinking about it.
+
+Operator
+
+Our next question comes from Andrew Percoco with Morgan Stanley.
+
+Andrew Percoco
+Morgan Stanley, Research Division
+
+I want to start on the tariff disclosure, the $3 billion to $4 billion gross tariff cost for 2026. It sounds like you're assuming the lower South Korea tariff in that assumption. Can you maybe just talk to -- I know it's obviously overnight some headlines that it might be going back to 25%. What would that mean for you? And then maybe just remind us what you're doing in terms of tariff mitigation for 2026. I think you talked about 35% offset for 2025. Wondering if that's a similar range for 2026 and maybe what some of the moving pieces are to get you there?
+
+Mary Barra
+Chairman & CEO
+
+Well, I'll start and then turn it over to Paul for some of the specifics, but we are encouraging and hopeful that the countries will get the regulatory approvals or legal approvals in their country to put into place the deal that was actually negotiated and agreed to in October. As Paul indicated in our guidance, it is -- we assume 15%. And if there are -- if there's a period of time where it's not 15%, that's going to be something -- a headwind that we'll work to offset. Paul, if you want to get into some of the specifics.
+
+Paul Jacobson
+Executive VP & CFO
+
+Yes. So thanks for the question, Andrew. The offset -- the self-help provisions, just as a reminder, we talked about go-to-market. We talked about manufacturing footprint changes, and we talked about fixed cost reductions. Obviously, for Joe's question that we just went through, there's some fixed cost pressure that's new with the manufacturing additions that we will take on in '26. That will obviously lead to significant offsets in 2027 as we begin to onshore production. But in '26, it's really a lot of the annualization of what we've done. So with the go-to-market and then the fixed cost reductions, we'll get an annualization benefit in '26. So we should end up at a position where our net tariffs are actually lower in '26 than they were in 2025. So that equates to slightly more than the 40% offset just from that annualization.
+
+Andrew Percoco
+Morgan Stanley, Research Division
+
+Got it. Okay. That's super helpful. And then maybe just coming back to Super Cruise. You mentioned expanding that into some international markets. Can you just remind us what -- maybe what regulatory approvals are needed to do that? And also, from a functionality standpoint, can you maybe just give us a road map for what improvements consumers might expect to see going forward, whether that be point-to-point? Just kind of wondering what the progression of that looks like over the next few years before you get to full eyes-off, hands-off L3 with that next-gen platform.
+
+Mary Barra
+Chairman & CEO
+
+Andrew, we can't get you the specific. We have a road map that we're working to where we continue to expand and have more features that we haven't announced yet. So stay tuned on that. And as to the regulatory specifics, I think I don't have them top of mind, but I know the team is working and the rollout is planned, and I don't think there's any barriers for stopping the global expansion that we have with Super Cruise.
+
+Operator
+
+Our next question comes from James Picariello with BNP Paribas.
+
+James Picariello
+BNP Paribas, Research Division
+
+Just have a question first on the GM North America margin range of 8% to 10%. I mean that clearly embeds a pretty sizable step up and you have the $14 billion midpoint guide for the total company. I just want to address the moving pieces there as to how we get to that range yet still only have total company at the $14 billion. I guess what my model is currently saying is if I get to 8% to 10% for GM North America even at the low end, it would imply higher overall in the EBIT. So any clarity there would be great.
+
+Paul Jacobson
+Executive VP & CFO
+
+Yes. Thanks, James. Sorry, we're incredibly proud of the work that the North America team is doing to continue to drive back to that 8% to 10% margins. Many of the tailwinds that we mentioned in the prepared remarks about improved EV profitability, improved warranty expense, regulatory costs, all benefit North America. So it's a journey that I think is ahead of where investors were, and we've worked hard to try to make sure that we can deliver that in 2026. And I think our guidance reflects the confidence that we'll be able to do that. Obviously, a lot of things going on in the world internationally and with the work that the China team has done that kind of disrupts a little bit of the balance that we've seen historically. But overall, we think it's a good start to the year in terms of laying out these expectations, and we're set to go get them.
+
+James Picariello
+BNP Paribas, Research Division
+
+Yes. Understood. And then just my follow-up is on GM's memory chip supply and just an understanding of how much of this year's supply is already locked in? And is pricing also predominantly locked in for the year?
+
+Mary Barra
+Chairman & CEO
+
+Well, we shared that between commodities, DRAM and FX, we see a headwind of $1 billion to $1.5 billion. We're not breaking that out specifically. I would say the team is actively working from a memory chip perspective. And as of now, we don't see any issues that are going to impact our ability to produce. I think you've seen us over the last couple of years, even going back to the semiconductor shortage to see how the team works and gets ahead of these. And so that's obviously ongoing work the team is doing. But as of now, we don't see anything that's going to create an issue for us there.
+
+Operator
+
+Our next question comes from Itay Michaeli with TD Cowen.
+
+Itay Michaeli
+TD Cowen, Research Division
+
+Just first, a question on the full-size pickup launch this year. I'm curious kind of what's embedded into the guide at a high level. I know, Paul, you mentioned some downtime. I don't know if you're able to clarify that or quantify that. And should we think about some of the volume price mix impacts more later this year or more of a 2027 impact?
+
+Paul Jacobson
+Executive VP & CFO
+
+Yes. Thanks, Itay. Obviously, we're really excited about the new trucks that are coming online. We'll obviously have to take some downtime as we retool for that. Some of that will be able to build ahead a little to offset, but you will see that impacted in our volumes this year overall. On the pricing, I would say it's largely going to be a 2027 tailwind, I think, going forward. And the one thing I've shared this with a number of investors that the historical norm of a giant up in price for a model year really doesn't hold in this environment where pricing has held up on the later years of the model run going forward.
+
+So obviously, in the low inventory, low incentive world that we've seen, we haven't seen the typical pricing heuristic where we see a lot of pricing erosion at the end of a production run. So we're not expecting to see a giant up in prices, but this is an opportunity to deliver more value, and we're confident that when the new trucks come out, we're going to continue to drive the type of share momentum and pricing discipline that we've seen over the past several years.
+
+Itay Michaeli
+TD Cowen, Research Division
+
+Perfect. That's very helpful. And as a quick follow-up, I was hoping you can share kind of at a high level what you're assuming the declines in EV volume this year, how much of that could translate to incremental ICE demand for GM? And kind of how does that affect your inventory and kind of wholesale volume planning throughout the year?
+
+Mary Barra
+Chairman & CEO
+
+Well, it's a great question. I don't think anyone really knows what the steady-state EV demand will be in this new environment. I think we're still seeing -- we saw a fairly substantial pull ahead before the consumer credit went away. And so we're -- and looking at other geographies that had EV incentives and then took it away literally was 6 months before we really started to understand what steady state would be. Having said that, we're looking across all aspects of where we can have additional volume. Paul already answered the fact that we ended the year with a lower inventory below the 50 to 60 days. So we're going to continue to look at where the opportunity is to get more with the full-size truck downtime, we're pretty tight. But the team usually does a great job of pulling out more production when it's needed. As an old manufacturing person, those are the challenges that you love to have. So again, we're going to see where the EV market is, and then we're going to maximize as much as we can from an internal combustion engine perspective.
+
+Operator
+
+Our next question comes from Colin Langan with Wells Fargo.
+
+Colin Langan
+Wells Fargo Securities, LLC, Research Division
+
+If I look at the quantified puts and takes in the guidance, they kind of net out. So what is actually driving the expected increase? There's a slight increase in pricing? And then is the rest volume? Because I thought your commentary said ICE volume flat to slightly up. So what is the gap to kind of drive numbers up year-over-year?
+
+Paul Jacobson
+Executive VP & CFO
+
+Yes. So Colin, thanks for the question. So we tried to do a good job of laying out sort of the key headwinds and tailwinds. But when we lay all of that out together, we actually see some upside coming through on that. Some of it will be in our ability to lower our net tariff exposure. Some of it will be on the regulatory side that we expect coming in as well. And then some of it is going to be continued work on driving EV profitability improvement. So we laid out what we see on some of the fixed cost relief. But as you know, we struggled this year with sort of step down after step down after step down in EV costs that, at the end of the day, result in a lot of supplier claims that we've tried to sort of all bring together in the onetime step down. So when you look at it across the board, all of those result in what we believe is going to be a pretty strong year-over-year improvement as we've highlighted.
+
+Colin Langan
+Wells Fargo Securities, LLC, Research Division
+
+So is that a cost improvement that you're implying outside of what's listed in the slide?
+
+Paul Jacobson
+Executive VP & CFO
+
+I mean, ultimately, when you look at the listings in the slide and what we've highlighted, it really comes down to a margin improvement on the vehicles going forward because we absorbed so much cost in '25 between that warranty, all the tailwinds that we highlighted.
+
+Colin Langan
+Wells Fargo Securities, LLC, Research Division
+
+Got it. Okay. And then why you assume last year, the guidance pricing down 1% to 1.5%. Why that optimism this year? It seemed like it was a little bit more conservative last year ended up being a lot better.
+
+Paul Jacobson
+Executive VP & CFO
+
+Well, I think last year, as we were looking through the uncertainty that we saw across the board, we didn't want to make any statements. Then obviously, as we saw the year progress, we took that guide up. And this year, what we've assumed as per the question from Dan at the beginning of the call, was we haven't assumed any pricing increase at all. This is just we put in the model year '26 late in 2025. This is the annualization of that. So we're assuming that, that holds, but we're not counting on any additional pricing coming through. So I wouldn't say that it is an aggressive assumption. It just is more of a function of kind of where we see the landscape today.
+
+Operator
+
+Our next question comes from Emmanuel Rosner with Wolfe Research.
+
+Emmanuel Rosner
+Wolfe Research, LLC
+
+Can you talk a little bit about how you're thinking about the mix benefits implied or assumed in this year's outlook? I know some of it is reflected in these lower EV losses that you quantified at 1% to 1.5%. Is there another potential mix benefit from optimizing ICE mix in light of the emissions deregulation or from rebuilding inventories, which were at a very lean level at the end of 2025?
+
+Paul Jacobson
+Executive VP & CFO
+
+Emmanuel, the mix benefits, as you highlighted, we certainly are expecting EVs to probably be down for the full year given the cessation of the consumer tax credit going forward. The volumes are somewhat hampered by the transition to the new truck platform. So I'm not sure that there's a huge volume push that we're banking on, but obviously, we'll take every opportunity we can. Now without perhaps being obvious, the weather that we've seen recently has obviously impacted production likely for everybody given the width and the breadth of the storm going forward. So we've got, I think, some makeup work that we've got to do going forward, but we're confident that the team will be able to do that and glad that everybody has stayed safe through our plants.
+
+Emmanuel Rosner
+Wolfe Research, LLC
+
+And then I was hoping to ask you about the warranty cost benefit of $1 billion for this year. Can you just remind us the dynamics and drivers of this? Obviously, you had pretty large warranty costs in 2025. And then I think recently, there was a reopening of the investigation into some of these V8 engines. So how much of it has already been essentially provisioned for? And what drives really the confidence in this year's benefit?
+
+Paul Jacobson
+Executive VP & CFO
+
+Yes. So all of this starts, Emmanuel, with what we see on the monthly cash and where we see the exposure. It's obviously a very complex set of calculations and analyses going forward across the vehicle universe, but it really begins with cash, and we've seen that flattening, which is the first thing that needs to happen before you're going to ultimately come back down the curve on accruals because of the lagging effect there. But when you look at the L87 and the V8 engines, we've seen really good progress with the fixes that the team has put out there with the oil change and some of the testing that we can do at dealerships. So we believe that, that will mitigate and hopefully ultimately bring that down or certainly not lead to any more increases going forward.
+
+So the team is hard at work across looking at every detailed cause of the warranty accrual. It's not just the big ones, but it's the small ones. We're looking at inflationary pressures that we've seen at the dealerships and making sure that the dealers are charging fair prices to us for warranty as they are for retail across the board. And it's really an all hands on deck, and we're starting to see some really early green shoots on some of that work that's been ongoing. And that's where we think it will compound into warranty savings for us into '26 and hopefully beyond.
+
+Operator
+
+Our next question comes from Ryan Brinkman with JPMorgan.
+
+Ryan Brinkman
+JPMorgan Chase & Co, Research Division
+
+My question, which is on the emissions regulation assumption baked into the '26 guide. The outlook for $500 million to $750 million of savings there from no longer needing to purchase those compliant credits. It seems a bit less than the roughly, I think, $1 billion annually that you may be spending. Is that because some of the purchases sit outside the U.S. or because some U.S. regulatory credit purchases maybe at the state level will need to continue in some form? Or what is the right way to think about that?
+
+Paul Jacobson
+Executive VP & CFO
+
+Yes, Ryan, obviously, the compliance requirements are pretty complicated. You've got both state, federal, local and international as well. But as we've talked about, the credits were roughly split between CAFE and GHG. So CAFE, we know we don't need to purchase credits as the administration has already zeroed out the CAFE penalties across the board. We took a charge for that in the third quarter and expect that to result in some year-over-year savings in '26 versus '25. And then GHG is still pending with the administration. We're assuming that ultimately, that gets resolved over time, but there's going to be a lag effect as the administration works through the regulatory process to accomplish what their objectives are on GHG. So when we purchase credits, we amortize them over the time -- the remaining life of those credits. So that's where you're probably seeing a little bit of a disconnect versus the P&L and the cash.
+
+Ryan Brinkman
+JPMorgan Chase & Co, Research Division
+
+Okay. Very helpful. And then just lastly on international operations. Obviously, a lot of focus on the improvement and turnaround in China. Maybe just if you could talk about consolidated IO, it looks like a lot of sequential improvement there in revenue and wholesales as well. But just curious about -- we're reading a lot about the incremental pressure being placed on some of these regions outside of China by Chinese automakers. Obviously, it doesn't affect you in North America. You're not in Europe. You don't have to worry about that. But maybe if you could talk to LatAm or some of the other markets where you operate and what you might be seeing there?
+
+Mary Barra
+Chairman & CEO
+
+Well, I think you highlighted, we are seeing improvement from an international perspective, specifically in South America. And when you focus on Brazil as an example, even with the stiff competition coming from the Chinese OEMs that are heavily subsidized, we've seen improved performance there among other countries in South America. So I think it's each of the different areas, we've seen improvements. And I think it speaks to the strength of our vehicles and the strength of our brands. So again, it was across the board that we're seeing that improvement. And we are in Europe.
+
+We just export into Europe with some vehicles that we have actually the -- or excuse me, the LYRIQ and then the VISTIQ actually won German Car of the years over the last 2 years from an EV perspective, so luxury perspective. So we're there in a small way as we look to see what's going to -- how the European market is going to sort out. And I think that's a growth opportunity for us. And I'm proud across the international markets for the work they've done to improve their business.
+
+Operator
+
+We have time for one last question. Our last question comes from Gautam Narayan with RBC. I do apologize. He disconnected. Our last question will come from Mark Delaney with Goldman Sachs.
+
+Mark Delaney
+Goldman Sachs Group, Inc., Research Division
+
+The company is expecting Super Cruise revenue to be $400 million in '26, up from $234 million at the end of 2025. Can you help us better understand what's driving such a big step-up this year in Super Cruise revenue? And then as you think about that broader OnStar and digital services business momentum that you spoke about, are there other key areas you're seeing momentum beyond Super Cruise or Super Cruise the big driver of digital services?
+
+Paul Jacobson
+Executive VP & CFO
+
+Yes. Well, Mark, thanks for hanging on for the whole call. I appreciate you get your last question. The Super Cruise revenue is a couple of things. So remember, when we sell a vehicle with Super Cruise, we include 3 years of prepaid services on that. So that balance then amortizes over a 3-year period. So what you're seeing is growth in those initial rates as we ramp up production and sales of vehicles equipped with Super Cruise. The second aspect of it, which we're continuing to see really good penetration and attachment rates is on the renewal. So at the end of 3 years, customers are approached with would they like to subscribe. And we've seen attachment rates in the low 40% range with people stepping up and renewing that. So that's where you're seeing a lot of the growth in Super Cruise.
+
+In OnStar, we include an OnStar basics package with the sale of vehicles that has -- that amortizes over the life of that period. But it also -- what it does is gives us an engagement opportunity with the consumer that is really laying the foundation for, number one, enhanced OnStar services currently, but also then second, you look at GM rewards, you look at opportunities when we get software-defined vehicles down the road. It's really a big step function. So that's where you're seeing a lot of the deferred revenue growing and coming in at very attractive software-like margins.
+
+Mark Delaney
+Goldman Sachs Group, Inc., Research Division
+
+My other question was on China. The company has obviously made a lot of improvements there, and I think expecting pretty similar China profits in 2026. There is a view though that the China market in general is becoming more difficult after a lot of stimulus in 2025 and maybe demand in the broader China market could be down this year. Maybe talk about what offsets there could be for GM specifically, perhaps it's the product portfolio, but would hope to better understand what would allow GM to be more stable year-on-year if the market does soften.
+
+Mary Barra
+Chairman & CEO
+
+Well, I think the number of vehicles that we launched this year, the new energy vehicles, I think, are doing very well, over 50% as we indicated with the right software, the right technology. And virtually across the board, we have in China for China solutions that I think are resonating really well in the marketplace. And I think that discipline, along with the discipline in the way the business is operating of making sure we manage inventory, which allows us to manage incentives. And it also has allowed us to have a much better relationship with the dealers because we've had a dramatic improvement in their profitability. So I think it's -- if you want to say what's going to drive China's business overall, it's the right product portfolio and then the discipline in which we're managing the business. And I have to give a lot of credit to the team over there for really turning around that business rather quickly in a sustainable way.
+
+And then lastly, I'll just say it's also our strong brands. The Cadillac and the Buick brand have a long history, the Buick brand, especially, but also the strength of the Cadillac franchise as well is serving us well. So we think we can compete, obviously, not to the extent we were 5, 6 years ago, but we think we can have a meaningful presence there with the right product portfolio at a premium and luxury level.
+
+Operator
+
+I'd now like to turn the call over to Mary Barra for her closing comments.
+
+Mary Barra
+Chairman & CEO
+
+Well, thanks, everybody, for sticking with us through the call. I know we're running a little over, so I'll be brief. But I just want to again -- I want to start by thanking everyone in General Motors, our suppliers, our dealers for all of their hard work to deliver the 2025 performance. But it really goes beyond that because over the last several years, we've really built a foundation of product excellence, innovation, operating discipline and resiliency and agility. So we know we're going to continue to see opportunities. I think we have the right team to be able to manage through those and continue to deliver results for our shareholders. So I want to tell you, I'm extremely excited about this year and what we can do, even better '26 and getting North America back to the 8% to 10% margin is something that we're looking forward to executing through the year and delivering for our shareholders.
+
+So thanks to everybody, and I hope you have a great day. Stay safe.
+
+Operator
+
+Thank you. That concludes the conference for today. Thank you for joining. You may disconnect.
+
