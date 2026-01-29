@@ -1,0 +1,55 @@
+[ 어닝콜 요약 ]
+
+매출 +19.5% YoY ($3.466B, Q4 구독 매출)
+- AI 혁신과 Workflow Data Fabric, Now Assist, Raptor, CPQ 등 신제품 영역의 강력한 성장
+- 244건의 $1M 이상 NNACV 딜, 7건의 $10M 이상 딜 포함, 신규 고객 확보 가속화
+
+Sales by segment
+1) Subscription Revenue $3.466B (YoY +19.5%)
+   - Transportation & Logistics +80% YoY, Business & Consumer Services +70% YoY, Financial Services +40% YoY
+   - EMEA 및 일본 신규 고객 NNACV +30% YoY, 8,800여 고객사 중 $5M 이상 ACV 고객 603개, $20M 이상 고객 30% 이상 증가
+   - ITOM, ITAM, Security & Risk, CRM, Creator Workflows 등 주요 워크플로우 부문에서 강한 성장과 다수 대형 딜 체결
+
+GPM 82% (2026 가이던스 기준)
++ AI 효율성 및 운영 레버리지로 비용 절감
+- 공공 클라우드 지리적 확장 및 AI 관련 데이터센터 투자 증가
+
+OPM 31% (Q4 31%, +100 bps YoY)
++ 매출 상회, OpEx 효율화, 비용 관리 강화
+- 데이터센터 투자 및 일부 비용 증가
+
+[ 가이던스 요약 ]
+
+Guidance FY2026 (updated)
+- Revenue growth 19.5%~20% vs. 기존 가이던스 유지
+- Gross margin 82% vs. 기존 가이던스 유지
+- Operating margin 32% vs. 기존 가이던스 유지 (YoY +100 bps)
+- EPS 별도 미공개
+- Free cash flow margin 36% vs. 기존 가이던스 유지 (YoY +100 bps)
+
+주요 변화
+- AI 효율성에 따른 운영비 절감과 데이터센터 투자 확대가 마진에 상반된 영향
+- Moveworks 1% 기여 포함, 온프레미스 매출 믹스 변화로 1.5% 헤드윈드 예상
+- 추가 50억 달러 주식 환매 승인 및 20억 달러 가속 환매 프로그램 발표
+
+[ Comments 요약 ]
+
+[AI 및 Workflow 통합 전략]
+① AI는 확률적 특성으로 인해 워크플로우의 결정론적 운영과 결합해야 하며, ServiceNow는 이를 위한 플랫폼과 AI Control Tower를 제공
+② Now Assist NNACV가 2배 이상 성장하며 6억 달러 돌파, 1백만 달러 이상 딜이 분기별 3배 증가
+③ 다양한 산업군에서 AI 기반 자동화 및 고객 경험 혁신 사례 다수 확보, 예: 고객 서비스 자동화로 400% ROI 달성 사례
+
+[보안 및 거버넌스 강화]
+① Veza와 Armis 인수로 자산 가시성, 정체성 거버넌스, AI 에이전트 권한 관리 통합 보안 플랫폼 구축
+② AI 확장에 따른 공격 표면 증가 문제 해결, 실시간 자산 및 접근 권한 관리로 위험 자동화 대응
+③ OT 보안 분야에서 최대 분기 실적 기록, 고객사들로부터 높은 기대와 수요 확인
+
+[고객 및 시장 확장]
+① 신규 고객 확보 가속화, 특히 EMEA와 일본에서 신규 로고 NNACV 30% 증가
+② 대형 고객사 증가, $5M 이상 ACV 고객 603개, $20M 이상 고객 30% 이상 증가
+③ ITOM, ITAM, Security & Risk, CRM, Creator Workflows 등 핵심 워크플로우 부문에서 다수 대형 딜 체결
+
+[파트너십 및 생태계]
+① Microsoft, Anthropic, OpenAI, NTT DATA 등과 전략적 AI 통합 및 협업 강화
+② Microsoft 365와 ServiceNow AI 플랫폼 연동으로 엔터프라이즈 AI 워크플로우 혁신 추진
+③ 다양한 클라우드, 언어 모델, 데이터 소스와의 개방형 통합 지원으로 고객 맞춤형 AI 솔루션 제공
