@@ -1,0 +1,70 @@
+[ 어닝콜 요약 ]
+
+매출 +17% YoY ($81.3B)
+- Microsoft Cloud 매출 26% 성장하며 전체 성장 견인
+- AI 인프라 투자 확대와 AI 제품 사용 증가가 주요 성장 및 비용 요인
+- 상업용 비즈니스 강세, 소비자 부문은 일부 상쇄
+
+Sales by segment
+1) Productivity and Business Processes $34.1B (YoY +16%)
+   - M365 Commercial Cloud 17% 성장, E5 및 Copilot ARPU 증가 주도
+   - Dynamics 365 19% 성장, LinkedIn 11% 성장
+   - AI 투자 확대에도 효율성 개선으로 세그먼트 OPM 60% 달성
+
+2) Intelligent Cloud $32.9B (YoY +29%)
+   - Azure 및 기타 클라우드 서비스 39% 성장, 수요가 공급 초과
+   - SQL Server 2025 출시로 온프레미스 서버 매출 2% 증가
+   - AI 투자 영향으로 GPM 소폭 하락, OPM 42%로 소폭 감소
+
+3) More Personal Computing $14.3B (YoY -3%)
+   - Windows OEM 및 디바이스 매출 1% 증가, 재고 수준 높음
+   - 검색 및 뉴스 광고 매출 10% 증가, 실행 문제로 기대치 하회
+   - 게임 매출 9% 감소, 1차 콘텐츠 부진 영향
+
+GPM 68% (-약간)
++ Azure 및 M365 상업용 클라우드 효율성 개선
+- AI 인프라 투자 및 AI 제품 사용 증가 영향
+
+OPM 47% (+상승)
++ 매출 성장과 운영 레버리지 개선
+- AI 투자 및 게임 사업 손상차손 영향 일부 상쇄
+
+[ 가이던스 요약 ]
+
+Guidance Q3 FY2026 (updated)
+- Revenue growth 15%~17% vs. 기존 유지
+- Gross margin 65% (Microsoft Cloud) vs. 기존 하향 (AI 투자 영향)
+- Operating margin 소폭 하락 vs. 기존 유지
+- EPS 별도 제시 없음
+- Capital expenditure 감소 예상, 단기 자산 비중 유지
+
+주요 변화
+- AI 인프라 및 인재 투자 지속으로 비용 증가 예상
+- Azure 수요 지속 강세, 공급과 수요 균형 조정 필요
+- Windows OEM 및 소비자 부문 성장 둔화 예상, 메모리 가격 상승 영향
+
+[ Comments 요약 ]
+
+[AI 및 클라우드 인프라 혁신]
+① Microsoft Cloud 매출 26% 성장하며 AI 확산 초기 단계에서 강력한 수요 반영
+② Maia 200 AI 가속기 및 Cobalt 200 CPU 도입으로 성능 및 TCO 개선
+③ 7개국 데이터센터 투자 확대, 주권 데이터 솔루션 강화로 고객 맞춤형 인프라 제공
+④ AI 워크로드 최적화 위해 토큰당 전력 및 비용 효율성 극대화에 집중
+
+[에이전트 플랫폼 및 AI 서비스 확장]
+① Foundry, Fabric, Copilot 등 AI 플랫폼과 도구로 고객 맞춤형 에이전트 구축 지원
+② 1,500개 이상 고객이 Anthropic, OpenAI 모델 활용, 지역별 주권 AI 모델 수요 증가
+③ Agent 365 출시로 다중 클라우드 환경에서 에이전트 관리 및 보안 강화
+④ Microsoft 365 Copilot 일일 사용자 10배 증가, 기업 내 생산성 혁신 가속
+
+[상업용 비즈니스 및 고객 확장]
+① M365 Commercial Cloud ARPU 및 유료 좌석 증가로 안정적 성장 지속
+② Dynamics 365 및 LinkedIn 마케팅 솔루션 고성장, 대형 고객사 대규모 좌석 구매 확대
+③ GitHub Copilot 구독자 4.7백만명으로 75% YoY 증가, 개발자 생산성 향상
+④ 보안 Copilot 도입 확대, SOC 업무 효율 75% 개선 사례 등 보안 시장 공략 강화
+
+[소비자 및 게임 부문 도전]
+① Windows 11 사용자 10억명 돌파, OEM 매출은 재고 영향으로 성장 둔화 예상
+② 검색 광고 성장 둔화 및 게임 콘텐츠 매출 감소로 소비자 부문 압박 지속
+③ 메모리 가격 상승이 PC 시장 및 자본 지출에 불확실성 요인으로 작용
+④ Xbox Game Pass 성장에도 불구하고 하드웨어 및 콘텐츠 매출 감소 영향 제한적
