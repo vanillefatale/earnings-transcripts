@@ -1,0 +1,62 @@
+[ 어닝콜 요약 ]
+
+매출 +7.6% YoY (EUR 32.7B)
+- EUV 시스템 매출과 Logic 부문이 성장 견인
+- Installed Base Management 매출도 26% 증가하며 서비스 부문 성장 기여
+
+Sales by segment
+1) EUV Systems EUR 11.6B (YoY +39%)
+   - 48대 출하, High NA 포함
+   - Logic과 DRAM 고객의 AI 및 데이터센터 수요 증가가 주요 성장 동력
+   - 고도화된 3nm, 2nm, 1B/1C 노드에 대한 수요 확대
+
+2) Non-EUV Systems EUR 12B (YoY -6%)
+   - Deep UV 시스템 매출 감소
+   - Logic과 Memory 고객의 용량 확장으로 2026년 매출은 2025년과 유사할 전망
+
+3) Installed Base Management EUR 8.2B (YoY +26%)
+   - EUV 시스템 설치 기반 확대에 따른 서비스 및 성능 업그레이드 수요 증가
+
+GPM 52.8% (+/- 0 bps)
++ 제품 믹스 개선과 EUV 시스템 매출 증가
+- R&D 및 SG&A 비용 증가 영향 상쇄
+
+OPM 수치는 별도 미공개, R&D 14% 수준, SG&A 4% 수준으로 비용 관리 중
+
+[ 가이던스 요약 ]
+
+Guidance 1Q 2026
+- Revenue growth EUR 8.2B~8.9B (전년 동기 대비 변동 없음 명시)
+- Gross margin 51%~53% (유지)
+- Operating expenses: R&D 약 EUR 1.2B, SG&A 약 EUR 0.3B (유지)
+
+Guidance FY 2026
+- Revenue growth EUR 34B~39B (상향 가능성 내포)
+- Gross margin 51%~53% (유지)
+
+주요 변화
+- AI 및 데이터센터 인프라 확장에 따른 Logic 및 DRAM 고객의 용량 확장 가속화가 매출 성장 기대를 견인
+- EUV 시스템 매출 증가와 서비스 부문 성장 지속
+- 중국 지역 매출 비중 20% 내외 유지 예상
+
+[ Comments 요약 ]
+
+[AI 및 데이터센터 수요 증가]
+① AI 가속기 및 HPC, 모바일 애플리케이션용 3nm, 2nm, 1B/1C 노드 수요가 크게 증가
+② 고객사들이 고도화된 EUV 기술 도입 가속화하며 용량 확장 계획을 앞당기고 있음
+③ DRAM 고객은 HBM, DDR 제품에 대한 강한 수요와 EUV 레이어 확대를 보고
+
+[기술 혁신 및 제품 로드맵]
+① NXE:3800E 시스템으로 다중 패터닝을 단일 EUV 노출로 대체하며 생산성 향상
+② High NA 시스템은 고객 R&D 시설에서 성공적 검증 중이며, 2026년부터 양산 적용 예정
+③ 3D 구조 증가에 대응한 다중 전자빔 검사 시스템 도입 확대
+
+[재무 및 자본 배분 전략]
+① 2025년 현금흐름 강세, 연간 자유현금흐름 EUR 11B 기록
+② 2025년 총 배당금 EUR 7.50로 전년 대비 17% 인상, 주당 2차 중간배당 EUR 1.60 지급 예정
+③ 2025년 EUR 7.6B 규모 자사주 매입 완료, 신규 EUR 12B 자사주 매입 프로그램 발표
+
+[시장 전망 및 전략 방향]
+① AI 및 데이터센터 인프라 확장으로 고객 수요가 전반적으로 개선되어 2026년 매출 성장 기대
+② 제품 믹스가 고도화된 EUV 중심으로 전환되며, 리소그래피 집약도(litho intensity) 증가 전망
+③ 2024년 Capital Market Day에서 제시한 EUR 44B~60B 매출 기회와 56%~60% GPM 목표 유지
