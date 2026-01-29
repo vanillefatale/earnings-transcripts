@@ -1,0 +1,63 @@
+[ 어닝콜 요약 ]
+
+매출 +6% YoY  
+- 소프트웨어 중심의 사업 전환과 하이브리드 클라우드, AI 플랫폼에 대한 집중 투자로 성장 견인  
+- 소프트웨어 매출 9% 성장, IBM Z 매출 48% 증가하며 주요 성장 동력 역할  
+
+Sales by segment  
+1) Software $[미공개] (YoY +9%)  
+   - 4개 소프트웨어 하위 부문 중 3개가 두 자릿수 성장 기록  
+   - Data 부문 19% 성장, Automation 14% 성장, Red Hat 8% 성장 둔화  
+   - ARR $23.6B로 2024년 대비 $2B 증가  
+   - GenAI 제품과 전략적 파트너십이 성장 견인  
+
+2) Consulting $[미공개] (YoY +1%)  
+   - AI 서비스 수요 증가로 성장 전환, Intelligent Operations 3% 성장  
+   - GenAI 관련 수주 $10.5B 이상, 분기 최대 증가 기록  
+
+3) Infrastructure $[미공개] (YoY +17%)  
+   - Hybrid Infrastructure 24% 성장, Infrastructure Support 2% 감소  
+   - IBM Z 매출 61% 증가, 20년 내 최고 분기 실적  
+   - Distributed Infrastructure는 제품 주기 영향으로 정체  
+
+GPM  [미공개]% (+170 bps)  
++ 소프트웨어 믹스 개선, 생산성 향상, 매출 규모 확대  
+- HashiCorp 인수에 따른 희석 영향 일부 존재  
+
+OPM  [미공개]% (+100 bps)  
++ 생산성 향상, 포트폴리오 믹스 개선, 비용 절감  
+- 인수 관련 희석 및 일부 인력 조정 비용 반영  
+
+[ 가이던스 요약 ]
+
+Guidance FY2026 (updated)  
+- Revenue growth 5%+ vs. 기존 5%+ [유지]  
+- Gross margin 약간 상승 예상 (구체 수치 미공개) [유지]  
+- Operating margin 약 1%p 확장 예상 vs. 기존 1%p 확장 [유지]  
+- EPS 가이던스 미공개, Free cash flow 약 $1B 증가 예상 [유지]  
+
+주요 변화  
+- 소프트웨어 사업 10% 성장 기대, GenAI 및 M&A 시너지 효과 반영  
+- Infrastructure는 제품 주기 영향으로 저성장 예상  
+- Confluent 인수로 2026년 약 $600M 희석 예상하나 EBITDA 내 첫 해부터 흑자 전환 기대  
+- 생산성 향상으로 $5.5B 연간 절감액 목표 상향 조정  
+
+[ Comments 요약 ]
+
+AI 및 GenAI 전략 코멘트  
+① GenAI 누적 수주 $12.5B 돌파, 소프트웨어 $2B, 컨설팅 $10.5B 이상으로 최대 분기 성장 기록  
+② AI를 고객 데이터 및 프로세스에 맞춘 맞춤형 솔루션으로 제공하며 IBM Granite, 타사 및 오픈 모델 활용  
+③ Project Bob을 통한 개발자 생산성 45% 향상, 내부 AI 활용으로 업무 효율 극대화  
+④ 주요 고객사(모건스탠리, 페덱스, 마스터카드 등)에 AI 솔루션 적용 확대 중  
+
+IBM Z 및 인프라 혁신 코멘트  
+① z17 플랫폼 매출 61% 성장, 20년 내 최고 분기 실적 기록  
+② AI 추론 성능 50% 향상, 양자내성 보안 및 운영 효율성 강화  
+③ 하이브리드 클라우드와 원활한 통합으로 미션 크리티컬 워크로드 지원  
+④ 신규 파트너십(AMD, Anthropic, AWS, MS, OpenAI, Oracle, NVIDIA) 통해 AI 인프라 확장  
+
+M&A 및 생산성 향상 코멘트  
+① HashiCorp, Confluent 등 전략적 인수로 제품 및 시장 시너지 창출  
+② 2025년 연간 $4.5B 생산성 절감 달성, 2026년 $5.5B 목표 상향  
+③ Confluent 인수로 2026년 $600M 희석 예상하나 EBITDA 내 흑자 전환 기대  
+④ 강력한 자본 배분 정책과 현금 흐름으로 혁신 투자 및 주주 환원 지속
