@@ -1,0 +1,259 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] And the first question will come from Wamsi Mohan with Bank of America.
+
+Wamsi Mohan
+BofA Securities, Research Division
+
+Wendell, we'll all have to get together and share Ann's stories on this news. I guess like on my question, you noted that there are similar long-term agreements with other major customers to dedicate capacity. Can you help us think about if any of that is already baked into your Springboard plan? And secondarily, the optical fiber market has been very tight globally. Would you say that you're experiencing supply constraints at the moment? And do you have a view on how pricing could evolve on the fiber side given these kind of constraints?
+
+Wendell Weeks
+Chairman, President & CEO
+
+Okay. Let's start with the similar agreements to Meta that we are in the process of concluding. Okay. First, let's size them. They are of a similar size and scale, each of them to the Meta agreement. So very significant ones. What is our approach to these in the Springboard plan? As you have noted, we tend to be very thoughtful and conservative as we give these upgrades. So we have not yet included everything that those could mean because we have yet to conclude all of those agreements. And also remember, this -- we are dedicating capacity for these customers, and we're in the process of building now. So we won't see the financial impact really until you get into '27 and then it will continue to build 2028. So that is the way I would portray those. Before I get to the second question, Wamsi, did that address your question? And do you have any further follow-ups on that question?
+
+Wamsi Mohan
+BofA Securities, Research Division
+
+No, that's good Wendell.
+
+Wendell Weeks
+Chairman, President & CEO
+
+Okay. As far as the optical fiber market, I would say on a generic basis, it is our opinion that there is enough fiber in the world to meet demand. Now what our capacity expansions are about is about our new high-density products in fiber, in cable and in connectivity. And for those, we are experiencing a very, very robust demand, and that is why we continue to expand our capacity and improve our productivity in these products. If we could make more of these new products, we could sell more. And it is for those type of products that we are dedicating these capacity through these agreements.
+
+Is that a good answer to your question, Wamsi?
+
+Wamsi Mohan
+BofA Securities, Research Division
+
+Yes. Is there a pricing element, Wendell, though, that we're not yet maybe seeing that potentially as you're talking about these fairly massive amounts of demand coming in, would that change the economics around pricing for you?
+
+Wendell Weeks
+Chairman, President & CEO
+
+Yes. So what you'll tend to experience here is over time, you'll see a mix impact of these more valuable innovations. These innovations enable our customers to have better and more reliable optical performance in about half the space with significantly reduced installation cost. Whenever we create this much value, usually some of that value creation will end up accruing to our shareholders. We would assume that, that will be so in this case as well as we begin to master our manufacturing of these product sets. So over time, the more valuable our innovations are, we would expect our profitability to improve.
+
+Ann Nicholson
+Vice President of Investor Relations
+
+Next question?
+
+Operator
+
+And our next question will come from Josh Spector with UBS.
+
+Joshua Spector
+UBS Investment Bank, Research Division
+
+Congrats, Ann. I wanted to ask first just on similar lines of the capacity that's being added. So if we think about Meta as a share of your enterprise sales today versus what this agreement implies, are they going to disproportionately buy more from you after this agreement? And are you adding capacity to match that added sales? Or is it less than that, meaning your capacity might tighten a bit as it relates to this agreement?
+
+Wendell Weeks
+Chairman, President & CEO
+
+Okay. So the first is sort of relatively scale last year, and Ed maybe help me with some of the numbers. Our enterprise business was about $3 billion for the year. Roughly 2/3 of that would be the hyperscalers, of which Meta was one.
+
+Edward Schlesinger
+Executive Vice President & Chief Financial Officer
+
+Yes, that's right. We were a little over $3 billion in enterprise, and Wendell is right. And I think a good note was our enterprise business in total grew 60%. The hyperscale portion of that grew almost double that rate in 2025.
+
+Wendell Weeks
+Chairman, President & CEO
+
+So with this sort of significant agreement, you're obviously seeing continued very high growth into the future. Now you asked the question of does this mean that relative to our other customers, will be getting a lot more. I think was the thrust of your question. And what I just was sharing with you is we're concluding other similar size and scale agreements, several of them with other of our major customers. So what I think we tend to think about it as is not so much a shift in what portion of our product sets our various customers get is being overall, the pie is going to get much bigger and then people will decide sort of what slice of that they want. Does that address your question, Josh?
+
+Joshua Spector
+UBS Investment Bank, Research Division
+
+It does. I mean I guess what I'm trying to figure out here, does this -- so if we thought hyperscalers were going to grow at X percent and Meta within one of them, we're baking something like that into our estimates of what your growth would be. Does this -- it sounds like this kind of codifies that growth and maybe secures them some of that capacity as you grow into the future versus Corning capturing more share of that pie. That's what I want to make sure I understand is maybe you're capturing more share of that pie or not.
+
+Wendell Weeks
+Chairman, President & CEO
+
+Thank you so much, Josh. So you will have your point of view on sort of the rate of optical growth in Gen AI and our hyperscalers. It is true that our new products and the reaction to those new products is increasing the demand for our products relative to the demand of others' products, mainly because of the unique advantages these innovations are offering. Now how all that will shake out, I am not sure, but I like our hand a lot better than I would like anybody else's.
+
+Operator
+
+And the next question will come from Meta Marshall with Morgan Stanley.
+
+Meta Marshall
+Morgan Stanley, Research Division
+
+Congrats on the quarter. I just wanted to ask kind of one clarifying question about the Meta deal. Just since you mentioned kind of expansions in high-capacity cable, would any of what is kind of included in that deal be included in the carrier line item? Or is that all kind of being counted in enterprise today and going forward? And then maybe on a second question, just if you could kind of give a sense of CapEx for the year as you start to kind of make out some of these capacity investments.
+
+Wendell Weeks
+Chairman, President & CEO
+
+Well, first, I'd like to thank you for participating in that CNBC, special that was done that I appreciate. And then I'll turn it over to Ed for the answers to your questions.
+
+Edward Schlesinger
+Executive Vice President & Chief Financial Officer
+
+Yes. So on the accounting of the Meta deal, you can think of our accounting protocol as when we're selling to a hyperscaler directly like Meta, we'll account for that in our enterprise business. And when we're selling to a carrier like Lumen or AT&T, for example, we account for that in our carrier business. The only thing that gets a little bit maybe confusing is that data center interconnect has typically, at least to date for us, long-haul data center interconnect has gone through carriers. So our customers, for example, Lumen, are building out networks for data centers. We think of that as sort of outside the data center. That sits in our carrier business. But the Meta deal would be all in enterprise.
+
+Does that make sense?
+
+Meta Marshall
+Morgan Stanley, Research Division
+
+That does. Yes.
+
+Edward Schlesinger
+Executive Vice President & Chief Financial Officer
+
+Okay. And I'm sorry, can you repeat your second part of the question?
+
+Meta Marshall
+Morgan Stanley, Research Division
+
+Just the CapEx, how we should think about CapEx in terms of 2026?
+
+Edward Schlesinger
+Executive Vice President & Chief Financial Officer
+
+Yes. So we plan to spend about $1.7 billion in CapEx. For reference, we spent a little under $1.3 billion this year. Our depreciation level happens to be around that $1.3 billion level. So we're spending a little bit more in '26. We plan to spend a little bit more. That is good. We have a lot of growth opportunities. We want to ensure that we invest for those opportunities. Optical is a place that you can think about where we'll direct a lot of that capital.
+
+And of course, as we shared on the call, we look to ensure we get a really strong return on those investments. Sometimes that gets accounted for by customers providing an upfront payment. Sometimes that gets accounted for in the nature of our agreement with the customer. So that may show up in the operating cash flow, the cash section or against our capital, but you can think of us as spending around that $1.7 billion.
+
+Operator
+
+And our next question will come from George Notter with Wolfe Research.
+
+George Notter
+Wolfe Research, LLC
+
+Just to continue on that line of questioning, the $1.7 billion, does that include specific CapEx associated with the Meta project? Or is that just -- there's kind of a gross and a net number here, I think. And I guess I'm trying to figure out -- I think the basic idea here for you guys is you're trying to get your customers to pay for more of your capital expansions or capacity expansions. And I guess I'm just trying to figure out how much of this is ascribed to the customer and how much of this is on Corning?
+
+Edward Schlesinger
+Executive Vice President & Chief Financial Officer
+
+Yes. So as we've shared, we use a number of tools to derisk our investments. Sometimes when we do an upfront payment from a customer, it goes against the capital and sometimes it actually doesn't. It may be a refundable down payment that they get through a take-or-pay mechanism or some other mechanism in the contract. We don't disclose and we typically don't disclose the details of any specific agreements. But I can say that, for sure, some of the capital we plan to spend in 2026 is for the Meta deal.
+
+George Notter
+Wolfe Research, LLC
+
+Got it. Okay. And then just one other question. Certainly, not every major customer -- certainly, you'll have customers in the optical business that won't sign contracts like this. I assume that with those other customers, those guys will be looking at price increases. Is that a part of the strategy here?
+
+Wendell Weeks
+Chairman, President & CEO
+
+So first of all, to add on it, our plan with that $1.7, we are integrating -- and the cash flows that we're thinking about, we're integrating all of the various customer agreements we believe that we will complete, and we're addressing that as thoughtfully as we can. So more to come in that space over time, but that is what we think we'll invest this year. As far as our other customers, well, for long-standing customers, like our carrier customers, they are not related to these particular product sets. And so we will continue to serve them and serve them in an excellent way. And what we're seeking here is just to make sure that we have assured revenue streams against any capacity that is dedicated specifically to those customers that are scaling this rapidly.
+
+Operator
+
+And the next question will come from Steven Fox with Fox Advisors.
+
+Steven Fox
+Fox Advisors LLC
+
+First of all, congrats to Ann. I'm pretty sure you could probably do another 40 years if you wanted to. But congrats, and thanks for all your help. I guess just on everything that was announced around optical, I was wondering if you could fill in the blanks on 2 things. One is you seem to be pushing more and more assets towards U.S. North America production. And I was curious how you feel about international markets for Corning in the coming years?
+
+And secondly, Ed, I understand not changing the operating margin target yet for the company as a whole, but it seems like everything you talked about around optical is pretty positive for Optical's own operating margin. So like maybe you could sort of give us some clues as to how that could influence the overall corporate average.
+
+Wendell Weeks
+Chairman, President & CEO
+
+Let me start on the first one about the global mix of our sales. We, today are about 60% outside the U.S. and about 40% in. And we would expect something in that zone to continue. But what will really drive the location of our factories will tend to be where our customers are because we seek to locate close to them. So if a lot more gets built in the West on the AI side, then we would expect to have more of that be here.
+
+If on the other side, in the glass side, let's say, or in our automotive emissions business or any of our other new innovations, more of that were to build in Asia, that's where we would locate that manufacturing. And just remember, throughout all of this, what happens to us every year is we're continuously improving our productivity, which is where we tend to get the product to be able to support ever-increasing revenue. And then if we don't have a revenue opportunity for that in a specific market, then what we seek to do is develop new markets for that capability like we did for Gorilla, from Display and then Automotive from Gorilla. So that tends to be our approach with the dedication to the locations we build a factory.
+
+Edward Schlesinger
+Executive Vice President & Chief Financial Officer
+
+Yes, Steve, on margins, I'm going to step back for a second, and then I'll come to your question. I think when we first created Springboard and launched it, improving our operating margin, our profitability and our cash generation was such a huge component of the plan because of where we were operating from our financial profile. We needed to get our returns up. We needed to generate more cash, and we've significantly done that. We feel great about it. Optical has actually been a huge component of that. We've been talking specifically about their net income margin over the last year or 2, and that's now at 18%, significantly above where it was when we started this plan. So I think that actually is a good sort of background for how we think about going forward.
+
+So from here forward, I think you're right, it is highly likely that our operating margin goes above 20%. We could do that for periods of time. It could be nicely above 20%. But we really like the financial profile, and we want to focus on improving our return on invested capital, and we want to generate more cash. So we want to make sure we capture all the growth that we can in this next window of time. So that's primarily why we're not putting the new target out. We expect to be at 20% or above 20%, and we expect to grow significantly, and we think that return profile is very compelling.
+
+Operator
+
+Next question will come from Asiya Merchant with Citi.
+
+Asiya Merchant
+Citigroup Inc., Research Division
+
+Great. Congrats again, Ann, on the retirement. You will be missed. Wendell, if I may, a question for you on the optical side of things. You've talked a lot about CPO and the scale-up opportunity. So given the growth profile that you guys are talking about here with additional commitments from hyperscalers coming forth, can you just remind us, is scale up included in that outlook through, let's say, here through the '28? Or are we looking at that opportunity further beyond?
+
+Wendell Weeks
+Chairman, President & CEO
+
+So the straightforward answer before I give others more color. is we do not have a significant revenue amount for scale-up included in this most recent Springboard upgrade. So that would be on top, depending on your opinion on timing.
+
+For those of you who are less close to scale up, what Asiya is asking about is because transmitting information with photons is greater than 3x lower power usage than using electrons even in very short lengths inside switches or servers and that, that advantage increases dramatically, the longer you want to go with the higher the bit rate could be 20x or more. There is a widespread deep technical effort going on to be able to bring more optics into the scale-up piece of the network, closer and closer to the GPUs and inside the boxes closer and closer to the switch ASICs.
+
+Though I believe deeply, the innovator in me believes deeply that it is inevitable that those links go to photons. And I also believe that our innovations will play a significant role in those new links. I believe that's inevitable. Calling timing is more difficult. There are scenarios where the timing would be within this -- the time period between now and 2028. There are scenarios where it will be primarily starting maybe late 2028 and beyond.
+
+What we seek to do with Springboard is to not overspeculate. And if we don't have really quite compelling evidence of the timing of something as significant and large as the scale-up opportunity is, we will tend to view the time line from a conservative point of view.
+
+Does that answer your question?
+
+Asiya Merchant
+Citigroup Inc., Research Division
+
+Yes, it's great. If I may, one for Ed as well. Ed, you talked a little bit about operating margins or net income margin for optical. Can you just remind us like within the Springboard, how we should think about margins for the solar business that's ramping up here and expected to, I think, drive margins, which are at or accretive to corporate. So if you can just remind us where we are on that ramp and what it looks like within the updated Springboard.
+
+Edward Schlesinger
+Executive Vice President & Chief Financial Officer
+
+Yes. Thanks. So as we've shared in Q4 and Q1, we're expecting sort of a similar situation is we're significantly ramping an extremely large factory. And so there's a drag on our margins, our profit dollars as well. We sized that in the fourth quarter originally at about $0.03. It was a little more than that. In the first quarter, we expect to be in the $0.03 to $0.05 range. So if you were to take that drag, just the drag part, not even the higher sales and eliminate that from our financials, clearly, our margins would go up. Obviously, our profit dollars would go up. And specifically, that would hit in that Hemlock and Emerging Innovations segment, which is where we have solar.
+
+So I think there's a nice opportunity for us there to improve margins as we continue to ramp. And we expect sales to go up and our profitability to improve through the year of 2026, and we expect to get this business to the sort of size and scale we would expect it to be, including margins at or above the Corning average by 2028.
+
+Operator
+
+The next question will come from Tim Long with Barclays.
+
+Timothy Long
+Barclays Bank PLC, Research Division
+
+Two, if I could as well. One on the optical side. If you could go back to the carrier piece. Just want to understand how you're thinking about this business going forward. I think historically, we've seen pretty big cycles here, a few good years and then some catch-up inventory, whatever. But now there's a lot more data center in that line. So when you think about the carrier business over the next few years, do you think that the cyclicality of the business has changed and it's a little bit more secular. I'd love your thoughts on that.
+
+And then second, maybe if we could just touch on display. I think the has moved back the last few weeks, but it was getting up there. So Ed, if you could just talk -- I get you're managing to that 25% and $900 million to $950 million of net income. Is there a scenario? I know you have hedges where we might need to see more price increases? Or where are we with the flow-through of the last set of price increases?
+
+Edward Schlesinger
+Executive Vice President & Chief Financial Officer
+
+Yes. So on carrier, I'll start there. In 2025, our business was up about 15%. Majority of that growth was data center interconnect. I certainly see the data center interconnect portion of -- or the carrier business being driven by data center interconnect spend. That said, I think you'll see fiber-to-the-home growth as well. So I do think carrier will grow over the next several years, and we factored in scenarios and how we think of that in our Springboard plan, but probably the largest driver, data center interconnect.
+
+Does that answer your question?
+
+Timothy Long
+Barclays Bank PLC, Research Division
+
+Yes. Yes, that's helpful. And then on to Display.
+
+Edward Schlesinger
+Executive Vice President & Chief Financial Officer
+
+Yes. And then on to Display. So the way I think about display is our goal is to generate $900 million to $950 million of net income, cash out of that business. We did better than that this year. We a little higher on income and our margin percent was a little above our target. And we expect to be able to maintain that, and we could certainly be above that. At times, we could certainly be above that in 2026. To the extent we need to adjust for a weaker yen than what we have, and we have a [ JPY 120 ] in there, we will do what we need to do on price or otherwise to ensure that we can deliver that level of profitability.
+
+Ann Nicholson
+Vice President of Investor Relations
+
+We'll take one last question.
+
+Operator
+
+And our last question comes from John Roberts with Mizuho.
+
+John Ezekiel Roberts
+Mizuho Securities USA LLC, Research Division
+
+Congrats as well, Ann. I hope you're headed to some place warm. What percent of bare fiber is currently used internally for cabling? And are you importing any bare fiber into the U.S.
+
+Wendell Weeks
+Chairman, President & CEO
+
+I don't actually know the answer to that question off the top of my head, and everybody is looking at me like I should. So John, let us take a moment to gather that information and we'll chat with you.
+
+Ann Nicholson
+Vice President of Investor Relations
+
+Great. Okay. So just quickly, thank everybody for joining us today. I wanted to let you know before we go that we're going to attend the Susquehanna Tech Conference on February 27 and the Morgan Stanley Tech Conference on March 3. Additionally, we'll be scheduling management visits to investor offices in select cities. Finally, a web replay of today's call will be available on our site starting later this morning. So thanks again for joining us and for the well wishes for me. Operator, that concludes our call. Please disconnect all lines.
+
+Operator
+
+Thank you for participating, and you may now disconnect.
+

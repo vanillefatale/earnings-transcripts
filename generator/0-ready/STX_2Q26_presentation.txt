@@ -1,0 +1,119 @@
+Seagate Technology Holdings plc (STX) Q2 2026 Earnings Call January 27, 2026 5:00 PM EST
+
+Company Participants
+
+Shanye Hudson - Senior Vice President of Investor Relations & Treasury
+William Mosley - CEO & Chairman
+Gianluca Romano - Executive VP & CFO
+
+Conference Call Participants
+
+Christopher Muse - Cantor Fitzgerald & Co., Research Division
+Wamsi Mohan - BofA Securities, Research Division
+Erik Woodring - Morgan Stanley, Research Division
+Asiya Merchant - Citigroup Inc., Research Division
+Karl Ackerman - BNP Paribas, Research Division
+James Schneider - Goldman Sachs Group, Inc., Research Division
+Amit Daryanani - Evercore ISI Institutional Equities, Research Division
+Mark Newman - Bernstein Institutional Services LLC, Research Division
+Sreekrishnan Sankarnarayanan - TD Cowen, Research Division
+Steven Fox - Fox Advisors LLC
+Aaron Rakers - Wells Fargo Securities, LLC, Research Division
+Timothy Arcuri - UBS Investment Bank, Research Division
+Mehdi Hosseini - Susquehanna Financial Group, LLLP, Research Division
+Ananda Baruah - Loop Capital Markets LLC, Research Division
+Vijay Rakesh - Mizuho Securities USA LLC, Research Division
+
+Presentation
+
+Operator
+
+Welcome to the Seagate Technology Fiscal Second Quarter 2026 Conference Call. [Operator Instructions] Please note, this event is being recorded. I would now like to turn the conference over to Shanye Hudson, Senior Vice President, Investor Relations. Please go ahead.
+
+Shanye Hudson
+Senior Vice President of Investor Relations & Treasury
+
+Thank you, and hello, everyone. Welcome to today's call. Joining me are Dave Mosley, Seagate's Chair and Chief Executive Officer; and Gianluca Romano, our Chief Financial Officer.
+
+We've posted our earnings press release and detailed supplemental information for our December quarter results on the Investors section of our website. During today's call, we will refer to GAAP and non-GAAP measures. Non-GAAP figures are reconciled to GAAP figures in the earnings press release posted on our website and included on our Form 8-K. We've not reconciled certain non-GAAP outlook measures because material items that may impact these measures are out of our control and/or cannot be reasonably predicted.
+
+Therefore, a reconciliation to corresponding GAAP measures is not available without unreasonable effort. Before we begin, I'd like to remind you that today's call contains forward-looking statements that reflect management's current views and assumptions based on information available to us as of today and should not be relied upon as of any subsequent date.
+
+Actual results may differ materially from those contained in or implied by these forward-looking statements as they are subject to risks and uncertainties associated with our business. To learn more about these risks, uncertainties and other factors that may affect our future business results, please refer to the press release issued today and our SEC filings, including our most recent annual report on Form 10-K and quarterly report on Form 10-Q as well as the supplemental information, all of which may be found on the Investors section of our website.
+
+Following our prepared remarks, we'll open the call up for questions. [Operator Instructions] With that, I'll turn the call over to you, Dave.
+
+William Mosley
+CEO & Chairman
+
+Thanks, Shanye, and hello, everyone. Seagate closed out calendar 2025 with a record-breaking quarter driven by sequential revenue growth across nearly all end markets. December quarter financial results exceeded both top and bottom line expectations and set new company records for exabyte shipments, gross margin, operating margin and non-GAAP earnings per share.
+
+We expanded non-GAAP gross margin above 42%, supported by the execution of our pricing strategy, along with an improving mix of our high capacity drives as HAMR shipments ramp. Looking at the entire calendar year, 2025 marked a transformational period for Seagate, both financially and operationally. Over the calendar year, we increased revenue by over 25%, improved gross margins by nearly 740 basis points and expanded operating margins by an even greater amount, demonstrating the profitability leverage in our financial model.
+
+2025 also solidified HAMR technology as a long-term enabler of mass capacity storage. We ended the year shipping 3 terabyte per disk Mozaic-based HAMR products to our first CSP customer. And by year's end, quarterly HAMR shipments exceeded 1.5 million units and have continued to ramp. Mozaic 3 HAMR drives are now qualified with all of the major U.S. CSP customers and qualifications for our second-generation Mozaic 4 terabyte per disk products are tracking well to plan.
+
+These developments align with our long-term areal density road map that extends to 10 terabytes per disk, which we expect to deliver early in the next decade. I want to thank our Seagate teams around the world for exceeding our performance expectations and delivering outstanding value to our global customers.
+
+We continue to operate in an exceptionally strong demand environment, particularly within the data center end markets. In the December quarter, we saw sustained demand growth for our high capacity nearline drives across global cloud data centers as well as continued improvement from the enterprise edge. Based on our build-to-order pipeline, we anticipate these positive demand trends will continue for some time.
+
+Our nearline capacity is fully allocated through calendar year 2026, and we expect to begin accepting orders for the first half of calendar year 2027 in the coming months. Further out, demand visibility is strengthening based on the long-term agreements in place with major cloud customers through calendar '27. Additionally, multiple cloud customers are discussing their demand growth projections for calendar '28, underscoring that supply assurance remains their highest priority.
+
+We will continue to meet strengthening demand through our strategy to maintain supply discipline and satisfy exabyte growth through areal density advancements and without increasing unit production volume. In the December quarter, our average nearline drive capacities rose by 22% year-over-year, approaching 23 terabytes per drive, with those sold to cloud customers averaging significantly higher. This trend underscores the strong adoption of our higher capacity drives to support demand growth.
+
+At the same time, revenue per terabyte sold has remained relatively stable, reflecting the effectiveness of our pricing strategy. Seagate is well positioned to continue benefiting from the combination of powerful secular tailwinds and supply discipline. Video applications continue to drive significant demand for hard drives with platforms like YouTube witnessing 20 million video uploads daily, up from just 2 million 3 years ago. This staggering pace of growth extends to other cloud video platforms and doesn't yet include the full surge in content generation expected from emerging AI-driven video applications.
+
+These applications are not only fueling social media uploads, they are also transforming how organizations turn their data into tangible value, enabling personalized marketing, interactive education and advanced simulations, capable of training manufacturing, engineering, health care and other professionals. The strategic value of data is further underscored as new applications and use cases emerge across cloud and edge workloads.
+
+Among the most promising of these is agentic AI, which relies on persistent access to large volumes of historic data to enable effective planning, reasoning and independent decision-making. Adoption is already gaining momentum with one recent survey conducted by a leading cloud service provider reporting more than half of participating customers were actively using AI agents. Early adopters are already realizing measurable returns with benefits ranging from lower cost to increase revenue opportunities.
+
+With the deployment of AI agents at the edge, where untapped data often resides, we believe the stage is set for a sustained and meaningful increase in data generated and stored that will support inferencing, continuous training and also maintain model integrity. Modern data centers have evolved to address the complexity and scale that massive workloads bring through sophisticated data tiering architectures, ensuring that the right data is available at the right time and place.
+
+Hard drives are essential to these architectures, anchoring the mass capacity data tier that stores the vast majority of exabytes from storing the checkpoint data sets used to train and maintain model integrity to supporting vector databases that provide the context necessary for accurate inference results and agentic AI performance. By leveraging hard drives, data center operators, whether in the cloud or on-prem, can achieve the optimal balance of performance, capacity and cost efficiency at scale.
+
+Against this transformational backdrop, Seagate's HAMR technology road map positions us to meet growing demand and deliver ongoing TCO improvement for our customers. HAMR is a proven technology with large volumes of drives running in cloud production environments for more than 3 quarters now, and performing well across a broad spectrum of use cases. We are systematically ramping our Mozaic 3 HAMR products to qualified customers while maintaining focus on optimizing the profitability of our available supply.
+
+As noted earlier, Mozaic 3 is now qualified with all major U.S. CSP customers and remains on track to have all global CSPs qualified within the first half of calendar 2026. Additionally, qualifications of our second-generation Mozaic 4 products are progressing well. We expect to begin the ramp of Mozaic 4 later this quarter and have multiple CSPs qualified in the coming months in line with our plans. We continue to set the pace for the industry, recently demonstrating 7 terabytes per disk capability in our labs. As one of our largest CSP customers recently aptly described, hard drives are engineering marvel, a sentiment that we obviously share.
+
+Our deep expertise across mechanical engineering, material science, nanoscale fabrication and now advanced photonics, not only enable Seagate to deliver on the HAMR road map, but also creates a durable competitive moat for hard drive technology well into the future.
+
+Wrapping up, 2025 was a milestone year for Seagate in every respect. Financial performance, operational execution and technology leadership. We are carrying this momentum into calendar 2026 supported by a powerful demand backdrop as new AI applications start to complement traditional workloads.
+
+We will remain highly disciplined and focused on expanding profitability through our higher capacity product mix, underpinned by the strong economics of HAMR. Our areal density road map positions Seagate to sustain the core TCO and efficiency advantages of hard drives as data creation and storage requirements accelerate in the AI era. We believe this foundation creates a compelling long-term value proposition for the company, our customers and our shareholders.
+
+I'll now turn the call over to Gianluca to cover our results in greater detail.
+
+Gianluca Romano
+Executive VP & CFO
+
+Thank you, Dave. Seagate delivered another quarter of strong year-over-year revenue growth and set new record profitability metrics in the December quarter, underscoring the durability of data center demand trends. Additionally, we strengthened our financial position by retiring $500 million in gross debt and generating over $600 million in free cash flow, marking the highest level in 8 years.
+
+December quarter revenue came in at $2.83 billion, up 7% sequentially and up 22% year-over-year. We achieved non-GAAP gross margin of 42.2%, up 210 basis points sequentially, and we expanded non-GAAP operating margin by 290 basis points sequentially to 31.9%. Our resulting non-GAAP EPS was $3.11, up 19% quarter-over-quarter. These strong financial results demonstrate our ability to execute our strategic objectives, including leveraging our technology road map to support demand growth.
+
+To that end, we shipped 190 exabytes in the December quarter, up 26% year-over-year, while keeping overall unit capacity relatively flat. The data center market accounted for 87% of our shipment volume, supported by ongoing demand momentum from global cloud customers and sequential growth across the enterprise OEM markets. We shipped 165 exabytes in the data center market, up 4% sequentially and 31% year-on-year.
+
+Data center revenue grew at roughly the same pace totaling $2.2 billion for the quarter, up 5% sequentially and 28% year-on-year. Against this strong demand backdrop, both cloud and enterprise customers are transitioning to higher capacity drives. Average cloud nearline capacity increased to nearly 26 terabytes in the December quarter and will continue to grow with the ramp of HAMR-based Mozaic products. As Dave highlighted, Mozaic drives are running very well in production environment and meeting all performance, reliability and integration expectations.
+
+In the enterprise OEM market, we are benefiting from slight improvement in traditional server units, along with increasing demand for storage servers, driven in large part by the adoption of AI applications and need to store data at the enterprise edge. The edge IoT market made up the remaining 21% of revenue at $601 million, supported by anticipated seasonal improvement for consumer products in the VIA client market. We project the broader VIA market to grow over time with the largest growth contribution coming from VIA nearline products that are captured as part of our data center end market.
+
+Moving on to the rest of the income statement. Non-GAAP gross profit increased to $1.2 billion, up 13% quarter-over-quarter and 44% compared with the prior year period, significantly outpacing revenue growth. Non-GAAP gross margin expanded to 42.2% in the December quarter up from 40.1% in the prior period. This improvement reflects the ongoing execution of our pricing strategy and the growing adoption of our latest generation high capacity products, which collectively drove a modest sequential increase in revenue per terabyte, a trend we expect to continue into the March quarter.
+
+Non-GAAP operating expenses were $290 million, relatively flat quarter-over-quarter and in line with our expectations. Operating expense as a percent of revenue declined to 10.3%, rapidly trending towards our long-term target of 10%. The combination of strong top line growth and significant financial leverage drove an 18% sequential improvement in non-GAAP operating profit to $901 million, almost 32% of revenue. Other income and expenses were $70 million, reflecting slightly lower interest expenses on the reduced outstanding debt balance.
+
+We currently project other income and expenses to remain relatively flat in the March quarter. We grew non-GAAP net income to $702 million with corresponding non-GAAP EPS of $3.11 per share based on tax expenses of $129 million and a diluted share count of approximately 226 million shares, including the net impact of our 2028 convertible notes.
+
+Turning now to cash flow and the balance sheet. We invested $116 million in capital expenditures for the December quarter or roughly 4% of revenue. We are maintaining capital discipline while we continue to transition and ramp HAMR technology. To support these objectives, we anticipate capital expenditures for fiscal year 2026 to be inside our target range of 4% to 6% of revenue.
+
+Free cash flow generation was strong at $607 million, up 42% from the prior quarter. Looking ahead, we expect free cash flow generation to further expand in the March quarter, supported by sustained demand trends, operational efficiency and capital discipline. These factors position us well for durable long-term cash flow generation.
+
+Cash and cash equivalents totaled just over $1 billion at the end of December quarter, with ample liquidity of $2.3 billion, including our undrawn revolving credit facility. During the December quarter, we returned $154 million to shareholders through dividends. We retired approximately $500 million of exchangeable senior notes due 2028, which serves to limit further dilutive impact from business and optimized cash deployed for future share repurchases.
+
+Our resulting gross debt balance was approximately $4.5 billion exiting the quarter. Net leverage ratio improved to 1.1x based on adjusted EBITDA of $962 million for the December quarter, up 16% quarter-over-quarter and up 63% year-on-year. We expect the net leverage ratio will trend lower as profitability and cash generation increase while we continue to evaluate opportunities to further reduce debt.
+
+Turning now to the March quarter outlook. The demand environment remains strong, particularly among global cloud customers. As a result, we expect data center demand will more than offset typical March quarter seasonality in the edge IoT markets. We expect March quarter revenue to be in the range of $2.9 billion, plus or minus $100 million, which represent a 34% year-over-year improvement as a midpoint.
+
+Non-GAAP operating expenses are expected to be approximately $290 million. Based on the midpoint of our revenue guidance, non-GAAP operating margin is expected to approach the mid-30% range. Non-GAAP EPS is expected to be $3.40 plus or minus $0.20, based on a tax rate of about 16% and non-GAAP diluted share count of 230 million shares, including estimated dilution from our 2028 convertible notes of approximately 7.6 million shares.
+
+Seagate's strong December quarter performance and March quarter guidance underscore our continued focus on driving growth, enhancing profitability and optimizing cash generation. Based on our current outlook, we expect to deliver sequential improvement to both the top and bottom line throughout calendar 2026 and remain in a strong position to enhance value for both customers and shareholders over the long term.
+
+Operator, let's open the call up for questions.
+

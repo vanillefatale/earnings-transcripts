@@ -1,0 +1,352 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] And the first question comes from C.J. Muse with Cantor Fitzgerald.
+
+Christopher Muse
+Cantor Fitzgerald & Co., Research Division
+
+Given the supply-demand dynamics, you're obviously in the catbird seat. I wanted to really try to get some more detail on gross margins going forward. Your philosophy historically has been to share gains, both your customers and yourselves. But at the same time, given this tight environment, you are raising like-for-like pricing. So curious, is there a framework to think about in terms of the incremental gross margins that we should model from here?
+
+And then, I guess, maybe bigger picture, as you think about overall average pricing per exabyte, we've gone from kind of down double digits to high single digits. And I think we just exited the quarter down 4% year-on-year. Do you see a world where pricing could flat or even move positive year-over-year?
+
+William Mosley
+CEO & Chairman
+
+Yes. Thanks, C.J. I'll let Gianluca chime in here as well, but the pricing will be dictated by the demand. Right now, the demand is really strong. So I think as we roll through into '27 and '28, we look at how much capacity we're having. We're bringing online by virtue of the fact that we're making all these aggressive product transitions. We'll bring more exabytes to bear and then people go out there and renegotiate for those. I think flat to slightly up is certainly possible. And that's the way we're really managing it as we talk to our customers. The value proposition of the new drives as they go up 5, 10 terabytes at a time is pretty strong.
+
+Gianluca Romano
+Executive VP & CFO
+
+C.J., so on the gross margin, we are executing very well, but executing a little bit better than what we discussed at our Investor Day, where we presented a model with a 50% incremental margin above $2.6 billion of revenue. We have done better every quarter, of course, is our objective to continue to optimize what we produce, what we sell and finance the profitability that we can get from the product. So the models cover over a longer period of time, now 2, 3 years, not 2 or 3 quarters, but I'm positive we are continuing to progress in the right direction.
+
+Operator
+
+The next question will come from Wamsi Mohan with Bank of America.
+
+Wamsi Mohan
+BofA Securities, Research Division
+
+I have a similar type of question. I guess the gross margins in the guide and the incremental quarter-on-quarter gross margins on the guide are very strong. Can you maybe help bridge the drivers between mix and price? Obviously, you've got a better mix of data center revenue next quarter. But just wondering if you can dimensionalize that. And the opportunity for pricing, David, you just said sort of flat to up as possible. But as we think about the pricing that might be getting embedded within these LTAs and sort of beyond '26, why can't that be a lot higher just given the tightness in the supply-demand environment?
+
+William Mosley
+CEO & Chairman
+
+Yes. I think this gets into how persistent is the demand going to be, Wamsi, we talked about 2 or 3 years from now. The one behavior change that I really like in the last year is that people are starting to say, if I can't get it now, I'll plan next year better and the following year better. So we're having great dialogues on that front. Of course, supply has risen quite a bit in the last year's supply of exabytes from the industry. The industry has reacted pretty well, but I think demand is still pretty strong.
+
+And my perspective on this is I think demand will stay strong for quite some time. So in that kind of world, we're having great discussions with customers further out in time. And the biggest part that helps us in our planning is through these product transitions. They know that's how they get more exabytes.
+
+Gianluca Romano
+Executive VP & CFO
+
+Yes. And Wamsi, we are saying in the script today that for the rest of the calendar year, we expect revenue and profitability to continue to improve sequentially every quarter. So we are not implying in any way that this trend is changing. It's actually now getting better somehow.
+
+Operator
+
+The next question will come from Erik Woodring with Morgan Stanley.
+
+Erik Woodring
+Morgan Stanley, Research Division
+
+Congrats on these results, incredible. Dave, at your Analyst Day last year, you kind of pointed to a mid-20% exabyte growth CAGR. And I'm just wondering where you think that supply growth can land this calendar year. And as you get closer to that HAMR crossover point later this year, like does that pace of exabyte growth accelerate? And I'm just asking this because demand is clearly outpacing supply. So can you maybe just help us try to better understand the shape of your exabyte supply growth because obviously, it will dictate kind of exabyte shipments for the year?
+
+William Mosley
+CEO & Chairman
+
+Yes. Thanks, Erik. So we are planning to transition to 4 terabytes of platter. And fairly aggressively, but I think what people have to keep in mind is that we were fairly tight all throughout manufacturing. So we have products that are in the pipeline already that are committed to customers and so on. We don't just move very quickly to 3 or 4 terabytes of platter as things come. And it's a good problem to have, actually. We're running manufacturing quite, quite tight right now.
+
+So I think it will be a fairly prescriptive ramp, to your point. It won't be as fast as maybe we've done some ramps in the past, but it will be very profitable, and that's the way we look at it. As we go further out in time, I'm very optimistic that the 4 terabytes per platter is a very strong product. It will start to replace some of the other legacy products, I'll say, that way and because it has so much better value proposition in a lot of those markets. And then when that happens, then we see more opportunity.
+
+Operator
+
+The next question will come from Asiya Merchant with Citi.
+
+Asiya Merchant
+Citigroup Inc., Research Division
+
+Great results here. Just a couple that are related to the prior question. You guys gave some projections on HAMR, not just for fiscal year '26, but even into fiscal '27. So if you could talk about upside to achieving those targets for the HAMR rollout. And related to that, how we should think about the blended cost reductions, pretty impressive, again, margins here and guiding for improved profitability. So if you could talk to us a little bit about the cost reductions going forward, especially as you ramp HAMR here with the Mozaic 4, that would be great.
+
+Gianluca Romano
+Executive VP & CFO
+
+Yes, Asiya. So I would say, first of all, we are very happy with the transition to HAMR. We qualified the last big cloud service provider in the U.S. and we have qualified 6 out of 8 of the top cloud service providers. So the transition from PMR technology to HAMR technology is progressing very well. And we are now qualifying the new product, the 4 terabyte per disk to 40 terabyte per drive. Of course, this will help with the increase in exabyte in terms of mix. We gave a good indication, I think, at our Investor Day, and we want to be aligned to that. And the cost will be favorably impacted, especially when we start ramping high volume of the 40 terabyte drive. Of course, that will drive a fairly important reduction in cost per terabyte compared to the current HAMR, and of course will be a good contributor to further increase our gross margin.
+
+Operator
+
+The next question will come from Karl Ackerman with BNP Paribas.
+
+Karl Ackerman
+BNP Paribas, Research Division
+
+I was hoping you could clarify what portion of your LTAs for overall nearline HDD capacity has fixed or multi-quarter pricing agreements. I ask because as these LTAs roll off throughout 2026, any new agreements will be locked in at higher values reflective of not only the [indiscernible] use case also widening price per terabyte gap between enterprise hardware drive [indiscernible].
+
+Shanye Hudson
+Senior Vice President of Investor Relations & Treasury
+
+And Karl, your -- the second part of your question was a little fuzzy. So we captured the first part, but I might ask you for clarity on that second.
+
+Karl Ackerman
+BNP Paribas, Research Division
+
+Sure. Yes, I'll just repeat, if I could. As these LTAs roll off throughout 2026, I would imagine those new LTAs will be priced at perhaps a higher value or higher order value, particularly given the widening gap between hard drives and SSDs. So if you can comment on the mix of LTAs and how you think that progresses throughout '26 would be great.
+
+William Mosley
+CEO & Chairman
+
+Yes. Thanks, Karl. So as we roll off, say, for example, somebody might have been qualified on a 2.4 terabyte per platter product or something, and then they might be qualifying a 3.2 or even a 4 terabyte per platter as we roll forward. So we change -- based on the demand that we see, we change -- and our available supply, we changed the pricing dynamic there. I think that's one of the biggest things you're pointing out.
+
+I'll say that '26 is fairly booked. We talked about that in the call a bit to the extent that we can out-execute our plan, it will be marginal like you saw last quarter, we get the qualifications done a little faster. We ship a few more drives. That's how we can do better than planned. But other than that, it's fairly predictable in '26, and we're looking to start '27 the same way.
+
+Operator
+
+The next question will come from Jim Schneider with Goldman Sachs.
+
+James Schneider
+Goldman Sachs Group, Inc., Research Division
+
+I was wondering if you could maybe address -- given everything you just said about demand and about the mix effect from HAMR this year, maybe can you give us any kind of directional guidance about where you might expect exabyte shipments to end up on a calendar '26 versus calendar '25 basis relative to the sort of long-term targets you've laid out previously. It seems like you could do materially better than that, but I just wanted to confirm what your expectations were if you could give us a numerical range.
+
+Gianluca Romano
+Executive VP & CFO
+
+Jim, no, we are not guiding calendar '26. But we said -- in our financial model, we said that we expect exabyte -- nearline exabytes to grow in the mid-20%. We have done a little bit better if you look at the last few quarters, and we always -- as Dave said before, we always try to extract as many exabyte as we can from our manufacturing. So we are continuing this trend, but we don't guide calendar '26.
+
+William Mosley
+CEO & Chairman
+
+But moving from 2.4 per platter to 3 per platter to 4 per platter, you can see that we're on a trajectory like you described. It's -- when it gets down to the individual customer level, obviously, we have to be very predictable because they need what they need and what they -- what we've committed to in order to build out that data center. So we'll continue to execute that plan and maybe we can do a little bit better as we transition to 4 terabyte per platter.
+
+Operator
+
+The next question will come from Amit Daryanani with Evercore.
+
+Amit Daryanani
+Evercore ISI Institutional Equities, Research Division
+
+Gianluca, I'm hoping you can talk a little bit about the March quarter guide because there seems to be a really sizable uptick in gross margins. I think it's up like 250 basis points or 100% plus incrementals. Could you just -- is there anything you would call out in March quarter that's unique that's helping drive that kind of margin expansion? And is this really all coming from the core HDD business? Or is there a potential benefit from the old systems business helping you as well?
+
+Gianluca Romano
+Executive VP & CFO
+
+Amit, well, I would say, we expect to be a very good quarter. I don't think it's different than what we have done before. It's always based on the pricing strategy and the mix, as you know. We qualified another customer on HAMR, so we will ramp a little bit more volume on HAMR. This is helping us to get better margin. But fundamentally, is not really different in how we think we are going to execute the quarter and is good. I think the incremental margin looks very good.
+
+William Mosley
+CEO & Chairman
+
+Yes. And it's not the systems business. The systems business is doing well, but it's fairly small scale in comparison.
+
+Operator
+
+The next question will come from Mark Newman with Bernstein.
+
+Mark Newman
+Bernstein Institutional Services LLC, Research Division
+
+Congrats on great numbers today. Just want to touch again on this, the LTAs and pricing arrangements you have. Just curious, do you think there's an opportunity here for more significant price increases in NAND flash. We're hearing things like 40% to 100% up Q-on-Q for some contracts. I appreciate hard disk drives -- you have very long-term agreements. But I think there's a lot of questions I'd like to just touch on this as well. And a lot of -- as the LTAs roll off, is there an opportunity for some of those to be repriced at a more significantly higher price to change the trajectory? Certainly, numbers are great you're printing.
+
+We're just trying to figure out could you start to see more significant price increases rather than at the moment, you're seeing kind of flattish down a little bit, up a little bit. But overall, your average prices are flat, which I understand is a mixture of like-for-like slightly up, offset by new products coming in at lower price. Just wondered if that may change. And then just a quick update on HAMR mix, if there's any update on the trajectory of the HAMR mix that you've outlined before.
+
+William Mosley
+CEO & Chairman
+
+Thanks, Mark. A couple of points. On the HAMR mix, we necessarily constrained ourselves on the 3 terabyte per platter because the factories were fairly full, and we knew we would be going to the 4 terabyte per platter product. So we've been leaning harder on that and making sure it gets through the development and qualification phases. As time goes on, then we'll move off and on to the 4 terabyte per platter very aggressively. So that helps you on the mix side. And the other thing about HAMR mix is it will be necessarily mixed up. I think the demand for those products will be at the high capacity points, not necessarily the lower capacity points just yet.
+
+And then relative to pricing, I think I said before, as we -- as one long-term agreement rolls into the next year or the next year, we've satisfied our existing supply commitments, people are looking at the new products, we have constrained supply of those new products, then we look at what the demand is, and we dictate where our pricing is. And one of the very first questions I said it could be flat to up a little bit. That's the way I think about it right now, but it all depends on what the demand is.
+
+The demand continues very strong, that's great. And again, what we're seeing is people who can't get what they need today, they're saying, okay, I need to be able to plan my data center procurement out in the future, let's get more predictable in the future, has given us better visibility, helps us run our factories for better cost and so on. So that's great.
+
+Operator
+
+The next question will come from Krish Sankar with TD Cowen.
+
+Sreekrishnan Sankarnarayanan
+TD Cowen, Research Division
+
+I had a question, I just want to put it in 2 parts. One is how much was your HAMR as a percentage of your exabyte shipment last year? How much do you expect it to be this year? The genesis of the question is I'm just trying to figure out, obviously, a lot of questions on the very strong gross margins. If there's a way to put it in 3 buckets, like how much of the gross margin upside is driven by pricing? How much is driven by product mix? How much is driven by cost reduction by offshoring manufacturing?
+
+William Mosley
+CEO & Chairman
+
+Yes, there's really no offshoring manufacturing or anything like that involved. Our manufacturing operations around the world are doing quite well and quite full. So that's helping from a cost perspective. But really no change in any manufacturing strategy to speak of. Relative -- I would say a lot of what -- the benefits we're seeing is mix and mix not just because we're actually transitioning into higher -- more -- better products over time, but also because the demand for those products is quite high.
+
+You think about it, if you're building a data center with a 3 terabyte per platter versus the 4 terabyte per platter, you're going to be running that data center for a long time, you want the higher capacity point. And to the extent that we can do that as predictably as possible, that mix is what's driving the stability out in the market for us and helping us plan.
+
+Gianluca Romano
+Executive VP & CFO
+
+Yes, Krish, we don't give specific details on the impact of pricing, mix and cost. But they are somehow interrelated. I would say the change in mix is helping with the cost reduction and the supply-demand situation is, of course, supporting our pricing strategy. So they are all very good contributor to the increase in gross margin. And as we said before, this is going to continue through the calendar year.
+
+Sreekrishnan Sankarnarayanan
+TD Cowen, Research Division
+
+How much of HAMR as a percentage of the mix?
+
+Gianluca Romano
+Executive VP & CFO
+
+Well, Dave gave an indication of the unit that we shipped in the last quarter. So I think you can fairly easily calculate that.
+
+Operator
+
+The next question will come from Steven Fox with Fox Advisors LLC.
+
+Steven Fox
+Fox Advisors LLC
+
+I guess I was just wondering on this -- on your mix question, looking at your average capacity per drive being up 22%. Like how much of that -- like obviously, the supply-demand environment has tightened over the last year. And in reaction to that, are you taking steps to accelerate that mix up as the customers pushed you that way? Like I'm just curious how much you can control going forward now that we're here on even tighter supply to sort of help your customers in terms of absolute petabytes you're delivering.
+
+William Mosley
+CEO & Chairman
+
+Thanks, Steve. So yes, we are -- the lead time out of the wafer fab is quite long. So we have to be predictable for our customers, say, 6 months, 9 months later, so on and so forth. That's one of the reasons why we talk kind of a year at a time inside of these LTAs. So we start wafers based on what we know we're going to be able to deliver so that we're as predictable as we can be for our customers.
+
+As we're -- if we're deploying manufacturing, engineering resources, we're trying to get through these product transitions. That's what gets us the most exabytes after that. And so going -- mixing up is kind of our goal. So if that helps clarify what our strategy is.
+
+Steven Fox
+Fox Advisors LLC
+
+It does, Dave. I'm just wondering like when you had your analyst meeting, you said that sort of a pretty well-defined time line for node transitions. Maybe just can you give yourself a report card on how you're doing on some of those time lines if we look out now versus the next year or longer term?
+
+William Mosley
+CEO & Chairman
+
+Yes. I think that's good. We're on the plan or slightly ahead. And again, most of that's under our control. We execute well. We've been executing well. Some of it's under our customers' control as well. And the behavioral changes we've seen in the customer, I made reference to earlier, they're really pulling hard because they need more exabytes. And so that helps get the calls done quickly. It helps a road map alignment and then supply -- specific supply alignment, which helps our factories.
+
+Operator
+
+The next question will come from Aaron Rakers with Wells Fargo.
+
+Aaron Rakers
+Wells Fargo Securities, LLC, Research Division
+
+Congrats on the results. I want to go back to gross margin. I know you talked a lot about the pricing dynamics and the visibility you have. But the thing that stands out to me is you've been executing on like a cost per terabyte of like a mid-teens year-on-year decline in these last several quarters. As we roll out the 4 terabyte per platter Mozaic drive, how do I think about that cost down curve? Is it mid-single digit? Is it -- can you sustain at double digit? And would not -- wouldn't we expect the 4 terabyte per platter HAMR drive to actually maybe accelerate the cost down given the ability to bring that into lower end other outside of nearline platforms? I'm just curious how you think about that cost down curve.
+
+Gianluca Romano
+Executive VP & CFO
+
+Yes, we are very positive on the 4 terabyte per disk in terms of impact on the cost, as we discussed before. The unit costs tend to be fairly similar. But of course, we are adding a lot of content per unit. So that will be a good help to reducing the cost and improving profitability. So as you know, we are qualifying 2 major customers on these new products. So the time to finalize the call and their ramp probably through the end of the calendar year and for sure, well into the -- the impact will be strong, I think, in the next calendar year, too.
+
+William Mosley
+CEO & Chairman
+
+And we plan on making a big transition to 4 terabytes per platter over the coming few years and then getting to 5 terabytes per platter as well. We do add complexity as we make those transitions. But I'd say the first order, the things that dictate the speed of the ramp are our ability to go work scrap and yield all through our supply chain and so on, and we're working very hard on that. I like the product. So I think it provides for a bright and stable future for us. We just need to stay focused on it.
+
+Operator
+
+The next question will come from Timothy Arcuri with UBS.
+
+Timothy Arcuri
+UBS Investment Bank, Research Division
+
+I want to ask about LTSAs. I think you said nearline capacity is allocated through 2026. So it sounds like both pricing and exabytes are locked in this year. But for '27, I think you said something that I took that exabyte and pricing is not locked in, but you have some sort of agreement. So I guess I had 2 questions. First of all, is it right to assume that pricing is also locked in for all of '26? And what sort of agreement are you referring to for 2027 if volume and pricing is not locked in next year?
+
+Gianluca Romano
+Executive VP & CFO
+
+Yes. For this calendar year, we said basically, we have PO in place for all the quarters, so volume and pricing is well defined. As Dave said before, if in a quarter, we can produce a little bit more, of course, we will sell those exabytes in the open market at a good profitability. But I would say we have -- the vast, vast majority of the volume is already allocated. Calendar '27, we will start working on that fairly soon. Of course, we have very good indication and agreement on volumes, but we have not -- we have not fixed the price yet.
+
+William Mosley
+CEO & Chairman
+
+Yes. And Tim, if this helps, so we haven't really started the longest lead time parts, but we will very soon for the start of '27. And we need to start having those discussions with our customers, which calls are we going to get through together with -- what exactly is the plan because a lot of them need predictability as well. So we'll have to build in our factories what -- based upon how hard they want to pull on those new products.
+
+Operator
+
+The next question will come from Mehdi Hosseini with Susquehanna Financial Group.
+
+Mehdi Hosseini
+Susquehanna Financial Group, LLLP, Research Division
+
+Just a quick housekeeping item. Gianluca, your CapEx has been increasing on a Q-over-Q basis. How should I think about depreciation, especially since it did dip in the December quarter? Any color here would be great looking forward.
+
+Gianluca Romano
+Executive VP & CFO
+
+Yes. No, our CapEx is aligned to our target of 4% to 6% of revenue. We are actually at the bottom of that range. So is not increasing in terms of what we want to achieve or what we said. Of course, comparing to a period where we were more into the down cycle in terms of dollars, of course, it is higher. We are supporting our HAMR transition and HAMR ramp. So I would say there is nothing different than what we said.
+
+William Mosley
+CEO & Chairman
+
+Yes, [ the way ] I think about it as well, Mehdi, is that if you go back 2 years ago, and you use that as a baseline, we were still significantly lower revenue, but also we were challenged on the supply and demand balance. Right now we're in a totally different environment, of course. So we'll probably stay well within the 4% to 6% range. But as the revenue goes up, we'll spend a little bit more and probably the first priority is maintenance tools and the things that we weren't doing a couple of years ago.
+
+Mehdi Hosseini
+Susquehanna Financial Group, LLLP, Research Division
+
+I apologize, I may have confused. I was focusing more on depreciation given these several quarters of increase in CapEx, should I expect a step-up in depreciation looking forward?
+
+Gianluca Romano
+Executive VP & CFO
+
+Depreciation will follow the CapEx. So you have your -- I guess you have your model on the revenue, so you can calculate the 4% to 6% of CapEx. And then depreciation for us is on a 10 years useful life. So you can probably model in that way.
+
+William Mosley
+CEO & Chairman
+
+It's not -- like some other fabs, it's not necessarily the huge part of the cost drivers. There's a lot of other pieces of the cost that we can go manage them.
+
+Operator
+
+The next question will come from Ananda Baruah with Loop Capital.
+
+Ananda Baruah
+Loop Capital Markets LLC, Research Division
+
+Dave, while we have you, a little bit of a technical one, are you -- what kind of activity are you seeing at sort of the so-called warm tier of storage? It's a question that comes up a bunch in our conversations. We've heard that it's obviously growing, it's growing both hard drive and flash storage is participating nicely, but would love to get your input on it. Because I think there's still -- first of all, we love to know if what we're hearing is accurate.
+
+But secondarily, I think there's a lot of people that are assuming that that's really like it's becoming a NAND tier, largely a NAND tier in the GenAI world. And anyway, just love to get any context there that you have.
+
+William Mosley
+CEO & Chairman
+
+Yes. I think you have to be a little bit careful, Ananda. So there are applications that are very memory dependent that are attached to compute and some of these applications are neat, I like them. When you get -- when you start talking about big data storage, if you will, in data centers, the tiering architecture is fairly well set and probably won't change based on economics and also architectures that are well known.
+
+People know how to play. So if the concept is that drives aren't working hard, they're in the background, just storing data, that's not the way -- a good way to think about it. That's not the way hard drives are being used right now. They're working 24/7. A lot of times, they're optimized for performance themselves, largely streaming performance, not random small block workloads. That's more of a memory thing. And so if you had an application that's random small block, it's probably memory. If you have big data, it's probably a little bit of memory on the front end and a lot of hard drive on the back end. And we think that -- there are applications across the entire spectrum, of course, but we think that in the future when we start to talk about the concepts in their enormity, about checkpoints and physical AI and video and things like that, it's large, large data. So the architectural tier that stores the data will probably remain constant for the next decade.
+
+Operator
+
+Next question will come from Vijay Rakesh with Mizuho.
+
+Vijay Rakesh
+Mizuho Securities USA LLC, Research Division
+
+Just a quick question on HAMR. I know you're ramping it faster in the March quarter. Should that drive a much better gross margin profile, I guess? And any thoughts on how we should see the margins improve, I guess, as HAMR starts to ramp? And I have a follow-up.
+
+Gianluca Romano
+Executive VP & CFO
+
+Vijay, if you are referring to the March quarter, of course, ramp of HAMR is included in our guidance. And our guidance is indicating a fairly good improvement in gross margin again. And then I said for the rest of the calendar year, we expect both revenue and profitability to improve sequentially. And of course, part of that is coming from additional HAMR products.
+
+William Mosley
+CEO & Chairman
+
+We think demand will be strong for the 4 terabyte per platter, of course. And so that's one of the reasons why we're making that a priority in the transition that we go through this calendar year and into next.
+
+Vijay Rakesh
+Mizuho Securities USA LLC, Research Division
+
+Got it. Very helpful. And just a quick question also on the OpEx side. Very nice, obviously OpEx same time last year was somewhere in the 14% range, now is down to 10%. I know, Gianluca, you said probably that's a long-term target, but it looks like -- as Dave mentioned, with the top line ramping up with all the design wins, it looks like OpEx could go down again. Is that fair as a percent of mix?
+
+Gianluca Romano
+Executive VP & CFO
+
+Well, I would say we are getting closer and closer to our fourth target of 10% of revenue for OpEx. We are almost there. We should be there actually in the March quarter. And then, of course, [ it's not ] that we relax our cost control, we will continue to keep our cost control and revenue is supposed to increase so we can probably do it a bit better.
+
+William Mosley
+CEO & Chairman
+
+Yes. I'm glad you asked that, Vijay, because obviously, a few years ago, the tough times that we went through, we weren't investing in ourselves to the rate that I'd like. And of course, it's -- with the HAMR transition in front of us, that was a lot of work. Now that we've kind of cleared that HAMR transition, we can see the future fairly well. It's the -- the clouds are parting, if you will. And we can see areal density opportunities in front of us, and we will take that -- the money such as it is, even staying within our same model, and we'll take that money and reinvest in ourselves so that we can continue to drive the areal density.
+
+Operator
+
+This concludes our question-and-answer session. I would like to turn the conference back over to management for any closing remarks.
+
+William Mosley
+CEO & Chairman
+
+Thank you, Nick, and thanks to everyone for joining us on the call. The Seagate team is executing very well, delivering on our financial targets and advancing areal density road maps and successfully qualifying customers on our HAMR-based Mozaic products to address the sustained and growing demand for data storage. As data creation accelerates driven by both traditional workloads and these emerging AI applications, Seagate's transformational technology positions us well to capture the significant demand opportunities ahead. I'd like to thank our employees for their dedication and innovation and our customers and suppliers for their trust and collaboration, and our shareholders as well for their continued support. Together, we're driving Seagate's ongoing success. Thank you.
+
+Operator
+
+The conference has now concluded. Thank you for attending today's presentation. You may now disconnect.
+

@@ -1,0 +1,80 @@
+Texas Instruments Incorporated (TXN) Q4 2025 Earnings Call January 27, 2026 4:30 PM EST
+
+Company Participants
+
+Mike Beckman - VP & Head of Investor Relations
+Haviv Ilan - President, CEO & Chairman
+Rafael Lizardi - Senior VP & CFO
+
+Conference Call Participants
+
+Ross Seymore - Deutsche Bank AG, Research Division
+James Schneider - Goldman Sachs Group, Inc., Research Division
+Harlan Sur - JPMorgan Chase & Co, Research Division
+Vivek Arya - BofA Securities, Research Division
+Timothy Arcuri - UBS Investment Bank, Research Division
+Thomas O'Malley - Barclays Bank PLC, Research Division
+Joshua Buchalter - TD Cowen, Research Division
+William Stein - Truist Securities, Inc., Research Division
+Christopher Caso - Wolfe Research, LLC
+
+Presentation
+
+Mike Beckman
+VP & Head of Investor Relations
+
+Welcome to the Texas Instruments Fourth Quarter 2025 Earnings Conference Call. I'm Mike Beckman, Head of Investor Relations, and I'm joined by our Chairman, President and Chief Executive Officer, Haviv Ilan; and our Chief Financial Officer, Rafael Lizardi.
+
+For any of you who missed the release, you can find it on our website at ti.com/ir. This call is being broadcast live over the web and can be accessed through our website. In addition, today's call is being recorded and will be available via replay on our website.
+
+This call will include forward-looking statements that involve risks and uncertainties that could cause TI's results to differ materially from management's current expectations. We encourage you to review the notice regarding forward-looking statements contained in the earnings release published today as well as TI's most recent SEC filings for a more complete description.
+
+I would like to provide you some information that is important for your calendars. On Tuesday, February 24, at 10:00 a.m. Central Time, we will have our Capital Management Call. Similar to what we've done in the past, Haviv, Rafael, and I will share our approach to capital allocation and summarize our progress as we prepare for the opportunity ahead.
+
+Moving on, today we'll provide the following updates. First, Haviv will start with a quick overview of the quarter. Next, he will provide insight into fourth quarter revenue results with some details of what we are seeing in our end markets. Haviv will then provide the annual summary of revenue breakout by end market. Lastly, Rafael will cover the financial results and our guidance for first quarter 2026.
+
+With that, let me turn it over to Haviv.
+
+Haviv Ilan
+President, CEO & Chairman
+
+Thanks, Mike. Let me start with a quick overview of the fourth quarter. Revenue came in about as expected at $4.4 billion, a decrease of 7% sequentially and an increase of 10% from the same quarter a year ago. Analog revenue grew 14% year-over-year, Embedded Processing grew 8%, and our Other segment declined from the year-ago quarter. The overall semiconductor market recovery is continuing, and we are well positioned with inventory and capacity to meet immediate customer demand.
+
+Before I walk through our results, I'd like to share an update we've made to our end markets. To better reflect the growth opportunities we see for our Analog and Embedded products, we reorganized our end markets to include data center, which includes sectors related to data center compute, data center networking and rack power and thermal management. As such, our end markets are now industrial, automotive, data center, personal electronics and communications equipment. With that as a backdrop, I'll now provide some insight into our fourth quarter revenue by end market.
+
+First, the industrial market was up high teens year-on-year with recovery continuing broadly across sectors and was down mid-single digits sequentially. The automotive market increased upper single digits year-on-year and was down low single digits sequentially. Data center grew around 70% year-on-year and mid-single digits sequentially. Personal electronics declined upper teens year-on-year and mid-teens sequentially. Lastly, communications equipment declined low single digits year-on-year and mid-teens sequentially. In addition, as we do at the end of each calendar year, I'll describe our estimated 2025 revenue by end market.
+
+Industrial was $5.8 billion, up 12% year-on-year and was 33% of revenue. Automotive was $5.8 billion, up 6% year-on-year and was 33% of revenue. Data center was $1.5 billion, up 64% year-on-year and was 9% of revenue. Personal electronics was $3.7 billion, up 7% year-on-year and was 21% of revenue. Communications equipment was about $500 million, up about 20% year-on-year and was 3% of revenue.
+
+In summary, industrial, automotive and data center combined made up about 75% of TI's revenue in 2025, up from about 43% in 2013. We see good opportunities in all of our markets, but we place additional strategic emphasis on industrial, automotive and data center. Our customers across all regions are increasingly turning to analog and embedded technology to make their end products more reliable, more affordable and lower in power. This drives growing chip content per application or secular content growth, which will likely continue to drive faster growth in these end markets.
+
+Rafael will now review profitability, capital management and our outlook.
+
+Rafael Lizardi
+Senior VP & CFO
+
+Thanks, Haviv, and good afternoon, everyone. As Haviv mentioned, fourth quarter revenue was $4.4 billion. Gross profit in the quarter was $2.5 billion or 56% of revenue. Sequentially, gross profit margin decreased 150 basis points.
+
+Operating expenses in the quarter were $967 million, up 3% from a year ago and about as expected. On a trailing 12-month basis, operating expenses were $3.9 billion or 22% of revenue. Operating profit was $1.5 billion in the quarter or 33% of revenue and was up 7% from the year-ago quarter.
+
+Net income in the fourth quarter was $1.2 billion or $1.27 per share. Earnings per share included a $0.06 reduction not in our original guidance related to the noncash impairment of goodwill in our Other segment and other tax-related items.
+
+Let me now comment on our capital management results, starting with our cash generation. Cash flow from operations was $2.3 billion in the quarter. Capital expenditures were $925 million in the quarter. In the quarter, we paid $1.3 billion in dividends and repurchased $403 million of our stock. We also increased our dividend per share by 4% in the fourth quarter to $1.42 per share, marking our 22nd consecutive year of dividend increases. In total, we have returned $6.5 billion in the past 12 months to owners.
+
+Our balance sheet remains strong with $4.9 billion of cash and short-term investments at the end of the fourth quarter. Total debt outstanding was $14 billion with a weighted average coupon of 4%. Inventory at the end of the quarter was $4.8 billion, down $25 million from the prior quarter and days were 222, up 7 days sequentially.
+
+Now let's look at some of these results for the year. In 2025, cash flow from operations was $7.2 billion and capital expenditures were $4.6 billion, as we continue to make progress on our capacity expansions. We're nearing the end of a 6-year elevated CapEx cycle that uniquely positions TI to deliver dependable low-cost 300-millimeter capacity at scale.
+
+Free cash flow for 2025 was $2.9 billion or 17% of revenue, representing an increase of 96% from 2024. Our free cash flow growth reflects the strength of our business model as well as our decisions to invest in 300-millimeter manufacturing assets and inventory. This supports our overall objective to maximize long-term free cash flow per share growth, which we believe is the primary driver of long-term value. In 2025, we received that $670 million cash benefit related to CHIPS Act incentives.
+
+Turning to our outlook for the first quarter. We expect TI revenue in the range of $4.32 billion to $4.68 billion and earnings per share to be in the range of $1.22 to $1.48. We continue to expect our effective tax rate for 2026 to be about 13% to 14%.
+
+In closing, we will stay focused in the areas that add value in the long term. We continue to invest in our competitive advantages, which are manufacturing and technology, a broad product portfolio, reach of our channels and diverse and long-lived positions. We will continue to strengthen disadvantages through disciplined capital allocation and by focusing on the best opportunities, which we believe will enable us to continue to deliver free cash flow per share growth over the long term.
+
+With that, let me turn it back to Mike.
+
+Mike Beckman
+VP & Head of Investor Relations
+
+Thanks, Rafael. Operator, you can now open the lines for questions. [Operator Instructions] Operator?
+
