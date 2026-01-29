@@ -1,0 +1,157 @@
+Lam Research Corporation (LRCX) Q2 2026 Earnings Call January 28, 2026 5:00 PM EST
+
+Company Participants
+
+Ram Ganesh - Vice President of Investor Relations
+Timothy Archer - President, CEO & Director
+Douglas Bettinger - Executive VP & CFO
+
+Conference Call Participants
+
+Timothy Arcuri - UBS Investment Bank, Research Division
+Christopher Muse - Cantor Fitzgerald & Co., Research Division
+Atif Malik - Citigroup Inc., Research Division
+Vivek Arya - BofA Securities, Research Division
+Srinivas Pajjuri - RBC Capital Markets, Research Division
+James Schneider - Goldman Sachs Group, Inc., Research Division
+Sreekrishnan Sankarnarayanan - TD Cowen, Research Division
+Harlan Sur - JPMorgan Chase & Co, Research Division
+Stacy Rasgon - Bernstein Institutional Services LLC, Research Division
+Blayne Curtis - Jefferies LLC, Research Division
+Melissa Weathers - Deutsche Bank AG, Research Division
+Joseph Quatrochi - Wells Fargo Securities, LLC, Research Division
+Vijay Rakesh - Mizuho Securities USA LLC, Research Division
+
+Presentation
+
+Operator
+
+Good day, and welcome to the Lam Research Corporation December 2025 Earnings Conference Call. [Operator Instructions] Please note that this event is being recorded. I would now like to turn the conference over to Ram Ganesh, Vice President of Investor Relations. Please go ahead.
+
+Ram Ganesh
+Vice President of Investor Relations
+
+Thank you, and good afternoon, everyone. Welcome to the Lam Research Quarterly Earnings Conference Call. With me today are Tim Archer, President and Chief Executive Officer; and Doug Bettinger, Executive Vice President and Chief Financial Officer.
+
+During today's call, we will share our overview on the business environment, and we'll review our financial results for the December 2025 quarter and our outlook for the March 2026 quarter.
+
+The press release detailing our financial results was distributed a little after 1:00 p.m. Pacific Time. The release can also be found on the Investor Relations section of the company's website, along with the presentation slides that accompany today's call.
+
+Today's presentation and Q&A include forward-looking statements that are subject to risks and uncertainties reflected in the risk factors disclosed in our SEC public filings. Please see accompanying slides in the presentation for additional information.
+
+Today's discussion of our financial results will be presented on a non-GAAP financial basis, unless otherwise specified. A detailed reconciliation between GAAP and non-GAAP results can be found in the accompanying slides in the presentation. This call is scheduled to last until 3:00 p.m. Pacific Time. A replay of this call will be made available later this afternoon on our website.
+
+And with that, I'll hand the call over to Tim.
+
+Timothy Archer
+President, CEO & Director
+
+Thank you, Ram, and good afternoon, everyone. We ended calendar year 2025 on a strong note, delivering December quarter revenues ahead of the midpoint of our guidance. Gross margins, operating margins and EPS all exceeded the high end of the range. Our performance demonstrates continued strong execution in an accelerating semiconductor demand environment.
+
+At our Investor Day event last year, we outlined our tremendous opportunity to expand our market and gain share at every successive technology node. Vertical scaling of device and packaging architectures is driving higher deposition and etch intensity and moving the market to our strengths. The vision we shared was to more than double Lam's revenue and profit over the next 5 years. Today, we are well on our way.
+
+With the industry ramping capacity and adopting new technologies to meet the demands of the AI transformation, Lam's deposition and etch capabilities are proving to be key enablers in the transition to gate all around transistors, backside power deposition, high-performance materials and 3D advanced packaging. We prepared for this moment, launching an array of new products and advanced services targeted at broadening our exposure across DRAM, leading-edge foundry/logic and NAND.
+
+We have also invested in expanding our manufacturing and R&D footprint to increase operational velocity in response to strong customer demand. In 2025, we achieved record revenues of more than $20 billion and expanded our served available market, or SAM, share of WFE into the mid-30s percent range. This marks solid progress for our multiyear goal of being in the high 30s.
+
+Our ship share of WFE grew by well over 1 percentage point year-on-year, and our CSBG business hit key milestones with the size of our installed base topping 100,000 chambers and revenue growing faster than the increase in installed base units. We are proud of these accomplishments, but there's even more to come.
+
+The AI transformation is driving industry spending higher. In 2025, WFE came in close to $110 billion. Our initial 2026 view is for WFE to be in the $135 billion range, with the growth in spending remaining constrained by a shortage of available clean room space. Chip makers have been public about their efforts to alleviate constraints, but they have also commented on sold-out conditions persisting, indicating the magnitude of the challenge.
+
+We expect WFE this year to be weighted to the second half with robust growth in investments across all 3 device segments, led by DRAM and leading-edge foundry/logic.
+
+All indications are that we are still in the early stages of the AI build-out. End markets are signaling a strong appetite for greater compute and storage capability at both the device and package level.
+
+In foundry/logic, customers are accelerating migration to nodes employing gate-all-around transistors. If you recall, we previously said that the transition to gate-all-around equates to roughly $1 billion in incremental Lam SAM for every 100,000 wafer starts per month of capacity. Given the 3D nature of gate-all-around structures, we are well positioned with our deposition and etch portfolio to gain share within this segment.
+
+In addition, customers are integrating more functionality with advanced packaging. We previously estimated advanced packaging would make up a mid-single-digit percentage of overall foundry/logic equipment spend. As additional devices, including those for mobile applications, adopt more complex packaging schemes, we see this number moving higher.
+
+In high-bandwidth memory, or HBM, advanced packaging is critical for the transition to HBM4 and 4E and stacking of up to 16 layers. Lam is in an excellent position, given our market leadership in electroplating and TSV etch. We expect our overall advanced packaging business to grow more than 40% in 2026, outperforming our view of WFE growth in this space.
+
+Finally, in NAND, demand is growing faster than previously expected as new use spaces for high-capacity SSDs emerge. Non-volatile context memory layers to enable large-scale AI inference have the potential to add incremental growth in NAND bit demand.
+
+For every $2 million to $3 million accelerators sold, we estimate an incremental 1 point increase in overall NAND bit demand growth. Lam has the industry's largest installed base of NAND systems and is well positioned to outperform as the NAND market inflects higher.
+
+Against this backdrop of strong semiconductor demand and accelerated technology transitions, we are seeing increased momentum for our newly launched products. Akara, our latest generation conductor etch system, has doubled its installed base over the past year, with production tool of record wins for EUV and high aspect ratio etch applications in advanced DRAM and foundry/logic.
+
+Critical dimensions in foundry/logic are shrinking by roughly 10% to 20% node to node. Similarly, in DRAM, aspect ratios are increasing with each node and process complexity is set to grow even more with future moves to [ 4F square ] and 3D DRAM. Consequently, multiple customers have chosen Akara for its unmatched ability to etch the smallest dimensions at very high aspect ratios while maintaining profile control and reducing variability across the wafer.
+
+This is achieved through new innovations, including our direct drive solid-state power delivery hardware and tempo plasma pulsing. In next-generation gate-all-around devices, we expect the number of applications using Akara to grow by roughly 2x, including wins for critical front-end silicon etch applications.
+
+In DRAM, we already have wins with Akara for the [ 1z ] node that are set to ramp this year and expect growing momentum as the applications using Akara expand nearly 3x in a subsequent 1z node.
+
+As we look out over a multiyear period, the unprecedented AI ramp demands greater speed and agility across the ecosystem. Our customers are moving faster at every stage of process development and manufacturing, so we have increased the velocity of our execution across the board. We are strengthening our supply base, automating logistics and ramping high-volume manufacturing.
+
+Over the last 4 years, we have nearly doubled our overall manufacturing capacity. And in 2025, we launched state-of-the-art automated warehouses that enable greater production efficiency. These investments have proved critical in a fast-ramping market environment, and we're set to expand our footprint further to meet the demand we see over the next several years.
+
+Our product sales and support teams are also executing to the accelerated pace of customer demand. Over the course of 2025, Lam was recognized with nearly 40 supplier awards, highlighting, in many cases, our fast tool installations and outstanding production ramp support.
+
+Looking forward, we see Lam's Equipment Intelligence solutions and Dextro cobots leading the way to the autonomous fab with predictive and automated maintenance and precise global fleet matching. Dextro continued to gain momentum in 2025, expanding to cover 6 different Lam tool types.
+
+And finally, in an environment where inflections are more complex and innovation timelines are compressing, we have transformed our R&D capabilities to help us stay ahead. We are utilizing velocity labs, located close to our customers to screen new materials, new hardware and new process regimes at a rate not previously possible. We are also leveraging Lam's digital twin capabilities to shorten product development cycles and converge on next-generation tool and process solutions with greater efficiency.
+
+Wrapping up, the growth we envisioned for Lam at our investor event 1 year ago is materializing faster than we anticipated. We are making progress against our SAM expansion, share gains and profitability objectives. And with the demand environment continuing to accelerate, we are elevating our focus on scaling the company, delivering for customers and outperforming in the AI era.
+
+Thank you, and here's Doug.
+
+Douglas Bettinger
+Executive VP & CFO
+
+Great. Thank you, Tim. Good afternoon, everyone. Thank you for joining our call today during what I know is a super busy earnings season. Before I get into the details, I'd like to say that we were quite pleased with the strong execution across the company in calendar year 2025, which translated into record top and bottom line financial performance.
+
+In calendar year 2025, revenue was a record coming in at $20.6 billion, which was up 27% year-over-year. CSBG revenue also reached a record of $7.2 billion. Gross margin was 49.9%, the highest result as a combined company for the full year since the Novellus merger back in 2012. Gross profit increased 31% year-over-year to $10.3 billion.
+
+We also had record operating margin of 34.1% and operating profit dollars of $7 billion, which was up 41% year-over-year. Diluted earnings per share were $4.89, which was up 49% year-over-year. Looking at it, we delivered leverage from the top to the bottom of the P&L in 2025.
+
+Let me turn to the December quarter results. Our revenue was above the midpoint of guidance, while gross margin, operating margin and earnings per share all exceeded the high end of our guided range.
+
+Revenue for the December quarter was a record coming in at $5.34 billion. This marked our tenth consecutive quarter of revenue growth. The deferred revenue balance at quarter end came in at $2.25 billion, down sequentially due to an approximately $500 million reduction in those customer advanced down payments.
+
+From a market segment perspective, foundry accounted for 59% of our systems revenue in the December quarter, slightly down sequentially, but up from 35% in the December 2024 period. This underscores the success of our strategic focus and execution in Foundry. Foundry strength came from investments at the leading edge in addition to mature node spending that we saw in China.
+
+Memory was 34% of systems revenue, in line with the prior quarter. Within Memory, we generated record DRAM revenue accounting for 23% of systems revenue, which was up from 16% in the September quarter. Investments in high-bandwidth memory continue to remain strong, driven by movement to HBM3E and 4.
+
+We also saw traditional node migrations to the 1B and 1C nodes, enabling the transition to DDR5. Nonvolatile memory contributed 11% of our systems revenue, down from 18% in September quarter. This trajectory was in line with our expectations for customer plans coming into the year.
+
+Despite the quarterly decline, NAND revenues grew strongly for Lam in what was the first half weighted calendar year 2025. As we enter 2026, we see solid end market demand as customers prepare for their next stage of AI-driven growth in NAND. And finally, the Logic and Other segment came in at 7% of systems revenue in the December quarter, slightly up sequentially.
+
+Let's turn to the regional breakdown of our total revenue. China came in at 35%, which was a decrease from the prior quarter level of 43%, but slightly higher than our original expectations. This was due to updates in the affiliate rule and the resulting timing of shipments from that.
+
+The next largest geographic concentrations were Taiwan, coming in at 20%, up sequentially from 19%; and Korea at 20%, up sequentially from 15%. Customer Support Business Group generated approximately $2 billion in revenue for the December quarter, up 12% sequentially on an increase in Reliant Systems. We were 14% higher than the same period in 2024, primarily on growth in spares.
+
+CSBG obviously remains a key part of our growth strategy with our expanding installed base and innovation in advanced services. NAND spending enabled record upgrade revenue in 2025, up more than 90% year-over-year. In the 13 years since we brought Lam Novellus together, I'd like to remind everybody that CSBG has grown every year except for 1.
+
+Let's look to profitability. Gross margin in the December quarter was 49.7%, which exceeded the high end of our guided range on better-than-expected customer mix. Sequentially, gross margin was about 1 percentage point lower, reflecting a customer mix that was less favorable than what we saw in September. Operating expenses for December came in at $827 million, which is roughly flat sequentially. R&D accounted for 68% of the total operating expenses.
+
+We continue investing to maintain our leadership with a differentiated product portfolio for our customers with innovations like Vantex, Akara, Halo and Dextro, the December quarter operating margin was 34.3%, exceeding the high end of our guidance. The non-GAAP tax rate for the quarter came in at 13.2%, generally in line with our expectations. We continue to see the tax rate in the low to mid-teens for calendar 2026.
+
+Other income and expense for the December quarter was approximately $10 million in income compared with $8 million in income in the September quarter. Slight fluctuation in OI&E was primarily the result of gains in our venture portfolio, partly offset by lower interest income. As we've talked about in the past, you should expect to see variability in OI&E quarter-to-quarter.
+
+Capital return in the December quarter, we allocated approximately $1.4 billion towards share buybacks through open market share repurchases. Our average buyback price in the quarter was approximately $154 per share.
+
+In calendar year 2025, we repurchased approximately 39 million shares at an average price of $104 per share. We also paid $328 million in dividends in the quarter. In calendar year 2025, we returned 85% of our free cash flow. Our plans remain to return at least 85% of free cash flow to our shareholders over time.
+
+The December quarter diluted earnings per share were $1.27, which came in above the guidance range. The diluted share count was 1.26 billion shares, which was a reduction from the September quarter and consistent with our guidance. We have $5.1 billion remaining on our Board-authorized share repurchase plan.
+
+Let me tie into the balance sheet. Cash and cash equivalents totaled $6.2 billion at the end of the December quarter, a decrease from $6.7 billion at the end of the September quarter. The reduction in cash is attributed to capital return as well as CapEx spending. As we look ahead, our strong cash position and continued free cash flow enable us flexibility to potentially simply repay the $750 million March 2026 notes when they mature.
+
+Days sales outstanding was 59 days in the December quarter, a decrease from 62 days in the September quarter. Inventory turns improved to 2.7x from 2.6x in the prior quarter and up from 1.5x a little over 2 years ago. As a company, we remain focused on asset utilization, and we were pleased by the sustained progress we continue to make.
+
+Our noncash expenses in the December quarter included approximately $89 million for equity compensation, $91 million for depreciation and $13 million in amortization. Capital expenditures for the December quarter was $261 million, which was up $76 million from the September quarter.
+
+Spending was driven by investments in manufacturing capacity, R&D and lab infrastructure that supports our technology roadmap and customer needs. We also purchased a new building in Arizona to support the growing industry footprint there.
+
+This capital spending remains consistent with our global strategy of expanding capabilities close to where our customers are. Looking forward, we continue to expect capital expenditure to be in the 4% to 5% of revenue range.
+
+We ended the December quarter with approximately 19,700 regular full-time employees, which was an increase of approximately 300 people from the prior quarter. Headcount increases were primarily within the field organization to support customer growth as well as in R&D to support our long-term product roadmap.
+
+Let's turn to our non-GAAP guidance for the March 2026 quarter. We're expecting revenue of $5.7 billion, plus or minus $300 million. We're expecting gross margin of 49%, plus or minus 1 percentage point. We're expecting to see slight headwinds from customer mix. We're forecasting operating margins of 34%, plus or minus 1 percentage point. You'll see the normal seasonal uptick in operating expenses in the March quarter.
+
+And finally, we're forecasting earnings per share of $1.35, plus or minus $0.10, based on a share count of approximately 1.26 billion shares.
+
+So let me wrap up. We delivered a record year in 2025, reflecting strong execution and broad-based strength across our product portfolio. As we look into 2026, we expect meaningful year-over-year growth supported by sustained demand in AI-driven markets and continued investment in capacity. We agree with the prevailing view that much of the market will be undersupplied in 2026 due to clean room space constraints.
+
+In line with that, we see 2026 as a second half weighted year. With our strong balance sheet, an expanding installed base and the strength of our product portfolio, we remain confident in Lam's ability to continue to outperform and deliver long-term value for our customers and shareholders.
+
+Operator, that concludes our prepared remarks. Tim and I would now like to open up the call for questions.
+

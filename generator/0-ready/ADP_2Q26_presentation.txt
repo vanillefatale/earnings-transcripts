@@ -1,0 +1,106 @@
+Automatic Data Processing, Inc. (ADP) Q2 2026 Earnings Call January 28, 2026 8:30 AM EST
+
+Company Participants
+
+Matthew Keating - Vice President of Investor Relations
+Maria Black - President, CEO & DIrector
+Peter Hadley - Chief Financial Officer
+
+Conference Call Participants
+
+Mark Marcon - Robert W. Baird & Co. Incorporated, Research Division
+Tien-Tsin Huang - JPMorgan Chase & Co, Research Division
+Scott Wurtzel - Wolfe Research, LLC
+Bryan Bergin - TD Cowen, Research Division
+Ramsey El-Assal
+Ashish Sabadra - RBC Capital Markets, Research Division
+Kartik Mehta - Northcoast Research Partners, LLC
+Daniel Jester - BMO Capital Markets Equity Research
+Bryan Keane - Citigroup Inc., Research Division
+Dan Dolev - Mizuho Securities USA LLC, Research Division
+
+Presentation
+
+Operator
+
+Good morning. My name is Michelle, and I'll be your conference operator. At this time, I would like to welcome everyone to ADP's Second Quarter Fiscal 2026 Earnings Call. I would like to inform you that this conference is being recorded. [Operator Instructions]
+
+I will now turn the conference over to Matt Keating, Vice President, Investor Relations. Please go ahead.
+
+Matthew Keating
+Vice President of Investor Relations
+
+Thank you, Michelle, and welcome, everyone, to ADP's Second Quarter Fiscal 2026 Earnings Call. Participating today are Maria Black, our President and CEO; and Peter Hadley, our CFO. Earlier this morning, we released our results for the quarter. Our earnings materials are available on the SEC's website and our Investor Relations website at investors.adp.com, where you will also find the investor presentation that accompanies today's call. During our call, we will reference non-GAAP financial measures, which we believe to be useful to investors and that exclude the impact of certain items. A description of these items along with a reconciliation of non-GAAP measures to their most comparable GAAP measures can be found in our earnings release.
+
+Today's call will also contain forward-looking statements that refer to future events and involve some risk. We encourage you to review our filings with the SEC for additional information on factors that could cause actual results to differ materially from our current expectations. I'll now turn it over to Maria.
+
+Maria Black
+President, CEO & DIrector
+
+Thank you, Matt, and thank you, everyone, for joining us. This morning, we reported strong second quarter results that included 6% revenue growth, 80 basis points of adjusted EBIT margin expansion and 11% adjusted EPS growth. We achieved these financial results while also making meaningful progress across our strategic priorities. Before discussing this strategic progress, I will briefly review some additional highlights from our results.
+
+We delivered solid Employer Services new business bookings growth in the second quarter. We enjoyed broad-based strength with the fastest growth in our international, U.S. enterprise and compliance businesses. Our small business portfolio and mid-market business also contributed to the growth in the quarter. With good momentum and healthy pipelines, we are focused on driving continued new business bookings growth in the second half of our fiscal year.
+
+Our Employer Services retention rate matched our expectations with a modest decline in the second quarter. We continue to benefit from a stable overall business environment and very high levels of client satisfaction. In fact, our overall client satisfaction results represented the single best quarter in ADP history. Employer Services pays per control growth rounded up to 1% for the second quarter representing modestly higher year-on-year growth compared to the first quarter.
+
+And last, our PEO revenue increased 6% in the quarter, helped by growth in zero-margin pass-throughs and solid new business bookings growth. Our 2% growth in average worksite employees included a moderation and PEO pays per control growth. Peter will share our updated outlook in a few minutes, but we believe the demand environment for our PEO and other outsourcing services also remains healthy.
+
+We are proud of our strong second quarter financial results and excited by the progress we continue to make across our 3 strategic business priorities. I will start with what we are doing to lead with best-in-class HCM technology. We are very pleased with the strong traction our Workforce Now Next Gen and ADP Lyric HCM platforms continue to experience. Workforce Now Next Gen is being embraced by our mid-market clients for its always-on payroll processing capabilities, generative AI functionality and expedited implementation time lines.
+
+We reached a milestone in the second quarter with our first sale to a client with more than 1,000 employees. The client, a logistics company in the Midwest, selected Workforce Now Next Gen based on the strength of its underlying technology and the breadth of its integrated solution, which included payroll HR benefits administration, time and attendance and learning. Workforce Now Next Gen is a great example of how we build products to solve real-world challenges HR teams face each day, and we do so by combining our Next Gen platforms, investments in AI and automation and robust compliance expertise to support our clients' wide-ranging needs.
+
+In the enterprise space, Lyric's new business bookings once again exceeded our expectations in the second quarter, and its new business pipeline continued to expand at a rapid pace. Underscoring Lyric's strong reception in the market, more than 70% of its new business bookings and overall pipeline related to new logos as it continues to fare favorably against our competitors.
+
+Organizations are turning to Lyric for its flexibility, intelligence and human-centric design that enhances the employee, manager and practitioner experience. Among our many Lyric new business wins in the second quarter were 2 companies with more than 20,000 employees, which represents 2 of our largest clients sold on the platform to date. Earlier this month, Lyric was named a winner in the 2026 BIG Innovation Awards presented by Business Intelligence Group earning recognition for driving transformative impact in the HCM industry.
+
+In addition to building our own best-in-class solutions, we strive to enhance our HCM offerings through acquisitions that complements our business. Our October 2024 acquisition of WorkForce Software is a great example. During the second quarter, we launched the ADP WorkForce Suite, our integrated workforce management solution across our leading payroll and HCM platforms. Clients now have the opportunity to offer their employees around the world, a unified time, pay and HR experience with best-in-class workforce management tools at their fingertips. We are already seeing benefits from our integrated approach, winning several deals in the second quarter that included the ADP WorkForce Suite.
+
+We also partner with others to accelerate innovation. In December, we successfully embedded Fiserv, CashFlow Central and integrated accounts payables and receivables management solution into RUN in order to help our small business clients better manage their cash flow. The RUN powered by ADP platform brings payroll, contractor payments, bill pay and invoicing together in one clear connected experience. With payroll and payments in sync, our clients can do more in less time and steer their business forward confidently.
+
+AI remains central to our technology strategy, and we are moving full speed ahead to leverage it in attracting, serving and retaining our clients. We continue to scale the usage and capabilities of our client-facing AI, including the launch of new ADP Assist, payroll, HR analytics and tax agents that apply advanced intelligence to real workforce challenges. Built on ADP's comprehensive global data platform, these new persona-based agents help organizations manage people streamline processes and make informed decisions that support people at work.
+
+For example, ADP Assist tax registration agents can proactively identify when clients have missing or incomplete tax IDs and guide them through every step of the registration process. Additionally, our ADP Assist HR agents can create key talent actions instantly, such as initiating a promotion simply by the user typing what they want to do. The system delivers real-time answers and guided next steps, reducing time spent navigating HR workflows.
+
+And our AI solutions are designed with a human-centric approach that enhances the value and meaningful connection we all derive from our work. Unlike generic AI solutions, ADP's approach combines proprietary workforce insights with advanced automation to solve real workforce challenges, while maintaining the security, governance and compliance standard companies trust.
+
+Our second strategic priority is to provide clients with unmatched expertise and outsourcing solutions. Success here requires us to carefully consider the breadth of our solutions and to continually evolve to best meet client needs.
+
+To this end, we were excited to introduce our first Pooled Employer Plan or PEP, within our Retirement Services business during the second quarter. A PEP is a single 401(k) plan that lets unrelated employers participate together with a pooled plan provider acting as plan sponsor, named fiduciary and a plan administrator. This arrangement shifts most of the compliance, filing and oversight burdens from employers to the pooled plan provider.
+
+Our Save4Retirement Pooled Employer Plan brings together scale, integration and fiduciary support, allowing employers to offer robust retirement plan benefits without adding administrative burden. Clients gain scale-driven cost savings, reduced administrative work and lower fiduciary risk.
+
+Finally, we are focused on executing on our third strategic priority, benefiting our clients with our global scale. We serve more than 70,000 clients outside of the United States, where we pay more than 16 million wage earners across more than 140 countries. Our mix of global solutions includes both in-country and multinational offerings.
+
+During the second quarter, we won the business of a large European bank with more than 75,000 employees. This win demonstrates the power of our brand built by having associates on the ground for decades in most of our international markets. We also recently enhanced our global payroll platform through more intuitive dashboards with clearer messaging and easier navigation, all of which reduce manual tasks and enhance the overall user experience.
+
+The investments we are making in our international business are being noticed as we were recognized recently in the HRM Asia Readers' Choice Awards, winning 2 golds in 2025 for Best HR Tech Outsourcing and Payroll Solution.
+
+Overall, our second quarter represented strong outcomes on the financial front and with respect to our key strategic priorities. I'd like to take a minute to thank our associates who continue to deliver exceptional products and outstanding service to our clients, particularly now as many of them are in the middle of our most hectic time of year completing year-end work. Their consistent effort over decades has established our company's trusted corporate reputation, and I am proud to announce that ADP was recognized earlier this month by Fortune Magazine as one of the World's Most Admired Companies in 2026. This marks ADP's 20th year on this annual ranking, and I would like to congratulate all [ ADPeers ] on this well-earned accomplishment and thank them again for all that they do for ADP and for our clients.
+
+And now I will turn the call over to Peter.
+
+Peter Hadley
+Chief Financial Officer
+
+Thank you, Maria, and good morning, everyone. I will start by providing some more color on our second quarter results and then update our fiscal 2026 outlook. Overall, we reported a strong second quarter with our consolidated revenue growth, adjusted EBIT margin and adjusted EPS growth, all coming in slightly ahead of our expectations.
+
+Let me focus on our Employer Services segment first, and I will cover both our results and our updated outlook. ES segment revenue in Q2 increased 6% on a reported basis and 5% on an organic constant currency basis, with FX contributing about 1 point of revenue growth in the quarter. As Maria shared, ES new business bookings were solid and broad-based in the second quarter. With continued healthy pipelines, we are maintaining our 4% to 7% new business bookings growth guidance for fiscal 2026.
+
+ES retention was in line with our forecast, declining modestly versus the prior year. We are keeping our outlook of a 10 to 30 basis point decline in full year retention unchanged. ES pays per control growth improved slightly, rounding up to 1% for the second quarter, and we continue to forecast about flat pays per control growth for the full year.
+
+Client funds interest revenue increased slightly more than we anticipated in Q2, helped mainly by higher average client funds balance growth. We have increased our forecast for average client funds balance growth to 4% to 5% in fiscal 2026, and we continue to expect an average yield of approximately 3.4%. Accordingly, we are increasing our full year client funds interest revenue forecast by $10 million to a range of $1.31 billion to $1.33 billion. We are also raising our expected net impact from our extended investment strategy by $10 million to a range of $1.27 billion to $1.29 billion.
+
+On an overall basis, we are also increasing our ES revenue growth outlook to about 6% for the full year. ES margins increased by 50 basis points in Q2, driven by both operating leverage and the contribution from client funds interest revenue growth.
+
+Turning now to the PEO. Overall PEO revenue growth in the second quarter was 6%, while PEO revenue growth, excluding zero-margin pass-throughs, was 3% in the quarter. PEO new business bookings growth was solid in Q2, but did come in slightly below our expectations. This impact, along with some further moderation in PEO pays per control growth, weighed on our average worksite employee growth in the quarter. Accordingly, we are now expecting average worksite employee growth of about 2% in fiscal 2026.
+
+We continue to expect fiscal 2026 PEO revenue growth of 5% to 7%, and PEO revenue, excluding zero-margin pass-throughs to grow by 3% to 5%. PEO margins decreased 70 basis points in Q2, driven mainly by zero-margin pass-through growth and higher selling expenses. As we highlighted on our Q1 conference call, we do expect positive contribution to overall ADP margins this year from our other segment as a result of our client funds extended investment strategy. This margin contribution is being driven by growth in our corporate extended interest income, while at the same time, our short-term financing costs are decreasing. We saw this in the second quarter, and we expect this dynamic to continue across the balance of the fiscal year.
+
+Putting it all together, we are increasing our fiscal 2026 consolidated revenue outlook to about 6% growth, and we are maintaining our forecast for adjusted EBIT margin expansion of 50 to 70 basis points. We continue to expect our effective tax rate to be around 23% for the year. And we are also raising our fiscal 2026 adjusted EPS growth forecast to 9% to 10%, supported by share repurchases.
+
+Earlier this month, our Board authorized the purchase of $6 billion of our common stock, which replaced in its entirety our 2022 authorization of $5 billion. This new authorization, along with our recent 10% dividend increase signals our continued commitment to driving shareholder value and to returning excess cash to our shareholders, which remains a key pillar of our capital allocation strategy.
+
+Finally, a quick note on our anticipated adjusted EBIT margin cadence in the second half of the year. As we mentioned last quarter, we continue to expect a bit of a ramp in the back half of the year for margin expansion, and we currently expect to deliver more of this margin expansion in Q4 than in Q3.
+
+Thank you, and I'll now turn it back to the operator for Q&A.
+

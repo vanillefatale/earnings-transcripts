@@ -1,0 +1,398 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] And our first question comes from Mark Marcon with Baird.
+
+Mark Marcon
+Robert W. Baird & Co. Incorporated, Research Division
+
+Lots of significant positives in the quarter. Maria, I'm wondering if you can talk a little bit about the international opportunity, and congratulations on that win. Where do you see ADP currently in terms of addressing that strategic pillar? And what do you think the runway is like? And how do you compare the profitability of the international operations relative to the U.S.? And then I've got a follow-up on PEO.
+
+Maria Black
+President, CEO & DIrector
+
+Sure. Mark, thank you for the question. As you know, international is an entire strategic priority for us. So we have 3 strategic priorities, one of which is candidly dedicated to exactly what you just suggested, which is the opportunity we have in our global space. So how are we doing? How are we faring? Perhaps I can comment on that, and Peter can touch on the impact of that business from a margin perspective to kind of address the second part of your question.
+
+How we are faring is very well. I think the strength that we see in our offering is just getting started. I was excited to see the rebound in bookings, specifically this quarter after a tiny bit of a softer first quarter on the heels of a very incredible fourth quarter. So we do know that the international space and those opportunities, they're big, they're complex, they're broad. They often involve lots of different stakeholders, countries, decision-makers. So how do we show up? We show up well.
+
+I think the thing that was a highlight for me with respect to this quarter was this 75,000-employee European bank that we cited. But it wasn't just the fact that we had that win, which was tremendous execution by the team. It was also how that win came about, which was a direct reflection of the offering that we have in conjunction with our existing platforms married to now the WorkForce Suite that we launched. And so that was a key contributor to that win.
+
+And I think we continue to make progress in our offerings, in our investments, whether that's through the products, through acquisitions. So we show up well from a product perspective. I mentioned during the prepared remarks how we show up in terms of kind of this balance of ADP associates on the ground, in-country. That's unique, that's differentiated.
+
+So I think in general -- and I apologize, I don't know what's happening to my voice. We're very proud of the offers that we have, how we show up in the international space. We continue to execute well from a bookings perspective. And as it relates to the future, I think it's bright for us, and I'll let Peter kind of comment on the margin piece.
+
+Peter Hadley
+Chief Financial Officer
+
+Yes, Mark, on the profitability side, the international business is a little bit lower margin than some of the domestic businesses, which I think is to be understood. I think the retention rates, though, are very, very high. So if you take -- if you look at it from a lifetime value sort of contribution, if you like, to value, very much comparable with any of the businesses we have in the U.S.
+
+So we're very happy to continue investing in that business. It does drive margin. It's an important contributor to our margin evolution, but it is a little bit lower on the margin as is the enterprise business in the U.S. relative to, call it, the down market, mid-market. But over a lifetime value of a client, given the very high retention rates, we believe we achieve very similar levels of ultimate value from growing in international as we do in some of the maybe higher margin, domestic market businesses.
+
+Mark Marcon
+Robert W. Baird & Co. Incorporated, Research Division
+
+That's great. It seems like a great long-term opportunity. I was wondering, on a separate note, can you just talk a little bit more about the PEO and the WSE growth? It has been slowing for a while across the entire space. And Maria, I know you know the PEO space better than anybody. What do you think is contributing to that slower growth? And how do you think about the long-term outlook on the PEO side just in terms of WSEs? Because it seemed to me like we still have a long way to go in terms of penetration in multiple states that aren't as well developed as some of the core states.
+
+Peter Hadley
+Chief Financial Officer
+
+Yes, Mark, I'll take that, and Maria may want to chime in. But I think we still -- I agree with you. I think we still have tremendous opportunity in the PEO. We've spoken about what we believe is the addressable market opportunity. And we are -- whilst we are clearly the largest PEO, we still think there's plenty of room to grow in that space. And as you know, around half of our PEO bookings come from our own client base. So again, plenty of opportunity there.
+
+What's going on at the moment? I mentioned in my prepared remarks, we had solid bookings. Maria also mentioned we had solid bookings in the PEO this quarter. They were a little less than we were expecting, but not a huge difference, but it does contribute when we're sort of dealing with relatively small movements, basis point movements in things like WSEs. We also saw a little bit contrary, again, very small margins here in terms of basis point moves, but we did see a little bit of softening in the PEO pays per control metric in the quarter.
+
+We saw a little bit of strengthening. Again, I don't want to overemphasize it that it's just tens of basis points, but a little bit of softening in the PEO pays per control metric. By the way, it came in at exactly the same level as the ES metric. I think I mentioned last quarter, the PEO was -- as it typically does, was sitting a little ahead of ES. It's not always the case, but it's typically the case. This quarter, they happen to come in together.
+
+So just doing the math, looking at sort of where we were in Q1 and where we are now, we felt the lower end of the range was more appropriate. And hence, we've sort of adjusted our guide. But we're still very bullish on the opportunity. We continue to invest in distribution. We're investing in our product capabilities within Workforce Now specific to the PEO and certainly feel that there's a tremendous opportunity in front of us with respect to the PEO.
+
+Operator
+
+Our next question comes from Tien-Tsin Huang with JPMorgan.
+
+Tien-Tsin Huang
+JPMorgan Chase & Co, Research Division
+
+Just a follow-up on Mark's question on PEO. I'm just curious if you're doing anything differently to spur growth versus plan at the beginning of the year. I know there's a lot of talk about health care costs being higher and perhaps SMBs are looking to trade down. Curious if you're seeing any of that and if you're responding to it.
+
+Maria Black
+President, CEO & DIrector
+
+Sure. Happy to comment on that and the general value proposition of the PEO. As Mark mentioned, and you know as well, I'm incredibly close to this business, certainly been watching that value proposition over decades. And I can confidently say it's as strong as it's ever been. The complexity to be an employer in that space dealing with whether it's, as you mentioned, health care and the complexity of offering those type of things to your employees. It's very difficult. The PEO fits into that value proposition for those employers.
+
+I think the other piece is just the basics of co-employment and what employers are looking to do in that shared liability. So what are we doing to respond to what is arguably an increasingly complex landscape for those small- to medium-sized businesses, we're investing. So we're investing in our sellers. We're investing in their ecosystem. We talked a lot at Investor Day about the tools that we're developing to serve up the right leads to the right sellers at the right time.
+
+As Peter mentioned, a big piece of our value proposition inside of ADP is that ability to mine our own base, and we're getting smarter about that. And so investments into tools, technology to figure out who the exact right fit is for that PEO, investment into things such as sales incentives, head count.
+
+So I can tell you from a go-to-market perspective, not a shortage of focus. The team is laser-focused and building on the healthy pipelines, the momentum, we see that certainly in the solid results in PEO bookings in the second quarter, but we also see it when we look into the healthy activities, RFPs, things of that nature. There's a lot of motion in that space, and we're definitely positioned to take advantage of it.
+
+Tien-Tsin Huang
+JPMorgan Chase & Co, Research Division
+
+No, great. I value your comments there, Maria. Very important. Just on the margin cadence, Peter, I think you talked about this last quarter about it being more back half weighted. It looked like 2Q was a little bit better than what we had modeled, including the higher float from the higher balances. So 3Q to 4Q, any call-outs in terms of step function change? And have you changed your investment approach given the higher float? It sounds like maybe you're investing a little bit more or maybe I'm misreading it.
+
+Peter Hadley
+Chief Financial Officer
+
+Yes. Tien-Tsin, the second quarter, I think, came in a little higher than we were anticipating as well. We were pleased with that from a margin perspective. The margin cadence point is sort of really 2 things. As I said, we are expecting continued margin delivery in the second half, a little higher than the first half. The main driver of second half versus first half is we still had in Q1, as you remember, the fourth quarter of the -- before the anniversary of the Workforce Software acquisition. So we had some acquisition-related drag in the first quarter. Second quarter came in strongly. We're expecting good results in both Q3 and Q4.
+
+The main difference, I think, in Q3 versus Q4 is a little bit of timing of expenses, but that sort of happens from time to time. I wouldn't overemphasize that. The other piece, though, is the float portfolio, which I think is where you're going. So the float portfolio in Q3 being calendar Q1 is our highest balance period where we -- bonus season, we have tax rate, tax limits resetting.
+
+So we have more float basically in Q1, which results in more overnight balances. And this year versus last year, as you know, we had a 75 basis point reduction in Fed funds between the same period last year and this year. So that creates a little bit of margin pressure in Q3 -- over Q3 last year relative -- we don't really have that in Q4. So we're expecting a little bit more of this. The underlying margin expansion continues, I think, at really good momentum, but that float element as well as a little bit some timing of expenses, we're expecting Q3 not to be quite as strong as the fourth quarter.
+
+Operator
+
+Our next question comes from Scott Wurtzel with Wolfe Research.
+
+Scott Wurtzel
+Wolfe Research, LLC
+
+Maria, just wondering if you can talk a little bit more about the overall bookings environment. Just wondering how -- if you can characterize how growth in bookings was sort of trending in 2Q relative to 1Q and even in the context, if we go back to sort of the end of last year and some of the slowdown that we saw maybe on sales cycles, wondering how all of that is sort of trending now relative to 6 to 9 months ago.
+
+Maria Black
+President, CEO & DIrector
+
+Yes. Sure, Scott. So I think with respect to overall environment, as mentioned during the prepared remarks, the environment is stable. I will tell you that from a new business perspective, we were really pleased with the solid performance in Q2. I think the thing that stands out to me the most with respect to Q2 is that it was broad-based. And so every single business contributed to that growth narrative.
+
+Some of the highlights we mentioned during the prepared remarks, certainly, we saw in the enterprise space, just how Lyric is resonating. It's really an incredible story for us. So really excited about the momentum in the enterprise space. Excited to see that across the compliance solutions as well. I think within the small business portfolio, we continue to see strength in retirement services, in insurance and mid-market also contributed to the growth. And as mentioned earlier, we had good PEO bookings, although that's not in the Employer Services numbers.
+
+So I think just broadly speaking, the quarter felt solid, and we were excited about the broad-based results that really were reflected in that. I think with respect to kind of intra-quarter type of stuff, I don't know that there's a lot to glean from kind of what happened in the 3 months. I think what I would rest on is that we feel solid about the performance. It was broad-based and that the pipelines are healthy as we step into the back half. But as always, we have a lot to get done in the back half.
+
+Scott Wurtzel
+Wolfe Research, LLC
+
+Got it. That makes sense. And then just as a follow-up, I hate to ask the question on AI impacts on hiring. But just in the context of even over the last 24, 48 hours, seeing some incremental announcements from enterprises around layoffs and citing AI. I'm just wondering if you have any updated views on that topic and impacts that AI could be having on the broader labor market.
+
+Peter Hadley
+Chief Financial Officer
+
+Yes. Thanks, Scott. I'll take that one. We've seen the headlines, too. I think more of the headlines I've seen actually have been more about sort of corporate realignment following a big hiring period post-pandemic. But in terms of the data we look at, we look at it, obviously, very closely. We look at it by industry, about 10 or 12 industry groups. We're not really seeing anything discernible there. I mean, when you look at the labor market situation, certainly, the hiring levels are muted. Job openings are relatively muted. We've been talking about that now for some quarters on this call.
+
+What we've also been talking about though and what we still continue to see is continuing reductions in the level of overall layoffs going on in the job market. And certainly, lower layoffs and -- across the industry groups, we see a lot of consistency, if you like, in terms of where they're going, and sort of areas that potentially you may think of as being more subject to being at risk with AI, we're not actually seeing it in those industry verticals. So things like financial services, things like professional services, tech and so on, we're actually seeing reasonably healthy growth. So it's hard to say, but the empirical data does not really point to that happening at this point in time. The future, obviously, is yet to be determined.
+
+Operator
+
+Our next question comes from Bryan Bergin with TD Cowen.
+
+Bryan Bergin
+TD Cowen, Research Division
+
+I wanted to follow up on the international ES and compare that to U.S. So Maria, I sense the incremental international focus here in your commentary, the investments you've been making there. Can you just give us a sense on how that's translating to potentially relative revenue and bookings growth of that international ES base relative to U.S. ES?
+
+Peter Hadley
+Chief Financial Officer
+
+Yes. I'll take the revenue point, Bryan, and then Maria may want to comment more generally. But in terms of the revenue mix, it's not really changing. I mean, again, with the international space, the bookings that we're talking about, and for example, the 75,000-employee European bank, those things take quite some time to come through to revenue generation. They're large sort of enterprise implementation projects.
+
+So in terms of bookings performance, whether it's this quarter or in recent quarters, versus having an influence, if you like, on the overall mix, not really, it's the mix has sort of been consistent for some time. I think the international business, as Maria said earlier, is certainly making good contributions, and we see a great growth opportunity there, but that's more over the medium and longer term than necessarily short term influencing the revenue mix.
+
+Maria Black
+President, CEO & DIrector
+
+Yes. I think, Bryan, if I may just add from a bookings perspective, the focus across the entire enterprise space, inclusive of the large multinationals. So if you think of that global enterprise space kind of as large companies that are incredibly complex that are driving large transformations, undoubtedly, the performance we saw specifically in the second quarter with respect to the enterprise space and international or Lyric and our global payroll offers, were a larger contributor to the bookings narrative than perhaps in previous. But again, both of those spaces can be a bit lumpy.
+
+So to Peter's point, I think it's relatively consistent. But we have high hopes and lots of investment and focus as we continue to uniquely put together global payroll, global time, global HR and global service into a unique offer in the market.
+
+Bryan Bergin
+TD Cowen, Research Division
+
+Okay. That's helpful. And my follow-up on ES PPC. So can you just comment on the pickup here? I'm curious if that was broad-based or there were select contributors to that performance across certain client sizes. And as you just thought about the full year, still roughly a flat outlook. I know last quarter, you said you're rounding down to 0. Here, you're rounding up to 1. But just curious how you thought about the second half, just given that pickup of trend.
+
+Peter Hadley
+Chief Financial Officer
+
+Yes, it's a good question, Bryan. I think in terms of -- like I was saying earlier, I think from an industry group contribution, very consistent also across the segments, our segments, the small market -- small business market, the mid-market and the enterprise space. What we do not really see is what the wider economy is seeing, which is slowdown in the down market. Again, our base has tend to prove to be more resilient, if you like, I think, over the years with respect to hiring than the wider small business segment. So it's really a pretty broad-based contribution, whether it's from industry groups, whether it's from the segment sizes.
+
+In terms of the outlook, we had quite a lot of discussion about it. It's not an easy one to predict because we're really talking about -- we're very confident, I think, that we will continue to see growth. It's a question of, is that growth just above or just below the 0.5% mark? So we decided not to adjust our guidance. I think we need to see a little bit more, as I've sort of mentioned, we're talking about either tens of basis points above or 1 or 2 sort of below the 0.5 point mark. So it's very consistent.
+
+You can extrapolate, I think, sort of the ADP NER and the BLS, apply your usual sort of ADP factor to that, and that's exactly what we're seeing. So I think the back half, we'll see where it comes in and where it rounds to. But at the moment, it certainly looks very much like it's in and around what we have seen in the first and second quarters.
+
+Operator
+
+Our next question comes from Ramsey El-Assal with Cantor Fitzgerald.
+
+Ramsey El-Assal
+
+I wanted to follow up on Tien-Tsin's question before on margin cadence. I mean there seems to be a few more moving parts in terms of the flow-through in the second half. And given Q4 is typically a lower margin quarter for you guys, I was just wondering if you could speak to your confidence level about getting where you need to get to deeper in the year? And just also whether there are any sort of underappreciated levers you might have access to, to help things along.
+
+Peter Hadley
+Chief Financial Officer
+
+Ramsey, yes, thanks for the question. I think it's really what I did say to Tien-Tsin. We delivered 80 basis points this quarter. We're not guiding sort of by quarters, obviously, but we're expecting sort of similar strong underlying margin contribution across the remaining 2 quarters. There is that dynamic on the short portfolio, which you can pretty easily, I think, extrapolate from our filings and our press release, we give the sort of the rates by quarter and the balances by -- between the portfolios in our press release.
+
+So there is clearly about a 75 basis point reduction on the yield of that short portfolio in Q3 versus last year. The other 2 portfolios continue as they are. And more importantly, I think the -- in terms of the true underlying margin expansion from revenue growth and diligent cost management, that continues -- and they also obviously continue, particularly cost management continues to be a lever for us.
+
+So I think we are -- we reiterated our range. We do that confidently in terms of our margin expansion range, and we don't necessarily anticipate any headwinds in the back half of the year, absent the sort of the dynamics I've already spoken about with respect to margin expansion.
+
+Ramsey El-Assal
+
+Okay. Got it. And a quick follow-up for me. Could you comment on the pricing environment right now? How does it feel in terms of your ability to deploy pricing? And maybe what contribution are you expecting from that in your numbers?
+
+Peter Hadley
+Chief Financial Officer
+
+Sure. No, I think the environment, again, is very consistent with what it has been. We feel similarly confident with respect to our ability to price. Our pricing across our 1.1 million clients, we don't just have a date in the year where we apply a price increase across the base. It's feathered in. So we're halfway through the year already. I think our pricing has been very thoughtful as always and generally well received as these things go.
+
+And again, we're not expecting anything to deviate from what we've said before, which is around 100 basis points of contribution from price in fiscal '26, which is a little lower, not a huge amount of difference, but a little lower than what we had in fiscal '25 and a little higher than sort of what we were doing pre-pandemic, which was more in the 0.5 point range.
+
+Operator
+
+Our next question comes from Ashish Sabadra with RBC Capital Markets.
+
+Ashish Sabadra
+RBC Capital Markets, Research Division
+
+Your peer talked about a lower revenue per client. I was just wondering if you have seen anything on that front in terms of the number of products that are adopted by your clients.
+
+Maria Black
+President, CEO & DIrector
+
+Ashish, I apologize. We missed the first word. Who spoke about a lower revenue per client?
+
+Ashish Sabadra
+RBC Capital Markets, Research Division
+
+It was Paychex that talked about a lower revenue per client. So I was wondering if you have seen anything on that front or in terms of like just the number of products that are adopted by your clients.
+
+Maria Black
+President, CEO & DIrector
+
+Yes. No, fair enough. I'm happy to comment on that with respect to, I believe, the reference that they made was at point of sale. Lower attach rates perhaps is the way that we would think about it or a lower number of employees. We haven't seen any of those trends. We monitor that closely, especially this time of year as we're looking at tremendous volumes, and we haven't seen anything that would lead us to believe that there's a lower revenue per client or per client employee, if you will.
+
+Peter Hadley
+Chief Financial Officer
+
+No. And just to follow on to that, some of our strongest bookings performers have actually been our Retirement and Insurance Services in that down market space. So if anything, I think we're perhaps seeing the reverse of what you were referring to.
+
+Ashish Sabadra
+RBC Capital Markets, Research Division
+
+That's very helpful color. And maybe just another follow-up question on PEO. When you think about the bookings came in modestly below expectation, are there any particular regions or verticals where you have seen any particular softness or in terms of, again, attach rate or employee penetration, have you seen any color on those fronts?
+
+Maria Black
+President, CEO & DIrector
+
+I would say with respect to the strongest fit across the PEO markets, whether that's some of the states that have more concentration of PEOs, they continue to perform well in terms of those markets. But again, the performance is broad-based, if you will, across various industries. Certainly, the usual suspects of industries continue to fare well in terms of the strongest fits across PEO, whether that's the likes of property management, professional services, we kind of fit into that white collar end of the PEO, maybe perhaps slightly blue collar.
+
+So I think all of that feels normal as it relates to the overall offer. I think the other piece that I heard a question in there and perhaps you weren't referring to it, but I'll take the moment to comment on it because it is such a big contributor to the value proposition of the PEO, which is the health benefits piece and what are we seeing with respect to participation at the client, employee level. And what I would tell you is participation across health insurance and health offers across our PEO are healthy and remain strong, which to me is a direct reflection of the strength of the value proposition of that offer in the market.
+
+Ashish Sabadra
+RBC Capital Markets, Research Division
+
+That's great color. And congrats on strong momentum in Employee Services.
+
+Operator
+
+Our next question comes from Kartik Mehta with Northcoast Research.
+
+Kartik Mehta
+Northcoast Research Partners, LLC
+
+Maria, maybe just on PEO. In the last 12 months, have you seen a change in the type of client that is asking for PEO in terms of are the clients larger or smaller or the type of industry? Any noticeable difference?
+
+Maria Black
+President, CEO & DIrector
+
+Kartik, no. No noticeable difference. I think the momentum across what is our strongest fit, if you will. So the PEOs that we look -- or the PEO opportunities that we look to bring into our PEO remains really consistent. I think that's a big piece of the strength of ADP and ADP TotalSource, and our offer is that we're incredibly guardrailed as well as strategic in terms of the clients that we target inside of the ADP base, who we want to be in that PEO. And I would say that it's largely consistent across the last couple of decades, both with respect to size as well as respect to industry.
+
+Over time, we have pulled up a little bit in average size over the last couple of decades. Part of that is the PEO does have our best-in-class offer in the mid-market. So if you imagine the PEO sitting on Workforce Now, that stretches it into a little bit perhaps beyond just the small businesses. But again, that's relatively consistent over the decades we've been in the business.
+
+Kartik Mehta
+Northcoast Research Partners, LLC
+
+And Peter, just a question on AI. I know you talked a little bit about AI and maybe impact of employment for your clients. I'm wondering for ADP, I think you've implemented AI. I think you've had success on the sales side. Just a two-part question. Has that changed the number of people that may be salespeople you need or made them more productive, so it changes maybe the number of hires? And is the success of allowing you to increase investment or one leading you to increase investment in that?
+
+Peter Hadley
+Chief Financial Officer
+
+Yes. Thanks for the question, Kartik. In terms of the head count, no, we have not sort of taken a different approach to our head count. We remain committed to growing sales head count. We have seen over decades the contribution that, that can make. What it has done to your point is, it's enabled our sellers to be more -- both more efficient and I think also more effective. I would still say we're in the relatively early innings in terms of taking dividends, if you like, from these investments and really seeing sort of the lift we expect to get from this over the coming years.
+
+But it's less about, okay, a shift change in how we approach investing in the sales force or sort of where we expect sales to come from. Really, it's a way that we are looking to make our salespeople more effective, more efficient and ultimately deliver more wins, but I think you should expect us to continue to invest in both head count and tools, be they AI and also other tools. We've spoken about the Zone, which obviously is AI-infused, but is also a platform our sellers use. All of those things we'll continue to invest in to maximize our opportunity to be successful on the sales front.
+
+Operator
+
+Our next question comes from Dan Jester with BMO Capital Markets.
+
+Daniel Jester
+BMO Capital Markets Equity Research
+
+So maybe on Lyric, it sounded like you sold a couple of quite large deals this quarter that you mentioned in the prepared remarks. Maybe can you share a little bit of color about how maybe you won those deals or how they came together? And as you think about the larger part of the opportunity in the enterprise for Lyric, do you have critical mass now in terms of reference customers? And are deals like this, should we be seeing them more frequently? Or maybe just any more color about the upmarket momentum on Lyric?
+
+Maria Black
+President, CEO & DIrector
+
+No. Thank you, Dan. I'm so glad you asked. This is one of my favorite stories coming out of Q2 is the strength that we see in Lyric new business bookings. Really excited about those 2 specific deals as they do represent 2 of the largest. Do we anticipate and want to see more of them? Of course, we do. That's everything that we've been building toward. So that is part of our goal and our expectation.
+
+I think the part that, again, also was a standout is that when you look across the pipeline, you look across the wins with Lyric, 70% of those are new logos. That's a direct correlation to how this product is resonating with CHROs, with the market at large. It's being cited not just the awards we're winning, but by the buyers. So how do these deals come together? They come together because CHROs today are looking for flexibility in their products. They're looking for dynamic tools. They're looking for products that have AI built in the fabric and in the core, not after and attached.
+
+So it is an AI-centric, human-centric platform that we built with really that worker at the center. That's unique. It's different. That's how these deals are coming together. That's how the pipeline is coming together. So you probably hear it in my voice. But yes, we're very excited to see this, and we are building critical mass. Now again, I think Peter mentioned earlier on the international, same thing on these deals. These are large deals. They will take some time to onboard to get to huge revenue contribution, but definitely material bookings contribution from Lyric at this time.
+
+Daniel Jester
+BMO Capital Markets Equity Research
+
+Okay. That's great. And then maybe just to go back to your prepared remarks on the customer feedback, it sounds like extremely strong, some of the highest that you've seen. I guess I'd love you to compare and contrast that with sort of the retention commentary that it just kind of came in line with your expectations. So if your customers really love the product and retention is coming in line, any thoughts about sort of what's impacting the market, any in terms of exogenous factors from the macro or the competitive environment, sort of anything you'd share on retention?
+
+Maria Black
+President, CEO & DIrector
+
+Yes, sure. So I'll start with the client satisfaction because it's another highlight. It was a record quarter. It's a record first 6 months. I hope we always have record because that means that the efforts that we have to improve the experience that our clients have engaging with us, the investments we're making in those tools. Peter mentioned the Zone. That's true for sales. We're also investing tremendously into AI tools for our internal associates, as well as into our products to make our clients more productive and our practitioners, whether it's ours or our clients in the HCM field, be able to navigate this space even better.
+
+So the investments into product, the investments into the tools, I'd like to believe the NPS improvements that we continue to make. And by the way, they're broad-based. I think that's the other piece that stands out to me from a structural perspective. So really excited about that. And as mentioned, it is a direct connection to retention. We do have strength in retention. That said, it was in line with our expectation, and that expectation is really how we set out the plan for the year.
+
+And Peter can comment on this as well, but we do anticipate this year a bit of a moderation. So it's hard to believe that it's 6 years later, and I'm still sitting here talking about pre-pandemic out-of-business rates. Are we back to fiscal '19 or not? And I would tell you, we're almost there, but we are planning for even in the back half of the year, a bit of moderation as it relates to things like out of business.
+
+We did see a tiny bit of that contribute to the slight decline, if you will, in the second quarter. It's right in line with how we're planning, but it's not a byproduct necessarily of the tremendous efforts that we continue to make on client satisfaction and more a byproduct of how we really structured the plan for the year.
+
+So I don't know if you have anything to add to that, Peter.
+
+Peter Hadley
+Chief Financial Officer
+
+Yes. No, I think that's well said. I mean the -- again, our reported retention rate last year was -- in the U.S. was 92.1%. So you can do the math, obviously, on a $14 billion-plus business, but 10 to 30 basis points is actually a pretty small movement, if you like, that we're anticipating. As we said, we -- our second quarter came in more or less where we were expecting. The first quarter was slightly better than where we're expecting. We'll see where the back half goes. It's more a back half story, particularly Q3 is the most definitive period.
+
+So I think we are just anticipating, to your point, a little bit maybe more on the macro side. But again, very small margins, a very small uptick in, as Maria said, or normalization of out-of-business levels in the small business segment. But all of this is very much on the margins, given we're only talking about 10 to 30 basis points against the very high retention rate to start with in a very large business.
+
+Operator
+
+Our next question comes from Bryan Keane with Citi.
+
+Bryan Keane
+Citigroup Inc., Research Division
+
+Just had a follow-up on PEO, Peter. Maybe you could help me understand the first quarter revenue ex pass-throughs grew at 6%, this quarter at 3%. That's a pretty big move or bigger move than usual we see between first and second quarter or just in the cadence of quarters. The 300 basis point delta there, maybe you could help us some of the drivers there, it sounds like maybe some of that is the softer bookings, but I didn't know if there's other things at play there.
+
+Peter Hadley
+Chief Financial Officer
+
+Yes, Bryan. So if you take the rounding, it's actually a little less. We had some rounding up and down and what have you. But still, it is a bit of a differential. There's a few factors there. One is the slightly softer worksite employees we were talking about earlier, which came from -- again, from a solid but slightly below our expectations bookings performance and some moderation in pays per control.
+
+The second factor is, you may recall, Q2 last year, we had a bunch of pull forward of SUI revenues that we would not -- last year, we were anticipating in the third quarter were pulled forward just due to the way the processing calendar worked into the second quarter, we did not have that this year. So there was a bit of a grow over challenge or challenging compare, if you like, from a revenue growth perspective as a result of that.
+
+And then the third factor we saw was -- which, again, all going in the same direction, hence, the differential that you're referring to was wage growth. We saw a little bit less wage growth in the PEO in the second quarter. Again, this happens from time to time. I wouldn't necessarily draw a trend that employers in that space are looking to put through lower wage increases. If anything, the third quarter is more a quarter where -- our third quarter being this current first calendar quarter is more when you see sort of wage rate changes, if you like, for worksite employees.
+
+But just due to movements in the base, clients moving out, other clients moving in and the timing of that, we saw a little bit less in terms of the payroll base or the wage growth levels in the PEO. So a bit of a step off from Q1. I would acknowledge that. I think though we are still positive with respect to the outlook for the year, and that's why I reiterated, if you like, by the fact we did not change our guidance either with or without zero-margin pass-throughs.
+
+Bryan Keane
+Citigroup Inc., Research Division
+
+Yes, I was going to ask about the guidance. I think you did reiterate the 3% to 5% ex the pass-throughs. Should we be on the lower end of the range more just given the trends or not necessarily for the back half of the year?
+
+Peter Hadley
+Chief Financial Officer
+
+Yes. I would say not necessarily, but we don't guide on the quarters, obviously, but there's a lot to be done. Again, this -- we're in sort of prime selling season now. Retention is a little bit more of a fourth quarter play. So it's much more of a back half story than front half. So it's hard to sort of give clear guidance, I guess, as to where in the range we think we will finish. We are confident about being able to land in the range. But I would say at the moment, the range is there because all possibilities still exist and will depend on largely bookings and pays per control and to some degree, retention.
+
+Bryan Keane
+Citigroup Inc., Research Division
+
+Congrats on the solid results.
+
+Peter Hadley
+Chief Financial Officer
+
+Thank you.
+
+Operator
+
+Our next question comes from Dan Dolev with Mizuho.
+
+Dan Dolev
+Mizuho Securities USA LLC, Research Division
+
+Really nice results. I think, Maria, you mentioned in the beginning, you're very proud of the CashFlow Central partnership with Fiserv. Can you maybe discuss a little bit of sort of the contribution, when should that become really material? And then I have a follow-up quick question.
+
+Maria Black
+President, CEO & DIrector
+
+Yes. And thanks, Dan. I appreciate the question and the nice comments about the quarter. I am really excited about our continued journey of the strategy of embedded offerings. So we've spent a lot of time talking about embedding RUN into other offerings. I think now I'm incredibly excited to talk about Fiserv's CashFlow Central being embedded into RUN. What this allows for is a small business owner to really leverage RUN powered by ADP as a one-stop shop platform where they have the ability to run payroll. They have the ability to do bill pay, AP/AR. They have the ability to pay contractors. They have the ability to pretty much pay everyone in one single platform.
+
+We believe in this ecosystem approach. Anytime you can come together with other technology to make it easier for a small business owner to navigate the work that they need to do is something that we're incredibly interested in, and it's part and parcel to the embedded strategy, whether it's putting RUN into other ecosystems or leveraging others best-in-class offerings into our platforms. So really excited about it.
+
+That said, though, we did just complete that integration in December. And so there's not a lot of contribution yet with respect to revenue and/or bookings. So that opportunity is largely in front of us, which also makes me incredibly excited as we continue down the journey of embedded.
+
+Dan Dolev
+Mizuho Securities USA LLC, Research Division
+
+Great. And I do have like a little bit of a longer-term question. I think one of the key concerns, obviously, not ours, is sort of the long-term terminal value in sort of an AI-driven white-collar job killing world like software engineers, et cetera. Like, I'm sure you guys are very -- I mean, you've been around for decades. ADP has been around for decades. Like, is there -- like, are you guys working, I'm sure, internally about sort of the more like the 3- to 5-year outlook, how can ADP add value or changing kind of the framework if the AI thing does reduce long-term jobs? Just maybe some long-term comments would be great.
+
+Maria Black
+President, CEO & DIrector
+
+Yes, absolutely. I'm happy to start. And then, Peter, if you want to chime in kind of from a terminal value and things of that nature and things we may or may not be modeling. But I think maybe I'll start with the things that I think every day about, which is the -- at some level, like the beauty of this business, when I think about what it is that we do, which as we've talked about at Investor Day, and we continue to see each and every day, what we do is not discretionary. What we do is an imperative. Paying people on time and accurately is not just a brand promise. It's candidly how the whole world goes around.
+
+So I think deeply about what does that look like in the future. You said it well, which is ADP has navigated many of these innovation cycles. We've been around for 76 years. So if you think about how payroll was processed, 76 years ago to where it's processed today, a lot has changed. Work has changed. Workflow has changed.
+
+I spent the last week over in the -- at the World Economic Forum. And as I walked up and down the promenade, this concept of AI changing workflow and augmenting the workplace as it automates tasks, that is real, and that is happening. And we see that. We see that in our business. We see that in our clients' business, but we also see that it has to be still anchored to, call it, human centricity.
+
+The world of work is a human place. What we do is probably the most emotional part of humanity, which is connecting people to their purpose, connecting people to their work. By the way, the way to test that is if you ever want to really upset somebody, get their payroll wrong or get something with respect to benefits wrong. And so what we do will continue to evolve. And I think we're right there with it. That's why we're really excited about the work that we're doing across each of the domain disciplines of HCM with respect to AI.
+
+I talked about it in the prepared remarks, having ADP Assist agents in payroll, in tax, in benefits, in all of these different areas will continue to change how work happens, whether that's for us or our practitioners. But at the end of it, the other thing I think a lot about, whether it's this last week during the snowstorm or perhaps on the 23rd of December when one of the largest global clients in the world had a challenge with payroll on their end.
+
+Do I see a world where a bunch of humanoids are going to be sleeping in offices to get payroll done and navigating things to ensure that people get paid accurately and on time without people involved? Candidly, I can't see it. Do I think workflow is changing? Yes. Are we prepared to continue to innovate in that space? That is exactly what we're doing. But I also believe what we're doing and what many companies do outside of ADP is anchored in humans. And so only time will tell truly what the future holds, but we are navigating this innovation cycle at a rapid clip, no different than all the other ones that ADP has navigated.
+
+Dan Dolev
+Mizuho Securities USA LLC, Research Division
+
+Great. Thank you for this, we believe in you.
+
+Peter Hadley
+Chief Financial Officer
+
+Thank you. Appreciate that.
+
+Maria Black
+President, CEO & DIrector
+
+Thank you.
+
+Operator
+
+Thank you. This concludes our question-and-answer portion for today. I'm pleased to hand the program over to Maria Black for closing remarks.
+
+Maria Black
+President, CEO & DIrector
+
+Well, funny enough, I think those probably serve as a pretty good closing remarks. I will only add one piece, which is exactly where I started, which is thanking our associates, because it is our associates that are innovating. It is our associates that are showing up for our clients, whether that's at the holidays to get things done or it's weathering snowstorms to get things done. I'm really proud of the work that we're doing. It's a direct reflection of how we get recognized by companies like Fortune for 20 years in a row as the Most Admired Companies. I am in awe of the ADP spirit and how human the work that we do and how it shows up, and I'm really proud of that. And I just want to once again acknowledge our associates and thank everyone for their interest.
+
+Operator
+
+Thank you for your participation. This does conclude the program. You may now disconnect. Everyone, have a great day.

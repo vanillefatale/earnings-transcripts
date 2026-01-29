@@ -1,0 +1,202 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question comes from Brent Thill with Jefferies.
+
+Brent Thill
+Jefferies LLC, Research Division
+
+Arvind, good to see the comment around Software growth accelerating to double-digit growth this year. I was just curious if you could maybe dig into the components and why you're excited for that organic-led initiative. And then anything else that's important to note this year on the Software portfolio that maybe we haven't seen in '25?
+
+Arvind Krishna
+CEO, President & Chairman
+
+Give you a bit of a perspective on the dynamics of the different parts of the Software business, and then for quantification, I'll turn it over to Jim. So first, we are incredibly pleased with how we got to the end of the year on Software. We are pleased with the organic growth in Software, and we are pleased with the inorganic contribution.
+
+If I sort of peel it first from the subsegments, Automation, I think, is on a secular demand increase. The reason for that is as people have more and more infrastructure, they put more and more AI, they put more and more compute, they need that software to help them manage all of it. And we're seeing that play through in the demand for HashiCorp, which helps you deploy hardware and software; with the demand for Apptio, which helps you manage the costs and gives you a perspective of what is happening as well as all of the pieces around how do you integrate applications, how do you integrate data and all of those components. So I think that expecting well into double-digit growth for that part is appropriate, and we see that in our early demand signals.
+
+If I look at Data, Data benefits both from our data products that we provide, the organic innovation we have done with watsonx, both the AI pieces and the Orchestrate piece for agents. And we expect that, that demand will keep pulling through and going forward as people are deploying AI for enterprise productivity and inside the enterprise.
+
+Then, we also have a lot of partnerships in the data space that we see strong demand for and that we expect are going to continue. Mainframe, given the very strong cycle we had, somewhere between low to mid-single-digit growth is reasonable, and we have seen that dynamic play through, but it kind of follows the hardware placement by a few quarters. So all that hardware, as people consume it, is going to cause that to grow.
+
+And then we get to Red Hat. First, we are very pleased with the doubling almost -- more than doubling of the Red Hat business since we acquired it. It was early $3 billion, $3.2 billion when we made the acquisition, finishing the year at $7.5 billion on a run rate, just extrapolating from the fourth quarter towards $8 billion. We see strong demand in many of the pieces there, including on Red Hat Linux, but that probably in the mid-single digits, more than in the high to double, which is in line with server growth. You're still taking share. And the piece there that continues to be very, very attractive to growth is OpenShift, which is almost at $2 billion and running at a 30% growth rate, and we expect that to continue both for containers, for hybrid applications and for virtualization.
+
+So if you put all of that together, then that gives me confidence on the growth that Jim laid out, about 10% for the year. This all assumes a midyear closing for Confluent, which is sort of baked into our expectations right now. Now of course, we're going to strive to do even better, but I think that this is a prudent set of numbers to put out.
+
+James Kavanaugh
+CFO & Senior VP
+
+Yes. The only thing I would add just to wrap it up and I'll say it on behalf of Arvind's given how humble he is, when you look at 2025 and our Software execution, I think what you see, one, is the strength of our portfolio and the diversification of that portfolio. And that's a reflection of a multiyear strategic repositioning of the IBM company to a software-led platform-centric company.
+
+We finished '25 with 1 of the highest growths we've ever had in Software overall, but it's pervasive with 3 of our 4 Software categories growing double digits. You dial back only about 3 years ago. We only had one growth vector, and that was Red Hat. That is the foundation of our hybrid cloud and AI strategy. The work we've done around repositioning the portfolio, a disciplined capital allocation to build out an Automation portfolio, a Data portfolio and always capitalizing on that high profit margin Transaction Processing portfolio has just been phenomenal, and it's leading to a sustainable, durable growth engine that gives us that conviction of double-digit growth here in 2026.
+
+But when you cut to the underpinnings, it reflects that diversity, ARR, roughly $24 billion, growing high single digits; GenAI, over $2 billion book of business, up 2x in the fourth quarter. And that M&A growth synergies, you're just seeing the beginnings of that play out with Hashi with another record quarter overall. So we are excited about the opportunity ahead, and we feel confident about Software now at double digits, not approaching double digits.
+
+Operator
+
+Your next question comes from Amit Daryanani with Evercore.
+
+Amit Daryanani
+Evercore ISI Institutional Equities, Research Division
+
+Congrats on some nice numbers here. I just want to focus on free cash flow a bit. And if I go back to the start of the year in '25, you folks talked about $13.5 billion free cash flow guide. You sort of ended up being $14.7 billion, I think, when it's all said and done. And I think revenue growth helped you somewhat, but it was really good free cash flow margin conversion. So I'd love to know, from your perspective, what drove the strength, the better performance in free cash flow in '25. And where I really want to go with this is I want to understand the $15.7 billion free cash flow guide for this year, which is impressive, but it implies high single-digit free cash flow growth versus the 16% that you saw last year. So maybe just help me appreciate, was there something unique that you saw in '25 that led to the 16%? And any puts and takes around the $15.7 billion number for this year?
+
+James Kavanaugh
+CFO & Senior VP
+
+Thanks, Amit. I appreciate the question. As we've been talking about for 5 years, 6 years now going on, as Arvind has taken over this company, we've got 2 key measures that we drive this company on, revenue growth and free cash flow generation. And by the way, they're synergistically aligned because it provides that flywheel of investment flexibility.
+
+But you're exactly right. We entered the year, and I remember a year ago sitting in this chair, I got asked the question, I think it was either you or Ben, about are we -- my words, are we sandbagging free cash flow. And at that time, we said $13.5 billion, and the underpinnings behind that was double-digit growth in adjusted EBITDA and that we would have partially mitigating that some headwinds on -- or I would talk about tailwinds, higher cash tax because we got a higher profit profile, higher CapEx because we're going to invest in this business for long-term future growth, and we were going to have higher net interest and acquisition-related charges.
+
+Now you fast forward a year later, we posted $14.7 billion. By the way, up $2 billion, up 16%, highest free cash flow we've seen in well over a decade, highest free cash flow margin on record of 114-year history of our great company. And the underpinnings behind that cash flow were entirely driven by the fundamentals of our business, the acceleration we saw in our revenue growth throughout the year and the strong operating leverage we continue to get out of this business. So where we started with adjusted EBITDA at double-digit growth, we finished at 17%. That's an incremental $1 billion of adjusted EBITDA from where we were a year ago. And by the way, that's a flywheel engine. Revenue acceleration, operating leverage and driving an efficient balance sheet where we're very proud about a solid investment-grade balance sheet generate significant substantial free cash flow.
+
+So now you fast forward to this year. We enter 2026 with a lot of momentum, confidence. By the way, I should have said, over the last 3 years, we've grown free cash flow $5.5 billion, so that growth vector of what's been happening. But you look at 2026, our investor model is high single digit. We got a lot of work to do in 2026. We said we'd guide confidently up $1 billion at $15.7 billion. That's on a high single-digit growth. It's early in the year, high single-digit growth of adjusted EBITDA, and we are sitting here with a tremendous amount of leverage and opportunity just like we were a year ago. And our goal is to continue driving the durable, sustainable performance of this company as we move forward.
+
+So why do we feel excited? One, we have a focused portfolio, disciplined capital allocation, diversification of our business model and a relentless focus on profitability that drives the durability of free cash flow engine in this company that gives us the financial flexibility to continue to invest for long-term sustainable advantage. So we feel confident about that $15.7 billion, and our job is to beat it this year.
+
+Operator
+
+Our next question comes from Ben Reitzes with Melius Research.
+
+Benjamin Reitzes
+Melius Research LLC
+
+At the risk of getting in trouble with Olympia here, on Amit's question, I was surprised you didn't say there's a multi-hundred million hit due to Confluent in the cash flow guide, which without it, it would be higher. But my real question is with regard to Red Hat. And I wanted to just clarify, I appreciate the double-digit guidance for software. I wanted to see what -- how we're going to bridge Red Hat. What -- how do we get the 8% to the mid-teens? Or is mid-teens no longer the growth rate there? Obviously, everything else was great and better than our model, but I'd like to just focus -- laser focus on Red Hat and how we bridge it to within your forecast and towards the prior goals.
+
+James Kavanaugh
+CFO & Senior VP
+
+Yes. Thanks, Ben. And I didn't say the dilution effect because, to be honest with you, dilution is part of our model. Our investors expect us to be disciplined capital allocators. I think we've earned the credibility about that, and we have to take that into account.
+
+That's why we drive portfolio mix. We drive revenue scale. We drive productivity, which, by the way, I also didn't say we exited last year $4.5 billion over the last 2 years. And we see that going up by another $1 billion this year. So we got a lot of levers in this business. And we understand that dilution. But you know what, the strategic value of Confluent and the synergistic value of what it does to our portfolio, we definitely could take into account that dilution. So I know you were trying to help on $15.7 billion is higher. Yes, it is. But all in, which is how we operate and report, we got to deliver or beat that number.
+
+So -- but let's get back to Software. We talked a lot about the first question. We enter '26 with confidence around the momentum, the diversification of our portfolio, about the strategic repositioning, about the flywheel of growth, and we expect now double-digit growth. Underneath that, one, that's going to deliver over 4.5 points to IBM's growth in '26, above our model. And as Arvind said, an acceleration of organic growth. Organic will be north of 7 points this year and acquisitions about 3 points.
+
+How are we going to do that? We're going to do that, one, we have to acknowledge we're operating in an attractive TAM with a market backdrop for tech that we think is pretty exciting, and Arvind has been on that point about opportunistic. Two, we continue -- the thing I think is underappreciated in our disciplined capital allocator, we continue to shift this portfolio mix to higher growth end markets with companies that we buy, which we always say category leaders in structurally growing markets that we can provide unique value, integrate and deliver differentiated synergies to accelerate growth. That is shifting our underlying portfolio. That's also advancing our organic growth profile. Annuity strength, $24 billion exiting the year, growing high single digits, 8-plus percent; new innovation, GenAI, GenAI in the fourth quarter, up 2x, and we see that continuing as we move forward; M&A growth synergies kicking in off of a record Hashi year. And Arvind talked about TP cycle monetization.
+
+By the way, one point on TP that I think is underappreciated. We talk about it very similar to z16 cycle. z16 first year of that cycle, TP was flat. We finished this year flat. One big difference. That flat on z16 was off a down 9. The flat this year in 2025 was off a plus 10. So you could see the compounding effect of what's happening to TP, and we see that inflecting the growth.
+
+So underpinning, and Arvind gave you some of the math, one, Data, high teens, contributing about 4 points of that Software growth, well above model. That's going to be driven by new innovation, GenAI capability, platform economics. Two, Hybrid Cloud, we think that's double digit. Back to where I started my first answer. 3, 4 years ago, we only had one growth vector. Now we got 3 growth vectors that are growing double digit. Underpinning that, we got a subscription revenue under contract that's growing mid-teens. That's not at model. We only delivered single-digit ACV bookings in the fourth quarter because, as we stated in prepared remarks, we were disrupted by the shutdown in the federal government. We got to get through that. We're monitoring it. And I would say the word choices, we're being prudent on Red Hat's guidance right now because we only need that at double digit to get Software over the line of double digit. Upside, we'll deliver upside to Software overall.
+
+Automation, great portfolio, low double-digit, 2.5 point contribution to Software, on or better than the model. And that's leveraging M&A growth synergies off Hashi's success. And then TP, we're pretty much back to model, low single, mid-single-digit growth, capitalizing on that economic multiplier. So it gives you a little of the underpinnings behind why we're confident in that 10-plus percent growth of software.
+
+Operator
+
+Your next question comes from Wamsi Mohan with Bank of America.
+
+Wamsi Mohan
+BofA Securities, Research Division
+
+Just a follow-up, a clarification quickly on the last couple of questions around Hybrid Cloud growth. Are you anticipating any potential pressure on the server refresh cycle from higher memory pricing? And could that sort of have any adverse effect on the Red Hat Enterprise Linux side of things?
+
+And my question really is, Jim, on the cadence of PTI improvement, clearly, you're driving a lot of productivity improvement in being able to absorb entirely the dilution from Confluent and then some. So how should we think about the cadence of the progress of that given that Confluent is going to hit midyear, but you've already taken some productivity actions here in 4Q of last year. So should we be seeing more outsized PTI improvements in maybe second quarter? I think you already said what it is in the first quarter but like in the second quarter. Is that the right way to think about it?
+
+Arvind Krishna
+CEO, President & Chairman
+
+Okay. So Wamsi, let me take the first part of that question, and I'll ask Jim to address the second part of your question. Look, the server dynamics are volatile, and you're right. If I remember correctly, spot memory, DRAM prices are 6x that of last year. A big reason for that, for those who are interested, is because a lot of the capacity is moving over to HBM, or high-bandwidth memory, which is required for AI servers. And if I remember correctly, it takes about 4, maybe 8x the capacity of DRAM to do HBM, and the pricing and the demand for HBM is driving all the vendors into that. I personally believe, as long as that dynamic is there, those pricing issues are going to be there through the year.
+
+Now the demand side, there is no AI server without a bunch of CPUs right next to it. So the reality becomes that the AI demand also drives demand for normal servers that in turn feed and load up those servers. So I don't expect that the overall server dynamic on which there may be a little bit of an issue is actually going to be any headwind to us on the Hybrid Cloud or the Linux side. And the reason for that is that there is enough growth going on. There is also a market share movement towards Red Hat as opposed to alternate answers in the marketplace. So that mix overall, I think, keeps us growing well. I also believe that both Red Hat AI and OpenShift AI will feed into the demand from the AI servers, which was going to help that demand.
+
+So let's acknowledge there is going to be memory pressure, and that probably lasts at least a couple of years. But as we look at that, it also gives opportunity for the AI portions of the portfolio to get a lot of tailwinds. So with that, I'll give it to Jim for, I think, another free cash flow question.
+
+James Kavanaugh
+CFO & Senior VP
+
+Yes. The skew of profitability, Wamsi, I think, was your question. So thanks very much, and I appreciate that. Just given we do still expect Confluent to close by midyear this year, obviously, very excited about the strategic capabilities that's going to add. But I think I was very transparent in the prepared remarks about the level of dilution, et cetera.
+
+But let me bring it up a level first around how do we run this company and how do we drive the operating leverage that's been going up well above our model over the last 3 to 4 years. Portfolio -- we drive this through portfolio mix. That's why Software being the underpinning of IBM's leverage around 45% of IBM's revenue but about 2/3 of our profit, also the high-value recurring revenue, our ARR book of business, high marginal profit dollars.
+
+So portfolio mix being one lever. Productivity, every dollar we invest in this company around go to market, around R&D, around innovation and around our consulting services, we look and we drive a very maniacal ROI concept around that profile, just as you would expect us to as an investor like an inorganic M&A acquisition. And three, we drive to bring this company the most productive company in the world and getting G&A scale leverage overall.
+
+Fundamentally, you manage those 3 separate buckets differently. When you look at 2026, we said about 1 point growth in margin. We're going to get about 0.5 point on a revenue scale just given the leverage of the acceleration of revenue. We will lose 0.5 point on portfolio mix because we are going to wrap on an unprecedented launch momentum on mainframe, which carries higher profit and higher mix. The remaining full point basically is going to be driven out of productivity. And our model, as you know quite well, we've been driving north of 300 basis points per year of productivity, and we've been reinvesting about 200 basis points of that. That's why you've seen, over the last handful of years, our R&D up double-digit growth year-over-year, and we've taken over the last, what, 5 years, we've taken $2.5 billion of R&D up overall.
+
+But when you look at 2026, productivity is going to drive the day. We feel confident we took up our productivity target to $5.5 billion. We will get revenue scale leverage on G&A, which will mitigate dilution and mitigate product cycles overall.
+
+To your last question, we think the skew of that profitability is going to follow our normal historical attainment. First quarter will be pretty much on historical attainment. By the way, you do the math. That's double-digit profit growth, double-digit EPS growth. So pretty consistent building off the momentum in fourth quarter.
+
+Operator
+
+And your next question comes from Jim Schneider with Goldman Sachs.
+
+James Schneider
+Goldman Sachs Group, Inc., Research Division
+
+I was wondering if you could maybe outline the path or trajectory you're expecting for the Consulting business throughout the year. Signings were a little bit weaker in this quarter, but you noted the strong backlog in AI that you're seeing. So maybe talk about how you expect that to convert into revenue over the course of the year and whether you see any kind of further improvement in discretionary or short-cycle spending and projects as you head throughout 2026.
+
+James Kavanaugh
+CFO & Senior VP
+
+Great, Jim. It's good to hear from you, and I appreciate the question. First of all, we're encouraged by the inflection shift that we see in Consulting business exiting '25. We returned the business back to durable, sustainable growth in the second half, a little bit over 1%. But more importantly, and I think underappreciated, we got a lot of headroom to go, and the team is working diligently around improving the fundamentals of this business, and our operating pretax margins were up by almost 200 basis points in 2025.
+
+When you look at the market, market definitely remains dynamic, as we talked about earlier. We continue to see opportunity for growth as clients accelerate their investments in AI-driven transformation to unlock operational efficiency, to unlock business model innovation and unlock growth. I think it's a very different mindset and client buying behavior than we saw 18 months ago when it was pure disruption and discretionary spend that's moving out.
+
+So as we look at '26, this is what gives us the confidence that we guided low single to mid-single, which we think is going to be pretty much where the market is at overall. And we still believe we've got continued headroom on operating margins. We guide about another 1.5 points improvement year-over-year. Both of them are going to be accretive in contribution to IBM overall.
+
+How is that going to happen? One, I would put it in a handful of buckets: one, backlog realization and what we see; two, our GenAI momentum and the rate and pace and growth and acceleration we're seeing; three, strategic partnership headroom that we still have; four, our portfolio composition we've been talking about is aligned to much more growth end markets, higher growth end markets. Our portfolio is less around pure BPO. It's more around digital transformation, application modernization, AI, around data transformation, cybersecurity, governance. And then five, Mohamad and team, we've been doing a ton of work around reshaping our model to an asset-based services-as-software model with our industry-leading IBM Consulting Advantage.
+
+So let me talk about just a couple of them to give you some math and statistics on why we feel confident. One, backlog, $32 billion, up 2% overall but underpinning record low erosion, duration that has continued to come down, and our realization to your question, we see a realization out of that backlog that fully supports that low to mid-single-digit growth, and we see it pretty much modestly growing throughout the year, so low single-digit first quarter and then growing throughout the year.
+
+Two, we added over 400 new clients this year, and that has improved our net new business contribution, as we've been talking about, by 8 points, which is having a higher revenue realization by 4 points year-over-year. So backlog composition and the acceleration is one aspect.
+
+GenAI is the second. GenAI now represents over 1/3 of our bookings, over 25% of our backlog right now, $32 billion backlog and over 15% of our revenue on an exit run rate. We have a $3.6 billion ARR GenAI revenue run rate in Consulting, and we see that continuing to accelerate.
+
+And then finally, the repositioning. We see more headroom on margin leverage, about 1.5 points as we go forward, and that's through productivity, portfolio mix. But we have to manage. We are operating in a very aggressive pricing environment, and we'll continue monitoring that.
+
+Operator
+
+And your next question comes from Erik Woodring with Morgan Stanley.
+
+Erik Woodring
+Morgan Stanley, Research Division
+
+Arvind, a really strong infrastructure year, obviously, outstanding performance in Z. I think there's an argument to be made, and I hear from you that with the Telum II processor, given the amount of data and transactions on the mainframe, the mainframe can be an AI workhorse. You had really strong outperformance relative to your historical model in Z. You're guiding to a bit of infrastructure decline in 2026.
+
+And so I'm just trying to understand, was there just some kind of different buying trends in 2025 and perhaps a bit of pull forward that was different than maybe past Z launches? Or could you just be a bit conservative as you look out into 2026? I know you cite cycle dynamics. But could you see some more sustainability in the Infrastructure business, in the Z cycle that maybe isn't fully accounted for in the Infrastructure guidance that you gave?
+
+Arvind Krishna
+CEO, President & Chairman
+
+Yes. So Erik, as Jim actually explained in the answers to a few questions, we want to give guidance, and we want to be where we have incredibly high confidence that we can hit or beat those numbers. So let me just caution that all guidance we give is with that in mind.
+
+Let me just actually go back to a few of the dynamics that are driving even stronger adoption of the mainframe. Let's point out, z17 has been the strongest start 3 quarters in. Before that, z16 was the strongest in about 20 years. Before that, z15 was better than 14, 13 and 12. So we have been on this continuing improvement.
+
+Let me point to, I think, at least 3 secular factors under it. Number one, there is a lot more demand for people to have -- we can use the word sovereignty or we can use the word on-premise control, which goes along with the economics of the mainframe platform. I think more and more clients have woken up to that for certain workloads, the mainframe is actually the lowest unit cost economics platform, and that is really important.
+
+Number two, the ding often is, well, but it's a very hard platform for our developers to use and for our operators to leverage. The GenAI tools we have provided with the watson Code Assistant for Z really takes that onus away. It can refactor COBOL into Java. It can help people understand a code that is already running on the platform. It can help you refactor that code if you want to keep it exactly as it is. It can help you take things out. So that headwind of people saying this is a hard platform to modernize has gone away.
+
+That then comes to your AI capabilities. You're right. I'm incredibly excited by our ability to do AI right in line. If you can do it right in line with the transactions, that's a milliseconds delay as opposed to multiple seconds if you take it off platform, which is how people have been doing it so far. That capability, while we introduced it in the beginning of 2025, really came to market only in the fourth quarter of 2025. So I do expect and we look forward to helping our clients install that. And a very large number of our clients actually told us they're interested and they kept space in the machines to put in those cards. We call them the Spyre cards or you can think of it as the GenAI card, which gives you all that capability.
+
+As those cards go in, then the software stack to support that goes in. But we also have to give help to our clients to let the models run on the platform and to get their use cases up and going. I expect that will take some months to happen, but that does provide possible tailwinds against some of the dynamics that both Jim and I have explained.
+
+Operator
+
+And this question comes from Matt Swanson with RBC.
+
+Matthew Swanson
+RBC Capital Markets, Research Division
+
+Great. Arvind, if I can maybe take a more holistic view of part of your answer you just said. So I mean, as you were talking about, there's been a lot more conversations right now about where enterprise GenAI workload should reside, and it really feels like that conversation is the intersection of your dual pillars of AI and hybrid cloud. So when looking at the strength of the refresh cycle, as you mentioned, but also the strength in demand for the Data segment, the Automation segment or conversations in Consulting, what do you think combining all these things says about the current state of enterprise transformation for GenAI maybe today and heading into '26?
+
+Arvind Krishna
+CEO, President & Chairman
+
+Matt, thanks, and thank you for that question because it is one, as you can imagine, that we both think about a lot and then play out the various scenarios. So let's look at GenAI so far. GenAI so far has largely been a consumer topic. People use chatbots. People use it to improve their e-mails. People are using it to improve document writing. Half the videos, if I believe the statistic I read, are now generated with the help of AI. I'm not saying only AI but with the help of AI. All of that tends to be AI that is running on a hyperscaler public cloud somewhere and that people go leverage.
+
+As we look forward now to the enterprise, I am convinced this is an and world. I'm not saying that the hyperscaler public model usage is going to decline, but the enterprise is going to get concerned with how much of -- not the data. I don't think people are going to steal data, though that has happened a few times. But I do think that there is going to be a lot of concern around the nature of what are the models learning from answering these questions, and do we really want to share that with everybody else or not? There is going to be issues around sovereignty on the uses of these models, and there is going to be questions around just basic privacy. Hey, this is not data that we want to take anywhere else.
+
+So I take that into -- I believe if I look out 3 to 5 years, 50% of the enterprise usage of AI is going to be in either a private cloud or it's going to be in their own data centers. And the other 50% is going to be usage of public models.
+
+Now there's also an efficiency question. So if what's being used on-premise is smaller models, then actually it could be that 80% to 90% of all the inferencing is really in a private/on-premise and 10% of the inferencing is on a public, but that 10% could be at 5 to 10x the price and hence, the dollars sort of even out. We see this playing out really importantly over the next 3 to 5 years, and that is why we've been positioning very strongly. We use the word sovereign or sovereignty for how people want to manage their technology. We announced a sovereign core offering last week to help get this done, but we do believe that this is going to play out. The mainframe is an important element, but not the only element in that story. So it's an and. Matt, sorry, a really long answer, but this is what is going to play out over the next 3 to 5 years.
+
+So thank you all for all of these questions. As you can see, we have been excited about our year and the changes we have made to our business over the last few years, and our performance in 2025 reinforce our confidence on the next chapter of our growth. We look forward to continuing this dialogue through the year.
+
+Olympia McNerney
+Global Head of Investor Relations
+
+Thank you, Arvind. Operator, let me turn it back to you to close out the call.
+
+Operator
+
+Thank you for participating on today's call. The conference has now ended. You may disconnect at this time.

@@ -1,0 +1,92 @@
+Tesla, Inc. (TSLA) Q4 2025 Earnings Call January 28, 2026 5:30 PM EST
+
+Company Participants
+
+Elon Musk - Co-Founder, Technoking of Tesla, CEO & Director
+Travis Axelrod - Head of Investor Relations
+Vaibhav Taneja - Chief Financial Officer
+Lars Moravy - Vice President of Vehicle Engineering
+Ashok Elluswamy - Executive Officer
+
+Conference Call Participants
+
+Emmanuel Rosner - Wolfe Research, LLC
+Andrew Percoco - Morgan Stanley, Research Division
+Dan Levy - Barclays Bank PLC, Research Division
+George Gianarikas - Canaccord Genuity Corp., Research Division
+Colin Rusch - Oppenheimer & Co. Inc., Research Division
+
+Presentation
+
+Operator
+
+Good afternoon, everyone, and welcome to Tesla's Fourth Quarter 2025 Q&A Webcast. My name is Travis Axelrod, Head of Investor Relations, and I'm joined today by Elon Musk; Vaibhav Taneja and a number of other executives.
+
+Our Q4 results were announced at about 3:00 p.m. Central Time in the update deck we published at the same link as this webcast.
+
+During this call, we will discuss our business outlook and make forward-looking statements. These comments are based on our predictions and expectations as of today. Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC. [Operator Instructions]
+
+Before we jump into Q&A, Elon has some opening remarks. Elon?
+
+Elon Musk
+Co-Founder, Technoking of Tesla, CEO & Director
+
+Thanks, Travis. So we've updated the Tesla mission to amazing abundance, and this is intended to send a message of optimism about the future. I think we're most likely headed to an exciting, amazing era of abundance. And I think with the advent or with the continued growth of AI and robotics, I think we actually are headed to a future of universal high income, not universal basic income, but universal high income. I mean there's going to be a lot of change along the way, but that is what I see as the most likely outcome. So I think that's -- it makes sense to update Tesla's mission to reflect that goal.
+
+And obviously, along that way, we're going to keep improving safety, driving down the cost of goods and getting people access to anything they need without compromise. And still making sure that the environment is great, nature is great and people can have whatever they want, which seems like probably the best future. I'm open to other ideas, but that sounds like -- it sounds like if you could say what is the best future you could possibly imagine. I guess it would be that everyone can have whatever they want, including amazing medical care, and -- but we still keep the beauty of nature and earth. I think that's probably the best outcome. And we're seeing, obviously, the first steps along that way this year for Tesla, first major steps as we increase vehicle autonomy and begin to produce Optimus robots at scale.
+
+We're making very, very big investments. So this is going to be a very big CapEx year as Vaibhav will get into. That is deliberate because we're making big investments for an epic future. So I think all these investments make a lot of sense. We'll continue to make sure that when we do spend capital, it is spent very efficiently. But it's a lot of things. Major investments in batteries and the entire supply chain of batteries. So we're also going to be significant manufacturers of solar cells, and we're making massive investments in AI chips. So -- but I think these all make a ton of strategic sense.
+
+And then I guess I have like one, I guess, it's not exactly bad news, but it's a -- it's time to basically bring the Model S and X programs to an end with an honorable discharge because we're really moving into a future that is based on autonomy. And so if you're interested in buying a Model S and X, now would be the time to order it because we expect to wind down S and X production next quarter and basically stop production of Model S and X next quarter. We'll obviously continue to support the Model S and X programs for as long as people have the vehicles. But we're going to take the Model S and X production space in our Fremont factory and convert that into an Optimus factory, which will -- with the long-term goal of having 1 million units a year of Optimus robots in the current S and X space in Fremont. So that is slightly sad, but it is time to bring the S, X program to an end and shift really -- it's part of our overall shift to an autonomous future. As my profile picture on X said for a few months there, the future is autonomous.
+
+And -- so let's say, with respect to full self-driving and Robotaxi, people are obviously following with very close attention, the progress of FSD and you can experience it for yourself. If you've got a Tesla, you can -- you notice with -- really with every software update, the car gets better and better at autonomy. And we're able to do our first rides with no safety monitor in the car in Austin. These are paid rides. So these are just sort of randomly selected paid rides with no safety monitor. And I think maybe -- as of maybe yesterday or so, we actually don't -- we don't even have a chase car or anything like that. So these are just cars with no people in them and no one is following the car in Austin. So we obviously are being very cautious about this because we want to have no injuries or serious accidents along the way. So I think it makes sense to be very cautious, but you'll see the amount of autonomy increased dramatically, I think, every month essentially.
+
+So -- and then there will also be an opportunity, something we've talked about for a long time for existing owners of Teslas to add or subtract their cars to the fleet, kind of like how Airbnb works where you can add or subtract your house to the Airbnb inventory. And I think probably the value of the Tesla -- the sort of partial -- a few people adding or subtracting the cars to Tesla autonomous fleet is probably a little underweighted by a lot of people because we've got millions of cars with AI4 that can do this. So that -- it might potentially -- I think it will provide an opportunity for a lot of customers to earn more by lending their car to the fleet than their lease cost to Tesla, yes, which is kind of -- it's kind of like you get -- in that scenario, you basically get paid to own a Tesla. It's quite a good scenario.
+
+And we expect to have fully autonomous vehicles in probably, I don't know, somewhere between a 1/4 and 1/2 of the United States by the end of the year, pending regulatory approval. A big factor would be if there's some kind of federal preemption for autonomous vehicles. In the absence of that, you kind of have to go on a city-by-city or state-by-state basis. But nonetheless, even if it is city by city, state by state, we expect to be in, I don't know, thousands of cities, dozens of major cities by the end of the year.
+
+With respect to energy, the Tesla Energy team has done incredible work and the growth rate on that is continuing to be very strong. And we're building more manufacturing capacity and expect that energy will have very high growth for really as far into the future as we can imagine.
+
+The solar opportunity is underestimated. We think the best way to add significant capability to the grid is -- or not only to the grid, let's say, powering AI data centers is solar and batteries on earth and solar in space. So that's why we're going to work towards getting 100 gigawatts a year of solar cell production integrating across the entire supply chain from raw materials all the way to already finished solar panels.
+
+Maybe a bit more about Optimus. We'll probably unveil Optimus 3 in a few months. And I think it's going to be quite surprising to people. It's an incredibly capable robot. And as I mentioned, we are replacing the S, X line in Fremont with a 1 million unit per year line of Optimus. Now because it is a completely new supply chain, it's just -- it's -- there's really nothing from the existing supply chain that exists in Optimus. Everything is designed from physics first principles. So that means the normal S-curve of manufacturing ramp will be longer for Optimus than it is for products that have at least some portion of an existing supply chain. Like when everything is new, the production rate will be proportionate to the least lucky, least confident part of the entire supply chain. And if there's 10,000 things that need to go right, it's -- it only takes one to be slow to lag that. But -- so it will be sort of a stretched out S-curve. But I'm confident that we'll get to 1 million units a year of -- in Fremont of Optimus 3.
+
+And this Optimus 3 really will be a general-purpose robot that can learn by observing human behavior, so you can like demonstrate a task or literally verbally describe a task or show it a task, even show it a video and it will be able to do that task. So it's going to be a very capable robot. I think, long-term, Optimus will have a very significant impact on the U.S. GDP, like it will actually move needle on U.S. GDP significantly.
+
+So in conclusion, there's still obviously many who doubt our ambitions for creating amazing abundance, but we're confident it can be done and that we're making the right moves technologically to ensure that it does. And Tesla is obviously not -- never been a company to shy away from solving some of the hardest problems. It's -- I think that's kind of how you build value in the company is you solve hard problems. So I don't know how you create value by solving easy problems. So there's a lot of hard problems that the Tesla team is going to solve, but it's an incredibly talented, hard-working team. And I'd like to thank actually everyone at Tesla for their incredible hard work, and it's an honor to work with such a talented group. So thank you to everyone who is supporting this mission. The future is more exciting than you can imagine.
+
+Travis Axelrod
+Head of Investor Relations
+
+Fantastic. Thank you so much, Elon. And next, we have some remarks from Vaibhav. Go ahead.
+
+Vaibhav Taneja
+Chief Financial Officer
+
+Thanks, Travis. So Q4 '25 was an interesting quarter in a couple of respects. On the autos front, while in Q3, we saw a surge in U.S. demand before the IRA consumer credit cliff pulling in some demand from Q4. In other parts of the world, we saw increase in demand leading to record deliveries in smaller countries like Malaysia, Norway, Poland, Saudi Arabia and Taiwan, while continued strength in the rest of APAC and EMEA. We, therefore, ended 2025 with a bigger backlog than in recent years. Note that none of these countries have the latest version of FSD supervised available yet.
+
+On the storage front, we hit yet another record in terms of deployments. I would like to thank our customers and Tesla in continuing this momentum.
+
+On the automotive margins front, automotive margins, excluding credits, improved sequentially from 15.4% to 17.9%. The automotive gross profit was flat sequentially despite 16% lower deliveries, primarily due to regional mix as we had proportionately more deliveries in APAC and EMEA. As we look to 2026, with the progress that has been made with autonomy, our focus is on ramping production at all our factories. Our biggest constraint globally continues to be on the battery pack front. While our teams have been creative in trying to resolve the situation by now putting 4680 cells in nonstructural packs, we continue to iterate improving things from here on. FSD adoption continued to improve in the quarter, reaching nearly 1.1 million paid customers globally. Of these, nearly 70% were upfront purchases. It is important to note that beginning this quarter, we are transitioning fully to a subscription-based model for FSD. Therefore, net additions to this figure will primarily be via subscription model and in the short term will impact automotive margins.
+
+On the energy front, we achieved yet another record in terms of gross profit for the quarter and ended the year with nearly $12.8 billion in revenue at 26.6% year-over-year growth. This was the result of higher deployments in all regions and continued strength in demand for both Megapack and Powerwall. As we look at 2026, our backlog remains strong, well diversified globally, and we expect increasing deployments with the launch of Megapack 3 and Megablock. However, we expect margin compression from the increased low-cost competition, impacts to market from policy uncertainty and the cost of tariffs.
+
+Services and others margin declined from 10.5% to 8.8%, primarily from higher employee related costs for service centers as we start preparing for the ramp in activity from the growth in the fleet size. We did see a momentum in margin -- we did see an improvement in margin from our supercharging business, which is included within services and other. Additionally, note that our Robotaxi business-related costs, while not material, are also included within this. Given that this -- we're still in the early phase of our fleet deployment and are still doing a lot of validation testing, the revenue and cost per mile metrics are not meaningful to discuss at the moment.
+
+Then on total gross margin front, we ended the quarter with over 20.1%, something which we haven't achieved over the last 2 years. This improvement came despite the impact of lower fixed cost absorption and the impact of tariffs, which were in excess of $500 million in Q4.
+
+Operating expenses increased sequentially, primarily from increased stock-based compensation for employees, and as we started recording charges on -- for one operation milestone under our 2025 CEO Performance Award that was deemed to be probable over the long term. Additionally, our spend on AI-related initiatives and new products like Cybercab, Semi, Optimus and Megapack, et cetera, continues to be at elevated levels and we expect this trend to continue for the full year 2026.
+
+Net income was negatively impacted from mark-to-market charges on a Bitcoin holding, which depreciated 23% as compared to the last quarter and the impact of unfavorable impact of FX, primarily from our large intercompany borrowings.
+
+On the free cash flow front, we ended up at $1.4 billion. We did end up CapEx being slightly below our previous guidance of $9 billion. But like as Elon already mentioned, this year is going to be a huge investment year from a CapEx perspective. And at the moment, we are expecting that CapEx would be in excess of $20 billion. We'll be paying for 6 factories namely the refinery, LFP factories, Cybercab, Semi, a new Megafactory, the Optimus factory. On top of it, we'll also be spending money for building our AI compute infrastructure, and we'll continue investing in our existing factories to build more capacity. And then also the related infrastructure, along with it. And we'll also further expand our fleet of Robotaxi and Optimus. While this may seem a lot, we believe this is the right strategy to position the company for the next era, and we'll make such investments, as Elon mentioned, in a very capital-efficient manner.
+
+Note that this does not include potential investments in solar cell manufacturing or our Terafab as we are still in early phase, and we plan to provide an update in future quarters.
+
+We're starting not the next chapter, but a new book on the progression of this company. 2026 year would be when all of this began. While at times it feels daunting, it is going to be the most exciting change in Tesla's history. And we could not have even dreamed of embarking on this journey without the support of our customers and our investors. Thanks for again showing the confidence in us, and let's get ready for a future of amazing abundance. Thanks.
+
+Travis Axelrod
+Head of Investor Relations
+
+Great. Thank you very much, Vaibhav. Now we're going to head over to investor questions.
+

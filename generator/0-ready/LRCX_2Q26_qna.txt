@@ -1,0 +1,462 @@
+Question-and-Answer Session
+
+Operator
+
+We will now begin the question-and-answer session. [Operator Instructions] Our first question comes from Tim Arcuri with UBS.
+
+Timothy Arcuri
+UBS Investment Bank, Research Division
+
+Doug, I had a question about WFE this year. So you said we're going to be constrained because of this fab readiness. Is it possible to say how much? I know you're guiding WFE to 135 this year. I mean if we use semiconductor revenue and you assume sort of a normal WFE intensity number, it seems like you can get to like 150. So maybe the constraints are costing the industry like $15 billion.
+
+Is it possible to give a number in terms of how much the constraints are kind of costing in terms of WFE this year so we can kind of pro forma that out?
+
+Douglas Bettinger
+Executive VP & CFO
+
+Yes, Tim, I knew somebody was going to ask that question. I should have anticipated it was going to be you. Listen, it's hard for us to put a number on it, and I'm going to decline to do that as we sit here right now. And the reason, Tim, is plans are somewhat fluid, if we're honest, meaning people are trying to figure out how to get a little more clean room space, how to bring facilities online and bump things up a little bit. So I'm not -- we're not going to put a number on it.
+
+But I think it's safe to say, and Tim can comment on this as well, I think it sets up for '27 to also be a pretty good year as we think through this. I mean the industry seems to be sold out for most of what it's supplying. Everybody is talking about these multiyear agreements that they're working on. And I think that's largely a reflection of the fact that demand is very strong, and there's just not enough clean room out there.
+
+Timothy Archer
+President, CEO & Director
+
+Yes, I don't have much to add, Tim, other than to say that clearly, you've seen a large number of fab announcements. I mean those fab announcements are capacity in '27, '28 and beyond. And so I think there's a view that the constraints this year are going to continue even out until many of those new fabs open up.
+
+And so I think we've given you a view of what we think WFE is. As Doug said, we're working on productivity improvements to get a little extra output for customers. That's how we support them. But fundamentally, it's a pretty big challenge.
+
+Timothy Arcuri
+UBS Investment Bank, Research Division
+
+Doug, and then you're guiding gross margin down a bit on revenue, it sounds like it's predominantly related to China. So China was 35% in December. Is it going to come down? Like is that the reason why the gross margin is coming down? And if so, like what mix do you think China will be for March?
+
+Douglas Bettinger
+Executive VP & CFO
+
+Yes. I'm not going to give you a hard number, Tim. But yes, it's customer mix, it's going to be less rich in the March quarter. And I'll also remind everybody that this isn't a fixed cost business for us. So as volume goes up and down, the component that just benefits from revenue growing isn't that big. The mix component of both products as well as customer is an important item. So you're latched on to the right thing, Tim.
+
+Operator
+
+The next question comes from C.J. Muse with Cantor Fitzgerald.
+
+Christopher Muse
+Cantor Fitzgerald & Co., Research Division
+
+I guess to follow up on that last question, Doug, could you speak a bit about the work you're doing with the supply chain, bringing on manufacturing, ramping Malaysia and how we should think about that in the context of gross margins as revenues ramp in the second half of calendar '26 and beyond?
+
+Douglas Bettinger
+Executive VP & CFO
+
+Yes, C.J., I mean, we've been talking for a while, I think, about CapEx growing as a result of expanding manufacturing capability. Tim specifically talked about it doubling over the last 4, 5 years. So it's been an item that we've been clearly very focused on.
+
+We're ramping globally. And you're right, that Malaysia location is our biggest location as we sit here today, and we're trying to get more out of that in addition to everywhere that we are. But the mix component, C.J., is going to be more important than anything, at least in the near term, less than just volume ramping.
+
+Christopher Muse
+Cantor Fitzgerald & Co., Research Division
+
+Great. And then maybe a follow-up question on CSBG. I would think your customers are trying to get every bit that they can out. And so the uplift that you saw in the December quarter, and I assume continued strength in March, is that something that will sustain throughout the whole calendar year and should drive better than kind of that 12% growth CAGR? Or does that take a pause at some point as the transition focuses on greenfield investments?
+
+Timothy Archer
+President, CEO & Director
+
+Yes, C.J., I'll let Doug speak to the specific numbers. But I think that what you should keep in mind is the CSBG, a lot of our growth, of course, is driven by customers' near-term actions and what we need to do to help them get maximum amount of output from the tools they have.
+
+But a lot of the growth really is we're transforming our service business to be much more oriented towards the use of equipment intelligence for predictive maintenance as a way of getting more output from tools and also implementation of Dextro cobots for our automated maintenance.
+
+And both of those things not only will drive top line growth, but also margin and profitability improvement, just given the efficiency with which we deliver those services. And so I think there's a number of moving pieces that are all positive for CSBG.
+
+Douglas Bettinger
+Executive VP & CFO
+
+Yes. And I would just add, C.J., we were pleased to see the chamber count number up. Obviously, we knew that was coming, and we're happy to share it with you. So that's an aspect of what we'll continue to take advantage of, going forward.
+
+It's very consistent, though, with what we articulated at that Investor Day back, I guess, almost a year ago. And so I would still want you thinking about CSBG growing the same way we described it back then, which is kind of high single digit, maybe low double digit. We had a very strong December quarter. It was primarily a result of Reliant Systems. That piece might be a little bit lumpy. It always is. But again, CSBG is just going to keep chugging along.
+
+Operator
+
+The next question comes from Atif Malik with Citi.
+
+Atif Malik
+Citigroup Inc., Research Division
+
+The first one for Tim. Tim, on the DRAM market, when do you see the volume adoption of 4F [ Square ] from 6F [ Square ]? And can you talk about your SAM market share when you move to 4d [ Square ]? I know you called out Akara in your prepared remarks.
+
+Timothy Archer
+President, CEO & Director
+
+Yes. So I think 4F [ Square ], I mean, obviously, there's still some question as to exact timing. And customers have talked about it being something towards the end of the decade, probably full volume production. But clearly, we're engaged today with customers looking at the technical needs.
+
+And we called out Akara. Akara is very well suited to the types of high aspect ratio, very small features that exist in 4F [ Square ] as well as other devices we talked about, whether it's future gate-all-around or even as foundry/logic moves to CFET. And so Akara is a -- it's a sort of a foundational tool for us in terms of capabilities that are going to be important for all of these transitions.
+
+But you really should think about those kinds of technology transitions occurring after -- probably after this next big wave of fab openings. But again, back to the constraint question, in some ways, if this turns out to be, as we believe, a multiyear build-out of fabs, the fabs that come towards the end of that will be the fabs that benefit from the SAM expansion and share gain that we're going to see coming from these new products that we've talked about.
+
+So anyway, I think 4F [ Square ] is probably on the back end of that, but there's a lot in between that will also drive our business.
+
+Atif Malik
+Citigroup Inc., Research Division
+
+Great. And then, Doug, on the NAND market, I know the Memory dynamics were in line with your expectations in the December quarter, but NAND was down sequentially in DRAM up. Do you see the NAND makers slowing down technology migrations as they focus more on in terms of like minting money, given how the supply shortages are materializing? And when do you see NAND new capacity additions coming on?
+
+Douglas Bettinger
+Executive VP & CFO
+
+Yes, Atif, no, listen, NAND played out exactly as we saw as the year began in 2025. And as we sit here looking in 2026, it will be a growth year for NAND. There's no question about that in our minds.
+
+I think what I observed the Memory customers doing, at least to the extent that they have both NAND and DRAM right now anyway is prioritizing DRAM over NAND a little bit because profitability there is somewhat better. I think you all understand that and know that.
+
+But that doesn't mean that people aren't focused on NAND. In fact, one of our largest customers announced a new fab that's going to be dedicated, pretty well not dedicated, but heavily emphasizing NAND capacity. And so that's on the come line. We see that happening as we get into '26 growth that is happening.
+
+We're still sticking by, we think, upgrades happen before real capacity additions. But you're going to see a combination of both. And that $40 billion that we've been talking about likely happens quicker than what we originally expected a year ago. So anyway, we feel quite good about where NAND is trending.
+
+Operator
+
+The next question comes from Vivek Arya with Bank of America Securities.
+
+Vivek Arya
+BofA Securities, Research Division
+
+So you're guiding WFE up 23%. I think last year, you said you gained a point of share. Do you expect to maintain or gain share this year, Tim? What are kind of the puts and takes around the different markets? And then specifically, what are you assuming for China contribution overall for WFE? And what that means for Lam in calendar '26?
+
+Timothy Archer
+President, CEO & Director
+
+Let me take the first part of it. I mean I think what's important to remember from the longer-term plan we laid out at last year's Investor Day and things I said on the call today, we expect to gain share and expand our SAM at every successive technology node. And so to your point, do we plan to sustain or increase share? The answer is we plan to increase our share of WFE again this year.
+
+And what needs to take place is technology transitions need to keep occurring. And what we're seeing in the environment today is those are accelerating. That's a way for customers to get more output and more output of the types of devices that are strongly demanded by the AI environment.
+
+At the same time, those technology transitions are driving higher deposition and etch intensity, which is pretty much our entire business. And so from that perspective, that's a real positive for us.
+
+And then we've talked about the success of our new products. I mean we have refreshed our conductor etch product line. We've previously refreshed our dielectric etch line. We've launched moly, dry resist is gaining traction. We're strong in advanced packaging. Backside power is still to come, and it's going to be a driver for us. And so I think we have confidence that whatever the WFE is, if it's technology-driven as it looks like it will be, we will continue to expand SAM gain share of WFE.
+
+Now as far as China goes, I think that we are looking at China being more kind of flattish year-on-year. And therefore, as the rest of the technology-driven part of the business grows, becoming a smaller percentage of our overall revenue.
+
+Vivek Arya
+BofA Securities, Research Division
+
+Got it. And for my follow-up, I think in the past, you have given this $40 billion or so addressable opportunity to upgrade the installed base to higher layer counts. I'm curious, where are we now at -- versus that $40 billion number? How much more to go? And given this emerging role of NAND or this enhanced role of NAND, I should say, in AI inference, is there a new number versus that $40 billion number that you had before?
+
+Timothy Archer
+President, CEO & Director
+
+I think we might wait until a little later in the year to refresh that number. But we've said a few times now, the specific wording we used at Investor Day was $40 billion over several years. We've now, I think, on almost every earnings call, said that seems to be happening faster than expected. And today, I reiterated that, which was NAND is moving faster than we expected on the upgrade path. And I think we'll come out and look.
+
+As Doug just mentioned, we're starting to see more interest in investing in NAND capacity, but it trades off. I mean when you have clean room space, everybody has to make a decision as to where to use that today. But I think that as we move forward and we see the growth from AI inference and other use cases, NAND is going to take its place in the AI data infrastructure and memory infrastructure, and I think you'll see growth there.
+
+So we're just executing to the customer demand today faster than we had previously expected and anticipate more to come.
+
+Operator
+
+The next question comes from Srinivas Pajjuri with RBC Capital.
+
+Srinivas Pajjuri
+RBC Capital Markets, Research Division
+
+Tim, I want to go back to the previous question. The 1 point of WFE share that you gained, maybe if you could help us understand if it is coming primarily in foundry and logic or if you're seeing that across the board? Because foundry and logic is where you, I think, made the most progress in the last couple of years.
+
+And then Doug said you expect year-on-year growth to be meaningful this year. Just given your WFE expectation for 22% growth, should -- I guess, should we model 22% plus growth on the top line for the year?
+
+Timothy Archer
+President, CEO & Director
+
+Yes. So let me take the first one. The share gains came from a combination of both NAND and foundry/logic. And again, it's -- you might think already, we have very high share in NAND, but as technology transition occurs and layer count increases, we have an opportunity still to gain share of some of the new applications required to enable those higher layer counts. And so we gained share in NAND.
+
+But a lot of our focus we talked about over the last number of years has been to launch products that allow us to gain share at the gate-all-around nodes, more advanced foundry/logic and the transitions that are coming there. And also in advanced DRAM, we saw this year some of those foundry/logic share gains coming through in the numbers that you can see. So I'd say those primarily NAND and foundry/logic this year.
+
+And then -- sorry, the second question, can you just repeat the second question?
+
+Ram Ganesh
+Vice President of Investor Relations
+
+What was the second question?
+
+Srinivas Pajjuri
+RBC Capital Markets, Research Division
+
+Yes. I guess my second question was about your expectation for the current year. I know you said it's going to be second half weighted...
+
+Timothy Archer
+President, CEO & Director
+
+Yes. No, no. We -- your comment was basically, will we outperform the WFE that we just talked about? I guess that's the message we're trying to deliver is we're going to expand SAM, gain share, and we're going to outperform WFE this year, is our current view.
+
+Srinivas Pajjuri
+RBC Capital Markets, Research Division
+
+Okay. Got it. And then one quickly on the op margin. Doug, I think at the Analyst Day, you gave us the guidance for 34% to 35% at roughly $25 billion to $27 billion. And you're already there. I think you're around $23 billion run rate, if I look at your March guidance.
+
+So I guess my question is, as we go through the next few quarters, how should we think about the op margin fall through? I know you're guiding OpEx a little bit of growth here, but I just want to understand how we should model OpEx going forward.
+
+Douglas Bettinger
+Executive VP & CFO
+
+Yes, Srini, thanks for the question. Yes. No, we're pretty pleased with how we performed. Clearly, we're ahead of the model, right? I mean that model had 28 kind of model. And we're run rating at least on a percentage basis, what the model suggests we're going to be able to do.
+
+Ram and I and Tim were debating a little bit. We probably later in the year, need to come out and give you an update on that model, and I think we'll do that. Lots have changed in the last year or so. So stay tuned for that.
+
+I think, as we think about this year, frankly, this is a management team that prides itself on being able to deliver leverage through to the bottom line. We really did a great job with it last year, which is why I went through all the kind of demonstration of what we did last year. We will be focused on delivering leverage as we go through this year as well. And like I said, we'll give you an update to that longer-term model probably later in the year.
+
+Operator
+
+The next question comes from Jim Schneider with Goldman Sachs.
+
+James Schneider
+Goldman Sachs Group, Inc., Research Division
+
+Relative to your prior comments on NAND, I understand there's a little bit more prioritization toward DRAM right now. But when do you expect that your customers are going to sort of pivot from NAND upgrades to more greenfield NAND capacity additions?
+
+We saw some announcements from at least one of your customers recently on that. So I'm curious about when you expect to sort of see that upgrade business turn into greenfield business. Could that be by -- before the end of 2026? Or is it more of a 2027 event or maybe even later?
+
+Timothy Archer
+President, CEO & Director
+
+Yes, it's a great question. I think that what we're -- the way we view it right now is that because of the clean room space constraints, it's probably, again, part of that multiyear build-out '27, '28. When clean room space is sufficiently available such that they can invest in additional NAND capacity in a big way. So that's probably our view right now.
+
+In the meantime, we talked about the acceleration of the technology transitions. You do get bit growth, you get more capacity of the higher-performing bits that are in strong demand in AI. And so I think that those are the decisions that people are making today, is move ahead as quickly as possible with many of the key technology transitions.
+
+And so we're busy doing upgrades, and that's where our focus is right now. But greenfield will come eventually, and you've seen some of those initial announcements, I think that's encouraging for all of us.
+
+James Schneider
+Goldman Sachs Group, Inc., Research Division
+
+That's very clear. And then maybe just as a follow-on, I think we all can see the trends by foundry, DRAM and NAND that are in play right now in terms of level of growth rate. But as we head into 2027 or the end of 2026, do you see the potential rank order of those growth rates sort of changing amongst those categories?
+
+Douglas Bettinger
+Executive VP & CFO
+
+Man, Jim, that's a great question going into '27. We just, for the first time, give you a '26 number. You're asking '27. Listen, in '26, we're very confident everything is growing. It's unequivocal. And we're also very clear when we -- look, everything is constrained, frankly, right? You're hearing it from every one of our customers when we talk about things, and they're talking about these multiyear agreements to kind of deliver the visibility into next year.
+
+Foundry and logic has grown a lot this year. DRAM has grown a lot this year. NAND is growing a little bit less, but still growing pretty well this year. At the end of the day, though, when you look at these system architectures, all this stuff needs to fit together. And you saw one of the big accelerator guys talking about this at CES, like, "Hey, we need this NAND stuff showing up." That's happening, clearly.
+
+So into '27, I think we're going to see another year where everything is growing. I'm not ready to rank order it quite yet, Jim, though.
+
+Timothy Archer
+President, CEO & Director
+
+I think as we move through this year, though, we already, I would say, have better visibility into the following year than I think I can ever remember. And that's simply because customers know that they're building these fabs. They're announcing them. They're signaling to their customers, they're going to have that capacity available.
+
+And so clearly, we're having discussions at this point on what tools are going to be needed, what technology nodes are going to be running in those fabs. And they want to make sure that they can secure the capacity such that, that fab can be started up and producing as quickly as possible.
+
+And so those discussions on those fabs are clearly out into 2027. But I think in terms of exactly how those decisions get made through this year and once you have clean room space, in some cases, can -- as we just talked about, they can trade off sometimes a little bit of clean room space to be used for DRAM or for NAND or for what we're seeing in a few cases is for advanced packaging. I talked about the tremendous growth in advanced packaging and the importance that it's -- the role that it's playing. And so we've been seeing that.
+
+So I guess we'd have to see the year continuing to evolve and how the markets kind of where the demand is the shortest. But we would anticipate, as we said, robust investment across all device segments. And I think that continues on into 2027 across all 3 segments.
+
+Operator
+
+The next question comes from Krish Sankar with Cowen and Company.
+
+Sreekrishnan Sankarnarayanan
+TD Cowen, Research Division
+
+Congrats on the good results and guide. Doug, my first question is, I understand that you spoke about the global manufacturing footprint. It's doubled over the last 4 years. Just wondering, as your customers ramp up more onshore manufacturing, would it lead to you increasing shipments from your U.S. facilities in California and Oregon rather than Malaysia for some of your products? If so, what would be the margin implications?
+
+Douglas Bettinger
+Executive VP & CFO
+
+Yes, Krish, listen, we have a global manufacturing footprint, right? We've got factories in Oregon, California, Ohio, Malaysia, Taiwan, Korea, Austria. I think I didn't miss anything there. We have some level of flexibility, given enough time to move things around if we really need to do that. And as customers tell us what they need and where they need it, we may adjust things. Right now, I think we feel pretty good about how we've got things set up.
+
+Sreekrishnan Sankarnarayanan
+TD Cowen, Research Division
+
+Got it. Got it. And then, Tim, I just had a follow-up for you, like a technical question. Last year, you had really good traction in ALD moly. Are customers moving away from single-wafer ALD to batch ALD for moly? And if so, how would that impact Lam?
+
+Timothy Archer
+President, CEO & Director
+
+No. I mean, well, at this point, if we look -- we had said previously that in kind of the order of adoption, NAND would be first to adopt moly, and we're seeing that, followed by foundry/logic and then ultimately by DRAM.
+
+What we can say right now is that the customers that have committed to production of using moly in NAND, have gone with Lam tools. We have a very strong position there. And I think the value of that, as we've talked in the past, is it means that throughout these first production ramps of ALD moly, we are building an installed base, we're maturing the tool. We're getting process learning.
+
+Competitors aren't going to give up. This is an incredibly important market and a big inflection that we've talked about. But we feel really good about our single -- we call it single-wafer moly, but if you look at the tool itself, it has multiple stations inside of one chamber in order to give ourselves high productivity. So that's a production tool, of course, today for the industry, and we intend to continue to keep it that way.
+
+Speaker 0
+
+The next question comes from Harlan Sur with JPMorgan.
+
+Harlan Sur
+JPMorgan Chase & Co, Research Division
+
+Great job on the quarterly execution. Just as many of your customers have been surprised by the sudden rise in compute and storage demand and therefore, requirements for more GPUs, XPUs, CPUs and the associated memory and storage; they obviously got caught somewhat flat-footed in terms of sort of near to midterm capacity to support that demand curve, right, as you guys outlined.
+
+Is the stronger velocity of demand having a similar impact to your manufacturing capability and ability to procure the necessary components and subsystems? And any bottlenecks that you have in your supply chain?
+
+Timothy Archer
+President, CEO & Director
+
+Well, it isn't without a lot of hard work. But one good news is we did a lot of backfinding post the COVID pandemic and the supply shortages that occurred in our own systems at that time. And we made a lot of improvements.
+
+And Doug just talked about the global nature of our manufacturing facilities spanning from the U.S. and Europe and all through Asia. And we looked at the same thing with respect to our supply chain. And I would say today, compared to when we had those shortages, we have built a much stronger, broader, deeper supply chain.
+
+And so I don't want to sell short the hard work of our supply chain guys today to meet all these expedited pull-in requests from customers. It's very hard work. But today, I would say we're not the big constraint for any of the devices compared to clean room space being a constraint to the industry.
+
+And so as the industry continues to go, we need to keep working to, again, expand our capacity, as I said, make our own operations faster. That's why we've done things like automating our warehouses to make the rate at which we can feed those parts from the time they're received from the supplier into the manufacturing that much quicker and more efficient. And so we're just continually working on what I refer to as our operational velocity and -- so that we're not the constraint.
+
+Harlan Sur
+JPMorgan Chase & Co, Research Division
+
+I appreciate that. Then for my second question, one of the significant, obviously, incremental drivers of your business among many has been advanced packaging and HBM. You guys did about $1 billion plus in advanced packaging revenues. I think it was in calendar '24. You're anticipating strong 40% plus growth this year. But can you guys quantify how much advanced packaging grew for the team in calendar '25? And then, of that 40% growth this year, is that being more driven by 2.5D, 3.5D advanced packaging or HBM?
+
+Douglas Bettinger
+Executive VP & CFO
+
+Yes, Harlan, we didn't quantify 2025 in packaging, except to tell you, it grew nicely, and I think we're going to kind of leave it at that. Tim gave you the 40% this year. So we're super excited about what's going on there. And I'll let Tim talk about the technologies.
+
+Timothy Archer
+President, CEO & Director
+
+Yes. It's -- we've lumped it together. I mean it is strength in HBM. Clearly, there's strong demand there. But also I talked about more complex packaging schemes across advanced foundry/logic, and that's an important driver for us as well.
+
+The great thing about our advanced packaging capabilities is they're used in the advanced packaging of all device types. And so it's things like copper plating, it's things like etch, dielectric gap fills. And so they're really fundamental technologies to the success. So we see that as a really important business, and we've talked about the fact that we continue to invest in new technologies in that space.
+
+Operator
+
+The next question comes from Stacy Rasgon with Bernstein Research.
+
+Stacy Rasgon
+Bernstein Institutional Services LLC, Research Division
+
+For my first one, Doug, you clearly said it's a second half loaded year, which is fine. What does that imply for the first half of the calendar year? Like is March quarter the trough? Do you think things are kind of flattish at the March level until we get that second half inflection? Just how are you thinking about the shape of the year?
+
+Douglas Bettinger
+Executive VP & CFO
+
+Yes. Stacy, it's a great question. Frankly, as I sit here right now, I think we're going to see growth every quarter from the previous quarter. I'm not going to give you a precise number. We feel good about that March quarter. I think June probably grows from that, September from that, and it ends up being a second half weighted year, both from a WFE standpoint and from our revenue.
+
+Stacy Rasgon
+Bernstein Institutional Services LLC, Research Division
+
+I guess to get there, would you need an inflection in that growth rate in the second half? I guess some of this compares, which makes it easier. But just are you thinking there's an inflection? Do you think the growth is steady or...
+
+Douglas Bettinger
+Executive VP & CFO
+
+I think it's reasonably steady. I mean part of this is going to be modulated by, okay, how much space is available at each customer. And I think that they're trying to figure out still and so are we, which is why I'm not giving you more specificity. It will be second half weighted. But like I said, I think you'll see growth quarter-by-quarter as we go through '26.
+
+Timothy Archer
+President, CEO & Director
+
+Stacy, I guess the only thing I would add is -- I was just going to add that my comment about basically every customer is asking for pull-ins. And so there is some element of whether or not we can accelerate some small portion into the first half of the year. We would still see growth in the second because obviously, that probably means things start pulling in from the first half of next year as well.
+
+But we're in an accelerating environment of both demand and also timing requests. And so I think that back to the question that was asked about constraints, I think we need to see through the year how those play out as to kind of how much we can do.
+
+Stacy Rasgon
+Bernstein Institutional Services LLC, Research Division
+
+Got it. That's helpful. And for my second question, I just wanted to ask about China. So Doug, I think you said you expected China to be flattish year-over-year. Was that a market statement or was that a Lam revenue statement?
+
+And the percentage should go down, I guess it was -- I don't know it was 36% or something in calendar '25. You had talked previously about like a 30% threshold. Do you think it gets to that 30%? Or do you think it's just down, but doesn't quite get there?
+
+Douglas Bettinger
+Executive VP & CFO
+
+Yes, Stacy, the comment, in fact, made it was we think WFE in China is flattish '25 to '26 and everything else is going to grow. So as a percent of the total, it's going to be down. We didn't give a precise number, whether it's in the low 30s or high 20s, that's plus or minus probably where it is. And part of it will be modulated by how much growth comes from outside of China. It's a numerator-denominator thing as well, obviously.
+
+Operator
+
+The next question comes from Blayne Curtis with Jefferies.
+
+Blayne Curtis
+Jefferies LLC, Research Division
+
+A couple of questions. Maybe just, Doug, I wanted to just understand the strength in Reliant with China down, is that multinational? I just was curious where you're seeing that demand? I know you said it was lumpy. I just was curious why it was up so much.
+
+Douglas Bettinger
+Executive VP & CFO
+
+It was multinational and it was China. It was a little bit of both of them, Blayne.
+
+Blayne Curtis
+Jefferies LLC, Research Division
+
+Got you. And then just on the NAND front, obviously, the demand is very strong. You talked about the upgrades happening earlier. Does that been the camp of also second half weighted? I mean it's not waiting on clean room space. I'm just kind of curious the shape of NAND for the year.
+
+Douglas Bettinger
+Executive VP & CFO
+
+Yes, it probably is a little bit second half weighted, Blayne.
+
+Operator
+
+The next question comes from Melissa Weathers with Deutsche Bank.
+
+Melissa Weathers
+Deutsche Bank AG, Research Division
+
+I wanted to go back to the NAND side and touch on something that Tim mentioned in his prepared remarks on the expanding applications for NAND in the data center. And Doug, you kind of alluded to some of the CES announcements as well.
+
+So is the right interpretation that those applications in the data center have expanded versus what you guys had been thinking? Because you guys have been talking about NAND in the data center for several quarters now. So is that the right way to think about it? And then what could this mean for like your moly ALD, your 300-layer type devices and expanding share you could get there?
+
+Timothy Archer
+President, CEO & Director
+
+Yes, sure. I think we characterized it as a new use case. So I don't think we saw this particular use case coming, which is related to the AI inference and kind of the expansion of [ KD Cache ] and such. I think our previous estimates have been more kind of on more traditional storage for using enterprise SSDs. And so yes, this is an expansion and kind of presents a bit longer-term growth opportunity for NAND. And so therefore, it would be beyond the kind of projections that we would have given back at Investor Day a year ago for the outlook for NAND long term.
+
+Melissa Weathers
+Deutsche Bank AG, Research Division
+
+Great. And then a quick question on the inventory side of things. Doug, I just wanted to check in and see how you're thinking about parts availability and your ability to scale production in line with demand. Can you help us with the framework to think about how you're thinking about inventories on a days or dollars basis?
+
+Douglas Bettinger
+Executive VP & CFO
+
+Yes. Melissa, it's a great question. Listen, if we're right about how things play out here, it's very likely that we're going to need to build some inventory in total dollar terms as we go through the year, right? When business grows, you got to have stuff ready for that growing business. So I think that's clearly going to happen.
+
+We will remain focused on asset utilization and efficiencies and hopefully be able to drive turns up a little bit from here. But we definitely are going to need to build some inventory in advance of a growing top line. So we'll be working on all of that, Melissa.
+
+Operator
+
+The next question comes from Joe Quatrochi with Wells Fargo.
+
+Joseph Quatrochi
+Wells Fargo Securities, LLC, Research Division
+
+Maybe just a follow-up on that. Is there any area of your supply chain where you're pushing suppliers maybe that could be a potential area of shortage? Or do you feel like there's available capacity to continue to kind of support the growth you're talking about?
+
+Timothy Archer
+President, CEO & Director
+
+Well, I think that we don't have any line of sight to significant problems at this point. I made the comment a couple of times, it's clearly a lot of work, given the accelerated nature of the demand and the high levels of demand and customer requests for pull-ins well within our normal lead times. But at this point, we're working across our global supply chain to ensure that we can meet the demand.
+
+Joseph Quatrochi
+Wells Fargo Securities, LLC, Research Division
+
+And maybe as a follow-up, China now expected to be flattish. Is that a reflection of just the affiliate rule impacts reentering kind of WFE across the company base or in terms of just your peers? Or is there like a change in the underlying demand that you're seeing as well in China?
+
+Douglas Bettinger
+Executive VP & CFO
+
+I think it's -- Joe, it's probably a little bit of the affiliate rule. But frankly, it's -- there's a broad-based set of customer spending in China that have nothing to do with the affiliate rule. So it's the mosaic of everything that's going on there. It's very broad.
+
+Operator
+
+Our next question comes from Vijay Rakesh with Mizuho.
+
+Vijay Rakesh
+Mizuho Securities USA LLC, Research Division
+
+Doug, just a quick question on the foundry side. I think China was down, I guess, you mentioned affiliate roll, but your foundry is growing almost 100% plus year-on-year. Just wondering, as you look at '26, '27 with some of the leading-edge foundries accelerating, how you see that roadmap?
+
+Timothy Archer
+President, CEO & Director
+
+Yes. Well, I guess, speaking to whatever it looks like from a road mapperspective is each technology node, we said the opportunity for Lam from an etch and depth intensity perspective and how our tools like the Akara and others fit into that. opportunities get bigger.
+
+As you move forward, you start seeing things that, again, we would anticipate future '27, '28, introduction of things like backside power, again, more use of advanced packaging across more of the leading edge foundry space. All of those things are good for us from both the SAM and a share perspective. So that's -- it's -- from a product perspective, it's a very good picture for us.
+
+Vijay Rakesh
+Mizuho Securities USA LLC, Research Division
+
+Got it. And then on the DRAM side, I know you mentioned briefly HBM4 with 16 layers. Obviously, that's a nice step-up from where HBM is now. Can you talk to what that does for your WFE -- the content and the growth there on the DRAM HBM side?
+
+Timothy Archer
+President, CEO & Director
+
+Yes. I mean, just in general terms, I mean, what happens is you end up going to next-generation HBM, dies become bigger, and that's generally what is creating the majority of the problem relative to -- when we talk about clean room space constraints, you get -- you need more clean room space and more tooling per fit that comes out of the fab. So therefore, that was what we're trying to communicate is, obviously, the performance improves, but the space required and the equipment required increases.
+
+Douglas Bettinger
+Executive VP & CFO
+
+Thank you. Yes, I appreciate everybody's questions today. That concludes our call for today. We look forward to seeing everybody as we do the conference circuit and get out on the road. So thank you for your time today.
+
+Operator
+
+Thank you, everyone. The conference has now concluded. You may now disconnect.
