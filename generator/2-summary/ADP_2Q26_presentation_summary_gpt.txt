@@ -1,0 +1,63 @@
+[ 어닝콜 요약 ]
+
+매출 +6% YoY  
+- Employer Services의 신사업 수주 성장과 국제, 미국 대기업, 컴플라이언스 부문에서 고른 성장세가 주요 동력  
+- PEO 부문도 6% 매출 성장, 신규 수주 및 평균 근무지 직원 수 증가 기여  
+
+Sales by segment  
+1) Employer Services (ES) $[미공개] (YoY +6%)  
+   - 신사업 수주가 견조하며 국제, 미국 대기업, 컴플라이언스 부문에서 빠른 성장  
+   - 소규모 사업자 및 중견시장 부문도 성장에 기여  
+   - 유지율은 예상대로 소폭 하락, 고객 만족도는 ADP 역사상 최고 수준  
+   - Pays per control 성장률 1%로 1분기 대비 소폭 개선  
+
+2) Professional Employer Organization (PEO) $[미공개] (YoY +6%)  
+   - 신규 수주 성장 견조하나 기대치에는 다소 미달  
+   - 평균 근무지 직원 수 성장률 2%로 완만한 증가  
+   - 제로 마진 패스스루 증가와 판매비용 상승으로 마진은 70bps 하락  
+
+GPM 및 OPM 관련  
+- ES 마진 50bps 상승, 운영 레버리지와 고객 자금 이자 수익 증가가 긍정적 요인  
+- PEO 마진 70bps 하락, 제로 마진 패스스루 확대 및 판매비용 증가 영향  
+- 전체 조정 EBIT 마진 80bps 확장  
+- 조정 EPS 11% 성장  
+
+[ 가이던스 요약 ]
+
+Guidance FY2026 (updated)  
+- Revenue growth 약 6% vs. 기존 약 6% [유지]  
+- Gross margin 별도 수치 미공개, EBIT margin 50~70bps 확장 유지  
+- Operating margin 조정 EBIT margin 50~70bps 확장 유지  
+- EPS 성장 9~10% vs. 기존 [상향]  
+- Client funds interest revenue $1.31B~$1.33B vs. 기존 $1.30B대 [상향]  
+- PEO revenue growth 5~7%, excluding zero-margin pass-throughs 3~5% 유지  
+- ES new business bookings growth 4~7% 유지  
+- Average worksite employee growth 약 2% 예상 (PEO)  
+
+주요 변화  
+- 고객 자금 잔액 증가에 따른 이자 수익 상향 조정  
+- PEO 신규 수주 및 평균 직원 수 성장 둔화 반영  
+- 주주환원 정책 강화: $6B 자사주 매입 승인 및 10% 배당 인상  
+
+[ Comments 요약 ]
+
+[HCM 기술 혁신]  
+① Workforce Now Next Gen 플랫폼이 중견시장 고객에게 빠르게 수용되며 1,000명 이상 대형 고객 첫 확보  
+② AI 및 자동화 기능 강화, ADP Lyric 플랫폼은 신규 고객 확보와 파이프라인 확대 지속  
+③ ADP WorkForce Suite 통합 솔루션 출시로 글로벌 워크포스 관리 기능 강화  
+④ AI 기반 ADP Assist 도입으로 세금 등록, HR 업무 자동화 및 사용자 경험 개선  
+
+[아웃소싱 및 전문성 강화]  
+① Employer Services와 PEO 부문 모두 견조한 신규 수주 성장 유지  
+② Retirement Services에서 Pooled Employer Plan(PEP) 도입으로 고객의 행정 부담 경감 및 비용 절감 지원  
+③ 고객 만족도 ADP 역사상 최고치 기록, 안정적인 유지율과 건강한 비즈니스 환경 유지  
+
+[글로벌 확장 및 고객 기반 강화]  
+① 70,000개 이상 해외 고객 대상 서비스 제공, 140개국 이상에서 임금 지급  
+② 대형 유럽 은행 고객 확보로 국제 시장에서 브랜드 파워 입증  
+③ 글로벌 페이롤 플랫폼 사용자 경험 개선 및 HRM Asia Awards 2개 부문 금상 수상  
+
+[자본 배분 및 주주환원]  
+① 이사회에서 $6B 자사주 매입 승인, 기존 $5B 승인 대체  
+② 배당금 10% 인상으로 주주환원 강화 의지 표명  
+③ 조정 EPS 성장률 상향 조정 및 마진 확장 기대 지속
