@@ -1,0 +1,314 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] And your first question comes from the line of Ruplu Bhattacharya from Bank of America.
+
+Ruplu Bhattacharya
+BofA Securities, Research Division
+
+So it looks like you've taken up both the top line and the bottom line guide for fiscal '26. If we take the midpoint of the guidance literally, then there seems to be a slowdown coming in fiscal second half and also some loss of operating leverage. I mean the revenue guidance is 51% year-on-year for fiscal 1Q, but the full year is 37%, so implying some slower growth in the remaining 3 quarters. Likewise, in EPS it's 71% for the first quarter, but full year is 45%.
+
+So EPS is definitely growing faster than revenue and there is leverage in the model, but it looks like some operating leverage decline in the remaining 3 quarters. So can you just clarify for us, is there something specific that's causing this slowdown? Or should investors just chalk this up to conservatism in the guide?
+
+Mandeep Chawla
+Chief Financial Officer
+
+First of all, welcome back. We're always very happy to work with you. So thank you for the coverage. Yes, look, we're very confident on our 2026 outlook. And as we said in our commentary and Rob mentioned, it's our high confidence view. Our customer forecasts right now for 2026 are higher than the $17 billion that we are guiding and what's also really nice to see right now is that the demand outlook with our customers is actually extending beyond sometimes our typical fourth quarter outlook.
+
+Similar to past outlooks that we've had, Ruplu, we're taking a pretty pragmatic view. Our views on next quarter and the quarter after that are typically going to be very much dialed in and we're going to share with you what that visibility exactly looks like. But when we look beyond the 2 quarters, we're just being pragmatic. We're focusing on securing supply. We have no concerns at this time, but we just want to make sure that the supply base can also ramp as fast as we are ramping, and then we take into account the macro uncertainties, which, as you know, there's a lot of them. But as we go through the year, we are working towards a higher number, and we'll look to be updating the numbers as we go.
+
+Ruplu Bhattacharya
+BofA Securities, Research Division
+
+Okay. If I can ask a quick follow-up. I want to ask about risk management. So you obviously have a lot of opportunity in both your white box switching business and the custom ASIC server business. One thing you mentioned is you're increasing CapEx to fund the growth. Can I ask if you're concerned about any potential funding for future AI-related projects? And is there any risk to programs materializing? And have you taken that into account?
+
+And also, you've kept free cash flow at $500 million. Given that CapEx is going up and you're probably going to need more working capital to support revenue growth, can you just tell us like -- is there a risk to the story here? And what is giving you confidence to maintain the free cash flow guide? And again, congrats on the quarter.
+
+Robert Mionis
+President, CEO & Director
+
+I'll start off, I'll let Mandeep finish up. With respect to programs materializing, the build-out that we're doing is based on both businesses. We had a record bookings year in 2025 and we're really just building out to support those bookings. So there's very little risk in those programs materializing. They have been in the development cycle right now, and we're doing proof of concepts with respect to validation testing and they're well underway to ramping in 2026.
+
+In terms of risks to the entire story, Mandeep talked about it. We view it more as uncontrollable, like geopolitical risks. There's always an opportunity of tightening supply chain. But frankly, our suppliers realize now that we have a lot of leverage these days given our scale. And we're also a design agent, which is giving us some leverage in the supply chain. We also have a lot of opportunities, as Mandeep mentioned. Demand continues to well outstrip our ability to provide it in the very short term. We have very strong demand from networking with respect to 400G, 800G and 1.6T ramps that are happening later on this year. And on top of this, we have some very strong demand for AI/ML compute. And within the enterprise market, we're also seeing signs of very significant growth. So overall, we see more opportunities than risk at this time.
+
+Mandeep Chawla
+Chief Financial Officer
+
+I'll talk about cash generation. And look, we're very comfortable with our ability to invest. And frankly, we're willing to invest even more as we go through the year. That's what's in front of us. We think we'll generate at least $500 million of free cash flow this year. That's after paying for $1 billion of CapEx. I know that those on the call already are aware of this. We generated positive free cash flow every quarter for almost 7 years now.
+
+And it's because we are very focused on generating strong positive free cash flow every quarter. And so with the growth plans that we have in front of us, we don't see that being a risk. And this is even going beyond the fact that we have an incredibly healthy balance sheet. And so we think that we can fund these with cash generation and not have to even use the balance sheet. Thanks for your questions.
+
+Operator
+
+Your next question comes from the line of Samik Chatterjee with JPMorgan.
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research Division
+
+Maybe if I can start with the CapEx investment and the ramp here, I know you provided us an update at the Investor Day and you mentioned that activity really ramped with customers again since then and engagement did ramp. I'm trying to think like when you are sort of going ahead and doing this investment, should we think about this as something that drives revenue in 2027 itself? Or are these sort of programs as well as the ramp sort of more to address customer demand in 2028, 2029. Just trying to get a sense of what kind of program visibility customers are giving you already to drive this significant investment from you? Just trying to get a sense of that? And I have a follow-up.
+
+Robert Mionis
+President, CEO & Director
+
+Samik, yes, the capacity that -- the CapEx that we're investing in now, as I mentioned earlier, is based on booked business. With respect to 2026, we do have the capacity to grow beyond our current high confidence outlook. So the investments we're making are enabling additional capacity for 2027 and 2028 based on booked business. Now as we continue to win in the marketplace, we'll further evaluate our capacity expansion plans, and then there will be an opportunity to expand our revenue outlook for '27 into '28. But right now, the investments we're making in '26, which also will have a follow-on effect into '27 is really just on the backlog of business that we have right now.
+
+Samik Chatterjee
+JPMorgan Chase & Co, Research Division
+
+Got it. Okay. And then maybe for the follow-up, the outlook that you're sharing for CCS to maintain these sort of strong growth rates into 2027. Just wondering, does that sort of incorporate the digital native customer and the ramp with that customer? -- And any updates in terms of over the last sort of 90 days, anything -- any updates in relation to your timing or sort of how you think about the magnitude of that ramp in 2027?
+
+Mandeep Chawla
+Chief Financial Officer
+
+Yes, Samik. So we are seeing accelerating growth happening within CCS. If you go back to our commentary from 3 months ago versus today, 3 months ago, we were saying that when you break down the numbers that CCS would be growing by about $3.5 billion in '26. And then when we put a 40% growth rate on that, it was implying about a $5 billion of CCS growth in 2027. We're now updating those numbers and going off of a higher base. So now what we're implying is that 2026, CCS will grow probably closer to $4.5 billion, so about $1 billion higher than what we talked about 3 months ago. And because we're saying that we're seeing very strong trajectory continuing, we're now seeing CCS grow close to $7 billion in 2027 and that's off of a higher base. And so the demand outlook is very robust.
+
+Your question on the digital native customer, that continues to progress just as we would have expected it to. We still expect it to be a meaningful contribution in 2027. We are actively working on the design aspects of the program. And we do believe that, that program will still ramp into the '27, and that's included in the numbers that we're sharing.
+
+Operator
+
+[Operator Instructions] Your next question comes from the line of Thanos Moschopoulos with BMO Capital Markets.
+
+Thanos Moschopoulos
+BMO Capital Markets Equity Research
+
+Can you speak to how we should think about the margin trajectory? Just given the mix shift dynamic where you've got some enterprise becoming the larger part of CCS mix, would that imply that there might be some compression in CCS margins as the year progresses and into '27? Or are there offsets to that?
+
+Mandeep Chawla
+Chief Financial Officer
+
+Yes, we're seeing tremendous amount of growth happening right now in enterprise. We are really pleased with the trajectory that we are -- that's already underway. You saw that we had a very nice growth number in the fourth quarter, and that's accelerating as we go into Q1. We expect that program to continue to grow all through 2026. And then just as a reminder, we've already won the next generation of that program. And so we would expect those programs to actually ramp into 2027.
+
+So our outlook for enterprise continues to be very healthy. We are seeing very strong operating leverage. And so we don't necessarily expect a large mix headwind, if you will, from growing of the enterprise business. We do make more money on networking in general. But with the leverage that we're getting and the very disciplined cost management, we still think that the enterprise business is going to be able to generate very strong profitability.
+
+And so for that reason, it's embedded in our numbers. 2026, we're giving an outlook right now where margins expand by 30 basis points. And what I would just say is that that's our -- that's the floor of our expectation. We would be looking to do better than that hopefully.
+
+Robert Mionis
+President, CEO & Director
+
+I would also add, Thanos, that networking is also very strong in 2026 and going into 2027. In 2026, we see 400G very resilient, the 800G very strong and we see 1.6T ramping in the back half of the year. So we have all 3 major programs running concurrently, which is helping the operating leverage and also helping the mix.
+
+Operator
+
+Your next question comes from the line of Michael Ng with Goldman Sachs.
+
+Michael Ng
+Goldman Sachs Group, Inc., Research Division
+
+Great. My question is just around the CapEx. Encouraging to hear about all the visibility your partners are giving you. I wanted to ask whether the capital intensity in the business has changed at all? Or does the $1 billion CapEx support 2% to 2.5% revenue over time, kind of implying a path to $40 billion to $50 billion of revenue over time. Is that a fair way to think about it? Or has the capital intensity in the business changed at all?
+
+Mandeep Chawla
+Chief Financial Officer
+
+Michael, I'm not going to help you back into that number, but I completely understand the way that you look at it. What I would say is that we have in the last number of years been investing the majority of our CapEx dollars into growth CapEx. We spent probably $70 million to $80 million on maintenance and that's not going to change very much. And so as a percentage of revenue, we expect that our maintenance CapEx is going to be very predictable and not a huge driver. And so therefore, the delta is really on growth CapEx.
+
+To the point that Rob has made, we are making this sizable investment to tie to programs that we've already won that are going to be generating, we believe, material revenue in 2027 and 2028. Should those wins continue, and we would expect that they would, we have no hesitation in increasing our CapEx. But you almost want to think of it almost like at a project level. We are building -- we're making these investments to support specific wins at this time. At a certain point, we would expect the CapEx to moderate because, again, the vast majority of it is growth. And so when we get back to a maintenance level, we would be back to what we would normally expect.
+
+Operator
+
+Your next question comes from the line of Karl Ackerman from BNP Paribas.
+
+Karl Ackerman
+BNP Paribas, Research Division
+
+So I know you have deep engagements on the 400-gig and 800-gig switch programs, but could you speak to the opportunity you have to address multi-rack scale-up XPU networks, such as optical circuit switches and co-packaged optics-based switches perhaps in terms of the breadth of customer engagements.
+
+Robert Mionis
+President, CEO & Director
+
+Yes, sure. So we see increasing activity and increasing R&D expenditures. Some of it's a little premature to talk about now, but to do more AI/ML and networking integrated -- fully integrated systems, both supporting scale-up and scale-out fabrics. Based on a proof point with our digital native and some other early engagements that we have with other providers, we see this as a major growth driver for our business moving forward.
+
+As these AI models continue to grow and GPU to GPU interconnects become more and more important, scale-up will be as much as an opportunity as scale-out. So we see this as a major growth opportunity for us. And we're well underway in capturing a lot of that -- those growth opportunities and we hope to have more to share with you in coming months.
+
+Mandeep Chawla
+Chief Financial Officer
+
+Karl, what I would just add to Rob's comment is that when you look at the 1.6T wins that we've already had to date, they are both being used for scale-up and scale-out. And with the funnel of opportunities that we have in front of us that diversification continues, and we would expect that we would continue to grow in that area.
+
+In addition, I think to the question that you raised on co-packaged optics, we are starting to see conversations with our customers increase in this area. We still believe that in terms of mass adoption, it's going to be more towards 3.2T, which are programs that we're working on in our R&D group. But we haven't seen customers looking for mass adoption of CPO as of yet. And so that's pretty similar to what we said a few months ago.
+
+Operator
+
+Your next question comes from the line of Tim Long with Barclays.
+
+Timothy Long
+Barclays Bank PLC, Research Division
+
+I did want to just talk about a few comments on the call you guys made about new programs and new program wins. Could you talk a little bit about kind of -- you talked about some strong backlog and visibility and wins as well as, obviously, the capacity expansions. You obviously got a lot of large switching and AI/ML and digital native rack wins. Can you talk about the outlook for the next few years. What we should expect to see from newer programs where they could be centered? Would this more be around new switching customers or new applications or use cases from some of the existing customers? Anything you could give us on that would be helpful.
+
+Robert Mionis
+President, CEO & Director
+
+Yes. The visibility, Tim, that we're seeing with our customers at this stage is unprecedented. We're certainly into '27 and many customers were talking into 2028. Our customers now are viewing us less as a supply chain partner and more as a technology leader. And part of that process is aligning on our technology road maps, which is informing our investment decisions. And these investment decisions are enabling and informing all the future products moving forward. And those products are more in the lines of a fully integrated rack systems supporting in scale-up and scale-out. Also staying on the leading edge of switching 3.2T samples are due in probably towards the end of 2026 and we're already starting to work on that. Mandeep alluded to some of the proof of concepts that we have co-packaged optics. So where it's only going to be ready for when that hits down the 3.2 cycle as well. So broadly speaking, our portfolio is getting broader and deeper with our customers moving forward.
+
+Operator
+
+Your next question comes from the line from David Vogt with UBS.
+
+David Vogt
+UBS Investment Bank, Research Division
+
+So I have a question about sort of the scope of work and the economics of the digital native customer. Can you kind of update us on where we stand in terms of what that relationship looks like as we go into '26 into '27? And then Mandeep, on the CapEx numbers, that $1 billion, can you help us parse through how much of that CapEx is tied to sort of the existing customer base and the expansion of programs and projects with your largest customers versus incremental customers like the [ DNC ] or any other incremental customers that you see in the pipeline for '26, '27?
+
+Robert Mionis
+President, CEO & Director
+
+Yes, I'll start off. With respect to the digital native customer, we have a very tight engineering-driven relationship with our customer. In 2026. So we're going to be shipping them largely samples and getting ready for the ramp that should be starting in the early parts of 2027. At this stage of the game, the program is on track, and we're just getting ready for the ramp working with them and the silicon provider and all the ecosystem partners, but it's -- the relationships is a solid relationship.
+
+Mandeep Chawla
+Chief Financial Officer
+
+Yes. And just to add on to that in terms of question for CapEx and how it's kind of being allocated. So geographically, now you're aware of how we're allocating it. We're putting in significant investments in areas like Thailand, Richardson, Texas as well as Fort Worth. And it's really to support multiple customers. And so we are largely investing in programs that we've won across the major hyperscalers. Those are very -- we have a high confidence view to work with these customers sometimes for well over a decade. But with our digital native customer, we are willing to make investments as well. And so some of the investment is going towards enabling the ramp in 2027. But I would say the vast majority of the expenditures are tied to programs with our hyperscalers.
+
+Operator
+
+Your next question comes from the line of Paul Treiber with RBC Capital Markets.
+
+Paul Treiber
+RBC Capital Markets, Research Division
+
+Just a question, just in light of the new program win momentum that you're seeing, can you speak to how the returns and expected returns on those programs compare against existing programs? And really, what I'm going to add is also, are you seeing competition changing the returns on new programs versus what you saw in the past?
+
+Mandeep Chawla
+Chief Financial Officer
+
+Yes. Paul, I'll take the first part of the question, and I'll let Rob talk about the competitive intensity that's happening in the marketplace. Look, the approach that we take when we make investments with our customers is really a holistic view. We look at it on a global basis. We want to ensure that we're generating strong profitability. But more importantly, we want to make sure we're supporting our customers in the geographies that they need. And so we will look at investments at the customer level on a global basis. But of course, we want to ensure that specific investments tie out on their own as well.
+
+I know you know this, which is we're a very ROIC-driven company. We're focused on strong profitability, but just as much we're focused on a very disciplined level of investment. And so we'll make sure that business cases hold. And so from a returns perspective, what I would just say is that we continue to focus on expanding our ROIC. We continue to focus on expanding our margins while generating very strong top line growth. And so those are always factors whenever we're looking at business cases.
+
+Robert Mionis
+President, CEO & Director
+
+In terms of competitive intensity, and I would say as time goes on, the programs that we're bidding on and winning are becoming more and more complex. In many cases, some of the business that we decided not to play the pricing game on in 2025 have come back to us in 2026 because others could not execute on it. So when we look at our competitive moat, we have some fantastic engineering to be able to design these complex products. But even more so a very few of our competition can produce these products at scale. And when you combine those 2 together, it's really giving us a lot of tailwinds in '26 and also moving into 2027. That combination is proving to be very powerful for us.
+
+Operator
+
+Your next question comes from the line of Ruben Roy with Stifel.
+
+Ruben Roy
+Stifel, Nicolaus & Company, Incorporated, Research Division
+
+Rob, maybe you could follow up where you left off there, and I had a question on the 1.6T win, the new win at a new hyperscaler. Are you seeing a shift towards HPS design-led solutions and away from cost plus? You've got the design center that you talked about in Austin. Just wondering if that's something that's happening as you move towards these more complex switching technologies and how you see that playing out from a margin perspective as you think about 2027, '28 time frame?
+
+Robert Mionis
+President, CEO & Director
+
+Yes. Certainly, thanks for the question. 1.6T and even as we move into 3.2T, the complexity that's required, the engineering complexity that's required on these things is moving more towards HPS engagements. So on the networking side, we see that increasing over time. And the density and the complexity is only going to increase at every node.
+
+On the AI/ML compute side, we like to play really on the HPS and JDM design-oriented AI/ML compute. And we also see as that gets more and more sophisticated, more opportunity for us to play in that area, and we have several projects in the pipeline to improve those engagements on the HPS side as well.
+
+Operator
+
+Your next question comes from the line of Steven Fox with Fox Advisors.
+
+Steven Fox
+Fox Advisors LLC
+
+First of all, congratulations on reaching a point where people are complaining about 37% growth. I thought that was great. In terms of my question, there's been a bunch of confusion around with your largest customer, how the supply chain works on those AI/ML compute programs and where you are sort of positioned versus their other suppliers? Is there any -- can you just sort of clarify how you're playing there? What kind of competition you see? And then it looks like you're also expanding directly to support some more programs on that. So anything on that would be helpful.
+
+Robert Mionis
+President, CEO & Director
+
+Certainly. I would chalk this up, you can't believe everything you read. What I can emphatically say is that our partnership with Google has never been stronger or more integrated. We have absolutely no indication there are new entrants into that market. As you know, these are very complex products to manufacture, especially at scale. And we have been doing it for a very long time with this family of products. As a preferred partner with Google on these leading edge compute programs. We have a joint commitment to each other moving forward, not just for the current generation, but for future generations of their TPUs. And we've been supporting this technology for generations and we hope to continue to do so going well into the future, which is warranting a portion of the investments moving forward. And I would also add that the capacity expansion that we're making certainly is in support of Google, but it's also in support of growth from other hyperscalers and digital native support.
+
+Operator
+
+Your next question comes from the line of John Shao with TD Cowen.
+
+John Shao
+TD Cowen, Research Division
+
+So within your guidance, how much do you bake in a price increase of key components or materials? At this point, are you still comfortable with the supply chain? Do you think this is going to be any source of potential margin compression given right now, we're getting this inflationary environment in the supply chain?
+
+Mandeep Chawla
+Chief Financial Officer
+
+Yes. So we factored in inflation and pricing into the numbers that we've already shared. Just as a reminder to everyone on the call, when we have networking, we have it on a turnkey basis, which is our typical approach, meaning it includes the silicon, where on the compute side, it typically does not. And so where there is a lot of price inflation, it's happening on the silicon side. So you're not going to necessarily see our growth in our enterprise numbers being driven by that.
+
+On the networking side, we're growing in terms of overall volume. But yes, there is inflation happening at the silicon side, which we're able to pass on to our customers. And so are we seeing margin compression? No, not right now. But if silicon becomes a much larger part of the bill of materials, then perhaps it will, but that's not in our line of sight at this time. But there is a little bit of contribution in our revenue growth year-over-year coming from just the fact that ASPs are going up, but the vast majority of the growth is due to units.
+
+Operator
+
+Your next question comes from the line of Todd Coupland with CIBC.
+
+Thomas Ingham
+CIBC Capital Markets, Research Division
+
+I wanted to ask about the 1.6 programs in the second half of the year. And at this point, what are the range of outcomes and gating factors for those programs to start to ramp this year? Just talk about that a little bit.
+
+Robert Mionis
+President, CEO & Director
+
+Yes. We have 10 active 1.6T programs in the pipeline right now. And 5 of them will start ramping in the back half of the year and certainly into 2027. And several -- the balance of them are in the development pipeline and will be ramping later in '27 into '28. The gating factors really is just completing the development cycle as planned and things are on track. Silicon is on track. So I just think it's business as usual in terms of supporting our customers' ramps.
+
+Mandeep Chawla
+Chief Financial Officer
+
+Todd, if I could maybe add to that. When we look at our -- the overall switching demand that's out there right now, what we're really encouraged by is there's been a tremendous amount of growth happening in 800G that happened in 2025, and that's continued in 2026 and 400G continues to hold. So 400G will be a strong contributor in 2026. 800 will continue to grow.
+
+And then you got 1.6 coming on as well towards the end of the year. And so the dynamic that's really been playing out in the last couple of years is that the next-generation technology is not necessarily cannibalizing the previous generation. And so this is one of the reasons that we have a lot of optimism on the networking space exiting '26 even and going into '27.
+
+Operator
+
+Your next question comes from the line of Atif Malik from Citi.
+
+Atif Malik
+Citigroup Inc., Research Division
+
+We got a couple of questions from investors on this yesterday. In your press release, you called out Google TPUs as a preferred manufacturing partner versus sole source. Is that a new disclosure? And then just as a follow-up, if some of your hyperscalers were to adopt more TPUs, do they all go through you guys? Or there are other entities like Broadcom and others that can participate in the TPU rack [ trade ] business?
+
+Robert Mionis
+President, CEO & Director
+
+On the first one, Atif, no, I don't think it's a new disclosure. We're not sole sourced or single sourced on the TPU programs nor have we -- frankly, nor I think we've ever said that. For [ BCP ] purposes, most, if not all of our hyperscaler customers remain a second source. But we are a primary source for them on TPU programs and continue to do so. With Google and with all of our hyperscalers, share is largely awarded on performance. Our performance has been very strong. And as a result, they make the decisions accordingly.
+
+Mandeep Chawla
+Chief Financial Officer
+
+And then to the question that you were raising about as Google's TPU gets adopted beyond just Google itself, how does that play out. Right now, our view is that those -- that increased level of demand for their types of products will flow through their supply chain. And as their preferred manufacturing partner, we would expect to be able to support them with that. And so right now, it's wonderful to see that their product is being adopted in the marketplace, and we do expect to be able to support them with that growth.
+
+Operator
+
+Your final question comes from the line of Robert Young with Canaccord Genuity.
+
+Robert Young
+Canaccord Genuity Corp., Research Division
+
+On the third hyperscaler, 1.6 win, how was this one? Was it an extension of 800? Was it tied to your Tomahawk ASIC experience. And, like, is it part of a rack integration with another outside vendor? Or is that being done by the hyperscaler? Just some context around that? And then if you could also talk about how you expect operating margins to evolve as you move into 1.6 terabytes programs and how that might differ between -- I think you have 2 full rack and then 2 stand-alone if I understand the large programs. Now how would the margin structure differ and evolve?
+
+Robert Mionis
+President, CEO & Director
+
+Rob. Yes, on the third 1.6T, so with this hyperscaler, we were predominant share on the 400G. We were predominant share and one on 800G, and this is just an extension of going to the 1.6T. The engagement started with a design win that we're happy with the performance with this switch. It's based on the 400 and 800. And we were awarded the mass production for this switch as well.
+
+Mandeep Chawla
+Chief Financial Officer
+
+Yes. And then in terms of the margins, Rob, what I would just say is that we approach our switching portfolio in a similar way even as we go into the next generation, we typically make more money during the ramping and the development cycle of a program. And then as it gets to mass production, we try to offset that pricing with operating leverage. And so we do expect 1.6 programs to be as profitable as we've seen on some of our past switching programs.
+
+One interesting dynamic, though, is that more and more of our switching portfolio should be moving towards HPS. We have some of our switching portfolio today in EMS. And just typically as we embed more of our engineering, that leads to better pricing. And so we are happy with the way that the margin profiles look like for 1.6 products.
+
+Robert Young
+Canaccord Genuity Corp., Research Division
+
+And is there any context on between the full rack deployment and stand-alone?
+
+Mandeep Chawla
+Chief Financial Officer
+
+Yes, it's integrated. And so we take a look holistically when we are doing this for our customers. As you mentioned, it's integrated. So there's 1.6 switches, but then there's also compute and then there's the integration activities, so we do testing for them. And then at certain points, we may be able to do services as well. If you look at it on a holistic basis, and we ensure that the value that we're bringing on the switching side, which has the most engineering that we have is getting captured in overall price.
+
+Operator
+
+There are no further questions at this time. So I will now turn the call back to Rob Mionis, CEO, for closing remarks.
+
+Robert Mionis
+President, CEO & Director
+
+Thank you. And thank you again for joining us this morning. 2025 was an exceptional year for Celestica, characterized by record financial results. We're excited to build on this momentum in '26 and as we raise our annual revenue outlook to $17 billion. The strategic investments we are making provide us with the capacity to support our customers' multiyear AI road maps and our deep partnership with industry leaders like Google and our expanding global footprint in Texas and Asia reinforces our confidence that our growth trajectory will be sustained into 2027 and beyond.
+
+We look forward to updating you on our continued progress next quarter, and thank you again for joining the call.
+
+Operator
+
+This concludes today's call. Thank you all for attending. You may now disconnect.

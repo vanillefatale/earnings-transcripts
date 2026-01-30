@@ -1,0 +1,196 @@
+Blackstone Inc. (BX) Q4 2025 Earnings Call January 29, 2026 9:00 AM EST
+
+Company Participants
+
+Weston Tucker - Senior MD & Head of Shareholder Relations
+Stephen Schwarzman - Chairman, CEO & Co-Founder
+Jonathan Gray - General Partner, President, COO & Director
+Michael Chae - CFO & Vice Chairman
+
+Conference Call Participants
+
+Craig Siegenthaler - BofA Securities, Research Division
+Michael Cyprys - Morgan Stanley, Research Division
+William Katz - TD Cowen, Research Division
+Alexander Blostein - Goldman Sachs Group, Inc., Research Division
+Glenn Schorr - Evercore ISI Institutional Equities, Research Division
+Daniel Fannon - Jefferies LLC, Research Division
+Brian Bedell - Deutsche Bank AG, Research Division
+Michael Brown - UBS Investment Bank, Research Division
+Brennan Hawken - BMO Capital Markets Equity Research
+Brian Mckenna - Citizens JMP Securities, LLC, Research Division
+Benjamin Budish - Barclays Bank PLC, Research Division
+Steven Chubak - Wolfe Research, LLC
+Kenneth Worthington - JPMorgan Chase & Co, Research Division
+Arnaud Giblat - BNP Paribas, Research Division
+Patrick Davitt - Autonomous Research US LP
+Crispin Love - Piper Sandler & Co., Research Division
+
+Presentation
+
+Operator
+
+Good day, and welcome to the Blackstone Fourth Quarter and Full Year 2025 Investor Call. Today's call is being recorded.
+
+[Operator Instructions]
+
+At this time, I'd like to turn the conference over to Weston Tucker, Head of Shareholder Relations. Please go ahead.
+
+Weston Tucker
+Senior MD & Head of Shareholder Relations
+
+Great. Thank you, and good morning, and welcome to Blackstone's Fourth Quarter Conference Call.
+
+Joining today are Steve Schwarzman, Chairman and CEO; Jon Gray, President and Chief Operating Officer; and Michael Chae, Vice Chairman and Chief Financial Officer.
+
+Earlier this morning, we issued a press release and slide presentation, which are available on our website. We expect to file our 10-K report later next month.
+
+I'd like to remind you that today's call may include forward-looking statements, which are uncertain and may differ from actual results materially. We do not undertake any duty to update these statements. For a discussion of some of the factors that could affect results, please see the Risk Factors section of our 10-K.
+
+We'll also refer to non-GAAP measures, and you'll find reconciliations in the press release on the shareholders page of our website. Also note that nothing on this call constitutes an offer to sell or a solicitation of offer to purchase an interest in any Blackstone fund. This audiocast is copyrighted material of Blackstone and may not be duplicated without consent.
+
+Just quickly on results. We reported GAAP net income for the quarter of $2 billion. Distributable earnings were $2.2 billion or $1.75 per common share and we declared a dividend of $1.49 per share, which will be paid to holders of record as of February 9.
+
+With that, I'll now turn the call over to Steve.
+
+Stephen Schwarzman
+Chairman, CEO & Co-Founder
+
+Good morning, and thank you for joining our call. Weston just reported the best results in our 40-year history, with distributable earnings of $1.75 a share as Weston mentioned. This capped a record year for the firm, in which DE increased 20% to $5.57 per share or $7.1 billion, powered by strong growth in fee-related earnings and a significant acceleration in net realizations.
+
+Inflows reached a stunning $71 billion just in the fourth quarter, the highest level in 3.5 years. At approximately $240 billion for the full year, reflecting robust momentum across the institutional, private wealth and insurance channels. Of particular note, our fundraising in private wealth increased 53% year-over-year in 2025 to $43 billion, and we expect strong inflows again in 2026, given our performance and continuous innovation.
+
+According to recent analyst research, Blackstone, has an estimated 50% share of all private wealth revenue across the major alternative firms. In total, the firm's fundraising success lifted assets under management, 13% year-over-year to a new industry record of nearly $1.3 trillion.
+
+Most importantly, we generated outstanding investment performance overall, for our limited partners again in 2025, highlighted by notable strength in infrastructure, corporate private equity, our multi-asset investing business, BXMA. We achieved these results amid the turbulent year for markets, which was impacted by tariff uncertainty, geopolitical instability and the longest government shutdown in U.S. history.
+
+Federal Reserve officials liking this backdrop to driving in a fog. For Blackstone, a key advantage of our leading scale with the portfolio spanning more than 270 companies, nearly 13,000 assets in real estate, and one of the largest credit platforms is the expansive array of proprietary data it produces. This data provides deep insight into what's happening in the global economy helping us see through the fog and chart the path forward.
+
+What we saw in the data was a fundamentally strong economy, underpinned by the ongoing technology and AI-driven investment boom. We were also encouraged by what we were seeing on the ground in terms of moderating inflation in the context of limited input and labor cost growth at our companies as well as our real-time understanding of shelter costs given our unique position in real estate. We shared these perspectives with you throughout the year, which did not always align with the consensus viewpoint.
+
+Today, there continues to be a range of geopolitical uncertainties that are impacting markets, but we remain anchored by the strong operating and capital market fundamentals we see through our portfolio. Our views on the economy inflation have informed our investment approach. They also led to our conviction that the deal cycle would accelerate, including a resurgence in capital markets activity.
+
+First, in terms of our investments, our data gave us the confidence to lean into key thematic areas, such as digital infrastructure, including data centers, power and electrification. Private Credit, Life Sciences and from a regional perspective, India and Japan. These areas have been among the largest drivers of appreciation in our funds. We also took advantage of volatility in markets to sign or close 8 privatizations during the year in private equity and real estate, including in the fourth quarter, medical technology company, Hologic, for $18 billion.
+
+And in credit, we saw record deployment in 2025. Including the emergence of an important new source of direct origination, customized long-duration capital solutions for investment-grade corporates. We've executed multiple of these to date, and we expect to do more over time.
+
+In total, we invested $138 billion across the firm in 2025, the highest level in 4 years, planting the seeds of future value. Stepping back, the historic pace of investment taking place in the U.S. to facilitate the development of artificial intelligence, including the design and manufacture of semiconductors, data center construction and the expansion of power generation is the key driver of economic growth today. It is creating an enormous need for capital solutions.
+
+The U.S. has long occupied a unique position in the world in terms of its innovation and economic leadership and the investment cycle underway in AI and power and the expected future boost in AI-related productivity should propel U.S. economic growth for years to come.
+
+Blackstone is extremely well positioned to benefit against this factor. Given our scale and expertise in these areas, including our ownership of the world's largest data center platform as well as our position as a major investor in the modernization and growth of the U.S. electric grid.
+
+Turning to the acceleration in the deal cycle and capital market activity. We regularly spoke about this dynamic last year. And we're now seeing it start to materialize. IPO and M&A activity are accelerating, deal sizes are increasing, and sponsor activity is picking up.
+
+In the fourth quarter, global IPO issuance rose 40% year-over-year, including a 2.5-fold increase in the United States, notwithstanding the government shutdown. Blackstone was a major contributor with the $7.2 billion IPO of medical supply company Medline, the largest IPO since 2021, and the largest sponsor-backed IPO in history.
+
+The offering was extremely well received with shares trading up over 40% on the first day. Medline is a perfect illustration of the power of Blackstone's private equity model at work and our ability to generate attractive returns on large-scale control deals across vintages.
+
+This 2021 transaction represented the largest health care buyout in history, which we completed in partnership with the company's founding family. Key limited partners and 2 other financial sponsors. During our ownership, we accelerated the company's growth, implemented multiple initiatives to drive value and executed accretive acquisitions to expand the company's product suite and end markets.
+
+Today, Medline is a category-leading public company that is exceptionally well positioned for continued success. Medline was Blackstone's fourth IPO globally since last summer, and our momentum continues to build. We have one of the largest IPO pipelines in our history, reflecting a diverse mix of sectors and geographies.
+
+Looking forward, the structural tailwinds driving the alternative sector and in particular, Blackstone are accelerating. More investors are discovering the benefits of private market solutions, including in the vast private wealth and insurance channels.
+
+At the same time, we continue to deepen our relationship with institutional limited partners across multiple areas. These tailwinds, alongside the cyclical recovery underway in transaction activity or a powerful combination for our firm and our shareholders.
+
+In closing, I couldn't have more confidence in the firm and our prospects for continued growth. Our business performed exceptionally well through the high cost of capital backdrop of the past several years, and we believe we're now moving into a more supportive environment with a portfolio concentrated in compelling sectors and nearly $200 billion of dry powder to take advantage of opportunities. We are extremely well positioned for the road ahead.
+
+And with that, I will turn it over to Jon.
+
+Jonathan Gray
+General Partner, President, COO & Director
+
+Thank you, Steve, and good morning, everyone. This is an exciting time for Blackstone, 3 powerful dynamics coming together: first, the deal environment has reached escape velocity on the back of moderating cost of capital; secondly, the AI revolution is creating generational opportunities to invest private capital at scale, both debt and equity, while creating attractive gains across multiple sectors; and third, adoption of private markets continues to deepen across all 3 of our major customer channels, institutions, insurance and individual investors. These dynamics are translating to outstanding results across the firm.
+
+Starting with our institutional business, which makes up over half of our AUM and comprised over half of 2025 inflows. We are seeing strong demand today across numerous open-ended and drawdown fund strategies. In infrastructure, our dedicated platform grew a remarkable 40% year-over-year to $77 billion, including over $4 billion raised in the fourth quarter, underpinned by exceptional investment performance.
+
+The co-mingled BIP strategy has generated 18% net returns, annually, since inception 7 years ago, and 2025 was one of the best years yet, with broad-based gains across digital, energy and transportation infrastructure. Our QTS data center business was again the largest single driver of returns for BIP as well as in real estate.
+
+Sticking with our open-ended strategies, BXMA reported excellent results again in Q4. The composite gross return for BXMA's largest strategy has been positive for 23 straight quarters and exceeded 13% for the year in both 2025 and 2024, the best since 2009. Investors are responding favorably with $6.3 billion of net inflows for BXMA in 2025, representing the highest net fundraising in nearly 15 years, and lifting AUM 14% year-over-year to a record $96 billion.
+
+Meanwhile, in our institutional drawdown area, our business is accelerating with a new fundraising cycle underway. We've held initial closings of $5 billion for our new PE secondaries flagship, targeting at least the size of the prior $22 billion vintage with another major close expected in the coming weeks.
+
+Our secondaries platform saw a record year of deployment in 2025, and we see strong growth ahead, fueled by the ongoing expansion of private markets. In corporate private equity, we've raised over $10 billion to date for our next Asia flagship compared to approximately $6 billion for the previous vintage. And expect to reach over $12 billion. We also launched fundraising for our fifth private equity energy transition vehicle, which we expect to be meaningfully larger than the prior vintage of approximately $5.5 billion, with a first close anticipated this spring.
+
+Rising demand in the power and electrification ecosystem is creating enormous deal flow in this area and our currently investing vintage is approximately 80% committed only 1.5 years after launch. In Q4, we also held closings for the new vintages of our tactical opportunities, GP stakes and life sciences vehicles.
+
+And in credit, we raised an additional capital for our fifth opportunistic strategy, bringing it to over $7 billion with a target of $10 billion. There's no question that institutional investors remain the bedrock of our firm. Diving deeper into credit specifically, our platform overall continues to see extraordinary momentum.
+
+We now manage $520 billion of total assets across corporate and real estate credit, up 15% year-over-year. Inflows exceeded $140 billion in 2025, with strong fundraising across the institutional insurance and private wealth channels. Underpinning this demand, again, is investment performance.
+
+Our non-investment grade strategies in private credit and real estate credit delivered gross performance of 11% and 17%, respectively, for the year. Since inception 20 years ago, our noninvestment grade private credit strategies have generated 10% net returns annually, double the return of the leveraged loan market with minimal losses.
+
+Despite the external noise today in private credit, facts do matter and our portfolio overall is in excellent shape, including high single-digit EBITDA growth on average for our direct lending borrowers for the most recent annual period. The backdrop remains favorable with corporate profits growing, short-term rates declining and transaction activity increasing.
+
+At the same time, we're benefiting from the massive secular shift underway towards investment-grade private credit, which we believe is in the earliest stages. We now manage $130 billion in this area, up 30% year-over-year. Our farm-to-table approach, which brings clients directly to borrowers and is designed to create a structural premium to liquid fixed income is really resonating.
+
+Why is investment-grade private credit growing so quickly? Two main reasons. First, corporate investment-grade bond spreads are at their tightest levels since 1998 and we've been seeing insurers and now some pensions and sovereign wealth funds looking to earn materially higher spreads at the same or lower risk levels.
+
+Second, the build-out of AI infrastructure recorded a massive amount of private debt capital for the construction of fabs, energy supply and data centers.
+
+Turning to the insurance channel specifically. Our AUM grew 18% year-over-year to $271 billion. This remarkable growth is happening without taking on any insurance liabilities. Investors are responding particularly well to our open architecture model and the value we deliver.
+
+We placed or originated $50 billion of credits for our private IG focused clients in 2025, which generated approximately 180 basis points of incremental spread versus comparably-rated liquid credits. These results are more important than ever in an environment of tightening yields.
+
+Moving to the individual investor channel where we are uniquely positioned given the breadth of our product lineup, our performance and the power of our brand. Our AUM in private wealth grew 16% year-over-year to more than $300 billion and is up threefold in the past 5 years.
+
+In Q4, our total sales in the channel exceeded $11 billion, up 50% year-over-year. BCRED led the way with gross sales of $3.3 billion, while net inflows were $1.2 billion. For the full year, BCRED reported record gross sales of over $14 billion, powered by investment performance. With 10% net returns annually, since inception, 5 years ago, almost entirely comprised of foreign income.
+
+Our private equity flagship in this channel, BXP has also generated outstanding performance achieving an annualized net return of 17% since inception. BXP has grown to $18 billion in only 2 years with its broad-based approach to our expansive private equity platform.
+
+Our infrastructure strategy in private wealth BXINFRA is approximately $4 billion, only 1 year after launch with strong performance out of the gates. And BREIT delivered terrific results in 2025, underpinned by a net return of 8.1% for its largest share class, nearly 3x the public REIT index. BREIT's portfolio position continues to drive returns, including its significant exposure to data centers. In private wealth, as with the rest of Blackstone, our relentless focus on investment performance gives us the license to innovate, and our innovation is accelerating.
+
+We expect 2026 to be our busiest year in yet terms of product launches as we stated previously. Blackstone has led the evolution of the private wealth market to date, and we expect to lead it in the future.
+
+Turning to real estate, where we've been navigating the early stages of the sector's recovery. We said the cycle was bottoming 2 years ago, but that the recovery wouldn't be a straight line. Since then, U.S. private real estate values have been slowly improving. However, since the interest rate cycle began approximately 4 years ago, real estate values are still down 16% compared to an increase of 75% for the S&P 500. We think real estate has plenty of room to run.
+
+We've taken advantage of choppy investor sentiment to lean into deployment, investing or committing over $50 billion in real estate since the cycle trough 2 years ago. including our commitment in Q4 to privatize Alexander & Baldwin an owner of high-quality grocery-anchored shopping centers and warehouses in Hawaii. The gradual pace of the recovery to date has meant our real estate funds in aggregate saw limited appreciation in 2025, notwithstanding BREIT's strong performance.
+
+That said, we do see a number of positive signs which point to a better year ahead. These include the sharp decline in construction starts, which have fallen to the lowest level in more than 12 years in the U.S. in both logistics and multifamily, our 2 largest sectors in real estate, continued growth in debt availability and declines in the cost of debt, a pickup in transaction activity and now an improvement in logistics demand with our U.S. platform reporting record leasing activity in Q4. At the same time, our exposure to data centers continues to be a source of strength. As does real estate credit. We remain highly optimistic about the direction of travel for our real estate business.
+
+In closing, we entered 2026 with tremendous momentum. Our clients are growing their commitments to us across channels. We are actively investing that capital in compelling thematic areas and realizations have begun to accelerate. Blackstone's performance-driven capital-light brand-heavy model continues to deliver for shareholders.
+
+And with that, I will turn things over to Michael.
+
+Michael Chae
+CFO & Vice Chairman
+
+Thanks, Jon, and good morning, everyone. The firm's fourth quarter results represented an outstanding finish to a record year. I'll first review financial results and will then discuss investment performance and the forward outlook.
+
+Starting with results. The fourth quarter represented the best quarter of distributable earnings per share in the firm's history, as Steve highlighted, and one of the 3 best quarters of fee-related earnings. First, in terms of FRE, which reached $1.5 billion in Q4 or $1.25 per share. Management fees increased 11% year-over-year to a record $2.1 billion, underpinned by 10% growth in base management fees and a 27% increase in transaction and advisory fees.
+
+Base management fees for 3 of the firm's 4 segments: private equity, credit insurance and multi-asset investing on a combined basis grew 17% year-over-year in Q4, while in real estate, base management fees declined moderately. Fee-related performance revenues for the firm totaled $606 million in the fourth quarter, generated by a broad range of perpetual strategies led by BREIT as well as BCRED and BXPE, the year-over-year comparison reflected the crystallization of over $1 billion of these revenues in our institutional infrastructure business in last year's fourth quarter related to 3 years of accrued gains. Excluding this from the prior period, fee-related performance revenues grew significantly year-over-year and FRE overall grew 24%.
+
+In terms of distributable earnings, we reported $2.2 billion of DE in the fourth quarter of 2025 or $1.75 per common share. Alongside robust FRE, net realizations increased 59% year-over-year to $957 million, the highest level in 3.5 years. Gross performance revenues exceeded $1 billion in the quarter, driven by a number of net realizations across the firm, including the sale of a portion of our stock in energy solutions company Legence.
+
+The sale of a stake in the city center complex on the Las Vegas Strip. The modernization of certain royalty interest in our life sciences portfolio. And importantly, year-end crystallizations in BXMA and certain credit vehicles with respect to full year 2025 performance. BXMA specifically reported record performance revenues in Q4 of $465 million, up 38% year-over-year. We also closed the sale of the firm's 6% stake in Resolution Life in the fourth quarter in connection with the company's sale to Nippon Life with the realized gain reflected in principal investment income.
+
+Turning to the full year. Despite numerous challenges in the external operating environment in 2025, Blackstone delivered record full year results across digital earnings, fee-related earnings, management fees and assets under management, all of which have approximately doubled or more than doubled in the past 5 years. Distributable earnings grew nearly 20% to $7.1 billion.
+
+Fee-related earnings increased 9% to $5.7 billion. Management fees rose 12% to $8 billion, while FRE margin expanded over 100 basis points to the highest level ever for a full year period. And net realizations grew dramatically in 2025, up 50% to $2.1 billion.
+
+Meanwhile, the firm's extraordinary breadth lifted AUM up 13% year-over-year to $1.275 trillion. At the same time, all of our key operating metrics accelerate in 2025, inflows, capital deployed, total fund appreciation and realizations. Net accrued performance revenues on the balance sheet or store value increased 7% in 2025 to $6.7 billion.
+
+The foundation of future value for the firm continued to expand, even as the pace of monetizations increased, and all of this during a period where the significant underlying earnings power of our real estate business has yet to reemerge.
+
+The fundamental driver of this positive momentum is, of course, investment performance. Our funds overall delivered strong returns in the fourth quarter and in 2025. Infrastructure led the way with 8.4% appreciation in the quarter and a remarkable 24% for the full year.
+
+The corporate private equity funds appreciated 5% in the fourth quarter, with particular strength in the public portfolio and 14% for the year, supported by high single-digit revenue growth at our operating companies and resilient margins. BXMA reported a 4.3% gross return for the absolute return of composite in the fourth quarter and 13% for 2025.
+
+BXMA has delivered positive composite returns for the last 23 quarters, as Jon noted, and in each of the past 33 months. which is driving strong inflows and the segment's fifth consecutive quarter of double-digit year-over-year AUM growth in the fourth quarter.
+
+In credit, our noninvestment grade private credit strategies reported a gross return of 2.4% in the fourth quarter and 11% for the full year, reflecting stable underlying credit performance. Our $160 billion-plus global direct lending portfolio specifically, realized losses were only 11 basis points over the last 12 months.
+
+In real estate, overall values appreciated approximately 1% in the fourth quarter and 1.5% for 2025. In Q4, continued significant strength in data centers was partly offset by headwinds in certain areas, such as life sciences office and U.K. student housing.
+
+In total, our real estate portfolio remains well positioned, with 75% of our global equity holdings concentrated in data centers, logistics and rental housing. Re-sectors supported by very positive long-term fundamentals, as Jon discussed. At the same time, our real estate credit business continues to report outstanding performance with our noninvestment-grade funds appreciating 17% for the full year including 2.8% in the fourth quarter.
+
+Moving to the outlook. The firm is advancing with significant momentum across multiple drivers. We expect management fees to continue on a strong positive trajectory in 2026, underpinned by robust growth in the private equity credit and insurance and multi-asset investing segment with real estate management fees consistent with Q4 levels in the near term, along with a strong contribution for our capital markets business in 2026.
+
+Meanwhile, the continued expansion of our platform perpetual capital strategies, overall, is widening the aperture for generating fee-related performance revenues. In terms of net realizations, the backdrop has become much more constructive as you've heard this morning, while we will not have the onetime benefit of the sale of our Resolution Life stake and our software platform Bistro, we expect a strong year ahead, particularly with respect to our drawdown fund business with activity building as we move through the year. Overall, our embedded value and realization potential are significant, and we are very optimistic in the multiyear outlook for this.
+
+So in closing, in 2025, the firm delivered robust financial performance in the face of a complex external environment. And as we look forward, with powerful structural tailwinds and multiple engines of growth, we strongly believe the best is yet to come.
+
+Thank you for joining today's call. We'd like to open it up now for questions.
+

@@ -1,0 +1,181 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] We'll take our first question from Bill Ryan with Seaport Research Partners.
+
+William Ryan
+Seaport Research Partners
+
+Congratulations, Steve. First question is on the credit metrics of the private legacy portfolio. Obviously, a big question among investors is about reserve adequacy and there's been some deterioration since you took the charge in the third quarter. Could you maybe walk us through what you saw over the course of the quarter that prompted you to bump up the reserve rate or build the reserves for that portfolio and the provision and some idea of what the ending reserve rate on the legacy portfolio is? And I have one follow-up.
+
+David L. Yowan
+President, CEO & Director
+
+Bill, thanks for your comments. Let me start out by providing some context of the -- what we've seen across our portfolios over the last 2 quarters and the actions that we've taken to respond to those. If you go back to the third quarter, we conducted a comprehensive review of the assumptions underlying the life of loan cash flows for our legacy portfolios. When we did that, we made assumption changes around the level of prepayments that we're seeing in both the FFELP portfolio and the private legacy portfolios. Those assumptions extended the life of the portfolios significantly in some cases. We also looked at the default and delinquency experiences that we've had over the preceding recent history and we made some adjustments based on what we had seen there about the life of loan cash flows. We also made some assumption changes about future financings that impact the periodicity and the amount of the life of loan cash flows.
+
+So we did that all in the third quarter and cumulatively and in isolation from everything else that was going on in the portfolio, those assumption changes increased our expected life of loan cash flows by a little less than $200 million. As we went into the fourth quarter, the recording that you see there really reflects 2 things. One is, there was a deterioration -- a further deterioration in the macroeconomic scenario. That deterioration impacts all portfolios and represents about 20% of the back book provision that we're taking this quarter.
+
+The rest of the back book provision is almost exclusively focused and related to the private legacy portfolio. These are loans originated more than a decade ago, where we did see the sequential increases in delinquency rates that Steve described for you. Those delinquency rates are in the Consumer Lending segment, which includes private legacy, refi and in-school as well. If you look into the segments there, the delinquency increases were almost exclusively focused in private legacy. And so our provision expense responds to what we saw in the fourth quarter with what we think is an appropriate provision.
+
+I think Steve can talk about the end of quarter reserve levels, which is the second part of your question.
+
+Stephen Hauber
+Executive VP & CFO
+
+Yes. On the reserve coverage, we ended the year in the mid-3% range. I think the way to think about that, clearly, that reserve coverage will shift over time as the mix of our portfolio for private changes with more of the portfolio centered around refi. And so when you think about the 3.5%, it's a blend, similar to what Dave was saying, as we look at the statistics in the Consumer Lending segment, similarly, you have that blend and mix issue with the refi and legacy. But 3.5% is the amount we're at year-end.
+
+David L. Yowan
+President, CEO & Director
+
+If you look today, Bill, over half of the private legacy portfolio is refi, that percentage given where we're originating and where we're rolling off is only going to increase into the future. And so NIM reserve ratios, et cetera, are migrating more towards the representative of the refi portfolio and less of private legacy on a segment basis.
+
+William Ryan
+Seaport Research Partners
+
+Okay. And one follow-up, more of an accounting-related question. Obviously, the $4 billion origination is above the consensus. I believe it's somewhere between $3.4 billion and $3.5 billion. And you noted that the growth investments included the expected CECL charges, you're out looking for a fintech-type CFO. Has there been any internal discussion or thought about the use of fair value accounting? Obviously, that would kind of like alleviate some of the pressures that you're facing as it relates to the CECL tax and puts you on a level playing field with several of your peers that have already adopted that accounting methodology.
+
+David L. Yowan
+President, CEO & Director
+
+Yes. Bill, we're certainly looking at others in the space that have utilized fair value accounting. We're not ready to announce that at any -- certainly at this point in time but it's certainly something that's on our radar screen, is what I would say.
+
+Operator
+
+We'll take our next question from Jeff Adelson with Morgan Stanley.
+
+Jeffrey Adelson
+Morgan Stanley, Research Division
+
+It's nice to see the origination guide and you make reference to this additional $1.5 billion. I guess I'm just curious with -- given the opportunity you've got ahead, I know you're still maybe piloting in the personal loan space here but you do have this nice PLUS opportunity ahead. I'm curious if, #1, you've continued to do any work or any findings you can share with us on what you think that PLUS opportunity could be for you ultimately maybe on an annual basis? And just in light of the acceleration in originations and that PLUS opportunity, you still do have this runoff overall in the portfolio from the legacy in the FFELP book. Just kind of curious like how you're thinking about eventually returning to positive loan growth, positive top line growth and how long that might take at this point in your view?
+
+David L. Yowan
+President, CEO & Director
+
+Yes. Thanks for the question, Jeff. There's a lot there. I'll try to address all parts of it. Look, the personal loan launch, we did manage to a cross-sell launch in the fourth quarter. We've also begun to go outside our existing customer base. We're very much -- it's too early to call or share any results from that other than to say that we're achieving the testing and learning that we set out in the initial launch and we're encouraged by the initial results. Even if we address our less than $100 million that we've talked about, it's still going to be a pilot year for us in 2026. And so it's not going to impact our financials in any meaningful way in 2026. The PLUS opportunity, we sized that for '26 in the November presentation at around $3 billion, I would say that '26 is clearly a year of transition and I think you're seeing this from others in the industry as well.
+
+I think there's a high degree of variability and uncertainty about exactly how that -- how long that transition period is going to be and exactly what the market opportunity are. We're very excited and confident about our ability to grow that book of business at more than 50% in 2026 and we're very focused on that. In terms of the runoff and the mix, I think Steve provided some -- an interesting comment in his remarks. I don't know this for sure but it may be the first time in a while but the balances in the private legacy portfolio are actually going to be stable year-over-year. So we're originating loans that is more than offsetting the runoff of private legacy and other portfolios as well. That's been a long time coming, as I'm sure you can appreciate in the loan growth that we are projecting and targeting for this year, which we have a lot of momentum.
+
+You can see in the fourth quarter, it was our best quarter ever at Earnest. One of the things for the year, one of the things that we are seeing is an increased interest from federal borrowers to refinance. If you go to the November presentation, as well in the appendix, we showed some of the interest rates that are associated with federal lending over the last few years. There's opportunities for customers to lower their rates and for us to make high-quality loans. We continue to see that into January. And so we're very optimistic and confident about our ability to continue the momentum on that loan growth in that particular product.
+
+Jeffrey Adelson
+Morgan Stanley, Research Division
+
+Okay. Great. And maybe you could just touch on any of the early conversations you've been having with some institutions regarding some more formal whole loan sale or flow programs. I know you're already executing on the securitization strategy in a more capital-light manner but just any sort of expectations around potential for loan sales from here?
+
+David L. Yowan
+President, CEO & Director
+
+Yes. Look, I think we've said consistently and so I'll continue to say that we feel like we have a number of opportunities, channels for us to distribute loans, both the loans that we're making today as well as any potential expanded opportunities that we can find as we leverage the platform at Earnest. Right now and you could see this in the slides that we -- that Steve referred to, securitizations in 2025 for us were an incredibly -- for us, an incredibly capital-efficient way for us to finance the production of refi and in-school as well. The initial equity requirement is lower by a significant percentage and is a just a fraction of what the legacy portfolio has required in terms of equity capital and unsecured capital.
+
+And so given the economics of securitization and our ability to finance them, that's why we've continued to, throughout 2025, have a make and hold strategy and that's why our target is to continue to have that. If the relative economics of securitization and loan sales and flow agreements change, if the -- if we identify origination opportunities that have a better source of capital than the securitization market that we have, then we feel confident in our ability to pivot and take advantage of the opportunities that those different financings present.
+
+Operator
+
+We'll take our next question from Terry Ma with Barclays.
+
+Terry Ma
+Barclays Bank PLC, Research Division
+
+I want to talk about credit. You guys so far have highlighted just the delinquency trends in the legacy book, kind of talked about the reserve associated with that. But when I look at the private refi book, there's also a noticeable uptick in delinquencies there, for 90-day delinquencies is about 20 basis points year-over-year. It looks like it drove the bulk of the dollar increase in 90-day delinquencies for the total book. So maybe just kind of talk about what you're seeing there with respect to credit performance. And then since you're kind of leaning into originations there, maybe just talk about reserve adequacy and kind of like direction of travel for credit metrics for the private refi book.
+
+Stephen Hauber
+Executive VP & CFO
+
+Yes. Thanks, Terry. I think in terms of refi and what we're seeing, we are seeing -- did see a slight uptick in delinquency levels from year-end and from last quarter. We feel really good about our overall position with refi. What we see there, of course, is on an absolute basis, very low delinquency rates. We've seen signs and have expectations that, that will improve as we move forward here. I think also important to reference on refi would be the high quality of the loans that we originated in 2025, which is also what we saw in 2024. And so we're feeling good about that. And in terms of the reserve levels for refi, that was part of when we did our review back in the third quarter. We did make adjustments to refi to add to the reserve levels there modestly. Feel good about that being the right level of reserves going forward for refi and still thinking about that refi book being on a life of loan basis below 2% in terms of lifetime losses.
+
+Terry Ma
+Barclays Bank PLC, Research Division
+
+Got it. And then maybe just on the origination outlook. I may have missed it but you called out 50% upside for -- or increase in in-school originations. Your business there has kind of outgrown the overall growth in the market the last 2 years. But as to the material step up, are you seeing -- what's driving the incremental opportunity? Is there something changing in competitive dynamics? Or are you just kind of going after the market more aggressively?
+
+David L. Yowan
+President, CEO & Director
+
+Yes. So we're coming off -- 2025 was the best year we've had in in-school since we entered that marketplace 5 or 6 years ago. So we have a lot of momentum in that space, just based on the organic customers that we serve. And obviously, the additional opportunity from Grad PLUS, even in a transition year, which 2026 is, gives us confidence that we can accelerate the growth rates in that particular product. That's why you see the 50% increase there.
+
+Operator
+
+We'll take our next question from Rick Shane with JPMorgan.
+
+Richard Shane
+JPMorgan Chase & Co, Research Division
+
+A couple of things. I guess it's all related. You expect to grow the private book in '26. You have about $525 million in maturities on the debt side. Over the last decade, you guys have been very disciplined about returning capital to equity holder -- using cash flows to return capital to equity holders and consistently paying down debt. As the strategy transitions and you start to at least grow the private book, you talk about being opportunistic in terms of equity repurchases. What does that look like? Obviously, you're trading at a huge discount to tangible book, assuming yesterday's close. So opportunistic seems to be there today. Should we expect sort of consistent purchases in '26 with the levels we saw in '25?
+
+David L. Yowan
+President, CEO & Director
+
+Yes. Thanks, Rick. Look, we're not signaling any change in the way we're thinking about share repurchase. I think you summarized it well in terms of what we've been doing from a capital management perspective. The one thing I would say is that as you think about '26 and you think about the share authorization that we received from our Board last December in the fourth quarter, which was $100 million, the -- as the share count has come down significantly over the years, the amount of share repurchase has declined as well overall. The opportunistic is, in fact, based in part on the valuation of the shares and we continue to believe that the discount to tangible book value provides an opportunity for us to repurchase. So same strategy scaled to the size of the share repurchase authorization that you saw, which is scaled to the overall size of market cap and shares outstanding in the company.
+
+Richard Shane
+JPMorgan Chase & Co, Research Division
+
+Got it. Okay. Appreciate that. And I would be remiss not to congratulate Steve and also equally importantly, not to thank Joe for all of his conversations and help over the years as well. So thank you guys and congratulations.
+
+Operator
+
+[Operator Instructions] We'll take our next question from Caroline Latta with Bank of America.
+
+Caroline Latta
+BofA Securities, Research Division
+
+So the guidance slide says it reflects the current outlook. So what are the macro assumptions underpinning the guide specifically in terms of unemployment rate? And then also in terms of interest rates, thinking about refi volumes next year -- or this year, sorry?
+
+David L. Yowan
+President, CEO & Director
+
+Caroline, thanks for the question. Look, they're -- I don't have them right in front of me but you could think of those as really like the blue chip consensus for unemployment and interest rates. We don't have an in-house economist. So we're relying, as many firms do, on some of the providers of those scenarios. I know Jen could provide those to you offline but it's really a consensus macroeconomic assumption for next year.
+
+Operator
+
+We'll take our next question from Sanjay Sakhrani with KBW.
+
+Sanjay Sakhrani
+Keefe, Bruyette, & Woods, Inc., Research Division
+
+Can we go back to the deterioration in the private legacy portfolio. I'm just curious like what exactly is driving deterioration on loans that were originated a decade ago? And I'm just curious like, is it that those students or those consumers are now seeing job loss? I mean what's the driver of the higher delinquencies there?
+
+Stephen Hauber
+Executive VP & CFO
+
+Yes. Thanks, Sanjay. I think it's probably important for us to zoom out a bit and some of what Dave was talking about earlier when we did our third quarter review. Our private legacy portfolio, which, as you know, was originated more than a decade ago. It's a portfolio that has gone through some cycles. And so clearly, there's a strong component of that portfolio that's been making payments consistently. You have other borrowers who have struggled at times and we've been there to help them with payment programs and the like as we manage through things. If we go over the course of the year, it's clearly going through the pandemic -- the pandemic relief cycle, the return to repayment cycle with many of these borrowers having federal loans as well, it's put them through some changes and some challenges there.
+
+I think what we're seeing here is that the performance quarter-to-quarter, even though it slipped, we're seeing positive momentum in terms of those borrowers getting on track and heading into 2026. We're optimistic that, that will -- that those trends will improve. I think in terms of now, really what's affecting borrowers, I mean, clearly, there's a variety of factors, including those I mentioned, there's also macroeconomic factors, inflation and the like. But I'd say in terms of just how we're sizing it up in general, I think it's just important to remember kind of the cycle they went through. And now that we're past a lot of that kind of the positive momentum that we expect to see going forward.
+
+Sanjay Sakhrani
+Keefe, Bruyette, & Woods, Inc., Research Division
+
+Okay. Great. And then I know you guys didn't really like kind of give a whole lot on the outlook for NIM and provisions. I'm just curious, as we think about those other components for 2026, is there any way to contextualize sort of the path for NIM because it was a little bit weaker than we had anticipated for both FFELP and consumer lending. And then obviously, kind of what's being baked into provisions given some of the delinquency trends and the growth differences that you talked about.
+
+Stephen Hauber
+Executive VP & CFO
+
+Yes. So first on the NIM side of things, for the FFELP portfolio we're expecting relatively stable NIM, given the slowdown in the prepayment of the FFELP loans. So year-over-year, I'd expect that to be relatively consistent. In terms of the private or the consumer lending side, the -- what we saw in the second half of 2025 is a good barometer for 2026. And clearly, what we're seeing there is, with the portfolio remaining stable or increasing slightly in 2026, that's a positive. The mix of the portfolio towards more refi is -- goes the other way in terms of overall margin. So it's a -- I'd say it's a relatively stable outlook there as well. In terms of provision, what's in the forecast here is provision on new originations. And obviously, our reserve levels that we have at the end of the year are what we expect going forward. So really, that's what the provision entails for 2026.
+
+Operator
+
+We'll take our next question from Mark DeVries with Deutsche Bank.
+
+Mark DeVries
+Deutsche Bank AG, Research Division
+
+As we look out to 2027, should we expect the same level of net incremental growth investments, which you called out is weighing on the '26 earnings expectations by $0.35 to $0.40 a share? Or does that -- is that kind of trail off?
+
+David L. Yowan
+President, CEO & Director
+
+Mark, thanks for the question. Look, we're focused at the moment on '26 and trying to execute against that. I think if you go back to the November strategy presentation, Earnest is now very focused on some products that have particularly high growth rates, high addressable TAMs. The personal loan product is going to be in pilot in 2026. And we're encouraged by the opportunities there and trying to test and learn and make sure we can understand where we can best take advantage of that highly addressable TAM. The refi market has -- every year, there's federal loans that are being made in significant amounts that add to the addressable TAM in that market and the expansion of the Grad PLUS opportunity. So there's lots of room for growth. We're not here to give a 2027 outlook. But if you just look at those 3 products that we have, the addressable market and the market expansion opportunities, we think are large and sustainable as well. So I'd sort of leave it at that for 2027.
+
+Operator
+
+At this time, there are no further questions in queue. I would now like to turn it back to Jen Earyes for closing remarks.
+
+Jen Earyes
+Head of Investor Relations
+
+Thanks, Angela and thank you, everybody, for joining today's call. Please contact me if you have any follow-up questions. This concludes today's call.
+
+Operator
+
+Thank you. This brings us to the end of today's meeting. We appreciate your time and participation. You may now disconnect.

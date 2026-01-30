@@ -1,0 +1,223 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from the line of Mig Dobre with Baird.
+
+Mircea Dobre
+Robert W. Baird & Co. Incorporated, Research Division
+
+The thing that obviously stood out most in the quarter was just the very impressive order growth and backlog growth that you have had. And I guess my question related to this maybe twofold.
+
+First, can you comment a little bit about what's happening in some of the other segments outside of maybe E&P or power generation? And then as you sort of think on a go-forward basis, if I understand correctly, you've got roughly $20 billion of backlog that is not going to be delivered in the near term.
+
+And it sounds like this figure might further grow as we think about Q1. So how do you think about these deliveries that now are stretching into '27 and beyond? And I'm asking through the lens of price cost, making sure that you are ensuring that you have the profitable margins and the proper pricing given how volatile just the cost picture and the tariff picture has been?
+
+Joseph Creed
+CEO & Director
+
+Mig, this is Joe. Thanks for that question. There's a lot in there. I'll try to get -- make sure I get to most of them. So we are really excited. I'm really excited about how we finished the year with our backlog at $51 billion, that's 70% higher than year-end prior and $11 billion higher than where we finished the third quarter.
+
+So as you suggest, I'll talk about it and frame it in the way of order rates that we saw in the fourth quarter, and they were strong in all 3 segments. It's not just Power and Energy. CI had one of its best quarters from an order standpoint, ever supported by both a growing industry that we think, confidence in the industry in '26 from us and our dealers and strength in our SKUs.
+
+We've continued to outperform the industry, and we hope to try to do that again here in 2026. I'd say for CI as well, just keep in mind, we're also returning to a more normal seasonal pattern. So the selling season coming in the spring and us getting ready for that. We entered 2025 at a much slower pace. And so we're getting back to more normal seasonal patterns in CI.
+
+RI had a great order run rate in the quarter. It's one of the best quarters since 2021 that we've seen, and that's supported by strength in heavy construction in North America as well as some good mining orders, particularly in South America related to copper mining. And then obviously, Power and Energy had a really strong order intake quarter as well.
+
+Power generation continued to be strong. We're seeing more deals, a little more mix into prime power, like the one that we announced yesterday, which obviously wasn't in this backlog figure. It will come in, in the first quarter. We've had 4 now prime power orders of greater than 1 gigawatt, and we've had a handful of other sizable orders that were less than 1 gigawatt. The other thing there is we're seeing strong orders in oil and gas, particularly for gas compression.
+
+So the more power that is needed out there, we're going to move a lot of gas. We have to feed turbines and engines to continue to provide that power. So we had a really, really strong quarter from an order standpoint. And again, it was strength across the board.
+
+When it comes to visibility farther out, I think that's a good thing for us. One of the things that we're trying to do, particularly, most of that's in Power and Energy is work closely with our customers to schedule their orders in our factory to deliver when they need them in their project timing. And what that allows us to do is make sure we're not sending things ahead of time and we can satisfy more customers and make sure every order gets to the customer when they need it.
+
+Obviously, as you suggest, we're taking orders farther out. For those type of orders, we have frame agreements for a lot of customers. Those will have inflationary indices tied in there for pricing. And for non-frame agreements, we usually have escalators if they're out past the normal 12-month type period.
+
+So again, really, really happy with the order performance that we had in the fourth quarter and the outlook that we have ahead of us.
+
+Operator
+
+We'll go next to Michael Feniger at Bank of America.
+
+Michael Feniger
+BofA Securities, Research Division
+
+Just the 50 gigawatt of power by 2030, that number you guys provided at Investor Day, can you just give us a sense where that kind of finishes end of '26 and '27? And the genesis of the question is there's always worries that with everyone raising capacity, if data center slows, do we get into an overcapacity type of market, how much of this 50 gigawatt is going into other markets outside of data centers, energy, gas compression, downstream?
+
+And when you're booking these orders, I know Mig talked about pricing, but how are you also thinking about terms and conditions, service agreements, if prime moves to back up? Just how are you guys thinking of also preparing yourself for down the road as you've seen boom and bust in the past?
+
+Joseph Creed
+CEO & Director
+
+Yes. Thanks, Mike. So when it comes to the capacity increase, we obviously work -- all of our industries kind of work with our customers and figure out what the forecast is. So there can be puts and takes, forecasts move around. But what we've sort of gauge the capacity we need based on what we see in all industries.
+
+We're going to make sure -- like I said, we're going to move a lot of natural gas in the next few years, so we're going to make sure we take care of our oil and gas customers as well as power generation. And I think rightfully, as you point out in there, some of the things that are also in that capacity, it's not all just assembling finished product, right?
+
+There's supply base and there's components, machining and component capacity for us to make sure we can grow services. So when we take prime power or gas compression applications that run continuously, right, those will hit overhaul cycles, and those are great services business for us. So we need to make sure we have capacity in place to do that as well. So all that's taken into consideration. We have -- we're on schedule. We were able to ship a little bit more at year-end in our large engine facility than we anticipated, which is a great thing.
+
+We need to be able to sustain that throughout 2026, and we expect a big chunk of capacity, the first real big step up to come towards the end of this year and heading into 2027. And then the turbine investment started a little later, it will start to come on a little bit after that.
+
+So we continue to stay close to our customers. I mean we talk to hyperscalers and large data center customers weekly and make sure we stay in line with their plans. And like I said, we're starting to take orders farther out, and I think that's a good thing.
+
+Operator
+
+We'll go to our next question from David Raso at Evercore ISI.
+
+David Raso
+Evercore ISI Institutional Equities, Research Division
+
+I'm trying to reconcile the sales guide for '26, right, the roughly 7%. If you look at the backlog that ships in the next 12 months, on a year-over-year basis, it's up about 44%. The orders for backlog that ships in the next 12 months are up 36% and your view of retail being up in '26. Just trying to understand why such a low sales growth given the order momentum, the size of the backlog and you see retail up in '26.
+
+And if you can indulge me just a clarification, maybe I missed it. The tariff impact, the $800 million, does that include expected pricing for '26 netting against a gross number? Or is it before any pricing actions?
+
+Andrew R. Bonfield
+Chief Financial Officer
+
+Yes, David. So first, let me answer the second part of your question. That is -- it does not take into account any pricing actions. The 2% pricing action we talked about is completely separate. So this is just the incremental cost that we -- dollar costs that we will actually incur or pay for tariffs in 2026.
+
+And then when you talk about the backlog and the sales guide, the one thing I'd just point out to you, and Joe mentioned it was last year, if you remember, we actually did, particularly in construction, there was a very low -- there was no -- virtually no increase in dealer inventory in the first quarter, which was unusual. So one of the factors that you have to take into account when you're looking at backlog is the fact that obviously, CI's backlog is stronger, but part of that is for the -- and machines for the $1 billion-plus increase in dealer inventory that we expect in the first quarter, which is a difference versus the prior year. So that's one factor.
+
+Overall, just to remind you that in Power and Energy, we are capacity constrained. Obviously, we are basing our estimates based on the capacity we have today. As Joe mentioned, we are obviously trying and we managed to build -- bring a little bit earlier online. But obviously, that is not certain at this stage. So obviously, if we are able to bring something on, there will be some upside in the second half of the year.
+
+Operator
+
+We'll go next to Tami Zakaria at JPMorgan.
+
+Tami Zakaria
+JPMorgan Chase & Co, Research Division
+
+So the AIP announcement last night, could you give some color on what the battery energy storage system opportunity could be for an order of that magnitude in addition to recip engines? Could it be half and half, 25-75, 75-25? Or any color on the revenue mix between engines and [ BES ] would be helpful. And related to that, do you have enough capacity for [ BES ] products? Should there be more deals like this?
+
+Joseph Creed
+CEO & Director
+
+Tami, most of that order is going to be in generators and natural gas generators. I think you saw as part of the Joule, it's a complete system, similar to Joule. So when we do have batteries in there, it's a small portion of the overall total. So most of it is gas generator sets. And as far as capacity goes, that's all part of our capacity planning.
+
+So we feel like we can continue to keep up with the growth in prime power and hopefully continue to see more mix shift that way because, as we said, that would help from a services standpoint, and we'll have to look at components further out because it would obviously even be more upside to services in the kind of 3 to 5 years after delivery of those gen sets. So exciting opportunities for sure.
+
+Operator
+
+Our next question comes from Chad Dillard at Bernstein.
+
+Charles Albert Dillard
+Bernstein Institutional Services LLC, Research Division
+
+A couple of questions for you on prime power. So for that application, what's the future role of backup diesel generators versus BES? When you're talking to the customers, like how are you thinking about how that evolves over the next several years?
+
+And then also with regard to your capacity ramp in power gen, do you think you can keep the revenue momentum growing in '26 versus '25? I think it was up 30%. Or should we be anchoring more towards that 20% CAGR that you've laid out for power gen?
+
+Joseph Creed
+CEO & Director
+
+Yes. A couple of questions there. I think the last one first, as Andrew stated, it's not a demand issue for us. It's really going to be, can we bring on supply faster. Kind of what we have in that revenue guide now is what we have high confidence in. If everything turns up heads, remember, it's not just us. We have to bring our supply base along with us. We're going to get out as much product as we can.
+
+And obviously, that would provide a little bit of upside if we can continue to outpace our current plans for bringing the capacity online. When it comes to these prime power applications, most of what we're seeing so far is still having backup power and they're also with gen sets, not with batteries.
+
+In fact, in these -- they're using our fast-start gas gen sets for backup power versus diesel when they do a couple of the big orders we've seen for gas prime power. So right now, we're not seeing 100% battery backup. It's mostly generators.
+
+Operator
+
+We'll move next to Jamie Cook at Truist Securities.
+
+Jamie Cook
+Truist Securities, Inc., Research Division
+
+Congratulations. Sorry, Joe, another question on backlog, just given the strength. Was there anything sort of onetime in that backlog growth number or a pull forward perhaps an announcement that you weren't able to press release, your understanding the AIP that goes into next quarter.
+
+But just wondering if there's a pull forward in your understanding there'll be lumpiness quarter-to-quarter, but do you still see an expectation where you can grow your backlog double digit as we exit 2026 for the full year?
+
+And then just again, the growth you're seeing, is there any way -- do you think you're outgrowing the market for whatever reason, competitive positioning, product, dealer? I'm just wondering if you're getting a greater share of the market relative to your peers.
+
+Joseph Creed
+CEO & Director
+
+Yes. Thanks, Jamie. As far as orders in the quarter, on your first question, I think nothing of significant note where we had something that we couldn't announce. I would -- there are a couple of things outside of Power and Energy. We talked about CI and the seasonality. I would also say the strong orders in RI, again, those are -- RI can be a lumpy business, and those orders come in, in big orders, and it's not steady.
+
+So we're happy to see the orders that came in. I don't know that you can count on repeat every quarter of that. As we exit, we'll see where we exit this year, right? We want to ship a lot of product. And I appreciate you asked this question last time as well. The backlog is a nuanced number. We need it to go up because we're adding capacity and other things.
+
+But if I can slow that growth in the backlog because I can significantly get more product out, while orders are still increasing, that's obviously a good thing as well. So we're focused on winning as much of the business as we can.
+
+We outpaced the industry in CI. I think we are definitely a market leader in power and energy for what we provide in that space just from a scale standpoint. So -- and we have the widest offering below 38 megawatts between turbines and engines and burn a lot of fuel.
+
+So we feel really good in our competitive position. From a lead time standpoint, they are extended, but still we're able -- we're one of the fastest solutions out there for data centers who are trying to get up and running quickly. So we'll see how the year plays out, but we have great momentum, and I'm hopefully -- and planning on and expect the momentum to continue throughout this year.
+
+Operator
+
+Our next question comes from Jerry Revich at Wells Fargo.
+
+Jerry Revich
+Wells Fargo Securities, LLC, Research Division
+
+I'm wondering, Joe, if you could just talk about for the turbine business, you have spoken about potential for it to be used in some [ peaker ] plant applications by utilities. Any update on how those conversations are tracking when we might see those use cases?
+
+And then in the prepared remarks, you folks spoke about comparable shipments in '26 versus '25 for turbines, but you're ramping up really significant deliveries in Titan 350s, I thought in '26 versus '25. So I just want to make sure I'm not missing any outsized shipments in the fourth quarter or any other moving pieces there?
+
+Joseph Creed
+CEO & Director
+
+Yes. I mean we're seeing most -- the 350 first units have gone out, and we're trying to ramp 350. So it's relatively new product that's going out there. So solar had a record year in 2025. We expect something comparable in 2026. We announced the capacity increase for solar. But again, we just announced that middle of last year, late last year. So that's not going to really have a significant impact into 2026 results. I think we'll see a mix to the larger frames like the 350 as we're shipping a few more of those in 2026 as well.
+
+And then we continue to work all the deals that we can for power, and we're seeing -- traditionally, Solar's business has been very heavy weighted towards oil and gas. That business is still really strong, but now we're starting to see more of the mix shift into power gen as well. So we're anxious to get that capacity program moving along, and we'll provide updates as we move throughout it. We'd love to get more product out. But right now, that's what we have line of sight to in 2026.
+
+Operator
+
+Our next question comes from Rob Wertheimer at Melius Research.
+
+Robert Wertheimer
+Melius Research LLC
+
+So the project scope at the Monarch data center looks interesting. And I wonder if you could give us a mini education. I think that they're going to use the waste heat from the Cat engines to provide cooling to power chillers.
+
+There's been an argument that combined cycle in conjunction -- combined cycle turbines with steam turbine attached or higher efficiency. I don't quite know how to compare the efficiency with this. But obviously, using the waste heat is good. And at Joule, I think there was backup diesel with prime recips and gas. In this case, I think are you just over sort of overbuilding the gas recips and there's no diesel involved?
+
+And last question, just do you get a lot of inquiries on this sort of thing? Or is there a robust kind of quoting and activity pipeline behind it?
+
+Joseph Creed
+CEO & Director
+
+Rob, I need my engineers or Jason to talk to you on the technical specs of it. But as you're looking at customers who are wanting speed to market, bringing your own power is definitely one of the ways that they can do that, and we can support them.
+
+And I think once you make that decision to go to gas, prime power and kind of have your own mini power plant there with the gen sets, we've been able to sit with them and say, okay, let's make it as efficient as possible. So obviously, if we can use the heat to help with the cooling and use that energy on site, it makes the whole project more efficient and the competitiveness of it much better from a financial standpoint. So we continue to work with all of our customers on that. And I think we'll continue to make headways. We also announced partnerships with Vertiv.
+
+We're trying to find ways to make these solutions as cost effective and efficient as possible for our customers. And we're having a lot of these discussions. Joule, I think, in the early days, if I'm not mistaken, was diesel backup, but then switched to actually gas-fired fast-start backup power as well. So all natural gas. And I think the latest one is natural gas as well. So that's one of the great things about our portfolio. We -- up to 38 megawatts, we have all sorts of different solutions, and we can configure it however is best for that customer site, what type of fuel availability they have and the size and what they're trying to do to make it the most efficient.
+
+So we have a team that really sits with customers and has turbine experts and recip experts on it. We have a lot of microgrid experience, and essentially, that's what these are. And so we're working with customers to put the best solution forward. And I think it's going to be exciting. We have more and more discussions around it daily.
+
+Alex Kapper
+Vice President of Investor Relations
+
+Audra, we have time for one more question.
+
+Operator
+
+Today's final question comes from the line of Kristen Owen with Oppenheimer.
+
+Kristen Owen
+Oppenheimer & Co. Inc., Research Division
+
+I'm going to ask a real question on Construction Industries. And just help us unpack some of the demand drivers that you're seeing there. How much of this is just a return to a normalized replacement level? How much of this is actually supported by data center activity? And how much should we expect is embedded in your market share growth for 2026?
+
+Joseph Creed
+CEO & Director
+
+So I'll make some comments, Andrew, you can chime in here, but we expect North America to continue to be strong. Obviously, the data center build-out is not just good for power and energy. That drives a lot of construction activity as well.
+
+There are a number of other construction projects moving along. And as we said in our prepared remarks, we continue to see that strength here in North America. IIJA spending still continuing to go on.
+
+The Middle East, in particular, continues to be really strong. And then we expect -- China has been really low, and we'll see -- hopefully see some positivity there in above 10-ton excavators coming off of low levels as we enter into this year. From a competitive standpoint, we made great progress and we're able to outperform the industry last year with the strength of our merchandising programs.
+
+We have exciting things to continue to roll out. We continue to work on our rental strategy with our dealers. We'll have some things to share at CONEXPO as well when it comes to our BCP equipment and the smaller part of the CI lineup, which has a ton of momentum in the industry. So we feel pretty good about our ability in CI. It is -- some of that order strength is getting back to that more normal seasonal pattern, but we have great confidence around the industry and where it's heading.
+
+So with that, I want to thank you all for joining us today, and we appreciate your questions and interest in Caterpillar. I'm really proud of our team. We had exceptional performance in 2025 as they delivered record sales and revenues, adjusted rating -- adjusted operating profit margin that was within our range and robust MP&E free cash flow. These results demonstrate the strength of our end markets and our team's disciplined execution. So with a record backlog, we entered the new year with strong momentum and a continued focus on delivering long-term value for our customers and our shareholders.
+
+Now I'll turn it back to Alex.
+
+Alex Kapper
+Vice President of Investor Relations
+
+Thank you, Joe, Andrew and everyone who joined us today. A replay of our call will be available online later this morning. We'll also post a transcript on our Investor Relations website as soon as it's available. You'll also find a fourth quarter results video with our CFO and an SEC filing with our sales to users data. Click on investors.caterpillar.com and then click on Financials to view those materials.
+
+If you have any questions, please reach out to me or Rob Rengel. The Investor Relations general phone number is (309) 675-4549. Now let's turn it back to Audra to conclude our call.
+
+Operator
+
+That concludes our call. Thank you for joining. You may all disconnect.

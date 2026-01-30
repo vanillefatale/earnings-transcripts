@@ -1,0 +1,215 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions]
+
+We'll take our first question from Adam Wood with Morgan Stanley.
+
+Adam Wood
+Morgan Stanley, Research Division
+
+Maybe if we go to, I guess, the main focus for investors on the CCB at the end of the year. You spoke obviously at the end of the year of 25% being disappointed -- being disappointing, which is unfortunately where we ended up. Could you maybe talk us a little bit through the end of the fourth quarter close? Was it entirely that you had these large deals with later ramps and deals with cancellations clauses in them? Or did you also see some slippage? And maybe if that was also the case, could you help us with what the pipeline looks like going into Q1? Obviously, there was slippage out of a very big Q4, that could mean a very good pipeline for the first quarter.
+
+And then I appreciate you want to give these numbers to the big figure and not to the decimal point. But unfortunately, I think for everybody, the kind of rounding up and rounding down would help. Could you give us any insight into whether 25% and then 26% adjusted for those effects is being rounded down or rounded up?
+
+And then maybe just finally, you talked about slight deceleration. I guess everybody is going to say, well, slight deceleration last year was 4 points. I guess, we could say 3 points organic. Is that the same type of range that people should be thinking about? Because I think that's initially where people would go to.
+
+Christian Klein
+CEO & Member of Executive Board
+
+Yes. Thanks a lot, Adam. So look, let me start with the CCB of 25% as yes, we said in October, 26% would be the target. I mean, first, let me reiterate again. Compared to October, we even had overachieved our bookings plan. And also the churn came out lower than expected, and we also, very importantly, had stable discount rates.
+
+Now why did we end up at 25%? What we have seen is that during the course of Q4, actually, the deal mix has changed. We closed larger deals. And I mean, it's quite standard in -- for a larger customer. Oftentimes in the first year, they are shifting some smaller solutions to the cloud because the larger ERPs, that needs time.
+
+First, to figure out how they would love to run their business processes. We talk about clean core. But of course, there are also a lot of technical things to be figured out before you really lift and shift your most mission-critical system to the cloud. So that was clearly, I would say, the largest factor.
+
+And the second one is actually that we have seen that actually, we performed much better in the public sector. And in some deals, you have a termination for convenience by law. So per se, we are not including this in the CCB. And that was the only mix effect, I would say, we had compared to October.
+
+Again, bookings performance was ahead of plan. Now for some of the larger deals, where there are slippages, I mean, in every quarter, you have slippages. But I would say the execution -- the sales execution was actually -- was really good. I mean some of these larger megadeals what I was mentioning is actually that some of them closed, some of them not.
+
+So clearly, also for 2026, we see actually a better pipeline coverage than when we compare the pipeline now compared to where we were at in 2025. Also, of course, one thing to consider what Dominik also mentioned is sovereignty. I mean in some countries of the world, in some industries, obviously, also deal cycles took a little bit longer. I mean with the geopolitical tensions, customers have more questions around sovereignty and actually, that also then reflects in longer negotiation cycles.
+
+Now for 2026, what means marginal decline or slight decline over the year, definitely not a 4 percentage decline. That is not what we are seeking for. It will be not such a decline like what you have seen in 2025. Also, again, given the strong pipeline what we have now at the beginning of the year, also mentioning -- I mentioned that 90% of deals, which included AI. I mean we see an even better trend for 2026. So you clearly see with BDC and AI, customers are now not only doing RISE to just reimagining their business model and drive to a clean core. We see now in more and more deals that also, of course, AI and BDC is kicking in as another growth driver, also helping, of course, the multiples of these deals.
+
+Operator
+
+We'll take our next question from Charlie Brennan with Jefferies.
+
+Charles Brennan
+Jefferies LLC, Research Division
+
+I'll do 2, if I can. Firstly, everyone is preoccupied with AI at the moment. I think you referred to a EUR 2 billion saving at SAP over the next couple of years. Can you talk to how that's going to flow through the business? Are you going to extract that through natural churn in the organization? Or do we have to think more about, say, another restructuring program? And then as you rewire the business towards a sort of AI age, how much of your R&D today do you think is based on AI-driven tools? And how much of your output today is focused on AI as opposed to some of the core products?
+
+Christian Klein
+CEO & Member of Executive Board
+
+Yes. Talking about our internal transformation, obviously, it's for us super important to also be credible to our customers. And indeed, I mean, all our business leaders already working with actually our product management teams on implementing certain AI use cases. For the EUR 2 billion, that will be reached, obviously, by -- first, we will have a heavily growing business. And with that, we will just under proportionally grow our cost and headcount base. And you will see the efficiencies.
+
+Obviously, in R&D, I mean, this is where the LLM modules alone can do magic on -- especially on the code generation side. But in all other areas, obviously, our own AI foundation is kicking in where heavily also you need business data to build those smart agents who can take over a lot of the work what people are doing today. So today -- as of today, there is no restructuring plan. Obviously, can you rule this out forever? No. But today, I can tell you we're going to achieve that by just scaling our business way more than in the past with AI.
+
+Now on the R&D side, I mean, first, what we did is, I mean, we have great talents in the organization. But obviously, these talents are oftentimes buried in development backlog. So already last year, we lifted and shifted a lot of our AI talents into the work to build the AI foundation to train our foundational module, to build those AI agents. So a lift and shift has already happened. And so for example, the things which are, of course, now becoming less and less is code generation, so we already automated 35% of the code.
+
+And then obviously, that will increase now also again significantly this year. So actually, the profile of a software developer is already changing quite significantly within SAP. Also again, investing and it's not a size of quantity of people, it's really about getting the best people, the best data scientists, the best AI developers on board, to actually build what I just lined out with the 5 growth drivers within AI.
+
+Dominik Asam
+CFO & Member of Executive Board
+
+Maybe on the R&D side, let's not forget that I think one of the challenges we used to face very heavily is the enormous rigorous prioritization of what we are actually developing because there's such a scarcity of topics we can go after versus the -- in terms of opportunities there are. So let's not forget that there is ample of wood to chop, so to speak, on R&D to do things that previously we couldn't do using the modern technologies.
+
+And this is also why in terms of financial model, we stick to our 80% to 90% operating leverage. Yes, we're going to be at the lower end of that in 2026. But the last thing we want to have is putting some mortgages on the top line. We really want to push the top line very hard by aggressively investing. And so we want to use these tools to really push the envelope and secure innovation and top line and to be ahead of the pack.
+
+Operator
+
+The next question is from the line of Frederic Boulan with Bank of America.
+
+Frederic Boulan
+BofA Securities, Research Division
+
+If I can follow up on the AI side. We've seen growing concerns about risks from AI impacting the enterprise SaaS. You made a strong pitch around the kind of software data and agent ecosystem. It would be good to share in terms of AI traction, what percentage of existing cloud customers currently using your AI offering. I mean, it's good to have the kind of 90% of bookings now, including that, but it would be good to see existing cloud customers using the product and give us a range of revenue uplift you're seeing in particular with some of the customers where you've seen earlier adoption.
+
+From a risk standpoint, I mean, a huge amount of concern in the industry about new tools out there. You made a pitch about the relevance of your own models versus commoditized LLMs. But do you see any of your customers starting to use different tools to respond to needs that they were previously addressed by SAP, either in core ERP or across HCM, et cetera?
+
+Christian Klein
+CEO & Member of Executive Board
+
+I can start, Dominik, please also comment. I mean, first on number of customer adoption. As I already said, customer adoption of tool increased by ninefold, which is really significant, starting when I compare this back to 2025 January. And then second, obviously, what we are seeing is, of course, now that we are developing [ new skills, ] more users are jumping on it. Customer is the one thing, number of users. And what we see is actually in the cloud base, a healthy penetration of our AI, around about 60% of our customers are already using our AI actively, 20% are on the way to it.
+
+But also, please not forget, and I know what the market is fearing right now. To give you one practical example -- no, two, what -- in the business world, in order to deliver high-value AI, I mean, let's take code generation. Yes, of course, the LLMs can understand code, can find the patterns, understand how people use the code and actually are super powerful on that.
+
+There is no business data involved. Let's use a German customer. Actually, it started with an LLM to build a cash flow agent. No value because why? The LLM could, of course, read certain e-mail, support tickets and try to figure out why is this customer not paying. But what was completely missing is all the business data, the inventory data, the financial bank statements, the other data on the customer side is there's still a deal ongoing. Maybe that's blocking actually the payment of this customer. So actually, what we did is we used this LLM, we brought it together with our AI foundation and our knowledge graph. And actually, what the customer did, they removed actually over 200 predictive models now, which they built on their own using our AI foundation.
+
+And that example, you can actually replicate to every AI agent in the business world. Second, we won a large deal with H&M. We actually built a prototype for them. I mean -- and that's what they are now going to implement on AI. We show them the personalized shopping experience in commerce, obviously, also using an LLM, but we combine it again with our AI foundation to better understand what did the consumer buy in the past to understand better patterns about what he clicked on the web page, et cetera.
+
+Then we went into returns claims management, also that. We had this industry capability always in our portfolio. Now we are actually reimagining this industry capability with AI, making it smarter, making it more efficient when it comes to returns claims management. So -- and that is a very good example. We closed one of these mega deals I personally was involved in. We didn't win it actually, again, only because, hey, cloud, clean core, that was the thing what we did a year ago. Now we are winning it because last mile delivery. Again, these -- this customer tried to reinvent last mile delivery with an LLM. Again, they were missing business data. We brought it together. We showed them what we can build together with our AI foundation, and they were totally convinced.
+
+So to make this very clear, we are winning deals because of AI. We are not losing deals because of AI. And definitely, these deals are actually now leveraging AI to increase the win rate in Q4.
+
+Dominik Asam
+CFO & Member of Executive Board
+
+Maybe to give a little bit of financial color around that kind of winning deals. I'm always a little bit nervous about how people compare our numbers to the industry. We have a constant currency disclosure, but don't forget, we had a massive devaluation of the U.S. dollar. I think over the year, it was about 13% appreciation of the euro. So our constant currency performance in SaaS, PaaS and there's also a different strategy. I mean, we are not investing massively in infrastructure. Actually, you have seen our infrastructure business decline. Frankly, that decline might slow as the sovereign solutions become more prevalent.
+
+But still, it will -- we will largely leverage third-party infrastructure. And there's a spree of investment appetite right now in this frothy business. So we are not very concerned about lack of opportunities to leverage that infrastructure. Now what we focus on is SaaS and PaaS, and we have delivered in Q4 a whopping 27% constant currency growth for that. If you transform that into comparable U.S. dollar numbers, that's above 30%. Now you have seen some of our competitors, Dynamics and ServiceNow report numbers in Q4, which are hovering around the 20s, I think 19% to 20%. You've seen our largest competitors, some of them not even reaching 10%. And so I'd say that is the evidence that we are actually winning in AI as opposed to losing.
+
+Operator
+
+We'll take our next question from Ben Castillo with BNP Paribas.
+
+Ben Castillo-Bernaus
+BNP Paribas, Research Division
+
+There's lots of positives in here, lots of large deals in the mix, the sovereign cloud opportunity, the high volume of AI in the backlog, record TCB. So that all sounds optically very encouraging. And if we were to compare that against, we ultimately still have CCB growth of sort of 25% in Q4 and still indicating the cloud revenues decelerate this year to come.
+
+I guess could you help us just think about the changing landscape here, that growing mix of large deals in the pipeline that are converting the longer deal ramps. How should we think about that maybe midterm trajectory of total cloud revenue growth into '27 and perhaps beyond? Just help us with how you think about that pace of cloud revenue growth, either deceleration or scope for stabilization?
+
+Christian Klein
+CEO & Member of Executive Board
+
+Yes. I mean, good question. And for sure, when I'm looking back to October, there is definitely, I mean, honestly, also lessons learned at Q4, and we didn't see this in the forecast. But obviously, when you are then going into Q4, it's not unnatural actually that you have large deals, but you see it in the order entry.
+
+I mean, we, this time, really closed many more large deals. And again, what should you do? I mean, we saw this then in -- during the course of -- actually in December, where customers then said, okay, deal done, and now we are doing the phasing. And the phasing actually, I mean, should we now incentivize our people to keep the first 12 months up, that would be the wrong thing to do. Because, again, it's against the nature of how these transformations work. And also, I don't want to discount the renewal base. At the end, what matters for the company on the mid and the long term is the renewal base because that is what is driving the cloud revenue and the profits actually on the long term.
+
+And so when you look into 2026, I mean, Q1, Q2, Q3, actually, we are not having this larger share of large deals. And that's why we actually see -- we will see a similar pattern. And about Q4, I mean, definitely, when you look into our support revenue base, there are still some larger customers, and we need to make sure that, especially when it comes to the phasing of a deal, et cetera, that we have that right. And -- but again, I would see there is definitely -- you can expect a similar pattern to what we have seen in 2025, I mean, given what is left in the installed base.
+
+Dominik Asam
+CFO & Member of Executive Board
+
+Maybe on the cloud revenue in terms of what we see going forward. First of all, we guided cloud revenues now for '26. And maybe just looking back at '25, I venture to say that the accuracy of forecasts on cloud revenues is actually by now extremely high. This is also due to the extremely high share of recurring, more predictable revenues.
+
+And yes, because of all the macro mess being tariff disputes or the kind of sovereign debate we just mentioned, we were kind of [indiscernible] EUR 75 million away from the midpoint of the guidance at the end of '25. Again, such a massive macro backdrop, I feel 0.5 percentage point variance to the midpoint on growth is almost like forward accounting.
+
+So rest assured that our revenue guidance also for '26 is of a similar kind of confidence level. CCB forecast is always a little bit more difficult because as we just learned, the granularity of what's exactly coming and the crystal ball is a little bit difficult. But I also want to highlight how you think about the bridge from CCB growth and cloud revenues. And if you, again, do the math for last year to calibrate your model, so to speak, it will be obvious once we publish our results, you will see the Executive Board compensation that we were thinking more a couple of percentage points decline as opposed to something bigger.
+
+And then the 2 factors that weighed on us was, first, in the first half, it was this tariff debate where the bookings were lower and then the factors Christian mentioned as a surprise towards the year-end. So also there, I would argue that we do have our checks under control, how it kind of translates. And when you translate the CCB of 2025 into 2026, please remember that the transactional dilutive effect is becoming smaller. It used to be close to 1.5 percentage point last year, and it will be diluted to less than 1 percentage point.
+
+So I think the nice thing is about also when you look at the fill rate, I mean, what percent of the cloud revenue is adjusted for currency. There's always a problem that CCB is at point value, which was an extremely high dollar change. The other values are constant currency. If you really depollute that, you see the coverage with CCB for next year is actually quite good. So that also should give you some confidence about '26. And now going beyond that, I already mentioned what slight kind of reasonably means. You can then work from there and assume further dilution of the transactional part. So this is how I would think about it. So it's actually stabilizing in some way.
+
+Operator
+
+We'll take our next question from Mohammed Moawalla with Goldman Sachs.
+
+Mohammed Moawalla
+Goldman Sachs Group, Inc., Research Division
+
+Great. My question was really on the TCB. You talked a lot about sort of delays in recognizing some of this business into the CCB. We saw quite a steep decel in the sort of CCB growth versus a year ago, almost sort of 9 to 10 points. Is there -- I know there's kind of a law of large numbers here, but is there anything you can sort of comment on that's kind of going on here? Because you obviously talked about record number of larger deals. So I just want to better understand that dynamic.
+
+And as a follow-up, could you update us perhaps on BDC and the momentum you're seeing? You've signed up a flurry of many partners. How is that sort of pipeline shifting? And what sort of do you expect in terms of contribution in 2026?
+
+Christian Klein
+CEO & Member of Executive Board
+
+Yes. I can start with the total cloud backlog. I mean actually, you said it really well. I mean at the end, the number is getting, of course, much bigger. When you look at the absolute growth we put on top to Dominik's point, I don't see any other competitor producing similar kind of numbers when it comes to the total cloud backlog, not even close.
+
+And this year, yes, there were larger customers coming. But when you look at the RISE journey when we started this 4 years back, actually, of course, we started with smaller customers, midsized customers. And now there are these mega deals. And that will also continue, and they will just take a higher share in the overall order entry of what we are converting to the cloud with RISE. So I'm actually super proud also given that, I mean, the TCB is always then also, of course, dependent on the contract duration. And that actually was stable. So we are not actually increasing TCB with longer contract duration.
+
+We are actually increasing it by putting real business on top. And that combined also with a lower churn as we are closing more and more healthy business is actually, for me, a super positive sign also when it comes to the cloud revenue development, not only in 2026, but then also for many, many years to come. And then finally, when you look into GROW, I mean, still, it's a smaller business than -- compared to our installed base business. But just last year, I mean, overall, we won over 3,000 net new customers.
+
+And that is, of course, midsized customers, but they will grow over time, the up- and the cross-sell I mentioned of the business suite. So while the share of midsized SME business became smaller because some of the larger transactions happened and will happen, still, this business is going really well, and we are adding a lot of new logos to SAP.
+
+Dominik Asam
+CFO & Member of Executive Board
+
+And maybe it's also worthwhile mentioning, if you look at the TCB minus CCB, which is basically the backlog year 2 and the following years, it's actually -- that ratio is increasing. So it gives you also more visibility in the outer years.
+
+Operator
+
+We'll take our next question from Mark Moerdler with Bernstein.
+
+Mark Moerdler
+Bernstein Institutional Services LLC, Research Division
+
+Sorry, I had my mic off. Want to -- didn't want to cause an issue. So I'd like to make sure that we're really clear on the CCB and I know it's been a lot of the questions put on it. Can you give some ordering to what you think was the most impactful for why the number was less than the Street might have expected? And can you also give us any sense on the economic impact of these sovereign cloud deals? Does it impact revenue lift multiple or margin in any way, shape or form other than that it may take longer for the deals to close?
+
+Christian Klein
+CEO & Member of Executive Board
+
+Yes. I mean the one factor, Mark, clearly, which changed over the course of the quarter. And again, it's absolutely positive for the years 2027 plus. I mean we closed more larger deals. And then when you think about the phasing of such a deal, I mean, first of all, you negotiate on the business case on the [ ROI, ] the AI use cases. You think about, okay, what are the pillars which are really important. You think about, okay, do we go supply chain first, finance first, logistics, et cetera.
+
+And then during the course of the quarter, obviously, you start also then phasing those deals. And as you then have many larger deals, and this was actually a quite significant shift, we actually saw that a lot of the revenue moved out from the first 12 months to year 2, 3 and 4. That was by far, by far the highest impact we have seen compared to October.
+
+On sovereign cloud, actually, no, I mean the deal margins are almost the same, but what Dominik already alluded to I mean the deal negotiation per se, I mean we are running not only very mission-critical ERP systems, we are also running customers in regulated industries. And they have questions. They say, "Hey, what is happening if sanctions are coming? What is happening if there's an export control coming? What is happening if this AI data protection regulation is now redefined, et cetera?"
+
+So these discussions take just longer than they have been a year ago, and it's a reflection of what is happening in the world. This is not a reflection of a demand issue. Actually, it's good. Look, I mean, I always also start these conversations with, look, when it comes to regulation, trust on one thing, SAP has your back. I mean we are spending over EUR 1 billion on localization, on regulations, et cetera. We are running these businesses in over 120 countries.
+
+So we know how to adhere to all of these also new regulations. And I see this rather as a competitive advantage that we can clearly say, "Hey, look, no matter where you want to do business or where you want to expand your business, SAP will have a software and cloud solution for you in the different parts of the world."
+
+Dominik Asam
+CFO & Member of Executive Board
+
+And I'll also add there is the certification step, which is required in many countries. So we see new offerings on the Infrastructure as a Service for sovereign in various countries, almost mushrooming up, I can say. And there are certain requirements in different countries, and we now really see the first country certifying these products. So we are really at the -- in an embryonic phase of what could become something really big, but it's really happening because the capital is flowing there, the certification agencies are getting their arms around it, but it takes some time to groom and mature these projects.
+
+Operator
+
+Our next question comes from Toby Ogg with JPMorgan.
+
+Toby Ogg
+JPMorgan Chase & Co, Research Division
+
+Just on the free cash flow guidance, Dominik, of EUR 10 billion, clearly well ahead of expectations and looks to imply a pickup in cash conversion. I know we talked through the year about cash tax, FX and the migration credit headwinds. Could you just help us reconcile these headwinds with the better free cash flow outlook and improved cash conversion you're now expecting?
+
+Dominik Asam
+CFO & Member of Executive Board
+
+Sure. I would say the upside is from 2 sources, partially from operational further improvements, which we have matured to a point that we feel comfortable guiding it now, but also from the fact that the delta on stock-based compensation between the P&L and cash is increasing. You've seen it already now in the numbers. You will see that in '25.
+
+So it's a little bit higher. We've always said take the effective tax rate off the non-IFRS operating profit add back around about EUR 1 billion. So now I'd say around about EUR 1 billion plus. So that gives us a part of the upside. And the good news is that's sustainable. So that's the new base basically to jump off. Now on the transformation credits, it's always the game of the overall working capital. It's not the only item there. And from that perspective, for 2026, this is the best estimate we can give today. And yes, we also make sure that we have no mortgages in the future and can stick to that very simplistic formula with the noise that always will be there around the phasing of certain payments, but that's the trend.
+
+Alexandra Kasper Steiger
+Global Head of Investor Relations
+
+Great. Well, thank you, Dominik, and this concludes our call for today. Thank you all for joining.
+
+Christian Klein
+CEO & Member of Executive Board
+
+Thank you.
+
+Dominik Asam
+CFO & Member of Executive Board
+
+Thank you.
+
+Operator
+
+Ladies and gentlemen, the conference has now concluded, and you may disconnect your telephone. Thank you for joining, and have a pleasant day. Goodbye.

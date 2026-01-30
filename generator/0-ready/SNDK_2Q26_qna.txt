@@ -1,0 +1,341 @@
+Question-and-Answer Session
+
+Operator
+
+Thank you. We will now begin the question and answer session. To ask a question, you may press star, then one on your touch-tone phone. If you are using a speakerphone, please pick up your handset before pressing the keys. If at any time your question has been addressed and you would like to withdraw your question, please press star, then two. The first question will come from Mark Newman with Bernstein. Please go ahead.
+
+Mark Newman
+
+Hi, thanks so much, and congratulations on fantastic numbers today. Really, really great numbers, especially the third quarter guidance. So clearly, what's happening is that prices are rebounding extremely at unprecedented rates. I guess my question is going to David's comments at the beginning. How are you thinking about long-term agreements? Obviously, there's pros and cons to long-term agreements because long-term agreements lock in the prices. When prices are going up so fast, you actually don't want so many long-term agreements, I guess. But I guess I'd just like to understand how you're thinking about that, how we should think about that in terms of your portion of agreements that are going longer term and how that may impact going forward. That'd be great.
+
+Asiya Merchant
+
+And if you could also just touch on the supply-demand balance longer term, if in this very, very huge, what seems to be quite a sharp undersupply situation at the moment, if there's any plans to be adding supply or how you're thinking about that would be also great. Thanks very much.
+
+David Goeckeler
+
+Thanks, Mark. Appreciate the comments. So let me say a few words about what's happening in the business, and then we'll move on to the LTA. So there's a number of things happening in the dynamics of our business that are contributing to the results you're seeing. So first of all, it starts with the portfolio and innovation. Our BiCS8 node, which we've started ramping now and continue to ramp, is just a fantastic node. The performance, the QLC performance, the 2-terabit die, there's a lot of things that just position us very, very well. Customers are responding very strongly to that fundamental NAND technology we're producing. By the way, I'll just note that we extended the JV, which we're very happy about, which that's going to continue for now another decade. That's enabling very strong Enterprise SSD portfolio. This is something we've been driving for a while.
+
+Asiya Merchant
+
+I talked last quarter, we were going to see growth of that throughout the fiscal year. We saw, I think, 29% sequential growth in the first fiscal quarter. Now we just saw 64% sequential growth in the second fiscal quarter. And I think you'll see that accelerate from here in the second half of the fiscal year. So the third leg of kind of major business innovation is happening in the consumer business, quite frankly. A lot of new product introduction. This Extreme Fit product that we announced this year is really a breakthrough product. It allows our customers to very seamlessly and affordably increase storage capacity of their devices. It's kind of a bit of innovation in the USB space. You wouldn't think that would happen anymore, but it's not a removable product. It's designed just to plug in and stay.
+
+You see the agreements we're doing with people like FIFA, which could be the biggest event of this entire year. We have great co-branded products there. We look at our consumer business. We saw 50% year-over-year growth in the consumer business, so really strong performance there. This improving portfolio innovation-driven excellence in the product is allowing us to just have a better portfolio mix. If we look back over the last several quarters, we're literally able to trade out the lowest margin business for now the highest margin business. That provides a significant tailwind to the business as well. On top of all of that, you've got the supply-demand dynamics, which are pushing the entire market forward. It's really a combination of all of these that's driving the business forward.
+
+It's not simply just pricing, although obviously it's great to be in a strong pricing environment. Moving on to LTAs. I'll talk a little bit about this, and I know Luis will have some great comments about this as well. So as we reach points where we believe we're getting a more fair return for our technology, and customers, quite frankly, are looking for more supply assurance. I mean, I think one thing to note on the market right now, this is a completely demand-driven phenomenon, what's going on in the market. We've been very transparent for well over a year what our supply plans are. We're investing heavily in this market. We're investing hundreds of millions of dollars of R&D to push the roadmap forward. We're investing billions of dollars of CapEx.
+
+And we've been very clear we're going to drive mid-teens to high-teens bit growth on a sustained basis, which we think is a great market. And what's happening is we're just not getting enough visibility into what the demand side, what the demand really is. I mean, if we look at data center, we've had 3 forecast cycles now. Last quarter, we went from mid-20s to mid-40s% growth in that market. Now we're looking at high 60% exabyte growth in that market for 2026. I think our customers realize this, especially in the data center market. Their numbers are big, what they're going to need in 2026, 2027, 2028. We're even talking some of them about 2029 and 2030. They're doing their own planning. The amount of exabytes they're going to need are substantial.
+
+The long-term agreements are about coming up with a model where we can get confidence in supplying that level of demand on a sustained basis. For us, it's not about what demand is next quarter or the quarter after that. There's not much we can do about that given the dynamics of our business. But we want to get the long-term growth rate aligned behind where the long-term sustained demand is, to your point, at attractive financials. Let me turn it over to Luis with that.
+
+Luis Visoso
+
+Yeah, I mean, David covered most of it. What I would say, Mark, is we're seeing customers across end markets reach out to us and across geographies. So this is not just a few. We're really seeing a broad base, which is very interesting for us. And we're making significant progress. We're making significant progress with several of our customers who really want us to prioritize or assure supply, to David's point. They see that as a critical enabler for their business, and that's what they're looking for. Now, to your point, we're being very thoughtful on how do we define a few metrics. One is the length of the agreement, the price at which we will transact, the quantities, how much of our business we want to put in there, and any prepayment component of that.
+
+Asiya Merchant
+
+We're being super thoughtful, and this should be value accretive and not the opposite.
+
+Mark Newman
+
+Great. Thanks very much. Any quick comments on how you're thinking about supply-demand longer term and any flexibility to add supply?
+
+David Goeckeler
+
+Yeah. I mean, Mark, we've got our supply plans. Again, we've been very clear on what our CapEx plans are, what our bit growth plans are. That's what they are. It's about meeting our customers at that supply level and understanding how we allocate that. And then, as we said, it's about all of us picking up our head and looking a little further out on the horizon as to what demand is really going to be in this market and what sustained demand is going to be. And we just really need to get out of this idea that this is a transactional market where we only get a strong signal a quarter at a time. I mean, we get demand signals for our customers, in all fairness, on a yearly basis, but we really only transact that. We negotiate price every quarter.
+
+Asiya Merchant
+
+And that just makes it very, very difficult to increase any kind of spending because we just don't have visibility to the economics of it. And again, especially as the market transitions to data center, I think the data center customers are more willing. Like Luis said, it's across all of them. But I think the data center customers, given their demand profiles and how big they're growing, quite frankly, are kind of a little more proactive and engaging in that conversation and really wanting to understand supply assurance several years out and how do we come up with a what are the business practices we can put around that. And as I said in the prepared remarks, when I say we're early in this transition, that's where the early part is. I think the business practices are going to change, and I think that's all for the good.
+
+We got to get through those conversations over the next couple of quarters.
+
+Mark Newman
+
+Thanks very much. Congrats again, guys.
+
+David Goeckeler
+
+Thanks, Mark. We appreciate it.
+
+Operator
+
+The next question will come from Joe Moore with Morgan Stanley. Please go ahead.
+
+Joe Moore
+
+Great. Thank you. At the Consumer Electronics Show, Jensen talked about this key-value cache and gave some numbers in terms of, I think, terabytes per GPU. It seems like a pretty big market. Are you getting indications around that? Do you think we should take that as kind of straight math? Does everybody have different implementations? And just the ramifications for what happens to data center NAND?
+
+David Goeckeler
+
+Yeah, Joe, we're working through that right now. We're working through it with NVIDIA and kind of how they're thinking about it. And of course, then we'll work through it with our customers about how they're going to configure it in deployments. So it's still a bit early. I'll say a couple of things about it. First of all, none of that demand is in the numbers we're talking about, demand numbers at this point. I think it's a perfect example about how we all need to collaborate a little bit more on what future demand is going to be. Secondly, our initial looks at it, when we look at, let's say, 2027 demand, we think that's roughly maybe 75-100 additional exabytes. And then the year after that, you can double that. So it is a significant amount of demand.
+
+Asiya Merchant
+
+And I think it is, again, just another example of NAND is just front and center in the AI architecture. That's very, very clear at this point, if it wasn't before. The AI architecture is changing, right? And that's not a surprise. Any kind of technology that's this profound and is being deployed at this much scale, we're going to continue to see innovation and evolution of the architecture. So we're going to stay very close to that. NAND is just going to be a big part of that architecture. It's the most scalable semiconductor storage technology, maybe the most scalable semiconductor technology at all. And so we're looking at those configurations. It's very real demand. We're just trying to get our arms around it. And then we'll put it in the numbers probably for the back half of this year going into 2027 and 2028.
+
+Joe Moore
+
+Great. Thank you. And then as a follow-up, the Enterprise SSD opportunity, how does that break down between TLC and QLC at this point, and how is that changing going forward?
+
+David Goeckeler
+
+I think we're roughly tracking the market right now. It's predominantly TLC. I would say it's tilted towards TLC, especially for us. And then we haven't launched our Stargate product yet for the storage-based QLC. It's in qualification. We'll start shipping that for revenue in the next couple of quarters, which we're excited about, providing another tailwind of growth to our data center portfolio. And that will up the mix of QLC. But at this point, I think the overall market in our portfolio, it's tilted towards TLC.
+
+Joe Moore
+
+Great. Thank you. Great numbers.
+
+David Goeckeler
+
+Thanks, Joe. Appreciate it.
+
+Operator
+
+The next question will come from CJ Muse with Cantor Fitzgerald. Please go ahead.
+
+CJ Muse
+
+Yeah, good afternoon. Thanks for taking the question. I guess first question, is there a way to quantify incremental demand for NAND related to AI infrastructure build-out? I'm not including KV Cache, but we were mid-to-high teens before. And I'm curious now, based on your conversations with customers and the demand trends that you're seeing, where do you think the new demand growth CAGR is looking out 2026, 2027, 2028?
+
+David Goeckeler
+
+I think the best proxy we have for that right now, CJ, is just what we're seeing in exabyte demand in the data center. And as I said earlier, I mean, two cycles ago, we were looking at, call it mid-20s exabyte growth in 2026 for data center. Last quarter, we were talking about we upped that to mid-40s given the CapEx cycle that went on. We're now looking at high 60s exabyte growth in data center is our forecast. And that doesn't include any CapEx raises on this earnings cycle. So significant increase, just quarter-over-quarter in demand. And we think most of all that is driven by AI, obviously.
+
+CJ Muse
+
+Perfect. Thanks. And then I guess you paid down a considerable amount of debt in the quarter. You only have $600 million outstanding. Probably can pay that down this quarter. So curious, when you're in a completely cash position, how should we think about capital return, particularly around share repurchases over the coming quarters?
+
+Luis Visoso
+
+Yeah. We feel very proud of the progress we've made reducing our debt. Remember, we started with $2 billion, and it's coming down very, very quickly, $600 million this quarter, and we'll continue to take that down. CJ, our priority is to continue to invest in the business as we have been doing and to build prudent cash resource. This is a business where having cash on hand is helpful. We're not going to waste your cash. Don't worry. But we're going to build prudent cash resource, and we'll continue to reduce our debt. And at the right time, we'll continue to expand and give you an update. But so far, those are our priorities.
+
+CJ Muse
+
+Thank you.
+
+David Goeckeler
+
+Thanks, CJ.
+
+Operator
+
+The next question will come from Jim Schneider with Goldman Sachs. Please go ahead.
+
+Jim Schneider
+
+Good evening. Thanks for taking my question. First of all, on the supply side, I just wanted to give us a snapshot of the factory network across Yokkaichi and Kitakami and kind of where things stand now. I'm assuming utilizations are basically flat out. But as you think more tactically, sort of beyond this year about the high teens bit growth outlook, how do you expect to sort of ramp your overall kind of JV factory network over, say, the next, say, 18 months or so? And then maybe give us any kind of view on your view on the sort of industry greenfield capacity expansions that you see possible given some of the announcements of some of your competitors recently.
+
+David Goeckeler
+
+So first of all, as you said, we have two major sites, Yokkaichi and Kitakami. I think a big step forward this quarter is what we announced in extending the JV agreements around Yokkaichi to coincide with the agreements in Kitakami. So they now are all run through 2034. So that gives us really good supply assurance for the next nine years. And we'll keep talking about what happens after that. But this has just been an unbelievable relationship with Kioxia for decades now, and it's going to go on quite some time into the future. So we feel like we're in a really good position there. Look, we haven't had any underutilization in the fab for a couple of quarters now. We got past that a couple of quarters ago. There may be a little bit of the memory of some of the costs flowing through.
+
+Asiya Merchant
+
+I guess those were all last quarter. We're done. So they're running at full capacity. Kitakami is where we're expanding. We just opened the K2 fab. And so we have additional space there. I think the JV led by Yokkaichi on this part of it has just done really good capacity planning and has good plans about how we're able to now expand into the Kitakami site as needed over the next many years. So we feel really good about how we're positioned there. As far as the rest of the industry, as you know, it's a long lead time. We've seen some announcements recently. I would consider those kind of normal course. We're all constantly building clean room space. As I talked earlier, this is a market on the supply side where we've been very consistent. We're going to grow bits in the mid- to high-teens rate.
+
+We're going to do that through innovation. We're going to do that through that innovation is going to take additional clean room space. That's all in the plan. I would expect to see continued spending to meet that number, but we don't see anything that's out of the ordinary. And I think, as all of us know, if you want to start building a new fab, you're talking years before you have that up and running and have production coming out of it. So just a little bit of how we see the market. And final comment, all this is factored into our numbers when we talk about supply and demand.
+
+Jim Schneider
+
+Thank you. And then maybe as a follow-up, could you maybe address clearly, you mentioned the qualification with another Enterprise SSD hyperscale customer. Exiting this calendar year, for example, how large do you expect your Enterprise SSD exposure to be as a percentage of the total revenue? Thank you.
+
+David Goeckeler
+
+Yeah. We're not going to put an exact number around that just yet, but I would say just stay tuned. I think we said our business is going to continue to grow in this market. We've seen 29% sequential growth followed by 64% sequential growth. Without getting into too much detail, I think you're going to see a substantial step up next quarter as well. So we feel really good about where the portfolio is. Like I said, the reception from customers, and not just hyperscalers, across the entire ecosystem of people that are building out AI infrastructure, the compute-focused TLC product we have in the market is really driving that growth right now. We're going to see our BiCS8 QLC product start shipping for revenue here in the next couple of quarters, which is going to be another tailwind for growth.
+
+Asiya Merchant
+
+And as we've talked about, the BiCS8 QLC performance has been extremely well received. So we continue to see very high interest in those products and work through the qualifications. And we'll look forward to continued growth. And it'll be part of the balanced portfolio we always talk about of how we're going to allocate our supply into that part of the market. But we're excited about where we're at and where we're headed.
+
+Jim Schneider
+
+Thank you.
+
+David Goeckeler
+
+Thanks, Jim.
+
+Operator
+
+The next question will come from Mehdi Hosseini with SIG. Please go ahead.
+
+Mehdi Hosseini
+
+Yes. Thanks for taking my question. Two follow-ups for me. This is for the team. When I look at your guidance for the March Q3 fiscal year, assuming low single-digit bit growth, there's a big jump in ASP and blended. What I wanted to ask you is, how should we think about the mix that impacts the ASP? Obviously, as you scale your SSD, there is a higher premium. There is more than bits and a premium that you capture or economic value that you capture. Is there any way you can help me understand? Because just thinking about the ASP absolute may give us a wrong impression. So any help you can provide would be great. And I have a follow-up.
+
+Luis Visoso
+
+Yeah. So the mixed impacts that we have are less related to changes in our end market and more related to the customers, right, and how we serve the market. So I talked a little bit about this in my prepared remarks. And what you've seen is we're driving a better mix. We're partnering with those customers that value our relationship, that value our products. And therefore, we're getting much better gross margin as a result of that. So there is a mixed component in that, to your point, Mehdi and Wilco, and there is some pricing as well. We believe in the market.
+
+Mehdi Hosseini
+
+Go ahead. Sorry. I was just going to say, just a quick follow-up. Is there any mixed breakout you can offer us so that we're not so fixated with the raw NAND ASB trends?
+
+Luis Visoso
+
+Yeah. We'll provide that to you when we report next quarter. I don't have anything to share with you at this point on the guide, Mehdi.
+
+Mehdi Hosseini
+
+Okay. Great. And one question for David. Look, we're sitting here and there is increased shortage intensifying. You and your peers are involved in discussion for most of your contract. And as you highlighted, these projects take several years. Building a fab and putting equipment is a very long process. Why isn't there a more urgency? Why aren't your customers, your customer's customer, aren't willing to commit more? They're committing investment throughout the AI supply chain. But when it comes to memory or NAND, I don't get a sense of urgency. And if it's going to wait till second half of this year, that means the shortage is going to intensify unless the SSD exabyte growth of 60% may be just a short live. How can I reconcile the two?
+
+David Goeckeler
+
+I have lots of thoughts on that, Mehdi. I mean, first of all, I mean, I would argue that there actually is a fair amount of urgency and things are changing rather dramatically, rather quickly, right? I mean, you're talking about a market that's operated the way it's operated for arguably decades. And the way that market is operated is there's essentially been a quarterly auction for NAND that goes on that sets the price. And then we all talk about what the price was every quarter. And on the supply side, we've tried to get it right on how much we supply and often get it wrong. And when you get it wrong, the economics just completely crater. And so we're trying to navigate out of that world. There's a lot of reasons why we're navigating out of that world.
+
+Asiya Merchant
+
+There's a lot of technology reasons and all kinds of stuff we talked about in the past we could talk a lot about. But the change behavior on something you've been doing for a decade and just wake up and within a quarter decide to completely change the business practices in an industry is almost really, really hard to do. But I do think it's happening. I do think that customers are starting to look like I said, they're starting to look further down the horizon, especially on the data center. I don't think this can be underestimated, this idea that now data center is the largest market in NAND. I mean, this is a market that's been dominated by or not dominated, but where the primary customers have been smartphones, PCs. What I talk about is I kind of view that as what's traditionally been the commodity NAND market.
+
+I hate that term, but that's what people think about it. Data center is not that market. The data center is not a commodity NAND market. The data center is NAND is a highly strategic product that's part of a very sophisticated AI architecture. And I need extraordinarily high performance, and I need innovation, and I need a specific enterprise SSD that fits my configuration. It's kind of way on the other side of I just need the same product and I can plug in anyone from five different suppliers. That's not so that market now becoming the primary market and especially the primary growth engine is really, I think, starting to challenge the business practices of the way the market has traditionally worked. And again, I'm actually quite optimistic that this is happening pretty quickly. Now, we'll see how quickly.
+
+I mean, do we actually get to the point where we're announcing contracts? We're not quite there yet. We've got some that are coming along. But from my perspective, on a relative basis, it's going pretty quick. For a market this big, we're talking $150 billion maybe this year. For a market this big, this many players, this much business transacted every quarter, to see it change as fast as it's changing is pretty remarkable, actually.
+
+Mehdi Hosseini
+
+Got it. Thank you for the details.
+
+David Goeckeler
+
+Sure thing. Thanks, Mehdi.
+
+Operator
+
+Again, if you have a question, please press star and then one. Please limit yourself to one question. The next question will come from Wamsi Mohan with Bank of America. Please go ahead.
+
+Hi. It's Rupal filling in for Wamsi. Can I ask Luis a question? This quarter, OpEx came in lower. You said you had a benefit from how you're managing NPI. Can you just elaborate on that, what that benefit was? And can you talk about capital allocation plans? How much are you expecting to spend on HBF and data center expansion, as well as any capital return plans or M&A plans? Thank you.
+
+Luis Visoso
+
+Yeah. So let me try to unpack the OpEx question because I thought somebody was going to ask. So we made a recurring change to how we sell our products, right? And basically, we're now moving into charging for our qualification units. So in the past, we used to record costs as they were incurred, right? They were period costs. And this is the non-recurring element, which is a gain of a one-time gain as we move from period costs into inventories as we're now selling these qualification units. Does that make sense?
+
+Yes. That's clear.
+
+Luis Visoso
+
+Good. So we're going to get an ongoing saving as we charge our customers for these qualification units. And there is a one-time benefit as we do the transition and we go through inventory. On the capital allocation question, as I said earlier, our capital allocation strategy is unchanged. We will continue to invest in the business. We will build prudent cash reserves, which are very helpful for this business, particularly given still where we are. We believe we need to continue to build our cash reserves. And we'll continue to reduce our debt. So we've gone from $2 billion to $650 million. So we're making great progress, and we'll continue to make progress there. And we're fully funding the business. We're funding the business from a BiCS8 transition. We're funding our OpEx. We feel that we're properly funding the business itself.
+
+Are there any underutilization charges in the guide?
+
+Luis Visoso
+
+No. Not on the guide and not on actuals either.
+
+All right. Thank you so much.
+
+Operator
+
+The next question will come from Vijay Rakesh with Mizuho. Please go ahead.
+
+Vijay Rakesh
+
+Hi, David and Luis. Awesome quarter here. Just phenomenal numbers. Just wondering on the 2026, 2027, what you're looking at in terms of bit growth. And obviously, ASP pricing has been on a tear, but just wondering how the price trends have been across different segments from the data center to retail to consumer SSDs, if you can give us some color. Thanks.
+
+Luis Visoso
+
+Yeah. So the bit growth that we're seeing across 2027, 2028 is consistent with what we talked at the very beginning of February. We're still talking about mid- to high-teens bit growth every single year. And unless we see that that demand is there and sustainable and profitable, we're not going to change our assumptions. So still, our planning is our plan of record is that kind of high-teens number for bit growth year-over-year. On pricing across what we call end markets, it's very interesting, right? What you see is prices are moving not identically, but pretty much at the same pace. What happens is that NAND can flow to any market at the end of the day. So NAND will naturally flow to the markets that are most attractive.
+
+Asiya Merchant
+
+When prices go up in data center, they do have an impact in other markets, to give you an example, right? That's what we're seeing across markets. Prices go up pretty much across the board.
+
+Operator
+
+The next question will come from Karl Ackerman with BNP Paribas. Please go ahead.
+
+Karl Ackerman
+
+Hi. Thank you for taking my question. And congratulations for the very good quarter. Product roadmap, I think there are now your data center mix has reached 15%. And NAND flash is now increasingly being attached to AI compute. So I think it's creating new requirements for performance. So can you update with us your product roadmap to meet these new requirements? I think there are high IOPS SSDs, and you have engagements on the HBF. So how do those new products look like?
+
+David Goeckeler
+
+Yeah. So I think this is a very good example of the amount of innovation that's going on and being driven out of data center, kind of what I was referring to before. So you're right. What we call the compute focus, the TLC high-performance drive is what's been driving the portfolio at this point. As I said, we just saw 64% sequential growth. So we continue to see a really strong pull for those high-performance products. As I said, we feel like we're extremely well-positioned as we start to migrate those to BiCS8. But there's a whole bunch of new innovation going on, as you said. There's, I think, the innovation engine is alive and well across the whole industry, which is how are we going to satisfy the demands for the storage of AI? Models get bigger, more tokens get generated, caches get bigger.
+
+Asiya Merchant
+
+This is naturally a thing where you start to think about NAND and its tremendous scaling properties. You're right. There's a lot of innovation there. There's the high IOPS Enterprise SSD, which is, of course, something you could imagine we're working on. We had our own ideas about this two years ago, and we talked about it at our investor day that we believe that there was a chance to re-architect NAND to bring it into AI. We trademarked that High Bandwidth Flash. I think over the last year, that's become a more recognized path forward. There's now lots of folks working on that. We continue to work on it, by the way. We're very happy with the progress. We're deep in conversations with customers on use cases. We're designing the NAND die. We're building the controllers. So that continues to go forward.
+
+Obviously, we'll have more to say about it as we go forward and plans firm up. I think all of this is just an example of there is just tremendous opportunity for innovation as the AI architecture continues to scale. It's just incredibly exciting that we are just in the very early innings of driving this technology and scaling it around the globe. We have the industry, the technology industry, maybe writ large, is incredibly well-positioned to do that. There are some of the most largest, most capable technology companies in history. They're obviously putting an enormous amount of resources about how they drive this technology and scale it around the world at a very rapid pace. I think that is incredibly exciting. I think this is going to go on.
+
+I think we're super early in this, and I think this is going to go on for a very long time.
+
+Operator
+
+The next question will come from Aaron Rakers with Wells Fargo. Please go ahead.
+
+Michael Fednoff
+
+Hi, guys. Thank you. This is Michael Fednoff on behalf of Aaron. I wanted to go back to the LTA discussion. Have you guys finalized any of these agreements yet? And if so, have partial or full prepayments been a part of, I guess, any finalized agreements? Or is that something that we should expect moving forward? I know you kind of alluded to it.
+
+Luis Visoso
+
+Yeah. We've signed and closed one agreement so far. We're not disclosing the terms. There was a prepayment component of it, which we think is important in this type of agreement. But that's what I would say, Michael. So we have one and several in the queue.
+
+Operator
+
+The next question will come from Asiya Merchant with Citigroup. Please go ahead.
+
+Asiya Merchant
+
+Great. Thanks for taking my question and great results here. David, last quarter, I think you shared some thoughts on how you thought about the edge market, PC, smartphones, maybe even the consumer market. Just given the fact that memories on allocation, people are talking about PC and smartphone units being down, just how you're thinking about and what signals your customers, your OEM customers, are providing to you regarding those markets and how that changes kind of your demand outlook through probably the back half of 2026 and into 2027.
+
+If I can squeeze one in for Luis as well, structurally, NAND is going through this dynamic where obviously highly strategic product. How are you thinking about your true cycle margins, gross margins? Seems like that was quite a long time ago when you were hitting those levels. How are you thinking about gross margins here structurally? Thank you.
+
+David Goeckeler
+
+Okay. Thanks, Asiya. So look, a couple of thoughts on this. So first of all, in the consumer market, I think we're very happy with where the consumer portfolio is. As I said, we just turned in over 50% year-over-year growth. I think the work we're doing there on how we're thinking about the branding, the innovation, the portfolio, that's been a long-term market for us. It will be a long-term market for us. We think we're able to drive value there with the value of the SanDisk brand. So we think that's a great business, and we'll continue to be, and we'll continue to invest in it. In some of the other markets, I think this is one of the things I was looking at the numbers, obviously, as we were preparing. Just look at 2026, we've got PCs at 285 million units.
+
+Asiya Merchant
+
+I don't think anybody would have picked that number at the beginning of the year. So just continued very strong results in these markets in unit growth, content growth across those markets. So because we go into 2026, or we're in 2026 now, we're going to see some base effects of that, of some declines in units. I think we're still getting very strong signals from our customers in those markets of wanting supply. I mean, very strong signals on a continuous basis. And we're working with them as closely as we can. I think in this period of the market, it's extremely important to stay close to our customers, and we're doing that. But you're going to get some base effects there on units. I mean, there's been a lot of discussion on mix in the market. I just think that's normally how this market works.
+
+Of course, configurations are going to change as components change. Quite frankly, we saw it in 2023. All of a sudden, component mix went way up because prices went way down. All of a sudden, the 1 TB drive became quite inexpensive, and all of a sudden, it started showing up everywhere. As the market goes a little bit in the other direction, you're going to see that change. I think that's just a natural way this market works. I don't think it's something to be overly concerned about. Those are still strong markets. Customer relationships are very good. I expect us to still be heavily engaged in those markets. We've had a strong edge presence for a long time, and we'll continue that.
+
+And just big picture, this is one of the reasons why I think this business is so valuable is because we just play across every single device, every single piece of technology. We touch it or sell NAND into it. And now with just the AI deployments in the cloud and that market becoming the largest market in NAND, it's just changing the dynamics of the way this whole industry works. And as we said in the prepared remarks, we've invested an enormous amount of R&D over the last 25 years to get to where we are. And we've invested an enormous amount of capital to get to where we are that we can manufacture all this, front end and back end.
+
+I think we're finally starting to get to the point where the value of that intellectual property, the value of that intensity is being recognized in our own results.
+
+Luis Visoso
+
+Yeah. And I think the way I would answer your question about through cycle margins is similar to what David left it, which is in a high CapEx, high R&D industry or company, frankly, 35% is not where we would like to be, right? So we're not going to give you a new number today, but clearly, that's not where we want to be. What I'll tell you is this is the first quarter, right, that we are above 35% with 51%. We're guiding, call it midpoint of 66%. So we're making progress, and we're getting to a place where we believe we can justify the CapEx. We can justify the investments in R&D that the business requires.
+
+Operator
+
+The next question will come from Tom O'Malley with Barclays. Please go ahead.
+
+Matthew Pan
+
+Hi. This is Matthew Pan on for Tom O'Malley. Just a quick one from me. Apologies if you mentioned it just hopping around on the call. Wondering if you said the ESSD percentage of total bits in the quarter?
+
+David Goeckeler
+
+I don't think we said that, but it's like in that high teens range.
+
+Operator
+
+The next question will come from Blayne Curtis with Jefferies. Please go ahead.
+
+Blayne Curtis
+
+Hey, guys. Congrats and thanks for scooting me in. I just wanted to talk about the model. Obviously, I mean, doubling sales over two quarters, I wanted to just make sure I understand how you're going to handle OpEx. I think the percentage of revenue is now in half, right? So are you going to accelerate the way you look at investing in R&D and then tax rate as well, which is just dramatically higher profitability? Is there anything to think about in terms of the tax rate? I think you were talking about it maybe going to 20% at some point. Is that sooner than later?
+
+Luis Visoso
+
+Yeah. So in terms of OpEx, the first thing you should know is about 75% of our OpEx is R&D, right? So that's where we're putting our money. And why do we do that? Because this is a technology company where innovation is our lifeblood. So that's what we believe, and that's where we're putting our dollars. So you should not look at this quarter's OpEx as an indication of where we should be because that, as I mentioned earlier, has a non-recurring benefit. If you want to quantify that number, it's around $35 million. So you can use that number for your modeling. We think OpEx should not go significantly higher from where we are today. We believe that the run rate is healthy. We will always be looking at where we need to invest and make sure that we fund innovation.
+
+Asiya Merchant
+
+But we're also on the other side looking at efficiencies all the time and how do we make sure that there is no waste in the system. So a long way of saying the level of spending we had last quarter, what we're guiding this quarter, those are kind of more sustainable levels for now. The tax rate is kind of interesting, right? Because we had a lot of prior year losses, particularly accumulated in Malaysia, which we've consumed very quickly. That's what happens when you start generating profits. So I think you should see our tax rate to hover around a little bit above where it is today, maybe in the 14%-15% kind of on an ongoing basis. That's what I would model for now.
+
+Operator
+
+This concludes our question and answer session. I would like to turn the conference back over to David for any closing remarks.
+
+David Goeckeler
+
+All right. Thanks, everybody, for joining us. We'll talk to you throughout the quarter. Have a great day. Thank you.
+
+Operator
+
+The conference has now concluded. Thank you for attending today's presentation. You may now disconnect.

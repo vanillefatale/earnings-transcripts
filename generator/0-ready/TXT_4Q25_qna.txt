@@ -1,0 +1,301 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Your first question comes from the line of Sheila Kahyaoglu.
+
+Sheila Kahyaoglu
+Jefferies LLC, Research Division
+
+And Scott, congratulations on your career and building up Textron and handing the baton over to Lisa. Lisa, congratulations to you as well. Maybe if you could talk about your top priorities for the company now that you're a CEO?
+
+Lisa Atherton
+CEO, President & Director
+
+Thanks, Sheila. Look, as I outlined in the remarks, we are really starting from a very strong foundation. And so as I look at my priorities, I think about them in 3 parts. First off, execution. Each business has to deliver on their commitments with an operational rigor and cash discipline and have the accountability to do so. I have a phrase that says, we have to do what we say we're going to do. And so we're going to hold each business to that.
+
+Second will be a portfolio focus, how we allocate that capital to highest return opportunities across our A&D assets. We have to be very clear about where we lean in and equally clear about where we don't. An example here of how we've been leaning in is on the MV-75 long lead and factory investment to ensure success as the Army pulls that program forward.
+
+And lastly, we have to really keep building resilience so that all of our businesses perform well across cycles. You could think about this as investing in our manufacturability, investing in our supply chain and really investing in our talent. So that's what we have to do. I think how we have to do it is with clarity. We have to very clearly define those execution goals that clearly define our allocation of our capital and that strategic focus across our business. I think when we're having that rigor, it's going to result in us continuing to execute reliably, while we make clear choices of what we invest in, what we protect and frankly, what we don't pursue is equally as important.
+
+Sheila Kahyaoglu
+Jefferies LLC, Research Division
+
+Got it. And maybe one for Dave. Dave, you're guiding to aviation revenues up 9%, but orders were down 3% over the last 12 months. Can you maybe just discuss how the buildup to aviation guidance and the cadence for Aviation throughout '26?
+
+David Rosenberg
+Executive VP & CFO
+
+Sure. So our overall guide is $6.5 billion, up from $6 billion last year. Obviously, implied in that guide, we expect higher deliveries in 2026, and I would expect similar aftermarket growth profile of around 6%, just like we had in 2025. When you think about the margin cadence, I think you'll see a similar level of seasonality as we had in 2025. So we'll probably be about 100 to 150 basis points below the midpoint of the guide to start the year. And I'd expect by the end of the year, we'll be 100 to 150 basis points above the midpoint. And Q2 and Q3 will kind of be in between that.
+
+Operator
+
+Your next question comes from the line of Peter Arment from Baird.
+
+Peter Arment
+Robert W. Baird & Co. Incorporated, Research Division
+
+Congrats, Lisa. And Scott, thanks for all the support. I can't believe you want to leave all these quarterly conference calls. But anyway, Lisa, how should we be thinking about the MV-75 in the near and medium term, just given the Army's push to accelerate this program? And obviously, you've been intimately involved and you've probably seen a lot of different versions of what the plans have been. But how should we think about the current setup?
+
+Lisa Atherton
+CEO, President & Director
+
+Yes, sure. So I mean, I think the Army has been crystal clear about their desire to move faster. The mandate that came out from the Secretary and the Chief earlier in 2025 with the Army Transformation Initiative put this program as a centerpiece to what they want to execute for the war fighter in the really very near term. So as we mentioned in the prepared remarks, we had some exponential increase in the tangible output because of them kind of clearing the decks to allow the program team to work.
+
+We've got the drawing releases out, tooling, we're building parts across the EMD aircraft. But equally as important, and you guys know this, sometimes just getting through the process is as cumbersome as building the product. And so the Army has kind of cleared the decks for the program team, and we've seen this at the program office in Huntsville. They have really accelerated the speed of acquisition. And so that has helped us get to a position where we can push these aircraft into testing sooner. And so at a high level, what that does is it pulls the entire program forward by about 2.5, 3 years.
+
+And so what we'll do is deliver these aircraft on the EMD through 2027, move right into instead of having that gap, which the original program had, which we were kind of -- we were going to kind of go into this testing phase and no production. So we would have 2 years of nothing. Well, that now has been filled in. So within months after aircraft #8 is delivered, you'll see aircraft #9, followed by 10, et cetera. And so that acceleration of production in and of itself gets capability out to the war fighter, gets the Army training with this Tiltrotor aspects and allows us to get to full rate production within about 5 to 6 years. So I think you're really seeing the Army lean in, and we're right there with them.
+
+Operator
+
+Your next question comes from the line of Kristine Liwag from Morgan Stanley.
+
+Kristine Liwag
+Morgan Stanley, Research Division
+
+Congrats, Scott and Lisa. Lisa, you highlighted your focus on the portfolio and being deliberate about your investments. When you look at the portfolio today, do you intend to grow or prune? Where do you see incremental opportunities?
+
+Lisa Atherton
+CEO, President & Director
+
+So I really don't see that management as a binary choice. I think we have to have this ongoing process. And so while I won't necessarily comment on specific assets right now, we do have to evaluate every single business against that same criteria. They have to have the returns, the cash generation and the strategic fit for our long-term approach here. I certainly want to accelerate growth and scale in some high-quality aerospace and defense areas. But again, that's going to have to fit with the proper valuation and strategic alliance to what we're doing in order to make sense.
+
+So we've had really historic success with aspects like ATAC that we talked about. I mean it was a pretty small company when we acquired it. It was focused on some fleet exercises for the Navy. And now it's expanded into the Air Force, Marines, scope with the stand-off jammer and adding over $450 million of backlog. So when we look at our assets, it doesn't necessarily have to be a big bang. It sometimes is these little assets that have really great long-term potential. So we'll look at that. I think we also, as I mentioned in the priorities, have to have some vertical integration efforts. We've seen a lot of success with that as we try to control our destiny when it comes to supply chain weakness, areas like actuators, interiors, key repair components that we have to have.
+
+And I think we need to really lean in and build on that to have that resilience that we need for the long term. So -- and obviously, earlier in '25, we disposed of the Powersports business. I think that was the exact right move. And so -- stated from the beginning, whether it's to grow or prune, we really have to have demonstrated performance by the business that we either are acquiring or continue to have that performance internal to our portfolio to make sure it's relevant to the future.
+
+Kristine Liwag
+Morgan Stanley, Research Division
+
+That's super helpful. And if I could add a second question with your history at Textron Systems, I guess, Textron Systems has historically been a disruptor in autonomous systems. And when you look at capabilities today, I mean, you have one of the broadest set of capabilities with unmanned ground, air, sea command-and-control software. Now we're seeing more new players wanting to enter this autonomous space. I was wondering, can you give us the lay of the land on how to think about your offering, where you see your strengths are? And how you think this market evolves and where Textron is differentiated versus these new players?
+
+Lisa Atherton
+CEO, President & Director
+
+Sure. I mean, look, I think one of our key differentiators is that we have decades of experience here. We know how to manufacture with high rate affordably for our customer. We've seen, as I mentioned, millions of hours of this across various aspects. We've got aircraft on the backs of ships right now are performing ISR capabilities and so we know that in these austere environments, how to build products that are reliable for the war fighter and so I think because of that history and heritage, I'm pretty bullish on our opportunities there. And as you mentioned, we've done it not only on, I'll say, smaller unmanned drones in the air, it's actually harder to do it on land and in the sea because of the terrain environment. So we've demonstrated that capability as well.
+
+So look, I think as the government figures out the new way of war fighting, we need to be right there with our offerings and watching these entrants as they come in. In some cases, there might be partnerships. In some cases, it will be head-to-head competition. But I think Textron Systems has a strong offering to maintain as a key partner to the Army, Air Force and Marines in this.
+
+Operator
+
+Your next question comes from the line of Myles Walton from Wolfe Research.
+
+Myles Walton
+Wolfe Research, LLC
+
+Lisa, you just talked about investing in the supply chain, doing some verticalization. I guess the question I'd have on Aviation, is that still, you think, you're limiting function to getting to higher production rates? And where are you in that recovery of supply chain control? And maybe how much cost extra is flowing through the numbers to facilitate your deliveries as you've otherwise planned by expediting supply?
+
+Lisa Atherton
+CEO, President & Director
+
+Yes. So productivity, Aviation is certainly a key focus for us as we go into 2026. And I think it's 2 parts, right? I mean, it is continuing recovery of the supply chain. I think in large part, and we saw this at Bell as well, the majority of it, I think we have gotten that recovery. It's still those key components that continue to be headhurters. And so I think we're starting to see recovery. We're starting to see folks responding to the needs and the demands. But I mean, candidly, engines, just to call it a key component, which you have to have for these aircraft has been a laggard for us, and we have to keep working with our partners there in order to get the engines to our aircraft.
+
+The other part, though, I think that we see is workforce. We've had a high attrition, I'll say, in the early workforce folks that are, say, 1 year or 2 years into working with us. So the response of the team there, we created an in-house training program to upskill the talent there to create more longevity and resiliency of our workforce. And so those 2 pieces together is what we really have to have in order to improve the efficiency on the factory floor. And I would say that is broader than just Aviation, it's also at Bell. We saw the same type of things that we need to work on and fix. So look, I would say it's both. I think the team has some good plans. And David, I don't know if you want to add any color there on whether or not we've priced that in, but I think there's a good progress, and we'll hold them accountable to it.
+
+David Rosenberg
+Executive VP & CFO
+
+Yes, I'd just add. If we look at 2025, we certainly saw a modern improvement in the supply chain. We earn more hours in the factory. Did we get all the efficiency and productivity we hope to get in the air, no. So there's still opportunity to drive better efficiency in the factory. So that's still a slight headwind in our overall numbers, which, of course, are reflected in our guidance and it also represents a strong opportunity for us as we go forward. And as you see from our guidance, we do expect to be able to deliver more airplanes in 2026 than we did in 2025.
+
+Myles Walton
+Wolfe Research, LLC
+
+Okay. Quick follow-up, Dave, on the CapEx for '26. Is that spike expected to continue beyond '26 and...
+
+David Rosenberg
+Executive VP & CFO
+
+As we've talked about over the last 6 months as acceleration to cold, essentially, we're moving about 2 years to the left in terms of investments. So you'll probably see the elevated level in 2026 and 2027, all driven really by the MV-75 program, simply moving investment that would have been in 2028 and 2029 to the last.
+
+Operator
+
+Your next question comes from the line of Robert Stallard from Vertical Research.
+
+Robert Stallard
+Vertical Research Partners, LLC
+
+All the best, Scott, and congrats, Lisa. Welcome to the call. I wonder if I ask you a couple of questions about MV-75. You've given us the additional CapEx cost or pulled forward CapEx cost that you're going to see in '26 and '27, and there's this potential charge when you get the LRIP contract sorted out later this year. But what's the flip side of this? I mean how much could revenues go up by versus previous expectations as we look out to '27, '28, '29? And what could the returns be on those revenues versus what you might have expected before?
+
+David Rosenberg
+Executive VP & CFO
+
+So I'll talk on the -- as we've described this program, ultimately, the opportunity is between 40 and 60 units per year and you can average that out, it's going to be a significant increase on the overall revenue profile of the business. And we expect that, that would start rolling in later this decade, much quicker than originally expected. The other point I'd make, historically, in the past, Bell was a double-digit margin business. And certainly, as we -- as the program matures, and we get into the initial lots of production, our expectation would be that they would return to that. All these actions we're describing to you today means that's accelerated versus where it previously would have been, which they -- would have taken a longer time this decade.
+
+Robert Stallard
+Vertical Research Partners, LLC
+
+Okay. And a quick follow-up, Dave. So if you take this charge later this year, where would it leave booking margins on the MV-75 going forward, they be like low single digit and then eventually move up to those low double-digit levels?
+
+David Rosenberg
+Executive VP & CFO
+
+Yes. I mean, as you know, Robert, we're treating this as one program from a booking rate as new contract line items get awarded. If you look, for example, in 2024 and Q4 of 2024 when the 2 [indiscernible] units got awarded, that resulted in us having to accume catch-up that lowered our booking rate, still in the low single digits margin percent. And in Q3 of 2025, we had an additional [indiscernible] awarded that actually resulted in us raising the booking rates. Again, still in that range. So this is still in the mid-, low single digits as we go forward. And each time a new contract line item is awarded, we adjust it up and down. But this isn't the first time this has happened. And you can actually see that if you look at our EACs from Q4 of '24 or Q3 of 2025. But the program, we report and emphasize the program will continue to be profitable as we expect to be profitable as we go forward.
+
+Operator
+
+Your next question comes from the line of Seth Seifman from JPMorgan.
+
+Seth Seifman
+JPMorgan Chase & Co, Research Division
+
+Congratulations to Scott and to Lisa. I wanted to ask with -- even with the CapEx that you're planning for this year, still have some cash to deploy, no debt due this year. It seems from the release that the share count is down a bit. How do you think about using your cash here?
+
+Lisa Atherton
+CEO, President & Director
+
+Yes. Look, I'll start and Dave, if you want to pile on there. But we're going to continue to deploy that as appropriate. We're going to make sure that we do proper research and development where it makes sense across the business and get ready, as we said, for the MV-75 acceleration, and we'll continue to do share buybacks as it makes sense. So...
+
+David Rosenberg
+Executive VP & CFO
+
+Yes. Our expectation is we'll continue to deploy the relatively similar percentage that we've had in the past in our -- from our free cash flow, and we're really comfortable where we are currently on a debt level, our ratios, et cetera. We're a good mid-BBB rating, and that's where we expect to continue to be.
+
+Seth Seifman
+JPMorgan Chase & Co, Research Division
+
+Excellent. Excellent. Very good. And then, Lisa, I bugged Scott with this question a couple of times in the past. But just with the acceleration of the program, maybe I can ask you since you've been so close to it, how do you think about concurrency risk with moving straight in LRIP? And what gives you kind of confidence that we won't see future charges?
+
+Lisa Atherton
+CEO, President & Director
+
+Yes. Look, so we've been working on this program for 15 years. And so with the prototype and the over 200 hours of flight that we had on the demonstrator, the fact that we're seeing on the digital engineering yield that we have on these programs, I mentioned we've got parts that are already being built. We're having 100% first pass yield. What that means is the parts are coming out exactly as designed. And so the fact that we're seeing that kind of performance out of the program gives me the confidence that what we build is what we designed. And so when we put that through test, I mean, certainly we'll discover some things. But I mean, I think there's -- we have high confidence that we have rung out a lot of the concerns that you might have seen in older generation type development programs.
+
+Operator
+
+Your next question comes from the line of Noah Poponak from Goldman Sachs.
+
+Noah Poponak
+Goldman Sachs Group, Inc., Research Division
+
+Congrats, Scott and Lisa. And Scott, thanks for all the time you spent with us over the years. I want -- I was hoping to talk more about the Aviation margins. We see the recast taking 60 basis points out of the reported. I guess, Dave, I don't know if you could just sort of tell us what the incremental was kind of fully adjusted in '25 and in your '26 guidance? And I guess the '25 guide had been 12% to 13%. If we take the 60 basis points out of that, the guidance for '26 is flat to down, I guess. So are we just recasting the aviation margin? Or are we also resetting the aviation margin expectation for some reason?
+
+David Rosenberg
+Executive VP & CFO
+
+No, we're certainly just recasting. I mean, I think if you look about -- you're correct, we guided last year at 12% to 13% and ended up slightly below that. I mean, I think that's largely around the volume story. While we did have higher volume year-over-year, we ended up with a little more -- a little less volume than we expected. But I mean, as we go forward, if you look at our incrementals this year, depending on where you end up in the range, I mean, we're probably between 15% to 20%. We've often said that this business should have incrementals of 20% to 25%, and that view has not changed.
+
+I think the key to us getting there is continuing to have efficiency and productivity improvements in the factory that will drive higher volume. And of course, where we've established the market over the last 5 years, pricing remains solid. So that the business should continue to convert at 20% to 25%, and also, I should mention with a very strong aftermarket business. We grew 6% last year. We expect to grow 6% this year. So it's certainly not a restatement of what we expect the margins to be. We feel comfortable where we're at and plan to continue to grow the business as we go forward.
+
+Noah Poponak
+Goldman Sachs Group, Inc., Research Division
+
+Okay. And then, Dave, you've talked about holding Bell EBIT flat as you ramp MV-75 and grow revenue, but work through the margin. With what you're telling us today on the LRIP and once you take the charge, is that still a view? Or do we think about that differently?
+
+David Rosenberg
+Executive VP & CFO
+
+That's still the view.
+
+Noah Poponak
+Goldman Sachs Group, Inc., Research Division
+
+Okay. So this year, you're growing revenue and the guidance is for the margin to be flat. So that would grow EBIT. I guess, therefore, that implies the margin still goes down a little bit more before then eventually going back up?
+
+David Rosenberg
+Executive VP & CFO
+
+I mean, we're going to be -- probably going to be in a relatively steady state over the next couple of years. And then with the acceleration, you'll start seeing the benefit of that. But I think I view this as a relatively steady state, which is consistent to the message we've been sharing.
+
+Operator
+
+Your next question comes from the line of John Godyn from Citi.
+
+John Godyn
+Citigroup Inc., Research Division
+
+Lisa, I wanted to just sort of brainstorm the world of a much bigger budget, not necessarily $1.5 trillion, but obviously, kind of those sound bites that are out there. What I'm trying to think through is between Bell and Systems, by the math, you guys have a lot of defense exposure. But more specifically, where do you think the points of leverage would be to the upside in a world where the budget was much higher?
+
+Lisa Atherton
+CEO, President & Director
+
+Yes. Look, I think what you see is what the Department of War is trying to prepare for. I mean, we have aspects of our business across all of that. So particularly around the Sentinel program and what our team is doing at systems around hypersonics and this thermal protective materials, I think there's points of leverage there with their emphasis on the XM30 and the Marine Corps Armed Reconnaissance vehicle and where those programs are in their terms of their development, I certainly think there's opportunity for growth and acceleration in those programs.
+
+And then as we've stated multiple times already with the MV-75 and their continued push quickly into full rate production. And so that, along with the Ship-to-Shore program will be steady. I mean, we're producing those. We're only about 15 through a program of record of 73 and so there's just, I'll say, continued foundation and solid support for these programs across all of our defense portfolio.
+
+John Godyn
+Citigroup Inc., Research Division
+
+Got it. That's very helpful. And there was a bit of a discussion earlier about adding capabilities. In a world where the budget was higher, is that part of a guiding light for adding capabilities, accelerating growth in what you call high-quality areas of A&D. I just want to connect the dots there.
+
+Lisa Atherton
+CEO, President & Director
+
+Yes, sure. So I mean, particularly around the space side of things, I think the Department of War is also kind of leaning into that. And I would like to see us move into areas of the space side of defense either with assets that we have or as we look to the future. So I certainly think that, that is a key growth area that we need to be focused on.
+
+Operator
+
+Your next question comes from the line of Gavin Parsons from UBS.
+
+Gavin Parsons
+UBS Investment Bank, Research Division
+
+Also my congrats to Scott and Lisa. Biz jet demand pretty strong overall, but it does seem like large cabin maybe is the strongest segment at the moment. Is there any opportunity there to add a larger aircraft to the Cessna family?
+
+Lisa Atherton
+CEO, President & Director
+
+Yes. Look, I think this year, we brought in 3 Blackpoint upgrades, and that wasn't necessarily the plan as we went into the year. I think that kind of -- all kind of jammed up towards the end of the year, which created a little bit of a bumpiness for us. I think our plan would be to try to do one of those at a time and do one clean sheet at a time. And right now, the focus on the Denali and getting that entered into service is the focus for the team.
+
+Gavin Parsons
+UBS Investment Bank, Research Division
+
+And then if I could just dig into the industrial margins a little bit light in '25, but expanding in '26?
+
+David Rosenberg
+Executive VP & CFO
+
+Yes. And I'll take that one. I mean, I think that -- obviously, I think Kautex did a really good job last year despite where the market is, and they've continued to see improvement in their own profitability. TSV still has some challenges kind of where the end market is. They've absorbed a certain level of tariffs, which has also been a headwind. But overall, we do see -- Golf continues to be a pretty steady business and along with their cost reduction activities that they've been continuing to do, those are kind of the combination of the 2 that are driving the improvement.
+
+Operator
+
+Your next question comes from the line of Ron Epstein from Bank of America.
+
+Ronald Epstein
+BofA Securities, Research Division
+
+Congratulations. Everybody, and Scott, hard to believe. It's been a while. So yes, so maybe a couple of questions. Just a first one, we haven't talked about much. On the MV-75, how are you all thinking about the logistics and support for the aircraft? Because once aircraft is built, logistics and support can be pretty profitable. And what's the model around that? And how are you thinking about that?
+
+Lisa Atherton
+CEO, President & Director
+
+Yes, sure. So if we model it after what we've done with most of our programs on the military aircraft side, there's typically kind of a performance-based logistics type approach that the military works with us on. I think the Army and this approach also has been very intentional on how they have gone with basically their purpose rights. They want to have some organic capability themselves. So we will work with them to help them stand up that capability. Obviously, service parts, repair, a lot of that will be probably stationed near where a lot of the center of their aircraft are. They're likely going to be at Fort Campbell to begin with.
+
+So we'll be working with them to ramp that and how those spares packages would look as they lay the program out into the various aspects of the Army. They're different than how we deal with the Marines. The Marines have kind of 2 centers of location. The Army supports their aircraft where the Army is. And so we will have to support them in that in a more disparate way.
+
+Gavin Parsons
+UBS Investment Bank, Research Division
+
+Got it. Got it. Got it. And then maybe just going to pull something out of the garage and you'll know what I mean in a minute. Something we should talk about a little bit and sort of faded away was Scorpion. And the reason I bring that up, not that maybe there's immediate demand for Scorpion, but you guys were ahead of the game doing something that was a lot of commercial on your own dime. And at the time, the DoD dropped the ball and didn't get them, right? And I think you all would agree with this. I think they should have. You probably think they should have, but they didn't.
+
+Things have changed. And given that you've got this awesome toolkit of a lot of commercial parts and you're doing a bunch of good military stuff and commercial stuff at Bell, a bunch of really good largely commercial, but some military at Textron Aviation, is the environment coming together for you guys to start doing something like a Scorpion or whatever, again, where it can be largely commercial with a military application at a cost point that's better? And is there receptivity for that? Was Scorpion just maybe a decade ahead of its time?
+
+Lisa Atherton
+CEO, President & Director
+
+Yes, I think that's right. I mean, I do think it was just a little bit ahead of its time. But when you look at what we're hearing in the last 8 months, it echoes exactly what we tried to do with Scorpion, which was take a commercial mentality, commercial practices off-the-shelf parts and put together a low-cost, affordable platform that is beneficial to the war fighter. And so I think because of that being a part of our DNA, I think that's something that we would lean into.
+
+We do that, frankly, now with some of our aircraft at Textron Aviation Defense and inside of Bell. We have militarized Bell commercial aircraft that go into certain special missions around the globe. But as we look to where the government currently is leaving us with this, I'll say, their new arsenal of freedom is what they've titled that as, where we have aspects that we can lean into that, we certainly will. I think that that's what they've asked of us, and I think we are well positioned to do that.
+
+Gavin Parsons
+UBS Investment Bank, Research Division
+
+Got it. Got it. And then, sorry, just one last one quickly. Could there be a new life for Scorpion? I mean, the role that you built it for is still out there, right, but just saying.
+
+Lisa Atherton
+CEO, President & Director
+
+Yes. I haven't heard of it yet, but certainly, if it comes out, you guys will be the first to hear about it because we'll be talking about it. But I think there's -- but look, I agree with the sentiment, right? There is opportunity here, and we are positioned as a company that knows how to respond to that.
+
+Gavin Parsons
+UBS Investment Bank, Research Division
+
+Congratulations.
+
+Lisa Atherton
+CEO, President & Director
+
+Thank you.
+
+Operator
+
+And that concludes our question-and-answer session and also concludes today's conference call. An audio replay will be available approximately 2 hours following the conclusion of this call. To access the replay, please dial 1-800-770-2030 and enter conference ID 6969175 and press the pound key. Thank you for your participation. You may now disconnect.

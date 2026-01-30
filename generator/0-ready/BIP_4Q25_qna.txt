@@ -1,0 +1,214 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question comes from the line of Maurice Choy with RBC Capital Markets.
+
+Maurice Choy
+RBC Capital Markets, Research Division
+
+I'll just ask one question, but I'll admit it is a multipart question on data centers and data infrastructure. Udhay in your prepared remarks, you highlighted how your contract approach aims to mitigate technology risk. Can you elaborate a little bit more on that? And also what risk do you think is underappreciated by the market?
+
+And my quick follow-up is going to be on returns. Obviously, I would expect the returns are superior to the 12% to 15% target range. So maybe you could help us understand a little better how much more better, even if it's just a range or even some factors for us to consider and quantify these premium returns?
+
+Samuel J. B. Pollock
+CEO of Brookfield’s Infrastructure business
+
+Hi, Maurice, it's Sam here. Maybe I'll start off with the returns. And then I'll have Udhay talk about the contract items and the risk that you also asked. So on the return front, I'll keep it high level and simple. But in essence, we develop new data centers at a yield to cost anywhere on average between 9% and 10%, and we monetize them at cap rates between 5.5% and 6% on average. And so that gives us a rough development profit of 300 to 400 basis points.
+
+And with leverage in the development, 70% range, that pencils into equity returns if we do everything right, into high teens or 20s. And I think that -- is a profitable industry. So that's the rough goal. And I think we'll leave it on that from returns perspective.
+
+And then maybe I'll throw it over to Udhay to answer your first 2 questions.
+
+Udhay Mathialagan
+Managing Director of Infrastructure
+
+Sure. Thanks, Sam. Look, I think taking a step back, the basis of pretty much all our data center businesses is around providing the core infrastructure and staying out of the real -- the technology that our tenants, our customers use. And so my earlier remarks around being managing the technology risk is really around the way the environment within the data centers are being designed for longer-term use and for changes that are happening at the compute infrastructure level. That predominantly translates into how power and cooling works in the data centers.
+
+So by making sure we've got very long-term contracts, so let's say, 15-year contracts, which are very specific in terms of what we deliver, we're staying completely out of any technology change that could take place in that 15-year period at a customer's sort of end. And this -- if in case it necessitates any change in the underlying infrastructure, then those as specific changes that are not to our cost at that point in time. So that was the underlying sort of comment around how we're managing our -- the committed cash flows, I guess, over that period of time in terms of technology risk.
+
+Operator
+
+Our next question comes from the line of Devin Dodge with BMO Capital Markets.
+
+Devin Dodge
+BMO Capital Markets Equity Research
+
+All right. Maybe to the extent that you're able, can you provide some additional color for the transaction where KKR acquired a stake in a portfolio of data centers from Compass? I'm just trying to get a sense for how many assets are included, the timing. It sounds like it might be phased into that partnership and maybe the net proceeds to BIP.
+
+Samuel J. B. Pollock
+CEO of Brookfield’s Infrastructure business
+
+Devin, it's Sam here. I can't really speak to the details of it because we don't get into those level of granularity on specific transactions that are private in nature. But what I can tell you is that and we mentioned this earlier in the call, we've effectively entered into JV arrangements with a number of institutional investors, which I would include KKR in that group across not just North America, but Europe as well. totaling about 850 megawatts.
+
+And effectively, the way that these arrangements work is these are, for the most part, passive vehicles in the sense that we retain operational control of the assets and retain a significant ownership stake to have alignment with our partners. And so we've done this, as I said, in markets, and it's kind of part of our playbook to recycle capital from developments to crystallize some profits to reinvest back in the business so we can fund future growth.
+
+Devin Dodge
+BMO Capital Markets Equity Research
+
+Okay. Okay. Second question, for Brookfield's, the $10 billion AI infrastructure fund, I believe BIP is one of the pools of capital that could be used to meet Brookfield's commitment. I was just wondering if you could provide a bit of a framework or thoughts on what types of investments made by the fund may be suitable or not suitable for BIP?
+
+Samuel J. B. Pollock
+CEO of Brookfield’s Infrastructure business
+
+Devin, so that's correct. So BIP is one of the entities that will fund opportunities that come from that strategy. And I think the way to think about it is transactions that have the profile that we have in our flagship funds. So returns that are, let's say, 12% and higher in sectors that are suited for BIP. So things that are, say, outside of renewable energy and investments that probably don't have a development profile that's too, too long.
+
+If the development cycle is excessively long, then that may not make it appropriate for BIP. But otherwise, I think keeping in mind portfolio construction objectives for BIP, if it's in the data center sector, if it's gas-related, if it's utility related, those are all sectors. And if the returns fit, then we would invest through BIP for those type of transactions.
+
+Operator
+
+Our next question comes from Cherilyn Radbourne with TD Cowen.
+
+Cherilyn Radbourne
+TD Cowen, Research Division
+
+Thanks very much, and good morning. On the data center side, I did want to ask if you could talk about how you think about sovereigns versus hyperscalers as counterparties and how you think the mix of your basket of counterparties could end up between those 2 groups?
+
+Samuel J. B. Pollock
+CEO of Brookfield’s Infrastructure business
+
+Hi, Cherilyn, that's great to have you on the call. So maybe I'll touch on this and Udhay, can add anything else he'd like to. I think we like both of the counterparties because it gives diversity. One of the things that serves us well across all our business is diversity of counterparties. And obviously, the hyperscalers will amazing credits are few in number and have similar exposures to AI and other data-related cash flows and sovereign nations diversifies from those risks.
+
+It also -- the other reason we've been focused on some of these sovereign AI factories is because we think it gives us a differentiated strategy than many others who are just focused on building the large mega sites for the hyperscalers. Here, we can on a more bespoke basis to assist sovereign nations to build ecosystems in their countries. The challenge with it is that governments tend to move a bit slower with than corporates.
+
+And so the time to market can sometimes be a bit longer. But as far as what the mix will be, that's a little bit too hard for me to predict at this stage. I mean we'd love to have a broad base of both hyperscalers and sovereign credits. But it's a little premature for me to speculate on that.
+
+Cherilyn Radbourne
+TD Cowen, Research Division
+
+That's helpful color. And then more of a straight-up question for David. Can you give us a sense of what we can expect from inflation indexation across your various geographies in 2026?
+
+David Krant
+CFO of Brookfield Infrastructure Partners Limited & Managing Partner of Infrastructure
+
+Look, I think as we look forward, the 2 biggest drivers of growth from an organic perspective in '26 will be the inflation indexation you highlighted as well as a significant commissioning of CapEx out of our backlog. As you've seen, it's a record level now. On the inflation front, I'd say in OECD markets, we're probably averaging between 2% and 3% on our escalators.
+
+And then on the emerging markets, it ranges depending on which metric you're looking at. But I'd say between India and Brazil as the 2 biggest emerging market exposures we have inflation pass-through in, it's probably also in the tune of 4% depending on the metric. So I think it's more manageable, still above probably 25, 50 basis points above our historical averages that you would have observed, but certainly not as elevated that you saw in 2022.
+
+Operator
+
+Our next question comes from Robert Hope with Scotiabank.
+
+Robert Hope
+Scotiabank Global Banking and Markets, Research Division
+
+Can we dive a little bit deeper into the data operations capital backlog? It looks like it's up just over $1 billion versus Q3 with about $900 million of that driven by the hyperscale backlog. So can you maybe dive a little bit deeper into what is driving the significant increase in Q4 as well as kind of what is the outlook and how large could this get?
+
+David Krant
+CFO of Brookfield Infrastructure Partners Limited & Managing Partner of Infrastructure
+
+I can start and Udhay or Sam can jump in. Look, I think, Rob, you certainly pointed out. I think across the data segment, the data center platform had the most growth. We've also onboarded the bulk fiber backlog and order book in Hotwire that we acquired in the fall. So those are another key driver in the increase in the last half of the year.
+
+But on data center itself, I think it's a little chunky in terms of when we sign new on. And as we highlighted this quarter, we had significant momentum on the leasing activity. So there was about 800 megawatts signed globally. When we sign those contracts, that's effectively when we'll put in the backlog associated with those. And so up until then, as you heard through our call, there's very little investment until a contract is signed. And then at that point, we then effectively consider the project FID and adds into our backlog. And so as you heard, it's probably a mixture of North American, European as well as a few in Asia Pacific that drove those -- those signings drove the addition to backlog.
+
+Robert Hope
+Scotiabank Global Banking and Markets, Research Division
+
+And then maybe sticking with data centers. So $3.9 billion of the backlog relates to Intel. Can you update us in terms of timing, how you're thinking about cash flow and returns there and any potential follow-on investments?
+
+Samuel J. B. Pollock
+CEO of Brookfield’s Infrastructure business
+
+Ben, do you want to give an update on the in-service date for the Intel facility?
+
+Benjamin Vaughan
+COO of Brookfield Infrastructure Partners Limited & Operating Partner of Infrastructure
+
+Yes, sure. So for the Intel facility, our JV has 2 fabs and one of which has its in-service date. So it's now producing wafers, which is great. And the second fab is making good progress towards completion. So the actual underlying operations that underpin our JV in the construction activity is progressing very well for Intel.
+
+Operator
+
+Next question comes from Robert Catellier with CIBC Capital Markets.
+
+Robert Catellier
+CIBC Capital Markets, Research Division
+
+You seem to have a pretty high level of conviction in the capital recycling, having just come off a record year and you're also continuing to make new investments. But I'm curious about the rate of commissioning capital from the backlog in '26, given this is an important part of the capital allocation process. So wondering if you could maybe quantify and characterize what you see coming in the next couple of years there relative to $1.5 billion commissioned in 2025.
+
+David Krant
+CFO of Brookfield Infrastructure Partners Limited & Managing Partner of Infrastructure
+
+Rob, it's David here. I can give you some color on the shape of that commissioning. I think I'd split our backlog into 2 various components. As you heard from the previous question, there's an Intel component which is about $3.9 billion in the number. We'd expect that to commission from our earnings profile in the back half of 2026.
+
+The other -- the balance of our backlog would be diversified across our utilities transport midstream and data businesses. And typically, as you've heard, it's a 3-year outlook. So those projects tend to be smaller, lower, shorter development cycles and build cycles. So I'd expect roughly 1/3 of that backlog, which should be close to $1.5 billion to come in online 2026 as well throughout the year. It is -- I wouldn't say there's a chunky element to it. It's pretty -- it will be pretty smooth across our utilities and our data centers driving the bulk of that.
+
+Robert Catellier
+CIBC Capital Markets, Research Division
+
+Right. So exing out Intel, which is obviously a unique investment, you're really looking at about $1.5 billion-ish a year then. Is that what you guys do?
+
+David Krant
+CFO of Brookfield Infrastructure Partners Limited & Managing Partner of Infrastructure
+
+Our backlog, excluding Intel is $5.3 billion. And so assuming average of 3 years, you're looking close to $1.75 billion probably, yes in the $1.5 billion to $2 billion.
+
+Robert Catellier
+CIBC Capital Markets, Research Division
+
+Okay. Excellent. And then my other question was just what are your views on the Canada, Alberta MOU as it relates to energy development. It looks like there's a momentum building towards a bolder energy strategy here. So I'm curious how it impacts how you manage your midstream investments in Canada. So do you hang on for more growth? Or does this derisk the asset to a point where you might consider more asset sales?
+
+Samuel J. B. Pollock
+CEO of Brookfield’s Infrastructure business
+
+Robert, look, I think it's too early to say whether or not the MOU is going to have any material impact on the growth trajectory of our businesses. Irregardless of that, though, we've already have plenty of growth in the business. There's been significant producer expansions underway, which has led to some additional tie-ins particularly in our IPL facility -- IPL network. And we've recently undertaken a number of growth initiatives North River.
+
+In terms of our plans to monetize the businesses, I think we have business plans in place for each of the businesses that we're looking to continue to develop. And I guess the only thing that would accelerate monetizations would be market conditions to the extent that they are receptive to us bringing some or part of these businesses to the market, we might look at that. So I appreciate some of that it's very loose.
+
+But I think the takeaway is that the businesses today operate in a very strong environment. And with the added push by the federal government, along with the provincial government to encourage further growth in the sector. We think that's only helpful to our businesses and makes them more attractive to potential buyers down the road.
+
+Robert Catellier
+CIBC Capital Markets, Research Division
+
+Yes, I totally agree with you. I think it's too early, and I too would want to say a couple of more cards slipped on how the MOU plays out and if they achieve the milestones as intended.
+
+Operator
+
+Our next question comes from the line of Frederic Bastien with Raymond James.
+
+Frederic Bastien
+Raymond James Ltd., Research Division
+
+During your Investor Day, you noted that Brookfield had formed partnerships to build 7 AI factories totaling 6 gigawatt of compute capacity. Can you provide an update on how that's going and whether you have more developments to announce soon?
+
+David Krant
+CFO of Brookfield Infrastructure Partners Limited & Managing Partner of Infrastructure
+
+Fred, maybe I'll tackle that and Udhay might add some further comments. But I think the answer is relatively short. We continue to progress all those very initiatives. And today, we have discussions underway with probably 5, at least in Europe, some in North America as well as some of the Middle East and one actually in Oceania.
+
+So basically, across the globe. As I mentioned to -- I think it was Cherilyn, the -- it does -- these discussions do take time, and we're probably a little disappointed that they haven't gone a little faster given the importance that each of the nations puts towards these initiatives.
+
+Nonetheless, I think we're hopeful that during the year, we'll have 1 or 2 of these progressed. And I think the only thing that I would caution you is that they tend to be smaller than some of the mega sites that you see announced with the hyperscalers. So most of these are anywhere between as small as 50 megawatts up to as much as maybe 250 in phases. Nonetheless, those are still represent meaningful dollars, and we're pretty excited to see it through.
+
+Frederic Bastien
+Raymond James Ltd., Research Division
+
+And I guess your relationship with Bloom Energy is still fairly young. You've committed to delivering just under 300 megawatts of power generation. I think your original agreement was to -- was for up to 1 gigawatt of behind-the-meter power generation is -- are you comfortable that you will see through this agreement all the way to that 1 gigawatt?
+
+Samuel J. B. Pollock
+CEO of Brookfield’s Infrastructure business
+
+Obviously, I'd be speculating on the future, so it's hard to predict. But at the moment, with the level of demand that they're seeing and the amount of developments underway, I feel pretty optimistic that we'll get to that and maybe even above that level. There's no doubt there's tons of momentum for Bloom at the moment.
+
+Frederic Bastien
+Raymond James Ltd., Research Division
+
+Awesome. So I mean your relationship obviously is strong and growing, obviously.
+
+Samuel J. B. Pollock
+CEO of Brookfield’s Infrastructure business
+
+Yes. Yes, it is.
+
+Operator
+
+That concludes today's question-and-answer session. I'd like to turn the call back to Sam Pollock for closing remarks.
+
+Samuel J. B. Pollock
+CEO of Brookfield’s Infrastructure business
+
+All right. Thank you, Liz, and thank you, everyone, for joining the call this morning. We hope you've all had a good start to the year, and we look forward to providing our first quarter results at the end of April. Thank you, and take care.
+
+Operator
+
+This concludes today's conference call. Thank you for participating. You may now disconnect.
+

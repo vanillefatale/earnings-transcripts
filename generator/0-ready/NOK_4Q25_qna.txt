@@ -1,0 +1,407 @@
+Question-and-Answer Session
+
+David Mulholland
+Head of Investor Relations
+
+Thank you, Marco and Justin, for the presentations. Alicia, could you please give the instructions for the Q&A session? As a reminder and as a courtesy to others in the queue, if you could please limit yourself to one question and a brief follow-up. Alicia, please go ahead with the instructions.
+
+Operator
+
+[Operator Instructions] I will now hand the call back to Mr. Mulholland.
+
+David Mulholland
+Head of Investor Relations
+
+We'll take our first question today from Alex Duval from Goldman Sachs.
+
+Alexander Duval
+Goldman Sachs Group, Inc., Research Division
+
+A couple of quick questions. Firstly, on Optical, it grew 20% in the quarter, but it seems you're saying it will only grow 10% to 12% in full year '26. You referenced good order momentum as well as a solid percentage contribution from AI. So I wondered to what degree your guidance for the segment reflects conservatism?
+
+And secondly, as a brief follow-up, you're guiding to a somewhat sub-seasonal trend into the first quarter for the group. I wondered to what degree that's just normalization of a better than seasonal 4Q or whether there are other factors to take into account?
+
+Justin Hotard
+President, CEO & Interim President of Mobile Infrastructure
+
+Yes, sure. So Alex, good to hear from you, and let me answer your first question. You're right. We obviously grew 17% in Q4 on Optical Networking. When you look at our Optical Networking business, we are being balanced on the 10% to 12% across IP and Optical Networking, as you said. What I would also emphasize is, we are still transitioning from a base that was, was still very telco-centric in '25, so 70-30. And if you think about where we were before that, certainly before the Infinera acquisition, significantly telco-centric.
+
+So we're building off that base. We're excited about the order momentum. And then, of course, in parallel, we're working to scale production. So, I think as you and I have talked about, we want to be disciplined in our execution and our predictability. And so therefore, that's why we've guided the way we have. But I continue to be very optimistic about this business and the long-term opportunity for some of the factors like scale across networking, the demand we're seeing in overall fiber, some of the recent announcements in this area.
+
+So, I think this is a place where absolutely, it's a strategic priority for us, absolutely, it's a focus of capital allocation. And I believe it's a market that will be a significant player in for many years ahead, but balance on where we are today given the starting point that we had, which is really only three quarters deep in terms of aggressively pursuing the AI & Cloud segment.
+
+Marco Wiren
+Chief Financial Officer
+
+And for the second question, if you look in the past as well, when we have had a very strong and higher than normal seasonality in quarter 4, we easily see a larger decline as well. And this is a little bit based on as well how our telco customers are buying. And this is more, I would say, visible in mobile network area and also the telco customer base that when they have had a lot of purchases in quarter 4 and usually the start of the year, a little bit slower, and that's why we guide that we see a somewhat lower than what we normally see.
+
+David Mulholland
+Head of Investor Relations
+
+Thank you, Alex. We'll take our next question from Richard Kramer from Arete.
+
+Richard Kramer
+Arete Research Services LLP
+
+Justin, you're pledging to grow CapEx to really record levels of EUR 900 million to EUR 1 billion. Do you have visibility in your order book of Optical or IP orders? And or is leveraging this investment require additional unannounced wins with hyperscalers? And where are you in that sales cycle? And I have my follow-up.
+
+Justin Hotard
+President, CEO & Interim President of Mobile Infrastructure
+
+Yes. And obviously, Richard, when you think about CapEx investments in manufacturing in Optical, particularly semiconductor manufacturing, as you're well aware, I'm sure, this is not something you invested in a year and you start generating returns. So this is something where we're looking at the long-term trends. And we've got a lot of confidence in the long-term market trend supported by the near-term demand that we see.
+
+Richard Kramer
+Arete Research Services LLP
+
+Okay. And for Marco, we saw EUR 300 million of restructuring in '25 and you're guiding to another EUR 450 million in cash outflow. Can investors look forward into 2027 where you think these very heavy impacts on reported versus comparable earnings drop to immaterial revenue levels?
+
+Marco Wiren
+Chief Financial Officer
+
+Yes. I think as we announced already in '23 October that we have this cost-cutting program and efficiency program. And there, we laid out also the different years until '26 where we have this restructuring cost. And we guided by that time that we expect cost savings between EUR 800 million to EUR 1.2 billion, and we said that also the costs to generate these savings will be about the same and also the cash flow is following that. And usually, the cash flow considering that we have more footprint in the European area. And that's usually -- there's delays on acting on those different cost actions that we are doing. And this is the reason why we see that '26 is more heavier on the cash outflow side as well. And -- but we are following the plan well according to what we have laid out earlier as well.
+
+David Mulholland
+Head of Investor Relations
+
+Thanks, Richard. We'll take our next question from Simon Leopold from Raymond James.
+
+Simon Leopold
+Raymond James & Associates, Inc., Research Division
+
+First thing, I wanted to ask about is particularly within the optical space scale across projects are new variant for data center interconnected. Your peers have discussed these projects. Can you elaborate on Nokia's position and how you envision this opportunity developing over the next few years? And then I've got a follow-up.
+
+Justin Hotard
+President, CEO & Interim President of Mobile Infrastructure
+
+Yes. Sure, Simon. Good to hear from you. Just a couple of things here. One, this is a space that we think is a part of the long-term trend on optics. I mean, if you look at the long-term demand on optics, think of the drive around scale across right now as being one of the most significant near term. But obviously, then you have speeds, right? We've gone through the 400- and 800-gig transition very quickly. We're ramping on 800-gig multiple pluggable wins, as we've talked about, a lot of active customer conversations on that space, continued momentum in the market in terms of what we see.
+
+But then we expect that 1.6 and 3.2 will come. And when you look at that scale across is the tailwind for both the technology transitions and the demand. And then, of course, over time, we see scale out increasingly be an opportunity for coherent optics. So that's the tailwind we see.
+
+The other thing I would just reference as you think about this is routing for us, in particular, scale across is a tailwind for. So switching is much more about the data center racks, the spine-leaf architecture. But when you think about routing, that's another tailwind.
+
+But key thing for us right now is spending the time doing the work, co-developing, co-innovating with our customers, making sure we're scaling production capacity to take advantage of this opportunity over the long term. And fundamentally, what I see is a much more mature and larger optical market, driven by the AI infrastructure build-out than we've seen in the past. And I think a much more mature in ecosystem as well.
+
+So there's a lot of work to do for us as an ecosystem and as an industry, but I think a much bigger market, and that's absolutely why we're investing into it and why you see us leaning in on capital both in terms of CapEx, but also R&D capital in the space.
+
+David Mulholland
+Head of Investor Relations
+
+Do you have a follow-up, Simon? I guess we'll move on. We'll take our next question from Sami Sarkamies from Danske Bank.
+
+Sami Sarkamies
+Danske Bank A/S, Research Division
+
+You had 5% growth at IP Networks in '25. What needs to happen for this to step up? Are the bottlenecks related to product offering, customer logos or design wins? And then on timing, how much time do you think we need for improvements. Could it happen already this year as you have signed new customers during last year?
+
+Justin Hotard
+President, CEO & Interim President of Mobile Infrastructure
+
+Sami, thank you for that. Yes, I would just say a couple of things here. First of all, we've talked about the fact that while we were well positioned post the integration of Infinera to go after the Optical Networking platform, this is a space where we've been even a little further behind. So it's been a big focus for me as we started -- as I started. And obviously, for David, as he took over.
+
+And in fact, we just announced earlier this week that we have a new Head of IP Networking, Greg Dorai and Vach Kompella, who, for those of you that have been around this industry, know Vach, is an industry legend, he's retiring. But part of that in bringing in Vach's successor was looking for someone that had deep data center experience.
+
+So the net of all of that is, as I said at CMD and even in some of our recent discussions with investors, this is a space where I think it's going to take us a little bit of time to see the growth. But I'm really, really pleased with the design win we had in Q4 that I referenced. I'm pleased with the order backlog. But I think this business needs a little bit of time to ramp. Absolutely a big tailwind as a part of the AI and data center build, and encouraging progress on mission-critical where we play in select vertical markets that value scale, security and availability, obviously, things we bring from our legacy in this space in telcos.
+
+David Mulholland
+Head of Investor Relations
+
+Did you have a quick follow-up, Sami?
+
+Sami Sarkamies
+Danske Bank A/S, Research Division
+
+Okay. I'm wondering on the CapEx outlook, is this going to be like a multiyear undertaking, if you think about higher CapEx or just like 1 year thing?
+
+Justin Hotard
+President, CEO & Interim President of Mobile Infrastructure
+
+Yes. I think what we'll continue to do, Sami, on this, and I'll let Marco comment is, we're always going to show investment against the opportunity we see in the market. So I would look at this as in line with supporting the guidance we've given you for now and really in line on Optical Networking growth as we see it. So obviously, that's -- in the future, if we saw a different growth potential in Optical, we might give you a different view on CapEx.
+
+Marco, anything to add?
+
+Marco Wiren
+Chief Financial Officer
+
+No, I -- just building over what you said that we definitely see opportunities, and that's why we believe that it's the right timing to invest more, to capture those opportunities and secure also that we have manufacturing facilities and capacities that are needed be able to deliver those demands that we see that especially in the optical side are increasing. But still, it's not so that there's a huge CapEx investments compared to other data center investments. So these are still quite reasonable investments, and we believe that there's a very good return on those investments as well.
+
+David Mulholland
+Head of Investor Relations
+
+Thanks, Sami. We'll take our next question from Artem Beletski from SEB.
+
+Artem Beletski
+SEB, Research Division
+
+So I would like to pick your thoughts regarding recent news coming out from Brussels. So, what comes to this Cybersecurity Act, the Digital Network Act. So how do you see those proposals impacting your business outlook, what comes to upcoming years?
+
+Justin Hotard
+President, CEO & Interim President of Mobile Infrastructure
+
+Look, I think on the Cybersecurity Act, the CSA, and the Digital Networks Act, DNA, look, first of all, we're pleased with this. I mean, this is -- these are some of the things we've been calling for. Certainly, since I started, I've been very vocal about.
+
+I think the key thing on the Cybersecurity Act around trusted networks is seeing a few things. One is the clarity on replacement schedules. I also think it's important, as we've said, that there's support for network operators, this kind of replacement is a big lift.
+
+Now from a supplier perspective, this is well within our capacity. If you think about the pace at which we've deployed out -- deployed networks in India or even in North America in terms of upgrades, the network upgrades that are required in Europe are something well within our scope and capability and manufacturing capacity. But it's a complex technology project. So, we think this is something that we recognize there's complexity and support.
+
+And our view is the urgency is now that we need to continue to move. And certainly, for our customers, they need to have clarity because where we're -- the platforms we're investing in today will be all the things that need to become 6G ready in the near future. And if you think about what we talked -- we're talking about AI-RAN as an example of that, that is a great example of where if you buy an AirScale platform today, it's going to be upgradable to AI-RAN as we launch that platform.
+
+And so that's the kind of opportunity we're making the investment decision now and having clarity now as an operator. As you run that project over a 2- or 3-year period, we think is particularly important, and that's why it requires support because, obviously, it's not in anybody's budgets to run an accelerated CapEx program amongst our customers. But it's also not just radio. We tend to focus on that. This is actually a really important opportunity for fiber networks and access networks and just as important, because fixed access networks are critical for consumer, they're critical for business. And then, of course, there's the transport networks and all the underlying infrastructure. So this is a pretty significant step. We're very pleased with it.
+
+I also think when you link it to DNA and you look at some of the things around spectrum harmonization and you look at the opportunity in Europe, and this is something that I've been certainly vocal about, I was talking about last week in Davos is, this is an opportunity for Europe to reshape its long-term competitiveness, its long-term competitiveness in technology, its long-term competitiveness in infrastructure and innovation and ultimately, national security, sovereignty and economic competitiveness. So I think this is really, really important.
+
+And you can just look back at the Internet super cycle to see where the winners in the Internet Super Cycle came from as a result of significant infrastructure investment. When you think about Europe and AI, Europe is incredibly well positioned. It's well positioned because you've got a great industrial automation technologies, obviously, manufacturing industries like automotive and you've got great talent in Europe. And obviously, as being our largest talent base in our -- in the company, we want to see more investment here so we can continue to support the talent here, building technology for Europe to support Europe and see a broader ecosystem develop.
+
+David Mulholland
+Head of Investor Relations
+
+Did you have a quick follow-up, Artem?
+
+Artem Beletski
+SEB, Research Division
+
+Yes. I would like to ask a follow-up on Optical Networks. And could you maybe comment whether you see some supply-related constraints when it comes to growth? I recall from CMD, so you have been commenting about order growth year-to-date a bit more than 40%, and we do understand that the market fundamentals are really robust on that front.
+
+Justin Hotard
+President, CEO & Interim President of Mobile Infrastructure
+
+Yes. Look, I think it's a great question, Artem. So first of all, obviously, if you think about this broader ecosystem, the one thing I would remind everybody is the consistent thing in the AI data center build, AI infrastructure build has been there have been constraints. There's been power constraints. There's been connectivity constraints. There's been computational silicon constraints. There's news of memory constraints right now.
+
+One of the reasons I think when we look at this, we don't see the same dynamics of the telco and Internet bubble that you saw in the late '90s is because this infrastructure build has been consistently constrained. So what we see is, we do see supply constraints that's normal with this kind of scale and build. And obviously, part of our investments is not just in our own capacity but also in supporting the ecosystem and building its capability and capacity.
+
+And again, if you look at Optical, Optical is not nearly running at the kinds of volumes that you'd see that the microelectronics industry or the traditional computational electronics industry because it doesn't have the same consumer volume off the side of it that's driven a lot of the automation and capacity that's existed.
+
+So, all of these things need to be invested in. And again, this is why we think that the market has great long-term potential given the technology, but also a lot of ongoing investment that we and the entire ecosystem need to cultivate to make sure we can deliver on the long-term success. And it's part of why we think we're favorably positioned with our indium phosphide technology and manufacturing facility.
+
+David Mulholland
+Head of Investor Relations
+
+Thanks, Artem. We'll take our next question from Daniel Djurberg from Handelsbanken.
+
+Daniel Djurberg
+Handelsbanken Capital Markets AB, Research Division
+
+Yes, on the Mobile Networks, it was clearly better than expected, and some decrease primarily due to North America. And can you comment a bit on North America? Are we comparing apples-with-apples now with regards to AT&T loss? And also do you see any possible inroad again with AT&T with the 600 build, for example, with the FirstNet upgrades? Any comments would be grateful.
+
+Marco Wiren
+Chief Financial Officer
+
+Yes. Thank you, Daniel. Just like you alluded to as well, in '26, we will see some headwinds from North America in the Radio Access Network side, considering the customer losses that we had, and that will have an impact. Otherwise, I would say that in market-wise, we see quite stable market in the Radio side. It's -- where we see growth is AI & Cloud in North America is extremely positive brands there right now when it comes to that segment.
+
+Justin Hotard
+President, CEO & Interim President of Mobile Infrastructure
+
+Let me take AT&T. First of all, and just to remind everybody, AT&T is a very, very large, strategic and important customer for us. They are a customer for us across core networks, fiber access. So if you think about NI and MI, they're a very important customer for us and a very strategic one, given the investments that they're making today and their networks. And we've talked about a little bit of that in the past as well.
+
+Look, from my standpoint, as I think about customer opportunities and market opportunities, we want to pursue every piece of profitable market share that we can. And if we're honored to be a part of their network in the future, we'll absolutely take that opportunity. Right now, our focus is on delivering on our commitments to them and to all of our customers. And as we said in the restructuring, as you heard from Raghav at CMD, becoming an easier company to deal with from a customer perspective, particularly for our telcos where we need to do more to be working with them around collaboration, co-innovation and making sure that we help them deliver the simplification and the operating leverage they need in their networks to deliver on their strategies.
+
+David Mulholland
+Head of Investor Relations
+
+Thanks, Daniel, did you have a follow-up?
+
+Daniel Djurberg
+Handelsbanken Capital Markets AB, Research Division
+
+Yes. Perhaps just a short one on the book-to-bill on Optical and IP Networks being positive still. Can you give some more comments on those on a separate note, i.e. comparing them, the relative magnitude or something?
+
+Justin Hotard
+President, CEO & Interim President of Mobile Infrastructure
+
+Each one is good. Each one is healthy on the book-to-bill. If you put them together, they're good. If you split them, they're good. We're not blending.
+
+David Mulholland
+Head of Investor Relations
+
+Thanks, Daniel. We'll take our next question from Terence Tsui from Morgan Stanley.
+
+Terence Tsui
+Morgan Stanley, Research Division
+
+I had a question around the operating guidance for the full year, please, of EUR 2 billion to EUR 2.5 billion. I would love if you can provide some color around the EUR 500 million guidance range, please. You noted that 2025 was slightly ahead of the midpoint. So I'm just interested to learn about reasons to be a bit more optimistic, and reasons to a bit cautious in your thinking.
+
+And then the quick follow-up relates to Q1 guide. What FX are you assuming there? Are you using the spot of USD 1.2?
+
+Justin Hotard
+President, CEO & Interim President of Mobile Infrastructure
+
+Marco, do you want to take that?
+
+Marco Wiren
+Chief Financial Officer
+
+Yes. When it comes to the guidance, EUR 2 billion to EUR 2.5 billion, there's a couple of things that we mentioned also at the Capital Markets Day that we will have some new product launches during this year. And always when you have new product introductions, there will be an impact on gross margin as well. And that's what we see. But of course, these product introductions are very important for our longer-term journey and we see very good market opportunities going forward.
+
+When it comes to the same opportunities, we also -- just like we have said earlier, we invest in more in our opportunities in AI & Cloud, which will have an impact on the OpEx as well. But we definitely see more opportunities going forward definitely in the AI & Cloud market side. And that's why it's important that we prepare ourselves for those opportunities. But also, this is a transformational year. We are still doing a lot of changes and securing that we are very lean and mean and efficient machine and capture those opportunities in the market.
+
+Justin Hotard
+President, CEO & Interim President of Mobile Infrastructure
+
+Yes. Maybe I'll just add, Terence, I think when you think about the range, right, obviously, what we want to be is disciplined around our guidance and our execution and much more predictable. And I've talked about this quite a bit. Marco has talked about it quite a bit. But that -- the recognition that we are also in two very different business cycles right now, tremendous growth in AI & Cloud, flat market in telco, emerging opportunity in defense and mission-critical enterprise. So, recognizing that the businesses are in a different cycle, the markets are in a different cycle, that's part of the balance of making sure that we're giving you visibility.
+
+And obviously, should we see something that changes our visibility, we'll update it. But we want to give you as much visibility as possible and make sure that when we lay out targets, we're consistent, we're predictable and much like we've done for two quarters, we get into a more consistent habit of that.
+
+And I'd just remind everybody that, that hasn't been our history, but it's a big part of where I would like to see us go as we go after these growth opportunities to make sure that we give you the visibility and we go do what we say we're going to do.
+
+Marco Wiren
+Chief Financial Officer
+
+The currency rate, we have USD 1.18 in our estimate, and this is based on what we see right now. And if there's any changes in the currency, we will update as well. But remember that we have about at least half of the U.S. revenues, for example, U.S. flows are hedged for the full year. So if we just look a little bit the sensitivity, before hedging a EUR 0.02 move on the USD versus euro would imply an operating profit of EUR 50 million change. But as I said, about half of that is hedged.
+
+David Mulholland
+Head of Investor Relations
+
+Thanks, Terence. We'll take our next question from Felix Henriksson from Nordea.
+
+Felix Henriksson
+Nordea Markets, Research Division
+
+Yes. Partly relating to the previous question on supply shortages. Are you, sort of, expecting to encounter any headwinds from these rising memory prices on your gross margin? And can you just provide some color on your cost exposure to this trend?
+
+Justin Hotard
+President, CEO & Interim President of Mobile Infrastructure
+
+Yes. I would just say, overall, when you think about our bill of materials at a macro level across the company, this is not a huge part of our bill of materials. It's a portion, but it's not a material portion.
+
+Second, in terms of supply and commitments, I think our focus right now is on making sure we continue to secure the supply based on the commitments we have, and we do have -- this is a place where we have long-term agreements. And then, of course, I think as you've heard in the industry, I think we expect this to be passed through to pricing. So from our perspective, this is a market effect. It's very consistent across the market. And so we'll address that. But overall, this isn't -- certainly, if you looked at our business overall, you'd say this is not a material part of our revenue, but an important one that we manage.
+
+David Mulholland
+Head of Investor Relations
+
+Do you have a quick follow-up, Felix?
+
+Felix Henriksson
+Nordea Markets, Research Division
+
+Yes. Just quickly on your balance sheet and net cash. I think the end of the year net cash implies around 17% of last 12-month net sales, which is slightly above the 10% to 15% range that you used to have historically. Are you sort of happy with those levers? Or do you see anything that you would want to do with that setup?
+
+Marco Wiren
+Chief Financial Officer
+
+Yes. Thank you. When it comes to the capital allocation, framework is very clear for us. And whenever we see that we can invest more in R&D internally, so that's always our priority #1. And just like we alluded earlier as well, that we see opportunities in -- especially in AI & Cloud customer segment. So we are investing more there.
+
+The second priority we have is seeing that how can we strengthen our deliveries and our opportunities to capture those market trends through M&A.
+
+And the third one is the dividend. So, we aim for recurring and stable and over time, growing in dividends.
+
+And then the fourth is that if we deem to have excess cash, then we can consider share buybacks. So this framework is something we follow. And if there's any news, we will inform you as well.
+
+David Mulholland
+Head of Investor Relations
+
+Thanks, Felix. We'll take our next question from Emil Immonen from DNB Carnegie.
+
+Emil Immonen
+DNB Carnegie, Research Division
+
+I just had a question on the investment in the CapEx. It's quite a big step up. And I'm just wondering if it's all about increasing your capacity, how much would you say that your capacity is already utilized? So, are you working at full capacity? Or how should we think about kind of ramping up production and how you plan for that overall?
+
+Justin Hotard
+President, CEO & Interim President of Mobile Infrastructure
+
+Sure, Emil, thanks for the question. So if you think about what we've shared so far, we have an existing fab in California. We've been investing in bringing a new fab online. This is something that Infinera had started before we acquired them, and we're continuing to invest. And this was also the place where we got partial funding in the CHIPS Act from the U.S. government. That indium phosphide fab is the one -- the next one is the one we expect to come online later this year.
+
+What I would say is that we're certainly well on track to consume capacity in the existing one, and we absolutely need the new fab to come online to support the demand that we're seeing and to meet our forecast. So, our longer-term forecast because, obviously, as it comes on later this year, it won't contribute as much to production this year.
+
+This is a -- this is also critical for us because at the core of our capability and our differentiation is our photonic integrated circuit. It's one of the key elements of the components of these photonic systems, and it's a place where we believe we have differentiation in the product itself.
+
+So what we can do and what's a little bit different than when you think about a traditional semiconductor fab or the higher volumes silicon fabs you might consider in computational silicon or memory or others is that our capital investment size tends to be much smaller to add additional capacity. And that's really just the nature of optical technology and also the nature of indium phosphide.
+
+So hopefully, that gives you a couple of dimensions to think about, but I would think about the investments we're making really in that new fab supporting '27 demand. They're starting to ramp during '27. We'll have some reduction this year, but mostly in '27. And then think about the ability to add capacity in that fab or in others as being much smaller chunks.
+
+So because I realized, well, first of all, while this CapEx is significant for us at an overall level, it's still pretty modest in terms of our CapEx, 5% overall for the company. Secondarily, what I would say is when you think about this CapEx in terms of the broader semi industry, it's really nominal in terms of the overall spend and the size of investments that some of the -- some of our partners in memory and computational silicon make.
+
+David Mulholland
+Head of Investor Relations
+
+Do you have a quick follow-up, Emil?
+
+Emil Immonen
+DNB Carnegie, Research Division
+
+Yes. Maybe to follow up on how aggressive do you feel you are? So is this -- it's still -- yes, it's a nominal amount. But would you say that you're aggressive? Or is this kind of you're only investing for the 100% of demand you're seeing right now and you're not wanting to overinvest at this point?
+
+Justin Hotard
+President, CEO & Interim President of Mobile Infrastructure
+
+I think we're -- I think this market is moving, Emil, so quickly that we're -- this is a conversation that is ongoing in terms of where we see the long-term market and where we're investing. And obviously, the other thing here is, right now, if you think about this market, we're vertically integrated. Others are vertically integrated, some are not. You can kind of look at two extremes. Computational silicon is obviously not a vertically integrated game. TSMC, Intel, GlobalFoundries are largely the leaders in that. So you've got a clear segmentation in the value chain. Memory is vertically integrated.
+
+So that's the other strategic question we'll continue to think about as we go forward. But right now, we see tremendous value in that vertical integration. And the choice that we're making is to make sure that we have sufficient capacity to meet the demand, recognizing that we're in a very fast-moving market. Scale across is an emerging opportunity, as I touched on earlier. And we also believe that over time, as speeds continue to ramp within the data center, there will be more opportunity for coherent optics within the data center.
+
+David Mulholland
+Head of Investor Relations
+
+Thanks, Emil. We'll take our next question from Jakob Bluestone from BNP Paribas.
+
+Jakob Bluestone
+BNP Paribas, Research Division
+
+Just a quick one. Can you maybe just give us an update on the H1 versus H2 sort of margin phasing that you flagged at the CMD? I don't know if you can maybe quantify how big we should think about that? Or is it just kind of the normal seasonality of the business given it always tends to be a bit Q4 weighted anyway?
+
+Marco Wiren
+Chief Financial Officer
+
+Yes. Thank you. Yes, especially, as we said that this is visible in Network Infrastructure side, considering that we launched new products in the first half, and that's why we see this margin impact. We haven't guided exactly per quarter, but of course, we see that the second half, we should see improvement in the margins in this field as well. But it's just that it takes some time before we come over this ramp-up phase and second half is that why giving a little bit better margin profile than first half.
+
+David Mulholland
+Head of Investor Relations
+
+Thanks, Jakob. Did you have a quick follow-up?
+
+Jakob Bluestone
+BNP Paribas, Research Division
+
+Just a quick one, just on the memory pricing comments. You mentioned that you have long-term contracts. I mean, given it looks like you probably have elevated pricing for at least beyond this year. Can you maybe just give us a sense of those contracts multiyear?
+
+Justin Hotard
+President, CEO & Interim President of Mobile Infrastructure
+
+Yes. I mean, I would think of these as multiyear contracts. And obviously, the supply agreements are multiyear and then pricing varies depending on the contract term.
+
+David Mulholland
+Head of Investor Relations
+
+Thanks, Jakob. We'll take our next question from Sébastien Sztabowicz from Kepler Cheuvreux.
+
+Sébastien Sztabowicz
+Kepler Cheuvreux, Research Division
+
+On Mobile Infrastructure, you don't provide any guidance and notably for sales, maybe given more limited visibility. The LAN market is now stabilizing. Do you see any specific downside or upside to your market share in mobile in 2026 beyond the noncontract loss at AT&T?
+
+And the second one is on the cost savings. Where have you finally ended 2025 in terms of cost savings? And what do you expect for '26? Do you plan to accelerate a little bit further the cost-cutting actions beyond 2026? Or you will be more on a normal OpEx run rate going forward?
+
+Marco Wiren
+Chief Financial Officer
+
+I can start. When it comes to mobile markets, as we said earlier, we see that the market is quite stable in '26. And there's some regional variations here. We can see that we could expect some recovery in India. And then there's some other pressures in like LatAm and other areas.
+
+Of course, our aim, as we had guided in -- already in the Capital Markets Day is that in the Mobile Infrastructure side, our aim is that we will improve the profitability. So we guide gross margin and operating profit levels. So gross margin, we have said that we aim to 48% to 50% gross margins. And we've said that we will grow from the EUR 1.5 billion levels going forward towards 2028. And of course, our ambition is that whenever there's opportunities to gain market share, we will capture those opportunities in the mobile side as well.
+
+When it comes to cost savings, I don't know if...
+
+Justin Hotard
+President, CEO & Interim President of Mobile Infrastructure
+
+I would just add two things. I think one, obviously, there's some mix, as you said. The other thing for us, as we talked about, is we're not chasing revenue for revenue's sake. So I think what you -- what I would think about is the reason we gave you a guidance on gross margin and profit is those are really the two things we're focused on, and maximizing gross margin and profit, recognizing there's some inherent scale we need to maintain in the business. But working with those customers we value and delivering those services where they value our technology platforms and associated services.
+
+So those are the ways I would think about the dimension of the approach that Marco was talking about.
+
+Do you want to talk about cost reduction?
+
+Marco Wiren
+Chief Financial Officer
+
+Yes, thanks. When it comes to cost reductions, we have the program now, which is running until end of '26. And we believe that we're going to deliver according to those promises, what we have said earlier as well. So, and beyond that, we don't have any cost-cutting programs. What we've said also is that what we do continuously is to secure that we are focused on the efficiency, operational leverage, and secure that we are doing things in the most efficient way continuously. So, this is something that we are getting into everyone's DNA that is the way of working in Nokia.
+
+David Mulholland
+Head of Investor Relations
+
+Thank you all. And apologies to those still in the queue, but we've run out of time. So this concludes today's call.
+
+I'd like to remind you that during the call, we have made a number of forward-looking statements that involve risks and uncertainties. Actual results may, therefore, differ materially from the results we currently expect. Factors that could cause such differences can be both external as well as internal operating factors. We have identified such risks in the Risk Factors section of our annual report on Form 20-F, which is available on our Investor Relations website.
+
+Thank you all for joining us.
+
+Operator
+
+The conference has now concluded. Thank you for attending today's presentation. You may now disconnect.
+

@@ -1,0 +1,163 @@
+Whirlpool Corporation (WHR) Q4 2025 Earnings Call January 29, 2026 8:00 AM EST
+
+Company Participants
+
+Marc Bitzer - Chairman & Chief Executive Officer
+Roxanne Warner - Executive VP & CFO
+Juan Puente - Executive President of North America & Global Strategic Sourcing
+Ludovic Beaufils - Executive President of KitchenAid Small Appliances, Latin America, Global Information Tech. & Design
+
+Conference Call Participants
+
+David S. MacGregor - Longbow Research LLC
+Michael Rehaut - JPMorgan Chase & Co, Research Division
+Michael Dahl - RBC Capital Markets, Research Division
+Rafe Jadrosich - BofA Securities, Research Division
+W. Andrew Carter - Stifel, Nicolaus & Company, Incorporated, Research Division
+Eric Bosshard - Cleveland Research Company LLC
+Sam Darkatsh - Raymond James & Associates, Inc., Research Division
+Charles Perron-Piché - Goldman Sachs Group, Inc., Research Division
+Jeffrey Stevenson - Loop Capital Markets LLC, Research Division
+
+Presentation
+
+Operator
+
+Good morning, and welcome to Whirlpool Corporation's Fourth Quarter 2025 Earnings Call. Today's call is being recorded. Joining me today are Marc Bitzer, our Chairman and Chief Executive Officer; Roxanne Warner, our Chief Financial Officer; Juan Carlos Puente, our Executive President of North America and Global Strategic Sourcing; and Ludovic Beaufils, our Executive President of KitchenAid Small Appliances and Latin America. Our remarks today track with a presentation available on the Investors section of our website at WhirlpoolCorp.com.
+
+Before we begin, I want to remind you that as we conduct this call, we will be making forward-looking statements to assist you in better understanding Whirlpool Corporation's future expectations. Our actual results could differ materially from the statements due to many factors discussed in our latest 10-K, 10-Q and other periodic reports. We also want to remind you that today's presentation includes non-GAAP measures outlined in further detail at the beginning of our presentation. We believe these measures are important indicators of our operations as they exclude items that may not be indicative of results from our ongoing business operations. We also think the adjusted measures will provide you with a better baseline for analyzing trends in our ongoing business operations.
+
+Listeners are directed to the supplemental information package posted on the Investor Relations section of our website for the reconciliations of non-GAAP items to the most directly comparable GAAP measures. [Operator Instructions].
+
+With that, I'll turn the call over to Marc.
+
+Marc Bitzer
+Chairman & Chief Executive Officer
+
+Thanks, Scott, and good morning, everyone. Today, we're going to discuss our 2025 results and share our expectations for 2026. Before we dive in, I would like to acknowledge 3 leadership promotions we have recently made. By brand new faces or rather new voices on this call, they together represent over 70 years of experience within Whirlpool. Each one of them brings deep operational, strategic and financial experience to a new role. So let me start by handing it over to Roxanne to introduce herself.
+
+Roxanne Warner
+Executive VP & CFO
+
+Thanks, Marc, and good morning, everyone. I am honored to step into the role of Chief Financial Officer of Whirlpool Corporation. Having spent the last 18 years at Whirlpool, I have a deep appreciation for our operations and a firm commitment to driving long-term shareholder value. Prior to my current role, I served as Executive Vice President, Finance and Corporate Controller. In 2021, I was the Chief Financial Officer of our European segment, where I led both finance and integrated supply chain operations and supported the organization through our European divestiture. Joining Whirlpool in 2008, I have had the privilege of holding numerous roles across cost management, commercial and corporate finance, including leading the finance functions of our U.S. laundry and U.S. sales organization in North America. In 2019, I had the honor of leading Investor Relations where I connected with both our investors and analysts. I look forward to reestablishing those connections and creating new ones. I'm excited to work alongside the leadership team and our employees to deliver our next chapter of growth.
+
+Now I will turn it over to Juan Carlos.
+
+Juan Puente
+Executive President of North America & Global Strategic Sourcing
+
+Thanks, Roxanne, and good morning, everybody. It's a privilege to be speaking with you today as I start my new role leading MDA North America and Global Strategic Sourcing. I joined Whirlpool as an intern in 1996, and I have spent the last 30 years in almost all functions and regions of the corporation. While my recent years were spent abroad, I have been in North America before, where I previously led our Laundry business unit, the core of our product portfolio as well as served as General Manager for our business with Home Depot. Having held these roles before, I know that winning in North America requires continuing to strengthen our brand and product portfolio, enhance our customer relationships as well as our world-class supply chain to fulfill our purpose of improving life at home. I'm very excited to return to the MDA North America business. I'm looking forward to building on our powerful foundation and creating value for our stakeholders.
+
+Now I'll hand the call to Ludo.
+
+Ludovic Beaufils
+Executive President of KitchenAid Small Appliances, Latin America, Global Information Tech. & Design
+
+Thanks, Juan Carlos, and good morning, everyone. Expanding my role beyond KitchenAid Small Appliances to our MDA Latin America business is an exciting opportunity. It's an opportunity to drive growth for both an iconic global premium brand and now iconic local brands such as Brastemp in one of our most dynamic high-growth segments. I have spent the better part of my 20-year career with Whirlpool, developing our products and brands from inception to industrialization and to commercialization. I went from leading critical categories in EMEA and in the U.S. to driving our product marketing organization in North America. These roles, combined with my more recent position in the global product organization and my current responsibilities with KitchenAid have given me a unique vantage point on how to drive innovation and cost competitiveness to win in every channel and every market. I look forward to this tremendous opportunity to accelerate growth for our company.
+
+Now I'll turn the call back over to Marc to provide an overview of our 2025 results.
+
+Marc Bitzer
+Chairman & Chief Executive Officer
+
+Thanks, Ludo. I'm very excited about these leadership appointments and have every confidence that we have a right team in place to continue to execute on our strategic priorities. As you're well aware, 2025 marked a difficult year with unforeseen challenges, in particular for our North American business. There are two particular challenges that our business faced. One, tariffs. As domestic producers, we will ultimately benefit from the tariffs that were put in place. There is no question in my mind. However, in 2025, we absorbed roughly $300 million of tariffs, largely for components and some finished products, while the industry did not yet move on pricing. This might be surprising given that our competitors are 2 to 4x more exposed to tariffs than we are. But the significant amount of inventory preloading ahead of the tariffs and the uncertainty of a tariff framework might explain the delay of industry price moves.
+
+The good news is that we observed a meaningful change of industry pricing and promotions after mid-December into the MLK holiday and the upcoming President's Day. Two, housing. As we discussed in prior calls, existing home sales are the most important driver for appliance demand and in particular, for discretionary demand, which inherently is more margin attractive. However, the mortgage lock-in effect, coupled with lower consumer confidence has led to a 30-year low of existing home sales. While there is no doubt about an eventual multiyear housing recovery, 2025 did not yet unlock the housing sector.
+
+With these macro challenges in mind, we delivered results largely in line with prior year. Our global organic revenues were essentially flat, and we're pleased with the MDA North America market share gains during the second half of 2025. Our operating margins were slightly below 5%, largely driven by the intense promotional environment in North America during Q3 and in particular, Q4. We delivered cost takeout actions of $200 million, but with the absence of industry pricing, we were not enough to mitigate the cost of tariffs. Lastly, our Latin America business had yet another strong year, while our KitchenAid SDA business delivered outstanding double-digit growth rates with mid-teen operating margins.
+
+With 2025 now in the rear mirror and despite the extreme macro volatility we experienced, we're confident about 2026. First of all, we believe we will be able to sustain the strong trajectory of our KitchenAid SDA and our Latin America business. For North America, there are number of catalysts to drive margin improvements. First, we already identified more than $150 million of cost actions, primarily focused in North America. This will allow us to largely offset the remainder of the tariff headwinds. Second, we launched a record number of new products last year. These new products launches have been hugely successful with expanded floor space and incremental share gains. Third, the industry's promotional intensity has clearly normalized over the past 6 weeks. We have already announced and implemented promotion pricing changes as well.
+
+Lastly, while the new housing starts will likely still be slow, we do see a potential faster improvement of existing home sales on the back of lower mortgage rates. However, as you will hear later during our guidance discussion, we have not yet factored in any discretionary demand upside.
+
+With this, let me hand it over to Roxanne, who will discuss the 2025 results in more detail.
+
+Roxanne Warner
+Executive VP & CFO
+
+Thanks, Marc. Turning to Slide 6. I will provide an overview of our full year results. As Marc mentioned, our global organic revenue was flat to prior year, and we delivered significant cost takeout to help mitigate the incremental cost of tariffs. We did not see the industry pricing adjustments to offset these incremental tariff costs in 2025 and the prolonged intense promotional environment unfavorably impacted our margins. Ultimately, we delivered a full year ongoing EBIT margin of 4.7% and a full year ongoing earnings per share of $6.23. Given the challenging operational environment in 2025, these results are proof of our resilience and commitment to focus on what we control.
+
+We generated $78 million of free cash flow, which was unfavorably impacted by the timing of tariff payments and higher inventory necessary to support our new products. In November, we executed the previously announced India share sale transaction, which resulted in a reduction of our majority stake from 51% to a minority stake of 40%. The proceeds were utilized to pay down debt in line with our capital allocation priorities. We are pleased with the result of this transaction and our retained position. We will continue to evaluate all options to further reduce our debt throughout 2026, in line with our guidance and capital allocation priorities. We continue to fund a healthy dividend, returning approximately $300 million to shareholders in 2025.
+
+Turning to Slide 7. I will provide an overview of our fourth quarter and full year results for our business segments, starting with MDA North America. On a full year basis, net sales, excluding currency, was largely flat year-over-year. We saw continued strong share gains throughout the fourth quarter, driven by the momentum of our new product launches. Promotional activity remained intense as industry pricing did not reflect the cost of tariffs, which impacted margins. As a result, the segment delivered an EBIT margin of 2.8% in the fourth quarter and a full year EBIT margin of approximately 5%.
+
+Looking ahead, given the industry's pricing changes over the last 6 weeks, we expect a less promotional environment. In December, we saw a shortening of the post-Black Friday promotional period. And in January, we saw a decrease in the depth of the promotional pricing for the MLK holiday. Based on these data points, we expect a less promotional environment during President's Day. We have already announced and implemented promotional pricing changes that went into effect in early January. We expect these actions to put MDA North America back on track for margin expansion in 2026, which we will discuss in detail shortly.
+
+Moving to our MDA Latin America business. On a full year basis, net sales, excluding currency, declined approximately 2% year-over-year due to volume decline. In the fourth quarter, we continue to see economic instability in Argentina and an aggressive promotional environment in Brazil, which negatively impacted revenue and margins. These unfavorable results were offset by a favorable operational tax benefit related to the DIFAL legal ruling. As a result, the segment delivered a full year EBIT margin of 6.2%.
+
+Next, I will review the results for our MDA Asia business. On a full year basis, excluding the impacts of the India transaction and currency, net sales increased approximately 1% year-over-year. The segment delivered a full year EBIT margin of approximately 5% with 120 basis points of expansion year-over-year. The India transaction resulted in margin accretion of approximately 40 basis points, while the remaining benefit was driven by a favorable cost takeout. As a result of the deconsolidation of India, we will not report Asia as a stand-alone segment moving forward.
+
+Turning to our SDA Global business. SDA Global continues to perform very well, achieving impressive net sales growth of approximately 10% year-over-year in the fourth quarter and approximately 9% on a full year basis, driven by new product launches and strong direct-to-consumer business. Fourth quarter EBIT margins expanded 130 basis points year-over-year as a result of favorable price mix. For the full year, the segment delivered a strong EBIT margin of 16% with 170 basis points of margin expansion year-over-year.
+
+Now I will turn the call over to Juan Carlos and Ludo to review how Whirlpool's investment thesis is as strong as ever.
+
+Juan Puente
+Executive President of North America & Global Strategic Sourcing
+
+Thanks, Roxanne. Turning to Slide 9. I will cover how our MDA North America is well positioned to further organic growth and margin expansion. Our structural drivers for value creation in North America are stronger than ever. The first driver is our strong lineup of new products. As Marc mentioned earlier, in 2025, we transitioned over 30% of our product portfolio to new products, and we're seeing a very strong response from both our trade customers and consumers. These new products gain significant more floor space and their predecessors within the key retailers, resulting in share gains as we exit the year, and we have more innovation coming in 2026.
+
+Second driver is our unique position as a domestic manufacturer in the tariff environment. Our U.S. manufacturing legacy started over 110 years ago, and we never left. We produce more of our appliances in the U.S. than any of our industry peers who in contrast, only produce approximately 25% of what they sell in the U.S. Our U.S. factories use approximately 96% American steel and work with thousands of U.S. suppliers. We operate some of the largest appliance plants in the world, and we continue to make investments to strengthen our domestic position.
+
+The tariffs imposed by the current administration aim to support U.S. manufacturers like Whirlpool, and we're starting to see positive signs suggesting that the tariffs will become a tailwind. As Roxanne mentioned, we have also observed a less promotional MDA industry throughout January in comparison to the same period in previous years. This suggests that the tariff costs for importers are beginning to impact their business, and therefore, the elevated promotions we saw last year are proving to be unsustainable in the long term. The last driver is the state of the U.S. housing market, which I will cover in the following slide.
+
+Turning to Slide 10. The historical data both for existing and new home sales clearly signals a multiyear recovery is on the horizon. Looking at existing homes over the last 40 years, whenever we observe a multiyear sales trough like the one we saw since 2022, a recovery has followed. The lack of recovery has created pent-up demand in the market. Existing home sales are highly correlated with the discretionary demand in home appliances, which, as a result, has also been suppressed. On new home construction, the fundamentals are also favorable and include decades of long undersupply of new homes since the great financial crisis coupled with the highest aging stock of existing homes in the U.S., which now has a medium age over 40 years old.
+
+Finally, while affordability concerns remain, the U.S. government has made housing affordability a clear priority to address, which only strengths our prospects of a recovery. In this context and given our strong competitive advantage in the builder segment, there is simply no company better positioned to benefit from the multiyear housing recovery.
+
+Turning to Slide 11. Let me highlight one of the many new products we are launching this quarter that will continue to support our product leadership. Our new Whirlpool laundry tower allows the consumer to save space while having easy access controls, featuring the new FreshFlow Vent System and an industry-first UB clean technology, this product reduces bacteria in the wash without requiring high temperatures that compromise your fabrics.
+
+Now let me turn it over to Ludo to review the MDA Latin America and SDA global business.
+
+Ludovic Beaufils
+Executive President of KitchenAid Small Appliances, Latin America, Global Information Tech. & Design
+
+Thanks, Juan Carlos. Turning to Slide 12. Let me explain why we believe the MDA Latin America business is uniquely positioned to grow. MDA Latin America has enormous growth potential given the low market penetration of appliances and the industry's compound annual growth rate projections of approximately 4% to 5%. Our MDA business in Latin America has a sustained track record of value creation rooted in the strength of our products and brands and is ideally positioned to take advantage of this industry growth. We hold the #1 share position in the region, supported by our strong historical presence in Brazil with the Brastemp and Consul brands. These are leading brands in consumer preference that have held this position for decades and as a result, are present in more than half of Brazilian homes.
+
+Whirlpool brand also holds the #1 position in terms of preference in the second largest market in Latin America, Mexico and in many other smaller markets around the region. We have built an exceptionally strong infrastructure across the region. We have a well-established supply base, some of the largest plants in the world, great distribution and service network and a direct-to-consumer channel representing approximately 20% of our sales. We are, therefore, incredibly well positioned to continue to grow profitably in this very large region.
+
+Turning to Slide 13. Let me introduce one of the tools to drive that growth in 2026, a new lineup of refrigerators coming to the Brazilian market this quarter. Brastemp, our premium home appliance brand in Brazil, is launching a new portfolio of products in 2 of the most critical categories in the market, top-mount and bottom-mount refrigerators. These new refrigerators offer increased capacity, improved energy efficiency and bring a refreshed aesthetic to consumers' kitchen. They are poised to do very, very well in the market starting this quarter.
+
+Turning to Slide 14. I will review how well positioned the SDA Global business is for continued profitable growth. As you already know, KitchenAid is an iconic brand known for its high-quality craftsmanship and performance as well as superior design. It is the #1 mixer brand in the world and with over 75% of the products we sell in the U.S. being produced in the U.S., it holds a strong competitive advantage in an industry that is almost entirely reliant on imports. Across the globe, we have successfully developed strong trade relationships and more recently, have significantly expanded our online presence, which now represents over 20% of our sales and continues to grow at an accelerated pace.
+
+Outside of the stand mixer, we're starting to drive tremendous growth in adjacent categories such as espresso, blenders, cordless appliances and other food preparation segments. We are leveraging KitchenAid's strong brand preference, our industry expertise and our established infrastructure to drive profitable growth in these categories, and we're successfully reinvesting the proceeds of that growth into further growth acceleration while maintaining highly accretive margins.
+
+Turning to Slide 15. Let me preview the exciting innovation coming to the SDA Global business this quarter. First, our KitchenAid compact grain and rice cooker. This tankless version of our popular grain and rice cooker now features precise pour technology, which automatically measures liquid as it is added based on your preferred texture and simmers rice and all kinds of grains to perfection. Next, our KitchenAid Artisan Plus stand mixer. This new stand mixer will bring the biggest advancements to the KitchenAid tilt head mixer since 1955. This product is sure to be a hit to enthusiasts around the world, so stay tuned for the big reveal coming this March.
+
+Now I will turn the call back over to Marc to review our expectations for 2026.
+
+Marc Bitzer
+Chairman & Chief Executive Officer
+
+Thanks, Ludo. Turning to Slide 17. I will review our guidance for 2026. Given the recently executed transaction to reduce our majority stake in India, we have provided a reset baseline for our long-term targets in 2025 results. These targets reflect our business performance expectations during a mid-cycle, which will be after housing recovery has started, but before it reaches the peak. On a like-for-like basis, we expect revenue growth of approximately 5% in 2026. Our new product launches are expected to deliver growth in MDA North America, and we expect continued strength in our SDA global and international businesses.
+
+On a like-for-like basis, we expect 80 to 110 basis points of ongoing EBIT margin expansion to 2026 EBIT margin of approximately 5.5% to 5.8%. Free cash flow is expected to deliver $400 million to $500 million or approximately 3% of net sales, driven by improved earnings and significant inventory optimization. We expect full year ongoing earnings per share of approximately $7. This includes an adjusted effective tax rate of approximately 25%, which is an increase compared to 2025 and impacts 2026 ongoing earnings per share by approximately $2.
+
+Turning to Slide 18. We show the assumptions supporting our 2026 ongoing EBIT margin guidance. We expect a positive price/mix impact of 175 basis points from our recent and future new product launches and benefit from our previously announced pricing actions in a reduced promotional environment. While we have seen interest rates beginning to ease, we do not expect a material catalyst for new home sales in early 2026. As mentioned before, we do see the potential for a faster recovery of existing home sales and thus discretionary demand. But at this point, we're not factoring this into our guidance.
+
+We will drive further actions to optimize our cost structure and expect 100 basis points of net cost benefit from more than $150 million of cost takeout actions. Based on having long-term steel agreements in place, we expect minimal to no impact on EBIT margin from raw materials this year. We expect approximately 125 basis points of negative impact from the tariffs announced in 2025 that will be concentrated in the first half of 2026. It is important to note that these impacts represent currently announced tariffs and do not factor in any future potential changes in trade policy. With approximately 100 new products launching this year, we plan to increase investments in marketing and technology, which will impact margin by approximately 50 basis points. Currency and transaction impacts are both expected to have minimal impact to EBIT margin this year.
+
+Turning to Slide 19, I will review our segment guidance. Starting with industry demand, we expect the global industry to be approximately flat in 2025. In the U.S., we expect similar demand trends to what we saw throughout 2025 with an emphasis on replacement demand. Strong replacement demand creates a solid foundation for industry volumes, while consumer discretionary demand is still significantly below long-term averages. Again, this might change as a result of faster growth of existing home sales, thus providing upside to our demand forecast. We expect the MDA Latin America industry to be up slightly between 0% and 3%.
+
+Finally, we expect the SDA global industry to be approximately flat with our growth driven by new products and continued investments in our direct-to-consumer business. For MDA North America, we expect to deliver full year EBIT margin of approximately 6%. Previously announced pricing actions are expected to positively impact the full year margin and additional cost actions are expected to be delivered throughout the year. For MDA Latin America, we expect a solid EBIT margin of approximately 7%, driven by new product launches and continued cost takeout. And for SDA Global, we expect a strong EBIT margin of approximately 15.5%, driven by sustained momentum from new products.
+
+Turning to Slide 20. Let me review the actions we are taking to deliver price/mix expansion. Firstly, as mentioned, we've seen a less promotional environment on MLK and President's Day. This is an encouraging indicator that our competitors are now experiencing the full cost of tariffs. We first saw positive signs with the end of a Black Friday promotion period. While in prior years, retailers and competitors extended Black Friday prices well into January, we observed meaningful pricing moves immediately after Black Friday, probably an indication of a preloaded inventories finally being sold through. Given these broader industry dynamics, we're confident in the 2026 pricing actions we previously announced.
+
+Secondly, the incremental flooring gained by the new products launched in 2025 is largely installed. The flooring costs are behind us, and we should start to experience the full benefit of these new products. As a reminder, the new products that we launched in North America gained over 30% incremental flooring on a like-for-like basis. Lastly, we are focused on continuing to expand our mass premium and premium product offering where we see consumer preference for our brands and the opportunity to drive differentiation. Our KitchenAid MDA launch in late 2025 is a perfect example of how we see an opportunity to elevate and position our brands for growth.
+
+Turning to Slide 21, you will see the actions we're taking to support our cost position and deliver over $150 million of cost reduction in 2026. We are accelerating vertical integration and automation in our factories, leveraging some of our core competencies to improve quality and efficiency in manufacturing. In particular, the vertical integration will not only bring us cost savings, but will further strengthen the resilience of our supply chain. We're taking steps to optimize our manufacturing and logistics footprint. And lastly, we're launching a strategic sourcing initiative to deliver the best landed cost for our components. We have had significant success in the past with activating the sourcing initiative and are excited to renew its effort in 2026.
+
+Turning to Slide 22. I will provide the drivers of our free cash flow guidance. I'm confident that we will improve free cash flow in 2026, and this is a key priority for us. We expect cash earnings of approximately $800 million, driven by an improvement in our earnings. We expect approximately $400 million of capital expenditures as we continue to invest in our products and fund organic growth. We plan to optimize our inventory and improve our working capital by approximately $100 million to support cash generation in 2026. And we expect approximately $50 million of restructuring cash outlays related to our manufacturing and logistics footprint optimization efforts. Overall, we expect to deliver free cash flow of $400 million to $500 million or approximately 3% of net sales.
+
+Now I will turn the call back over to Roxanne to review our capital allocation priorities for 2026.
+
+Roxanne Warner
+Executive VP & CFO
+
+Thanks, Marc. Turning to Slide 23. I will review our capital allocation priorities, which are consistent with what we shared in 2025. Funding our organic growth is critical to delivering innovative products that meet our consumers' needs. We will continue to invest in product innovation, digital transformation and cost efficiency projects with approximately $400 million of capital expenditure expected this year. Secondly, we are committed to reducing our debt levels. We expect to pay down at least $400 million of debt in 2026, continuing our commitment to deleverage. Thirdly, we are committed to returning cash to shareholders through funding a healthy dividend. We will continue to evaluate our dividend funding and ensure it aligns with our progress toward our long-term goals. As a reminder, the dividend is approved quarterly by the Board of Directors.
+
+Turning to Slide 24. Let me summarize what you heard today. Despite navigating a year of significant external shocks led by the substantial cost increase of tariffs, our 2025 results were largely in line with the prior year. We maintained our track record of cost takeout and delivered substantial cost reduction of $200 million to help offset the impact of tariff costs. We introduced a record number of new products, proving their early success through flooring expansion and share gains in the second half of 2025. As we look forward into 2026, we have another strong pipeline of new products coming. With industry pricing expected to normalize and structural cost takeout actions yielding results, we expect margins and free cash flow to strengthen. We expect the SDA Global business to continue to be a bright spot with sustained momentum from new products resulting in significant year-over-year growth.
+
+Lastly, we continue to be extremely well positioned to fully capture the benefits of the housing market recovery as it begins to turn in a favorable direction. I'm confident in our strategy and that our path forward will create shareholder value.
+
+Now we will end our formal remarks and open it up for questions.
+

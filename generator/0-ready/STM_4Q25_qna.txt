@@ -1,0 +1,218 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question comes from Francois Bouvignies from UBS.
+
+Francois-Xavier Bouvignies
+UBS Investment Bank, Research Division
+
+My first question maybe for Jean-Marc, I wanted to come back to what you said about the outlook. I mean, if we look at your revenue guidance down 8.7% quarter-on-quarter, this is below seasonal -- better than seasonal, sorry, of minus 11%. And if we take into account less days, it's actually significantly above seasonal.
+
+So, I was wondering, I mean, this is looking quite interesting. And if we compare to other peers like TI yesterday or ADI and Microchip, you see a number of your peers talking about above seasonal. I mean what's your view on the trajectory from here? Do you think this above seasonal trend can carry on a little bit? Or we shouldn't get carried away like we did in the last two years where we have many fall starts? Do you see like a very genuine evidence of a cycle recovery from here?
+
+Jean-Marc Chery
+Chairman of the Managing Board, President & CEO
+
+Well, we will not guide for 2026 today, clearly, but we are confident in our ability to grow organically for next year. But it's clear that we enter in a better and healthier situation compared to '25. If you remember last quarter, okay, I already shared with you that we were seeing a backlog that were reading during the quarter better than the usual seasonality. And today, with the visibility we have on Q2 that generally speaking, okay, is plus, let's say, low mid-single digit, but we absolutely see no reason that we will not be at least capable to deliver it.
+
+More important, I think, beyond the cycle is to share with you that we see for the company some specific growth driver. First of all, in automotive, clearly, we will have the sensor. And at a certain moment, when we will complete the acquisition of NXP, of course, it will bring additional revenues. This is obvious. But we see also positive momentum on ADAS ASICs and the silicon carbide after last year that was pretty challenging.
+
+Well, in industrial, clearly, the dynamic is really strong, thanks to the inventory correction gone, but more important is our portfolio. So we have done a tremendous effort in introduction of new products in '25 and '26, and this will contribute beyond the cycle. For Personal Electronics, our engaged customer program, you know that we have the visibility, okay? So I confirm to you. So we confirm that it will support us beyond the cycle.
+
+And last but not the least, data center. But clearly, in 2026, cloud optical interconnect, so means both photonics ICs and analog mix signal by CMOS ICs plus our high-performance general purpose microcontroller will contribute because you know that the connectivity engine of the server will move to optical one. So this will be certainly an acceleration. And as well, we will start to contribute to the power supply unit and to the server from the green to the processor.
+
+Last but not the least, beyond the cycle in '26, we see also low earth orbit satellite communication with our engaged customer program, so with our ASICs really positive. This will be a bit offset by the capacity fee reservation. But all in all, I confirm really our confidence level to grow organically in 2026 and because we have, let's say, significant growth driver beyond the cycle of the market.
+
+Francois-Xavier Bouvignies
+UBS Investment Bank, Research Division
+
+Very clear. And yes, maybe on the gross margin side, I mean, with it, I mean, obviously, it's a concern for the market. You delivered the guidance is in line on the gross margin, but 33.7%. But when I look at the consensus, it has 35.6% of gross margin for the year. So it would assume a recovery from here. So with the top line that you described nicely, should we see as well an improvement of gross margin from the level in Q1?
+
+Lorenzo Grandi
+President & CFO
+
+Maybe I take this one, Jean-Marc, about the gross margin. But today, of course, the gross margin will depend on the evolution of the revenue in the course of the year. As explained by Jean-Marc, we expect, let's say, to increase. But the gross margin today that we see in Q1, we believe is clearly the lowest point in the year, this expectation of 33.7%. So we will see some increase. This increase is also driven by the fact that we expect to have constantly reduction in our unloading charges during the year. So we expect some mild increase for the second quarter and then a more significant increase also driven by the seasonality of the revenues in the second half of the year. Yes, at this stage, we can say that the expectation for us is to have increase in our gross margin all over the year.
+
+Operator
+
+The next question comes from Andrew Gardiner from Citi.
+
+Andrew Gardiner
+Citigroup Inc., Research Division
+
+I was interested, Jean-Marc, in digging a bit deeper into the automotive space. Clearly, your largest end market and the one where we're still seeing the most difficulty in terms of getting through the bottom of this cycle. There's a number of sort of end market data points out there that are, I suppose, still causing investors' questions in terms of the health of the market, tariff threats back and forth admittedly, but also not helping.
+
+I'm just wondering how -- can you give us a bit more detail in terms of how you're seeing your customers behave? Do you think inventory is absolutely at a bottom in terms of the automotive channel and at the OEMs and the Tier 1s. What kind of confidence do you have as we look into the future quarters that we can return to stronger demand trends?
+
+Jean-Marc Chery
+Chairman of the Managing Board, President & CEO
+
+Well, first of all, clearly, when we see our Q4 revenue in automotive, it was slightly below our expectation and mainly, in fact, driven by the pulling from inventory a little bit lower than expected from some Tier 1 means that the automotive market for, let's say, legacy application, clearly is pretty soft. Inventory correction is certainly gone, but there is a kind of a softness of this kind of application.
+
+What will be positive on automotive is clearly what is around, let's say, the electronic architecture, the new software-defined electronic architecture calling for more complex MPU, MCUs definitively. So this will be an important growth driver. But we know that the electrical powertrain will be still an important driver. But here, it is more the competition landscape that changed completely compared a few years ago because you see that out of, let's say, more than 30 million vehicles produced in China, more than half are battery based compared to America, where it is more marginal in terms of production. And in Europe, it is below 1/3. So here, it's more a question of the competition is in China. So you know that in China is more complex to compete. But the powertrain electronics, the demand is there.
+
+So, all in all, I think the automotive market based on 90 million, 92 million, 93 million vehicles out of which 17 million to 18 million vehicle battery based and similar number in hybrid is still changing in terms of mix as well from the car classification is more middle end or premium car, even this car now embed some electronics. So the market is not yet stable. So that's the reason why we have to be, let's say, cautious to adapt ourselves. But we see a different situation compared entering in '25, where we faced very strong inventory correction in Q1 last year, if you remember, from our main customer, this will not be repeated.
+
+It is more, let's say, a progressive stabilization of the market in terms of mix of car electrical hybrid thermal combustion engine and mix of car between high premium, premium and middle class and mix between China, APAC, Europe and Asia. So this is something we have to, of course, closely monitor and adapt ourselves with our supply chain. So this is how we see the automotive market.
+
+Andrew Gardiner
+Citigroup Inc., Research Division
+
+Just a quick follow-up, given you mentioned China at length there. How is the partnership with Sanan progressing? Is that going as you anticipated? Is it helping your competitiveness in that market? Or is it still too early?
+
+Jean-Marc Chery
+Chairman of the Managing Board, President & CEO
+
+No. Clearly, so we will start to ramp up the facilities now, okay? We have modernized. We know exactly the efficiency of this fab. And clearly, it will be a key success factor in our capability to compete on the Chinese market.
+
+Operator
+
+The next question comes from Joshua Buchalter from TD Cowen.
+
+Joshua Buchalter
+TD Cowen, Research Division
+
+I actually wanted to drill into the Personal Electronics segment a little bit more. I think there's some concerns of disruption or even pull-ins in the short term due to higher memory costs. It came in better in the quarter. Maybe you could walk through what the drivers you're seeing are there and if you're seeing any changes in order pattern. And I believe you called out higher silicon content in 2026. Was that referring to expectations for your largest customer this year?
+
+Jean-Marc Chery
+Chairman of the Managing Board, President & CEO
+
+Yes, you know that our revenue are mainly driven by our biggest customer and more on the high-end kind of product, which are, in some extent, less sensitive to the memory price. So, at this stage, with the visibility we have, first of all, we don't see significant impact detected by us. And I confirm that we expect to keep growing in personal electronics driven by our main customer in 2026, thanks to our increased device based on silicon and not module content increase in '26. So far, PE will be a growth driver for us in '26.
+
+Joshua Buchalter
+TD Cowen, Research Division
+
+And then I think the last couple of quarters, you've been kind enough to give us your book-to-bill ratios in auto and industrial. It seems like things are getting better on the industrial side in particular. Can you update us, I guess, on those metrics and whether you're mostly done with the channel inventory clearing on the industrial side? Congrats on the solid results.
+
+Jean-Marc Chery
+Chairman of the Managing Board, President & CEO
+
+No. In Industrial, the book-to-bill was well above parity. Clearly. Also, beyond your question, I can tell you that the POS were growing, let's say, between low teens, mid-teens, which is a good news. So we continue to decrease our inventory.
+
+But on automotive is the book-to-bill is a little bit more complex because we have some few key customers that are putting order in one shot for six months. So the book-to-bill must be, let's say, assessed on one-year moving average or six months moving average. So corrected from this, let's say, abnormal, let's say, process, the book-to-bill was parity on automotive.
+
+Operator
+
+The next question comes from Stephane Houri from ODDO BHF.
+
+Stephane Houri
+ODDO BHF Corporate & Markets, Research Division
+
+I just wanted to come back a bit on the scenario for the year, and I know you're not guiding. But historically, you've been saying that the second half is like 15% above the first, that's normal seasonality. And then on the top of that, you may have some specific programs. With the sting point you guide on Q1 and we look at -- when I look at the consensus for the full year, it seems to be banking on something lower than that because of the starting point in Q1. So can you just confirm that you see now that the inventory correction is done normal seasonality throughout the year and maybe give some comments about the adds of some customer engage program?
+
+Jean-Marc Chery
+Chairman of the Managing Board, President & CEO
+
+No. On the inventory correction, what we communicated, okay, I and Lorenzo and myself is to say by end of Q2, we believe we will be hold the excess of inventory. And this today, I can confirm -- it's already the case for many product family. We are still here and there some pockets of excess inventory versus what we see. But looking at the current dynamic, POS, POP by end of Q2, this will go. So now it's sure that in H2, we will be exposed directly to the end demand.
+
+Now about again, what we consider engaged customer program be the cycle, let's say, we can split I have to say. One is the usual personal electronics, and why we say it's cycle is because silicon content increase, okay? So we have the visibility with the current visibility we have, okay? So this will help us to grow the cycle of personal electronics and assuming our main customer will perform in market share really well performed in 2025, okay? So this will drive our growth.
+
+Moving to communication equipment and computer peripheral, well, communication equipment. Communication equipment, it is clear that for the lower or satellite communication is an important driver because thanks to our capability to supply and compete, our growth is driven by our largest customer in this field of activity. And as we see is pretty successful. And certainly this year, will be another demonstration of the success. Now since two quarters, we are supporting our second largest customer that is growing as well. So it is clearly beyond the cycle. So this will be a significant growth driver beyond the cycle for ST.
+
+Last but not the least is AI data center. You know AI data center, okay, we were, let's say, a bit delay for what call the device addressing the power station we are in, let's say, process to close the gap and offer solution to our customers. But clearly, we will be at of the business dynamic, it is the optical engine or the cloud optical interconnect. So its photonics ICs, MOCs and high performance general microcontroller. And this will contribute to the growth of ST significantly in 2023.
+
+Then moving to the more, let's say, traditional market focus we have, so automotive industrial. For ADAS, ASIC, last year was a challenging one because we saw some inventory correction on, let's say, some legacy ASIC. But this year, okay, clearly, with the visibility we have, this will be a booster of growth.
+
+Finally, our SiC MOSFET, about the difficult year of '25 will grow again. And I can confirm to you that up to now in Q1, we have a good book-to-bill on silicon carbide that is very encouraging. And definitely, our sensor contribution with the acquisition of NXP MEMS plus the existing imaging sensor, existing MEMS we have. And I am very pleased that beyond the inventory correction done on general purpose microcontroller, the proliferation of our new products are really paying back very well. And I am really confident that in '27, we come back to our historical market share and '26 will be an important step to demonstrate it. So this is actually in a few words how we can describe '26.
+
+Stephane Houri
+ODDO BHF Corporate & Markets, Research Division
+
+I have a small follow-up on the gross margin comments. I think last quarter, you said that you think you would end up Q4 2026 above the level of Q4 2025 in gross margin. Do you still feel confident with what you see developing the mix, the underloading charges, et cetera, et cetera?
+
+Lorenzo Grandi
+President & CFO
+
+Yes. Yes, I confirm that at this stage, the expectation is that Q4 this year '26 should be better than Q4 '25.
+
+Operator
+
+The next question comes from Domenico Ghilotti from Equita.
+
+Domenico Ghilotti
+Equita SIM S.p.A., Research Division
+
+A couple of questions. The first is on the unloaded charges. You are guiding for a significant drop in Q1. trying to understand despite the lower sales, I'm trying to understand if you see this number at the bottom and if you are already benefiting from, say, the efficiency plan that you carried out.
+
+And second is some color on, if you can, on the second client in low earth orbit. So should we assume that it is a significant number or just starting entrance of new clients or an add-on, but not particularly relevant?
+
+Lorenzo Grandi
+President & CFO
+
+Maybe I'll take the one of the unused charges. Yes, unused charges are declining in the first quarter. There are -- the reason -- the main ingredient of the declining in this quarter is the fact that, as you know, we are progressing with our programs to reshaping our manufacturing infrastructure. This program is progressively reducing our capacity in 6-inch for silicon carbide, 150-millimeter for silicon carbide and 200-millimeter for silicon. And we start, let's say, to move ahead on this plan. So this is, if you want, is something that is mechanical. At the end, the capacity is reduced. We are now moving our product on the existing capacity on one side, 8-inch for the silicon carbide and the 300-millimeter for the silicon.
+
+So that's why we see the level of unused capacity, notwithstanding that the revenue are lower in respect to the previous quarter to reduce. This trend will continue. Unused capacity will not disappear in the year, but will significantly reduce in the year and will be one driver for our improvement in the gross margin in the course of 2026.
+
+Jean-Marc Chery
+Chairman of the Managing Board, President & CEO
+
+About the second question, yes, it's significant. If not, we will not mention. But I can just confirm you to number in Q4, our CCP segment grew sequentially 23% and year-over-year 22%. Definitively, it is linked to the low or satellite business we have, and it is driven both by our first customer and then by the second one. So at 22%, 23% growth sequential and year-over-year, so you can conclude it is significant.
+
+Operator
+
+The next question comes from Sandeep Deshpande from JPMorgan.
+
+Sandeep Deshpande
+JPMorgan Chase & Co, Research Division
+
+My question is about your fab loading into the current quarter. Given what is happening with the gross margin in the current quarter, how is the fab loading going through in the quarter? And how is the mix shifting overall in terms of the gross margin? Because you have a revenue decline, but the gross margin is declining. So are you reducing your fab loading this quarter? Or are you increasing your fab loading?
+
+And my follow-up question associated with that is how the mix, particularly associated with your better margin microcontroller products is shifting?
+
+Lorenzo Grandi
+President & CFO
+
+In the quarter, as I was saying before, the unloading charges is mainly related to the fact that we are moving out capacity, reducing capacity in certain specific fabs. where, of course, we are now moving production in different fabs, 300 millimeters, so reducing our capacity. So at the end, when you look at the level of loading, we are not overloading our production, let's say, in the quarter.
+
+Clearly, if you look the inventory and you look where it will be the dynamic of the inventory in the quarter, as usual, you know that there is this seasonality in our inventory in which in the first half, our inventory is somehow increasing and then decreasing in the second part of the year. So, at the end, what it will be the impact is that now the expectation is end the quarter Q1 in the range of 140 days of inventory compared to the 130 days where we stand today.
+
+But I repeat that this is more related, let's say, to the normal dynamic of our inventory over the year than, let's say, loading our manufacturing infrastructure in a way that is -- the impact on unloading charges is mainly related to the fact that we started with our programs to reduce capacity in some specific areas.
+
+Clearly, the impact -- the positive impact, let's say, of this in terms of gaining efficiency and so on will come probably later, as you know, in our, let's say, manufacturing infrastructure. We do expect our program to be -- to start to yield a positive impact in our -- in our manufacturing efficiency more in 2027 than this year. But one of the impact that visible is the reduced level of unloading. Together also with the expectation of growth in terms of revenues. This we will see during the year, let's say, depending on the level of growth.
+
+Sandeep Deshpande
+JPMorgan Chase & Co, Research Division
+
+And my follow-up question is regarding about your microcontroller business, which is if you look at the Embedded Processing segment, it grew 1.2% year-on-year. I mean, many of your peers in this market are seeing better growth at this point. So why is ST growth in a key segment for ST lagging at this point or something else happening in that division?
+
+Jean-Marc Chery
+Chairman of the Managing Board, President & CEO
+
+So, embedded processing segment, clearly, the growth dynamic we have on the general purpose microcontroller is, let's say, at least consistent with our peers.
+
+Why it is a little bit offset? It is offset by our automotive microcontroller because, okay, up to now, our automotive microcontroller are more the microcontroller that will be, let's say, for some model of car moving to the software-defined vehicle architecture removed clearly. And I already explained that we have done a strong effort in 2025 to rework the road map of our micro, but this will be paid back, okay, more, let's say, end of '27 and '28. For the time being, yes, we suffer on the automotive microcontroller that is, let's say, optically offsetting the real good health of the general purpose.
+
+But the general purpose microcontroller, let's say, maybe I can share with you one number, okay, for Q1, the embedded processing solution segment will grow up low 30s. So above 30% year-over-year. So you can imagine that the growth of general purpose will be really, really strong more than, let's say, the secure microcontroller are growing a little bit less because driven by the market. And okay, of course, we have some offset linked to the automotive micro. But I can confirm to you that our general purpose microcontroller are performing or overperforming the market.
+
+Jerome Ramel
+Executive VP of Corporate Development & Integrated External Communication
+
+Mona, I think we have time for one more question.
+
+Operator
+
+Next question comes from Sébastien Sztabowicz from Kepler Cheuvreux.
+
+Sébastien Sztabowicz
+Kepler Cheuvreux, Research Division
+
+Coming back to the transformation program, have you made any specific progress so far? And notably on the manufacturing front? And are you still on track to reach your savings ambition for the end of '27? And the second one is more on the OpEx trend. So Q1, we know where it will stand. But for the full year, where do you see OpEx trending? And how do you see the start-up costs impacting the OpEx 2023? Do you plan to accelerate a little bit further the cost-cutting actions for OpEx?
+
+Lorenzo Grandi
+President & CFO
+
+In terms of our reshaping programs, I would say that is progressing in line with the expectation. In the course of 2025, the main, let's say, impact was related to the savings in our OpEx that indeed, when you look at the overall are declining, notwithstanding, let's say, the negative impact of the euro dollars. So at this stage in the course of 2026, as I said, we will start, let's say, progressively to transfer some activity from -- in silicon carbide to 8-inch in silicon to the 300-millimeter.
+
+As I was saying before, is now expected to yield the benefit in our manufacturing infrastructure efficiency of this program towards the second part of 2027 and 2028. So my short answer is, yes, we are on track in respect to what we have communicated previously. So, this is the situation.
+
+In respect to the expenses of 2026, now the expectation remains substantially the same, means that at the end, at this level of exchange rate, including the impact of the hedging, we should be able to stay with a net OpEx means including other income and expenses on a low single-digit increase, something in that range, mainly driven by the fact that we will have a reduction in other income and expenses in respect to the one of 2025 due to the phaseout cost because, of course, let's say, from the one side, we reduced the capacity in our manufacturing 6-inch, 8-inch. But on the other side, we have a progressive phaseout from these steps that will be reported in this line. It's a temporary effect, but it will be there during 2026.
+
+Jerome Ramel
+Executive VP of Corporate Development & Integrated External Communication
+
+Thank you, Sébastien, and thank you, everyone. I think this is ending our call for this quarter. So, thanks very much all of you for being there, and we remain here at your disposal should you need any follow-up questions. Thank you.
+
+Operator
+
+Ladies and gentlemen, the conference is now over. Thank you for choosing Chorus Call, and thank you for participating in the conference. You may now disconnect your lines. Goodbye.

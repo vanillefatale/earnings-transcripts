@@ -1,0 +1,282 @@
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question comes from Will Nance from Goldman Sachs.
+
+William Nance
+Goldman Sachs Group, Inc., Research Division
+
+I wanted to start on the Capital One renegotiation. Congratulations on announcing that. Maybe if you could just provide a little bit more details. I think Cap One has talked about wanting to move volumes over to the Discover network over time, but at the same time, has talked about a lot of investments on the acceptance side. So can you talk about just the renegotiation as it relates to your existing Capital One cards outstanding? Are you expecting your share of Capital One credit volumes to remain stable as a function of the renegotiation? And if you could just maybe talk about how long the extension was for. I appreciate any details you can share.
+
+Michael Miebach
+CEO & Director
+
+Yes. Thanks for the question. So no surprise. We're excited about these recent news that we announced earlier. So extending our credit portfolio agreement with them is important, but also we should not overlook the aspect of Capital One as the great partner that they are to use more of our services across their whole business. It's a strong signal, in my view, at least that this -- the Mastercard network is valued. This is important to consider. We continue to invest in this network. We continue to invest in our acceptance. We know this is hard to build, and that is really what matters when it comes to affluent portfolios, when it comes to business portfolios and so forth.
+
+So the partnership will continue, but we will continue to invest to ensure that we have a truly differentiated proposition as a partner for Capital One.
+
+Operator
+
+Our next question comes from Sanjay Sakhrani from KBW.
+
+Sanjay Sakhrani
+Keefe, Bruyette, & Woods, Inc., Research Division
+
+I guess I have a question on the CCCA. It's obviously back in the news flow. I'm just curious how you guys are thinking about the implications to yourselves and the industry and sort of the probability that it may or may not get through.
+
+And then just a quick clarification on the Capital One question. I'm just curious, it talks about sort of new accounts. Is there any volume migrating to Mastercard from Capital One? I just wanted some more clarity there.
+
+Michael Miebach
+CEO & Director
+
+Good. Let's start with the first topic, CCCA. Sanjay, as you said, it's back in the news. And yes, it's been back in the news. But yes, it's been ongoing for a long time. So this was first introduced in 2023. And if you take it down to the facts, little progress has been made. A lot of discussions there around that, but also what clearly has emerged is that there's a very united opposition to this proposed bill as the benefits of the bill are yet to be proven while the risks are pretty clear. That aspect is about taking consumer choice away from consumers. They can't really take -- pay the way they want to pay. That choice moves to merchants. This has been discussed in the context of affordability, but there is no particular consideration in this bill to actually pass on any savings.
+
+There's a big topic that is often overlooked, and that is the potential risk to cybersecurity. This is a race to the bottom for the cheapest network option, but not the safest. Those are all things that haven't really changed since 2023. But the opposition based on -- focused on these points has intensified. So the industry is very aligned. We're engaging with regulators at every point to educate and ensure that this is fully understood. So it's also important to understand that the payments ecosystem is highly competitive.
+
+Now this -- the Credit Card Competition Act isn't really about competition. It's about lowering cost without considering all the points I just said. So there is competition. It's working. It's a highly effective ecosystem. So that is our perspective on it. That hasn't changed.
+
+On the probability of this going through, I mean, we shouldn't be speculating here. A few moves were made over the last couple of weeks, which haven't succeeded. And I think we attribute that to a continued discussion on the risk associated with this particular regulation.
+
+Sachin Mehra
+Chief Financial Officer
+
+And then, Sanjay, on your question around Capital One, it's like Michael said in his prepared remarks, right, we're really excited about the new agreement, which we struck with them as it relates to new credit issuance. And that's the extent of what we'll share with you publicly as it relates to the interactions. But suffice it to say, the reality is the customer sees real value with what Mastercard brings. That's the reason we are actually doing what we are doing in the nature of the credit agreement. And they're seeing that across the payment network as well as all value-added services and solutions.
+
+Operator
+
+Our next question comes from Adam Frisch from Evercore ISI.
+
+Adam Frisch
+Evercore ISI Institutional Equities, Research Division
+
+Thanks for restoring some order in the marketplace as it relates to your stock this morning. I want to address the -- go back to D.C. for a second. We wrote earlier this week that CCCA is all but dead for now at least, but would love your views on the topic around a 10% rate cap on credit, which seems like it's a back burner for now, but it's only a tweet away from being reignited. So would love your perspective on how you describe the conversations going on between the industry and the administration to address the affordability issue as it relates to our space.
+
+And then if you could also provide some insight around your conversations with issuers and other relevant players in the ecosystem about ways to address the President's concerns without creating a broader crisis in the industry.
+
+Michael Miebach
+CEO & Director
+
+Good. Yes. I appreciate your first comment actually on the order. So the rate cap, that's -- it's a really important conversation around affordability. And we shared that, that should be addressed. But when you think about the rate cap in particular, here is a proposal that comes with a whole range of consequences as you think through how that would -- something like this would be impacted. And the consequence that comes to mind first is what does this mean to credit access for a lot of the most vulnerable people that may not have access to credit any longer should a rate cap like this be passed.
+
+So this is an important topic to be understood to your question about our conversations with the banks, with the issuers, the card issuers. We don't set rates, but obviously, we have a shared interest in making sure that the overall credit ecosystem does work and provides credit access. So we're sharing data. We're helping to compute what the impact might be. And then it is really understanding from our bank partners where they are going to go. Is it going to be different products? What is there today? Part of this is education, what kind of 0% introductory rates are out there today, low interest rate products and so forth. So it's a broad conversation that's going on across the industry, leaning in on the topic of affordability and options around that.
+
+So I think overall, a constructive dialogue that was sparked, we have yet to see. As I said, it doesn't affect us directly as we don't set rates, but we're actively engaged as an industry custodian.
+
+Adam Frisch
+Evercore ISI Institutional Equities, Research Division
+
+Do you see the administration and the industry having more constructive talks about feasible alternatives here as opposed to a blanket...
+
+Michael Miebach
+CEO & Director
+
+Yes, there is a live dialogue here. I think everybody realizes it's an important topic.
+
+Devin Corr
+Executive Vice President of Investor Relations
+
+I think we need to move to the next question.
+
+Operator
+
+Our next question comes from Ramsey El-Assal from Cantor Fitzgerald.
+
+Ramsey El-Assal
+
+Michael, could you give us a view on the health of the consumer? It's a very noisy kind of media, political environment with a lot of mixed signals. On the other hand, it seems like the underlying spend volumes are really hanging in quite solidly across the board. What are you guys seeing out there? Any changing patterns? Anything interesting to call out?
+
+Michael Miebach
+CEO & Director
+
+Right. It's a great question. When you look back over 2025 over the whole year, and we just take soft data like headlines or consumer confidence data that comes out. On one hand, consumers fill in surveys. At the same time, their spend behavior hasn't actually changed. So that's a pattern that just continues. We see -- just taking 2025, it hasn't changed quarter-on-quarter. We see a truly savvy and intentional consumer. So what the digital economy brings to consumers comes almost back to the affordability topic is an ability to figure out what's the best deal. What do you want to spend on? Where can you use your rewards to avail something that otherwise you might not do at this time.
+
+So it's a savvy and intentional consumer. They're using their loyalty programs, their data to kind of spend on what they want to spend on anyway. So that has been a continuous trend. There is question on how the consumer was affected or not by some of the tariff changes that we've seen last year. And that doesn't show up in our data either. So it's not coming through. Somewhere across the ecosystem between importers and big brands, it's all been adjusted in a way that it hasn't really affected consumer spending, at least we cannot tell that.
+
+There's conversation on how does the whole spend pattern change when you look across higher income bands and lower income bands and what we see across the board in the light of a job market that is supporting paychecks and people are spending those paychecks and the wealth effect on the other hand. So there are different types of supporting kind of factors around that support overall affluent spend as well as lower income spend. So that hasn't really changed.
+
+And Sachin talked about it earlier, the first 3 weeks into January, we see this continue. Now if you zoom out and you look across the world, these patterns are different by region here and there, but the aggregate top line is that consumer spending remains healthy, is the same.
+
+Operator
+
+Our next question comes from Craig Maurer from FT Partners.
+
+Craig Maurer
+Financial Technology Partners LP
+
+First, there's been quite a bit of FX volatility in the past week, which makes a nominal guide a bit of a moving target. Can you talk about the sensitivity of the overall business to FX rate moves these days and when you set the FX rates for the guidance? And secondly, VASS grew regardless of how I look at it. VASS growth accelerated significantly in '25 versus the growth in the rest of the business. And so I'm curious if this is a trend that we should expect to continue in terms of the relationship between VASS revenue growth and however we look at it, whether it's purchase volume or process transaction growth or whatever metric you prefer?
+
+Sachin Mehra
+Chief Financial Officer
+
+Sure, Craig. So let me just take both questions here, which is from an FX volatility standpoint, I'll be humble enough to tell you, I have no idea where FX volatility is going to be tomorrow as it's going to be in the remaining part of this year.
+
+So what we do is we take our best estimates of what we think it's going to be. We look at long-term averages. We kind of look at what the general environment is. And on the basis of that, we build in our best estimates. In quarters in which we see outsized benefit come from FX volatility, we call it out as we did in the first and second quarter of last year, right? And in other quarters where we see record low levels of FX volatility, we'll call it out as well as I did today.
+
+So look, I mean, the reality is super hard to predict, right? And the impact to our business, as you can see, is the fact that I'm calling it out means it does have an impact on our business. in particular, in the transaction processing assessments line, right? So that's kind of important for people to know where it kind of sits from an overall perspective.
+
+The more important thing here, though, is Mastercard is actually delivering some incremental value to our customers, which is why we actually generate the revenue associated with whether it's good volatility or bad volatility. The reality is we're delivering currency conversion services, which means that our customers are seeing value in terms of what we're doing and allows us to actually participate in that volatility to the extent it's high or then the detrimental impact of that volatility to the extent it's low. So that's kind of point number one.
+
+On VASS growth, super pleased with the results. The company continues to be very focused. It's an important part of our various strategic pillars. You can see that the growth rates are healthy. I'll go back to what Michael said in his prepared remarks, right? Our business in terms of how we actually operate our VASS portfolio is very tightly intertwined with what's going on in the payment network. Let's stop there, right? The payment network brings volume into the system. It brings data, data enables the creation of VASS solutions, and that allows the virtual cycle to keep going.
+
+As it relates to the growth, we continue to remain very encouraged about the growth prospects from a VASS standpoint. We shared with you previously what the building blocks of that growth are. Let's start with the fact that if there's underlying growth in drivers driven by what we're doing in the payment network, there's an attach rate, which is related to that, which actually helps growth take place. In our Investor Day, we talked about how 60% of our -- approximately 60% of our VASS revenues are network linked. So if you see the network, the payment network growing and the underlying drivers growing, you're going to see that the growth of that come through.
+
+Second, we are in the business of actually really increasing the attach rate to the extent there are new solutions we're putting out in the market. It doesn't mean that every new solution that we put out in the market is necessarily network linked, but those which are allow us the opportunity to continue that growth algorithm. Third, we're increasing the penetration of these solutions with our customers globally.
+
+So the color I gave you in my prepared remarks today about the fact that our VASS growth is broad-based gives me confidence that this is not episodic in one particular region. We kind of talked about how across AP, EMEA and Americas, we're seeing good growth from a VASS standpoint. As also across the various elements of our services portfolio, we're seeing good growth. So that's kind of pretty comforting to me to see that we are actually executing across that VASS growth algorithm in a meaningful manner.
+
+And the last point I'll make is enabling this growth has been the constant look we do from an innovation standpoint organically, and we've done a bunch of new innovation, which we've announced, but also what we're doing to expand our addressable market. And examples of that would be things like Recorded Future, which takes us into new and different and fast-growing spaces like Threat Intelligence.
+
+So if I were to bring all of this together for you, I'd say good solid growth in VASS in 2025, and we continue to remain encouraged about the prospects from a growth standpoint, from a VASS standpoint going forward.
+
+Michael Miebach
+CEO & Director
+
+Yes. If I can add a point here. This is -- what's really important here is the differentiation because there's -- when you look at the competitive landscape in services, there's specialist companies out there that focus on cybersecurity. There is loyalty companies out there. There's really not a company out there like us. So it puts us in a very differentiated position here. We have the payment data, as Sachin laid out, and we can build a set of services that are truly unique. It's a very curated set of services. We keep getting the questions from you now and then what is actually in services. But if you think about it from the perspective of cybersecurity solutions, data insight solutions, those are all the types of services that grounded it in fundamental growth drivers and needs of the growing digital economy.
+
+So differentiated underlying growth drivers, everything that Sachin just said. And all of this is powered by a significantly changing distribution network that we're using by selling these services through many others other than our payment partners.
+
+Operator
+
+Our next question comes from Tien-Tsin Huang from JPMorgan.
+
+Tien-Tsin Huang
+JPMorgan Chase & Co, Research Division
+
+Appreciate it. Great growth here. I wanted to ask about Capital One a little differently. You mentioned -- I think, Michael, you mentioned hundreds of issuing wins in '25. I'm curious for this year in '26, any updated call-outs on timing and impact on, let's say, the KPIs from all these conversions and renewals in '26? How does the renewal pipeline in general look? And any call-outs on pricing or competitive intensity, that kind of thing?
+
+Sachin Mehra
+Chief Financial Officer
+
+Tien-Tsin, it's Sachin. Why don't I take the question? Look, I mean, again, from an overall customer engagement standpoint and a deal pipeline standpoint, I'd say coming into 2026 is I'd put it in the realm of pretty normal for what we see at this time of the year compared to prior year. So active pipeline, lots of great engagement taking place with numerous customers. Nothing unusual to call out there in terms of the pipeline of deals.
+
+As it relates to the competitive environment, we're in a competitive space. There's no question about it. And what we're also very clear about is that in a competitive space, you've got to differentiate. And differentiation is going to be driven by what we can do at the payment network level through our digital capabilities, but also what we can bring in the nature of value-added services and solutions. So this virtuous cycle piece kind of comes into play again. And we're seeing ourselves actually be able to participate and actually grow in such an environment, which is very encouraging.
+
+So I think it's a competitive environment. We have very, what I would call, formidable competitors out there, but I feel very good about our ability to compete given our suite of services and solutions as well as our payment network capabilities that are out there. So net-net, here's what I'd shared with you, which is I feel encouraged about the robustness of the pipeline, and we'll keep doing what we're supposed to do in terms of actually driving with our customers to deliver value to them.
+
+The last point I'll make is I don't expect and I certainly hope that we don't win all deals. We want to win the right kind of deals. We've said this in the past, and we will be very focused on doing that, which is making sure that we want to win those deals, which are fast growing, which are cross-border heavy, which are ones where we can bring our services to bear to actually drive incremental growth for the issuer. That's really important because if you can't drive incremental growth for the issuer, the whole idea of being able to take it -- take the deal over from the other network is kind of redundant from an issuer standpoint. So we really got to push on that, which is the way we kind of go about doing what we do.
+
+Michael Miebach
+CEO & Director
+
+It's a really important question, Tien-Tsin. So when you look across -- I was just looking back at my prepared remarks, 16 minutes, and you see all the wins in there. So the pipeline is healthy. But it sounds like maybe it's broad stroke. We are very focused based on what Sachin just said, the focus on affluent, for example, on cross-border, on really high octane kind of partnerships that help our customers, but also us really important.
+
+And then as I called it out, it's not just about share, it's about secular opportunities. So wins in the secular opportunity context are just as important when I think about small business, when I think about B2B and so forth. So full on, really full on. That's the plan for '26, but not for everything, as Sachin just said.
+
+Tien-Tsin Huang
+JPMorgan Chase & Co, Research Division
+
+Yes. That's very good detail there. Just forgive me for asking one other clarification question. Just if it looks similar to '25, can we infer that the rebate incentive outlook is also similar?
+
+Sachin Mehra
+Chief Financial Officer
+
+Yes. Here's what I'd share with you. I'm not going to give you a full year rebate guidance. But what I will share with you is that in Q1, we expect our contra as a percentage of payment network assessments to be flat to slightly down sequentially compared to Q4, very much in line with what you've seen in the past.
+
+Michael Miebach
+CEO & Director
+
+That's what he really wanted to know.
+
+Operator
+
+Our next question comes from Darrin Peller from Wolfe Research.
+
+Darrin Peller
+Wolfe Research, LLC
+
+Nice job. Just following up on guidance for a minute. When you look at the trajectory of it, obviously, starting off and then calling for maybe a slight acceleration as the year progresses to the high end of low double digits from the low end of low double digits. Maybe just give us -- just remind us of the puts and takes as the year progresses. And then more importantly, just the inputs. What are you assuming the consumer does and spend volumes do both cross-border domestically? What are your thoughts on the potential for more stimulus? Is that embedded in your guide? So any more color on that would be great.
+
+Sachin Mehra
+Chief Financial Officer
+
+Sure, Darrin. So our base case, which is the basis of the guidance that we've shared with you is that consumer and business spending remains healthy. That's kind of our going-in position because that's what we've seen, right? And like Michael said earlier, there are different numbers as it relates to the soft data from a sentiment standpoint and then there's the hard data. And that's what we kind of see. We've kind of triangulated around the best we can. And it's -- our base case assumes a strong consumer. So that's kind of the starting point of where we are from a driver standpoint. That contemplates the dialogue around a fairly healthy tax refund season, et cetera, et cetera. All of that's taken into consideration. Again, recognize there's the U.S. and then we're a global business as well. We've got 70% of our business roughly coming from overseas markets.
+
+So I think it's important to kind of think about it in that whole context. Now I think you're asking the question as it relates to the cadence between the first half and the second half, which is something I shared. The -- I've given you full year guidance, and I've kind of said that we expect the growth in the first half to be lower than in the second half, and that's primarily driven by the fact that you've got tougher comps from an FX volatility standpoint. We called this out last year where we talked about first quarter, second quarter of last year, higher FX volatility. I called out how we're seeing lower FX volatility coming out of Q4 and into the first 3 weeks of January, something to keep in mind. And the reality is that's really what primarily explains the difference in cadence, which is there between the first half and the second half.
+
+Operator
+
+Our next question comes from Trevor Williams from Jefferies.
+
+Trevor Williams
+Jefferies LLC, Research Division
+
+Sachin, I think you called out pricing as a driver across every revenue line this quarter. So just how should we think about the durability of what we're seeing come through across each of the line items, especially on cross-border, which has been -- seen a nice pricing tailwind over the course of the year. And then in terms of magnitude, just what you're building into the guide for '26 for pricing relative to '25?
+
+Sachin Mehra
+Chief Financial Officer
+
+Yes. I think it's important to actually understand how we go about thinking about what we do and what we call pricing as well, right? It's kind of very much a function of what is the nature of products and solutions and services that we have delivered, whether they're brand new in nature and/or they are modifications or improvements in terms of delivering incremental value to our customers, which comes into play. So there is the impact of what we've done last year. And not everything starts on January 1, so there's the lapping effect of that, which comes through in the following year.
+
+And then what do we see in the nature of pipeline of new capabilities that will deliver incremental value to our customer that we will price for, that we build into our forecast. Trevor, I'm not going to get more specific than that as it relates to how much of that there is just because at the end of the day, a lot of this is a function of our ability to be able to deliver everything we've got in the nature of the pipeline in terms of new capabilities and new value, which will actually ultimately result in how much we generate in the nature of pricing.
+
+Operator
+
+Our next question comes from Harshita Rawat from Bernstein.
+
+Harshita Rawat
+Bernstein Institutional Services LLC, Research Division
+
+I want to follow up on your recent announcements in Agentic, including the suite you just announced. It's early in this era, lots of experimentation happening. But maybe help us frame the different pieces of the capabilities here. You have the identity trust layer [ and other ] platforms for custom AI agents. But there's so much fragmentation competing protocols. I know you're partnering with Google and OpenAI among others. So help us frame this and talk about why you believe you'll Mastercard not only growing in Agentic era, but also thriving with respect to the trust, governance, personalization and other services you can provide.
+
+Michael Miebach
+CEO & Director
+
+Thank you, Harshita. This is a great question. What an exciting space and might be one of those use cases, AI-driven use cases that meet our reality much faster than other AI use cases out there. So I think Agentic Commerce is going to come fast. So this whole idea of a consumer using an agent to drive -- have a better commerce journey, I think that just resonates with people. You get better quality insights, you get better recommendations.
+
+So from that perspective, that's just kind of the starting headline. And hence, when you then build out from that, we've been at this for over 8 months now with Agent Pay launching that as our framework around recognizing agents, ensuring identity and then bringing all the protections of payments into the world of Agentic Commerce. So those are all consumer protections and user experience journeys that are understood by consumers, also by our partners, take Google, for example. So this isn't new and which gives me great confidence because it's understood and it comes -- it can be delivered at scale, we are a really important partner in this whole journey.
+
+So there's new entrants, LLM companies that haven't been really in the commerce space, contrary to somebody like Google maybe. So yet again, that puts it on us to engage with these partners. From the outset, we ensured as we do in other emerging payment spaces that the standards are set. We put out protocols, other put out protocols. There's a question on how do these protocols all interact with each other? Well, it's the focus on consumer protection, safety, security and cyber and registering agents and making sure they're real and all of that, that is really driving this. And these protocols generally reinforce each other.
+
+So from that perspective, we feel we are very centered here. The cards ecosystem brings a lot of value, and that is understood, and it will bring it into this space. So then you kind of ask yourself and say, well, from here on, what's different then? Well, new relationships are being built. And of course, we're stepping forward with a differentiated set of solutions that we can offer. We just talked about services earlier that that's an opportunity. You can start to see that there is a transaction opportunity in all of this because a basket might be spread over many merchants. So that's another opportunity.
+
+You could also see that the application of services. For example, tokenization get to see a very different path than it might see without Agentic Commerce. So these are all aspects that make me very excited about this. We're leaning across the ecosystem. Everybody wants to talk about this. If we take a step back right now, it's also true it's early days. But everything that I just said is true, and we're leaning for that. It's hard to predict when and how this is going to scale to what degree, but the train is leaving the station, and we're right in front of it.
+
+Operator
+
+Our next question comes from Bryan Keane from Citi.
+
+Bryan Keane
+Citigroup Inc., Research Division
+
+Congrats on the solid results. Sachin, I was just going to ask, when there's geopolitical risks, investors are always trying to figure out what the impact would be to Mastercard. And you talked about levers and mitigation efforts that you guys use. Could you just talk a little bit about some of the things that you could do or pull or things you've done in the past when political things have popped up to kind of mitigate downside to top line and bottom line?
+
+Michael Miebach
+CEO & Director
+
+Yes. So it's a very important topic. We are probably one of the most global businesses in 20 countries and territories. So as I said in my prepared remarks, we're monitoring geopolitics all the time. We have through the past years, and we're doing so today. It's really important for us to understand that this is not just about geopolitics. If you look at our business model, we're aligned in terms of our interest with banks around the world. We're aligned with merchants and companies around the world. We are -- our focus on driving an inclusive digital economy aligns us with broader populations and NGOs and so forth.
+
+So it's not just about the politics when you look at the geopolitical landscape, and we're engaging with all partners. An important aspect of this is we don't do the same thing everywhere. This is not an off-the-shelf kind of solution that Mastercard brings. We always strive to understand the local needs, the local considerations. Of course, it's very different in Africa, which is why we partnered with MTN. It's very different in the UAE versus Europe. We just announced in October last year that we're bringing 3 additional data centers into Europe, $250 million of investments on the ground to drive better resilience and competitiveness for Europe. So these are all aspects that we can do today because we've invested in our technology. We continue to invest in our technology.
+
+So some of the comments that Sachin earlier made about reprioritization and where we take charges because that is what we need to fuel that we have that flexibility to engage with a country on that path and be a true partner for that. At the same time, we bring global best practice and global cybersecurity solutions, and that sets us apart to navigate that world very actively. This will only work with a strong public policy and engagement process and spending time with governments and understand where they want to go, and that is what we do because we're in offices with 125 offices around the world to really stay very close to the local needs.
+
+Sachin Mehra
+Chief Financial Officer
+
+Yes. And I guess, Bryan, you asked what kind of levers do we have in uncertain environments to the extent we need to pull levers. I think the headline I would first say is that we will not do anything which will impair our ability to grow over the long term. I think that's super important. But all of that being said, there are several levers we've got. We've got levers which we executed in the past in terms of taking a look at where are we spending our dollars? Are they in favor with our customers? Are there things which are going to deliver returns in the near term, medium term or long term, and we will pull those levers. These could be across all our expense line items, everything from personnel to our A&M spend, to our T&E, pro fees, you name it, right, at the end of the day.
+
+And also remember, we do have a component of our revenues, which come with cost of goods sold. And so if to the extent you're asking what kind of levers are there because revenues start to actually decline, revenues coming down has a natural effect of bringing cost of goods sold down as well. So sufficient levers. We'll never be complacent around this, but I do want to leave you with one thought, which is we do care about investing for the long term, and that's something we will continue to do through up and down cycles because the set of opportunities in front of us is so big that we shouldn't lose sight of that.
+
+Devin Corr
+Executive Vice President of Investor Relations
+
+Thank you very much. Michael, any closing comments?
+
+Michael Miebach
+CEO & Director
+
+Yes. Yes. So we just spent the past hour talking about our diversified global business and how we're winning in the market. None of this is possible, of course, with our colleagues around the world, the dedicated teams. I mentioned it twice earlier in my remarks. And we're proud about the work that's being done for our customers. We're also grateful for your support. So thank you for the dialogue and the great questions. We're going to speak to you in a quarter from now. Thank you very much.
+
+Sachin Mehra
+Chief Financial Officer
+
+Thanks, everyone.
+
+Devin Corr
+Executive Vice President of Investor Relations
+
+Thank you.
+
+Operator
+
+This concludes today's conference call. You may now disconnect.
