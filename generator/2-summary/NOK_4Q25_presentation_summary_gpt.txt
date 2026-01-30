@@ -1,0 +1,78 @@
+[ 어닝콜 요약 ]
+
+매출 +3% YoY (EUR 6.1B, Q4)
+- Optical Networks와 IP Networks 중심의 Network Infrastructure 부문이 성장 견인
+- AI 및 클라우드 고객 수요 강세, Mobile Networks는 중동·아프리카, 일본, 인도네시아 중심 성장
+
+Sales by segment
+1) Network Infrastructure EUR 6.1B (Q4 전체 매출 기준, YoY +7%)
+   - Optical Networks 17% 성장, AI·클라우드 고객 대상 주문 강세로 book-to-bill 1 이상 유지
+   - IP Networks는 데이터센터 스위칭 확장 중, 신제품 출시 및 디자인 윈 확보
+   - Fiber OLT 사업 16% 성장, Fixed Networks 내 비차별화 제품 축소로 전체는 플랫
+
+2) Mobile Infrastructure (신설) 
+   - Core Software 5G 코어 딜 수주 및 API 플랫폼 확장
+   - Radio Networks 5G advanced, O-RAN 투자 지속, NVIDIA와 AI-RAN 협업 진행
+   - 기술 표준 부문은 특허 매출 약 EUR 1.4B 유지, 방위산업 신설로 국방 솔루션 개발 중
+
+3) Cloud and Network Services 
+   - 분기 매출 -4% 감소, 연간 +6% 성장
+   - 매출 인식 시기 차이 영향, 마진 및 영업이익률 개선
+
+4) Mobile Networks 
+   - 매출 +6%, 중동·아프리카, 일본, 인도네시아 성장 주도
+   - 마진 40.1%, 비용 절감 프로그램 효과로 영업이익률 11.3% 기록
+
+5) Nokia Technologies 
+   - 매출 -17%, 신규 계약 체결에도 전년 대비 매출 감소
+   - EUR 20M 감가상각 비용 반영
+
+GPM 48.1% (+90 bps YoY)
++ Mobile Networks 및 Cloud and Network Services 마진 개선
+- Network Infrastructure 부문 마진 44.6%로 80bps 하락, Infinera 인수 관련 비용 및 R&D 투자 영향
+
+OPM 17.3% (-90 bps YoY)
++ Cloud and Network Services 영업이익률 개선
+- Network Infrastructure 투자 확대 및 인수 비용 영향
+
+
+[ 가이던스 요약 ]
+
+Guidance FY2026 (신규)
+- Revenue growth 6~8% (Network Infrastructure 연평균 목표치와 일치)
+- Gross margin Network Infrastructure 13~17% (2025년 9.5% 대비 확장 예상)
+- Operating profit EUR 2B~2.5B (2025년 수준 유지 또는 소폭 상승)
+- Free cash flow conversion 65~75% (2025년 72% 대비 유지)
+- CapEx EUR 900M~1B (Optical Networks 제조능력 확대 및 부동산 갱신 투자)
+
+주요 변화
+- AI 및 클라우드 수요 강세에 따른 Network Infrastructure 성장 집중
+- Fixed Networks 내 비차별화 제품 축소로 성장 제한
+- Mobile Infrastructure는 5G 경쟁력 강화 및 AI·6G 투자 지속, 수익성 안정화 목표
+- Portfolio Businesses 구조 조정 진행 중이며, 2026년 손실 축소 기대
+
+
+[ Comments 요약 ]
+
+[Network Infrastructure 성장 및 AI·클라우드 수요]
+① Optical Networks 17% 성장, AI·클라우드 고객 대상 주문 강세로 book-to-bill 1 이상 유지
+② 2025년 AI·클라우드 고객 주문 EUR 2.4B 기록, AI 슈퍼 사이클 인프라 핵심으로 인식
+③ 800G ZR/ZR+ 제품 초기 출하 및 다수 디자인 윈 확보, 생산 확대 중
+④ IP Networks는 데이터센터 스위칭 신제품 출시 및 디자인 윈 확보로 시장 확장 중
+
+[Mobile Infrastructure 전략 및 투자]
+① Core Software 5G 코어 딜 수주 및 Network as Code API 플랫폼 75개 파트너 확보
+② Radio Networks 5G advanced, O-RAN 투자 지속, NVIDIA와 AI-RAN 협업 진행 중
+③ 기술 표준 부문 특허 매출 안정적 유지, 방위산업 신설로 국방용 4G/5G 솔루션 개발 강화
+④ 시장 안정 속에서 수익성 개선 및 경쟁력 확보에 집중
+
+[Fixed Networks 및 Portfolio Businesses 구조 조정]
+① Fixed Networks는 비차별화 고객장비 축소로 매출 플랫, Fiber OLT는 16% 성장
+② Portfolio Businesses로 통합된 4개 사업부문은 2025년 EUR 850M 매출, EUR 97M 영업손실 기록
+③ 2026년 손실 축소 및 미래 방향성 결정 목표
+
+[재무 및 현금 흐름 관리]
+① 2025년 연간 매출 EUR 19.9B, 영업이익 EUR 2B로 가이던스 상회
+② 4분기 순현금 EUR 3.4B, 자유현금흐름 EUR 226M, 현금 전환율 72% 유지
+③ 2026년 CapEx 확대 계획, AI·광통신 제조능력 투자 집중
+④ 중국 합작법인 완전 인수로 운영 유연성 확보 및 EUR 200M 비용 시너지 기대
