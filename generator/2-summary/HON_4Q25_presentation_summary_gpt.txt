@@ -1,0 +1,69 @@
+[ 어닝콜 요약 ]
+
+매출 +6% YoY (조정 기준, Bombardier 계약 영향 제외)
+- 2025년 4분기 강한 매출 성장과 조정 EPS 상승으로 연간 목표 초과 달성
+- 주문 23% 증가, 백로그 370억 달러 돌파로 견조한 수요와 포트폴리오 혁신 효과 확인
+
+Sales by segment
+1) Aerospace Technologies 약 11% 유기적 성장 (Bombardier 제외)
+   - 상업용 OE 성장 가속화, Defense & Space 강세 지속
+   - 공급망 개선에 따른 출하량 증가 및 견조한 주문 증가 (book-to-bill 1.2)
+   - 조정 세그먼트 마진 26.5%로 전분기 대비 40bps 상승
+
+2) Building Automation 약 8% 유기적 성장
+   - 솔루션 9%, 제품 8% 성장 주도
+   - 북미 및 중동 강세, 유럽도 중간 단위 성장 기록
+   - 마진 27%로 1년 전 대비 20bps 상승
+
+3) Industrial Automation 1% 성장 (두 분기 연속 성장)
+   - Warehouse & Workflow Solutions, Sensing, Productivity Solutions 성장 견인
+   - Process Solutions는 서비스 강세에도 제품 부진으로 매출 정체
+   - Energy & Sustainability Solutions 매출 7% 감소, 프로젝트 지연 영향
+
+GPM 약 40% 수준 (구체 수치 미공개)
++ 가격 인상, 프로모션 효율화, 제품 믹스 개선
+- 원자재 비용 인상 및 일부 부문 믹스 악화
+
+OPM 22.8% (4분기 기준, Bombardier 제외 시 22.5%)
++ 볼륨 증가, 가격 실행, 공급망 개선, 생산성 향상
+- 일부 부문(ESS, IA)에서 믹스 악화 및 비용 상승 영향
+
+[ 가이던스 요약 ]
+
+Guidance FY2026 (updated)
+- Revenue growth 3%~6% organically vs. 기존 가이던스 없음 [신규 제시]
+- Gross margin 22.7%~23.1% vs. 기존 없음 [신규 제시]
+- Operating margin (세그먼트 마진) 20~60bps 상승 예상 vs. 기존 없음 [신규 제시]
+- EPS $10.35~$10.65 vs. 기존 없음 [신규 제시]
+- Free cash flow $5.3B~$5.6B, 4%~10% 증가 예상
+
+주요 변화
+- Aerospace와 Building Automation 중심의 견조한 수요와 가격 실행, 생산성 개선이 성장 견인
+- Process Automation Technology는 상반기 부진하나 하반기 성장 전환 기대
+- Industrial Automation은 저성장 또는 소폭 감소 예상, 비용 절감으로 마진 개선 목표
+- Quantinuum R&D 투자 증가가 마진에 약간 부담
+
+[ Comments 요약 ]
+
+[포트폴리오 분할 및 구조조정]
+① Advanced Materials 분사 완료, Aerospace 분사는 2026년 3분기 예정으로 계획보다 빠르게 진행 중
+② Aerospace 신규 경영진 및 이사회 구성 완료, 산업 및 자본시장 경험 풍부한 리더십 확보
+③ Productivity Solutions 및 Warehouse and Workflow Solutions 매각 추진 중으로 사업 단순화 가속
+④ 각 사업부가 독립적이고 집중된 전략과 자본 배분으로 성장 가속화 기대
+
+[혁신 및 R&D 투자]
+① 2025년 R&D 투자 확대에 힘입어 신제품 도입으로 4% 유기적 성장 견인
+② 600명 엔지니어 신규 채용으로 R&D 역량 강화, 대부분 신제품 개발에 집중
+③ 영업 인센티브도 신제품 상업화에 맞춰 조정, 혁신과 고객 밀착 강화 전략 지속
+
+[Quantinuum 및 양자컴퓨팅]
+① Quantinuum은 8억 4천만 달러 규모 자금 조달 완료, 기업가치 100억 달러 평가
+② 세계 최고 정확도 상업용 양자컴퓨터 Helios 출시, AI와 양자컴퓨팅 통합 추진
+③ 제약, 사이버보안, 금융 등 핵심 산업에서 상업적 파트너십 확대 중
+④ 경영진은 Quantinuum의 기술 및 상업적 진전이 미래 성장의 핵심 동력으로 기대
+
+[시장 수요 및 성장 전망]
+① Aerospace는 상업용 항공기 생산 증가와 방위비 확대에 힘입어 고단위 싱글 디지트 성장 예상
+② Building Automation은 데이터센터, 헬스케어, 탈탄소 인프라 투자 확대에 따른 견조한 성장 기대
+③ Process Automation은 상반기 부진하나 LNG, 정유 프로젝트 수주 증가로 하반기 성장 전환 전망
+④ Industrial Automation은 전년 대비 안정적이나 도전적 시장 환경 지속, 비용 절감으로 마진 개선 목표
