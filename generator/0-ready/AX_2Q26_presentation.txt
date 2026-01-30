@@ -1,0 +1,118 @@
+Axos Financial, Inc. (AX) Q2 2026 Earnings Call January 29, 2026 5:00 PM EST
+
+Company Participants
+
+Johnny Lai - Senior Vice President of Corporate Development & Investor Relations
+Gregory Garrabrants - President, CEO & Director
+Derrick Walsh - Executive VP & CFO
+
+Conference Call Participants
+
+David Chiaverini - Jefferies LLC, Research Division
+Kyle Peterson - Needham & Company, LLC, Research Division
+David Feaster - Raymond James & Associates, Inc., Research Division
+Gary Tenner - D.A. Davidson & Co., Research Division
+Kelly Motta - Keefe, Bruyette, & Woods, Inc., Research Division
+
+Presentation
+
+Operator
+
+Greetings, and welcome to the Axos Financial Second Quarter 2026 Earnings Call Webcast. [Operator Instructions] As a reminder, this conference is being recorded. It is now my pleasure to introduce your host, Johnny Lai, Senior Vice President, Corporate Development and Investor Relations. Thank you, Johnny. You may begin.
+
+Johnny Lai
+Senior Vice President of Corporate Development & Investor Relations
+
+Thanks, Alicia. Good afternoon, everyone, and thanks for your interest in Axos. Joining us today for Axos Financial, Inc.'s Second Quarter 2026 Financial Results Conference Call are the company's President and Chief Executive Officer, Greg Garrabrants; and Executive Vice President and Chief Financial Officer, Derrick Walsh. Greg and Derrick will provide prepared remarks on the financial and operational results for the quarter ended December 31, 2025, then open up the call for Q&A.
+
+Before I begin, I would like to remind listeners that prepared remarks made on this call may contain forward-looking statements that are subject to risks and uncertainties and that management may make additional forward-looking statements in response to your questions. Please refer to the safe harbor statement found in today's earnings press release and in our investor presentation for additional details.
+
+The call is being webcast, and there will be an audio replay available in the Investor Relations section of the company's website located at axosfinancial.com for 30 days. Details for this call were provided on the conference call announcement and in today's earnings press release.
+
+Before handing the call over to Greg, I'd like to remind listeners that in addition to the earnings press release, we also issued an earnings supplement and 10-Q for this call. All of these documents can be found on axosfinancial.com.
+
+With that, I'd like to turn the call over to Greg.
+
+Gregory Garrabrants
+President, CEO & Director
+
+Thank you, Johnny. Good afternoon, everyone, and thank you for joining us. I'd like to welcome everyone to Axos Financial's conference call for the quarter ended December 31, 2025. I thank you for your interest in Axos Financial.
+
+We had an outstanding quarter across a variety of growth, credit and profitability metrics. We generated $1.6 billion of net loan growth-linked quarter with broad-based growth across several asset-based lending areas, commercial specialty and equity finance verticals, a 19% basis point linked quarter increase in net interest margin, a linked quarter improvement in our nonperforming assets and net charge-off ratios and a 23.3% year-over-year increase in earnings per share. We continue to generate high returns as evidenced by the over 17% return on average common equity and the 1.8% return on assets in the 3 months ended December 31, 2025.
+
+Other highlights in the quarter include Net interest income was $331.6 million for the 3 months ended December 31, 2025, increasing by approximately $41 million linked quarter or 14%. Net interest income growth benefited from balanced growth across single-family mortgage warehouse, commercial specialty real estate, equipment finance and fund finance. We had one FDIC loan prepaid this quarter, resulting in approximately $17 million of interest income benefit. Excluding that benefit, net interest income was up $23 million or 8% from fiscal Q1 2026 to fiscal Q2 2026.
+
+Net interest margin was 4.94% for quarter ended December 31, 2025, up 19 basis points from 4.75% in the quarter ended September 30, 2025. Excluding the impact from the early payoff of an FDIC purchased loan and the impact from the Verdant balance sheet securitization, our net interest margin was 4.72%, roughly flat from the prior quarter. We continue to maintain our best-in-class net interest margin with or without the benefit of the accretion from loans purchased from the FDIC.
+
+Noninterest income increased by approximately $21 million quarter-over-quarter due to higher banking service fees, broker-dealer fee income and prepayment penalty fees. This was the first quarter with noninterest income and noninterest expense contributions from Verdant. Noninterest income from Verdant was approximately $18.9 million in the quarter ended December 31, 2025. Total nonaccrual loans to total loans declined 13 basis points linked quarter, resulting in our nonaccrual loans to total loan ratio improving from 74 basis points as of September 30, 2025, to 61 basis points as of December 31, 2025.
+
+Nonperforming assets declined in single-family mortgage, multifamily and commercial mortgage and stayed roughly flat in commercial real estate and C&I non-real estate lending categories. Net income was approximately $128.4 million in the quarter ended December 2025, up 22.6% from $104.7 million in the prior year second quarter. Diluted earnings per share was $2.22 for the quarter ended December 31, 2025, compared to $1.80 in the prior quarter, representing a 23.3% year-over-year increase.
+
+Total originations for investments, excluding single-family warehouse lending, were $5.6 billion for the 3 months ended December 31, 2025, representing an increase of 35% linked quarter or nearly 140% annualized. Commercial real estate specialty lending, equipment leasing, asset-based lending and single-family warehouse had strong organic originations and net loan growth this quarter. Single-family mortgage ending balances were roughly flat, an improvement from net attrition we experienced over the past 3 years.
+
+Average loan yields from nonpurchased loans for the 3 months ended December 31 were 7.63%, roughly flat from the prior 7.66% in the prior quarter. Average loan yields for purchased loans were 23.32%, which included the accretion of our purchase discount. Purchased loan yields for the quarter ended December 31 benefited from 1 FDIC loan prepayment, resulting in approximately $17.1 million of purchase discount accretion that we recognized in interest income. The FDIC purchased loans continue to perform and all loans in our portfolio remain current.
+
+Ending deposit balances of $23.2 billion were up 44.3% linked quarter and up 16.5% year-over-year. Demand market -- money market and savings accounts representing 96% of total deposits as of December 31 increased by 17% year-over-year. We have a diverse mix of funding across a variety of business verticals with consumer and small business representing 52% of total deposits, commercial cash, treasury management and institutional representing 22%; commercial specialty representing 15%; Axos Fiduciary Services representing 5%; and Axos Securities, which is our custody and clearing, representing 5%.
+
+Average noninterest-bearing deposits were approximately $3.5 billion in the quarter ended December 31 compared to $3 billion in the prior quarter. Client cash sorting deposits ended the quarter around $1.1 billion, up modestly from the September quarter.
+
+In addition to our Axos Security deposits on our balance sheet, we had approximately $460 million of deposits off balance sheet at partner banks. We remain focused on adding noninterest-bearing deposits from our custody clearing, fiduciary services and commercial cash and treasury management verticals. Our consolidated net interest margin was 4.94% for the quarter ended December 31 compared to 4.75% in the quarter ended September 30. We closed the Verdant acquisition on September 30, adding approximately $430 million of loans and leases and approximately $780 million of on-balance sheet securitizations. While the leases are generally accretive to loan yields, the secured financing had a 3 basis point negative impact on our net interest margin in the quarter ended December 31.
+
+One FDIC purchased loan paid off in the December quarter. The net impact from the early FDIC purchase loan payoff and the Verdant secured financing was a 22 basis point boost to this quarter's net interest margin. Given the payoffs and maturities in our FDIC purchased loans, we expect net interest margin accretion from the FDIC purchased loans to be 10 to 15 basis points going forward.
+
+The diversity of our lending channels provide us with the flexibility to maintain strong loan growth and credit performance while managing our best-in-class interest margin.
+
+Verdant had a strong quarter as part of Axos, contributing approximately $130 million of net new loans and operating leases in the December quarter. We have already identified several opportunities to deepen our relationship with existing Verdant vendors and dealers as well as accelerate growth in a few existing verticals that were previously constrained by capital and size limitations when Verdant was under private ownership.
+
+Demand in our commercial specialty real estate, fund finance and lender finance, real estate and non-real estate verticals remain strong. We are making steady progress growing our loan pipelines in newer lending verticals such as floor plan and middle market lending. Taking all these factors into consideration, we are confident that we will generate loan growth by low to mid-teens on an annual basis this year.
+
+Given the robust loan growth in the December quarter, we entered January with approximately $800 million higher starting loan balances than the average balances from the prior quarter. We also expect to grow loans in the $600 million to $800 million range this quarter. This strong organic loan growth is allowing us to offset the lower level of accretion that we expect to receive going forward on the FDIC purchase loan portfolio. As a result of strong prepayments and scheduled maturities, the level of regular accretion we expect going forward per quarter on the Signature FDIC loan purchase is approximately $6.5 million. Excluding the onetime gain on the Signature prepayment in this quarter, we received approximately $9 million of Signature FDIC accretion in the December quarter, resulting in a forward-looking reduction of scheduled accretion of approximately $2.5 million. In essence, we have replaced a significant percentage of our Signature loan accretion income with stable core net interest income.
+
+Additionally, the March quarter has 2 fewer days, resulting in approximately 2% net interest income reduction as compared with the 3 other quarters. Finally, we achieved around a 90% downward beta, managing the last 50 basis points of rate cut, resulting in a potential 5 to 6 basis point reduction in our Signature adjusted margin in the March quarter relative to the December quarter, although some of this reduction may be offset by nonrenewals of lower-margin loans and slightly higher average margin of new originations given the robustness of our loan demand.
+
+We had a strong increase in noninterest income as a result of the acquisition of Verdant's operating leases. While we expect that the Verdant loan balance growth is going to be approximately $150 million per quarter, the percentages that are operating leases, which will generate incremental fee income rather than interest income, will fluctuate from quarter-to-quarter depending on the structure of the individual transactions.
+
+The credit quality of our loan book continues to be strong, and our historical and current net charge-offs remain low. Total nonperforming assets improved by approximately $19 million linked quarter, representing 56 basis points of total assets compared to 64 basis points in the prior quarter ended September 30. Nonperforming assets declined by approximately $9.7 million in multifamily and commercial mortgages and by $11.9 million in single-family mortgage.
+
+Total nonaccruals in C&I lending were largely unchanged from the prior quarter. We do not anticipate a material loss from loans currently classified as nonperforming in our single-family, multifamily or commercial real estate loan portfolios. Net charge-offs to total assets were down 7 basis points linked quarter and 6 basis points year-over-year to 4 basis points for the 3 months ended December 31. We remain well reserved from our current loan levels for credit loss with our allowance for credit loss to nonaccrual loans equal to 215.8% at December 31.
+
+Axos Securities, which includes our correspondent clearing and RIA custody business, had a good quarter. Total assets under custody administration increased by $43 billion at September 30 to $44.4 billion at December 31. Net new assets for our custody business were nearly $1 billion in the December quarter and $2 billion for the first 6 months of fiscal 2026. Strong organic asset growth and operational improvements contributed to operating income from the Securities segment, improving from $7.8 million in the second quarter to $9.7 million from $7.8 million in Q2 of 2025 to $9.7 million in Q2 of 2026.
+
+We continue to expand the scope and scale of artificial intelligence across the firm to a wide range of businesses and functional units. We are well positioned to use artificial intelligence to increase operating leverage across the enterprise. We are deploying artificial intelligence throughout the software development life cycle. These AI-enabled tools allow us not only to review, document and update code at a faster pace with fewer resources, but they will also allow our team to take on more projects concurrently without the need to increase the pace of new hires or offshoring.
+
+Our commercial lending team has expanded the utilization of AI in various credit underwriting and portfolio management workflows, significantly improving the productivity of manual repetitive tasks. We are enhancing our ability to perform more robust compliance and risk monitoring at reduced costs.
+
+We continue to evaluate M&A opportunities to augment growth from existing businesses and team lift-outs. We successfully completed the acquisition of Verdant Commercial Capital, a vendor-based equipment leasing company at the end of the September quarter. Verdant's focus on originating small and mid-ticket leases nationally in 6 specialty verticals is a great addition to our commercial lending franchise.
+
+Their strong risk-adjusted returns, history of low credit losses, tech-enabled service model and the entrepreneurial spirit of the team members are a great strategic fit for Axos. We are making good progress integrating the team, systems and processes. We also have spent time with the vertical and functional leaders to identify and prioritize strategic and operational initiatives that will help deepen our relationship with their clients and increase revenue growth and profitability.
+
+Over the next 6 to 12 months, we will more systemically develop cross-sell opportunities for deposits and floor plan lending to a larger set of strategic dealers and OEMs. With a strong start and a solid pipeline, we expect Verdant to achieve EPS accretion at the mid- to high end of our initial projection of 2% to 3% accretion in fiscal 2026 and 5% to 6% accretion in fiscal 2027. I'm excited for the opportunities that we have to maintain our positive momentum in fiscal 2026 and beyond.
+
+Our strong and growing capital, diverse lending, deposit and fee income capabilities, operational and credit risk management culture positions us well to capitalize on organic and inorganic growth opportunities. As we make additional progress on various technology and process enhancement initiatives, I remain optimistic that we can deliver positive operating leverage while investing in businesses, systems and people.
+
+Now I'll turn the call over to Derrick, who will provide additional details on our financial results.
+
+Derrick Walsh
+Executive VP & CFO
+
+Thanks, Greg. A quick reminder that in addition to our press release, our 10-Q was filed with the SEC today and is available online through EDGAR or through our website at axosfinancial.com. I will provide some brief comments on a few topics. Please refer to our press release and our SEC filings for additional details.
+
+Noninterest expenses were approximately $184.6 million for the 3 months ended December 31, 2025, compared to $156.3 million in the 3 months ended September 30, 2025. Verdant added approximately $7.8 million in salaries and benefits expenses and $14.8 million in depreciation and amortization expenses. Separately, we had a $7 million increase in other general and administrative expenses related to an accrual for the core Clearing acquisition. Excluding the Verdant-related expenses and the onetime accrual, noninterest expenses were roughly flat quarter-over-quarter. We are committed to keeping our salaries and benefits and professional services expense growth at 30% of our revenue growth or lower on an annual basis.
+
+As we mentioned last quarter, we acquired approximately $1 billion of loans and leases and $213 million of fixed asset operating leases in the Verdant acquisition, which closed on September 30, 2025. As of December 31, $702 million remain as on-balance sheet securitizations. In the quarter ended December 31, 2025, we recorded $24.3 million of interest income from loans and leases and $14.1 million of noninterest income from the operating leases.
+
+Turning to the consolidated entity. Total noninterest income for the 3 months ended December 31, 2025, was $53.4 million, an increase of 65% from the $32.3 million in the prior quarter. Aside from the $18.9 million noninterest income from Verdant, we saw growth in both broker-dealer and advisory fee income compared to the linked quarter.
+
+Provisions for credit losses were $25 million in the quarter ended December 31, 2025, compared to $17.3 million in Q1 of 2026. The primary driver of the quarter-over-quarter increase in provision for credit losses was robust loan growth across our commercial lending categories, which carry a higher provision for each dollar of net loans added compared to single-family and multifamily mortgages. We also added approximately $2.8 million to our provision for unfunded commitments related primarily to our commercial real estate specialty and C&I lending businesses during the quarter.
+
+I'll wrap up with our loan pipeline growth outlook. Our loan pipeline remains healthy at approximately $2.2 billion as of January 23, 2026, consisting of $598 million of single-family residential jumbo mortgage, $75 million of single-family gain on sale mortgage, $200 million of multifamily and small balance commercial, $82 million of auto and consumer and $1.2 billion across commercial.
+
+We expect the combination of strong originations from our commercial lending businesses, growing contributions from incubator businesses such as floor plan and middle market lending and slowing prepayments in our multifamily lending businesses and the incremental contributions from the Verdant Equipment Finance business to drive loan growth in the low to mid-teens year-over-year over the next year.
+
+With that, I'll turn the call back over to Johnny.
+
+Johnny Lai
+Senior Vice President of Corporate Development & Investor Relations
+
+Thanks. Alicia, we're ready to take questions.
+

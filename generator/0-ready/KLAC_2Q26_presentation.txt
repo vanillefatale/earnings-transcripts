@@ -1,0 +1,92 @@
+KLA Corporation (KLAC) Q2 2026 Earnings Call January 29, 2026 5:00 PM EST
+
+Company Participants
+
+Kevin Kessel - Vice President of Investor Relations
+Richard Wallace - President, CEO & Executive Director
+Bren Higgins - Executive VP & CFO
+
+Conference Call Participants
+
+Vivek Arya - BofA Securities, Research Division
+Harlan Sur - JPMorgan Chase & Co, Research Division
+Joseph Quatrochi - Wells Fargo Securities, LLC, Research Division
+Christopher Muse - Cantor Fitzgerald & Co., Research Division
+Shane Brett - Morgan Stanley, Research Division
+Timothy Arcuri - UBS Investment Bank, Research Division
+Christopher Caso - Wolfe Research, LLC
+James Schneider - Goldman Sachs Group, Inc., Research Division
+Robert Mertens - TD Cowen, Research Division
+Stacy Rasgon - Bernstein Institutional Services LLC, Research Division
+Thomas O'Malley - Barclays Bank PLC, Research Division
+
+Presentation
+
+Operator
+
+Good afternoon. My name is Stephanie, and I'll be your conference operator today. At this time, I would like to welcome everyone to the KLA Corporation December Quarter 2025 Earnings Conference Call and Webcast. [Operator Instructions] I will now turn the call over to Kevin Kessel, Vice President of Investor Relations and Market Analytics. Please go ahead.
+
+Kevin Kessel
+Vice President of Investor Relations
+
+Welcome to the December 2025 quarterly earnings call. I'm joined by our CEO, Rick Wallace, and our CFO, Bren Higgins. We will discuss today's results as well as our March quarter and calendar 2026 outlook which we released after the market close and is available on our website along with supplemental materials.
+
+We are presenting today's discussion and metrics on a non-GAAP financial basis unless otherwise specified. All full year references we make refer to calendar years. The earnings materials contain a detailed reconciliation of GAAP to non-GAAP results. KLA's IR website also contains future investor events, presentations, corporate governance information and links to our SEC filings.
+
+Our comments today are subject to risks and uncertainties reflected in the disclosure of risk factors in our SEC filings. Any forward-looking statements, including those we make on the call today, are subject to those risks, and KLA cannot guarantee those forward-looking statements will come true. Our actual results may differ significantly from those projected in our forward-looking statements.
+
+We will begin the call with Rick providing commentary on the business environment in our quarter, followed by Bren with financial highlights and our outlook.
+
+Before I turn the call over to Rick, I wanted to remind everyone that we are hosting our Investor Day on March 12, and invitations were recently e-mailed out. Now over to Rick.
+
+Richard Wallace
+President, CEO & Executive Director
+
+Thank you, Kevin. I will summarize KLA's overall performance for 2025 and the December quarter as well as cover the current industry landscape. For 2025, KLA continued to deliver relative growth outperformance, along with strong profitability, free cash flow generation and return to shareholders. For 2025, revenue grew 17% to a record $12.745 billion with our process control systems business outpacing the industry growth by several points. Earnings per share grew 29% year-over-year, demonstrating the strong leverage in our model, and KLA maintained industry-leading gross margins and operating margins of 62.8% and 43.6%, respectively.
+
+The company also grew free cash flow 30% to $4.4 billion and returned $3 billion in a combination of dividends and share buybacks. KLA's process control system revenue grew 19%, and our service business grew 15% for the year, and 2025 is expected to be another year of process control share growth for KLA. The demand for AI infrastructure, coupled with KLA's industry leadership and process control positions the company well in supporting all major growth vectors in semiconductor manufacturing, including advanced logic, high-bandwidth memory and advanced packaging.
+
+In the December quarter, KLA delivered strong results across the board, with revenue of $3.3 billion, non-GAAP diluted EPS of $8.85 and GAAP diluted EPS of $8.68. Highlights contributing to this performance includes 17% year-over-year revenue growth fueled by investment in leading-edge foundry logic and high-bandwidth memory and DRAM. AI remains a core driver of KLA's performance and a key factor in our growing industry leadership. As KLA's solutions enable our customers to deliver products needed for AI, our systems are also applying AI-driven analytics to deliver actionable insights that streamline chip manufacturing and accelerate innovation and time to yield for next-generation AI applications. We believe that our experience reflects the compelling capabilities, cost and power consumption available with GPU-based compute architectures, and is fueling the ongoing HPC infrastructure build-out. Looking ahead, KLA's innovations with AI will produce actionable data for our customers that accelerate system performance, reduce the cost of ownership and improve their return on investment in KLA systems.
+
+In the December quarter, KLA continued to grow in advanced packaging, the rising demand for more powerful systems of chips is driving advanced packaging and increasing the value of process control in the chip package, which has fueled significant growth in this expanding market for KLA. KLA continues to see strong momentum in advanced packaging revenue growth and market share with calendar 2025 total systems revenue of approximately $950 million, representing over 70% year-over-year growth. And as we look forward to calendar 2026, we expect this momentum to continue with year-over-year percentage growth expectations in the mid- to high teens, driven by faster than market growth for our process control products.
+
+KLA services business grew to $786 million in the December quarter, up 6% sequentially and 18% year-over-year. This was the 16th consecutive year of annual service revenue growth with a compounded annual growth rate greater than 12% over that time frame. Finally, the December quarter remained strong for both free cash flow and capital returns. Quarterly free cash flow was a record $1.26 billion. Total capital returned in the December quarter was $797 million, comprised of $548 million in share repurchase and $250 million in dividends. Total capital returns over the past 12 months was $3 billion.
+
+The industry dynamics to support the demand for AI infrastructure reinforced KLA's growing relevance for our customers and our broad product portfolio plays a critical role in enabling customer success. Additionally, the emerging and fast-growing advanced packaging market further strengthens KLA's relative position. Finally, rising semiconductor content across diverse end markets, coupled with strategic investments in legacy nodes, remains a key driver of dependable long-term growth for KLA in the semiconductor equipment industry. And with that, I'll turn the call over to Bren to discuss the quarter's financial highlights.
+
+Bren Higgins
+Executive VP & CFO
+
+Thanks, Rick. KLA's December quarter results reflect strong year-over-year growth with an industry-leading margin profile. The results also exemplify our market leadership, consistent business execution and the dedication of our global teams in meeting customer commitments. Revenue was $3.3 billion, above the guidance midpoint of $3.225 billion. Non-GAAP diluted EPS was $8.85 and GAAP diluted EPS was $8.68, each above the midpoint of the respective guidance ranges. Gross margin was 62.6%, 60 basis points above the midpoint of guidance due to stronger-than-modeled service performance and manufacturing efficiencies.
+
+Operating expenses were $653 million and included $384 million in R&D and $269 million in SG&A. Operating margin was 42.8%. Other income and expense net was $32 million. The quarterly effective tax rate was 15%. At the guided tax rate of 14%, non-GAAP earnings per share would have been $8.99. Non-GAAP net income was $1.17 billion. GAAP net income was $1.15 billion. Cash flow from operations was $1.37 billion. And free cash flow was $1.26 billion. The company had 132 million diluted weighted average shares outstanding for the quarter.
+
+The breakdown of revenue by reportable and end markets and major products and regions can be found within the shareholder letter and slides.
+
+Moving to the balance sheet. KLA ended the quarter with $5.2 billion in total cash, cash equivalents and marketable securities and debt of $5.9 billion. The company has a flexible and attractive bond maturity profile supported by investment-grade ratings from all three major rating agencies. KLA generated consistent strong free cash flow, driven by our high-performing operating model. Over the past 5 years, free cash flow has grown at a 20% compound annual growth rate above the 16% revenue compound annual growth rate over the same period. This growth, coupled with resiliency across business cycles, helps enable a comprehensive capital return strategy that features double-digit dividend growth and share repurchases to support long-term shareholder value creation.
+
+Turning to the outlook. The industry outlook for 2026 has strengthened over the past few months. We expect the core WFE market to grow in the high single to low double digits, reaching the low $120 billion range, up from approximately $110 billion in 2025. In addition, we expect the advanced packaging component of the market to grow at a similar rate to approximately $12 billion for a total market forecast in the mid-$130 billion range, an increase in the low double digits versus our forecast for 2025. Customer spending profile is expected to broaden across all major end markets. Given KLA's strong business momentum, expanding market share and higher process control intensity at the leading edge across all segments, we begin 2026 well positioned to outperform and increase our share of the overall market.
+
+We are experiencing strong customer momentum that has accelerated over the past 3 months and is reflected in our system backlog and sales funnel. Our view today is that the first half of 2026 revenue will grow mid-single digits compared to the second half of 2025 with accelerating growth in the second half of the calendar year. Customer lead times for our products are increasing due to supply constraints limiting first half growth potential across many of our products. KLA's unique product portfolio differentiation and value proposition are focused on enabling technology transitions, accelerating process node capacity ramps and ensuring yield entitlement and high-volume manufacturing. Market environment and the complexity of our customers' technology road maps are compelling, presenting both challenges and opportunities for KLA to maintain its relative out-performance. In this industry environment, we remain focused on supporting customers, investing for the future, executing product road maps and driving productivity across the enterprise.
+
+KLA's March quarter guidance is as follows: Revenue at $3.35 billion, plus or minus $150 million. Foundry/logic revenue from semiconductor customers is forecasted to be consistent with the December quarter at approximately 60% and memory is expected to be approximately 40% of semi process control systems revenue to semiconductor customers. Within memory, DRAM is expected to be roughly 85% and NAND the remaining 15%. As always, these business mix approximations pertain solely to our semiconductor customers and do not reflect our total semiconductor process control systems revenue. Gross margin for the quarter is forecasted to be 61.75%, plus or minus 1 percentage point.
+
+Although volume levels are relatively consistent quarter-to-quarter, product mix is modestly weaker versus the December quarter. This guidance also includes the incremental impact of the rapidly escalating cost of DRAM chips used in the company's image processing computers that ship with our systems, creating a headwind to our gross margin expectations. This pricing environment has changed profoundly over the past 2 to 3 months and has been highlighted regularly in industry press and analyst reports. While we expect this pricing environment to be transitory, current modeling suggests that this situation will persist through 2026 and have a roughly 75 to 100 basis points negative impact on gross margins for the calendar year. As DRAM capacity additions accelerate over the next several quarters, we expect this cost dynamic to improve as we exit the calendar year, and we are modeling a return to a normalized pricing environment for our memory requirements in our longer-term business forecast.
+
+Considering this impact, coupled with product mix and volume expectations, we expect gross margins to be approximately 62%, plus or minus 50 basis points in calendar 2026.
+
+Operating expenses are forecasted to be approximately $645 million in the March quarter. For 2026, we continue to prioritize next-generation product development and company infrastructure investments to support expected revenue growth over the next several years. And we anticipate these expenses to grow by roughly $15 million sequentially throughout the year. Our business model is designed to deliver 40% to 50% incremental operating margin leverage on revenue growth over the long run. Other model assumptions include other income and expense net of approximately $25 million for the March quarter, and expected to remain at this quarterly level for the calendar year. For taxes, our established practice is to provide an effective tax rate assumption for the calendar year when providing guidance for the March quarter.
+
+Given expectations of geographic distribution of revenue and profit, Pillar 2 adoption and recent tax changes in the United States, the planning tax rate for 2026 is 14.5%. We would expect some quarter-to-quarter tax rate variance due to discrete items. For the March quarter, non-GAAP diluted EPS is expected to be $9.08 plus or minus $0.78 and GAAP diluted EPS is expected to be $8.85 plus or minus $0.78. EPS guidance is based on a fully diluted share count of approximately 131.7 million shares.
+
+In conclusion, our near-term revenue guidance reflects consistent growth and relative strength. We expect to outperform the market in 2026 driven by multiple tailwinds driving rising process control intensity and growth in advanced packaging. KLA continues to focus on delivering a differentiated product portfolio that addresses customers' technology road map requirements and production efficiency objectives, which are driving our longer-term relevance and growth expectations. The KLA operating model guides our best-in-class execution. Our focus on customer success, innovative solutions and operational excellence drives industry-leading financial performance enabling us to return capital consistently and predictably.
+
+KLA's business is uniquely positioned to capitalize on today's technology inflections and growth drivers. We are encouraged by strengthening customer confidence and engagement, which informs our business forecast. The long-term secular trends driving semiconductor industry demand and investments in WFE and advanced packaging are compelling and represent a relative performance opportunity for KLA over the next several years. KLA's business has gone from being primarily indexed to leading-edge R&D investment and fab capacity ramp to now addressing all growth phases in WFE and advanced packaging, enabling leading-edge process development, time to results in fast capacity ramps and optimizing yield in a high-volume production environment.
+
+In addition, the growing investment in custom silicon, particularly among hyperscalers developing their own custom chips has led to a proliferation of new higher-value design starts and increased demand on our customers to deliver performance, volume and time to market. As design mix and complexity grows, so does the need for advanced process control. As a result, KLA has seen consistent growth in process control intensity as each new chip design requires rigorous inspection, metrology and yield optimization solutions. KLA is uniquely positioned to benefit from these trends, to expand our market leadership and deliver differentiated value to our customers. That concludes our prepared remarks. Kevin, please begin the Q&A.
+
+Kevin Kessel
+Vice President of Investor Relations
+
+Thank you, Bren. Operator, can you please provide the instructions and begin the Q&A session.
+
