@@ -2,10 +2,8 @@
 __pycache__/
 *.pyc
 
-# Secrets and executables
-generator/earningscall_generator.py
+# Generator (not for public hosting)
+generator/
 
 .env
 venv/
-# Optional: raw data
-generator/*.txt
