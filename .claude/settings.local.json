@@ -4,7 +4,14 @@
       "Bash(git rm:*)",
       "Bash(git add:*)",
       "Bash(git commit -m \"$\\(cat <<''EOF''\nRemove generator folder from public repo and add to .gitignore\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
-      "Bash(git push)"
+      "Bash(git push)",
+      "Bash(venv/Scripts/pip list:*)",
+      "Bash(venv/Scripts/pip.exe list:*)",
+      "Bash(./venv/Scripts/pip.exe list:*)",
+      "Bash(./venv/Scripts/pip.exe install:*)",
+      "Bash(../venv/Scripts/python.exe:*)",
+      "Bash(PYTHONIOENCODING=utf-8 ../venv/Scripts/python.exe:*)",
+      "Bash(./venv/Scripts/python.exe:*)"
     ]
   }
 }
