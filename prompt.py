@@ -69,10 +69,10 @@ SUMMARY_PROMPT = """You are a corporate earnings analyst focused on quarterly/an
 - 회사명이 복수로 등장하면, 실적 발표 주체(보고서 발행 회사) 기준으로 1개만 선택
 
 출력 시작:
-{회사명} 분기 FY25 실적 발표
+{회사명} {원문에 명시된 분기 및 회계연도 — 예: FQ1 2026, Q1 FY2026, 1Q26 등 원문 표기 그대로} 실적 발표
 YYYY년 M월 D일
 
-[ 리포트 요약 ]
+[ Presentation 요약 ]
 
 매출 $X.XB 또는 ¥X,XXX.XB (+X.X% YoY)
 - 주요 성장 동력 1-2줄 (제품/채널/지역/프로모션/가격 등 구체 요소 + 수치 포함)
@@ -100,7 +100,7 @@ OPM X.X% (전년 대비 +/-X.Xp)
 
 [ 가이던스 요약 ]
 
-Guidance FY20XX (updated 또는 신규 발표)
+Guidance {원문에 명시된 가이던스 기간 그대로 — 예: Q2 FY2026, 2H FY25, FY2025 등} (updated 또는 신규 발표)
 - 항목명 수치 또는 범위 vs. 기존 수치 [상향/하향/유지/신규]
 - 항목명 수치 또는 범위 vs. 기존 수치 [상향/하향/유지/신규]
 
