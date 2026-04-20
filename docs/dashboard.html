@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Earnings Dashboard</title>
+<style>
+  :root {
+    --bg: #f7f8fa;
+    --surface: #ffffff;
+    --border: #e5e7eb;
+    --accent: #2563eb;
+    --accent-bg: #eff6ff;
+    --green: #16a34a;
+    --green-bg: #f0fdf4;
+    --purple: #7c3aed;
+    --purple-bg: #f5f3ff;
+    --muted: #6b7280;
+    --text: #111827;
+    --font: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: var(--font); min-height: 100vh; }
+
+  nav {
+    background: var(--surface); border-bottom: 1px solid var(--border);
+    padding: 0 32px; display: flex; align-items: center; justify-content: space-between;
+    height: 52px; position: sticky; top: 0; z-index: 50;
+  }
+  .nav-brand { font-size: 15px; font-weight: 700; color: var(--text); text-decoration: none; }
+  .nav-brand span { color: var(--accent); }
+  .nav-link { font-size: 13px; color: var(--muted); text-decoration: none; transition: color 0.15s; }
+  .nav-link:hover { color: var(--accent); }
+
+  .hero {
+    background: var(--surface); border-bottom: 1px solid var(--border);
+    padding: 36px 32px 28px;
+  }
+  .hero h1 { font-size: 22px; font-weight: 700; margin-bottom: 6px; }
+  .hero p { font-size: 14px; color: var(--muted); margin-bottom: 20px; }
+
+  .search-wrap { display: flex; gap: 8px; max-width: 480px; }
+  .search-input {
+    flex: 1; padding: 10px 14px; border: 1.5px solid var(--border);
+    border-radius: 8px; font-size: 14px; outline: none;
+    transition: border-color 0.2s; background: var(--bg);
+  }
+  .search-input:focus { border-color: var(--accent); background: #fff; }
+  .search-btn {
+    padding: 10px 20px; background: var(--accent); color: #fff;
+    border: none; border-radius: 8px; font-size: 14px; font-weight: 500;
+    cursor: pointer; transition: background 0.15s;
+  }
+  .search-btn:hover { background: #1d4ed8; }
+
+  .content { max-width: 960px; margin: 0 auto; padding: 28px 32px; }
+  .section-label {
+    font-size: 11px; font-weight: 600; color: var(--muted);
+    text-transform: uppercase; letter-spacing: 0.6px; margin-bottom: 12px;
+  }
+
+  .result-card {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 10px; overflow: hidden; margin-bottom: 24px;
+  }
+  .result-header {
+    padding: 16px 20px; border-bottom: 1px solid var(--border);
+    display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+  }
+  .ticker-pill {
+    background: var(--accent-bg); color: var(--accent);
+    font-weight: 700; font-size: 14px; padding: 4px 10px; border-radius: 6px;
+  }
+  .company-name { font-size: 14px; font-weight: 500; }
+  .quarter-count { font-size: 12px; color: var(--muted); margin-left: auto; }
+
+  .quarter-row {
+    display: flex; align-items: center; padding: 12px 20px;
+    border-bottom: 1px solid var(--border); gap: 12px; flex-wrap: wrap;
+    transition: background 0.1s;
+  }
+  .quarter-row:last-child { border-bottom: none; }
+  .quarter-row:hover { background: var(--bg); }
+  .q-label { font-size: 13px; font-weight: 500; min-width: 80px; }
+  .q-date { font-size: 12px; color: var(--muted); min-width: 90px; }
+  .q-title { font-size: 12px; color: var(--muted); flex: 1; }
+  .q-actions { display: flex; gap: 6px; align-items: center; margin-left: auto; }
+
+  .q-link {
+    display: inline-flex; align-items: center; gap: 4px;
+    padding: 5px 12px; border-radius: 6px; font-size: 12px; font-weight: 500;
+    text-decoration: none; transition: all 0.15s; white-space: nowrap; cursor: pointer; border: none;
+  }
+  .q-link.available { background: var(--green-bg); color: var(--green); border: 1px solid #bbf7d0; }
+  .q-link.available:hover { background: #dcfce7; }
+  .q-link.unavailable { background: var(--bg); color: var(--muted); border: 1px solid var(--border); pointer-events: none; opacity: 0.6; }
+  .q-link.run-btn { background: var(--purple-bg); color: var(--purple); border: 1px solid #ddd6fe; }
+  .q-link.run-btn:hover { background: #ede9fe; }
+  .q-link.run-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+  .q-badge-new {
+    background: #fef3c7; color: #d97706;
+    font-size: 10px; font-weight: 600; padding: 2px 6px; border-radius: 4px;
+  }
+
+  .featured-grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+    gap: 8px; margin-bottom: 28px;
+  }
+  .featured-chip {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 8px; padding: 10px 14px; cursor: pointer;
+    transition: all 0.15s; text-align: center;
+  }
+  .featured-chip:hover { border-color: var(--accent); background: var(--accent-bg); }
+  .chip-ticker { font-size: 13px; font-weight: 700; color: var(--accent); }
+  .chip-name { font-size: 11px; color: var(--muted); margin-top: 2px; }
+
+  .spinner {
+    display: inline-block; width: 14px; height: 14px;
+    border: 2px solid var(--border); border-top-color: var(--accent);
+    border-radius: 50%; animation: spin 0.7s linear infinite;
+  }
+  .spinner-sm {
+    display: inline-block; width: 10px; height: 10px;
+    border: 1.5px solid #ddd6fe; border-top-color: var(--purple);
+    border-radius: 50%; animation: spin 0.7s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .loading-row { display: flex; align-items: center; gap: 10px; padding: 20px; color: var(--muted); font-size: 13px; }
+  .error-msg { padding: 16px 20px; color: #dc2626; font-size: 13px; }
+  .empty-msg { padding: 20px; color: var(--muted); font-size: 13px; }
+
+  /* MODAL */
+  .modal-overlay {
+    display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.5);
+    z-index: 200; align-items: center; justify-content: center;
+  }
+  .modal-overlay.open { display: flex; }
+  .modal {
+    background: #0f1117; border-radius: 12px; width: 640px; max-width: 95vw;
+    max-height: 80vh; display: flex; flex-direction: column;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+  }
+  .modal-header {
+    padding: 16px 20px; border-bottom: 1px solid #2a2d3a;
+    display: flex; align-items: center; justify-content: space-between;
+  }
+  .modal-title { font-size: 13px; font-weight: 600; color: #e0e2ea; }
+  .modal-status { font-size: 11px; color: #6b7280; }
+  .modal-close {
+    background: none; border: none; color: #6b7280; font-size: 20px;
+    cursor: pointer; line-height: 1; padding: 2px 6px; border-radius: 4px;
+  }
+  .modal-close:hover { color: #e0e2ea; background: #2a2d3a; }
+  .modal-log {
+    flex: 1; overflow-y: auto; padding: 14px 18px;
+    font-family: 'SF Mono', 'Fira Code', monospace; font-size: 11.5px;
+    line-height: 1.8; color: #94a3b8;
+  }
+  .log-line { white-space: pre-wrap; word-break: break-all; }
+  .log-line.ok { color: #4ade80; }
+  .log-line.err { color: #f87171; }
+  .log-line.info { color: #60a5fa; }
+
+  /* LOCAL SERVER NOTICE */
+  .notice {
+    background: #fffbeb; border: 1px solid #fde68a; border-radius: 8px;
+    padding: 12px 16px; font-size: 12px; color: #92400e; margin-bottom: 20px;
+    display: none;
+  }
+  .notice.show { display: block; }
+
+  ::-webkit-scrollbar { width: 4px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: #2a2d3a; border-radius: 2px; }
+</style>
+</head>
+<body>
+
+<nav>
+  <a class="nav-brand" href="index.html">Earnings <span>Transcripts</span></a>
+  <a class="nav-link" href="index.html">← 전체 목록</a>
+</nav>
+
+<div class="hero">
+  <div style="max-width:960px;margin:0 auto">
+    <h1>Earnings Dashboard</h1>
+    <p>기업 티커를 검색해 최신 실적 발표 분기와 번역 자료를 확인하세요.</p>
+    <div class="search-wrap">
+      <input class="search-input" id="searchInput" placeholder="티커 입력 (예: AAPL, MSFT, NVDA)"
+             onkeydown="if(event.key==='Enter') doSearch()" autocomplete="off" autocapitalize="characters" />
+      <button class="search-btn" onclick="doSearch()">검색</button>
+    </div>
+  </div>
+</div>
+
+<div class="content">
+  <div id="searchResult"></div>
+
+  <div class="section-label">자주 찾는 기업</div>
+  <div class="featured-grid" id="featuredGrid"></div>
+</div>
+
+<!-- LOG MODAL -->
+<div class="modal-overlay" id="modalOverlay">
+  <div class="modal">
+    <div class="modal-header">
+      <span class="modal-title" id="modalTitle">Pipeline Log</span>
+      <span class="modal-status" id="modalStatus">실행 중...</span>
+      <button class="modal-close" onclick="closeModal()">×</button>
+    </div>
+    <div class="modal-log" id="modalLog"></div>
+  </div>
+</div>
+
+<!-- SERVER NOTICE -->
+<div class="notice" id="serverNotice">
+  ⚠️ 로컬 서버에 연결할 수 없습니다. <code>python generator/dashboard_server.py</code> 를 먼저 실행해주세요.
+</div>
+
+<script>
+const EC2 = 'http://3.35.136.127';
+const LOCAL = 'http://localhost:5100';
+const SITE = 'https://vanillefatale.github.io/earnings-transcripts';
+
+const FEATURED = [
+  { ticker: 'AAPL',  name: 'Apple' },
+  { ticker: 'MSFT',  name: 'Microsoft' },
+  { ticker: 'NVDA',  name: 'NVIDIA' },
+  { ticker: 'META',  name: 'Meta' },
+  { ticker: 'GOOGL', name: 'Alphabet' },
+  { ticker: 'AMZN',  name: 'Amazon' },
+  { ticker: 'TSLA',  name: 'Tesla' },
+  { ticker: 'NFLX',  name: 'Netflix' },
+  { ticker: 'TSM',   name: 'TSMC' },
+  { ticker: 'ASML',  name: 'ASML' },
+  { ticker: 'LEVI',  name: "Levi's" },
+  { ticker: 'HERM',  name: 'Hermès' },
+];
+
+function quarterToDir(quarter) {
+  const m = quarter.match(/Q(\d)\s+(\d{4})/i);
+  if (!m) return null;
+  return `${m[1]}Q${m[2].slice(2)}`;
+}
+
+function buildUrl(ticker, quarter) {
+  const dir = quarterToDir(quarter);
+  if (!dir) return null;
+  return `${SITE}/translated/${dir}/${ticker}_${dir}_translated_output.html`;
+}
+
+async function checkExists(url) {
+  try { const r = await fetch(url, { method: 'HEAD' }); return r.ok; }
+  catch { return false; }
+}
+
+function isRecent(d) {
+  if (!d) return false;
+  return (Date.now() - new Date(d).getTime()) / 86400000 <= 60;
+}
+
+async function fetchAndRender(symbol) {
+  const container = document.getElementById('searchResult');
+  symbol = symbol.trim().toUpperCase();
+  if (!symbol) return;
+
+  container.innerHTML = `<div class="result-card"><div class="loading-row"><div class="spinner"></div> ${symbol} 조회 중...</div></div>`;
+
+  let quarters;
+  try {
+    const res = await fetch(`${EC2}/api/transcript/list?symbol=${encodeURIComponent(symbol)}`);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const all = await res.json();
+    quarters = all.filter(q => q.quarter && /^Q\d \d{4}$/.test(q.quarter));
+  } catch(e) {
+    container.innerHTML = `<div class="result-card"><div class="error-msg">조회 실패: ${e.message}</div></div>`;
+    return;
+  }
+
+  if (!quarters.length) {
+    container.innerHTML = `<div class="result-card"><div class="empty-msg">${symbol} 데이터가 없습니다.</div></div>`;
+    return;
+  }
+
+  const recent8 = quarters.slice(0, 8);
+  const checks = await Promise.all(
+    recent8.map(q => {
+      const url = buildUrl(symbol, q.quarter);
+      return url ? checkExists(url).then(ok => ({ ...q, url, exists: ok })) : Promise.resolve({ ...q, url: null, exists: false });
+    })
+  );
+
+  const rows = checks.map(q => `
+    <div class="quarter-row">
+      <span class="q-label">${q.quarter}</span>
+      <span class="q-date">${q.date || '—'}</span>
+      <span class="q-title">${q.title !== q.quarter ? q.title : ''}</span>
+      ${isRecent(q.date) ? '<span class="q-badge-new">NEW</span>' : ''}
+      <div class="q-actions">
+        ${q.exists
+          ? `<a class="q-link available" href="${q.url}" target="_blank">번역본 보기 ↗</a>`
+          : `<span class="q-link unavailable">번역본 없음</span>`
+        }
+        <button class="q-link run-btn" onclick="runPipeline('${symbol}', '${q.quarter}', this)">
+          요약하기
+        </button>
+      </div>
+    </div>`).join('');
+
+  const olderCount = quarters.length - 8;
+  const olderRow = olderCount > 0
+    ? `<div class="quarter-row" style="color:var(--muted);font-size:12px">외 ${olderCount}개 분기</div>`
+    : '';
+
+  container.innerHTML = `
+    <div class="section-label">검색 결과</div>
+    <div class="result-card">
+      <div class="result-header">
+        <span class="ticker-pill">${symbol}</span>
+        <span class="company-name">${quarters[0]?.title || ''}</span>
+        <span class="quarter-count">총 ${quarters.length}개 분기</span>
+      </div>
+      <div class="quarter-list">${rows}${olderRow}</div>
+    </div>`;
+}
+
+async function runPipeline(symbol, quarter, btn) {
+  // 로컬 서버 상태 확인
+  try {
+    await fetch(`${LOCAL}/api/watched`, { method: 'GET', mode: 'cors', signal: AbortSignal.timeout(2000) });
+  } catch {
+    document.getElementById('serverNotice').classList.add('show');
+    document.getElementById('serverNotice').scrollIntoView({ behavior: 'smooth' });
+    return;
+  }
+
+  document.getElementById('serverNotice').classList.remove('show');
+  openModal(symbol, quarter);
+
+  btn.disabled = true;
+  btn.innerHTML = '<span class="spinner-sm"></span> 실행 중...';
+
+  const logEl = document.getElementById('modalLog');
+  logEl.innerHTML = `<div class="log-line info">▶ ${symbol} ${quarter} 파이프라인 시작...</div>`;
+
+  try {
+    const res = await fetch(`${LOCAL}/api/run`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ symbol, quarter }),
+      mode: 'cors',
+    });
+
+    const reader = res.body.getReader();
+    const dec = new TextDecoder();
+    let buf = '';
+
+    while (true) {
+      const { done, value } = await reader.read();
+      if (done) break;
+      buf += dec.decode(value);
+      const lines = buf.split('\n');
+      buf = lines.pop();
+
+      for (const line of lines) {
+        if (!line.startsWith('data: ')) continue;
+        const msg = line.slice(6);
+        if (msg === '__DONE__') {
+          document.getElementById('modalStatus').textContent = '완료';
+          btn.disabled = false;
+          btn.innerHTML = '요약하기';
+          break;
+        }
+        const div = document.createElement('div');
+        div.className = 'log-line';
+        if (msg.includes('완료') || msg.includes('✅') || msg.includes('ok')) div.classList.add('ok');
+        else if (msg.includes('오류') || msg.includes('Error')) div.classList.add('err');
+        else if (msg.match(/\[EC2\]|\[split\]|\[번역\]|\[HTML\]|\[요약\]|\[Telegram\]/)) div.classList.add('info');
+        div.textContent = msg;
+        logEl.appendChild(div);
+        logEl.scrollTop = logEl.scrollHeight;
+      }
+    }
+  } catch(e) {
+    logEl.innerHTML += `<div class="log-line err">연결 오류: ${e.message}</div>`;
+    btn.disabled = false;
+    btn.innerHTML = '요약하기';
+  }
+}
+
+function openModal(symbol, quarter) {
+  document.getElementById('modalTitle').textContent = `${symbol} ${quarter}`;
+  document.getElementById('modalStatus').textContent = '실행 중...';
+  document.getElementById('modalLog').innerHTML = '';
+  document.getElementById('modalOverlay').classList.add('open');
+}
+
+function closeModal() {
+  document.getElementById('modalOverlay').classList.remove('open');
+}
+
+document.getElementById('modalOverlay').addEventListener('click', e => {
+  if (e.target === e.currentTarget) closeModal();
+});
+
+function doSearch() {
+  fetchAndRender(document.getElementById('searchInput').value);
+}
+
+document.getElementById('featuredGrid').innerHTML = FEATURED.map(f => `
+  <div class="featured-chip" onclick="document.getElementById('searchInput').value='${f.ticker}'; fetchAndRender('${f.ticker}')">
+    <div class="chip-ticker">${f.ticker}</div>
+    <div class="chip-name">${f.name}</div>
+  </div>`).join('');
+</script>
+</body>
+</html>
